@@ -1181,3 +1181,156 @@ Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-
 Restore fides/credere philology and distinguish theological faith, testimony, confidence, reliance and institutional trust.
 
 **Depth Restoration: enriched; experimental/historical debts retained.**
+
+## submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md
+
+### displaced block 1
+
+**Argument consumers:** A11–A13, A18, A34, A36. **Movement consumers:** Two Ones, Mono/Poly, Dia/Syn, eightfold and final zero movements.
+
+### displaced block 2
+
+**Etymology relation:** *Symbol / Account / Trust*; exact operation: [the local mark remains an account answerable to a source-office it does not own](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source). Register **3**. Return C49 → A11 → C50/A13 → C61/A18 → C49.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor's QL/Core Theorem corpus primary; formal number constructions and non-dual traditions are neighbours/warrants only.
+
+### displaced block 4
+
+### Provenance
+
+Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore the complete theorem derivation and distinguish QL office notation from arithmetic semantics at every transition.
+
+**Depth Restoration: enriched; exact external attribution debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md
+
+### displaced block 1
+
+**Argument consumers:** A12–A18, A21, A24, A33, A36. **Movement consumers:** Dia/Syn theorem and computational process movements.
+
+### displaced block 2
+
+**Etymology relation:** *Homologia / Analogia*; consumed operation: differentiated terms remain related through agreement/proportional correspondence. Register **3**; Greek *dia-*/*syn-* and *ballein* histories require independent **1/2** warrant. Return C50 → A13 → C23/C24 → C50.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor formal grammar primary; Greek lexical materials and computational analogues remain source-distinct.
+
+### displaced block 4
+
+### Provenance
+
+Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore exact formal derivations and philological history of dia-/syn-/ballein without etymological overreach.
+
+**Depth Restoration: enriched; exact external attribution debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md
+
+### displaced block 1
+
+**Argument consumers:** A06, A14, A35–A36. **Movement consumers:** Vāk/Logos, vocation, six-product Objective Internality and final return movements.
+
+### displaced block 2
+
+**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere*. Exact branch: **Logos** retains attested word/account/reason senses under register **2**; **Epi-Logos** is authorial relational growth under register **3/4** where morphology/phonic return is consciously used. The separate `παράδειγμα / παραδείκνυμι` field qualifies the paradigm relation under register **2→3**: pattern/model and side-by-side comparison become an authorial operational resonance, not an ancestry claim. What changes: reason becomes recursively answerable to its own account and an enacted pattern becomes answerable to its explicit articulation. Return C51 → A35 → C56/C59 → C41 → C51.
+
+### displaced block 3
+
+**Source/tradition standing:** Greek Logos histories and Taylor Epi-Logos formation must remain clearly distinguished; Śaiva Vāk and Greek paradigm lexicon are comparative/qualifying fields.
+
+### displaced block 4
+
+### Provenance
+
+Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) records the explicit extension developed during T25/R3. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore exact Greek Logos lexical history and authorial formation chronology; separate prefix morphology from philosophical operation. Carry the paradigm-return into the final section-flow review and distinguish inspectable structure from its expressive projection and lived enactment.
+
+**Depth Restoration: enriched; paradigm/Epi-Logos office restored; exact external attribution debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md
+
+### displaced block 1
+
+**Argument consumers:** A10, A16–A18, A36. **Movement consumers:** zero, torus/topology, eightfold and final return.
+
+### displaced block 2
+
+**Etymology relation:** *Homologia / Analogia* only at register **3**: different mathematical/formal examples are compared by the operation of reframing, not by shared historical essence. Return C52 → A17 → C64/A36 → C52.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor formal research plus local mathematics/topology sources; every mathematical example retains its own theorem conditions.
+
+### displaced block 4
+
+### Provenance
+
+Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
+
+[Kaplan](../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md) supplies distinct worked constructions at citation-ready/no-verified-quotation standing; [Colebrooke](../sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md) supplies selected primary translation passages; [Dutta](../sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) supplies the changed-law corrective. Exact topological/projective source expositions remain separate formal-control tasks.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore exact mathematical examples and distinguish limit, singularity, compactification, coordinate change and dimensional extension.
+
+**Depth Restoration: enriched; exact external attribution debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md
+
+### displaced block 1
+
+**Depth Restoration:** restored product-up/consequence-down asymmetry, criterion-revising return and the public-work/hidden-decision inversion from A25/A28/A29/A30/A33/A35's recovered field and direct QH/Q27 carriers. No identity change.
+
+### displaced block 2
+
+**Unresolved Delta:** political-economic histories, actual AI supply chains and implemented cases remain Open. Delegation, automation, extraction, exchange and gift must be distinguished in those cases; this page does not assign them one mechanism by vocabulary alone.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md
+
+### displaced block 1
+
+**Depth Restoration:** local stewardship within common conditions, hidden combination, practical sovereignty and revisable nested governance are restored from A12/A29/A35's depth field and the direct Q27/QH institutional development. No ownership regime or product identity is created.
+
+### displaced block 2
+
+**Unresolved Delta:** concrete ownership arrangements, infrastructural dependencies, implementation outcomes and political-economic histories remain source-specific work. Non-monopoly is the argued relation; the affiliated architecture remains a proposal.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md
+
+### displaced block 1
+
+**Consumers:** A32–A35; the AHI/reflection, Agentworld, six-product and planetary-return movements. **Depth Restoration:** three motions, causal distinctions, institutional return and paradigm-disclosure restored from existing A32–A35 packets, the direct P1 passage, protected Chang encounter, ratified QH and T25 paradigm development. The former missing-Reflection-paper claim is replaced by these actual recovered carriers. A separately identified publication under that title, exact external quotation and empirical success remain Open.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md
+
+### displaced block 1
+
+**Consumers:** A31, A35–A36 and their compassion/vocation, cultural, paradigmatic and planetary-return movements. **Depth Restoration:** loving orientation, motive/orientation/humility triad, technical body, justified refusal, released offering, paradigmatic ethics and non-usurping source-return restored from existing packets, direct carriers and the T25 Antichrist/Power refinement. The historical compassion Concept remains provenance, untouched. Independent ethical genealogies and public quotation collation remain Open; the argued vocation retains its full force.
