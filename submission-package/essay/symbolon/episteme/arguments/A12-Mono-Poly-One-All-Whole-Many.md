@@ -48,7 +48,7 @@ Retained signed polarity, `(-1)/(+1)`, still has an axis and a relation; conflic
 ## #5→0
 
 
-The [authored hive/colony comparison](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) **figures** coordination through recurrent relations among partial capacities and their environment. No member contains the entire pattern, yet the pattern does not abolish its local centres. [A30](A30-Objective-Co-Internality.md) carries the reciprocal consequence: collective adaptation can widen correction or consolidate capture, so distributed organisation alone establishes neither benevolence nor a collective phenomenal subject.
+The [authored hive/colony comparison](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) figures coordination through recurrent relations among partial capacities and their environment. No member contains the entire pattern, yet the pattern does not abolish its local centres. [Objective Co-Internality](A30-Objective-Co-Internality.md) carries the reciprocal consequence: collective adaptation can widen correction or consolidate capture depending on whether local differences can still alter the shared field. Distributed organisation therefore matters through the relations it sustains, not because it must be promoted into another singular proprietor of the whole.
 
 The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** both aspects of Mono: the net includes real jewels, while each jewel’s comprehensive appearance depends on their constitutive participation. Following the selected reflection returns through the others to this one. Local wholeness therefore retains the wider relation through which it has that office.
 
