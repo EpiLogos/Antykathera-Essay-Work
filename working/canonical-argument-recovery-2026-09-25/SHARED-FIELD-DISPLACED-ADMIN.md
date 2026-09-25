@@ -1738,3 +1738,53 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 3
 
 **Unresolved Delta:** the p. 4 corridors passage and the §7.3 passage lack their own source-house cards — a source-house task. Concrete cases of criterion-level correction in deployed stacks (a benchmark revised by challenge, a reward model's preference source surfaced and contested) remain Offered. The Prisoner refraction carries A24's existing audiovisual-locator debts and is not re-sourced here; lexical publication-grade verification of the Arbitration field remains its own task. The sentence relating the two corridors — the second as the first knowing itself as local — is this arc's harmonisation claim, stated once in #0 and flagged for the author's confirmation.
+
+## submission-package/essay/symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md
+
+### displaced block 1
+
+**Depth Restoration:** primary arbitration → typed office → composed scaffolds → challenge route → renewed commission is restored from A25's recovered covenant field, re-sited on the brief's institutional sections (§7.1, §7.5, FROM→TO). Developed from the ratified Arc IV workshop entry (WORKSHOP-DRAFT-2026-09-07 §2). The offices are C28/C29's; no new concept is created.
+
+### displaced block 2
+
+**Unresolved Delta:** the FROM→TO rows (p. 56) and §7.1/§7.5 (pp. 34–35) are used from the verified local transcription but lack q-cards in the brief's source house — a collation debt flagged for the source agent, not repairable from this side. Implemented agent institutions, the concrete form of a challenge route, and covenant histories beyond A25's own debts remain Open. The typed-authority architecture is Offered as design until an inspectable instance exists.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md
+
+### displaced block 1
+
+**Unresolved Delta:** §9.7 (p. 46) and Q14 (p. 57) are used from the verified local transcription and lack q-cards — a source-house collation debt. The oscillation between productive and reactive alienation as an empirical matter, and any claim about actual prevalence of either mode, remain the venue's and the essay's Open questions.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md
+
+### displaced block 1
+
+**Depth Restoration:** authored-before-occupied, layered orchestration, ground/disclosure separation, real judgment within scope and returned difference are restored from A28's packet, the ethic's intention offices and the brief's §6.3/q026/q032 instances. Developed from the ratified Arc IV workshop entry (WORKSHOP-DRAFT-2026-09-07 §2). The office sentences are consumed through the root as ruled by PASS2-CHARTER ruling 1 — A/C as the full `0/1` field whose determination this series is — not from any specific root passage; the specialist's root rewrite lands in parallel.
+
+### displaced block 2
+
+**Unresolved Delta:** §6.3 (p. 29) is used from the verified local transcription and lacks a q-card — a source-house collation debt. The concrete form of ground-disclosure (which parts of a profile become operative, under what provenance marking) is an Offered design consequence, not a described implementation. Delegation cases and measured outcomes remain Open, as at A28.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md
+
+### displaced block 1
+
+**Depth Restoration:** product-up/consequence-down asymmetry, the R16.4 return list, the Work/Play and scapegoat accounting, and the practical-sovereignty verbs are restored from A29's packet and re-sited on the brief's crossover and delegation rows. Developed from the ratified Arc IV workshop entry (WORKSHOP-DRAFT-2026-09-07 §2). No empirical exploitation case is asserted; the venue's crossover claims keep their scenario standing and uneven-distribution marker.
+
+### displaced block 2
+
+**Unresolved Delta:** the p. 56 FROM→TO rows and Q9 (p. 57) are used from the verified local transcription and lack q-cards — a source-house collation debt. Actual AI labour and infrastructure chains, the machine-to-machine return architecture, and measured attribution mechanisms remain Open, as at A29. Whether any existing deployment completes the return-leg is an empirical question this argument does not answer.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md
+
+### displaced block 1
+
+**Depth Restoration:** niche-reciprocity, the corridor's two horns, non-reducibility as epistemic condition, retained grounds and refusal are restored from A30's packet and R16.7, re-sited on the brief's p. 4 ecology and §9.2. Developed from the ratified Arc IV workshop entry (WORKSHOP-DRAFT-2026-09-07 §2). The venue's scenarios keep their modal rider.
+
+### displaced block 2
+
+**Unresolved Delta:** the p. 4 ecology sentence and §9.2 (p. 44) are used from the verified local transcription and lack q-cards — a source-house collation debt. Evaluated federation cases, the concrete form of inter-world refusal, and the essay's own distributed-cognition source debts (Bohm, per A30) remain Open. Whether any actual deployment holds the corridor rather than one horn is an empirical question this node does not answer.
