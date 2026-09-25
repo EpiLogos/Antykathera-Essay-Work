@@ -15,7 +15,7 @@ source_relation: "Extracted internal derivation; Argued cross-register relation"
 
 A true account can make this circumstance more exact without exhausting what can appear within it. [AM/IS](AM-IS.md) grounds the personed relation: the one who lives and what can be said meet through an encounter. That encounter opens a horizon. Its present determination is real, and further determination remains possible through the very field in which it is real.
 
-`∞/dx` gives this relation its native sign. **∞** names the unbounded depth no finite mark contains. **dx** names the local differential through which change can become exact. The slash holds local precision in relation to inexhaustible depth. The expression's office is a QL determination; no ordinary numerical quotient of an infinite scalar by an infinitesimal is being calculated here.
+`∞/dx` gives this relation its sign. **∞** names the unbounded depth no finite mark contains. **dx** names the local differential through which change can become exact. The slash holds local precision in relation to inexhaustible depth: a finite difference can run true without becoming a numerical measure of the whole horizon that makes further difference possible.
 
 ## #1 — The instance becomes a difference
 
@@ -27,7 +27,7 @@ The whole is present in the way the local determination runs true to it. A claim
 
 ## #2 — What differentiation does not recover
 
-The [core-theorems spine](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), §II(c), gives this relation a specific calculus development. Differentiating a function removes an additive constant. For example,
+The relation becomes exact in the calculus development preserved by [Core Theorems — Pithy](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md). Differentiating a function removes an additive constant. For example,
 
 $$
 F(x)=x^2+7 \quad\Longrightarrow\quad F'(x)=2x.
