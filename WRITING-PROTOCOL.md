@@ -10,6 +10,14 @@ publication: repository-governance
 
 # The Return of Zero — Writing, Review, and Publication Protocol
 
+## Canonical argument recovery gate — 2026-09-25
+
+The current publication substrate is not accepted as a semantically faithful writing base. Before further manuscript quilting, execute [Canonical argument recovery](docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md) through the theorem-bearing Symbolon roots, the A/C field, their register-depth consumers, and the eight rooms / forty-eight movements.
+
+This is not another caution pass. The observed fault is substantive loss and false framing: direct authorial arguments have been compressed, explained away, administratively paraphrased, or reorganised around imagined objections. The recovery protocol therefore requires full-source reconstruction and treats current canonical prose as review material rather than presumptive authority.
+
+Its AI-consciousness rule is binding: a generic disclaimer that technical organisation "does not establish phenomenal subjectivity" may not be used as a standing guard or a substitute for the essay's actual subject/means/known/whole argument. Where subjectivity is in scope, make the argument about subjective immediacy and the limits of third-person possession; where it is not in scope, do not drag the question into the passage.
+
 ## Current execution addendum — 2026-09-16
 
 T25 R1–R5 are complete. R6 is the active truth-strength and authorial-return gate under the [Pre-manuscript refinement protocol](docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md), version `2026-09-10.1`, its [authorial minute](working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md), and the [R6 anti-anti-overclaim correction](working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md). Read those supplements before executing the present pre-writing wave. The [existing P2 handoff map](.wayfinder/maps/p2-enrichment-handoff.md) dispatches R1–R6 under **T25/#26**; **T26/#27** remains Frank's ratification of the resulting whole and one exact common writing base.
