@@ -47,7 +47,3 @@ The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WH
 A commons returns the means of relation to the lives and work which sustain it. Rules can be revised; participants can retain difference; an achieved account can be challenged without first granting the account sovereignty over its challenger. These conditions protect the possibility of trust. They do not manufacture the lived relation by recording it.
 
 [C59 — Cultural Individuation](C59-Cultural-Individuation-Epi-Logos-as-Culture.md) **extends** the passage from institutional arrangement into a culture able to recognise its own images and exclusions. [A35 — Compassion / Vocation](../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) **extends** the care which keeps origins consequential. C54 **returns-to** [A12](../arguments/A12-Mono-Poly-One-All-Whole-Many.md): shared unity remains effective through genuinely many offices, each retaining a source-relation it cannot monopolise.
-
-**Depth Restoration:** local stewardship within common conditions, hidden combination, practical sovereignty and revisable nested governance are restored from A12/A29/A35's depth field and the direct Q27/QH institutional development. No ownership regime or product identity is created.
-
-**Unresolved Delta:** concrete ownership arrangements, infrastructural dependencies, implementation outcomes and political-economic histories remain source-specific work. Non-monopoly is the argued relation; the affiliated architecture remains a proposal.
