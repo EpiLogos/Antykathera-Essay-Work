@@ -15,8 +15,6 @@ source_relation: "Extracted native Two-Ones derivation; Argued from authorial co
 [Argument field](README.md) · [Other face: A11′ — One Field, Two Faces](../conjugate/A11-prime-One-Field-Two-Faces.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 13 and live `19-two-ones-mono-poly-matheme.md` remain provenance.
-
 ## #0
 
 The primordial slash, `/ = −/−`, is relation before its terms have been assigned. The marks cannot first be collected as independently finished things and then related: their difference becomes legible through the relation. The Two Ones articulate this prior operation before Mono/Poly develops its ontological consequence and before Dia/Syn accounts for the differentiated field.
@@ -86,8 +84,6 @@ The achieved `1` returns to its condition with its determination intact. It rema
 **Consequences:** A12, A13, A16–A18, A34 and A36.
 
 **Etymology whole field:** *[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*. **Consumed operation:** a mark belongs to an account whose source-relation it cannot appropriate; the local `1` is answerable to the `0`-office without representing it exhaustively. **Evidence register:** 3, Operational homology. **What changes:** “one” splits into ground-unity and manifest-unity without becoming two unrelated substances. **Return route:** A11 → C49 → A12/A13 → A18 → A36 → A11.
-
-**Movement consumers:** the live carrier explicitly routes through the zero-role and eight-determination sequence (Movements 24–25) and supports the larger theorem braid.
 
 **Matheme:** `0/1`, `/ = −/−`, inverse `1/0`; **Mytheme:** One/All images and source/manifestation whole-relations; **Episteme:** number history and cross-traditional unity claims remain comparative warrants, not derivation.
 
