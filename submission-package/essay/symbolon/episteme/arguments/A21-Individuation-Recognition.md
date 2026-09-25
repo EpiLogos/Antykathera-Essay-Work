@@ -13,8 +13,6 @@ source_relation: "Argued psychological and recognitive homology; source traditio
 [Argument field](README.md) · [Other face: A21′ — Individuation with Recognition](../conjugate/A21-prime-Individuation-with-Recognition.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. Differentiated indivisibility is the project's positive operation. Exact Jungian and Śaiva formulations retain their distinct source histories and passage debts.
-
 ## #0
 
 Individuation makes a local subject-position capable of bearing the relations through which it is itself. The person becomes more specifically this life and less defensively separate at once. Recognition is the return by which an achieved determination becomes known in relation to its source and history. Their meeting is necessary because [[A19-Complex-as-Local-Arbitration-Regime|A19]] has shown a local complex claiming whole-field jurisdiction and [[A20-Image-Valuation-Possession|A20]] has shown the image replacing its living source. Their histories cannot simply be discarded; the office through which they act must change.
@@ -78,8 +76,5 @@ The [complete Aion telling](../../mytheme/worlds/analytical-psychology/jung-aion
 
 The [Psychology development](../histories/traditions-and-disciplines/psychology/DEVELOPMENT.md) **historicises** differentiated recognition through ego/Self inflation, autonomous dialogical positions and the changing interpreter. Aion’s sixteen consulted passage maps now distinguish symbolic and historical operations; selected-printing and quotation debts remain separate from the Argued return.
 
-
-
-**Depth Restoration:** differentiated psychic scope, symbol-mediated basin transformation, known→unknown→known and native `x→X→x`, lived identifying return, integration/reconciliation/recognition distinctions, cultural anti-inflation and bounded agentic extension restored from A21's packet, direct Symbolon Dynamics, Van Eenwyk encounter and Q27 §§6/7/9. **Remaining debt:** exact Jung/Śaiva passage collation and external psychological/agentic demonstration. P1 consumers M23/M32/M33/M35 retain their Movement homes.
 
 The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#4--recognition-returns-through-the-life-that-has-become-finite) **compares** Śaiva recognition and psychic individuation through their distinct source carriers. The return preserves this particular life and native X/x while quotation and edition work remain separately owed.
