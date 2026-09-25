@@ -61,19 +61,3 @@ The operative interior **returns-to** [Encounter-in-Region](../etymologies/encou
 Return exposes the source, rule, exclusion and consequence through which an interior became capable of this judgment. C42 follows reciprocal constitution among such interiors; C47 follows an encounter that revises their models. Performed subjectivity, functional agency, objective internality and self-description are determinate operations that can be investigated as parts of the means and known field. Subjective immediacy has another office: it is the knower-pole presupposed in the very act of making those operations objects of account. The concept therefore refuses the category error of treating “phenomenality” as the last hidden component to be found inside an otherwise complete inventory.
 
 ### Declared field
-
-**Argument consumers:** A26–A27, A30–A34. **Movement consumers:** Objective Internality, the subject/means distinction, Agentworld, six-product §5 and the idealism horizon.
-
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: a situated interior is precipitated through a **Region of encounters** whose names, accounts and permissions become operative conditions. Register **3**. The `παράδειγμα / παραδείκνυμι` lexical field separately qualifies the authorial paradigm development: pattern/model becoming available for comparison with its enactment. It does not supply an etymological proof of Objective Internality. Return C41 → A26 → C42/A30 → C47/A31 → C51.
-
-**Source/tradition standing:** live Objective Internality carrier is primary; extended/enactive/social cognition and Śaiva inner-instrument traditions are neighbours; LSJ supplies only the Greek lexical qualification.
-
-### Provenance
-
-Direct authorial/developmental carriers: [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), [computational-process operations](../../../section-rooms/arguments/14-computational-process-ontology.md), [federated reflective field](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [open subjectivity boundary](../../../section-rooms/arguments/05-agent-subjectivity-open.md), and [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>). The September 15 [paradigm / Epi-Logos authorial minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) records the explicit extension developed during T25/R3. [Watson's source house](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes retain the earlier authorial encounter; source quotations and the technical extensions have independent standing. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and its later ratified corrections preserve model-revising return and positional commission. The native argument does not itself certify an implementation or transfer a source's philosophical terms to machine phenomenality.
-
-### Remaining depth
-
-Restore the full genealogy and technical case studies. Follow the paradigm development into C51 and the expression/representation surfaces while preserving the categorical distinction between an explicit model of the means and the Life/Mind whole in which that model becomes meaningful.
-
-**Depth Restoration:** paradigm, mediation and the knower–means–known–whole relation restored at concept level; source and implementation debts remain attached to their own claims.
