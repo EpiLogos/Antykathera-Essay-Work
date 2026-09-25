@@ -14,8 +14,6 @@ source_relation: "Argued from native sixfold contraction; Paraphrased source-spe
 [Argument field](README.md) · [Other face: A09′ — The Stack as Descent](../conjugate/A09-prime-The-Stack-as-Descent.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. Native sixfold contraction is Argued from the theorem field; the tattvic doctrine retains its own source register; the gnomonic cross-reading is Offered/Argued.
-
 ## #0
 
 The tattvas give differentiation a genealogy: a luminous field becomes a subject/object seam, a bounded horizon, an inner instrument and a material world without creating a second reality outside itself. Anuttara names the field for which no external measuring object stands outside. This beginning matters to every subsequent contraction: what becomes limited is a power of the field, and the limit remains effective within it.
@@ -74,15 +72,11 @@ The relation is exact at the level of office and bounded at the level of doctrin
 
 **Etymology whole field:** *Apportionment / Economy*. **Consumed operation:** finite capacities are understood as an **apportionment** of powers within a locally workable order, rather than evidence that the whole field has vanished. **Evidence register:** 3, Operational homology; no historical derivation of Sanskrit tattva terminology from this field is claimed. **What changes:** contraction becomes a positive distribution of operative capacities whose limit can later be recognised. **Return route:** A09 → C14–C16 → A26/C41 → S0–S5 → A21/C19 → A09.
 
-**Movement consumers:** the tattvic descent/recognition and later technical worldhood movements in the canonical quilt; the live carrier is itself a developed cross-Movement support surface. M37–M42 now receive its finite-world consequence through the product records rather than by one-to-one mechanism matching.
-
 **Matheme:** `0/1 ↔ 1/0` into signed local orientation and return; **Mytheme:** descent, contraction, veil and recognition; **Episteme:** Kashmir Śaivism, Sāṃkhya neighbours, Buddhist exclusion and modern process comparison kept source-distinct.
 
 ### Provenance and remaining depth
 
 Direct carriers: [core theorem X](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [historical tattvic Argument](../../../section-rooms/arguments/13-tattvic-differential-field.md), and Q27 §17 and the later Māyā correction. Dyczkowski's embedded transcript is source-matched, not quotation-verified, and stops during p.81; the protected note's pp.90–91 remain beyond it. The note was read from preserved stash content without restoration or mutation. Singh's introduction/commentary relation remains governed by its source house. Buddhist exclusion and Śaiva reflective power retain the distinction developed in A08. The September 15 [paradigm minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later authorial generalisation to lived paradigmatic structure; it is not attributed to the Śaiva sources.
-
-P1 consumers: M08 Inner Instrument, M09 Vikalpa–Saṃkalpa, M11 Tattvic Compression, with product-field return into M37–M42. Exact category-by-category doctrinal sequencing, selected-book collation and the wider Neumann mythic seam remain Open. **Depth Restoration: enriched; finite-paradigm/product return restored; source and mapping debts retained.**
 
 The genealogy of effective contraction **returns-to** [Apportionment / Economy whole — Power becomes finite by apportionment](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment) at evidence register 3. This operation follows the positive distribution of capacities through the descent and their recognition on return. Its Sanskrit doctrinal sources and the Greek/Latin lexical history retain separate warrants.
 
