@@ -4,12 +4,11 @@ record_id: S3
 record_type: product
 register: episteme
 claim_status: Argued
-source_relation: Reconstituted from the authorised authorial minute, retained paired-lens reading, A/C primitive constitution and existing Objective Internality field after loss of the original transfer payload
+source_relation: "Argued from A/C, Objective Internality and the paired product-lens relation"
 source_ids:
   - taylor-2026-oi-product-field-commission
   - taylor-2026-core-theorems-pithy
   - taylor-2026-mef-twelve-lenses
-refinement_status: T25 reconstituted; independent R5 review and T26 ratification pending
 product_parent: S
 movement: 40
 mef_pair:
@@ -63,7 +62,9 @@ The alchemical image also guards against the fantasy of frictionless transformat
 
 ## #3 — Gate, Recognition and the authority to change the commission
 
-A/C’s local constitution makes the process technically addressable. **S3/P0** identifies Project, developmental actor and Run identity. **S3/P1** carries Artifact, Claim, Decision, Candidate and HumanRequest. **S3/P2** gives Method, Capability, Action, Commission and developmental praxis. **S3/P3** is Run, RunMap, ProjectMap, ProjectDevelopment, SourceIntegration and the active developmental frontier. **S3/P4** is Execution, Checkout, Gate, Application and candidate experience. **S3/P5** returns Evidence, Event, Trace, Recognition, Project Canon and returned Ground.
+Software Factory's local sixfold begins from **project and developmental identity**; takes form as **artifact, claim, decision, candidate and human request**; receives potency through **method, capability, action and commission**; becomes a developmental trajectory through **runs, maps, source integration and the active frontier**; reaches actuality through **execution, checkout, gates and candidate experience**; and returns through **evidence, events, traces, recognition and changed project ground**.
+
+The six turns make development more than artifact production. A candidate becomes meaningful through the commission and sources from which it arose, the transformation it underwent, the world in which it was tested, and the evidence that returns to change what the project can next become.
 
 The distinction between **Gate** and **Recognition** is load-bearing. A Gate decides whether a candidate satisfies a declared condition. Recognition asks what the encounter means for the conditions themselves. A test can correctly reject an implementation without deciding whether the design is wrong. A test can pass while a human encounter reveals that the task was misframed. Development becomes reflective only where those differences are preserved.
 
@@ -88,7 +89,3 @@ This is the positive meaning of return. The field does not circle back unchanged
 The wider Projecthood relation makes that inheritance reciprocal. A projected determination changes some part of the World into which it was thrown; the resulting consequence can disclose assumptions in the paradigm which projected it. Where that disclosure can alter the next developmental ground, Factory performs its transformative office at paradigm depth rather than merely producing another version of the same project. The project remains finite throughout: it can retain a holographic relation to its containing field without becoming the field's source.
 
 Factory therefore returns to [S — World and Life](S-World-and-Life.md) as Objective Internality’s aspect of **transformation**. Central carries what development inherits; Actuation gives the event in which work occurs; AIKit gives the powers brought to bear; Workcell gives the material situation and resistance; QL gives the relations through which a changed form can remain intelligible as part of a larger whole.
-
-### Standing
-
-This body reconstitutes the authorised R2 philosophical office from the retained authorial minute, paired-lens reading and canonical A/C S3 constitution. It also receives the R2 Projecthood correction without reducing that relation to software project management. It does not claim byte identity with the lost transfer. The independent R5 review must still test its full cross-register relations, technical standing and preservation of displaced §5 material before T26 ratification.
