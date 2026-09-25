@@ -1564,3 +1564,92 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 3
 
 **Unresolved Delta:** the FROM → TO matrix rows are uncarded in the source house. Whether specific deployed ecosystems exhibit the correlated-failure dynamic is an empirical question this page does not answer; the argument establishes the structural condition and the brief's own mechanism, not measured instances. Ostrom-sourced governance comparisons remain with the Commons concept.
+
+## submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A13 — Two Logics of Two — Dia/Syn](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md). The two-logics derivation is the partner's operation re-sited at orchestration. The authorial CSM lecture note (9 July 2026, line 31) discloses intent; it is not a source attribution. Brief material is **Paraphrased** and scenario-modal. C-ground: S/P2 → S/P5 — Participation → Return.
+
+### displaced block 2
+
+**Depth Restoration:** the musical reading of orchestration, managed conflict as productive dia, the shadow-not-body failure, the gathering-to-cut direction, and the divide/conquer ownership question are restored from the partner derivation, the CSM note as intent, and verified brief pages (§6.2–6.3, §7.3, q029/q030/q031/q039/q040; FROM → TO row verified against the local transcription, p. 56). Pass 2 moves the eros-of-logos junction out of the node per charter ruling 6 and references the pending A-candidacy.
+
+### displaced block 3
+
+**Unresolved Delta:** §6.2–6.3 and §7.3 are uncarded in the source house (verified against the local transcription). The [Eros of Logos](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md) junction's canonical standing belongs to the pending A-candidacy, not to this page. No claim that any deployed orchestration system currently instantiates the gathering; the argument states the condition and the direction, not an implementation report.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A14 — Computational Process Ontology](../arguments/A14-Computational-Process-Ontology.md). The process grammar is the partner's derived operation, here landing as the conjugate field's founding claim in its testable form. Brief material is **Paraphrased** and scenario-modal. C-ground: S2/P4 — HarnessComposition / SessionSpace.
+
+### displaced block 2
+
+**Depth Restoration:** process-priority in testable form (q038, q039, p. 55), the quotient grounding of code-as-logos (core §VIII — "the `/` in `ℝ²/ℤ²` is the `/` in `0/1`"), the six tests as engineering demands, alignment as same-relational-form (q040), and the arc-consequence structure are restored from the partner argument, core VIII/XI, A26, and verified brief passages. Pass 2 replaces the chat-derived framing with the quotient derivation.
+
+### displaced block 3
+
+**Unresolved Delta:** the p. 55 ensemble summary is uncarded (verified against the local transcription). Whether any deployed harness currently satisfies the six tests is an empirical question deliberately left open; this page states the grammar, not an implementation report.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A15-prime-The-Measure-Constitutes.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A15 — Ratio / Rationality](../arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md). The criterion/denominator discipline is the partner's argued operation re-sited at benchmarks, reward models and trust-metrics. Brief material is **Paraphrased** and scenario-modal. C-ground: S/P2 — Contribution, ranking as attributed and revisable.
+
+### displaced block 2
+
+**Depth Restoration:** constitution-not-report, the vanished denominator at benchmark grain, legibility/cooperation confusion, the undercount as discoverable scope, preference-training as cultural vector, and the positive publication burden are restored from the partner argument, the CSM note as intent, and verified brief passages (q024, q030, q031; §8.4 title verified against the local transcription). Pass 2 recomposes the prose from the argument outward.
+
+### displaced block 3
+
+**Unresolved Delta:** no particular benchmark, reward model or evaluation regime is named or empirically assessed — the argument establishes the constituting relation and the honesty condition, not measured cases. The CSM note is intent-grounding, never attribution. The deeper trust development belongs to A23′.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A16 — Arche-Topos as Differential Field](../arguments/A16-Arche-Topos-as-Differential-Field.md). The placing-argument is the partner's derived operation re-sited at the agent sensorium. Brief material is **Paraphrased** and scenario-modal. C-ground: S2/P4 · S4/P4 — SessionSpace; MaterialisedExecutionWorld.
+
+### displaced block 2
+
+**Depth Restoration:** sensorium as placing (not limitation), the addressable situation as being-placed, mutual niche-reconstruction, forking world-models as stained-glass panes, the structural failure of the universal camera, and placement-as-addressable are restored from the partner argument and verified brief passages (q001, q020, q029; §4.2 niche-reconstruction and forking verified against the local transcription, PDF p. 21). Pass 2 recomposes the prose from the argument outward.
+
+### displaced block 3
+
+**Unresolved Delta:** no claim that specific deployed sensoriums or world-model forks currently publish their placement — that is an implementation demand, not a report. The Atlas development belongs to A22′; physical-embodiment claims beyond the brief's scenario register are not established here.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A17 — Toroidal Circulation and the Arche-Topos](../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md). The circulation-with-retained-displacement operation is the partner's argued derivation re-sited at simulation relays. Brief material is **Paraphrased** and scenario-modal. C-ground: S4/P3 — Plan / Lifecycle / Reconcile.
+
+### displaced block 2
+
+**Depth Restoration:** the relay as toroidal body (figure, not literal shape), winding-as-provenance, periodic/dense flows mapped to retraining and adversarial economies, the chain of refraction, picture-possessing-its-world as the severed relay, and cyclic/telic return with reconciliation proceduralised are restored from the partner argument, musical-v3 §II-5.10, and verified brief passages (q022, q031; §5.3–5.4 and Q9 verified against the local transcription, PDF pp. 25–26, 57). Pass 2 recomposes the prose from the argument outward.
+
+### displaced block 3
+
+**Unresolved Delta:** Q9 and the §5.3–5.4 chain are uncarded in the source house (verified against the local transcription). Whether any deployed relay currently implements reconciliation as a lifecycle stage is open — this page states the demand and its formal image, not an implementation. The literal-topology question (whether any economy *is* a torus) is expressly not claimed; winding is formal image, as the partner insists.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md
+
+### displaced block 1
+
+**Standing:** promoted canonical conjugate argument; the prime face of [A18 — Primordial Symbolon and Its Eight Determinations](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md). **This node is developed by the Arc II agent from the recovered field — the workshop entry for A18′ was withdrawn by the author as filler — and pass 2 regrounds it on [PASS2-CHARTER ruling 2](../../../../../working/conjugate-field/PASS2-CHARTER.md); it carries the author's personal review.** The final section's description of the A′ array itself is **Offered**. Brief material is **Paraphrased** and scenario-modal. C-ground: the traversal crosses the whole primitive field; its return-switch is S5/P5 — Synthesis/Return, conformance evidence.
+
+### displaced block 2
+
+**Depth Restoration:** the (4+2)+2 organisation with its primordial and consequent essences (charter ruling 2; core spine II(b)–(c)), the Whitehead primordial/consequent refraction, the joints at technological grain (potentiality, instantiation, answerability, drives, capacity/instance, persona-address, horizon, return), the full §IX grounding of the Ø-counterfeit (charter ruling 3: crossed-zero sixfold, antaḥkaraṇa, set-theory floor, Lacan bridge, Descartes and Hume at #1), the counterfeit-joint diagnosis, and the recursive law against numerological reading are restored from the partner argument, the core spine, C22/C61, and verified brief anchors (q010, q016, q017, q023, q038, q039, q042; the fractal-alignment row verified against the local transcription, p. 56). The withdrawn workshop entry was not used; the node is derived from the recovered field per the author's ruling and regrounded per the charter.
+
+### displaced block 3
+
+**Unresolved Delta:** the self-description of the A′ array remains Offered; the [promotion notice](../../../../../working/conjugate-field/FLIPSIDE-PACKAGE.md) records the completed promotion of the 36 nodes and their root without erasing the local distinctions of claim standing. No deployed system is claimed to implement the traversal's inspectability; that is [A33′](A33-prime-Parity.md)'s empirical burden. The Whitehead refraction carries no quotation from the source house (locator-needed; no passages gathered) and claims no more than the named analogy. The Name/Power series’ technological face is developed above from A18 and the mature E6 operations. Actual expenditure, evaluator revision, affected response and return in a deployed system remain empirical tasks. The record and root were promoted on 2026-09-07; the separately Offered interpretation of the A′ array retains its stated standing.
