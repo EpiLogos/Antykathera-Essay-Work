@@ -40,7 +40,3 @@ The test becomes concrete under [[symbolon/episteme/concepts/C61-Symbolon-Disclo
 ## #5→0
 
 Psychoid Number returns exact number to a larger question without taking away calculation. [[A36-Advent-of-Integral-Zero|Integral Zero]] consumes this possibility as the sign's acquired symbolic life, while C30 retains the distinct historical/research office of the crossing. It is neither a replacement mathematics nor a verdict about how many subjects an artificial system contains.
-
-**Provenance and debt:** the existing A16–A19/A33/A36 depth recovery, full Jung–Pauli SOURCE and P0 notebook, and direct Symbolon Dynamics carry this development. The house’s pp.107/127/159 transcriptions retain source-matched status. The dossier recovers their speakers and contexts as Pauli 60P, 31 March 1953; Jung 64J, 24 October 1953; and Pauli 74P, June 1957. Selected-edition quotation wording remains uncollated. Jung’s p.128 objection to disciplinary absorption and the p.159 criticism of ungrounded hyperspace models qualify the respective passages. No sibling NOTES is present. Earlier notebook claims of metaphysical neutrality or categorical machine non-consciousness do not override the later first-class idealism/Open localisation correction. Broad numerological correspondences and unsupported technological claims in the notebook are not restored as evidence.
-
-**Depth Restoration:** canonical psychoid/research operation restored; exact historical passages and empirical bridge claims remain Open.
