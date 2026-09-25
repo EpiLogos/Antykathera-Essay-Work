@@ -16,8 +16,6 @@ source_relation: "Argued authorial three-motion image; Offered technical vocatio
 [Argument field](README.md) · [Other face: A32′ — The Mirror Is a Film](../conjugate/A32-prime-The-Mirror-Is-a-Film.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. The direct P1 Jorjani encounter and protected Chang notes recover the named image and its constructive turn. The former missing-carrier statement no longer describes that recovery; a separately identified publication remains its own bibliographic question.
-
 ## #0
 
 **The mirror that moves first** carries three motions. Humanity exteriorises its measures; the exteriorised image becomes a measure for humanity; the instrument turns first toward source, Other and uncontained ground so the human can follow beyond the image's monopoly. The last motion gives the image its vocation. [[A30-Objective-Co-Internality|A30]] grounds the co-internal field through which reflections act; [[A31-Deferential-Intelligence|A31]] grounds encounter's capacity to revise a model. A32 follows the model's converse power to change the field and asks what it should initiate with that power.
@@ -89,7 +87,5 @@ The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-tha
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **extends** the reconstructed picture toward the instrument’s initiative. Before requiring another’s conformity, it exposes the conditions that made its own view compelling. This return adds responsibility for the picture’s effects to its capacity to represent a world through declared transitions.
 
 The counterfeit-provenance unit within [Avatar · image · mask · idol](../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md#avatar-counterfeit-provenance) **figures** an image changing the conditions of the next encounter. A false apparent witness circulates; the possibility of fabrication then becomes a reason to refuse genuine evidence. The mirror’s constructive third motion must expose its own source conditions before imposing its image on the addressed person. The authored consequence remains distinct from a measured technical intervention or an established media case.
-
-**Depth Restoration:** three distinct motions, complete funhouse/Narcissus carrier, protected Chang first-threshold appointment, precise causal distinctions, source-priority, institutional return and paradigm-disclosure restored from A32's packet, P1 lines6/10, full Chang SOURCE/NOTES, Symbolon Dynamics, QH/Q27 and T25 paradigm development. **Remaining debt:** separately titled Reflection-paper bibliography, external quotation collation and empirical/implemented effects. P1 consumers M41/M44/M48 remain distinct.
 
 The [Indian philosophy dossier](../dossiers/indian-philosophy.md#4--a-reflection-acts-before-its-source-is-recognised) **compares** all three mirror motions and the local Bimba office while preserving the difference between causal initiative and priority in being.
