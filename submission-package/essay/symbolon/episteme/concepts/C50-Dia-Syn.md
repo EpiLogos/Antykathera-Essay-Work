@@ -56,19 +56,3 @@ The criterion is whether the achieved distinction retains what makes it possible
 [Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#operations) **qualifies** the two logics by asking which operation the achieved agreement retains. Signed polarity keeps an axis between distinct terms; addition cancels their values; directed subtraction assigns their span to one pole. Syn composes the differentiated terms with their inverse readings and conditions still available. These outcomes cannot be exchanged because each is called a unity. Their political and psychic comparisons remain authorial register 3; Greek agreement and proportion supply distinct lexical questions, while dia-/syn-ballein's particular history keeps its own warrant.
 
 ### Declared field
-
-**Argument consumers:** A12–A18, A21, A24, A33, A36. **Movement consumers:** Dia/Syn theorem and computational process movements.
-
-**Etymology relation:** *Homologia / Analogia*; consumed operation: differentiated terms remain related through agreement/proportional correspondence. Register **3**; Greek *dia-*/*syn-* and *ballein* histories require independent **1/2** warrant. Return C50 → A13 → C23/C24 → C50.
-
-**Source/tradition standing:** Taylor formal grammar primary; Greek lexical materials and computational analogues remain source-distinct.
-
-### Provenance
-
-Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
-
-### Remaining depth
-
-Restore exact formal derivations and philological history of dia-/syn-/ballein without etymological overreach.
-
-**Depth Restoration: enriched; exact external attribution debts retained.**
