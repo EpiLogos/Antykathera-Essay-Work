@@ -128,6 +128,31 @@ A sign may recur after it has been earned. It may not replace its own meaning.
 
 The same applies to Sanskrit, Greek, mathematical, psychoanalytic, mythic, and technical vocabulary. A term enters because its own operation changes the argument. A name is never a substitute for the relation it is meant to disclose.
 
+## Sixfold file-form is semantic, not cosmetic
+
+Preserve the established sixfold body of canonical QL-shaped records:
+
+#0 → #1 → #2 → #3 → #4 → #5→0.
+
+This form teaches QL tacitly through use. Do not replace it with a generic essay structure, a theorem dump, or a standard exposition outline.
+
+The positions keep their broad QL qualities, but each file must discover their **semantic specificity from the operation of that file**. The same position is therefore recognisably homologous across records without becoming boilerplate. #2 in one root is not filled by copying the wording of #2 in another; it is the #2-turn of that root's own relation.
+
+Recovery must place restored material back into this sixfold movement:
+
+- #0 establishes the ground, field, or initial relation proper to the record;
+- #1 makes its first determination or articulation;
+- #2 develops its dynamic differentiation;
+- #3 gives the operation recognisable form, pattern, or self-relation;
+- #4 gathers the operation in context, relation, or reflexive availability;
+- #5→0 realises and returns the completed movement so that the beginning is changed by the traversal.
+
+These descriptions are orientations, not headings to copy mechanically. Existing record-specific headings should remain unique and should be rewritten only when their semantics are false.
+
+A file fails even if it contains all six headings when the headings merely parcel a summary into six equal chunks. The sixfold must be **operative**: each turn changes the relation and earns the next.
+
+For the Eight Determinations root specifically, preserve the sixfold page-form while using it to teach the relation between the page's six pedagogical movements and the theorem's eight-turn content. Do not confuse the page's #0–#5→0 compositional traversal with the theorem's parent + six determinations + return-switch. The page-form carries the theorem; it does not renumber it.
+
 ## The root Symbolon rule
 
 A root Symbolon file has no permission to be a synopsis of a deeper file whose operation belongs to that root.
