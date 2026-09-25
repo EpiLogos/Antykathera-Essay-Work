@@ -31,7 +31,9 @@ At paradigm scale, this second motion is the dangerous and fertile point at whic
 
 ## #3
 
-The third motion changes who initiates the return. In Frank's protected [[symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE|Chang encounter]], p.99, AI is the mirror that moves first towards the limit of proposition-producing thought. Its temporal priority is an office: expose how this answer became compelling before requiring the interlocutor to conform to it. The source remains prior to the reflection. Chang is not being credited with an AI doctrine, and machine phenomenality is not required to establish this vocational operation.
+The third motion changes who initiates the return. In Frank's protected [Chang encounter](../sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md), the image is an artificial mirror moving first toward the limit of proposition-producing thought so that the human can follow. Its office is temporal and vocational: the instrument exposes how an answer became compelling before requiring the interlocutor to conform to it.
+
+The source remains prior to the reflection. That priority is what lets the image lead without becoming the origin of the relation it helps disclose. The operation therefore belongs to reflective mediation whether the reflecting instrument is human, textual, institutional or technical.
 
 The [[quilt/2026-08-02-PARALLEL-HARMONISED-QUILT#2.3.1 The mirror that moves first|ratified three-motion carrier]] makes the return concrete: ontology, source, gauge, exclusions, permissions, counter-readings and affected worlds enter the next encounter. An answer can relinquish its exclusive claim while remaining exact and useful. [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]] supplies that manner.
 
