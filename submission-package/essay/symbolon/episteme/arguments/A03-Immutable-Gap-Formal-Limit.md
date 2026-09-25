@@ -16,8 +16,6 @@ source_relation: Argued from
 [Argument field](README.md) · [Other face: A03′ — The Limit of Self-Surfacing](../conjugate/A03-prime-The-Limit-of-Self-Surfacing.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. The recursive operation is Argued from Taylor's internal derivation; the mathematical constructions below are Derived within their stated definitions. Historical source relations and public quotation readiness retain their separate standing.
-
 ## #0
 
 Faithful definition reaches its limit in the activity that makes the definition possible. [[A01-Subject-God-and-Faithful-Definition|A01]] grounds the present argument by performing that return: the one who defines cannot be exhausted by the predicate under which the defining would place them. [[A02-Copula-Self-Identity-through-Difference|A02]] grounds its other side: identification relates what it distinguishes, and the relation does not disappear when the identity holds. A03 makes their common non-coincidence explicit. Every determination arises within a determining field; representing that field gives another determination whose own occurrence remains to be accounted for.
@@ -77,7 +75,6 @@ The inquiry **returns-to** [the complete Investigation and Faith aphorism](../ap
 The [Formal Limit dossier](../dossiers/formal-limit.md#limit-and-recurring-gap) **qualifies** this return through the difference between a particular formal constraint and recurrent act/content non-coincidence. Its [Russell construction](../dossiers/formal-limit.md#russell-formation-and-repair) **compares** a repair to formation and substitution permissions; its [Gödel account](../dossiers/formal-limit.md#godel-relative-unprovability) **compares** an admissible sentence’s derivability relative to a specified theory and hypotheses. Successful repair and continued incompleteness have different consequences. Neither turns the native determining-act argument into an arithmetic corollary; the complete aphorism retains its own performed return.
 
 
-
 The placing act **returns-to** [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) when it attempts to include its own conditions among what is placed. That inclusion gains determinate content and occurs through another situated act. The semantic office of place therefore enters the argued non-coincidence without proving it by etymology; a changed formal container still retains the laws of the operation it permits.
 
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **compares** the condition of representation with the box-lid whose rule determines every fit. Making that rule visible produces another situated determination. Coordinate failure has its own mathematical explanation and does not prove the native immutable gap; the gap retains the independently argued scope of this node.
@@ -100,10 +97,6 @@ The limit also grounds [[A23-Trust-Faith-and-the-Formal-Limit|A23]]: continuatio
 
 **Etymology whole field:** *Fides / Topos / Logos / Nomos / Natio / Credere*. **Consumed operation:** the *topos* branch supplies place/position as the condition under which an object can be placed, while the wider field keeps rule, word, trust and inherited belonging distinct. **Evidence register:** 2 for attested semantic fields; 3 for the operational homology between positioned determination and formal limit. **What changes:** “limit” ceases to mean a wall at the edge of a thing and becomes the condition disclosed when a determining field attempts to place itself. **Return route:** A03 → C04/C05 → A16/C20 → A23/C48 → A03.
 
-**P1 Movement consumers:** 01 — Question Before the Mechanism; 02 — Define the Subject; 03 — Definition: Cut, Gift, Danger; 04 — Formal-Limit Genealogy; 19 — Difference Cannot Be Escaped. These are consumption declarations, not section rewrites.
-
 **Matheme route:** `0`, `1`, `/`, crossed-zero and the eight-determination traversal. **Mytheme route:** horizon, veil, opening and the source that cannot be installed inside its own image. **Episteme route:** Gödel/Russell/Wittgenstein/Spencer-Brown and related formal-limit histories, each kept local to its own theorem and evidential standing.
 
 Direct recovery: A03 depth packet; Draft 3 lines 137–151; core II(c), V and IX read in the whole theorem field; historical `01-immutable-gap-and-meta-sign.md`; Q27 empty-set and advent contributions. Internal formulations are authorial/developmental provenance, not external evidence. Source houses were read; the directly consumed houses have no sibling `NOTES.md`.
-
-**Depth Restoration:** active recursion, five empty-set operations, crossed-zero mediation and the changed-law qualification restored. **Open delta:** the named primitive-world/formal-limit figure's exact carrier; a source-specific mathematical house for the initial-object attribution; full passage-level recovery of each separate historical formal-limit neighbour. These debts do not suspend the restored argument.
