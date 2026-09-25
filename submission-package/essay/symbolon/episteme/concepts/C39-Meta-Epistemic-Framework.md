@@ -47,19 +47,3 @@ Return tests what the framework changed in retrieval, exclusion retention, evalu
 The six product bodies make that return reciprocal: [S0](../products/S0-Central.md), [S1](../products/S1-Actuation.md), [S2](../products/S2-AIKit.md), [S3](../products/S3-Software-Factory.md), [S4](../products/S4-Workcell.md) and [S5](../products/S5-Quaternal-Logic.md) consume their assigned pairs and return changed product meanings to MEF. [S](../products/S-World-and-Life.md) keeps the six inside the larger Life/World relation rather than making the framework the whole.
 
 ### Declared field
-
-**Argument consumers:** A14, A22, A33, A36. **Movement consumers:** M36 MEF preparation; M37–M42 paired product disclosure; technical epistemology and final return.
-
-**Etymology relation:** no etymology proves MEF. Where *Encounter / Region / ... / Account* is consumed, the exact operation is the construction of an inspectable **Account** of how a judgment arose; register **3**. Return C39 → C40 → C45/A33 → C39.
-
-**Source/tradition standing:** Taylor MEF/QL research primary; philosophy of science and epistemology supply neighbouring methods.
-
-### Provenance
-
-Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
-
-### Remaining depth
-
-Continue the R3 reciprocal pass from these product returns into the active Argument, Mytheme, Matheme, Etymology and source consumers; keep framework claims separate from ontological claims.
-
-**Depth Restoration: enriched; T25 product fold-back active; source/implementation debts retained.**
