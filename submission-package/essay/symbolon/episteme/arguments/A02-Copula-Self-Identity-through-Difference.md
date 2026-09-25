@@ -110,11 +110,3 @@ The account also returns to its own accountability. What it counts, the marks it
 The copula returns as the relation already enacted in the first assertion: exact enough to identify, open enough for the identified to answer through difference.
 
 [The Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) figures the copula's passage between assigned identity and first-person address. The Village's designation identifies a position within its field, while Number Six's reply refuses to let that predicate exhaust the speaker. Designation and refusal belong to one encounter without becoming equivalent accounts of it.
-
-### Source standing and restoration
-
-This page is **Argued from** the native copula derivation and Frank's protected Kripke and Watson encounters; its relation to the core theorem and direct Definition of God performance is **Paraphrased**. The three internal operations retain authorial standing. Kripke's selected Harvard 1980 edition is citation-ready, with printing and passage verification Open; its NOTES are authorial provenance, not verified quotation. Watson's 1998 book, consulted 1996 thesis and nested sources remain distinct; book and edition collation are Open. The mathematical, analytic, theological and lexical comparisons in the mixed copula synthesis have not been promoted into independently verified evidence.
-
-Current P1 [Movement02, Define the Subject](../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md) embodies the opening identification, and [Movement19, Difference Cannot Be Escaped](../../../section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md) embodies its continued relational pressure. Historical Argument14 is provenance, not the current runtime file14 or the identity of A02.
-
-**Depth Restoration:** double copula, pre-nominal count, name/instance/circumstance, personed recognition and the Is→Am circuit are restored here for batch backcheck. Exact external predication history, indexical theory, comparative theology and quotation/edition debts remain Open. The earlier claim that no stronger live copula carrier had been found is superseded by the recovered direct chain and protected source encounter.
