@@ -47,4 +47,3 @@ The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.
 
 Rotman’s semiotic subject-position remains distinct from Taylor’s irreducible subject-condition; chronology and office of zero still require specialists; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-dialogue) **qualifies** this operational comparison.
 
-The [authored P1 route for M13](../P1-CANONICAL-ALIGNMENT.md#p1-m13) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
