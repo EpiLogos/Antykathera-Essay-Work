@@ -47,4 +47,3 @@ Attunement **returns-to** [Logos — articulated account](../../../symbolon/epis
 
 The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#4--commensuration-makes-a-remainder-consequential) **historicises** this operation. The Freeth 2006 selected primary abstract and the 2021 constrained front-display model bear different evidential loads. Nine outputs and nested arrangements belong to the reconstruction, not to an intact surviving device. The instrument’s indication returns to the reader’s account of fragments, inscriptions and reconstruction; coordination of cycles does not remove those source boundaries.
 
-The [authored P1 route for M45](../P1-CANONICAL-ALIGNMENT.md#p1-m45) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
