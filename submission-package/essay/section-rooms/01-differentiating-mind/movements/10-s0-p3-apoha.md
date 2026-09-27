@@ -51,4 +51,3 @@ The determinate term **returns-to** [Name-through-Count](../../../symbolon/epist
 
 Pind’s two passages and secondary nominal/verbal negation retain distinct evidential offices; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
 
-The [authored P1 route for M10](../P1-CANONICAL-ALIGNMENT.md#p1-m10) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
