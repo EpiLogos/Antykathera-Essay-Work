@@ -55,4 +55,3 @@ The [myth historical development](../../../symbolon/episteme/histories/encounter
 
 The complex-dynamical pulse shows why the two accountings cannot remain merely philosophical. Once the relation includes its own differentiation, two expands into the sixfold generative unit in [[24-s2-p5-zero-changes-role|§2 · #5→0 — Zero Changes Its Role]].
 
-The [authored P1 route for M23](../P1-CANONICAL-ALIGNMENT.md#p1-m23) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
