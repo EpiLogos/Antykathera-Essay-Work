@@ -43,4 +43,3 @@ Constructive selection **returns-to** [Name-through-Count](../../../symbolon/epi
 
 Constitutive exclusion remains one joint within differentiation, gathering and recognition; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
 
-The [authored P1 route for M09](../P1-CANONICAL-ALIGNMENT.md#p1-m09) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
