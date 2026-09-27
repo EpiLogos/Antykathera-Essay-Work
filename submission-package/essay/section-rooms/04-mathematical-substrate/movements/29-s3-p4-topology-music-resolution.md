@@ -73,7 +73,7 @@ Likewise the `3–4–5` right triangle satisfies `3²+4²=5²`, has area `6` an
 
 ## Musical resolution — exact intervals, interpreted return
 
-M26 established the proof boundary for the harmonic reading. The relevant identities are exact:
+The harmonic reading begins from exact interval identities:
 
 $$
 \frac{16}{9}=\left(\frac43\right)^2,
