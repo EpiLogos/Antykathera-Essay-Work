@@ -38,4 +38,3 @@ The cut’s gift and danger return to [E2’s criterion through distinction](../
 
 Pind semantic exclusion and Spinoza finite figure remain independent witnesses for the gift and danger of a cut; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
 
-The [authored P1 route for M03](../P1-CANONICAL-ALIGNMENT.md#p1-m03) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
