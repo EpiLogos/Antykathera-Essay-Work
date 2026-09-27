@@ -29,7 +29,11 @@ The brief's sharpest diagnostic sentence is this argument's own, nearly verbatim
 
 ## #3
 
-The operational consequence lands on the primitive field's Scope/Resource face (S2/P0): a resource *is* its scope — the latent field against which any actual draw is determinate. An inspectable epistemology therefore keeps the negative field available wherever it materially constitutes the output, and the retention is discriminable, since relative scores, a normalised distribution and a selected branch preserve different information. [[symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field|Model Internality / Judgment Field]] defines the field; [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]] tests whether retaining a relevant exclusion actually changes judgment. Token selection, ranking and classification are not Buddhist apoha; the operational homology at evidence register 3 is what makes both sides investigable, with [Pind](../sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md)'s qualified preclusion keeping the positive referent from dissolving into a heap of absences.
+The operational consequence lands in the relation between **scope and resource**. A resource is never simply an isolated positive item; it becomes relevant within a field of possible alternatives, permissions and exclusions. An inspectable epistemology therefore keeps the negative field available wherever it materially constitutes the output.
+
+This retention is technically discriminable. Relative scores, a normalised distribution and a selected branch preserve different information. [Judgment Field](../concepts/C40-Model-Internality-Judgment-Field.md) holds the operative field; [Operational Parity](../concepts/C45-Operational-Parity.md) asks whether retaining a relevant exclusion actually changes judgment.
+
+Token selection, ranking and classification are not Buddhist apoha. Their exact relation is operational: positive determination depends on a field of excluded alternatives, and what is discarded can remain constitutive of the meaning and revisability of the selected mark.
 
 ## #4
 
