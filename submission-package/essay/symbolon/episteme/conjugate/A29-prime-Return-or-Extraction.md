@@ -18,7 +18,9 @@ source_ids:
 
 The FROM→TO row *humans in charge → omnidirectional delegation* (PDF p. 56; verified local transcription, uncarded) makes return the ethic of the whole table. When delegation runs in every direction — person to agent, agent to agent, institution to ensemble — its pathology is not error but **disappearance**: the answer looks instantaneous, the product self-contained, the agent autonomous, and the labour that produced them goes unattributed. [A29 — Power / Delegated Labour / Return](../arguments/A29-Power-Delegated-Labour-Return.md) established the circuit — the power that receives a product must remain answerable to the labour and world through which it arrived — with the ratification's full return: resistance, error, cost, dissent and unforeseen possibility must be able to change the governing model, measure, instruction, institution or purpose. A29′ re-sites the circuit at the crossover where the venue sets it.
 
-The primitive ground is S/P2·S/P5 — Contribution and Return/Recognition: a contribution is attributed and revisable; the return path carries reconciliation evidence back to the office that can change the next act. **Extraction is delegation without return.** Commands flowing down while nothing flows up is the precise structural signature of the broken circuit — inspectable as such, in any stack, by asking what has write-access to the commission.
+The structural pair is **Contribution and Return**. A contribution enters a shared field under attribution and revisable terms; return carries consequence back to the office capable of altering the next act.
+
+**Extraction is delegation without return.** Commands, labour, data and consequences flow down or outward while nothing capable of changing the commission flows back. The signature is inspectable in any stack: identify the contribution, follow its consequence, and ask what has write-access to the purpose, criterion or permission under which the work was commissioned.
 
 ## #1
 
