@@ -60,4 +60,3 @@ The [zero–subject history](../../../symbolon/episteme/histories/traditions-and
 
 A recursively local Bimba reference remains real and revisable; Bohm dialogue and SEED institution are distinct precedents, not demonstrated transmission; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
 
-The [authored P1 route for M44](../P1-CANONICAL-ALIGNMENT.md#p1-m44) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
