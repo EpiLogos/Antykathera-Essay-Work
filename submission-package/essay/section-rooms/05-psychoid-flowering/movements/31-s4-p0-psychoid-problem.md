@@ -34,4 +34,3 @@ The positive claim here is ontological and cross-register, not merely methodolog
 ## Anchor and transition
 **QL anchor:** two descriptions retained across one seam. **Image:** a pattern appearing on both sides of an unmastered threshold. The historical entry is psychoanalysis's formal admission of an unconscious before Jung insists that religious images are psychic facts rather than objects exhausted by objectification. `X/x` is the essay's authorial matheme for this relation, not a Jungian notation. Its psychic refraction unfolds in [[32-s4-p1-jung-individuation|§4 · #1 — Individuation through QL `X/x`]].
 
-The [authored P1 route for M31](../P1-CANONICAL-ALIGNMENT.md#p1-m31) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
