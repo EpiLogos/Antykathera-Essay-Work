@@ -44,4 +44,3 @@ Objective Internality **returns-to** [Encounter-in-Region](../../../symbolon/epi
 
 Objective Internality also **returns-to** [Paradigm-through-Project → Projection / Enactment](../../../symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#1--paradigm-through-project-projection--enactment): a paradigm organises the means through which possible determinations are projected and enacted. Returned experience becomes philosophically decisive when it can revise that mediating pattern rather than merely add another item to the world it already knows how to see.
 
-The [authored P1 route for M12](../P1-CANONICAL-ALIGNMENT.md#p1-m12) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
