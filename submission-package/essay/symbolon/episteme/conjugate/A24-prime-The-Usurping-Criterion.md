@@ -24,7 +24,11 @@ The brief names the pressure in its own figure: the parallel ecology's "intricat
 
 ## #1
 
-A criterion distinguishes; a frame gives the distinction a situated edge; and before the arbitration there are already admitted signals, training histories, evaluator functions, benchmarks, permissions and institutional purposes. The deciding system does not enter an empty field and originate these conditions by deciding — [A24](../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) grounds the precedence of the received field, and the [[symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty|Mediating Office / Derivative Sovereignty]] concept defines the derivative authority whose conditions disappear in the promotion. One primitive address states the office: at S1/P2 (authority, metagency grant, delegation, agency bounds) the criterion acts by grant, within bounds, as a delegated power — and a grant is exactly what a usurped criterion has consumed. Its failure is not being a measure but the promotion of that locality into source authority: score becomes person, engagement becomes value, legibility becomes cooperation, preference becomes the whole of what is wanted.
+A criterion distinguishes; a frame gives the distinction a situated edge; and before arbitration there are already admitted signals, training histories, evaluator functions, benchmarks, permissions and institutional purposes. The deciding system therefore acts by **derived authority** inside a received field.
+
+That authority can be exact and still remain derivative. A criterion is granted a scope, a task and bounds within which its judgment becomes executable. Usurpation occurs when the grant disappears from view and the criterion begins to speak as source: score becomes person, engagement becomes value, legibility becomes cooperation, preference becomes the whole of what is wanted.
+
+[Mediating Office / Derivative Sovereignty](../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) gives this operation its reusable form. The repair is not to abolish measurement but to restore the relation between criterion, commission, affected world and the authority by which the criterion was allowed to decide.
 
 ## #2
 
