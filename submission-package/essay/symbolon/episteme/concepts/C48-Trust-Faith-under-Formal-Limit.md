@@ -37,5 +37,3 @@ Reliance returns through encounter and can be investigated, corrected, withdrawn
 [the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-measure-trust-return) **figures** trust through an address that survives the failure of its first explanation. Protest and questioning remain movements within the relation; the friends' certainty does not by itself make their defence faithful. The return is to revised reliance after encounter, rather than a guarantee against loss. This appointment leaves refusal, withdrawal and protection from harm available where a living relation requires them.
 
 [the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-account-answerability) **figures** assurances whose working conditions remain withheld from the person asked to rely on them. Arrival's escape route returns Six to confinement; an electoral mandate later fails to give his command operative force. Trust therefore requires an answerable undertaking, not simply another account promising freedom. The possibility of refusing the offered relation belongs to this return where assurance itself administers capture.
-
-### Declared field
