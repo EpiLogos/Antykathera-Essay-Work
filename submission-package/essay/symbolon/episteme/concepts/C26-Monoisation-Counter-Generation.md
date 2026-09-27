@@ -33,5 +33,3 @@ Taylor's nourishment/Saturnine fork distinguishes assimilation that renews gener
 The return retains differentiated powers and their shared conditions. It does not defeat one monoculture by enthroning its counter. A12's candidate `(1)` pictures a local determination enclosed by its forgotten condition; restoring that relation lets polarity remain real without becoming war. C54 gives this relation institutional pressure: set terms, refuse, revise, leave and reconnect without losing every route to shared life. An apportioned office returns its work and effects to the economy that sustains it.
 
 [the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) **figures** monoisation when a partial account of justice takes the office of the whole. The friends repeatedly translate Job's contradiction into confirmation of the same judgement, arresting the return by which the shared moral world could change. Their rebuke and Job's intercession reopen that relation. The operation concerns an account's claim to final jurisdiction; it does not condemn unity or judgement as such.
-
-### Declared field
