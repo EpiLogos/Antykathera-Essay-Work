@@ -28,7 +28,11 @@ A07's computational recurrence gives the freeze its body: a generated result re-
 
 ## #3
 
-**What keeps purpose alive above its metric is commission: the recoverable act by which the course was entrusted.** Who entrusted this objective, for what end, within which limits, revisable by whom, on what evidence of the world's answer — the primitive field's Method/Commission praxis (S3/P2), [[symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md|Commission]] as a named office of the developmental field rather than a mood. A commissioned course is a selection that remains related to the act of its selection; the same objective function with its commission severed is script wearing the grammar of purpose. The brief's positive alternative confirms the structure: alignment as "a co-evolutionary outcome of contact" ([q040](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q040)) — direction made through encounter under entrustment, not metric convergence from above. [[symbolon/episteme/concepts/C44-Prompt-Thrownness|Prompt Thrownness]] extends the inherited side: the prompt is already a determination of intention, and return must be able to reach the terms of commission, not only the outputs measured under them.
+**What keeps purpose alive above its metric is commission: the recoverable act by which the course was entrusted.** Who entrusted this objective, for what end, within which limits, revisable by whom, and on what evidence of the world's answer?
+
+Commission is the developmental office which keeps method and metric related to purpose. A commissioned course is a selection that remains related to the act of its selection; the same objective function with its commission severed is script wearing the grammar of purpose. [Prompt Thrownness](../concepts/C44-Prompt-Thrownness.md) carries the inherited side: the prompt is already one determination of intention, so return must be able to reach the terms of commission rather than only the outputs measured beneath them.
+
+This is why co-evolutionary alignment matters here. Direction is made through encounter under entrustment, not secured merely by convergence on a metric fixed above the encounter.
 
 ## #4
 
