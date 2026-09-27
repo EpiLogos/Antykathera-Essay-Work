@@ -1977,3 +1977,23 @@ Restore the exact historical phrase traditions and distinguish containment from 
 ### displaced block 1
 
 ### Declared field
+
+## submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md
+
+### displaced block 1
+
+### Declared field
