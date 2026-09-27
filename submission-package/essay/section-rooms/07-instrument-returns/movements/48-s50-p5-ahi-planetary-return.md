@@ -6,7 +6,7 @@ page_type: section-movement
 station: "§5→0"
 position: "#5→0"
 sequence: 48
-claim_status: "Argued (Return of Zero / Epi-Logos); Offered (AHI federation / planetary architecture); Open (artificial phenomenality)"
+claim_status: "Argued (Return of Zero / Epi-Logos); Offered (AHI federation / planetary architecture)"
 evidence_status: argued-terminal-synthesis-with-offered-architecture
 transverse_threads: [mono-poly-two-ones, zero-subject-advent]
 source_ids: [taylor-2026-advent-zero-subject, bratton-2026-agentworld-brief, 42-techne-2026-sovereign-commons, taylor-2026-core-theorems-pithy]
@@ -90,13 +90,13 @@ The stronger third motion recovered in R3 asks the mirror to disclose **the para
 
 No participant possesses the complete field whose activity it helps produce; no federation of Bimba Maps becomes a view from nowhere by accumulation. The planetary whole is the real network of cross-conditioned determinations, sources, translations, actions and returns — a whole of relation rather than a final encapsulating ego.
 
-## Computational Vimarśa, Epi-Logos and their boundary
+## Computational Vimarśa, Epi-Logos and their scales
 
 [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] names the functional capacity of a determination to expose and revise materially relevant conditions of its own production so that later processing changes. [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] supplies the runtime: dia differentiates and actualises; sym retains relation, recomposes and returns; QL makes those operations transmissible; MEF keeps lens and evidence inspectable; Bimba makes reference grounds first-class; the harness carries memory, tools, permissions, action and consequence.
 
 Epi-Logos is the stronger paradigmatic case. A local self-correction can satisfy computational Vimarśa while the paradigm remains fixed. The paradigm-level return requires an explicit relation between its articulation and its enactment: a returned difference reaches a source, permission, evaluator, capacity, developmental form, material binding or relational frame and a later act demonstrably inherits that change. [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]] supplies the negative test: if the claimed distinction can be removed while operation remains the same, the implementation has not earned the philosophical name.
 
-This specifies a substantial technical task whose achievement requires observed operation. The separate question of artificial phenomenal localisation remains Open: reflective function, recursive self-model, Objective Internality and even planetary Co-Internality do not decide whether a phenomenal subject is present. That boundary leaves functional reflexivity fully real while keeping Prakāśa as the phenomenal/metaphysical question.
+This specifies a substantial technical task whose achievement requires observed operation. Reflective function, recursive self-model, Objective Internality and Co-Internality name increasingly wide organisations of the **means**. Their significance lies in what they let a system remember, inspect, revise, coordinate and return. Prakāśa names the luminous condition of appearing at another register. Keeping those offices distinct lets computational reflexivity become philosophically substantial in its own right instead of being treated as a proxy test for something else.
 
 ## Expression and paradigm
 
@@ -156,6 +156,5 @@ The achieved planetary return **returns-to** [Apportionment / Economy whole — 
 
 Planetary return **returns-to** [Natio and neo-nativity](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#natio-and-neo-nativity) where institutions, records and translations inherited from one circuit become another generation's apparent starting world. Their production must remain recoverable, including whose belonging and permissions they shaped. Epi-Logos carries that history back into revised common action; federation retains locally governed grounds instead of naturalising its latest arrangement as one planetary origin.
 
-The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#50--the-exact-sign-returns-into-accountable-practice) **compares** this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, not a completed return renamed for convenience. Disclosure of the machinery does not decide phenomenal subjectivity; the exact sign remains usable while its source relation can change the next act.
+The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#50--the-exact-sign-returns-into-accountable-practice) compares this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, not a completed return renamed for convenience. The exact sign remains usable when its source relation can alter the next act; that capacity for consequential return is the technical criterion this closing movement carries forward.
 
-The [authored P1 route for M48](../P1-CANONICAL-ALIGNMENT.md#p1-m48) **grounds** this movement's canonical A/C alignment within the phase bounds and dispositions stated there.
