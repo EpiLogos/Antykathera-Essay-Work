@@ -61,4 +61,3 @@ The loan’s return **returns-to** [Credere — renewed entrustment](../../../sy
 
 The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.md#4--rotmans-meta-subject-is-a-distinct-interlocutor) **compares** this operation. Rotman’s semiotically produced observing role retains its difference from native irreducible Subject. The wider symbolic use returns mathematical exactness with its conditions; it supplies no historical proof of zero’s origin and no identification of ordinal zero with uncounted One. The loan remains authorial while its documentary sources can still revise the account of reception.
 
-The [authored P1 route for M18](../P1-CANONICAL-ALIGNMENT.md#p1-m18) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
