@@ -57,7 +57,7 @@ A05 is required when the essay moves from formal non-exhaustion to a positive on
 
 The distinction between prakāśa and computational vimarśa is therefore an office distinction inside the argument. Prakāśa names luminous appearing; computational vimarśa names a determinate reflexive operation of the means. Better camera-work can make mediation more exact and more revisable; it is still camera-work. The point is to keep the positive Śaiva account of self-luminous appearing and the technical account of reflexive mediation in their full respective strengths, rather than organising both around a machine-consciousness verdict.
 
-The argument also installs a proof boundary needed later: functional recursion is not evidence of phenomenal self-luminosity. Artificial systems can instantiate a computational vimarśa — outputs returned upon their own sources and conditions — while the question of prakāśa remains open.
+The distinction becomes especially important in the technical register. Computational vimarśa names a real reflexive operation: outputs can be returned upon sources, states and conditions so that later processing changes. Prakāśa names luminous appearing itself. Keeping these offices distinct lets technical reflexivity be argued at full strength without turning the technical operation into the metaphysical whole it refracts.
 
 ## #5→0
 
