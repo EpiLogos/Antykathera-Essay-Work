@@ -33,7 +33,9 @@ The preference-training surface makes the constituting power cultural. [Q024](..
 
 ## #4
 
-The discipline, stated positively. A measure can fail by disappearing from its own result; it can also succeed, and the success is exact — [[symbolon/episteme/conjugate/A15-prime-The-Measure-Constitutes.md#4|Publication of Limits]]: state the criterion, the comparison class, the training provenance, the scope of validity, and the revision route, and keep each of these inspectable in the artifact itself, not in a whitepaper beside it. A15 retains the standard: an accountable criterion can still choose decisively, distinguish unequal evidence and allocate finite resources; rationality becomes fuller by reckoning upon the conditions of its reckoning. [A14′](A14-prime-Code-as-the-Ages-Logos.md) grounds the inspectability side — a criterion that could never modify subsequent action fails the fifth process test. A ranking is a Contribution (S/P2): attributed, revisable, owned by a criterion that can be addressed — never a fact of nature walking on its own.
+The discipline, stated positively: a measure can fail by disappearing from its own result, and it can succeed by remaining answerable inside the artifact it helps produce. State the criterion, comparison class, training provenance, scope of validity and revision route where they can actually be recovered from the decision.
+
+An accountable criterion can still choose decisively, distinguish unequal evidence and allocate finite resources. Rationality becomes fuller by reckoning upon the conditions of its reckoning. A ranking is therefore a **contribution under a criterion**: attributable, revisable and addressable by those whom the ranking affects, rather than a fact of nature walking on its own.
 
 ## #5→0
 
