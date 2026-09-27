@@ -70,4 +70,3 @@ Operational zero prepares the deeper formal comparison: within a later set-theor
 
 The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#1--zero-enters-calculation-and-exposes-its-laws) **historicises** this operation. Colebrooke q001 gives Brahmagupta’s zero addition and multiplication; q002 retains Bhāskara’s zero denominator; q003 gives the translated theological comparison with divine immutability. These selected English witnesses have three offices. The third is an analogy in that source; the essay's Subject relation is the later authorial synthesis. Critical Sanskrit remains a separate source task.
 
-The [authored P1 route for M14](../P1-CANONICAL-ALIGNMENT.md#p1-m14) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
