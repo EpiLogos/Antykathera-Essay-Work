@@ -163,4 +163,3 @@ The first Spanda is the return-reading (`3:3`) of the second Spanda's base-frame
 
 The pulse must now be tested against other formal neighbours without borrowing their authority. Spencer-Brown’s distinction/re-entry, Varela's autonomous state and Kauffman’s iterants provide distinct ways to examine crossing, recurrence, time and complex orientation in [[27-s3-p2-mark-reentry-complex|§3 · #2 — Mark, Re-entry, and Complex Orientation]].
 
-The [authored P1 route for M26](../P1-CANONICAL-ALIGNMENT.md#p1-m26) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
