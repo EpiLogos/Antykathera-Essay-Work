@@ -43,5 +43,3 @@ Epistemic cultivation consumes [E2’s con text through diaphaneity](../etymolog
 A35 gives the practice its motive: loving sensitivity to origins. Eros moves the return — the name routes to C51's epi-logos space, of which eros-of-logos is one name; compassion keeps it from consuming the Other; epistemic humility prevents the returned account from claiming the source-office. Provenance is the minimum technical body of this orientation, not its complete achievement. The cultivated system becomes more exact through encounter while remaining responsible for the particular work it must do.
 
 The practical difference between **adaptation** and **cultivation** is now explicit. Adaptation can improve performance under an unchanged paradigm. Cultivation can include such improvement but also keeps the pattern of knowing open to warranted revision. A system which optimises indefinitely against one hidden measure may adapt brilliantly while becoming epistemically barren. A cultivated paradigm preserves the ability to discover that its measure was part of the problem.
-
-### Declared field
