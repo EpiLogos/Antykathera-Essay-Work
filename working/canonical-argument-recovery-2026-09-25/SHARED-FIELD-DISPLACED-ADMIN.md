@@ -1915,3 +1915,32 @@ Restore Jung's changing formulations and distinguish individuation from integrat
 Restore the exact historical phrase traditions and distinguish containment from dialectical synthesis or compromise.
 
 **Depth Restoration: enriched; historical/empirical debts retained.**
+
+## submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md
+
+### displaced block 1
+
+### Declared field
+
+**Etymology relations:** *Symbol / Account / Trust*; consumed operation: reflections/accounts remain answerable to a declared local reference source without claiming ultimate sourcehood. Register **3**; Sanskrit term histories require separate **1/2** evidence. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a projected determination can become a real local reference and later causal condition while remaining answerable through the paradigm and wider source from which it acquired standing. Register **3**. Return C38 → A22 → C55/A32 → C38, with C38 → C51/C45 → C38 supplying the stronger paradigmatic-return test.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md
+
+### displaced block 1
+
+### Declared field
