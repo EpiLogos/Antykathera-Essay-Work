@@ -21,7 +21,9 @@ source_ids:
 
 ## #1
 
-The operative fact is therefore not *what the agent sees* but *from where the agent is*. The addressable situation — which host, which body, which sensors, which reach, which session, which material execution world — is not metadata appended to an otherwise placeless intelligence; it is the agent's being-placed, inspectable as such. The primitive field's S2/P4 SessionSpace and S4/P4 MaterialisedExecutionWorld are its addresses: the session in which the agent is composed, the material world in which it is actual. [A26 — Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) grounds the constitution: changing the arrangement changes what can appear, matter and be done. The brief's own title for the movement states the inversion — "the world itself becomes the world model" (§4.2, [q001](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q001)): agents "learn from modeling the effects of their actions," the model built from where acting actually happens rather than substituted for it.
+The operative fact is therefore not only *what the agent sees* but *from where the agent is*. Host, sensors, reach, session, material execution world and available interfaces are not metadata appended to an otherwise placeless intelligence. They constitute the situation from which the act can occur.
+
+Two aspects have to be held together: the **session-space** in which capabilities, context and identity are composed, and the **materialised execution world** in which that composition meets actual resources and resistance. [Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) supplies the constitutive claim: changing that arrangement changes what can appear, matter and be done. The world-model therefore begins from situated action rather than replacing situation with a placeless picture.
 
 ## #2
 
