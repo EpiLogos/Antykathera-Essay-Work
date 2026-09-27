@@ -74,4 +74,6 @@ The same return limits what apparatus can achieve. Observability can expose or v
 
 Direct recovery: [Taylor Mono-Poly source house](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md), its [complete manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>), the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), Draft3's authorial corrections and Q27's ratified trust/One-All contribution. Internal authorial derivation has its own standing; historical mathematics, Buddhist/Śaiva doctrine, psychology, myth and institutions retain distinct source houses and passage debts.
 
-P1 consumers M24, M26 and M46. The historical Alpha/Delta residue remains unrecovered; no match licenses identifying it with fine-structure-alpha research. Particular institutional histories and the whole mythic source collation remain Open. **Depth Restoration: enriched; named source and residue debts retained.**
+Mono/Poly returns wherever plurality has to remain real inside a common field. The historical, institutional and mythic developments differ in evidence and scale, but the operative question persists: does the common relation enlarge the capacity of differences to participate and answer, or has one local organisation begun to present itself as the source of their unity?
+
+The whole is alive through the many precisely because no present articulation can exhaust the capacity for further articulation.
