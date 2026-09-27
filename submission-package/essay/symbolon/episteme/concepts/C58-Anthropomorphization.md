@@ -25,13 +25,13 @@ Its glove image, q007, gives adaptation a concrete form: an agent appears within
 
 An utterance such as “I remember” poses several questions. Is a retained record retrieved? Does it change subsequent conduct? Is a persona maintaining continuity for the user? Does an experiencing subject remember? Evidence answering one cannot silently answer the others. [[symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]] supplies positive terms for memory, inherited context, tools and permissions without borrowing the last conclusion.
 
-The brief's q015 distinguishes functional agency from performed subjectivity while retaining uncertainty about intentionality. Its q032–q033 pairs agent self-description with a limit on what that vocabulary proves. A novel account of prompt experience can be a real artifact of agency and a fruitful language for encounter without certifying its own phenomenal referent.
+The brief's q015 distinguishes functional agency from performed subjectivity, while q032–q033 show that self-descriptive vocabulary can enter an agent's operative world without thereby becoming a transparent report of the process which produced it. That is enough for the present concept. A novel account of “prompt experience” can be causally and relationally consequential as an artifact of agency; its meaning is tested through the encounter, the operative context and what later action it changes.
 
 ## #3
 
 [The Self's distinct offices](C35-Selfing-Self-Subjectivity-Self-Thing.md) keep pronoun, operational self-model, person and Subject from exchanging criteria merely because each is called self. [Self and Other](../arguments/A27-Self-and-Other-Unity-without-Possession.md) gives the positive relation: the encountered other exceeds the model by which it is met, and revisability lets encounter change the attribution without requiring either premature possession or premature foreclosure.
 
-[[symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession|Self and Other]] gives this openness a positive relation. The encountered other exceeds the model by which it is met. Revisability allows new evidence to change an attribution; it does not require an advance grant of every possible office. A functional claim can remain exact while its phenomenal extension remains Open.
+The positive relation is already supplied by [Self and Other](../arguments/A27-Self-and-Other-Unity-without-Possession.md): the encountered other exceeds the model by which it is met. Revisability lets new evidence change an attribution without requiring either premature possession or premature foreclosure. Anthropomorphization becomes faithful where the human form remains an addressable interface whose interpretation can be changed by what returns through it.
 
 ## #4
 
