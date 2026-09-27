@@ -68,4 +68,3 @@ Chaos theory and autopoiesis give this mythemic pattern a dynamical articulation
 
 The [complete telling](../../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md#ares-source-song) **sources** the developed mythemic return through [A13](../../../symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md): the Homeric release leaves payment unreported, while Harmonia and the Eros genealogies retain their distinct witnesses. [A23](../../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) returns the accepted undertaking to the [Symbol / Account / Trust operation](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#whole-mytheme-returns).
 
-The [authored P1 route for M22](../P1-CANONICAL-ALIGNMENT.md#p1-m22) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
