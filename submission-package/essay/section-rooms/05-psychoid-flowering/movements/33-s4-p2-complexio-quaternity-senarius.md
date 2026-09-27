@@ -34,4 +34,3 @@ The supplementary contemplation **returns-to** [the Eros–Psyche whole](../../.
 
 The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md#4--aesthetic-reciprocity-becomes-a-perspective-capable-of-return) **qualifies** the quaternity comparison through distinct functions and attitudes. The four-function/two-attitude source task belongs to the Jung dossier; A18 retains the complete native eightfold derivation and no numerical identity is inferred.
 
-The [authored P1 route for M33](../P1-CANONICAL-ALIGNMENT.md#p1-m33) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
