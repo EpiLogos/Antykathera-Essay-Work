@@ -34,7 +34,11 @@ Here is the argument's edge. **A relay that cannot return to the real surface is
 
 ## #4
 
-Cyclic and telic return are different offices, and the difference is engineerable. Musical-v3 [§II-5.10](../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md), as A17 retains it: operational recursion opens another performance, while telic return recognises the standing relation the performance has enacted. The relay's operational form is the re-run — another simulation, another pass; its telic form is reconciliation after the run: the winding completed, the travelled difference received as provenance, the standing relation between representation and represented recognised rather than merely re-entered. A cycle that cannot stop is the bellows demanding endless production; the return that can recognise is the player able to bring it to silence. The candidate materialisation with evidence is exactly the return-leg made procedural — reconciliation as a first-class stage of the lifecycle (S4/P3), not an afterthought.
+Cyclic and telic return are different offices, and the difference can be built into a lifecycle. Operational recursion opens another performance: another simulation, another pass, another run. Telic return receives the travelled difference and recognises the standing relation the performance has enacted.
+
+The re-run is therefore not enough. Reconciliation asks what the passage changed, what provenance the winding retained, and whether the representation has returned to the world it represented in a way that can alter the next beginning. A cycle that cannot stop is the bellows demanding endless production; a return that can recognise is the player able to bring the phrase to silence.
+
+In technical terms, **reconciliation belongs inside the lifecycle**: prepare, run, observe, and then receive the evidence strongly enough that the next materialisation can begin from changed conditions.
 
 ## #5→0
 
