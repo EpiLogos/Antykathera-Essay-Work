@@ -1858,3 +1858,16 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block
 
 `### Declared field`
+
+## submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md
+
+### displaced block 1
+
+### Declared field
