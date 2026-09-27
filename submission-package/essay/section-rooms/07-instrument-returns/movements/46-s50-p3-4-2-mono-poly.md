@@ -83,4 +83,3 @@ The commons’ deciding office **returns-to** [Arbitration-in-Crisis → Decisio
 
 The sovereign commons **returns-to** [Credere — renewed entrustment](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#credere-renewed-entrustment) through an undertaking whose bearer can still answer after a decision. Fides sustains prior reliance; Nomos gives rules and offices executable standing; Credere carries renewed commitment after their examination. The members’ powers to refuse, revise, leave and reconnect make this temporal return consequential without guaranteeing every fulfilment or replacing E2’s deciding operation.
 
-The [authored P1 route for M46](../P1-CANONICAL-ALIGNMENT.md#p1-m46) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
