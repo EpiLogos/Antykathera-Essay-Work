@@ -49,4 +49,3 @@ Lacan gives the local cut its precision: the barred subject, the quilting signif
 
 Lacan1971–72, Price2017, Darmon1992 and Adleman/Vanderwees2021 remain separate carriers; the native QL sequence is not Lacan’s notation; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-address) **qualifies** this historical attribution.
 
-The [authored P1 route for M34](../P1-CANONICAL-ALIGNMENT.md#p1-m34) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
