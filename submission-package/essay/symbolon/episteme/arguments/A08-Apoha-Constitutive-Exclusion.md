@@ -74,7 +74,3 @@ This page returns-to [[A02-Copula-Self-Identity-through-Difference|A02]] with id
 **Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** a **Name** becomes countable against a **Region** of non-selected possibilities; the resulting **Account** remains answerable to the region it has cut. **Evidence register:** 3, Operational homology. **What changes:** exclusion is treated as constitutive relation rather than accidental missing data. **Return route:** A08 → C18 → A14/C40 → A33/C45 → A08.
 
 **Matheme:** `1` against an unexhausted field; **Mytheme:** boundary, shadow and absent counterpart; **Episteme:** Dignāga/Buddhist apoha scholarship and modern contrastive/classificatory systems with no claim of historical descent between them.
-
-### Unresolved Delta
-
-Restore primary/secondary Buddhist source depth and sharpen differences among exclusion, negation, contrast, absence and repression.
