@@ -61,4 +61,3 @@ This is the exact formal neighbour of [[symbolon/episteme/concepts/C64-Paradox-T
 
 A changed frame is useful only if it supports an actual path, invariant or completion. The next movement therefore moves from formal enlargement to traversable return and exact interval: [[29-s3-p4-topology-music-resolution|§3 · #4 — Topology and Musical Resolution]].
 
-The [authored P1 route for M28](../P1-CANONICAL-ALIGNMENT.md#p1-m28) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
