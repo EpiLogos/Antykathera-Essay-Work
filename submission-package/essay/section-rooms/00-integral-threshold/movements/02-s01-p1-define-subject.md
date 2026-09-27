@@ -34,4 +34,3 @@ The later essay will name these offices more directly as **Subjective Immediacy 
 ## Anchor and transition
 **Relational anchor:** knower — means — known; the later slash will carry the work presently done by *pramāṇa*, but no QL notation is required yet. **Source path:** [[symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE|The Blind Spot — Frank, Gleiser, Thompson]]. Definition itself becomes the next object of scrutiny in [[03-s01-p2-definition-cut-gift-danger|§0/1 · #2 — Definition as Cut, Gift, and Danger]].
 
-The [authored P1 route for M02](../P1-CANONICAL-ALIGNMENT.md#p1-m02) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
