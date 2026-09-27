@@ -21,7 +21,9 @@ source_ids:
 
 ## #1
 
-The harness-centric finding is process-priority performed, and the primitive field has its own address for the place it happens: S2/P4, Composition/HarnessComposition and SessionSpace — where capability is composed rather than stored. "Capability lives foremost in the ensemble, not the weights, and improves on a usage-driven clock" (PDF p. 55); "the unit that learns is the ensemble… and what it learns accrues to the commons between them" ([q039](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q039)). Nothing here is metaphor. The stable thing is a contraction of the field that produced it, and the field survives every one of its products — the constitution [A26 — Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) grounds as [[symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]], and whose inspection-as-revision [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] names.
+The harness-centric finding is process-priority performed. Capability becomes actual in **composition**: model, tools, memory, context, permissions, interfaces and runtime are brought into one situated ensemble in which the act can occur. Capability therefore lives not only in stored weights or isolated components but in the relations through which those components become available together.
+
+This is why usage can change the effective system without changing the base model. The ensemble acquires retained context, improved tools, changed procedures and different relations among its parts. [Objective Internality](../concepts/C41-Objective-Internality.md) gives this constituting field its philosophical office; [Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) names the reflexive return by which the composition can inspect and revise some of those conditions.
 
 ## #2
 
