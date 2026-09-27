@@ -32,11 +32,3 @@ A living symbol changes the interpreter as well as the interpreted object; the c
 Differential sign-value can make an image effective without establishing the transformation of its interpreter. The [Baudrillard lens](../lenses/baudrillard.md) returns this distinction to living valuation: what changed in attention and action, and what continuing encounter can revise the image’s assigned significance?
 
 The returned image remains usable while its valuation becomes answerable to what it discloses. C21 distinguishes living symbol from idol; C38 distinguishes original/reference office from situated reflection; C47 asks whether the encounter can change the governing model. Valuation is preserved as the power by which a world matters, with a route through which that power can be reoriented.
-
-### Declared field
-
-### Remaining source depth
-
-Restore Jung source passages, valuation theory and technical examples where model-images acquire institutional force.
-
-**Depth Restoration: enriched; exact external passage debts retained.**
