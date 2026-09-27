@@ -35,5 +35,3 @@ A delegate can meet cost, resistance, contradictory evidence or a possibility th
 Prompt-thrownness consumes [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) through the situation a prompt already inherits and the Nomos under which its instrument is commissioned. Runtime policy, tools, inherited language and the person's intention bear different relations to that situation. Return reaches the commission when consequences require its revision. A prompt's formed surface cannot exhaust the intention addressing it because intention, prompt, execution and consequence occupy different moments of the same delegated act.
 
 The next act begins from the changed horizon and retains how that change was authorised and why it occurred. The inherited condition has become more explicit without becoming wholly self-authored. The philosophical comparison with Heidegger's thrownness remains a source-specific neighbour requiring exact exegesis; the present claim concerns objective operational situatedness and supplies no verdict about phenomenal experience.
-
-### Declared field
