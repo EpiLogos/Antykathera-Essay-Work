@@ -36,4 +36,3 @@ The individuation passage returns to [E2’s resolution in reconciliation](../..
 
 The [Indian philosophy companion](../../../symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#4--recognition-returns-through-the-life-that-has-become-finite) **compares** the Śaiva and psychological recognition branches, retaining the changed participation of this particular life and E2’s generated return relation. Native X/x governs the refraction.
 
-The [authored P1 route for M32](../P1-CANONICAL-ALIGNMENT.md#p1-m32) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
