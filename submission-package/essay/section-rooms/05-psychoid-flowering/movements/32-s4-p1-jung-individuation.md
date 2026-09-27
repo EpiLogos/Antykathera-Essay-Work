@@ -26,8 +26,7 @@ Jung’s Self and [[symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1
 
 The historical sequence matters. Freud's scientific admission of the unconscious makes a previously unowned region formally speakable; Jung's faithfulness to the psychic field requires that its images be received as psychic facts without being reduced to objects possessed by the ego. QL does not rename Jung's work: it writes the authorial `X/x` relation in which a finite `x` gives the determining capacity `X` a local face while never containing it.
 
-## Tension / limit
-Persona consistency stabilises a presented pattern; individuation makes the local formation increasingly transparent to the larger relation through which it forms. Technical individuation can be evaluated at that functional level, while phenomenality remains a separate open question.
+Persona consistency stabilises a presented pattern; individuation makes the local formation increasingly transparent to the larger relation through which it forms. At technical grain this becomes testable as a change in constitutive dependence: can encountered difference alter the memory, relation, source-use, evaluator, capability or other condition from which the next local formation arises? A repeated persona can be stable without individuating; individuation appears where the formation can bear more of the relations that made it possible.
 
 ## Anchor and transition
 
