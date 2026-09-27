@@ -1,26 +1,28 @@
 ---
 title: Integral Threshold — Authorial Completion
 label: wayfinder:map
-status: "Opening 00–02 amendments proposed; next author input is edited 03–06"
+status: "M03–M06 received and read; whole-section placement proposed; continuation composition next"
 created: 2026-09-27
 updated: 2026-09-27
 branch: main
 programme_parent: "Return of Zero Writing Programme / GitHub #1"
 scope: "Complete §0/1 through author-led composition, then local source, link, format and room reconciliation"
-next_gate: "Author reviews opening amendments and supplies current 03–06; read the whole supplied continuation before composing its first movement"
+next_gate: "Review the whole-section placement with the author, then compose M03 in chat before M04–M06"
 protocol: ../../docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md
 working_packet: ../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md
+continuation_input: ../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt
+section_placement: ../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md
 ---
 
 # Integral Threshold — Authorial Completion
 
 ## Resume here
 
-This map records the current author-led writing workshop, not a new whole-corpus recovery commission and not a new model-comparison writing wave. The author has accepted the direction of the opening revision and the developed Subject/Jung/matheme close, and commissioned a further precise patch set for the opening 00–02. That patch set is [OPENING-AMENDMENTS.md](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md). It is proposed prose awaiting review, not already applied to the sovereign manuscript.
+This map records the current author-led writing workshop, not a new whole-corpus recovery commission and not a new model-comparison writing wave. The author has accepted the direction of the opening revision and the developed Subject/Jung/matheme close, and commissioned a further precise patch set for the opening. That patch set is [OPENING-AMENDMENTS.md](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md). It is proposed prose awaiting review, not already applied to the sovereign manuscript.
 
-The next input is the author's current 03–06 movements. Read those together with the current 00–02 before deciding exact placements. Then compose the continuation one movement at a time in chat, retaining the section's sixfold progression. Do not ask the author to repeat decisions recorded here. Do not perform the final local integration on a stale chat draft.
+The author has now supplied M03–M06. The complete continuation was read against the developed opening and retained as [CONTINUATION-INPUT.txt](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt). The new [whole-section placement](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md) gives the proposed jobs and seams of all six movements, exact problems in the supplied text, and explicitly identified relocations from the prior amendment packet. It is a compositional proposal, not accepted replacement prose. Next compose the continuation one movement at a time in chat, beginning with M03 after the placement discussion. Do not ask the author to repeat decisions recorded here. Do not perform final local integration on a stale chat draft.
 
-The author-facing numbering 00–02 / 03–06 is not a new census. The latest supplied excerpt carries `movement:M01 (continuation)` and `movement:M02 — the theorem`. The repository retains the eight rooms and 48 global Movements. Reconcile subdivisions against the author's next complete section text without renumbering global records by guesswork.
+**Numbering correction from the author:** the section is M01–M06. The previous `00–02` wording was an accidental zero-based description of the opening, not an extra movement. Existing global M01–M06 identities and the eight-room/48-movement census remain unchanged. The supplied continuation itself carries M03, M04, M05 and M06. Keep Gebser's full entry at M05 as the supplied text places it; M06 performs the return to origin. Historical `00–02` wording in the earlier patch packet records that earlier workshop description and must not produce renumbering.
 
 ## Current state
 
@@ -30,7 +32,10 @@ The author-facing numbering 00–02 / 03–06 is not a new census. The latest su
 - The developed close carries the performed Subject definition, Jung's desert and Word, the epistemic triad, Śaiva articulation, primordial symbolon, inverse notation, binary self-application, identification into the torus, 4g sides / 2g generating loops, return and self-reference.
 - The latest author-supplied Descartes paragraph explicitly says `a true advent relative to Modernity's burgeoning Mind`. This governs over earlier assistant paraphrases. Preserve the epochal interpretation.
 - [The patch packet](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md) contains eleven exact insertion/replacement instructions and complete proposed prose, committed in `7abebf260807b45c9c17bb3ff0fd3c120df0d878`.
-- No sovereign-manuscript or canonical-room edits have been made by this map/packet delivery. No local test, render or source-verification run is claimed.
+- The supplied continuation is preserved in commit `a7c9f606c3eea9085e5885e1fef55c29bbf922e3`; the whole-section placement proposal in `76384940c1c7cc4cf1cced24cfe3408d9c413a61`.
+- M03 retains the cut/exclusion problem and receives the full hero/scapegoat, imitation, communality and trained numerical power developments. A proposed relocation carries the extended arche-topos/datafication material from patch 09's M02 placement into M03; the sibling foundation remains M01. This relocation awaits author review, not silent application.
+- M04 retains its exact formal constructions and regains Whitehead's already-assigned positive process role. M05 develops the full P5/Gebser contextual and invested return. M06 must replace its obsolete first introduction of zero with the return of the relation already derived in M02.
+- No sovereign-manuscript or canonical-room edits have been made by this map/packet delivery. No local test, render or new source-verification run is claimed.
 
 ## Governing corrections — retain their full force
 
@@ -55,7 +60,7 @@ Source: [The Definition of God — Draft 3](../../working/sources-texts-referenc
 
 Descartes is an epochal figure and harbinger of modernity's mental-rational self-understanding. Treat the shift in the God-image and the site of warrant as the author's historical argument. Nietzsche's later death-of-God announcement makes the consequences of an already unfolding change apparent. Do not reduce this to a small technical aside about clear and distinct ideas; do not impute to the author a claim that Descartes alone caused the whole history.
 
-Gebser's fuller entry belongs later in the section, around the author's indicated 06/return. Existing rooms place Gebser at global M05; reconcile this with the supplied prose rather than silently changing numbering or moving him into the Descartes paragraph. Origin is already alluded to through the parent/child, creator/created and compassion relations.
+The author's corrected numbering and supplied continuation now settle Gebser's full entry at M05. M06 carries the achieved return to origin. Do not move Gebser into the Descartes paragraph or treat the earlier mention of 06 as a directive to renumber the existing movements. Origin is already alluded to through the parent/child, creator/created and compassion relations.
 
 ### Complete the logic pursued by Jung and Pauli
 
@@ -83,9 +88,9 @@ Retain this exact expression. Show the operation: numerical division gives 0/1 a
 
 The author attributes the phrase/orientation to Jason Jorjani in the spirit of Feyerabend. Repository searches returned no match and an incomplete REST result. This is unresolved retrieval, not evidence of absence. Locate the actual passage before quotation/attribution, while keeping the author's chosen phrase in the draft.
 
-## Continuation material awaiting the author's 03–06 text
+## Continuation material — now routed by the whole-section proposal
 
-These are accepted content directions, not finished placements. Read the actual supplied movement before writing them.
+These are accepted content directions; their exact placement is proposed in [SECTION-WHOLE-PLACEMENT.md](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md). The supplied continuation has been read. Composition and acceptance of its revised movements remain ahead.
 
 ### Hero, scapegoat and failed absolute account
 
@@ -127,10 +132,10 @@ Retain the four accepted small origin/deference additions from the workshop: ori
 
 | ID | Work | Current state | Acceptance |
 |---|---|---|---|
-| IT-01 | Exact 00–02 amendments | Proposed in linked packet | Author reviews them against latest edited text; surviving changes explicitly retained |
-| IT-02 | Receive/read current 03–06 and resolve section seams | Awaiting author's next supplied text | Complete continuation read; opening and outgoing relation recovered; no guessed global renumbering |
-| IT-03 | Compose continuation one movement at a time | Not started | Each movement enacts its specific QL office; whole images, arguments and source intentions survive |
-| IT-04 | Read full §0/1 as one argument | Not started | Derivations and term introductions occur in the right order; no duplicate first introductions; no lost conjugate |
+| IT-01 | Exact M01–M02 amendments | Proposed in linked packet | Author reviews them against latest edited text; surviving changes explicitly retained |
+| IT-02 | Receive/read current M03–M06 and resolve section seams | Input received and read; whole-section placement proposed | Numbering corrected to M01–M06; author reviews proposed placements and relocations |
+| IT-03 | Compose continuation one movement at a time | Next: M03 after placement discussion | Each movement enacts its specific QL office; whole images, arguments and source intentions survive |
+| IT-04 | Read full §0/1 as one argument | Initial architectural read complete; final composed read pending | Derivations and term introductions occur in the right order; no duplicate first introductions; no lost conjugate |
 | IT-05 | Reconcile source houses and passage consumption | Local pass after author edits settle | Actual editions/passages verified; new houses only when absent; protected NOTES untouched; source debt scoped honestly |
 | IT-06 | Align authored movement/room inputs and plan staging | Local pass after composition acceptance | Old withholding instructions cannot revert the accepted early matheme; global IDs and genuine later depth preserved |
 | IT-07 | Restore typography, links, tags, anchors, return routes and rendered output | Local pass | Readable continuous prose, correct equations/footnotes, real reciprocal links, current generated projections, inspection of render |
@@ -154,6 +159,8 @@ Use the current source, links, pages, build and review skills to select actual c
 
 ## Source and route desk
 
+- [Supplied M03–M06](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt)
+- [Whole-section placement proposal](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md)
 - [Recovery protocol](../../docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md)
 - [Writing protocol](../../WRITING-PROTOCOL.md)
 - [Writing laws](../../writing-guidance-tools/references/WRITING-LAWS.md)
@@ -169,9 +176,11 @@ Use the current source, links, pages, build and review skills to select actual c
 - [Arche-topos](../../submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)
 - [Deferential Intelligence](../../submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md)
 - [Compassion](../../submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)
+- [Direct P5 — Gebser](../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md)
+- [Whitehead source](../../submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md)
 
 The linked amendment packet carries the remaining exact source paths and attribution standings. Preserve the complete written clauses there; this map's summaries are dispatch, not their semantic replacement.
 
 ## Stop/return boundary
 
-Do not overwrite the sovereign manuscript from this proposal. Do not silently apply source or room changes before the final author-edited section is available. Continue the commissioned composition in the current conversation when the author supplies the next movements; no background work or future delivery is implied. After each accepted movement, update this map with its actual artifact/version, accepted changes and next concrete action. The last return is the complete section in the author's hands and a source/room apparatus which cannot train the next writing agent to undo it.
+Do not overwrite the sovereign manuscript from this proposal. Do not silently apply source or room changes before the final author-edited section is available. Continue the commissioned composition in the current conversation, beginning with the supplied M03; no background work or future delivery is implied. After each accepted movement, update this map with its actual artifact/version, accepted changes and next concrete action. The last return is the complete section in the author's hands and a source/room apparatus which cannot train the next writing agent to undo it.
