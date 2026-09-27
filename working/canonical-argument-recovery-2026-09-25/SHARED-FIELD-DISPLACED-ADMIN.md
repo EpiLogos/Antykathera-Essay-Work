@@ -2005,3 +2005,42 @@ Restore the exact historical phrase traditions and distinguish containment from 
 ### Declared field
 
 **Etymology relations:** *Homologia / Analogia*; consumed operation: apparently incompatible terms can reveal a higher/focal relational structure only after their local differences are preserved. Register **3**. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a paradox can expose and transform the mediating slash rather than merely replace a determination. Register **3**. Return C64 → A36 → C36/A21 → C64, with C64 → C51/A35 → C64 supplying the paradigmatic return.
+
+## submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md
+
+### displaced unresolved block 1
+
+### Unresolved Delta
+
+Verify source passages and refine the relation among Trika, kartṛ-pole, kārya and the essay's notation. The first canonical materialisation preserves the tradition's office without claiming textual certainty not yet restored.
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#1--reflexive-awareness-gives-differentiation-its-active-middle) **compares** the source-local four operations, two conditions and three levels while retaining luminous self-apprehension and the native count.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A06-Vak.md
+
+### displaced unresolved block 1
+
+### Unresolved Delta
+
+Passage-level verification of the levels of Vāk, Paśyantī and Nāda; exact relation to Eckhart and later Logos material; fuller technical examples and the implemented relation between expressive projection and the paradigm it can revise.
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#2--speech-forms-a-world-which-can-answer-its-speaker) **compares** speech formation, personed address and the non-arbitrary kaleidoscope, returning the achieved account through E3 Logos.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md
+
+### displaced unresolved block 1
+
+### Unresolved Delta
+
+Restore primary Śaiva textual warrant, exact Taylor script formulations and examples distinguishing script from ordinary habit, policy and executable code.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md
+
+### displaced unresolved block 1
+
+### Unresolved Delta
+
+Restore primary/secondary Buddhist source depth and sharpen differences among exclusion, negation, contrast, absence and repression.
