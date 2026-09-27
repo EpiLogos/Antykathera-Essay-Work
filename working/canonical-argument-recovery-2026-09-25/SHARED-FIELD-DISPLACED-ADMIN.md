@@ -1845,3 +1845,16 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 2
 
 **Unresolved Delta:** the realisation of any integral society is a scenario, not a finding; the [Advent of Zero](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) manuscript's external claims retain their separately housed source obligations; the brief's FROM → TO matrix and §10 opening (pp. 52, 56) are used from the local copy without passage cards (flagged in the arc receipt). The four-verb room-mapping and the second-advent form are each stated once above and await the author's confirmation. The completion claimed here is the essay's own operation — exactness retained, ground not possessed, return route open — not a prediction about the hybrid society's history.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md
+
+### displaced block
+
+`### Declared field`
+
+## submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md
+
+### displaced block
+
+`### Declared field`
