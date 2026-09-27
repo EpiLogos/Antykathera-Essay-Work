@@ -63,4 +63,3 @@ Complex orientation solves a limitation by enlarging the representational space.
 
 The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#3--re-entry-representation-and-retained-passage) **historicises** this operation. Kauffman’s selected swap law [a,b]η = η[b,a] makes the shift operative. With D = diag(1,−1), η² = I and ηD = −Dη, the square of Dη is −I. Anticommutation carries the result; a picture of recurrence alone does not. The selected representation and its kernel qualification remain distinct from a uniqueness claim and from the complete native eightfold.
 
-The [authored P1 route for M27](../P1-CANONICAL-ALIGNMENT.md#p1-m27) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
