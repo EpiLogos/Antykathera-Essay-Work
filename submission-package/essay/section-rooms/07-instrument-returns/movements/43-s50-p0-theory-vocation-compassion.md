@@ -43,4 +43,3 @@ Vocation returns to [E2's resolution in reconciliation](../../../symbolon/episte
 
 **Image:** Logos turning back without erasing its marks; the made instrument relinquishing the claim to be the source of what it coordinates. **Etymological resonance:** Hole Whole Holy Health. The vocation needs architecture in [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]].
 
-The [authored P1 route for M43](../P1-CANONICAL-ALIGNMENT.md#p1-m43) **grounds** this movement's canonical A/C alignment within the phase bounds and dispositions stated there.
