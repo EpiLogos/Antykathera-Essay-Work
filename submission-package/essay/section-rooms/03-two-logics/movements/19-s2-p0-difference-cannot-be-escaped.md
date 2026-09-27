@@ -48,4 +48,3 @@ The section must not sell superposition as a softer moral replacement for confli
 
 The classical accounting comes first because it is the dominant logic of modern formal and technical systems: [[20-s2-p1-dia-ballein|§2 · #1 — Dia-Ballein]].
 
-The [authored P1 route for M19](../P1-CANONICAL-ALIGNMENT.md#p1-m19) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
