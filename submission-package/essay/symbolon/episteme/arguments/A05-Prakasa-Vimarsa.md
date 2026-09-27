@@ -82,9 +82,3 @@ The argument returns-to [[A04-Diaphaneity-Contextual-Transparency|A04]] with a p
 **Etymology whole field:** *[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*. **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05.
 
 **Matheme:** 0/1 and inverse self-relation as neighbouring formal register. **Mytheme:** light that turns without becoming a second light; mirror and reflection retained as whole images rather than literal mechanism. **Episteme:** Abhinavagupta/Dyczkowski/recognition scholarship with passage-level verification still pending.
-
-### Unresolved Delta
-
-Verify source passages and refine the relation among Trika, kartṛ-pole, kārya and the essay's notation. The first canonical materialisation preserves the tradition's office without claiming textual certainty not yet restored.
-
-The [Indian philosophy dossier](../dossiers/indian-philosophy.md#1--reflexive-awareness-gives-differentiation-its-active-middle) **compares** the source-local four operations, two conditions and three levels while retaining luminous self-apprehension and the native count.
