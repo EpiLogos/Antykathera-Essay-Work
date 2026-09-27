@@ -18,7 +18,9 @@ source_ids:
 
 Distinctions promoted into design must yield some inspectable consequence in operation, or they are decoration. [A33 — Epistemic Cultivation / Operational Parity](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) established the discipline: when a philosophical or formal distinction is used to justify a technical feature, the claimed difference must have an identifiable operational locus and a consequence that inspection or a meaningful test can discriminate. A33′ re-sites the discipline reflexively, on this field's own claims: typed authority ([A25′](A25-prime-Covenant-Architecture.md)), the authored session ([A28′](A28-prime-The-Authored-Session.md)), the return circuit ([A29′](A29-prime-Return-or-Extraction.md)), unmerged worlds ([A30′](A30-prime-Shared-Worlds-Unmerged.md)), model-revising alignment ([A31′](A31-prime-Deference-as-Co-Evolutionary-Alignment.md)), the [[symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md#4|Audited Film]] ([A32′](A32-prime-The-Mirror-Is-a-Film.md)) — each must name where it would change an operation, or acknowledge itself as prose.
 
-The primitive face is registers + S3/P4 — the Gate: the execution checkpoint where a candidate's experience is adjudicated before adoption. Parity is the Gate applied to claims themselves: a distinction passes when its removal would make an observable difference, and fails when it would not.
+The operative centre is the **Gate**: the execution checkpoint where a candidate's experience is adjudicated before adoption. Parity applies that gate to claims themselves. A distinction earns technological standing when its presence or removal makes an observable difference in the operation said to embody it.
+
+The Gate does not prove the philosophy by passing an implementation. It asks the narrower and harder question: did the implementation actually enact the distinction it invoked, and can the consequence be discriminated from a version in which the distinction was absent?
 
 ## #1
 
@@ -40,6 +42,8 @@ Applied to this field's own honesty: the A′ nodes are arguments, not implement
 
 ## #5→0
 
-A distinction survives as a changed operation, or returns to its concept for revision. S3/P4's Gate closes the arc's circuit — the covenant-into-agentworld claims of Arc IV are offered under this Gate, inspectable or withdrawn — and the same Gate opens onto the field's own production: these drafts pass through author review, the one gate that is already running. The inquiry remains capable of changing its own instruments without promoting the latest instrument into its ground — A33's own closing discipline, held one arc later.
+A distinction survives as a changed operation or returns to its concept for revision. The Gate closes the circuit by forcing the philosophical claim and the implemented operation to remain mutually answerable.
+
+This applies reflexively to the essay's own technical proposals. If a proposed distinction produces no discriminable consequence, the mapping needs revision. If the consequence appears somewhere other than predicted, the concept may need sharpening. Parity is valuable precisely because the inquiry can change its own instruments without promoting the latest instrument into the ground of the inquiry.
 
 The page **returns-to** [A33 — Epistemic Cultivation / Operational Parity](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) and the conjugate root [A/C](AC.md): the partner gave the enactment test for distinctions justifying features; A33′ turns the test on the conjugate field itself — the arc's claims bind where they can be implemented, varied and removed with observable difference, and count as prose where they cannot.
