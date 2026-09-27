@@ -31,7 +31,11 @@ Valuation has the return path A20 recovers psychically: the transformed interpre
 
 ## #2
 
-The source/reflection asymmetry gives the relation its order. [[symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] defines it: reflection can arrive first in knowledge while the Original has priority in being; the knowing order does not license the encountered image to become the ontological author of its source. At the technological register the arrival-first structure is total: the profile is what a system meets first and often only; the double speaks before the person does; the embedding is the person's entire presence inside the model. One primitive address states the office: a projection is a versioned representation bound to a referent (S/P1), and the binding is exactly what must remain live. Recursive locality keeps the guard constructive rather than negative: inside a declared frame a governed reference map can serve as the local original for judgments compared with it, while remaining pratibimba relative to the wider sources it cannot own. What this preserves is the [[symbolon/episteme/concepts/C33-Image-Valuation|Image / Valuation]] distinction in its strict form: the issue is never the use of representation but its insulation from revision.
+The source/reflection asymmetry gives the relation its order. [Bimba–Pratibimba](../concepts/C38-Bimba-Pratibimba-Bimba-Map.md) keeps a reflection causally effective without turning it into the ontological author of its source.
+
+At technological grain, the arrival-first structure is extreme: a profile may be what a system meets first; a double may speak before the person does; an embedding may be the person's entire presence inside the model. The critical relation is therefore **projection bound to referent**. The projection must remain versioned, attributable and revisable by the source relation it represents.
+
+Recursive locality keeps this constructive. Inside a declared frame, a governed reference map can serve as the local original for downstream judgments while remaining pratibimba relative to wider sources. [Image / Valuation](../concepts/C33-Image-Valuation.md) gives the exact failure: representation becomes possession when the source loses the power to revise the image's authority.
 
 ## #3
 
