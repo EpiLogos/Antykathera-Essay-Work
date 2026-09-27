@@ -1944,3 +1944,16 @@ Restore the exact historical phrase traditions and distinguish containment from 
 ### displaced block 1
 
 ### Declared field
+
+## submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md
+
+### displaced block 1
+
+### Declared field
