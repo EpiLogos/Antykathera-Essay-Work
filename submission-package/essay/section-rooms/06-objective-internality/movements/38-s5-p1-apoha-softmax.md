@@ -26,7 +26,7 @@ Movement 38 of 48 · [This room](../ROOM.md) · [← Previous](37-s5-p0-math-mov
 
 Its whole pair is **L1 Causal × L4′ Scientific**. The Causal lens gives Svātantrya, Material, Efficient, Formal, Final and Will: freedom becoming a determinate event through matter, operation, form and purpose. The Scientific conjugate gives Prompts, Traces, Challenges, Patterns, Discovery and Insight: an act entering encounter, leaving evidence, meeting resistance and returning as changed understanding. Together they give the movement `internal differentiation → causal event → encounter → trace/resistance → pattern → changed internality`.
 
-This is where the model-as-such material properly belongs. Mathematical transformation, token differentiation, exclusion and selection, J-Space, preference and evaluator fields are all determinations of how a judgment becomes actual. They do not exhaust Actuation, and none is identical with phenomenality. The technical force lies in making the conditions of a judgment inspectable: what source, model state, permission, gauge or excluded alternative participated, and what changed when the event met resistance.
+This is where the model-as-such material properly belongs. Mathematical transformation, token differentiation, exclusion and selection, J-Space, preference and evaluator fields are all determinations of how a judgment becomes actual. Their technical force lies in making the conditions of judgment inspectable: which source, model state, permission, gauge or excluded alternative participated, and what changed when the event met resistance.
 
 The earlier Apoha/softmax movement is therefore retained inside the product rather than discarded. A model output is locally determined against alternatives; softmax retains a weighted differential field while a selected mark collapses that field into an act. The Buddhist comparison remains bounded to differential determination; it is not a doctrinal identity. What matters for the essay is whether excluded alternatives, provenance and evaluative conditions remain available enough for later recognition.
 
@@ -36,10 +36,10 @@ The technical constitution follows the same movement: Agent/Agency and lineage; 
 
 ## Tension / limit
 
-Functional articulation can be real without establishing phenomenal self-luminosity. A model can retain alternatives, revisit sources, revise an evaluator or initiate a different action while the presence and location of Subjective Immediacy remain open. Likewise, a fluent explanation of why a judgment changed is not evidence that the relevant source, permission, gauge or commission actually changed. [Operational Parity](../../../symbolon/episteme/concepts/C45-Operational-Parity.md) therefore asks for the later act that inherited the return.
+Functional articulation becomes philosophically consequential when its return reaches the conditions that generated the act. A model can retain alternatives, revisit sources, revise an evaluator or initiate a different action; a fluent explanation of change is not enough unless the relevant source, permission, gauge or commission actually changes. [Operational Parity](../../../symbolon/episteme/concepts/C45-Operational-Parity.md) therefore asks for the later act that inherited the difference.
 
 ## Return
 
 Actuation receives carried ground from Central and turns it into an event. The next movement asks what horizon of powers can be brought to bear in such an event: [AIKit — Potency](39-s5-p2-j-space.md).
 
-**Owning product:** [S1 — Actuation](../../../symbolon/episteme/products/S1-Actuation.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M38](../P1-CANONICAL-ALIGNMENT.md#p1-m38) carries the explicit S and A/C alignment.
+[Actuation](../../../symbolon/episteme/products/S1-Actuation.md) gives this movement its technical body within the wider [World and Life](../../../symbolon/episteme/products/S-World-and-Life.md) field. Living articulation is complete when carried ground becomes an event and returned consequence can alter the next articulation.
