@@ -110,4 +110,3 @@ The station has now accumulated several rigorously distinct ways of carrying a r
 
 The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#4--commensuration-makes-a-remainder-consequential) **historicises** a distinct musical remainder. The exact completion `16/9 · 9/8 = 2` differs from the Pythagorean comma produced by twelve fifths versus seven octaves, `531441/524288`. Temperament redistributes the latter discrepancy according to a selected criterion. These are different mathematical/musical remainders and should not be merged under one poetic word.
 
-The [authored P1 route for M29](../P1-CANONICAL-ALIGNMENT.md#p1-m29) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
