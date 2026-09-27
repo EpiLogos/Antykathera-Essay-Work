@@ -60,4 +60,3 @@ The [myth historical development](../../../symbolon/episteme/histories/encounter
 
 The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#4--differentiation-must-carry-its-inherited-whole) **compares** this return. Neumann’s morphology of ego formation and Gebser’s consciousness structures retain different objects and historical methods. The native 180°→360° contextual turn makes first-, second- and third-person positions jointly available without adding a fourth pronoun. Communicable form can receive participation while keeping its aperture; a merged universal chronology would lose that distinction.
 
-The [authored P1 route for M35](../P1-CANONICAL-ALIGNMENT.md#p1-m35) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
