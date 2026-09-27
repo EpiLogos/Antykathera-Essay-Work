@@ -50,4 +50,3 @@ The mathematical substrate now has a precise task. It must derive how this groun
 
 Continue to [[25-s3-p0-eight-determinations|§3 · #0 — Eight Determinations]].
 
-The [authored P1 route for M24](../P1-CANONICAL-ALIGNMENT.md#p1-m24) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
