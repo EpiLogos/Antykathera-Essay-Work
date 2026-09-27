@@ -38,5 +38,3 @@ The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/moth
 The written 0/1 becomes a local determination within the field in which it appears. Taylor's paper scene returns the manifest All to the uncounted One without abolishing the mark's exact office. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
 
 The local one remains real while returning to conditions it cannot own. A12 develops Mono/Poly from these prior offices; A13 develops the two logics of their differentiation; A18 carries the complete transverse field. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.
-
-### Declared field
