@@ -1,166 +1,178 @@
 ---
 title: Integral Threshold — Authorial Completion
 label: wayfinder:map
-status: "M03–M06 received and read; whole-section placement proposed; continuation composition next"
+status: "M03–M06 collectively drafted; author review and whole-section integration next"
 created: 2026-09-27
 updated: 2026-09-27
 branch: main
-programme_parent: "Return of Zero Writing Programme / GitHub #1"
+programme_parent: "Existing essay writing programme / GitHub #1"
 scope: "Complete §0/1 through author-led composition, then local source, link, format and room reconciliation"
-next_gate: "Review the whole-section placement with the author, then compose M03 in chat before M04–M06"
+next_gate: "Read the collective M03–M06 draft with the author's current M01–M02, accept or amend the prose, then integrate the complete six-movement section"
 protocol: ../../docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md
 working_packet: ../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md
 continuation_input: ../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt
 section_placement: ../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md
+collective_draft: ../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-DRAFT.md
 ---
 
 # Integral Threshold — Authorial Completion
 
 ## Resume here
 
-This map records the current author-led writing workshop, not a new whole-corpus recovery commission and not a new model-comparison writing wave. The author has accepted the direction of the opening revision and the developed Subject/Jung/matheme close, and commissioned a further precise patch set for the opening. That patch set is [OPENING-AMENDMENTS.md](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md). It is proposed prose awaiting review, not already applied to the sovereign manuscript.
+This is the current author-led writing workshop. It is not a new whole-corpus recovery commission or model-comparison writing wave. The author has supplied the opening and the full M03–M06 continuation, corrected the proposed placement, and requested actual composition in a single collective file.
 
-The author has now supplied M03–M06. The complete continuation was read against the developed opening and retained as [CONTINUATION-INPUT.txt](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt). The new [whole-section placement](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md) gives the proposed jobs and seams of all six movements, exact problems in the supplied text, and explicitly identified relocations from the prior amendment packet. It is a compositional proposal, not accepted replacement prose. Next compose the continuation one movement at a time in chat, beginning with M03 after the placement discussion. Do not ask the author to repeat decisions recorded here. Do not perform final local integration on a stale chat draft.
+**The collective M03–M06 draft is now written:** [CONTINUATION-DRAFT.md](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-DRAFT.md), commit `0e5d6b57c296587af14d610dabd3b00919fe56f7`. It contains all four continuous movements, 33 source notes and an integration record. It is proposed prose for author review, not a replacement already applied to the sovereign manuscript. Local checks passed for movement identities, footnote references/definitions and mathematical delimiter balance. The prose was reviewed against the writing laws and rubric. Repository source, graph, room, rendering and publication audits have not been run.
 
-**Numbering correction from the author:** the section is M01–M06. The previous `00–02` wording was an accidental zero-based description of the opening, not an extra movement. Existing global M01–M06 identities and the eight-room/48-movement census remain unchanged. The supplied continuation itself carries M03, M04, M05 and M06. Keep Gebser's full entry at M05 as the supplied text places it; M06 performs the return to origin. Historical `00–02` wording in the earlier patch packet records that earlier workshop description and must not produce renumbering.
+M01–M02 remain in the author's current working text, the supplied opening revision and [OPENING-AMENDMENTS.md](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md). Read those alongside the collective continuation; do not reconstruct the accepted beginning from an old manuscript scaffold or silently replace newer author edits. Do not ask the author to repeat the decisions retained here.
 
-## Current state
+**Numbering is M01–M06, corresponding to QL #0–#5→0.** The earlier `00–02` workshop wording was an accidental zero-based description, not an extra movement. The eight-room/48-movement census is unchanged.
 
-- The original opening paragraph beginning `Somehow every attempt at defining this slips through humanity's fingers` is protected and remains unchanged.
-- The old appointment/calendar example and instrument-panel-centred continuation are superseded by the parent/child → formation → creator/created → Agentworld → naming movement.
-- The working opening revision expands Kripke from the author's NOTES, develops name/instance/circumstance, counting before naming, I/you/it, the copula and its actual cut/bond construction.
-- The developed close carries the performed Subject definition, Jung's desert and Word, the epistemic triad, Śaiva articulation, primordial symbolon, inverse notation, binary self-application, identification into the torus, 4g sides / 2g generating loops, return and self-reference.
-- The latest author-supplied Descartes paragraph explicitly says `a true advent relative to Modernity's burgeoning Mind`. This governs over earlier assistant paraphrases. Preserve the epochal interpretation.
-- [The patch packet](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md) contains eleven exact insertion/replacement instructions and complete proposed prose, committed in `7abebf260807b45c9c17bb3ff0fd3c120df0d878`.
-- The supplied continuation is preserved in commit `a7c9f606c3eea9085e5885e1fef55c29bbf922e3`; the whole-section placement proposal in `76384940c1c7cc4cf1cced24cfe3408d9c413a61`.
-- M03 retains the cut/exclusion problem and receives the full hero/scapegoat, imitation, communality and trained numerical power developments. A proposed relocation carries the extended arche-topos/datafication material from patch 09's M02 placement into M03; the sibling foundation remains M01. This relocation awaits author review, not silent application.
-- M04 retains its exact formal constructions and regains Whitehead's already-assigned positive process role. M05 develops the full P5/Gebser contextual and invested return. M06 must replace its obsolete first introduction of zero with the return of the relation already derived in M02.
-- No sovereign-manuscript or canonical-room edits have been made by this map/packet delivery. No local test, render or new source-verification run is claimed.
+The immediately preceding map and all its detailed dispatch clauses remain recoverable [at the pre-draft checkpoint](https://github.com/EpiLogos/Antykathera-Essay-Work/blob/0556c3b57da2f1cf3343e8de96dd9f24529bb47b/.wayfinder/maps/integral-threshold-authorial-completion.md). The latest corrections below govern where that earlier placement differs. Historical proposals are not discarded or silently treated as ratified text.
 
-## Governing corrections — retain their full force
+## Latest authorial placement correction — governing
 
-### God and Subject are complete conjugates
+### M03 / QL #2: preserve the logical cut
 
-Do not offer the single sentence `God is the whole that any coherent representational system participates in and necessarily fails to contain` as the missing theological content. Its defining operation is already active in the Subject argument. The theological conjugate has its own complete sixfold:
+Retain the existing focus: Spinoza's finite figure, Dignāga/Pind's semantic exclusion, the living symbolon, and the distinction among criterion, delineation and arbitration. Develop a presage of dia/syn because this is the logical/dynamic office: polar distinction retains an axis; cancellation and appropriation are different operations; syn retains difference and the relation through which it becomes intelligible.
 
-1. omnipotence;
-2. omniscience;
-3. omnipresence;
-4. omnibenevolence;
-5. omnivalence;
-6. omni-lemmicity / self-predicament / capacity for inversion.
+Do not turn M03 into a long Jung chapter, a survey of religious history, or a Peters insertion. Mythic allusion can arise through the two logics where the operation has been made explicit. The draft preserves the cut/authority examples and routes the larger mythic movement onward.
 
-This enumeration lists the components; it does not appoint new #0–#5 QL positions to individual attributes. Recover their actual appointments from the direct source where needed.
+### M04 / QL #3: show the real recurrent pattern
 
-The four explicit attributes are pressed through their own infinitude. A freedom unable genuinely to limit itself would be limited by that inability; presence includes actual absence, knowledge reaches its blind spot, and value differentiates within a whole which cannot simply expel its contrary. Omnivalence and omni-lemmicity complete the account's logic. Do not weaken genuine self-limitation into an omnipotence secretly cancelling all consequences.
+This movement establishes that the limit is neither new nor invented for this essay. Develop the actual constructions and the pattern discernible across them. Restore depth to Russell and Whitehead's shared logical undertaking and their differing philosophical responses; Gödel's arithmetisation and incompleteness; Wittgenstein's saying/showing, Subject/world limit, value and will, ladder, and later practice.
 
-Source: [The Definition of God — Draft 3](../../working/sources-texts-references/definition-of-god-working/The%20Definition%20of%20God%20%E2%80%94%20Draft%203.md), especially `The Definition` and the preceding Jung/quaternity discussion. The enduring Subject, nirguṇa and Gottheit ground the relation between birth/death of an image and the unobjectifiable source. Retain `God need not be protected from the death of a God-image.` The point is a God-account which contains its own relinquishment, not a replacement idol guaranteed never to change.
+The earlier name/count/copula argument must return inside these constructions. Distinct operations give the common pattern its evidence. Preserve the author's invariant/completion claim instead of weakening it into a list of loosely similar problems.
 
-### Advent is part of the argument
+Jung's bounded hero/scapegoat movement belongs principally here as a further enacted form of the same difficulty, not as a replacement for the formal genealogy. The full Aion and later historical studies retain their own later offices. Spencer-Brown and Varela's full re-entry treatment is deferred to its stronger later mathematical placement, especially M27/§3. It is not deleted from the essay.
 
-Descartes is an epochal figure and harbinger of modernity's mental-rational self-understanding. Treat the shift in the God-image and the site of warrant as the author's historical argument. Nietzsche's later death-of-God announcement makes the consequences of an already unfolding change apparent. Do not reduce this to a small technical aside about clear and distinct ideas; do not impute to the author a claim that Descartes alone caused the whole history.
+### M05 / QL #4: the epistemic and contextual return
 
-The author's corrected numbering and supplied continuation now settle Gebser's full entry at M05. M06 carries the achieved return to origin. Do not move Gebser into the Descartes paragraph or treat the earlier mention of 06 as a directive to renumber the existing movements. Origin is already alluded to through the parent/child, creator/created and compassion relations.
+Recover Gebser's original historical-optical and consciousness-structure account, then the full force of the author's P5 interpretation. Retain psychic facticity, the world-picture relation, being with text and subtext, invested judgment, the absent Father, the whole stained-glass construction and the return to an intelligence's operative means.
 
-### Complete the logic pursued by Jung and Pauli
+The collective draft places the developed singleness/communality, arche-topos and datafication passages here, where their relations become available as context capable of changing judgment. Their logical basis remains in M03, their mythic and identificatory pressure in M04, and their sibling/formation scene in M01. This is an explicit proposed placement within the new draft, open to author refinement.
 
-The stated undertaking is to identify and develop an invariant structure toward which Jung's symbolic/numerical work was moving, and to complete its generative logical articulation. Do not downgrade that claim into merely taking up a suggestive metaphor.
+### M06 / QL #5→0: 0/1 returns
 
-Recover Jung's one-to-five movement, the quaternity and centre, the senarius/double pyramids, the fifth returning to the first, and the dynamic formula. Zero makes the unobjectifiable condition explicit; toroidal identification gives it process and retained difference. Do not falsely say Jung never counted six: his double pyramids already carry a senarius. Distinguish the historical forms from the essay's claim about their invariant and completion.
+M06 must not be about zero as an isolated or newly proposed sign. **Manifest zero is necessarily 0/1**: the unobjectifiable condition is already in relation with manifestation. The direct theorem states this in IX. Pure bracketing zero has a different office; no agent may flatten the full relation into a promissory digit.
 
-Keep von Franz's continuation of number-as-archetype in the historical route. The Jung/Pauli letters and appendices supply the continuing inquiry; Aion already publicly articulates part of it. Source verification must not erase the completion ambition.
+The collective heading is **“0/1: the relation returns.”** The movement receives what M02 established and the subsequent movements transformed. It points first into §0's differentiating means, and anticipates §1's historical inquiry into zero without skipping the intervening section. Preserve the final question about how awareness differentiates into its means and known world.
 
-### The registers are modes of Logos within 0/1
+### Book-title correction
 
-Matheme, mytheme and episteme are registers of the symbolon, each carrying its own complete 0/1 interior. They are not three outside media assigned to illustrate a prior abstract thesis. Every determination presupposes distinction from what it does not exhaust, and every account of that distinction occurs within the relation being accounted for.
+The author states that a replacement for the old title was agreed roughly two weeks earlier. The current repository master scaffold still uses the old title. The exact replacement wording was not recovered in this pass; it is an unresolved propagation/retrieval task, not permission to retain the old title as newly ratified or invent a substitute. This draft uses the uncontested section name. Recover the actual authorial title decision and propagate it through the appropriate authored inputs and generated surfaces during integration.
 
-Matheme: exact, repeatable operations in an inscription. Mytheme: the whole lived or narratable event, its actors, tensions, transformations and return. Episteme: instituted knowing, its methods, warrants, practices and authority. The symbolon holds their transformations and reciprocal disclosures. Source: [Symbolon Dynamics](../../working/sources-texts-references/Epi%20Paper%20Write-ups/Symbolon%20Dynamics%20%E2%80%94%20Archetype%2C%20Attractor%2C%20and%20Objective%20Internality.md), `Matheme, mytheme, episteme, symbolon`.
+## Current artifacts and what remains untouched
 
-### Numericality, power and the arche-topos
+- The original opening paragraph beginning `Somehow every attempt at defining this slips through humanity's fingers` remains protected and unchanged.
+- The appointment/calendar and panel-centred continuation have been superseded in the working proposal by parent/child, formation, creator/created, Agentworld and naming.
+- The opening expands Kripke through the author's NOTES, name/instance/circumstance, counting before naming, I/you/it and the actual copular cut/bond construction.
+- The developed M02 close retains the performed Subject definition, complete theological conjugate, Jung's desert/Word, the epistemic triad, Śaiva articulation, symbolon/matheme, inverse notation, binary self-application, toroidal identification, 4g sides / 2g generators and self-reference.
+- The author's current Descartes wording includes `a true advent relative to Modernity's burgeoning Mind`. Preserve its epochal interpretation.
+- [Opening amendments](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md): eleven exact proposals, commit `7abebf260807b45c9c17bb3ff0fd3c120df0d878`.
+- [Supplied continuation](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt): preserved input, commit `a7c9f606c3eea9085e5885e1fef55c29bbf922e3`.
+- [Earlier placement proposal](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md): commit `76384940c1c7cc4cf1cced24cfe3408d9c413a61`; superseded where the latest authorial placement correction above differs.
+- [Collective continuation](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-DRAFT.md): all four movements and source apparatus in one proposed file, commit `0e5d6b57c296587af14d610dabd3b00919fe56f7`.
+- No sovereign-manuscript, protected NOTES, source-house or canonical-room mutation has been made in this composition pass.
 
-Atomisation can be trained, and trained separation can favour governance. Extend the parent/child scene through siblings: shared questions and different capacities support common agency; selective attention, reward and separation can make each child's place depend on rivalry under the same judge. The operative connection to arche-topos is the arrangement of possible positions, encounters and passages, not a passing name for social media.
+## Governing content — retain the complete operations
 
-Datafication lets a person be handled as a record at a distance. Preserve the critique of dehumanisation and cruelty without treating every useful number as inherently corrupt. In the explicit notation, binary digital 0s and 1s are both determinate marks on the 1-side. The symbolon's 0 is unobjectifiable Subjective Immediacy, the indistinct One of the many. Its occlusion removes the relation from the agent's account, not from reality: decisions still affect actual lives. Recover A/C, A11–A12, A16, A26 and the direct Symbolon Dynamics and Mono-Poly manuscripts.
+### Subject and God are complete conjugates
+
+The missing theological content is not the single limit-sentence already active in the Subject definition. The full theological sixfold has omnipotence, omniscience, omnipresence and omnibenevolence as its explicit four; omnivalence and omni-lemmicity/self-inversion disclose their two implicate conditions. This list does not invent positional assignments for the individual attributes.
+
+A freedom unable genuinely to limit itself would be limited by that inability. Preserve real self-binding, absence and predicament; do not make limitation theatrical by cancelling its consequences in advance. Omnivalence makes the full valence-field internal to the whole. Self-inversion allows the predicates to undergo what their unlimited scope entails. The enduring Subject, nirguṇa and Gottheit ground the difference between a God-image's birth/death and its unobjectifiable source. Retain **God need not be protected from the death of a God-image.**
+
+Recover [The Definition of God — Draft 3](../../working/sources-texts-references/definition-of-god-working/The%20Definition%20of%20God%20%E2%80%94%20Draft%203.md), including its attribute argument, actual sixfold performance and the surrounding Jung/quaternity material. Do not substitute a summary for this conjugate in the author-edited opening.
+
+### Advent, origin and the changing God-image
+
+Descartes carries the author's epochal argument: modernity's mental-rational self-understanding and the changed site of warrant. Nietzsche's death-of-God formulation names consequences of a change whose occurrence and recognition do not coincide. No claim that Descartes alone caused the whole history is required or imputed.
+
+Gebser's full historical and conceptual entry is M05; M06 returns through origin. Origins are already active in M01 through received language, the future offered to the child and the present possibility of questioning. Compassion is loving sensitivity to those origins, including the giver's own part in what returns.
+
+### Complete the direction pursued by Jung, Pauli and von Franz
+
+The undertaking is to articulate an invariant structure toward which Jung's symbolic/numerical work was moving, not merely to take inspiration from a similar image. Recover one-to-five, quaternity/centre, senarius/double pyramids, fifth-to-first circulation and the dynamic formula. Do not falsely say Jung never counted six. Zero makes the unobjectifiable condition explicit; toroidal identification gives return and retained difference a processual form.
+
+Aion already publicly articulates parts of the construction. The correspondence and appendices retain the exploratory inquiry with Pauli; von Franz's number-as-archetype continuation remains in the later route. Historical attributions must be verified accurately without deleting the essay's completion ambition.
+
+### Registers are modes of Logos within 0/1
+
+Matheme, mytheme and episteme each carry their own complete 0/1 interior. The relation is not a prior abstract thesis later decorated by three media. Every determinate expression has an unexhausted condition and an activity through which it becomes effective.
+
+Matheme permits exact operations in an inscription. Mytheme carries a whole lived or narratable event—agents, tensions, transformations and return. Episteme gives a claim standing through practices, methods, histories and warrants. Their symbolic relation allows reciprocal transformations. Recover [Symbolon Dynamics](../../working/sources-texts-references/Epi%20Paper%20Write-ups/Symbolon%20Dynamics%20%E2%80%94%20Archetype%2C%20Attractor%2C%20and%20Objective%20Internality.md), especially its register discussion, rather than defining the registers as outside topical buckets.
+
+### Ambiguity, inversion and the count
+
+Retain the author's question: what follows when ambiguity's relation becomes unequivocally intelligible? Explain what each reading does, why the relation requires both and how either turns into its contrary. Keep **superposition** and the copula's identity-as-difference. Distinguish conflict between determinate claims from the whole's capacity to contain the conflicting determinations.
+
+0/1 is one expression, two poles and three written elements. The three return as one understood relation. The copular 3+1, (3+1)+2, 3+2+1 and 3:3 readings change the grain of accounting while retaining cut, bond and context. The primary personed 3:3/3:1 is related but distinct. Do not use unexplained arithmetic equations to replace either operation. Tetractys remains a prepared later development.
+
+### Trained atomisation, the arche-topos and numerical power
+
+Siblings can sustain a question together; separation, selective reward and rivalry can train each to seek the same judge's approval. The arche-topos connection is the arrangement of possible positions, encounters and passages. Do not weaken this to a generic comment about social media.
+
+Datafication allows action upon someone at a distance through a record. Both digital zero and digital one are determinate marks on the symbolon's 1-side. Its 0 is the unobjectifiable Subject, the common indistinct One of the many. A governing account can omit this relation while its action still reaches a real life. Preserve the connection between that omission, dehumanisation and self-justified cruelty without declaring every useful count inherently corrupt.
+
+### Deference, ego, imitation and native AI language
+
+Retain deference within actual power asymmetry, its possibility of deferring discovery when inherited identity supplies every answer, and ego as a necessary conditioned formation which can present itself as already discovered. Mature Deferential Intelligence is model-revising encounter; it may reach answer, task, world-model, evaluator or terms of commission. It is not passive obedience.
+
+Jung's heroic model/imitation and the parent/child relation prepare the AI question: must an intelligence reproduce a human likeness, or can it work faithfully through a distinct modality? QL is a proposed native relational language whose primitives remain operable. The minimal psychoid bridge concerns a relation intelligible in experience and operable through another medium. A future test must exhibit the relation; the prose states the proposed undertaking, not completed product acceptance.
+
+Agentworld's q005 and q016–q019 keep the model-to-human return, active context, persona as stratum and cognitive refashioning substantive. q040 and the actual research solicitations retain the later alignment/commons route. No stock AI-consciousness disclaimer may substitute for the knower/means/known/whole argument.
 
 ### Use and abuse of mathematical language
 
-Retain this exact expression. Show the operation: numerical division gives 0/1 a value and leaves 1/0 undefined; the matheme retains the defined/undefined seam and the inverse relational reading. This is a deliberate use and abuse, not a numerical quotient-equality claim and not a decorative disclaimer.
+Retain this wording and perform its operation: ordinary evaluation admits 0/1 and leaves 1/0 undefined; the matheme retains the inverse relation across that defined/undefined seam. Do not reduce the claim to quotient equality or a decorative caution.
 
-The author attributes the phrase/orientation to Jason Jorjani in the spirit of Feyerabend. Repository searches returned no match and an incomplete REST result. This is unresolved retrieval, not evidence of absence. Locate the actual passage before quotation/attribution, while keeping the author's chosen phrase in the draft.
+**New retrieval correction:** the direct authorial [P1 — Jorjani — Prometheus and Atlas](../../working/sources-texts-references/Epi%20Paper%20Write-ups/P1%20-%20Jorjani%20-%20Prometheus%20and%20Atlas.md) exists. Earlier no-result searches did not establish absence. It contains the Feyerabend, plurality and technoscience encounter. The exact public wording/attribution for use and abuse remains a passage task; preserve the author's phrasing while verifying it.
 
-## Continuation material — now routed by the whole-section proposal
+## Retained later material and source obligations
 
-These are accepted content directions; their exact placement is proposed in [SECTION-WHOLE-PLACEMENT.md](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md). The supplied continuation has been read. Composition and acceptance of its revised movements remain ahead.
+The Red Book sequence includes Splitting of the Spirit, Murder of the Hero and Conception of the God; keep whole action and return, not isolated symbolic keywords. The collective draft carries the bounded hero/scapegoat reading in M04. Dark/bright ambiguity, sense/absurdity and unavoidable gods remain in the M02/whole-section synthesis. Singleness/communality and being outside/beside oneself return principally through M05's contextual field.
 
-### Hero, scapegoat and failed absolute account
+Use the actual Chang material: lived self-identity of opposites; Nothing before negation; ineffability with form; Tao as source of ways; creative loving sensitivity to origins. The protected NOTES are an encounter route, never agent-writable. Collate their nested quotations before giving them primary attribution.
 
-Follow the Red Book sequence around Splitting of the Spirit / Murder of the Hero / divine conception, including the whole scene rather than isolated heroic keywords. The false account cannot allow its own failure and assigns that failure to a bearer. Parent/child pressure becomes a tractable micro-example: an uncomfortable question can be reassigned to the alleged defect of the questioner. Preserve the different directions of sacrificing a governing image and sacrificing somebody to preserve it.
-
-Carry gods' birth, brightening, ageing, shadowing and death through sense/nonsense and their inversion. The failure of an absolute account matters because it refuses to permit the failure through which its own fidelity could be restored. Name scapegoating as an operation. Dia-ballein is the author's exact later account of severance/cancellation/appropriation; do not turn every disagreement into war.
-
-### Ambiguity and superposition
-
-Use the author's Red Book passages on dark/bright ambiguity, unequivocalness/death, meaning-to-absurdity and absurdity-to-meaning, and unavoidable gods. Develop the question: what follows when ambiguity's relation becomes unequivocally intelligible? The copula's identity-as-difference and inverse readings supply the operation. Keep the term superposition. Distinguish determinate conflict from the whole's capacity to include its conflicting determinations; do not turn the claim into generic praise of vagueness.
-
-### The name is the count; one/two/three/one
-
-0/1 is one expression; it has two poles and three articulated elements; the three are recognised as one relation. The copular 3+1 / (3+1)+2 / 3+2+1 / 3:3 readings must be explained by the changed grain of counting and the retained cut/bond/context operations. The primary personed 3:3/3:1 is related but distinct. Do not use an unexplained numerical equality to replace the operation. Tetractys can be presaged without premature full exposition.
-
-### Imitation, the hero and native AI language
-
-Jung's hero as model demanding imitation links to the parent/child and maker/made field. Ask whether AI must reproduce the human likeness or can develop a faithful, distinct modality through its actual means. QL is proposed as a native relational language whose primitives remain operable; fidelity through difference rather than surface impersonation. Keep the minimal psychoid bridge: a relation can be intelligible in experience and operable through another medium. Later tests must exhibit that relation.
-
-Agentworld passages: source q005 direction reversal, q016 individuation in active context, q017 persona as stratum, q018 bidirectional reflection, q019 cognitive refashioning, q040 co-evolutionary alignment, and actual brief solicitations. Do not let stock machine-consciousness caution replace the subject/means/known/whole argument.
-
-### Singleness, communality and the numerical shadow
-
-The author's Red Book singleness/communality passage concerns a self seeking satisfaction through the community it has made an instrument of its privation. Preserve the force of being outside/beside oneself, the trained inversion of communality into private self-confirmation, and the advantage this can give a governing power. The arche-topos and sibling scene give the claim its mechanism; datafication gives it a technical form. The common 0 and the relation erased from the account explain why harm can be administered at a distance.
-
-### Source-sensitive theological and cultural returns
-
-Use the existing Chang Tao material, not generic substitute quotations. Its protected encounter already contains stronger relation-specific language about the identity of opposites, formlessness/form, Nothing before negation, source before the name God, and creative loving sensitivity to origins. Read the whole current NOTES where used; never edit it.
-
-Linji is a genuinely new source lead. Verify the actual passage about killing encountered authorities/Buddhas and its practice context before promotion. The author’s unfinished F. E. Peters / Children of Abraham thread is a bounded source task; do not invent missing authorial notes, require a new essay-length write-up, or substitute a generic history of religious war. Select exact historical particulars when ready.
-
-Aion's Christ/Antichrist history belongs later at full strength. Contemporary Antichrist/technology discourse needs a fresh dated primary source when actually incorporated. Keep it as a routed later return, not decorative present-day name-dropping.
-
-### Origin, deference and ego
-
-Retain the four accepted small origin/deference additions from the workshop: origins act through received language, anticipated future and present opening; deference learns how reliance and questioning work within a real power asymmetry; ego develops as necessary conditioned identity and can present itself as already discovered; deference can defer discovery when the inherited identity is installed as its answer; compassion returns lovingly to origins, including the parent's part in the child's question. Do not redefine Deferential Intelligence as passive obedience. Its mature source is model-revising encounter, including alteration of evaluator or commission when warranted.
+Linji is a new source lead requiring the actual practice context and selected edition. Peters/Children of Abraham is a bounded unfinished historical thread: do not force it into M03, invent notes, or replace it with generic religious-war claims. Full Aion/Christ–Antichrist history and contemporary technology/Antichrist references remain later, with their exact historical and dated public sources. Material withheld from this continuation remains routed, not silently deleted.
 
 ## Work sequence and acceptance
 
 | ID | Work | Current state | Acceptance |
 |---|---|---|---|
-| IT-01 | Exact M01–M02 amendments | Proposed in linked packet | Author reviews them against latest edited text; surviving changes explicitly retained |
-| IT-02 | Receive/read current M03–M06 and resolve section seams | Input received and read; whole-section placement proposed | Numbering corrected to M01–M06; author reviews proposed placements and relocations |
-| IT-03 | Compose continuation one movement at a time | Next: M03 after placement discussion | Each movement enacts its specific QL office; whole images, arguments and source intentions survive |
-| IT-04 | Read full §0/1 as one argument | Initial architectural read complete; final composed read pending | Derivations and term introductions occur in the right order; no duplicate first introductions; no lost conjugate |
-| IT-05 | Reconcile source houses and passage consumption | Local pass after author edits settle | Actual editions/passages verified; new houses only when absent; protected NOTES untouched; source debt scoped honestly |
-| IT-06 | Align authored movement/room inputs and plan staging | Local pass after composition acceptance | Old withholding instructions cannot revert the accepted early matheme; global IDs and genuine later depth preserved |
-| IT-07 | Restore typography, links, tags, anchors, return routes and rendered output | Local pass | Readable continuous prose, correct equations/footnotes, real reciprocal links, current generated projections, inspection of render |
-| IT-08 | Author acceptance and continuation receipt | Pending | Final section location/version, changes, tests actually run and remaining debts recorded in this map |
+| IT-01 | Opening amendments | Proposed; author direction accepted | Reconcile against latest M01–M02 and retain accepted wording |
+| IT-02 | Receive continuation and settle QL placement | Complete for supplied text; latest author correction recorded | M03=#2, M04=#3, M05=#4, M06=#5→0; no guessed renumbering |
+| IT-03 | Compose continuation collectively | Draft delivered in one file | Author reads/amends M03–M06; preserves actual argument and agreed seams |
+| IT-04 | Read full §0/1 as one argument | Next after prose review | No duplicate first introductions, lost conjugates or abandoned later routes |
+| IT-05 | Reconcile source houses/passages | Local pass after author edits | Actual edition/locator/provenance; protected NOTES unchanged; debts explicit |
+| IT-06 | Align authored rooms and plan staging; recover title | Pending | Accepted early derivations cannot be reverted by obsolete withholding rules; actual title propagated |
+| IT-07 | Typography, links, tags, anchors and render | Pending local pass | Correct source/field returns and equations; regenerated projections; real render inspection |
+| IT-08 | Author acceptance and final receipt | Pending | Exact accepted section/version, performed checks, open debts and next section recorded |
 
 ## Local integration contract
 
-Work from the author's latest edited section and actual local repository status. Preserve unrelated edits and the established minimal-worktree policy. Read AGENTS, WRITING-PROTOCOL, recovery protocol, writing guidance laws/rubric and the eight relevant project skills. Do not restart the old whole-corpus programme as a prerequisite to this bounded commission.
+Use the author's latest edited full section and actual local repository status. Preserve unrelated edits and the minimal-worktree policy. Read AGENTS, WRITING-PROTOCOL, the recovery protocol, writing laws/rubric and the appropriate project skills. Do not restart whole-corpus recovery or an old model-comparison gate as a prerequisite to this bounded commission.
 
-Separate work into meaning, apparatus and presentation. The local pass is not permission to rewrite the author's voice, shorten an argument to placate an imagined reviewer, or replace a whole source encounter with a safe summary. A source debt does not downgrade the native proposition. A verified attribution must still be exact.
+Separate semantic acceptance, evidence and presentation. Apparatus work is not permission to rewrite the author's voice, soften an argument for an imagined reviewer or remove a claim because a quotation card is unfinished. A historical attribution must nevertheless match the actual source. An internal theorem is not an externally borrowed doctrine.
 
-Use the source resolver to locate one canonical SOURCE.md per actual work/edition. Read protected NOTES for intention; never mutate them. Add exact quotation/passage IDs, edition and locator, verification method/date, context, source relation and actual consumers. Replace chat citations and ad hoc URLs with the manuscript's proper Chicago apparatus and source-house links. Source quotations of Jung, Shamdasani, Pauli, Linji, Nietzsche, Heidegger and Chang's nested authors must keep their real speakers and text identities.
+Resolve each source_id to its canonical SOURCE.md. Read any protected NOTES for intention and never mutate them. Verify new passage wording against the actual edition and context. Keep Jung, editorial notes, Pauli essays and letters distinct. Record passage ID, locator, edition, method/date, provenance and real consumers. Earlier chat quotations and page numbers are leads unless verified; do not copy them into authority by repetition.
 
-Pending specific checks include Red Book chapters and adjacent scenes; Aion double pyramids/senarius and the one-to-five/round transition; Atom and Archetype Appendix 3 pp.195–196; von Franz number work; Kripke preface and demonstratives/dice; selected Descartes and Nietzsche contexts; Dyczkowski; Eckhart; Chang's pp.83–110 and nested quotations; Hatcher's exact surface presentation; symbolon history; Linji; Jorjani/Feyerabend; any admitted Peters and contemporary AI sources. Carry only what the final section actually uses.
+Particular remaining tasks: Red Book source house and hero/ambiguity/communal passages; Aion one-to-five, senarius/diamonds and changing return; Atom and Archetype Appendix 3 pp.195–196; von Franz number; Kripke preface/demonstratives/dice; Descartes/Nietzsche; Dyczkowski; Eckhart; Chang pp.83–110 and nested authors; Hatcher surface/quotient locators; symbolon history; Linji; Jorjani/Feyerabend; relevant later Peters and contemporary AI material only where used.
 
-Restore bold, italics, mathematical delimiters, canonical aliases/frontmatter/tags where applicable, established block IDs, human-readable relation-bearing links and exact reciprocal returns. Argumentative links must still make sense with links removed. Use the existing thirteen relation labels where the parser requires them; do not replace reasoning with a relation label. Keep historical author attributions out of the essay's voice where attribution is not itself the subject.
+New primary reading this pass: Principia vol.1 preface v–viii in the 1910 Gutenberg transcription; Tractatus 4.12–4.1212, 5.6–5.641, 6.4–6.522 and 6.54–7 in the selected digital English text; the available Red Book Reader's Edition text, Liber Primus VI–VIII. PDF screenshot attempts returned errors, so no new visual verification is claimed. These reads have not yet been promoted into source-house cards. Philosophical Investigations still needs an actual edition and precise passage collation.
 
-Update authored Movement files and P1-CANONICAL-ALIGNMENT.md, and amend the central plan's exact staging decisions where the accepted section has changed them. Generated ROOM.md is rebuilt, never hand-edited. Do not remove later fuller treatments merely because their necessary foundations now appear early.
+Restore human-readable relation-bearing links, footnotes, bold/italics, math delimiters, real block IDs and tags. Argumentative links must remain intelligible with the hyperlink removed. Reuse the thirteen relation labels when the parser requires them without replacing a reason with a label. Do not invent source IDs, locators, paragraph anchors or passed validations.
 
-Use the current source, links, pages, build and review skills to select actual checks. Expected tools include source projections, navigation builder, section-room builder, okf-workspace doctor and per-artifact links, room/reader audits, and strict canonical-argument-recovery audit for every touched canonical record. Check their current CLI contracts; report pre-existing failures separately and never weaken an audit for a green result. Render and inspect equations, notes, anchors and intended typography. Do not claim tests, builds or rendering that were not executed.
+Update authored movement records and P1-CANONICAL-ALIGNMENT.md from the accepted prose; amend the central plan's exact staging where required. Generated ROOM.md is rebuilt, never hand-edited. Keep later fuller treatments where the opening now supplies their foundation. The current continuation's notes use repository-relative routes from its working directory; relocate them correctly when transferring into the sovereign file.
+
+Use actual source projections, navigation and room builders, okf-workspace doctor and per-artifact links, room/reader audits and strict recovery audit for touched canonical records. Check live CLI contracts. Distinguish inherited failures from introduced failures; never weaken an audit to turn it green. Render and inspect equations, notes, links and intended typography. Report only checks actually performed.
 
 ## Source and route desk
 
-- [Supplied M03–M06](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt)
-- [Whole-section placement proposal](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md)
+- [Collective M03–M06](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-DRAFT.md)
+- [Opening amendments](../../working/integral-threshold-authorial-completion-2026-09-27/OPENING-AMENDMENTS.md)
+- [Supplied continuation](../../working/integral-threshold-authorial-completion-2026-09-27/CONTINUATION-INPUT.txt)
+- [Earlier placement proposal](../../working/integral-threshold-authorial-completion-2026-09-27/SECTION-WHOLE-PLACEMENT.md)
 - [Recovery protocol](../../docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md)
 - [Writing protocol](../../WRITING-PROTOCOL.md)
 - [Writing laws](../../writing-guidance-tools/references/WRITING-LAWS.md)
@@ -171,16 +183,17 @@ Use the current source, links, pages, build and review skills to select actual c
 - [Authored room alignment](../../submission-package/essay/section-rooms/00-integral-threshold/P1-CANONICAL-ALIGNMENT.md)
 - [A/C whole](../../submission-package/essay/symbolon/episteme/conjugate/AC.md)
 - [Complete theorem](../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md)
+- [Definitional source](../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md)
 - [Copula](../../submission-package/essay/symbolon/matheme/definition/copula.md)
 - [Harmonics and recount](../../submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md)
+- [Formal-limit dossier](../../submission-package/essay/symbolon/episteme/dossiers/formal-limit.md)
+- [Direct P5 — Gebser](../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md)
 - [Arche-topos](../../submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)
 - [Deferential Intelligence](../../submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md)
 - [Compassion](../../submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)
-- [Direct P5 — Gebser](../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md)
-- [Whitehead source](../../submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md)
 
-The linked amendment packet carries the remaining exact source paths and attribution standings. Preserve the complete written clauses there; this map's summaries are dispatch, not their semantic replacement.
+The draft's 33 notes retain the additional exact source routes and current evidence standing. The map dispatches the reading; it is not a replacement for the complete source or drafted operation.
 
 ## Stop/return boundary
 
-Do not overwrite the sovereign manuscript from this proposal. Do not silently apply source or room changes before the final author-edited section is available. Continue the commissioned composition in the current conversation, beginning with the supplied M03; no background work or future delivery is implied. After each accepted movement, update this map with its actual artifact/version, accepted changes and next concrete action. The last return is the complete section in the author's hands and a source/room apparatus which cannot train the next writing agent to undo it.
+Do not overwrite the sovereign manuscript from a proposed draft. Continue from author review of the collective file, then integrate the accepted six-movement section and its apparatus. No background work or unperformed local validation is implied. The final return is the complete section in the author's hands and a source/room structure which cannot instruct a later writing agent to undo it.
