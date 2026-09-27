@@ -54,7 +54,3 @@ The result carries changed relations and a changed capacity for the next act. It
 The [Genesis / Paradigm / Project / Epi-Logos field](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#paradox--crisis-of-the-containing-paradigm) **returns-to** this Concept at evidence register 3. It appoints paradox as the crisis/return operator of paradigmatic life, not a seventh element in that field. The project produces a determination its paradigm cannot contain; the slash becomes explicit; Epi-Logos carries the transformed relation back into further articulation.
 
 A concise authorial criterion follows: **paradigms live by their capacity to metabolise paradox.** Dogmatic closure cancels or appropriates the contradiction; reflexive transformation lets the containing relation change without pretending the conflict never occurred.
-
-### Declared field
-
-**Etymology relations:** *Homologia / Analogia*; consumed operation: apparently incompatible terms can reveal a higher/focal relational structure only after their local differences are preserved. Register **3**. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a paradox can expose and transform the mediating slash rather than merely replace a determination. Register **3**. Return C64 → A36 → C36/A21 → C64, with C64 → C51/A35 → C64 supplying the paradigmatic return.
