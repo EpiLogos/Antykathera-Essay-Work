@@ -1,5 +1,6 @@
 name: Canonical recovery field snapshot
 
+# Capture the post-movement-repair field for the 2026-09-27 semantic-depth continuation.
 on:
   push:
     branches: [main]
