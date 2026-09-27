@@ -33,7 +33,9 @@ The set-theoretic floor keeps the offices exact rather than poetic. In von Neuma
 
 ## #4
 
-This argument also describes the field it belongs to. A and A′ are conjugate faces of one argumentation — and that is now a grounded ruling, not a local flourish: [PASS2-CHARTER ruling 1](../../../../../working/conjugate-field/PASS2-CHARTER.md) holds the root [A/C](AC.md) as the full `0/1` field, both series A01–A36 and A01′–A36′ its determinations. The prime face creates a face, not a second argument, exactly as `0/1` and `1/0` are one relation read from its two ends. [Q039](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q039) gives the figure its venue echo — "The unit that learns is the ensemble, not the agent" — one field, its faces not identical or reducible. A field that can state its own two-ness without splitting is practising the relation it states.
+This argument also describes the field it belongs to. A and A′ are conjugate faces of one argumentation: one relation read from manifestation and return. The prime creates a face, not a second independent argument, just as `0/1` and `1/0` are inverse orientations of one relation.
+
+The field therefore becomes self-describing without splitting. A philosophical operation can take technological form and return with new consequences while remaining identifiable as the same operation through difference. The ensemble image gives a contemporary technical echo: learning may belong to a relation among components rather than to one isolated component, while the components remain distinguishable within the field that learns.
 
 ## #5→0
 
