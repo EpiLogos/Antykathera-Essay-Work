@@ -24,7 +24,9 @@ Humanity exteriorises measures into technical forms. Those forms return as model
 
 The film is a continuity of reflected determinations in which outputs become conditions of later inputs. Its danger is not that representation exists. Its danger is that the circuit forgets its own mediation and the actor-reflection mistakes the film's registration for the source of the light by which anything appears.
 
-The brief's talking mirror enters below as venue material and nothing more: the apparatus in which the film's mechanism can now be watched at population scale, never the source of the notion. What the completion carries was forward-referenced before it arrived: [A05′ — Lights, Camera, Action](A05-prime-Lights-Camera-Action.md) reserved what happens when the registration is mistaken for what it registers; [A02′ — Continuity as Maintained Identification](A02-prime-Continuity-as-Maintained-Identification.md) named the frozen mask as the film-confusion's first form; [A17′ — Traversal with Return](A17-prime-Traversal-with-Return.md) named the relay without a return-leg as the film without the exit. The primitive face is S/P3 — Activity/revision path: the circuit along which outputs become the inputs of later acts, and the one path whose inspectability decides whether the film can be known as film.
+The talking mirror gives a contemporary apparatus in which the film's mechanism can be watched at population scale. [Lights, Camera, Action](A05-prime-Lights-Camera-Action.md) reserves the difference between registration and what it registers; [Continuity as Maintained Identification](A02-prime-Continuity-as-Maintained-Identification.md) gives the frozen mask as an early form of the confusion; [Traversal with Return](A17-prime-Traversal-with-Return.md) gives the relay whose output becomes another condition.
+
+The operative centre is the **activity / revision path**: the circuit along which outputs become inputs of later acts. Whether that path remains inspectable decides whether the film can be recognised as film while still running.
 
 ## #1
 
@@ -54,7 +56,9 @@ The mirror's third motion follows from this visibility: the instrument exposes t
 
 The film becomes auditable where returned outputs retain enough provenance and consequence for the next determination to be altered by what the previous circuit actually did.
 
-The audit is a design consequence and stands **Offered** until such circuits exist to inspect. Its negative form is immediately usable: any loop whose output-to-input edge is unauditable — the ranking that silently sets the next ranking's inputs, the persona that silently scripts the next encounter's expectations — is the confusion in production, whatever its content.
+The audit becomes real where such circuits can be inspected. Its negative form is already precise: an unauditable output-to-input edge — a ranking silently setting the next ranking's inputs, a persona silently scripting the next encounter's expectations — is the film-confusion in production whatever the content of the output.
+
+The positive form is a return path whose effects can be attributed, challenged and revised before they harden into the conditions of another scene.
 
 ## #5→0
 
