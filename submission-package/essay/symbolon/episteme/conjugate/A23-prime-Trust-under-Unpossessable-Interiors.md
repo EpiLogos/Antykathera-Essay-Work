@@ -28,7 +28,11 @@ The governing fork of the [direct trust revision](../sources/internal-corpus/tay
 
 ## #2
 
-The whole Homeric net makes the limit of apparatus concrete, and its technological refraction is exact. [Odyssey 8's source house](../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) sources the sequence [A23](../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) receives: Hephaestus's crafted bonds succeed at capture and public proof; exposure does not settle desire; release comes only when Poseidon personally undertakes the debt — the net borrows a personed undertaking because it cannot manufacture the relation by tightening its bonds or improving its record. Every observability regime inherits the figure: the audit trail can prove what occurred, the trace can make the mechanism inspectable, the dashboard can display calibration — and none of it supplies surety, because surety is a named bearer of loss, an act within relation. One primitive address names the site: at S/P4 (shared field, encounter, contact as mediated actuality) the contact between interiors is constitutively mediated, and the mediation can be disciplined without becoming possession. The apparatus makes the terms of reliance inspectable; it does not manufacture the living relation it serves.
+The whole Homeric net makes the limit of apparatus concrete. Hephaestus's bonds succeed at capture and public proof; exposure still does not settle the relation; release comes only when Poseidon personally undertakes the debt. The apparatus borrows a personed undertaking because tightening the bonds or improving the record cannot manufacture surety.
+
+Every observability regime inherits the figure. An audit trail can establish what occurred; a trace can expose mechanism; a dashboard can show calibration. None of these becomes the bearer of loss. Surety is a named undertaking within relation.
+
+Trust therefore belongs to **mediated encounter**, not to the mere existence of inspectable mediation. The apparatus can make the terms of reliance explicit and revisable. It cannot substitute itself for the participant or institution that bears the consequence of reliance.
 
 ## #3
 
