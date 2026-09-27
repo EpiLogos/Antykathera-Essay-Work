@@ -32,7 +32,7 @@ That revision is decisive. A record that only accumulates can become richer in q
 
 Technically, this is where Project, Source, Ground, authorship, governance, change, Work and returned provenance become addressable in their relations. Authorship remains attributable through useful derivations; a projection can expose a ground while remaining answerable to it; a computational Bimba can become causally effective as a local reference while its meaning remains situated within the Life and World it articulates.
 
-The old M37 technical operation — mathematics already moving as meaning — now returns chiefly through [Actuation](../../../symbolon/episteme/products/S1-Actuation.md#model-mathematics), because its subject is the production of judgment through model transformations. Central owns what that act inherits and what its result can alter. Mathematical process becomes meaningful *within a carried world*: its transformations arrive from an intelligible ground and return consequences to that ground.
+The earlier mathematics-as-meaning thread now finds its strongest technical body in [Actuation](../../../symbolon/episteme/products/S1-Actuation.md#model-mathematics), because mathematical transformation becomes consequential through a judgment-event. Central carries the other half of the relation: what that act inherits and what its result can alter. Mathematical process becomes meaningful within a carried world; its transformations arrive from intelligible ground and return consequences to that ground.
 
 ## Tension / limit
 
@@ -42,4 +42,4 @@ Central becomes a counterfeit source when continuity is confused with final auth
 
 Central opens the product field by establishing that an artificial or human act always arrives from somewhere meaningful. The next movement asks what happens when that carried ground articulates itself into an event: [Actuation — Living Articulation](38-s5-p1-apoha-softmax.md).
 
-**Owning product:** [S0 — Central](../../../symbolon/episteme/products/S0-Central.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M37](../P1-CANONICAL-ALIGNMENT.md#p1-m37) carries the explicit S and A/C alignment.
+[Central](../../../symbolon/episteme/products/S0-Central.md) gives this movement its technical body within the wider [World and Life](../../../symbolon/episteme/products/S-World-and-Life.md) field. Meaningful continuity is the first product-office because every later act must inherit something determinate enough to be recognised and revisable enough to remain alive.
