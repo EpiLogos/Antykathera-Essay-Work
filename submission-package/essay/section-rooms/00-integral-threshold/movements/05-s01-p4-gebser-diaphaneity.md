@@ -54,4 +54,3 @@ The perspectival turn **returns-to** [Con-text-through-Diaphaneity → Regard](.
 
 The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#2--the-seeing-condition-becomes-a-represented-centre) **compares** this return. Gebser’s cultural account of perspective and Heidegger’s diagnosis of representation make different aspects of the seeing condition available. Their conjunction here is an argued juxtaposition, with no documented mutual influence asserted. Taylor’s contextual return concerns participation in the view’s work, preserving the source-specific histories and the native double reading.
 
-The [authored P1 route for M05](../P1-CANONICAL-ALIGNMENT.md#p1-m05) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
