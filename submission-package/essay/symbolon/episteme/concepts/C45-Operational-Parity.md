@@ -43,5 +43,3 @@ Operational Parity **returns-to** [Count-to-Account](../etymologies/encounter-re
 A failure returns to a named claim: the implementation may be wrong, the operational mapping inadequate, or the proposed test unable to discriminate the distinction. Those are different findings. C46 preserves their provenance in the next revision; C47 lets encounter alter the governing model or paradigmatic condition. Parity succeeds as a discipline when its own criterion can be revised without erasing what the prior test actually showed.
 
 For the Expression programme, the negative test is especially useful. Rendering the paradigm as glyph, text, image, field or transition establishes **expression**. It establishes **Epi-Logos** only where manipulating or contesting that expression can return to the governed structure and where the changed structure changes a later act. Conversely, a non-visual configuration change can satisfy the operational return without satisfying the expressive ambition. The two accomplishments should be measured separately before they are joined.
-
-### Declared field
