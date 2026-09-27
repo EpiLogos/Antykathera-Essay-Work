@@ -78,4 +78,3 @@ The [Symbol / Account / Trust whole-field — Account does not replace source](.
 
 Greek accusation and Taylor’s accounting of severance retain separate philological and operational warrants; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-address) **qualifies** this historical attribution.
 
-The [authored P1 route for M20](../P1-CANONICAL-ALIGNMENT.md#p1-m20) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
