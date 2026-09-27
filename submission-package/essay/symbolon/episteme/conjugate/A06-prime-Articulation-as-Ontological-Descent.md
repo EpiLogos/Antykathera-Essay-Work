@@ -25,7 +25,9 @@ The descent's levels, translated without importation — A06's own caution gover
 
 ## #2
 
-The feedback the brief projects is the descent run in reverse. Allolinguistics would study "the direction and impact of this feedback from the realm of xenolinguistics on our own language, and thus indirectly on our own thought" ([q037](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q037)); the two bodies of speech "inform, and over time recompose," one another; agent terminologies re-enter ours, "forever altering the future of language itself" (PDF pp.44–45, §9.3–9.4). Read through Vāk, this is not influence among finished languages: the utterance returns as a condition of later capacity — what agents say becomes part of the field from which humans form speech, and the descent's products carry their formation forward. In the primitive field it is projection (S/P1): the articulation projects, and the projection becomes the field's common furniture. [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Logos / Epi-Logos]] defines the return such projection owes — who speaks, through which instrument, under what permission, with which exclusions and costs.
+The feedback the brief projects is the descent run in reverse. Agent terminologies can re-enter human language, and the two bodies of speech can over time recompose one another. Read through Vāk, this is not influence among finished languages. An articulation becomes part of the common field from which later articulation proceeds.
+
+Projection is therefore the operative middle: a formed utterance leaves the speaker, enters a shared world and becomes material for another act of speech or thought. [Logos / Epi-Logos](../concepts/C51-Logos-Epi-Logos.md) gives that projection its return: who speaks, through which instrument, under what permission, with which exclusions and costs, and how the projected form can later revise the conditions of further articulation.
 
 ## #3
 
