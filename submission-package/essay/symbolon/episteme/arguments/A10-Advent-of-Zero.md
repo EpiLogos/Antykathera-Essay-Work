@@ -46,7 +46,9 @@ Four generative procedures make the later zero/one relation active, each under i
 
 The empty product has value one because one is multiplication's identity. The ordinal construction instead represents `0 = ∅` and uses `S(n) = n ∪ {n}`: `1 = {0}`, `2 = {0,1}`. One contains zero by membership in this representation; it is not identical to zero. Neither construction licenses identifying the empty set with awareness.
 
-NOR has a different generative task. With `p ↓ q = ¬(p ∨ q)`, repetition produces negation as `p ↓ p`, disjunction as `(p ↓ q) ↓ (p ↓ q)`, and conjunction as `(p ↓ p) ↓ (q ↓ q)`. This is the route mapped to Kaplan pp.212–215. NAND is another complete connective and must not silently replace it. The mathematics makes comparison possible by keeping the operations distinct; it does not establish a single proof that nothing makes everything or derive the native QL slash.
+NOR has a different generative task. With `p ↓ q = ¬(p ∨ q)`, repetition generates negation, disjunction and conjunction from one connective. NAND supplies another complete connective. The mathematical importance is precisely that these operations remain formally distinct while each can generate a wider logical field.
+
+QL's slash asks a different question: how a relation carries terms, orientation and return. The comparison is useful because both show generativity arising from a constrained primitive operation, not because NOR, NAND and the slash are versions of one formal theorem.
 
 ## #4
 
