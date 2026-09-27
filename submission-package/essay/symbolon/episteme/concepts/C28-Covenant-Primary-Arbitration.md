@@ -36,5 +36,3 @@ The [Foucault lens](../lenses/foucault.md#foucault-distributed-office) **compare
 [E2’s arbitration in crisis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) locates the covenant’s finite deciding office within a field it receives. A decision can bind participants without becoming the source of their participation. Its return must therefore reach the commission and criterion of decision when consequences disclose that either has failed the primary relation.
 
 Covenant renews authority through answerability to the shared condition. In this canonical usage it exceeds contract between supposedly self-sufficient parties because their relation helps constitute the parties and the field in which they act. This is the essay's relational distinction, not a universal legal definition of contract. Renewed authorisation remains finite: the office can decide, receive dissent and consequence, revise its scope and return its power without claiming to be the source it serves.
-
-### Declared field
