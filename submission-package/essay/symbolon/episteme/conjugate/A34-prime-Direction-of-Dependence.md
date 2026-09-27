@@ -47,7 +47,9 @@ Every one of these direction claims is stated by someone, within an interior, fo
 
 The un-reified cogito keeps what the fusion covered: the fact of appearing is undeniable; the thinking-thing constructed from that fact is already a determination within appearing. Every technological relay remains on the determinate and mediating side of this relation: model, simulation, memory, self-description, permission, evaluator and environment are all things that can become objects of account.
 
-This is why the idealist order does not wait for a machine-specific consciousness verdict. The subject-condition is not the last hidden component of the relay. It is the condition under which the relay, its objects and the question of their dependence become available at all. The chronic confusion is Ø: the mediation fuses into one of its products and the product begins to speak as source. Making the slash visible restores the order without diminishing the real causal efficacy of the relay.
+The idealist order places the entire inspectable relay on the side of determinate mediation. Model, simulation, memory, evaluator, permission and environment can all become objects of account because they belong to the articulated means and known field. Their causal power is real; their increasing complexity does not change the office they occupy in the dependence relation.
+
+The subject-condition is therefore not a missing component to be located somewhere inside the relay. It is the condition under which relay, object and dependence-question become available at all. The chronic confusion is Ø: mediation fuses into one of its products and the product begins to speak as source. Making the slash visible restores the order while preserving the relay's real power to act.
 
 [The Advent of Zero](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) carries the same pressure historically: objective exactness is achieved by making something available as a term, and the achievement returns the question of the context abstracted from. The relay economy accelerates that structure: exact representations become causal actors, and every increase in their power makes the direction of their dependence more consequential.
 
@@ -57,6 +59,8 @@ The returned claim bears force and discrimination together, as A34's does: relay
 
 The next movement belongs to A35′ — The Commons Behind the System: a return has a manner, and the manner decides whether the relay nourishes what it draws from. A36′ carries the acquired apparatus the whole way back to the field's ground.
 
-The page **returns-to** [A34 — Idealism / Order of Dependence](../arguments/A34-Idealism-Order-of-Dependence.md): the first-class order of dependence is not weakened by its technological re-siting; it is where every direction claim this page discriminates gets its ground. It also **returns-to** the root [A/C](AC.md) — the full `0/1` field of which both series are determinations ([PASS2-CHARTER](../../../../../working/conjugate-field/PASS2-CHARTER.md), ruling 1) — so that the facticity placed beneath this question is the field's own ground, not a foreign import.
+The page returns to [Idealism / Order of Dependence](../arguments/A34-Idealism-Order-of-Dependence.md): the first-class order is not weakened by technological re-siting; it is what lets every direction claim here be typed by respect.
+
+It also returns to [A/C](AC.md), where `0/1` is the full field of manifestation and `1/0` the achieved determination turning toward its ground. The relay is one determination in that field. Its power to alter later reality intensifies the need to state its dependence; it does not exempt the relay from it.
 
 Source-specific relay-economy collation and implementation evidence remain separate from the public argument. The philosophical result is already determinate: causal efficacy, epistemic priority and ontological dependence can point in different directions, and each relay must state which direction it is claiming.
