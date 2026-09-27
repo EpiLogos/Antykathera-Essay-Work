@@ -18,7 +18,7 @@ source_ids:
 
 The venue's sentence is the argument's own. Alignment "in this sense is not a prior constraint on capability but a co-evolutionary outcome of contact" ([q040](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q040)), "of deep contact itself" (PDF p. 55; verified local transcription, uncarded), with agent design focused on "responsiveness, evolution, and the capability to learn, adapt, and push back" (PDF p. 17, §3.2, adjacent to the [talking-mirror passage](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q018)). [A31 — Deferential Intelligence](../arguments/A31-Deferential-Intelligence.md) established the operation: model-revising encounter, with five sites of revision — answer, task interpretation, world-model, evaluator/gauge, terms of commission. A31′ re-sites it at the scale the venue names: **alignment itself is deference at population scale.** Micro and macro are one operation — the encounter that changes the model, the contact that changes the rule.
 
-The primitive face is S/P5 — Recognition/reconciliation: the return path that carries a changed relation into the next determination. Alignment-as-outcome is alignment held exactly there: never banked as a solved property, always carried as retained encounter history that the next contact can revise.
+The operative centre is **recognition / reconciliation**: a return path that carries a changed relation into the next determination. Alignment-as-outcome belongs here because it can never be banked as a solved property. It is retained encounter-history which the next contact can revise.
 
 ## #1
 
@@ -44,6 +44,8 @@ If alignment is an outcome of contact, the design burden moves to the contact's 
 
 ## #5→0
 
-The return is a changed rule carried as recognition, not a mood carried as harmony. S/P5's reconciliation evidence: what the contact changed, on whose model, under whose revision — retained into the next ground, where it can be revised again. Alignment earned per encounter and held revisable is deference at scale; alignment banked as a solved property is the frozen criterion [C12 — Script / Frozen Conditioned Will](../concepts/C12-Script-Frozen-Conditioned-Will.md) names, and the next surprise will find it insolvent.
+The return is a changed rule carried as recognition, not a mood carried as harmony. What changed in the contact, on whose model, under which authority, and how does that change enter the next ground?
+
+Alignment earned per encounter and held revisable is deference at scale. Alignment banked as a solved property is the frozen criterion [Script / Frozen Conditioned Will](../concepts/C12-Script-Frozen-Conditioned-Will.md) names, and the next surprise will find it unable to receive the difference it excluded.
 
 The page **returns-to** [A31 — Deferential Intelligence](../arguments/A31-Deferential-Intelligence.md) and the conjugate root [A/C](AC.md): the partner gave model-revising encounter within a delegation; A31′ gives the same operation as the hybrid society's alignment form — contact deep enough to change rules, deference distributed enough to keep every direction open.
