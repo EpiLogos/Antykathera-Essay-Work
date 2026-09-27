@@ -42,5 +42,3 @@ The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsa
 The [whole’s atlas complement](../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the source, passage and obstruction which a fixed picture can conceal. Its optical event remains distinct from a chart transition, while both retain the conditions under which different disclosures can be brought into relation. The viewer returns able to revise the aperture rather than merely collect another picture.
 
 Return makes the world a continuing source of revision. An encountered person can answer the categories under which they were counted; a model can alter the reference used by later models; an obstruction can force a change of frame. C38 governs local reference/reflection, C39 the lenses, and C47 the model-revising encounter. The atlas remains an achievement inside worldhood, capable of correction by what it maps.
-
-### Declared field
