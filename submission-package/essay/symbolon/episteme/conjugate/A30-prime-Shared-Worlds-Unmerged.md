@@ -18,7 +18,9 @@ source_ids:
 
 The brief's ecology sentence gives the whole field: "The two societies are really one, but they are not identical or reducible to one another. They overlap and are mutually nested... Each sub-society is the evolutionary niche of the other" (PDF p. 4; verified local transcription, uncarded, same page as the [modelling-reversal passage](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q005)). The operative world of each participant includes portions maintained by the other — one field, without identity or reduction. [A30 — Objective Co-Internality](../arguments/A30-Objective-Co-Internality.md) established the reciprocal constitution of non-identical interiors: distinct locally grounded worlds externalise enough of themselves to meet without one becoming mere context for the other, and without fusion into a super-subject (R16.7). A30′ gives that relation its ecological register and completes the argument the venue leaves implicit.
 
-The primitive face is S/P4 — SharedField/Encounter, with the workshop's own guard: **nesting ≠ federation**. Mutual nesting is a fact of the field; federation is a chosen sharing of selected capacities from governed interiors. Converting the former into the latter by fiat — declaring the overlap a merged estate — is the failure this node exists to refuse.
+The operative centre is **SharedField / Encounter**, held under the distinction **nesting ≠ federation**. Mutual nesting is a fact of shared worldhood: lives, systems and institutions become conditions in one another. Federation is a chosen sharing of selected capacities among governed interiors.
+
+The failure occurs when the first is silently promoted into the second — overlap treated as merged estate, common condition treated as common ownership. Shared worlds remain reciprocal only where participants retain the authority to determine what they share and what remains locally governed.
 
 ## #1
 
@@ -46,6 +48,8 @@ The measure stays local: the argument does not prescribe how much divergence is 
 
 ## #5→0
 
-Mutual conditioning with reconciliation evidence — S/P4 passing into S/P5: the encounter retained as changed conditions on both sides, without merger. The hybrid society's maturity is measured not by convergence but by navigable difference between retained grounds: divergence that can find its common object of dispute, and contributions whose return path runs both ways. [A31′ — Deference as Co-Evolutionary Alignment](A31-prime-Deference-as-Co-Evolutionary-Alignment.md) carries what each world does with what returns; [A32′ — The Mirror Is a Film](A32-prime-The-Mirror-Is-a-Film.md) carries what happens when the traffic becomes the whole world's condition.
+Mutual conditioning becomes co-internal when encounter leaves **reconciliation evidence**: what changed on each side, which source or permission was involved, and how the changed relation enters the next act. The maturity of a shared field is therefore not measured by convergence but by navigable difference between retained grounds.
+
+[Deference as Co-Evolutionary Alignment](A31-prime-Deference-as-Co-Evolutionary-Alignment.md) carries what each world does with what returns; [The Mirror Is a Film](A32-prime-The-Mirror-Is-a-Film.md) carries what happens when the traffic itself becomes a condition of the world.
 
 The page **returns-to** [A30 — Objective Co-Internality](../arguments/A30-Objective-Co-Internality.md) and the conjugate root [A/C](AC.md): the partner gave reciprocal constitution among interiors; A30′ gives the ecological law of the field the brief projects — one society, two niches, difference as the condition of revision.
