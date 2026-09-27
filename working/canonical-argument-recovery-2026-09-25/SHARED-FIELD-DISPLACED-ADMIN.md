@@ -1871,3 +1871,47 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 1
 
 ### Declared field
+
+## submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md
+
+### displaced block 1
+
+### Declared field
+
+### displaced block 2
+
+### Remaining source depth
+
+Restore Jung source passages, valuation theory and technical examples where model-images acquire institutional force.
+
+**Depth Restoration: enriched; exact external passage debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md
+
+### displaced block 1
+
+### Declared field
+
+### displaced block 2
+
+### Remaining source depth
+
+Restore Jung's changing formulations and distinguish individuation from integration, self-actualisation and social independence.
+
+**Depth Restoration: enriched; exact external passage debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md
+
+### displaced block 1
+
+### Declared field
+
+### displaced block 2
+
+### Remaining source depth
+
+Restore the exact historical phrase traditions and distinguish containment from dialectical synthesis or compromise.
+
+**Depth Restoration: enriched; historical/empirical debts retained.**
