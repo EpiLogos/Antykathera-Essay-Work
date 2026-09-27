@@ -48,7 +48,7 @@ jobs:
         run: |
           set -euo pipefail
           python3 - <<'PY'
-          import hashlib, json, os, pathlib, shutil, subprocess
+          import hashlib, json, os, pathlib, shutil, subprocess, tarfile
           root = pathlib.Path.cwd()
           out = pathlib.Path(os.environ['RUNNER_TEMP']) / 'recovery'
           checkout = out / 'checkout'
@@ -71,6 +71,14 @@ jobs:
           commit = subprocess.check_output(['git', 'rev-parse', 'HEAD']).decode().strip()
           (out / 'HEAD.txt').write_text(commit + '\n')
           (out / 'TEXT-MANIFEST.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
+          # Tar preserves the author's filenames; artifact uploads reject quotes and colons.
+          with tarfile.open(out / 'tracked-text.tar.gz', 'w:gz') as archive:
+              archive.add(checkout, arcname='checkout')
+          shutil.rmtree(checkout)
+          for report in (out / 'reports').glob('*.json'):
+              data = json.loads(report.read_text())
+              print(report.name, {k: data.get(k) for k in ('files', 'errors', 'review_candidates')})
+          print('snapshot', commit, 'tracked text files', len(manifest))
           PY
       - uses: actions/upload-artifact@v4
         if: always()
