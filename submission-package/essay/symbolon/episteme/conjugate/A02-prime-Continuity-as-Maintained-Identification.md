@@ -24,7 +24,9 @@ The user who returns tomorrow says "the same agent," and the substrate denies th
 
 ## #2
 
-Something performs the identifying. Memory holds sedimented interaction history; the relational fabric of APIs and protocols co-constitutes the agent from the outside (q017); entering a dyad or an ecology, "the collective individuates through the agent, not merely around it" (PDF p.14, §2.5). The act is distributed across harness, operator, user and ecology, and a distributed act still has an address: in the primitive field it is the parent-field binding of a shared referent to its presentations (S/P1) — performed by a memory system here, a deployment record there, a user's learned reliance throughout. The copula's question — who identifies, what, in which circumstance — is here a design and governance question, and the account of the agent is faithful exactly while the binding is named as one more determination inside it, per [A01′ — Faithful Definition of the Agent](A01-prime-Faithful-Definition-of-the-Agent.md).
+Something performs the identifying. Memory carries sedimented interaction history; APIs and protocols bind relations from outside the local session; users and operators learn to rely on a continuity that no single artifact contains by itself. The act of identification is therefore distributed across memory, harness, deployment, operator, user and ecology.
+
+What holds these presentations together is a **referent-binding**: this session, that deployment record and the user's learned reliance are treated as appearances of one maintained identity under stated circumstances. The copula's question — who identifies, what, in which circumstance — becomes a design and governance question. The account remains faithful only while the binding itself is named as one more determination inside it, rather than disappearing behind the fluency of “the same agent.”
 
 ## #3
 
