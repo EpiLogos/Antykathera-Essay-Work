@@ -38,4 +38,3 @@ The [Formal Limit dossier](../../../symbolon/episteme/dossiers/formal-limit.md) 
 
 Tractatus4.1212 and7 bear a source-specific limit; later practice requires its separate work and edition; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-practice) **qualifies** this historical attribution.
 
-The [authored P1 route for M04](../P1-CANONICAL-ALIGNMENT.md#p1-m04) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
