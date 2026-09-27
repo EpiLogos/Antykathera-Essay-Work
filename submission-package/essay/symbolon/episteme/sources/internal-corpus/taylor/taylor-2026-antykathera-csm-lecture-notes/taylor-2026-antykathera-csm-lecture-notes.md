@@ -1,6 +1,5 @@
 ---
 title: "Taylor — Antikythera CSM Lecture Notes (9 July 2026)"
-record_id: taylor-2026-antykathera-csm-lecture-notes
 source_id: taylor-2026-antykathera-csm-lecture-notes
 node_type: source-house
 ownership: canonical-source-house

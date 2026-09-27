@@ -1,6 +1,5 @@
 ---
 title: "Taylor — Binary Explication (four-file canonical-candidate set)"
-record_id: taylor-2026-binary-explication
 source_id: taylor-2026-binary-explication
 node_type: source-house
 ownership: canonical-source-house
