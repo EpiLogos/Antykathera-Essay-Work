@@ -71,7 +71,9 @@ The restored product field gives that return two exact technological/philosophic
 
 The newer Epi-Logos development then performs a further return. A lived paradigm can become articulated as pattern; the articulation can be compared with its enactment; encounter can expose their divergence; the changed articulation can re-enter the paradigm. That circuit belongs to [C51](../concepts/C51-Logos-Epi-Logos.md), not to Vāk alone. Vāk makes it intelligible that expression can participate in world-formation; Epi-Logos names the reflexive office in which the formed expression becomes answerable to the living field from which it came.
 
-[[A14-Computational-Process-Ontology|A14]] extends articulation into repeatable operations; C43 defines a functional return over their products. A generated statement can alter a task, invoke a tool, or constrain what is later taken as true. Its source, addressee, permission and consequence must therefore remain part of its account. This is a technical research obligation; neither a machine string nor a successful language exchange inherits the warrant of mantra or phenomenal recognition. A06 returns-to [[A05-Prakasa-Vimarsa|A05]] with the differentiated path through which appearing can articulate itself and be answered.
+[Computational Process Ontology](A14-Computational-Process-Ontology.md) extends articulation into repeatable operations; [Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) follows the return of their products into later processing. A generated statement can alter a task, invoke a tool, constrain what is later taken as true, and become inherited context for another act.
+
+Its source, addressee, permission and consequence therefore belong to the account of the utterance. Mantra, ordinary speech and machine-generated articulation have different histories and offices, but the common question is what a formed expression does in the world through which it passes. A06 returns to [Prakāśa–Vimarśa](A05-Prakasa-Vimarsa.md) with the differentiated path through which appearing becomes articulation and articulation becomes answerable.
 
 ### Declared field
 
@@ -82,9 +84,3 @@ The newer Epi-Logos development then performs a further return. A lived paradigm
 **Etymology whole field:** *Fides / Topos / Logos / Nomos / Natio / Credere*. **Consumed operation:** the **Logos** branch carries word/account/reason as articulated ordering, while the whole field prevents “logos” from being treated as a secret etymological key to unrelated Sanskrit terms. **Evidence register:** 2 for the attested semantic field of Greek *logos*; 3 for the operational relation between Logos and Vāk. The separate *paradeigma/paradeiknumi* lexical field qualifies the author's lived-pattern/explicit-model relation without deriving it. **What changes:** language is treated as an achieved relational act rather than a detachable label. **Return route:** A06 → C51 → A35 → C41 → A06.
 
 **Matheme:** relation becoming sign and return; **Mytheme:** Word, sound, breath and vision as whole articulation images; **Episteme:** Śaiva textual tradition, philosophy of language, computation, media history and the authorial paradigm development kept source-distinct.
-
-### Unresolved Delta
-
-Passage-level verification of the levels of Vāk, Paśyantī and Nāda; exact relation to Eckhart and later Logos material; fuller technical examples and the implemented relation between expressive projection and the paradigm it can revise.
-
-The [Indian philosophy dossier](../dossiers/indian-philosophy.md#2--speech-forms-a-world-which-can-answer-its-speaker) **compares** speech formation, personed address and the non-arbitrary kaleidoscope, returning the achieved account through E3 Logos.
