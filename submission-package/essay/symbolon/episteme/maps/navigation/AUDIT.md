@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
+source_digest: "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -18,7 +18,7 @@ Generated findings about the written navigation of the publication body. A findi
 
 ## Reader links and workspace lookup
 
-Visible, independently resolved links reach 718 of 782 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
+Visible, independently resolved links reach 719 of 782 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
 
 This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. [Full reader findings](reader-audit.json) retain every location and unresolved destination.
 
@@ -39,19 +39,19 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 79 | 768 | 0 | 0 | 0 |
-| The 48 movements | 48 | 473 | 199 | 274 | 0 | 0 | 0 |
-| The historical argument shelf (01–21) | 21 | 260 | 12 | 248 | 0 | 0 | 0 |
-| Symbolon — the twelvefold root | 14 | 196 | 146 | 50 | 0 | 1 | 0 |
-| Matheme — exact operations | 94 | 845 | 399 | 446 | 0 | 13 | 0 |
+| The 48 movements | 48 | 422 | 150 | 272 | 0 | 0 | 0 |
+| The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
+| Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
+| Matheme — exact operations | 94 | 844 | 390 | 454 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1130 | 653 | 477 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 650 | 210 | 440 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1349 | 618 | 731 | 36 | 81 | 47 |
-| Episteme · Product field S / S0–S5 | 8 | 100 | 24 | 76 | 1 | 2 | 1 |
-| Episteme · Etymology whole-fields | 25 | 619 | 449 | 170 | 0 | 6 | 0 |
+| Episteme · Arguments A01–A36 | 37 | 1031 | 548 | 483 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 583 | 173 | 410 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1223 | 496 | 727 | 36 | 77 | 47 |
+| Episteme · Product field S / S0–S5 | 8 | 77 | 14 | 63 | 1 | 2 | 1 |
+| Episteme · Etymology whole-fields | 25 | 611 | 392 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
-| Episteme · Source houses | 201 | 1066 | 167 | 899 | 0 | 80 | 0 |
+| Episteme · Source houses | 201 | 1067 | 167 | 900 | 0 | 80 | 0 |
 | Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 119 | 7 | 112 | 0 | 1 | 0 |
@@ -76,16 +76,17 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 
 | Target root | Links | Most linked |
 |---|---|---|
-| `working/sources-texts-references` | 152 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (23); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
+| `working/sources-texts-references` | 129 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (16); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
 | `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
 | `working/antykathera-resources` | 48 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (48) |
-| `working/final-argument-quilt-2026-08-23` | 42 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (8); `working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md` (5) |
-| `working/conjugate-field` | 20 | `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (10); `working/conjugate-field/PASS2-CHARTER.md` (6); `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (2) |
-| `working/pre-manuscript-refinement-2026-09-10` | 16 | `working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md` (11); `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (2); `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2) |
+| `working/final-argument-quilt-2026-08-23` | 34 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` (5); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (4) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
 | `working/p2-enrichment` | 5 | `working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md` (1); `working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md` (1); `working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md` (1) |
 | `submission-package/epi-logos` | 4 | `submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md` (2); `submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md` (2) |
+| `working/canonical-argument-recovery-2026-09-25` | 4 | `working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md` (2); `working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md` (1); `working/canonical-argument-recovery-2026-09-25/AC-DISPLACED-GOVERNANCE-AND-SOURCE-DEBTS.md` (1) |
+| `working/pre-manuscript-refinement-2026-09-10` | 4 | `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (1); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
 | `.wayfinder/maps` | 3 | `.wayfinder/maps/t20-t21-world-registers.md` (3) |
+| `working/conjugate-field` | 3 | `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (2); `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (1) |
 | `working/harmonisation-2026-08-18-objective-internality-capstone` | 1 | `working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md` (1) |
 
 ## Unresolved targets
@@ -143,6 +144,7 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [The Copula Derivation Chain: Name, Count, Account, Economy](../../../../quilt/copula-derivation-chain-and-resource-pools.md)
 - [QL Expression Grammar](../../../../quilt/ql-expression-grammar.md)
 - [Symbolon — The Return of Zero](../../../README.md)
+- [Eight Determinations — The Complete Traversal](../../../eight-determinations.md)
 - [Episteme atlas — historical routes through Etymology](../../atlas/README.md)
 - [C24 — Fusion](../../concepts/C24-Fusion.md)
 - [C25 — Counterfeit Gathering](../../concepts/C25-Counterfeit-Gathering.md)
@@ -151,11 +153,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C28 — Covenant / Primary Arbitration](../../concepts/C28-Covenant-Primary-Arbitration.md)
 - [C33 — Image / Valuation](../../concepts/C33-Image-Valuation.md)
 - [C34 — Individuation](../../concepts/C34-Individuation.md)
-- [C35 — Selfing / Self / Subjectivity / Self-Thing](../../concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md)
 - [C36 — Complexio Oppositorum](../../concepts/C36-Complexio-Oppositorum.md)
 - [C37 — World-Picture → World-Atlas](../../concepts/C37-World-Picture-to-World-Atlas.md)
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
-- [C40 — Model Internality / Judgment Field](../../concepts/C40-Model-Internality-Judgment-Field.md)
 - [C42 — Objective Co-Internality](../../concepts/C42-Objective-Co-Internality.md)
 - [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)
 - [C45 — Operational Parity](../../concepts/C45-Operational-Parity.md)
@@ -163,10 +163,8 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
 - [C48 — Trust / Faith under Formal Limit](../../concepts/C48-Trust-Faith-under-Formal-Limit.md)
 - [C49 — The Two Ones — 0 = One, 1 = All](../../concepts/C49-The-Two-Ones-0-One-1-All.md)
-- [C50 — Dia / Syn](../../concepts/C50-Dia-Syn.md)
 - [C51 — Logos / Epi-Logos](../../concepts/C51-Logos-Epi-Logos.md)
 - [C52 — Dimensional Reframing at Zero and Infinity](../../concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md)
-- [C61 — Symbolon Disclosure Architecture](../../concepts/C61-Symbolon-Disclosure-Architecture.md)
 - [C64 — Paradox / Transforming the Containing Field](../../concepts/C64-Paradox-Transforming-the-Containing-Field.md)
 - [0-1 Matheme](../../concepts/reference-notes/0-1-matheme.md)
 - [36 Tattvas](../../concepts/reference-notes/36-tattvas.md)
@@ -426,9 +424,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **The historical argument shelf (01–21):** `**Historical carrier.** The developed successor is [A03] (../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md)`
 - **The historical argument shelf (01–21):** `[[The Advent of Zero, Subject, and Integral Logic]] carries this formal condition through its historical emergence: zero becomes a formal term without ceasing t`
 - **The historical argument shelf (01–21):** `the fuller [[34-s4-p3-lacan-matheme-mytheme/crossed-zero sequence]] traces that mark from occlusion through visible mediation into contextual availability and r`
-- **Symbolon — the twelvefold root:** `[A02, the copula] (episteme/arguments/A02-Copula-Self-Identity-through-Difference.md), grounds the identity that survives this difference`
+- **Symbolon — the twelvefold root:** `[Compassion's vocation] (episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) extends this relation into conduct`
+- **Symbolon — the twelvefold root:** `[The Copula / Self-Identity through Difference] (episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) carries the identity that survives this chang`
 - **Symbolon — the twelvefold root:** `[A27, Self and Other] (episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md), qualifies the consequence`
-- **Symbolon — the twelvefold root:** `[A01, Faithful Definition] (episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), qualifies the distinction between #4 and #5`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `- [Arguments A01–A36] (arguments/README.md) — the canonical semantic Argument identities`
@@ -440,9 +438,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `/ [ancient philosophy] (../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history] (../histories/traditions-and-disciplines/a`
-- **Episteme · Concepts C01–C64 and provenance:** `[A09 — Tattvic Differential Field] (../arguments/A09-Tattvic-Differential-Field.md) supplies a distinct Indian account of consciousness's capacity to differentia`
-- **Episteme · Concepts C01–C64 and provenance:** `[A09 — Tattvic Differential Field] (../arguments/A09-Tattvic-Differential-Field.md) supplies a distinct Indian account of consciousness's capacity to differentia`
-- **Episteme · Concepts C01–C64 and provenance:** `[S1 / Actuation] (../products/S1-Actuation.md) concerns the experience or report as living articulation`
+- **Episteme · Concepts C01–C64 and provenance:** `[Immutable Gap] (C05-Immutable-Gap.md) names the recurrent non-coincidence which formal limit protects`
+- **Episteme · Concepts C01–C64 and provenance:** `[Self-identity through difference] (../arguments/A02-Copula-Self-Identity-through-Difference.md) begins here`
+- **Episteme · Concepts C01–C64 and provenance:** `The [non-coincidence of an account with its condition] (C05-Immutable-Gap.md) gives identification a passage to make`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`

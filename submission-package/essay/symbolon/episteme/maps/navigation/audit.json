@@ -1,16 +1,16 @@
 {
-  "source_digest": "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f",
+  "source_digest": "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
     "pages": 782,
-    "reachable": 718,
+    "reachable": 719,
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 505,
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
-      "missing-fragment": 3,
+      "missing-fragment": 2,
       "missing-path": 4
     },
     "admitted": 288,
@@ -30,22 +30,22 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5416,
-    "sources": 1330,
-    "sources (declared)": 822,
-    "returns-to": 657,
-    "grounds": 473,
-    "extends": 360,
-    "qualifies": 294,
-    "consumed-by (declared)": 288,
-    "defines": 253,
-    "figures": 219,
-    "compares": 170,
-    "historicises": 166,
+    "unnamed": 5450,
+    "sources": 1210,
+    "sources (declared)": 831,
+    "returns-to": 630,
+    "grounds": 394,
+    "extends": 306,
+    "consumed-by (declared)": 293,
+    "qualifies": 262,
+    "defines": 219,
+    "figures": 186,
+    "historicises": 158,
+    "compares": 157,
     "returns-to (declared)": 125,
-    "tests": 104,
-    "derives": 31,
-    "embodies": 16,
+    "tests": 94,
+    "derives": 29,
+    "embodies": 15,
     "sources (declared passage)": 12,
     "companion notes (declared)": 10,
     "presages": 2
@@ -80,29 +80,29 @@
     },
     "movements": {
       "pages": 48,
-      "links": 473,
-      "named": 199,
-      "unnamed": 274,
+      "links": 422,
+      "named": 150,
+      "unnamed": 272,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "argument-shelf": {
       "pages": 21,
-      "links": 260,
+      "links": 264,
       "named": 12,
-      "unnamed": 248,
+      "unnamed": 252,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "symbolon-root": {
       "pages": 14,
-      "links": 196,
-      "named": 146,
-      "unnamed": 50,
+      "links": 187,
+      "named": 122,
+      "unnamed": 65,
       "orphans": 0,
-      "no_return": 1,
+      "no_return": 2,
       "unreachable": 0
     },
     "episteme-root": {
@@ -125,9 +125,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1130,
-      "named": 653,
-      "unnamed": 477,
+      "links": 1031,
+      "named": 548,
+      "unnamed": 483,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -143,18 +143,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1349,
-      "named": 618,
-      "unnamed": 731,
+      "links": 1223,
+      "named": 496,
+      "unnamed": 727,
       "orphans": 36,
-      "no_return": 81,
+      "no_return": 77,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 650,
-      "named": 210,
-      "unnamed": 440,
+      "links": 583,
+      "named": 173,
+      "unnamed": 410,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -179,9 +179,9 @@
     },
     "episteme-etymologies": {
       "pages": 25,
-      "links": 619,
-      "named": 449,
-      "unnamed": 170,
+      "links": 611,
+      "named": 392,
+      "unnamed": 219,
       "orphans": 0,
       "no_return": 6,
       "unreachable": 0
@@ -224,27 +224,27 @@
     },
     "episteme-products": {
       "pages": 8,
-      "links": 100,
-      "named": 24,
-      "unnamed": 76,
+      "links": 77,
+      "named": 14,
+      "unnamed": 63,
       "orphans": 1,
       "no_return": 2,
       "unreachable": 1
     },
     "episteme-sources": {
       "pages": 201,
-      "links": 1066,
+      "links": 1067,
       "named": 167,
-      "unnamed": 899,
+      "unnamed": 900,
       "orphans": 0,
       "no_return": 80,
       "unreachable": 0
     },
     "matheme": {
       "pages": 94,
-      "links": 845,
-      "named": 399,
-      "unnamed": 446,
+      "links": 844,
+      "named": 390,
+      "unnamed": 454,
       "orphans": 0,
       "no_return": 13,
       "unreachable": 0
@@ -303,6 +303,7 @@
     "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
     "submission-package/essay/quilt/ql-expression-grammar.md",
     "submission-package/essay/symbolon/README.md",
+    "submission-package/essay/symbolon/eight-determinations.md",
     "submission-package/essay/symbolon/episteme/atlas/README.md",
     "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
     "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
@@ -311,11 +312,9 @@
     "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
     "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
     "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
-    "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
     "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
     "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
     "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
-    "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
     "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
     "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
@@ -323,10 +322,8 @@
     "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
     "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
     "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
-    "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
     "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
     "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
-    "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
     "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
@@ -570,16 +567,16 @@
   ],
   "out_of_body": {
     "working/sources-texts-references": {
-      "count": 152,
+      "count": 129,
       "targets": {
         "working/sources-texts-references/QL-Essay-Rewrite.md": 51,
-        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md": 23,
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md": 16,
         "working/sources-texts-references/The Nothing That Is - Robert Kaplan.md": 14,
-        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md": 8,
-        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md": 5,
-        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md": 5,
-        "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md": 4,
-        "working/sources-texts-references/Epi Paper Write-ups/source-extraction-core-theorems.md": 4
+        "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md": 5,
+        "working/sources-texts-references/Epi Paper Write-ups/source-extraction-core-theorems.md": 4,
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition.md": 4,
+        "working/sources-texts-references/Franki Taylor — Internal Corpus Argument Candidates.md": 3,
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/deep/MEF Full Research - Oct 21 2025.md": 3
       }
     },
     "the-return-of-zero-central-plan.md": {
@@ -595,35 +592,16 @@
       }
     },
     "working/final-argument-quilt-2026-08-23": {
-      "count": 42,
+      "count": 34,
       "targets": {
         "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md": 12,
-        "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md": 8,
-        "working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 5,
         "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md": 5,
+        "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md": 4,
         "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md": 4,
-        "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md": 2,
+        "working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 2,
         "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md": 2,
-        "working/final-argument-quilt-2026-08-23/NATIVE-020-DEEP-SEAM-RECONCILIATION.md": 2
-      }
-    },
-    "working/conjugate-field": {
-      "count": 20,
-      "targets": {
-        "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md": 10,
-        "working/conjugate-field/PASS2-CHARTER.md": 6,
-        "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 2,
-        "working/conjugate-field/FLIPSIDE-PACKAGE.md": 1,
-        "working/conjugate-field/CONCEPT-REHARMONISATION-PROPOSAL.md": 1
-      }
-    },
-    "working/pre-manuscript-refinement-2026-09-10": {
-      "count": 16,
-      "targets": {
-        "working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md": 11,
-        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 2,
-        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2,
-        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 1
+        "working/final-argument-quilt-2026-08-23/NATIVE-020-DEEP-SEAM-RECONCILIATION.md": 2,
+        "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md": 1
       }
     },
     "submission-package/essay": {
@@ -650,10 +628,33 @@
         "submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md": 2
       }
     },
+    "working/canonical-argument-recovery-2026-09-25": {
+      "count": 4,
+      "targets": {
+        "working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md": 2,
+        "working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md": 1,
+        "working/canonical-argument-recovery-2026-09-25/AC-DISPLACED-GOVERNANCE-AND-SOURCE-DEBTS.md": 1
+      }
+    },
+    "working/pre-manuscript-refinement-2026-09-10": {
+      "count": 4,
+      "targets": {
+        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2,
+        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 1,
+        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 1
+      }
+    },
     ".wayfinder/maps": {
       "count": 3,
       "targets": {
         ".wayfinder/maps/t20-t21-world-registers.md": 3
+      }
+    },
+    "working/conjugate-field": {
+      "count": 3,
+      "targets": {
+        "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md": 2,
+        "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 1
       }
     },
     "working/harmonisation-2026-08-18-objective-internality-capstone": {
@@ -713,9 +714,9 @@
       "the fuller [[34-s4-p3-lacan-matheme-mytheme|crossed-zero sequence]] traces that mark from occlusion through visible mediation into contextual availability and r"
     ],
     "symbolon-root": [
-      "[A02, the copula](episteme/arguments/A02-Copula-Self-Identity-through-Difference.md), grounds the identity that survives this difference",
-      "[A27, Self and Other](episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md), qualifies the consequence",
-      "[A01, Faithful Definition](episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), qualifies the distinction between #4 and #5"
+      "[Compassion's vocation](episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) extends this relation into conduct",
+      "[The Copula / Self-Identity through Difference](episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) carries the identity that survives this chang",
+      "[A27, Self and Other](episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md), qualifies the consequence"
     ],
     "episteme-root": [
       "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#4` Episteme",
@@ -737,9 +738,9 @@
       "| [ancient philosophy](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history](../histories/traditions-and-disciplines/a"
     ],
     "episteme-concepts": [
-      "[A09 — Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) supplies a distinct Indian account of consciousness's capacity to differentia",
-      "[A09 — Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) supplies a distinct Indian account of consciousness's capacity to differentia",
-      "[S1 / Actuation](../products/S1-Actuation.md) concerns the experience or report as living articulation"
+      "[Immutable Gap](C05-Immutable-Gap.md) names the recurrent non-coincidence which formal limit protects",
+      "[Self-identity through difference](../arguments/A02-Copula-Self-Identity-through-Difference.md) begins here",
+      "The [non-coincidence of an account with its condition](C05-Immutable-Gap.md) gives identification a passage to make"
     ],
     "episteme-conjugate": [
       "[Argument field](../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) · [",

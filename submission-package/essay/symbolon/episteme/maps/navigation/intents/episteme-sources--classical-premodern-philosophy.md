@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
+source_digest: "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -45,7 +45,7 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 `primary-philosophy`
 
-**Implicates:** *consumed-by (declared)* → [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) · *unnamed* → [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md)
+**Implicates:** *consumed-by (declared)* → [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md) · *unnamed* → [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md)
 
 **Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM.md), [A34 — Idealism / Order of Dependence](../../../arguments/A34-Idealism-Order-of-Dependence.md), [C60 — Idealism / Order of Dependence](../../../concepts/C60-Idealism-Order-of-Dependence.md) · *sources (declared)* ← [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
@@ -55,7 +55,7 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 **Implicates:** *consumed-by (declared)* → [A/C — Argument / Concept — Root of the Conjugate Field](../../../conjugate/AC.md) · *unnamed* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
 
-**Reached from:** *historicises* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *sources* ← [A34′ — The Direction of Dependence](../../../conjugate/A34-prime-Direction-of-Dependence.md), [A/C — Argument / Concept — Root of the Conjugate Field](../../../conjugate/AC.md) · *sources (declared)* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
+**Reached from:** *historicises* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *sources (declared)* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
 
 ### [Flasch — Meister Eckhart: Philosopher of Christianity (2015)](../../../sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md)
 

@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
+source_digest: "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -22,19 +22,19 @@ This map is generated from the relations authors wrote into the publication body
 |---|---|---|---|---|---|---|
 | #5 | The sovereign essay | 1 | 8 | 0% | [The Return of Zero](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 9% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
-| #0 | The 48 movements | 48 | 473 | 42% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
-| #0 | The historical argument shelf (01–21) | 21 | 260 | 5% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/argument-shelf.md) |
-| #1 | Symbolon — the twelvefold root | 14 | 196 | 74% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
-| #2 | Matheme — exact operations | 94 | 845 | 47% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
+| #0 | The 48 movements | 48 | 422 | 36% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
+| #0 | The historical argument shelf (01–21) | 21 | 264 | 5% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/argument-shelf.md) |
+| #1 | Symbolon — the twelvefold root | 14 | 187 | 65% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
+| #2 | Matheme — exact operations | 94 | 844 | 46% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 48 | 763 | 59% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 24 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
-| #4 | Episteme · Arguments A01–A36 | 37 | 1130 | 58% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
-| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 650 | 32% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
-| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1349 | 46% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
-| #4 | Episteme · Product field S / S0–S5 | 8 | 100 | 24% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
-| #4 | Episteme · Etymology whole-fields | 25 | 619 | 73% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
+| #4 | Episteme · Arguments A01–A36 | 37 | 1031 | 53% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
+| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 583 | 30% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
+| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1223 | 41% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
+| #4 | Episteme · Product field S / S0–S5 | 8 | 77 | 18% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
+| #4 | Episteme · Etymology whole-fields | 25 | 611 | 64% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 660 | 65% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
-| #4 | Episteme · Source houses | 201 | 1066 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
+| #4 | Episteme · Source houses | 201 | 1067 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 205 | 87% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 3 | 37 | 70% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
 | #4 | Episteme · Maps and curated paths | 5 | 119 | 6% | [Maps](../README.md) | [intents](intents/episteme-maps.md) |
@@ -55,28 +55,28 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5416 |
-| sources | 1330 |
-| sources (declared) | 822 |
-| returns-to | 657 |
-| grounds | 473 |
-| extends | 360 |
-| qualifies | 294 |
-| consumed-by (declared) | 288 |
-| defines | 253 |
-| figures | 219 |
-| compares | 170 |
-| historicises | 166 |
+| unnamed | 5450 |
+| sources | 1210 |
+| sources (declared) | 831 |
+| returns-to | 630 |
+| grounds | 394 |
+| extends | 306 |
+| consumed-by (declared) | 293 |
+| qualifies | 262 |
+| defines | 219 |
+| figures | 186 |
+| historicises | 158 |
+| compares | 157 |
 | returns-to (declared) | 125 |
-| tests | 104 |
-| derives | 31 |
-| embodies | 16 |
+| tests | 94 |
+| derives | 29 |
+| embodies | 15 |
 | sources (declared passage) | 12 |
 | companion notes (declared) | 10 |
 | presages | 2 |
 
 ## Standing of the surface
 
-- Workspace-resolved graph: 734/782 reachable, including metadata relations. Conservative visible-link audit: 718/782. See the audit for the distinction.
-- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 218.
+- Workspace-resolved graph: 734/782 reachable, including metadata relations. Conservative visible-link audit: 719/782. See the audit for the distinction.
+- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 215.
 - Full findings with page lists: [navigation audit](AUDIT.md).

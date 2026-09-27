@@ -32,7 +32,7 @@ The philosophy is faithfully reflected in the technology. O:I’s six products d
 
 **Earned position (Argued):** §5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are philosophical offices of that mediating field made technically consequential: six aspects of the means through which a Life inhabits and changes its World.
 
-**Carry-forward:** **Actuation is living articulation: the event-substance of an internality.** A Life does not only carry a ground; it differentiates, perceives, speaks, judges and acts.
+**Carry-forward:** **Actuation is living articulation: the event-substance of an internality.** A Life differentiates, perceives, speaks, judges and acts from the ground it carries.
 
 **Open:** [movement](movements/37-s5-p0-math-moves-meaning.md) · canonical route: [A26 — Objective Internality — Mind as Worldhood](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A28 — Authored Ground / Positional Delegation](../../symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md), [A29 — Power / Delegated Labour / Return](../../symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md), [C38](../../symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md), [C45](../../symbolon/episteme/concepts/C45-Operational-Parity.md) · sources: [taylor-2026-oi-product-field-commission](../../symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md), [taylor-2026-core-theorems-pithy](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
 
@@ -40,7 +40,7 @@ The philosophy is faithfully reflected in the technology. O:I’s six products d
 
 **Incoming pressure:** [§5 #0 · Central — Meaningful Continuity](movements/37-s5-p0-math-moves-meaning.md)
 
-**Earned position (Argued):** **Actuation is living articulation: the event-substance of an internality.** A Life does not only carry a ground; it differentiates, perceives, speaks, judges and acts.
+**Earned position (Argued):** **Actuation is living articulation: the event-substance of an internality.** A Life differentiates, perceives, speaks, judges and acts from the ground it carries.
 
 **Carry-forward:** **AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity is not identical with possession.
 

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
+source_digest: "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -49,13 +49,13 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [Agency Without Subjectivity](../../../concepts/reference-notes/agency-without-subjectivity.md)
 
-**Implicates:** *unnamed* → [Bratton — Antikythera Agentworld Brief (2026)](../../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#Source PDF page 13), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Prompt Thrownness](../../../concepts/prompt-thrownness.md)
+**Implicates:** *unnamed* → [Bratton — Antikythera Agentworld Brief (2026)](../../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#Source PDF page 13), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md), [Prompt Thrownness](../../../concepts/prompt-thrownness.md)
 
 **Reached from:** none written.
 
 ### [Agentic Individuation Crosswalk](../../../concepts/reference-notes/agentic-individuation-crosswalk.md)
 
-**Implicates:** *unnamed* → [Bratton — Antikythera Agentworld Brief (2026)](../../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#Source PDF page 14), [Prompt Thrownness](../../../concepts/prompt-thrownness.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md)
+**Implicates:** *unnamed* → [Bratton — Antikythera Agentworld Brief (2026)](../../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#Source PDF page 14), [Prompt Thrownness](../../../concepts/prompt-thrownness.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md)
 
 **Reached from:** *unnamed* ← [Prompt Thrownness](../../../concepts/reference-notes/prompt-thrownness.md)
 
@@ -85,7 +85,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [Bohm–Krishnamurti Dialogues — Running True and the Observer-Observed](../../../concepts/reference-notes/bohm-krishnamurti-dialogue-running-true.md)
 
-**Implicates:** *unnamed* → [Complex Plane](../../../concepts/reference-notes/complex-plane.md), [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Bohm — Enfoldment, Dialogue and the Return of an Account](../../../dossiers/bohm.md), [Mathematical-Artistic Image Register](../../../concepts/mathematical-artistic-image-register.md), [Computational Vimarśa](../../../concepts/reference-notes/computational-vimarsa.md)
+**Implicates:** *unnamed* → [Complex Plane](../../../concepts/reference-notes/complex-plane.md), [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md), [Bohm — Enfoldment, Dialogue and the Return of an Account](../../../dossiers/bohm.md), [Mathematical-Artistic Image Register](../../../concepts/mathematical-artistic-image-register.md), [Computational Vimarśa](../../../concepts/reference-notes/computational-vimarsa.md)
 
 **Reached from:** *grounds* ← [Bohm — Enfoldment, Dialogue and the Return of an Account](../../../dossiers/bohm.md) · *unnamed* ← [Mathematical-Artistic Image Register](../../../concepts/reference-notes/mathematical-artistic-image-register.md), [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
 
@@ -109,7 +109,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [Christopher M. Bache — LSD and the Mind of the Universe](../../../concepts/reference-notes/christopher-bache-lsd-and-the-mind-of-the-universe.md)
 
-**Implicates:** *unnamed* → [Psychoid Number](../../../concepts/psychoid-number.md), [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md)
+**Implicates:** *unnamed* → [Psychoid Number](../../../concepts/psychoid-number.md), [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md)
 
 **Reached from:** *unnamed* ← [Psychoid Number](../../../concepts/reference-notes/psychoid-number.md)
 
@@ -133,7 +133,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [Computational Vimarśa](../../../concepts/reference-notes/computational-vimarsa.md)
 
-**Implicates:** *unnamed* → [Vimarśa](../../../concepts/reference-notes/vimarsa.md), [A31 — Deferential Intelligence](../../../arguments/A31-Deferential-Intelligence.md), [Logos and Epi-Logos](../../../concepts/reference-notes/logos-epi-logos.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Bimba-Pratibimba](../../../concepts/bimba-pratibimba.md)
+**Implicates:** *unnamed* → [Vimarśa](../../../concepts/reference-notes/vimarsa.md), [A31 — Deferential Intelligence](../../../arguments/A31-Deferential-Intelligence.md), [Logos and Epi-Logos](../../../concepts/reference-notes/logos-epi-logos.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md), [Bimba-Pratibimba](../../../concepts/bimba-pratibimba.md)
 
 **Reached from:** *unnamed* ← [Bohm–Krishnamurti Dialogues — Running True and the Observer-Observed](../../../concepts/reference-notes/bohm-krishnamurti-dialogue-running-true.md), [Compassion as Sensitivity to Origins](../../../concepts/reference-notes/compassion-sensitivity-origins.md), [Logos and Epi-Logos](../../../concepts/reference-notes/logos-epi-logos.md), [Prompt Thrownness](../../../concepts/reference-notes/prompt-thrownness.md), [Vimarśa](../../../concepts/reference-notes/vimarsa.md)
 

@@ -70,7 +70,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Why this move:** The local 4:2 Technē source is explicit about decentralised/community-led infrastructure, local governance, memory and epistemic sovereignty.
 
-**Carry-forward:** a mesh of locally grounded Bimba fields with reversible crossings: common enough for shared consequence, sovereign enough for difference to remain a source of correction.
+**Carry-forward:** The return from agentic praxis carries the essay’s **Argued order of dependence: Subject/Consciousness → Mind/Objective Internality → Object**.
 
 **Open:** [movement](movements/46-s50-p3-4-2-mono-poly.md) · canonical route: [A12 — Mono-Poly-One-All-Whole-Many](../../symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A23 — Trust, Faith and the Formal Limit](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [A24 — Arbitration and the Usurpation of Measure](../../symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md), [A25 — Covenant / Mediating Office / Source Authority](../../symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md), [A29 — Power / Delegated Labour / Return](../../symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md), [A30 — Objective Co-Internality](../../symbolon/episteme/arguments/A30-Objective-Co-Internality.md), [C26](../../symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md), [C27](../../symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md), [C28](../../symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md), [C29](../../symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md), [C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md), [C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md), [C53](../../symbolon/episteme/concepts/C53-Power-Delegated-Labour.md), [C54](../../symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md), [C59](../../symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md) · sources: [42-techne-2026-sovereign-commons](../../symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md), [bratton-2026-agentworld-brief](../../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md), [taylor-2026-revision-notes-trust](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md), [iakovou-2022-misuse-totalitarianism](../../symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md), [ostrom-2009-beyond-markets-states-nobel-lecture](../../symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), [dushun-cleary-2000-jewel-net-indra](../../symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md), [van-norden-jones-2024-huayan-sep](../../symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md)
 
@@ -78,7 +78,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Incoming pressure:** [§5→0 #3 · 4:2 Technē and the Sovereign Commons](movements/46-s50-p3-4-2-mono-poly.md)
 
-**Earned position (Argued (order of dependence); Offered (technical comparisons); Open (artificial phenomenal localisation)):** The return from agentic praxis carries the essay’s **Argued order of dependence: Subject/Consciousness → Mind/Objective Internality → Object**.
+**Earned position (Argued (order of dependence); Offered (technical comparisons)):** The return from agentic praxis carries the essay’s **Argued order of dependence: Subject/Consciousness → Mind/Objective Internality → Object**.
 
 **Carry-forward:** a locally authoritative map held inside a field it cannot finally map from outside.
 
@@ -88,7 +88,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Incoming pressure:** [§5→0 #4 · Idealism as Horizon](movements/47-s50-p4-idealism-horizon.md)
 
-**Earned position (Argued (Return of Zero / Epi-Logos); Offered (AHI federation / planetary architecture); Open (artificial phenomenality)):** Artificial Hybrid Intelligence names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions.
+**Earned position (Argued (Return of Zero / Epi-Logos); Offered (AHI federation / planetary architecture)):** Artificial Hybrid Intelligence names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions.
 
 **Carry-forward:** `5→0` — every achieved `1` returns without possessing `0`.
 
