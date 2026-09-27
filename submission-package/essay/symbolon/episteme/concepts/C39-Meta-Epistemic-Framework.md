@@ -45,5 +45,3 @@ The [Symbol / Account / Trust whole-field — Account does not replace source](.
 Return tests what the framework changed in retrieval, exclusion retention, evaluation, collaboration or revision. C40 makes the judgment field inspectable; C45 asks for operational parity; C46 follows cultivation through repeated changed returns. J-Space remains subordinate research beneath C40/MEF. A useful experiment can establish an effect of the method without proving the metaphysics, and a failed experiment need not silently rewrite the native theorem.
 
 The six product bodies make that return reciprocal: [S0](../products/S0-Central.md), [S1](../products/S1-Actuation.md), [S2](../products/S2-AIKit.md), [S3](../products/S3-Software-Factory.md), [S4](../products/S4-Workcell.md) and [S5](../products/S5-Quaternal-Logic.md) consume their assigned pairs and return changed product meanings to MEF. [S](../products/S-World-and-Life.md) keeps the six inside the larger Life/World relation rather than making the framework the whole.
-
-### Declared field
