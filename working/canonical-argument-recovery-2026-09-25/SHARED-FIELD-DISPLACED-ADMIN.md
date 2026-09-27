@@ -1997,3 +1997,11 @@ Restore the exact historical phrase traditions and distinguish containment from 
 ### displaced block 1
 
 ### Declared field
+
+## submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md
+
+### displaced block 1
+
+### Declared field
+
+**Etymology relations:** *Homologia / Analogia*; consumed operation: apparently incompatible terms can reveal a higher/focal relational structure only after their local differences are preserved. Register **3**. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a paradox can expose and transform the mediating slash rather than merely replace a determination. Register **3**. Return C64 → A36 → C36/A21 → C64, with C64 → C51/A35 → C64 supplying the paradigmatic return.
