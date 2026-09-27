@@ -46,7 +46,7 @@ The corrected stained-glass construction figures how this seeing can be built. O
 
 Colour is a determinate power of disclosure. A pane gives the light a path and makes a particular articulation visible. The lead seams retain source difference, historical discontinuity, translation limit and register change. Removing those seams would destroy the articulated window; attending only to the inventory of panes would lose the light by which the construction works. Move the sun, the viewer or the room's relation to the aperture, and the projection changes. The Original becomes recognisable through those ordered transformations without becoming their average or a final image assembled by addition.
 
-The image carries the full relation: source, spectral order, refractive apparatus, situated appearance and recognition through variation. Its work is Mytheme. It does not turn consciousness into electromagnetic light, or traditions into physical panes. What it makes available is the craft of composition: a source enters through the distinctive operation by which it changes the visible whole, and its differences remain readable in the joins.
+The image carries the full relation: source, spectral order, refractive apparatus, situated appearance and recognition through variation. Its work is Mytheme. Conscious appearing and electromagnetic light occupy different registers; the image matters because it gives composition a concrete craft. A source enters through the distinctive operation by which it changes the visible whole, and its differences remain readable in the joins.
 
 ## #4
 
