@@ -21,7 +21,9 @@ The question "what is an agent?" is not asked from outside the field that assemb
 
 ## #1
 
-The definition must actually determine. [[symbolon/episteme/concepts/C03-Determination|Determination]] is the cut the account performs, and [[symbolon/episteme/concepts/C02-Faithful-Definition|Faithful Definition]] the fidelity it owes: say something definite — this model, this persona stratum, this harness, this memory state, these permissions, these tools — and keep the saying answerable. An agent-definition that names none of it ("a helpful character," "a reasoning entity") discriminates nothing and cannot be checked against anything. In the primitive field's address, the named assemblage is the agent's **Control identity** (S0/P0): the centre from which the local field proceeds is here a declared assembly, not a hidden occupant, and the account is faithful while that control — who and what determines ground, sources, flows and mutations — stays inside the account rather than behind it.
+The definition must actually determine. [Determination](../concepts/C03-Determination.md) is the cut the account performs, and [Faithful Definition](../concepts/C02-Faithful-Definition.md) the fidelity it owes: say something definite — this model, this persona stratum, this harness, this memory state, these permissions, these tools — and keep the saying answerable.
+
+At agent grain, that means naming the **control identity**: the declared assemblage from which the local act proceeds and the authority by which ground, sources, flows and mutations are selected. “A helpful character” or “a reasoning entity” does not determine enough to be checked. A faithful definition names the actual assembly and keeps its determining relations inside the account rather than hiding them behind a persona.
 
 ## #2
 
