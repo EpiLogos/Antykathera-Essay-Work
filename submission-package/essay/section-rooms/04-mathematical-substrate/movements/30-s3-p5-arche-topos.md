@@ -72,4 +72,3 @@ The substrate now flowers psychologically. Jung and Pauli supply the psychoid qu
 
 The [complete stained-glass whole](../../../symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the atlas’s optical complement: light enters through a made aperture whose panes, seams and position remain answerable within the display. Transmission and chart transition retain their different operations. The Bimba Map’s recursive local original office remains available within this wider source-dependent relation.
 
-The [authored P1 route for M30](../P1-CANONICAL-ALIGNMENT.md#p1-m30) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
