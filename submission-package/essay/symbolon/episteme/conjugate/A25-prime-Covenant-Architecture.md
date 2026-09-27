@@ -18,7 +18,9 @@ source_ids:
 
 One row of the brief's FROM→TO matrix — *build ideal cooperative agents → build scaffolds of institutions* (PDF p. 56; verified local transcription, uncarded) — is the covenant argument restated as an engineering decision. [A25 — Covenant / Mediating Office / Source Authority](../arguments/A25-Covenant-Mediating-Office-Source-Authority.md) established that a derivative office can exercise real authority without becoming the source of the field it serves. A25′ re-sites that operation where the venue itself places it: an agent institution receives an arbitrated field — constitution, license, policy, role — and receiving it does not make the institution the source of arbitration. What the re-siting adds is the enforcing form: [[symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md#0|Typed Authority]], authority whose derivation is carried in the architecture rather than trusted to disposition.
 
-The scaffold reaches past every instance A25 examined. The partner's technical case stopped at delegated agency — one commission, one evaluator, one contested result returning to its criterion. A scaffold is a further office: rules, roles, procedures, precedents and feedback that outlive any single delegation and bind delegations together. There the covenant's offices become first-class machine objects — role, permission, policy — and its fidelity becomes checkable rather than advisory: usurpation is a detectable condition, not a character flaw. The primitive ground is S0/P2, Authorship/Governance/Action, the row of human acceptance-and-mutation authority. A scaffold is that row made infrastructure: governance as something someone authored and can re-author. [C28 — Covenant / Primary Arbitration](../concepts/C28-Covenant-Primary-Arbitration.md) **defines** the granting of standing; [C29 — Mediating Office](../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) **defines** its derivative exercise. A25′ develops what the partner withheld; it creates no new office.
+The scaffold reaches past every single delegation A25 examined. Rules, roles, procedures, precedents and feedback can outlive any one act of entrustment and bind many delegations into one institutional field. Covenant becomes architectural where standing, authority and obligation are explicit enough to be inherited and revised.
+
+The governing office is **authorship and governance**: someone or some declared body gives standing, defines the derivative office, and retains the authority by which that office can be re-authored. A scaffold faithful to covenant therefore keeps the source of its authority addressable rather than letting role, permission or policy appear as self-originating facts. [Covenant / Primary Arbitration](../concepts/C28-Covenant-Primary-Arbitration.md) gives the granting of standing; [Mediating Office](../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) gives its derivative exercise.
 
 ## #1
 
@@ -36,7 +38,9 @@ Role-interchangeability is [[symbolon/episteme/concepts/C29-Mediating-Office-Der
 
 The challenge route is the return-leg that keeps the scaffold a covenant rather than a cage. A25's ratification made the return exact: resistance, error, cost, dissent and unforeseen possibility must be able to alter the governing model, measure, instruction or purpose; an office that receives evidence only to grade the worker has closed the route at the decisive point. The re-siting earns new force here: in an agent institution the difference between *receiving* a challenge and *grading* one is inspectable. A [[symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md|Challenge Route]] with no write-access to the criterion it contests is a protected account wearing institutional dress; a challenge route that can reach the rule, the policy or the license is a covenant renewing itself.
 
-The architectural consequence stands **Offered** until such a route exists to inspect. Its negative form is testable in any stack today: ask where a contested output can arrive such that the contested criterion itself changes, and count the hops. A cage is a scaffold whose every challenge returns as a score.
+The architectural consequence is concrete: a challenge route is real only where a contested result can reach the rule, policy, licence or office that produced it. The negative test is available immediately in any institutional stack: follow the challenge and see where it can actually write.
+
+A cage is a scaffold whose every challenge returns as another score under an unchanged rule. A covenant renews where returned resistance can reach the authority capable of changing the office itself.
 
 ## #4
 
@@ -44,6 +48,8 @@ The matrix pairs the institutional row with *build most intelligent single agent
 
 ## #5→0
 
-Authority returns with its consequence, typed. The institution's determinate acts return as revisable terms; the covenant renews when the scaffold can be re-commissioned from the standing that granted it. S0/P2 names the office that must remain addressable: someone — a person, a body, a declared relation — holds the power to change the office, and the architecture lets that power be located rather than evaporated into the stack's speed.
+Authority returns with its consequence. The institution's determinate acts return as revisable terms; covenant renews when the scaffold can be recommissioned from the standing that granted it.
+
+The decisive relation is therefore an addressable bearer of authority: a person, body or declared relation which can change the office and can be held answerable for failing to change it when the returned consequence requires revision.
 
 The page **returns-to** [A25 — Covenant / Mediating Office / Source Authority](../arguments/A25-Covenant-Mediating-Office-Source-Authority.md) and the conjugate root [A/C](AC.md): the partner gave the test — what the office does with its derivation — and A25′ gives the enforcing form, authority typed in the machine and a challenge route with reach.
