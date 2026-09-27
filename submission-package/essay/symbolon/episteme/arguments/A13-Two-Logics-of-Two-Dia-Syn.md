@@ -48,7 +48,9 @@ $$
 (-1)-(+1)=-2,\qquad (+1)-(-1)=+2.
 $$
 
-Addition cancels the opposed values. Subtraction measures their whole span from one orientation and attributes that magnitude to its pole: appropriation under the negative or positive sign. Cancellation and appropriation are different outcomes; neither is equivalent to the polar slash. The equations are ordinary signed arithmetic. Their reading as two failures of relational accounting is the native QL matheme sourced by [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor's theorem spine]], especially IV, within the complete I–XI and eight-determination field.
+Addition cancels the opposed values. Subtraction measures their whole span from one orientation and attributes that magnitude to its pole. Cancellation and appropriation are therefore different operations, and neither preserves the live polarity of the slash.
+
+QL reads these ordinary arithmetic differences as three distinct relational consequences: held polarity, cancelled opposition, and a span appropriated by one pole. The philosophical force lies in what survives each operation and what becomes unavailable for return.
 
 ## #2
 
@@ -108,7 +110,9 @@ The mythic passage **returns-to** [the whole Ares–Aphrodite relation](../../my
 
 Taylor's indelible-bond reading gives cutting and knowing-with their shared genesis. The cut changes the relation; its claim to abolish that relation supplies the precise love/war fork. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-return-bond).
 
-[[symbolon/episteme/concepts/C50-Dia-Syn|C50]] defines the reusable pair. A13 derives why neither cutting nor gathering is self-sufficient, then returns the achieved relation to [[A14-Computational-Process-Ontology|A14]], which extends it into consequential transformations of a world. [[A31-Deferential-Intelligence|A31]] extends its criterion into intelligence able to return authority to what it depends upon. The live movement consumers are M19, M20, M21, M22, M24 and M26; downstream A14–A18, A19–A25 and A31–A33 retain their distinct offices.
+[Dia / Syn](../concepts/C50-Dia-Syn.md) gives the pair its reusable form. Dia differentiates; Syn gathers without abolishing the differentiation. Neither cutting nor gathering is self-sufficient. The achieved relation therefore passes into process, symbol and encounter as a standing question: what must be distinguished here, and what relation among the distinguished terms must remain active if the distinction is to return rather than harden?
+
+[Computational Process Ontology](A14-Computational-Process-Ontology.md) develops that consequence in transformations of a world; [Deferential Intelligence](A31-Deferential-Intelligence.md) develops it where judgment must return authority to what it depends upon.
 
 [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] tests the technical consequence through q029: a common decision-procedural grammar must preserve divergent world-models. Different premises must remain contestable; agreement is not evidence of a shared field if the method suppresses the difference which would test it. This is the essay's response to the brief, whose scenario modality at q042 remains intact.
 
