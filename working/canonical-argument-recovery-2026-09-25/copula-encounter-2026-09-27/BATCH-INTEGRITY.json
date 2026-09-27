@@ -1,0 +1,67 @@
+{
+  "snapshot_commit": "e27cc4b7ba8b61809ce11ed56f3bb5099fba13e9",
+  "authored_files": 7,
+  "canonical_sixfold_records": 6,
+  "local_links_checked": 148,
+  "fragments_checked": 21,
+  "errors": [],
+  "unexpected_tracked_mutations": [],
+  "records": [
+    {
+      "path": "return-of-zero-orienting-principles.md",
+      "before_git_blob": "1ecf00280ecd2bc901240be16f51e9f9cc87e96c",
+      "after_git_blob": "d09fc262914860f4aa061007a8839d4098a5a7d4",
+      "before_sha256": "e044f31c5f7e11b8fefbb1b3541f072604a87fdc44ee44c6d85a2302d7e60689",
+      "after_sha256": "44d09ed3fa0bc7beaede572949049dce3f9053e23ebb8429744e76b6acd3178b",
+      "sixfold": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "before_git_blob": "42cfdd7b5e43c5e15ce63728a1b78520af1d9a2d",
+      "after_git_blob": "b34eda5eb81a42ffad6bd85810b2e3e76e36ee10",
+      "before_sha256": "9d6e2617ac79569aa9c7acdf5450b928a57c543e73888d2effd2f3b24e1d1f9c",
+      "after_sha256": "0ea2b6c4483da18d1dc588c28095e98a0fd1cd7c4c0c2ba57e1ac228ff562428",
+      "sixfold": ["#0", "#1", "#2", "#3", "#4", "#5→0"]
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "before_git_blob": "a27abd0a59045383775bfcdfc8ca015b99ffd24f",
+      "after_git_blob": "4f475d5253607e73dc7c779b57339bb428e71e02",
+      "before_sha256": "19542b40f384ed21fee2228b0b990a1893b00bd43e0eeb408fee9475eb8e36d1",
+      "after_sha256": "0cd6df580d0a91fff1fa2a79e93df8a8712f5e24a64f710e21162911a8c72ebe",
+      "sixfold": ["#0", "#1", "#2", "#3", "#4", "#5→0"]
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "before_git_blob": "63344125a739038d8d4b365e207c0f1a142dbb67",
+      "after_git_blob": "e8a9c9866769e1fb33a7f1d5cc573008b143d7c7",
+      "before_sha256": "965a8720483c98453a9b2cab14b9419873a673e237f03251c5b97c90cf7f785c",
+      "after_sha256": "03dc97660e70ee513cf07768c34aa38e6a5a2208fbb15a846bbc490b4fc85b79",
+      "sixfold": ["#0", "#1", "#2", "#3", "#4", "#5→0"]
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "before_git_blob": "588525c6f9a4d076e18a44d877d65ddd90d6ef60",
+      "after_git_blob": "98e368c2936f2f9ff9a6f9cd1c62630fc4d9c756",
+      "before_sha256": "f8724e0409d43ac1bd36a259794a88116a3ea53d80fedc00ed36ab266c6c0d8a",
+      "after_sha256": "dff05a6be3e05a6fa6e3cfe2e0c222b573a2b17b6b303573019720ceff49d846",
+      "sixfold": ["#0", "#1", "#2", "#3", "#4", "#5→0"]
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "before_git_blob": "6b61291f2cf06c0443771d190e4d13110961a687",
+      "after_git_blob": "886f80d735deb4ebb1f4d027ed576b915819caeb",
+      "before_sha256": "5fabbb3e15fab966dc9b907b5fdc725471c4dfd39e50eedef1c9b8e73c7a93ee",
+      "after_sha256": "0c870334e7d1a0b19bd9dd229eed0eed1a68a3e206bc52d967c6043e3600cc12",
+      "sixfold": ["#0", "#1", "#2", "#3", "#4", "#5→0"]
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "before_git_blob": "3567274405c8feccfee852987d11ac901cf5f05f",
+      "after_git_blob": "e2c0a57d22fe22877a91319ae6288d2adc42f233",
+      "before_sha256": "3563e416d1aee63a1d4cd0a48ae8758c532bfbc534d77f6c2800b7d76813258a",
+      "after_sha256": "a7de53e0ed30a24fe388cb1ea7006b554e6a2af7f8b78b6b0b56fd78e3649699",
+      "sixfold": ["#0", "#1", "#2", "#3", "#4", "#5→0"]
+    }
+  ]
+}
