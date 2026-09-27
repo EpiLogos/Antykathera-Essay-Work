@@ -70,7 +70,3 @@ A conditioned determination becomes live again when resistance and new experienc
 **Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** **Name/Account** — an achieved naming gathers a field into a usable account while leaving the surrounding region active. **Evidence register:** 3, Operational homology; no common descent with the Sanskrit terms is asserted. **What changes:** script is diagnosed as a local account that has hidden the region and alternatives from which it was selected. **Return route:** A07 → C12/C17 → A26/C44 → A31 → A07.
 
 **Matheme:** selection of a `1` against alternatives retained by the field; **Mytheme:** spell, script, mask and groove as whole images of conditioned repetition; **Episteme:** Śaiva/Sāṃkhya cognitive cartography, psychology of habit and technical workflow systems.
-
-### Unresolved Delta
-
-Restore primary Śaiva textual warrant, exact Taylor script formulations and examples distinguishing script from ordinary habit, policy and executable code.
