@@ -1957,3 +1957,23 @@ Restore the exact historical phrase traditions and distinguish containment from 
 ### displaced block 1
 
 ### Declared field
+
+## submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md
+
+### displaced block 1
+
+### Declared field
+
+
+## submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md
+
+### displaced block 1
+
+### Declared field
