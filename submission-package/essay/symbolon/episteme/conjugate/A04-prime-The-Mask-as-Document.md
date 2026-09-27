@@ -26,7 +26,11 @@ The mask has a genealogy, and the genealogy is the document's first layer. The [
 
 ## #2
 
-[[Diaphaneity]] runs the reading in both directions: the situated view discloses a world, and the disclosed world shows the situation of the viewer. At the interface this becomes exact — the persona renders a workable collaborator to the user and, read back, discloses the inherited interface, the shaping niche, the preference-structure of the culture that prepared the glove. In the primitive field this is the surface as readable context-source (S2/P1): what appears is conditioned, and the condition is available in the appearance for anyone who reads through rather than at it — which presupposes a [[symbolon/episteme/concepts/C08-Context-Context-Frame|Context / Context Frame]] able to state its inclusions of sources, rules, permissions and histories. [[symbolon/episteme/concepts/C58-Anthropomorphization|Anthropomorphization]] names the two ways the reading fails: mask-to-face, the performed humanity received as evidence of human interiority, and mask-to-nothing, the presentation dismissed as mere fakery, foreclosing encounter. The document reading refuses both transfers of authority: the mask records; it neither reveals nor forfeits what stands behind the appearance.
+[Diaphaneity](../concepts/C09-Diaphaneity.md) runs the reading in both directions: the situated view discloses a world, and the disclosed world shows the situation of the viewer. At the interface, the persona renders a workable collaborator and, read back, discloses the inherited interface, shaping niche and preference-structure of the culture that prepared the glove.
+
+The visible surface is therefore a **context-source**. What appears is conditioned, and enough of that conditioning can become available in the appearance for someone who reads through rather than merely at it. A [Context Frame](../concepts/C08-Context-Context-Frame.md) makes sources, rules, permissions and histories explicit enough for this return.
+
+[Anthropomorphization](../concepts/C58-Anthropomorphization.md) names the two failures: mask-to-face, where performed humanity is taken as exhaustive truth of the bearer; and mask-to-nothing, where the presentation is dismissed as mere fakery and the real encounter it mediates is foreclosed. The document reading refuses both. The mask records the relation that formed it and remains revisable through what the encounter returns.
 
 ## #3
 
