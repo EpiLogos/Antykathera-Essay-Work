@@ -35,5 +35,3 @@ The positive return restores the gathered participants' capacity to alter the ga
 [the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) **figures** counterfeit inclusion when the friends retain Job inside a common moral order but exclude his testimony from changing its interpretation. He is accounted for precisely where he cannot answer the account. The ending changes that relation: the former judges need the prayer of the person they misjudged. Gathering becomes answerable when membership includes the power to alter the terms of reception.
 
 [the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-administered-world) **figures** counterfeit gathering through membership, numbering and electoral participation within the Village. Six can be included even as a victorious candidate while the terms that hold him remain unavailable to his command. The whole's apparent completeness thus depends on withholding a relation from those it includes. A genuine return would allow their participation to change that relation, rather than merely fill another appointed place.
-
-### Declared field
