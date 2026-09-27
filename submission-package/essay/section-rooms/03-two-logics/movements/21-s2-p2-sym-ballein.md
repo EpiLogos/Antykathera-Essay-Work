@@ -75,4 +75,3 @@ The [Symbol / Account / Trust whole-field — Symbol answers to source](../../..
 
 Shared meaning retains the participants’ differences; a token’s matching seam does not eliminate power or guarantee trust; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-dialogue) **qualifies** this operational comparison.
 
-The [authored P1 route for M21](../P1-CANONICAL-ALIGNMENT.md#p1-m21) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
