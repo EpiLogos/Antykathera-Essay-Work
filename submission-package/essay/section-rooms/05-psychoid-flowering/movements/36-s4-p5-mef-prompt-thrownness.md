@@ -57,4 +57,3 @@ The larger [Genesis / Paradigm / Project / Epi-Logos field](../../../symbolon/ep
 
 Dialogue’s revision of assumptions supplies a specified comparison; local Bohm reproduction needs edition collation and agent phenomenality remains Open; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
 
-The [authored P1 route for M36](../P1-CANONICAL-ALIGNMENT.md#p1-m36) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
