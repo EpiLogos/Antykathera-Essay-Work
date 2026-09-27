@@ -39,13 +39,13 @@ The table fixes the actual order of determination within the native theorem. The
 
 The six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.
 
-## Mathematical force and proof boundary
+## Calculus — exact local information and the unrecovered constant
 
-Calculus supplies an exact local example of **information lost under an operation and restored only as a family of possibilities**. If `F′(x)=f(x)`, then every `F(x)+C` has the same derivative. Differentiation therefore does not preserve the additive constant; indefinite integration returns the family `F(x)+C`, not the unique originating function without an additional condition.
+Calculus gives the Realisation turn a precise local image. If `F′(x)=f(x)`, then every `F(x)+C` has the same derivative. Differentiation yields exact local change while dropping the additive constant; indefinite integration returns a family rather than selecting the originating member without a further condition.
 
-The identity is standard mathematics. The essay's further reading is **Argued**: `C` can serve as a formal analogue for provenance that local differential information alone does not determine. It is not literally “provenance” in calculus, and it does not prove that mathematical zero stands outside every calculation. What it establishes exactly is narrower and more useful: a local operation can be perfectly exact while underdetermining a wider state from which that local information could have arisen. The psychological and metaphysical comparison begins there, with its additional burden stated rather than smuggled into the theorem.
+The philosophical force lies exactly there. **Local exactness can be complete as local exactness while still underdetermining the wider state from which it arose.** The constant is not “provenance” by definition; it is the mathematical operation through which the essay makes provenance thinkable without sacrificing exactness. The further condition needed to select one member of the family is what lets the formal example pass into the wider problem of determination and ground.
 
-Jung’s quaternity and the four functions enter only after the native derivation. Thinking, feeling, sensation, and intuition articulate four ways a psyche determines a field; introversion and extroversion provide the two orientations. Four functions plus two attitudes yield a psychologically concrete `4+2`, while the eight determinations show the more extended relational articulation. Psychology witnesses the architecture; it does not manufacture it. The correspondence is Argued; the traversal itself is Derived within the theorem field.
+Jung’s quaternity and four functions enter at another register. Thinking, feeling, sensation and intuition articulate four ways a psyche determines a field; introversion and extroversion supply two orientations. Four functions plus two attitudes make a psychologically concrete `4+2`, while the eight determinations articulate the more general traversal through which force, pattern, person and horizon belong to one self-relating field. The psychological comparison gives the architecture a lived refraction after the theorem has already generated its own order.
 
 ## QL placement
 
@@ -61,9 +61,16 @@ The movement carries Trika into quaternary form as an authorial relation. *Pram�
 
 Historically, this is the formal completion sought by the zero–subject braid in the essay's own construction. The mental-rational subject stands within the `#1` line as an apparently self-grounding term and lets its unowned condition fall into the external `−1`; QL's `0/1` keeps the ground–mark relation explicit, `X/x` prevents the particular from severing itself from determining capacity, and `AM/IS` turns the three-perspective triangle into contextual `360°`. The Gebser relation remains a historical/philosophical comparison, not the source of this native geometry.
 
-## Drafting payload
+## Four joints carried forward
 
-Give the table once as a contemplative QL plate. In prose, dwell on four movements: `0/1` establishes the seam; the `#3→#4`, `180°→360°` turn makes perspective answerable to context in the native geometry; `X/x` prepares the Jungian comparison; and `∞/dx` can be placed beside calculus as an exact local example of how precise differential information can leave a wider originating state underdetermined.
+Four joints now carry the movement into the rest of the mathematical substrate.
+
+`0/1` establishes the seam of ground and manifestation.  
+`X/x` gives determining capacity a recurrent local face.  
+The `#3→#4`, `180°→360°` turn changes perspective into contextual holding.  
+`∞/dx` gives exact local difference an explicit relation to the horizon it cannot enclose.
+
+These are not highlights extracted from a catalogue. They are the joints through which the one traversal becomes available to the Spanda equations, the senarius, the harmonic reading and the later psychic return.
 
 ## Transition
 
@@ -71,4 +78,3 @@ The language-field comparison **returns-to** [E1’s native-field return](../../
 
 The determinations require a compact generator. The two Spanda equations develop the horizontal `3:3`, vertical `4:2`, the senarius, and a harmonic ratio-reading in [[26-s3-p1-spanda-4-2|§3 · #1 — The Spanda Equations and 4+2]]. Their ordinary arithmetic identities and QL-specific operators must remain distinguished there.
 
-The [authored P1 route for M25](../P1-CANONICAL-ALIGNMENT.md#p1-m25) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
