@@ -1,0 +1,1735 @@
+{
+  "scope": [
+    "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+    "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+    "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+    "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+    "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+    "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+    "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+    "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+    "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md"
+  ],
+  "links": 143,
+  "errors": [],
+  "checks": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+        "start": 1337,
+        "end": 1416,
+        "line": 20
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C16-Antahkarana-Inner-Instrument.md",
+        "start": 2293,
+        "end": 2328,
+        "line": 26
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C18-Apoha.md",
+        "start": 2607,
+        "end": 2619,
+        "line": 26
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md#page-71-continuation",
+        "start": 2997,
+        "end": 3102,
+        "line": 30
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "start": 3850,
+        "end": 3925,
+        "line": 34
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C12-Script-Frozen-Conditioned-Will.md",
+        "start": 4274,
+        "end": 4311,
+        "line": 38
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+        "start": 4996,
+        "end": 5063,
+        "line": 40
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "start": 5580,
+        "end": 5657,
+        "line": 46
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+        "start": 6698,
+        "end": 6787,
+        "line": 50
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C13-Prakasa-Vimarsa.md",
+        "start": 7208,
+        "end": 7230,
+        "line": 50
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C44-Prompt-Thrownness.md",
+        "start": 7397,
+        "end": 7421,
+        "line": 54
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C47-Deferential-Intelligence.md",
+        "start": 7772,
+        "end": 7803,
+        "line": 56
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count",
+        "start": 7914,
+        "end": 7990,
+        "line": 56
+      },
+      "target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C17-Vikalpa-Samkalpa.md",
+        "start": 1027,
+        "end": 1050,
+        "line": 19
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+        "start": 1507,
+        "end": 1586,
+        "line": 23
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "start": 2222,
+        "end": 2295,
+        "line": 29
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C31-Complex.md",
+        "start": 2761,
+        "end": 2775,
+        "line": 31
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#19-prapañca-and-the-computational-production-of-self-sealing-worlds",
+        "start": 3425,
+        "end": 3546,
+        "line": 37
+      },
+      "target": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+        "start": 4984,
+        "end": 5051,
+        "line": 45
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C44-Prompt-Thrownness.md",
+        "start": 5746,
+        "end": 5770,
+        "line": 49
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account",
+        "start": 6210,
+        "end": 6284,
+        "line": 53
+      },
+      "target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../dossiers/process.md",
+        "start": 6633,
+        "end": 6655,
+        "line": 55
+      },
+      "target": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md",
+        "start": 6743,
+        "end": 6821,
+        "line": 55
+      },
+      "target": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C46-Epistemic-Cultivation.md",
+        "start": 7116,
+        "end": 7144,
+        "line": 57
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C47-Deferential-Intelligence.md",
+        "start": 7214,
+        "end": 7245,
+        "line": 57
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "README.md",
+        "start": 691,
+        "end": 700,
+        "line": 22
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/README.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+        "start": 758,
+        "end": 816,
+        "line": 22
+      },
+      "target": "submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../conjugate/AC.md",
+        "start": 838,
+        "end": 856,
+        "line": 22
+      },
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "start": 1780,
+        "end": 1829,
+        "line": 32
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+        "start": 2273,
+        "end": 2352,
+        "line": 36
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A09-Tattvic-Differential-Field.md",
+        "start": 3571,
+        "end": 3604,
+        "line": 44
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+        "start": 3901,
+        "end": 4005,
+        "line": 44
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md#page-71-continuation",
+        "start": 4325,
+        "end": 4430,
+        "line": 46
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A05-Prakasa-Vimarsa.md",
+        "start": 4860,
+        "end": 4882,
+        "line": 48
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../concepts/C17-Vikalpa-Samkalpa.md",
+        "start": 4951,
+        "end": 4986,
+        "line": 48
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A08-Apoha-Constitutive-Exclusion.md",
+        "start": 5123,
+        "end": 5158,
+        "line": 48
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A19-Complex-as-Local-Arbitration-Regime.md",
+        "start": 5316,
+        "end": 5358,
+        "line": 48
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#19-prapañca-and-the-computational-production-of-self-sealing-worlds",
+        "start": 5980,
+        "end": 6101,
+        "line": 54
+      },
+      "target": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "start": 7062,
+        "end": 7135,
+        "line": 58
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A14-Computational-Process-Ontology.md",
+        "start": 7473,
+        "end": 7510,
+        "line": 58
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A26-Objective-Internality-Mind-as-Worldhood.md",
+        "start": 7623,
+        "end": 7669,
+        "line": 58
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "start": 8146,
+        "end": 8223,
+        "line": 62
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream",
+        "start": 8571,
+        "end": 8660,
+        "line": 64
+      },
+      "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A06-Vak.md",
+        "start": 9189,
+        "end": 9199,
+        "line": 66
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+        "start": 9343,
+        "end": 9432,
+        "line": 68
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "start": 10019,
+        "end": 10072,
+        "line": 72
+      },
+      "target": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count",
+        "start": 10372,
+        "end": 10448,
+        "line": 74
+      },
+      "target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A31-Deferential-Intelligence.md",
+        "start": 11223,
+        "end": 11254,
+        "line": 76
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../ROOM.md",
+        "start": 717,
+        "end": 727,
+        "line": 21
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/ROOM.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "08-s0-p1-inner-instrument.md",
+        "start": 744,
+        "end": 772,
+        "line": 21
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "10-s0-p3-apoha.md",
+        "start": 785,
+        "end": 802,
+        "line": 21
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+        "start": 945,
+        "end": 1004,
+        "line": 27
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "08-s0-p1-inner-instrument.md",
+        "start": 1840,
+        "end": 1868,
+        "line": 31
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md#page-71-continuation",
+        "start": 2041,
+        "end": 2170,
+        "line": 31
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "start": 2547,
+        "end": 2621,
+        "line": 35
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+        "start": 3614,
+        "end": 3705,
+        "line": 39
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "10-s0-p3-apoha.md",
+        "start": 4189,
+        "end": 4206,
+        "line": 43
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion",
+        "start": 4523,
+        "end": 4645,
+        "line": 43
+      },
+      "target": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count",
+        "start": 6517,
+        "end": 6617,
+        "line": 57
+      },
+      "target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "10-s0-p3-apoha.md",
+        "start": 7006,
+        "end": 7023,
+        "line": 59
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE",
+        "start": 2252,
+        "end": 2354,
+        "line": 37
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "09-s0-p2-vikalpa-samkalpa",
+        "start": 3248,
+        "end": 3273,
+        "line": 43
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "start": 3920,
+        "end": 3995,
+        "line": 43
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/concepts/apoha",
+        "start": 4180,
+        "end": 4212,
+        "line": 43
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "13-tattvic-differential-field",
+        "start": 4260,
+        "end": 4289,
+        "line": 43
+      },
+      "target": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "38-s5-p1-apoha-softmax",
+        "start": 4611,
+        "end": 4633,
+        "line": 43
+      },
+      "target": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "start": 4794,
+        "end": 4869,
+        "line": 47
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE",
+        "start": 4901,
+        "end": 5003,
+        "line": 47
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE",
+        "start": 5231,
+        "end": 5327,
+        "line": 47
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/concepts/apoha",
+        "start": 5420,
+        "end": 5452,
+        "line": 49
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "03-two-logics-and-sym-ballein",
+        "start": 5465,
+        "end": 5494,
+        "line": 49
+      },
+      "target": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "13-tattvic-differential-field",
+        "start": 5528,
+        "end": 5557,
+        "line": 49
+      },
+      "target": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "14-computational-process-ontology",
+        "start": 5591,
+        "end": 5624,
+        "line": 49
+      },
+      "target": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "link": {
+        "kind": "wiki",
+        "href": "09-s0-p2-vikalpa-samkalpa",
+        "start": 5662,
+        "end": 5687,
+        "line": 49
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "README.md",
+        "start": 566,
+        "end": 575,
+        "line": 20
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/README.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+        "start": 632,
+        "end": 696,
+        "line": 20
+      },
+      "target": "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../conjugate/AC.md",
+        "start": 718,
+        "end": 736,
+        "line": 20
+      },
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md#taylor-2026-definition-god-draft3-q026",
+        "start": 1163,
+        "end": 1279,
+        "line": 27
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A27-Self-and-Other-Unity-without-Possession.md",
+        "start": 1390,
+        "end": 1436,
+        "line": 29
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A30-Objective-Co-Internality.md",
+        "start": 1555,
+        "end": 1586,
+        "line": 29
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape",
+        "start": 5887,
+        "end": 6005,
+        "line": 105
+      },
+      "target": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../products/S0-Central.md",
+        "start": 7314,
+        "end": 7339,
+        "line": 129
+      },
+      "target": "submission-package/essay/symbolon/episteme/products/S0-Central.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../products/S1-Actuation.md",
+        "start": 7410,
+        "end": 7437,
+        "line": 131
+      },
+      "target": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../products/S2-AIKit.md",
+        "start": 7523,
+        "end": 7546,
+        "line": 133
+      },
+      "target": "submission-package/essay/symbolon/episteme/products/S2-AIKit.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../products/S3-Software-Factory.md",
+        "start": 7634,
+        "end": 7668,
+        "line": 135
+      },
+      "target": "submission-package/essay/symbolon/episteme/products/S3-Software-Factory.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../products/S4-Workcell.md",
+        "start": 7722,
+        "end": 7748,
+        "line": 137
+      },
+      "target": "submission-package/essay/symbolon/episteme/products/S4-Workcell.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../products/S5-Quaternal-Logic.md",
+        "start": 7834,
+        "end": 7867,
+        "line": 139
+      },
+      "target": "submission-package/essay/symbolon/episteme/products/S5-Quaternal-Logic.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "start": 8742,
+        "end": 8807,
+        "line": 163
+      },
+      "target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "start": 8913,
+        "end": 8970,
+        "line": 163
+      },
+      "target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "A33-Epistemic-Cultivation-Operational-Parity.md",
+        "start": 9781,
+        "end": 9828,
+        "line": 169
+      },
+      "target": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md#taylor-2026-definition-god-draft3-q026",
+        "start": 774,
+        "end": 890,
+        "line": 20
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C42-Objective-Co-Internality.md",
+        "start": 2273,
+        "end": 2304,
+        "line": 42
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape",
+        "start": 3048,
+        "end": 3166,
+        "line": 56
+      },
+      "target": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "C40-Model-Internality-Judgment-Field.md",
+        "start": 3839,
+        "end": 3878,
+        "line": 64
+      },
+      "target": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-initiated-return",
+        "start": 5667,
+        "end": 5757,
+        "line": 88
+      },
+      "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "15-s1-p2-empty-set-generates-one",
+        "start": 925,
+        "end": 957,
+        "line": 26
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "17-s1-p4-zero-outside-math",
+        "start": 1180,
+        "end": 1206,
+        "line": 27
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "18-s1-p5-loan-returns",
+        "start": 1361,
+        "end": 1382,
+        "line": 28
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "19-s2-p0-difference-cannot-be-escaped",
+        "start": 1549,
+        "end": 1586,
+        "line": 29
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "20-s2-p1-dia-ballein",
+        "start": 1631,
+        "end": 1651,
+        "line": 29
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "21-s2-p2-sym-ballein",
+        "start": 1683,
+        "end": 1703,
+        "line": 29
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "22-s2-p3-ares-aphrodite-harmonia",
+        "start": 1857,
+        "end": 1889,
+        "line": 30
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "24-s2-p5-zero-changes-role",
+        "start": 2116,
+        "end": 2142,
+        "line": 31
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "25-s3-p0-eight-determinations",
+        "start": 2293,
+        "end": 2322,
+        "line": 32
+      },
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "26-s3-p1-spanda-4-2",
+        "start": 2362,
+        "end": 2381,
+        "line": 32
+      },
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "32-s4-p1-jung-individuation",
+        "start": 2492,
+        "end": 2519,
+        "line": 33
+      },
+      "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "33-s4-p2-complexio-quaternity-senarius",
+        "start": 2573,
+        "end": 2611,
+        "line": 33
+      },
+      "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "38-s5-p1-apoha-softmax",
+        "start": 2761,
+        "end": 2783,
+        "line": 34
+      },
+      "target": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "44-s50-p1-ql-mef-bimba-harness",
+        "start": 3175,
+        "end": 3205,
+        "line": 35
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "46-s50-p3-4-2-mono-poly",
+        "start": 3251,
+        "end": 3274,
+        "line": 35
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "48-s50-p5-ahi-planetary-return",
+        "start": 3333,
+        "end": 3363,
+        "line": 35
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/maps/trust-faith-formal-limit",
+        "start": 3687,
+        "end": 3734,
+        "line": 37
+      },
+      "target": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "04-s01-p3-formal-limit-genealogy",
+        "start": 1078,
+        "end": 1110,
+        "line": 20
+      },
+      "target": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "19-s2-p0-difference-cannot-be-escaped",
+        "start": 1227,
+        "end": 1264,
+        "line": 21
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "20-s2-p1-dia-ballein",
+        "start": 1392,
+        "end": 1412,
+        "line": 22
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "21-s2-p2-sym-ballein",
+        "start": 1535,
+        "end": 1555,
+        "line": 23
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "22-s2-p3-ares-aphrodite-harmonia",
+        "start": 1708,
+        "end": 1740,
+        "line": 24
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "38-s5-p1-apoha-softmax",
+        "start": 1914,
+        "end": 1936,
+        "line": 25
+      },
+      "target": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "44-s50-p1-ql-mef-bimba-harness",
+        "start": 2279,
+        "end": 2309,
+        "line": 26
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "48-s50-p5-ahi-planetary-return",
+        "start": 2476,
+        "end": 2506,
+        "line": 27
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE",
+        "start": 2720,
+        "end": 2808,
+        "line": 29
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE",
+        "start": 2877,
+        "end": 2966,
+        "line": 29
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "05-s01-p4-gebser-diaphaneity",
+        "start": 1347,
+        "end": 1375,
+        "line": 35
+      },
+      "target": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "13-s1-p0-sign-migrates",
+        "start": 1596,
+        "end": 1618,
+        "line": 36
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "14-s1-p1-sunya-operational",
+        "start": 1806,
+        "end": 1832,
+        "line": 37
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "17-s1-p4-zero-outside-math",
+        "start": 1987,
+        "end": 2013,
+        "line": 38
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "18-s1-p5-loan-returns",
+        "start": 2147,
+        "end": 2168,
+        "line": 39
+      },
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "20-s2-p1-dia-ballein",
+        "start": 2355,
+        "end": 2375,
+        "line": 40
+      },
+      "target": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "25-s3-p0-eight-determinations",
+        "start": 2618,
+        "end": 2647,
+        "line": 41
+      },
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "31-s4-p0-psychoid-problem",
+        "start": 3268,
+        "end": 3293,
+        "line": 42
+      },
+      "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "32-s4-p1-jung-individuation",
+        "start": 3333,
+        "end": 3360,
+        "line": 42
+      },
+      "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "35-s4-p4-gebser-apollo-dionysus",
+        "start": 3567,
+        "end": 3598,
+        "line": 43
+      },
+      "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "38-s5-p1-apoha-softmax",
+        "start": 3840,
+        "end": 3862,
+        "line": 44
+      },
+      "target": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "44-s50-p1-ql-mef-bimba-harness",
+        "start": 4302,
+        "end": 4332,
+        "line": 45
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "48-s50-p5-ahi-planetary-return",
+        "start": 4381,
+        "end": 4411,
+        "line": 45
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/maps/mono-poly-two-ones",
+        "start": 4656,
+        "end": 4697,
+        "line": 47
+      },
+      "target": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "link": {
+        "kind": "wiki",
+        "href": "symbolon/episteme/maps/trust-faith-formal-limit",
+        "start": 4864,
+        "end": 4911,
+        "line": 47
+      },
+      "target": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md",
+        "start": 12942,
+        "end": 13016,
+        "line": 143
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md",
+        "start": 13171,
+        "end": 13261,
+        "line": 144
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "link": {
+        "kind": "markdown",
+        "href": "../../sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md",
+        "start": 13368,
+        "end": 13442,
+        "line": 145
+      },
+      "target": "submission-package/essay/symbolon/episteme/sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "link": {
+        "kind": "wiki",
+        "href": "section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality",
+        "start": 14966,
+        "end": 15044,
+        "line": 174
+      },
+      "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "link": {
+        "kind": "wiki",
+        "href": "section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion",
+        "start": 15102,
+        "end": 15184,
+        "line": 174
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+      "status": "ok"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "link": {
+        "kind": "wiki",
+        "href": "section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return",
+        "start": 15259,
+        "end": 15335,
+        "line": 174
+      },
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "status": "ok"
+    }
+  ]
+}

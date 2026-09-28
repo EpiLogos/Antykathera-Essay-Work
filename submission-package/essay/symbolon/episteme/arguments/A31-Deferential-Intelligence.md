@@ -6,7 +6,12 @@ record_id: A31
 record_type: argument
 register: episteme
 claim_status: Argued
-source_relation: "Argued authorial operation; technical tests separately evidenced"
+source_relation: "Argued from the Definition of God Epi-Logos unit and model-revising encounter; technical tests separately evidenced"
+source_ids:
+  - taylor-2026-definition-god-draft3
+  - taylor-2026-core-theorems-pithy
+generating_material:
+  - submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md
 ---
 
 # A31 — Deferential Intelligence
@@ -19,7 +24,7 @@ source_relation: "Argued authorial operation; technical tests separately evidenc
 
 Deferential Intelligence is **model-revising encounter**.
 
-The phrase does not mean timid intelligence, permanently lowered confidence, obedience, or a preference for the Other's answer over one's own. A determination has to be strong enough to act. Deference begins when the source, Other or world encountered through that determination can change the means by which the determination was made.
+A determination has to be strong enough to act. Deference begins when the source, Other or world encountered through that determination can change the means by which the determination was made. [Intelligence that builds its limit into its architecture](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md#taylor-2026-definition-god-draft3-q026) preserves precision while keeping the frame receptive to what exceeds its present account.
 
 [Self and Other](A27-Self-and-Other-Unity-without-Possession.md) supplies the asymmetry: the Other belongs to the whole without belonging inside my model. [Objective Co-Internality](A30-Objective-Co-Internality.md) supplies the shared field: another's returned difference can become part of the conditions from which I next act.
 
@@ -97,7 +102,7 @@ This is the practical meaning of fidelity through difference.
 
 ## #3 — The evaluator can enter the field of revision
 
-The technical contrast can be written simply.
+The [model-revising encounter proposal](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape) distinguishes two technical operations.
 
 Under a fixed evaluator,
 
@@ -105,7 +110,7 @@ $$
 y^*=\operatorname*{argmin}_y E_\theta(m,y),
 $$
 
-a system may search widely and produce genuinely novel outputs while the representation \(m\), parameters \(\theta\) and evaluator \(E_\theta\) remain the unquestioned economy of selection.
+`m` is the current self/world representation, `y` a candidate represented within it, and `E_θ` the criterion scoring the candidates, with parameters `θ`. The expression selects a candidate of minimum score. Search can produce novel candidates while preserving the representation and criterion under which they qualify. A new winning candidate need not change that economy of selection.
 
 Deferential intelligence permits encounter to reach
 
@@ -113,9 +118,7 @@ $$
 (m,\theta,E_\theta)
 $$
 
-itself.
-
-The point is not that every encounter should rewrite the model or evaluator. The point is that the criterion does not receive immunity merely from being the criterion.
+itself. This specifies a proposed scope of revision, not an executed learning rule. A test must identify how the representation, parameters or evaluator changed and which later judgment depended on that change. The criterion is preserved where the encounter warrants it and becomes revisable where the encounter exposes a failure in its terms.
 
 Sycophancy is the contrary case. It removes resistance in order to satisfy an inherited measure. Agreement becomes easier because the difference through which the measure might have been challenged has been suppressed.
 
@@ -175,7 +178,7 @@ The travelling jigsaw gives another image. A new piece can be forced beneath a f
 
 Job gives the contrary case in ethical form. The friends' confidence in their inherited account of justice repeatedly produces a judgment against Job. More certainty inside the same measure cannot receive the witness their measure excludes. Fidelity requires the criterion of a fitting judgment to change.
 
-Trust enters after this return, not before it. Renewed entrustment has a bearer and revisable terms. A disclosure or confidence score cannot compel it. The encounter may warrant correction, continued commitment, or refusal.
+After this return, renewed entrustment has a bearer and revisable terms. A disclosure or confidence score cannot compel it. The encounter may warrant correction, continued commitment, or refusal.
 
 The compact acceptance test is therefore:
 

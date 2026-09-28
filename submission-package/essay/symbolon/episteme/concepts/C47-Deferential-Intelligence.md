@@ -1,8 +1,15 @@
 ---
+title: C47 — Deferential Intelligence
 record_id: C47
+record_type: concept
 register: "episteme"
 claim_status: "Argued"
-source_relation: "Argued from the mature Deferential Intelligence carrier; technical tests separately evidenced"
+source_relation: "Argued from the Definition of God Epi-Logos unit and model-revising encounter; technical tests separately evidenced"
+source_ids:
+  - taylor-2026-definition-god-draft3
+  - taylor-2026-core-theorems-pithy
+generating_material:
+  - submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md
 ---
 # C47 — Deferential Intelligence
 
@@ -10,7 +17,7 @@ source_relation: "Argued from the mature Deferential Intelligence carrier; techn
 
 Deferential Intelligence is the capacity for an Other, source or world to change the model under which it is encountered.
 
-The account remains strong enough to act and permeable enough to be corrected by what it does not already contain.
+The account remains strong enough to act and permeable enough to be corrected by what it does not already contain. [The architectural limit](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md#taylor-2026-definition-god-draft3-q026) is the opening through which the encountered source can exceed the frame: precision is maintained while the claim to completion is relinquished.
 
 At paradigm scale, the change can reach the mediating conditions through which a Life and World become mutually discloseable: source authority, salience, permission, evaluator, available capacity, material expectation or relation. Deference is deepest where returned difference reaches the condition actually producing the next judgment.
 
@@ -46,7 +53,15 @@ A changed answer may leave the paradigm intact. A changed evaluator reaches what
 
 No depth is intrinsically better. The warranted depth is the one the encounter actually exposes.
 
-The fixed-evaluator / changed-economy contrast gives this an exact design form: selection can occur inside an inherited criterion, or the encounter can make representation, parameters, evaluator or commission revisable. The latter is the technical inscription of deference.
+The [model-revising encounter proposal](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape) writes fixed-evaluator search as
+
+$$
+y^*=\operatorname*{argmin}_y E_\theta(m,y).
+$$
+
+The representation `m` makes candidates `y` available; the evaluator `E_θ`, with parameters `θ`, scores them; the operation selects a minimum. A new candidate can change the answer while leaving the representation and criterion intact. The second operation makes `(m, θ, E_θ)` itself available to revision through the encounter. Changing what counts as a candidate or a fitting result differs from finding another candidate under the same conditions.
+
+This is a proposed design distinction. It supplies no automatic update rule and reports no completed experiment. [The judgment field](C40-Model-Internality-Judgment-Field.md) makes the test exact: identify the condition changed, the means of changing it and the later act which inherited the change. The scope of revision is warranted by the particular encounter.
 
 The six product offices give such changes practical homes: Central for sources and commitments; Actuation for judgment and evaluator relation; AIKit for capability and permission; Factory for developmental form; Workcell for material condition; QL for relations among frames and wholes.
 

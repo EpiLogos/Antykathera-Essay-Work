@@ -1,5 +1,5 @@
 {
-  "source_digest": "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e",
+  "source_digest": "4c560950393b47804f67b4a1094b41cc11442f78f0ca79fb193b2732584e8ef7",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -11,7 +11,7 @@
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
       "missing-fragment": 2,
-      "missing-path": 4
+      "missing-path": 1
     },
     "admitted": 288,
     "missing_admitted": 0,
@@ -30,20 +30,20 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5450,
-    "sources": 1210,
-    "sources (declared)": 831,
-    "returns-to": 630,
-    "grounds": 394,
-    "extends": 306,
+    "unnamed": 5486,
+    "sources": 1218,
+    "sources (declared)": 846,
+    "returns-to": 625,
+    "grounds": 384,
+    "extends": 300,
     "consumed-by (declared)": 293,
-    "qualifies": 262,
-    "defines": 219,
-    "figures": 186,
+    "qualifies": 259,
+    "defines": 214,
+    "figures": 185,
     "historicises": 158,
-    "compares": 157,
+    "compares": 155,
     "returns-to (declared)": 125,
-    "tests": 94,
+    "tests": 91,
     "derives": 29,
     "embodies": 15,
     "sources (declared passage)": 12,
@@ -53,9 +53,9 @@
   "per_class": {
     "rooms": {
       "pages": 20,
-      "links": 847,
-      "named": 79,
-      "unnamed": 768,
+      "links": 850,
+      "named": 81,
+      "unnamed": 769,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -80,9 +80,9 @@
     },
     "movements": {
       "pages": 48,
-      "links": 422,
-      "named": 150,
-      "unnamed": 272,
+      "links": 421,
+      "named": 147,
+      "unnamed": 274,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -125,9 +125,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1031,
-      "named": 548,
-      "unnamed": 483,
+      "links": 1033,
+      "named": 538,
+      "unnamed": 495,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -143,9 +143,9 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1223,
-      "named": 496,
-      "unnamed": 727,
+      "links": 1225,
+      "named": 478,
+      "unnamed": 747,
       "orphans": 36,
       "no_return": 77,
       "unreachable": 47
@@ -179,8 +179,8 @@
     },
     "episteme-etymologies": {
       "pages": 25,
-      "links": 611,
-      "named": 392,
+      "links": 613,
+      "named": 394,
       "unnamed": 219,
       "orphans": 0,
       "no_return": 6,
@@ -215,9 +215,9 @@
     },
     "episteme-maps": {
       "pages": 5,
-      "links": 119,
+      "links": 120,
       "named": 7,
-      "unnamed": 112,
+      "unnamed": 113,
       "orphans": 0,
       "no_return": 1,
       "unreachable": 0
@@ -831,7 +831,7 @@
       "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
       "thread_id": "zero-subject-advent",
       "thread_kind": "transverse",
-      "linked_movements": 12,
+      "linked_movements": 13,
       "declared_members": 17
     }
   ]

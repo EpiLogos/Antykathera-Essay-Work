@@ -22,7 +22,7 @@ This path preserves one movement across the stations rather than making trust a 
 3. [[20-s2-p1-dia-ballein|§2 · #1 — Dia-Ballein]] follows the unheld remainder into projection, scapegoating, atomisation, and false totality.
 4. [[21-s2-p2-sym-ballein|§2 · #2 — Sym-Ballein]] gives determinate knowledge its proper task: a provisional anchor which does not claim to replace the relation beneath it.
 5. [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus]] embodies the difference between a risked, generative relation and capture that can only make it observable.
-6. [[40-s5-p3-preference-hidden-zero|§5 · #3 — Preference Models and the Hidden Zero]] brings the issue into AI evaluation, where observability and benchmark performance must not be mistaken for trust.
+6. [[38-s5-p1-apoha-softmax|§5 · #1 — Actuation: Living Articulation]] brings the issue into preference and evaluation. A score inherits its comparison field, evaluator and reference conditions. Making them inspectable gives a challenge an address; trust also depends on who can answer for the score's use and revise the conditions through which it governs an act.
 7. [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]] makes return structurally inspectable without claiming that an inspectable system has generated the trust it requires.
 8. [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — AHI and Planetary Return]] releases the argument at the formal limit, where faith is neither closure nor a blind leap but lucid continuation.
 

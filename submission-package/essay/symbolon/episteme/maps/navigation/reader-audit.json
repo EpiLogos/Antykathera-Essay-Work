@@ -10,7 +10,7 @@
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
       "missing-fragment": 2,
-      "missing-path": 4
+      "missing-path": 1
     },
     "admitted": 288,
     "missing_admitted": 0,
@@ -90,7 +90,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
       "sha256": "1ec9c1d33d06879a9d0e1f2fdfc62e997786729664cbc36fd0d05e23dd8b67d8",
       "exists": true,
-      "current_sha256": "a6ba815e05a01955ecfa81499af396dab42cb45ea8d29d7c12cf804f72257a08",
+      "current_sha256": "029cafa745ac346f0fc3dfd96b732a7d13763624b75bcd8d4f9d5d1426cd2941",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -354,7 +354,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
       "sha256": "0351744b02faa702add8198694c639d1ff75dfcac0d296eb3c36ae9d7d093e26",
       "exists": true,
-      "current_sha256": "eceb7764d6b406fabc1f74ccf2b8550ebfa8aeca024590ccf19d9e4466ab5fe4",
+      "current_sha256": "3c95041501d0d682af8f8d91ff377ba7767fccc6388e0d8bb645def096ae6dc7",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -541,7 +541,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
       "sha256": "dd5942bfd5a36ef43d55ccd4e59c41d833d16db10bb31d43c8a160214ea4fd2e",
       "exists": true,
-      "current_sha256": "bcb6f2bbcd49f588d0fdb498f9ec04d8c4213c188cf107b719ffc2f237567263",
+      "current_sha256": "917a09f99970a7b980cf2a02da9552df8c6713c7e1e9e5a89705731fb8ebd554",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -596,7 +596,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
       "sha256": "1d5cd1141f63bd60a02bcd8e5f19624574d472f0d9959d6a5a8f11ba190da180",
       "exists": true,
-      "current_sha256": "9ce212f2c83f62bd52529175112d29954780d03f7735f4409b962e8b06b04e47",
+      "current_sha256": "36c53213816f16c4a40715afcee553ef4f4f1350527bbc6836c115d7831bcf78",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -926,7 +926,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
       "sha256": "2adb00fe3e8ecb0fbe4ae0a43cf234f2303ee3ff007da94f4b22541b04e55f09",
       "exists": true,
-      "current_sha256": "9caaa75a0d97f3f0b59f71abb51241b83bab2d72899945233ec44281d7c6d988",
+      "current_sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -7906,36 +7906,6 @@
       "line": 147,
       "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
       "status": "title-or-alias-only"
-    },
-    {
-      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
-      "kind": "markdown",
-      "href": "../sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md",
-      "start": 12942,
-      "end": 13013,
-      "line": 143,
-      "target": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
-      "status": "missing-path"
-    },
-    {
-      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
-      "kind": "markdown",
-      "href": "../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md",
-      "start": 13168,
-      "end": 13255,
-      "line": 144,
-      "target": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
-      "status": "missing-path"
-    },
-    {
-      "source": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
-      "kind": "markdown",
-      "href": "../sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md",
-      "start": 13362,
-      "end": 13433,
-      "line": 145,
-      "target": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
-      "status": "missing-path"
     },
     {
       "source": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",

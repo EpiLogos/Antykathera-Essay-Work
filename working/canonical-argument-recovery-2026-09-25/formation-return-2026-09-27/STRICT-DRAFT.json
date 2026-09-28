@@ -1,0 +1,294 @@
+{
+  "files": 11,
+  "errors": 0,
+  "review_candidates": 41,
+  "findings": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [constructive process](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) therefore includes both differentiation and recomposition. The course inherits conditions, selects among them and contributes another condition. Its return cannot be reduced to repeating the state from which it began."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "line": 50,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The historical debate concerns the standing of such constructions as well as their operation. [MacCracken's discussion](../sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md) places Dharmakīrti's account of relations as epistemic beside realist objections to a merely contrived relation. An epistemic account and a realist account make different claims about what relation constitutes. That disagreement gives the comparison its question; it cannot be resolved mer"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "line": 23,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "A name and instance become identifiable within a circumstance. The name can be repeated while the situation changes, and its application must still answer to which instance is meant. [The circumstantial whole](../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md) makes an identification possible before every condition of it is explicitly divided or counted. A later rule articulates something of this ordering; it does not originate all the conditions of its use."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "line": 19,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A practised action or dependable procedure can be repeated while retaining a route to revision. The arrest begins where a changed circumstance cannot reach the criterion under which the next instance is admitted. [Vikalpa–saṃkalpa](C17-Vikalpa-Samkalpa.md) supplies the constructive power: differences become alternatives, and selected alternatives become a course. The script is that course treating its achieved form as its sufficient ground."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "line": 23,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A name and instance become identifiable within a circumstance. The name can be repeated while the situation changes, and its application must still answer to which instance is meant. [The circumstantial whole](../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md) makes an identification possible before every condition of it is explicitly divided or counted. A later rule articulates something of this ordering; it does not originate all the conditions of its use."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "line": 47,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The proposed technical tests make the distinction examinable. Source-return asks whether the system retrieves the determining text or merely paraphrases its own paraphrase. Counterfactual sensitivity asks whether changing a premise changes the result. Retained alternatives ask whether another organisation of the problem remains available. An independently sourced critic can challenge a shared assumption which another repetition of the generator's account would leave untouched. The comparison mus"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "line": 56,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Re-entry and source-substitution have different consequences. A history which preserves the distinction can return to a source that corrects its current interpretation. A history which retains only its latest conclusion cannot recover the original operation by summarising that conclusion again. Circular support can grow within one run; the further question of synthetic data changing a training distribution concerns a different process and requires evidence across training generations. Their comm"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "line": 39,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Two boundary terms complete the family. ***Nirvikalpa*** names the non-conceptual register — cognition, or awareness, without constructed alternatives — used in the essay strictly as a comparative limit, never as a shortcut around argument. ***Śuddha-vikalpa*** (\"purified thought-construct\") is the Pratyabhijñā refinement: a formation whose content is non-dual and whose function is to corrode its contrary formation — the entrenched conviction of limitation — until the series consumes itself. Tho"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "line": 47,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Operational cartography: [Taylor — Core Theorems Pithy (2026)](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) §XI. Etymological material: [[symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE|Taylor and Claude — Derivational Chat Record (2026)]] (internal; never public warrant). Classical treatments (Yogasūtra I.9 on vikalpa; Pratyabhijñā on śuddha-vikalpa and vikalpa-saṃskāra) remain explicit source-intake work; [["
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 35,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "This is why the relevant whole is Objective Internality. The object of revision is not merely a sentence. It is the means of world-disclosure: what counts as a source, what becomes salient, what can be attempted, which distinctions are available, what counts as success, and what the activity is for."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 50,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Undecidable remainder says where the present procedure cannot close the question."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 52,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "These are not ceremonial signs of modesty. Each gives returned difference a possible address."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 97,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A spelling correction should not overthrow a commission. A false premise should not be preserved merely because the user asked the question in that form. Evidence that the evaluator rewards the wrong outcome cannot be answered by producing a more optimised outcome under the same evaluator."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 141,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A particular encounter may reach one office or several. The requirement is not to run a six-stage pipeline. It is to let the returned difference reach the office actually governing the next act."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 145,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Making a frame visible is not yet enough."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 167,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Operational parity tests the return by consequence. A longer rationale is not evidence that the model became deferential. The evidence is that a relevant source, task, world-model, evaluator, commission, permission or action changed, and that the change altered what happened next."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 173,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The return of Deferential Intelligence is not a better description of its own humility. It is a changed next act."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 179,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Job gives the contrary case in ethical form. The friends' confidence in their inherited account of justice repeatedly produces a judgment against Job. More certainty inside the same measure cannot receive the witness their measure excludes. Fidelity requires the criterion of a fitting judgment to change."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "line": 181,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Trust enters after this return, not before it. Renewed entrustment has a bearer and revisable terms. A disclosure or confidence score cannot compel it. The encounter may warrant correction, continued commitment, or refusal."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "line": 20,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The account remains strong enough to act and permeable enough to be corrected by what it does not already contain. [The architectural limit](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md#taylor-2026-definition-god-draft3-q026) is the opening through which the encountered source can exceed the frame: precision is maintained while the claim to completion is relinquished."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "line": 28,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Disclosure is not itself deference. A system can describe its conditions beautifully while protecting all consequential conditions from revision."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A strong bounded judgment can therefore be more deferential than a weakly hedged one. Exactness and permeability are not opposites."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "line": 74,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Operational parity therefore asks what changed in delegation, correction and answerability. A longer explanation does not count by itself. The relevant evidence is a changed source, task, model, evaluator, commission, permission or action."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "line": 27,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "2. [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]] exposes the return-edge at which the marked one cannot make its condition into ordinary content."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "line": 29,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "4. [[19-s2-p0-difference-cannot-be-escaped|§2 · #0 — Difference Cannot Be Escaped]], [[20-s2-p1-dia-ballein|§2 · #1 — Dia-Ballein]], and [[21-s2-p2-sym-ballein|§2 · #2 — Sym-Ballein]] distinguish the primordial relation from the two ways polarity is accounted: signed displacement and seam-retaining return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "line": 21,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "2. [[19-s2-p0-difference-cannot-be-escaped|§2 · #0 — Difference Cannot Be Escaped]] names knowledge's dependence on a relation it cannot certify from inside itself."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "line": 23,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "4. [[21-s2-p2-sym-ballein|§2 · #2 — Sym-Ballein]] gives determinate knowledge its proper task: a provisional anchor which does not claim to replace the relation beneath it."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 42,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Compassion's sensitivity to origins returns here ethically. Origin is not merely a past datum. Genesis includes the conditions still operative in what has become, the relations and inheritances through which a determination remains possible, and the unrealised potency through which it can become otherwise."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 110,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A paradigm shift is therefore a transformation of `/`, not merely the substitution of one `1` for another."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 176,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "This whole field should be consumed by exact operation. A bare `Paradigm` link is not evidence that the relation has been recovered."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 46,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "Greek **παράδειγμα (paradeigma)** is attested as pattern, model and exemplar and derives from **παραδείκνυμι (paradeiknumi)**, to exhibit side by side, compare, indicate or point out. The lexical field carries showing and pattern together. The essay's philosophical appointment is its own Argued use of that field rather than a claim about the historical meaning of every Greek occurrence."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 106,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "C64 owns **Paradox as the crisis operator of paradigmatic life**. It is the event in which the containing relation itself becomes answerable to determinations it can no longer reconcile unchanged."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 118,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "A35/C56 own the ethical orientation of this return. This field makes their relation to paradigm explicit."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 152,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- paradox / containing-field transformation ↔ paradigm change: register 3; C64 owns the transformation criterion."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 163,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- A09/C14 tattvic field and Māyā/Mahāmāyā;"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 164,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- A06/A07 and Vāk–vikalpa–saṃkalpa;"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 165,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- A26/C41 Objective Internality;"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 166,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- C51 Logos/Epi-Logos;"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 167,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- C64 Paradox / containing-field transformation;"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 168,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "- A35/C56 Compassion / sensitivity to origins;"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "line": 174,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "**Linear returns:** paradigmatic mediation first becomes explicit in [[section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality|M12 — Objective Internality]], returns vocationally in [[section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion|M43 — From Theory to Vocation]], and closes as paradigm-level Return in [[section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return|M48 — AHI and Planetary Return]]."
+    }
+  ]
+}

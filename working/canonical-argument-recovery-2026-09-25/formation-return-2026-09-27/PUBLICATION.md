@@ -1,0 +1,11 @@
+# Formation-return recovery — publication, 28 September 2026
+
+This commit publishes the retained formation-return recovery. It supersedes the unpublished-candidate status recorded in the earlier [README](README.md); that earlier receipt is retained verbatim as historical evidence, not current publication status.
+
+The eleven authored records and twenty-eight historical evidence/preimage files match the retained candidate byte for byte. Their source base is `27bcc5fcd915b3c6fc6b4c74f3ff29bfc2ad2d3e`. Publication builds on `6646676a91e33b33132c7dfb7a6ba46ad793f7c4`, preserving the seven intervening opening-workshop commits and the staging commit. No force update is used.
+
+The [native validation run](https://github.com/EpiLogos/Antykathera-Essay-Work/actions/runs/36414040817) applied the hash-verified retained text to an actual checkout. It verified fourteen generating-source hashes and all eleven target preimages, then ran the unchanged recovery detector, its seventeen regression tests, the link checker and all three native builders with their freshness checks. Results: eleven selected records, zero hard recovery errors, forty review candidates retaining their recorded dispositions, 143 resolved links, and 65 rebuilt generated surfaces. The [publication receipt](PUBLICATION-RECEIPT.json) records the exact native parent, payload hash, scope and resulting file identities. The candidate tree and all thirty-nine retained authored/evidence/preimage blobs were checked against the local retained package before the publication commit was created.
+
+Protected originals, source-house NOTES, source quotations, protected histories, the frozen ethic and the sovereign manuscript are unchanged. The changed-path allowlist rejected any mutation outside the eleven reviewed records, their recovery packet and native generated surfaces.
+
+This publishes completed retained work; it does not certify the remaining recovery field. The full-suite result in [FULL-SUITE.txt](FULL-SUITE.txt) remains the earlier 132-test run with one global quality-coverage failure and one AIKit-unavailable skip. The fresh publication checks are scoped checks, not a new full-suite pass. Complete source comparisons and whole-field acceptance remain as recorded in the governing recovery protocol.

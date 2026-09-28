@@ -140,9 +140,9 @@ S as World and Life is the parent field. Paradigm names the lived organisation o
 
 **Philological descent / attested field**
 
-- Greek `γένεσις`: origin, source, productive cause, generation/coming-into-being — housed in [LSJ — γένεσις](../sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md).
-- Greek `παράδειγμα` from `παραδείκνυμι`: pattern/model/exemplar; exhibit side by side, compare, indicate — housed in [LSJ — παράδειγμα / παραδείκνυμι](../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md).
-- Latin `proicio / proicere`: throw forth/before/out — housed in [Lewis and Short — prōiciō / projiciō](../sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md). The later English project/projection semantic history remains a separate historical-dictionary task if exact dates or developments are used publicly.
+- Greek `γένεσις`: origin, source, productive cause, generation/coming-into-being — housed in [LSJ — γένεσις](../../sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md).
+- Greek `παράδειγμα` from `παραδείκνυμι`: pattern/model/exemplar; exhibit side by side, compare, indicate — housed in [LSJ — παράδειγμα / παραδείκνυμι](../../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md).
+- Latin `proicio / proicere`: throw forth/before/out — housed in [Lewis and Short — prōiciō / projiciō](../../sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md). The later English project/projection semantic history remains a separate historical-dictionary task if exact dates or developments are used publicly.
 
 **Operational homology**
 

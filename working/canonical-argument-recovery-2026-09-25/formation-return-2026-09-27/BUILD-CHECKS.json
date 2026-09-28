@@ -1,0 +1,38 @@
+[
+  {
+    "command": [
+      "python3",
+      "tools/build-source-projections.py",
+      "--check"
+    ],
+    "exit_code": 0,
+    "output": "Source projections current: 3 files.\n"
+  },
+  {
+    "command": [
+      "python3",
+      "tools/build-section-rooms.py",
+      "--check"
+    ],
+    "exit_code": 0,
+    "output": "Checked 8 compact section room(s); manuscript and protected companions unchanged.\n"
+  },
+  {
+    "command": [
+      "python3",
+      "tools/build-navigation.py",
+      "--check"
+    ],
+    "exit_code": 0,
+    "output": "navigation layer fresh: 64 generated surfaces\n"
+  },
+  {
+    "command": [
+      "git",
+      "diff",
+      "--check"
+    ],
+    "exit_code": 0,
+    "output": ""
+  }
+]

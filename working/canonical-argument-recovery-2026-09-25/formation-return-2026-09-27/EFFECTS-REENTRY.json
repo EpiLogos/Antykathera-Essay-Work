@@ -1,0 +1,217 @@
+{
+  "commands": [
+    {
+      "command": "python3 tools/okf-workspace.py effects C17 --depth 4 --json",
+      "output_sha256": "9471a5235a36b9ffc16239d29dbc8ecf2d6f4a726b2271a3efc6f66049b0eea2",
+      "phase": "before repair",
+      "complete_output_in_delivery": "effects/effects-C17.json"
+    },
+    {
+      "command": "python3 tools/okf-workspace.py effects C47 --depth 4 --json",
+      "output_sha256": "d6d315ee87e81d5a0f7b13f0de6eaf8ed484bfdf7f35501194126f3c4d03bf90",
+      "phase": "before repair",
+      "complete_output_in_delivery": "effects/effects-C47.json"
+    },
+    {
+      "command": "python3 tools/okf-workspace.py effects A07 --depth 4 --json",
+      "output_sha256": "4e90ce062b5dc83034d174ee00105c97c694e71e0d57cdd9a1aa82d110435f05",
+      "phase": "after primary draft; before final heading alignment",
+      "complete_output_in_delivery": "effects/effects-A07.json"
+    },
+    {
+      "command": "python3 tools/okf-workspace.py effects C12 --depth 4 --json",
+      "output_sha256": "15988648ae9dfb15c5b1bf6af36d1b668231a1f2b05535f9a5ca3147f32b9d24",
+      "phase": "after primary draft; before final heading alignment",
+      "complete_output_in_delivery": "effects/effects-C12.json"
+    },
+    {
+      "command": "python3 tools/okf-workspace.py effects submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md --depth 4 --json",
+      "output_sha256": "c063ef7a45899f8e3c6c03579bd2d32681ae5612fa0fbb8551b6901de36f0db5",
+      "phase": "after primary draft; before final heading alignment",
+      "complete_output_in_delivery": "effects/effects-M09.json"
+    }
+  ],
+  "direct_consumers_reopened": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "record_id": "A05",
+      "sha256": "43748535e8362e044ffa400c1092b6849d25ea4c6d033efe73e2bb9b71234ebb",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "record_id": "A06",
+      "sha256": "ac4d657add22d550a8176f3eee2592b26902bbad28b50c8f73de015e0c9a3fde",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "record_id": "A08",
+      "sha256": "97d09b4d0c5454c50b603b528d2094ebbbdb3d1b73a25fcd8afc2739415c0d1b",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "record_id": "A09",
+      "sha256": "36c9ec1107828b62c68b9072dadb4f2fc9e3bbd4e13f813c1aa343ea6759a65b",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "record_id": "A14",
+      "sha256": "cbebb9a42a57162213fdd61cfa74f69f2b92fcd457324d9740c4eadcfd755e32",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "record_id": "A19",
+      "sha256": "58efe2e08eaed26c01ad115b9996a9db4cd44f023a4d61b19d33b235d1ba5122",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "record_id": "A26",
+      "sha256": "6ebe1677b85a671e472ca5a4abd8223ee7ffcc9b8a78d2f9c35d93ccbf9852b6",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "record_id": "A31",
+      "sha256": "3c95041501d0d682af8f8d91ff377ba7767fccc6388e0d8bb645def096ae6dc7",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "changed: see per-record ledger"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+      "record_id": "A07p",
+      "sha256": "8e71b0ffd4ff6f480f196be33dce69edbf60149170b33372ba45f957ffd3f67a",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "record_id": "C12",
+      "sha256": "917a09f99970a7b980cf2a02da9552df8c6713c7e1e9e5a89705731fb8ebd554",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "changed: see per-record ledger"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "record_id": "C17",
+      "sha256": "36c53213816f16c4a40715afcee553ef4f4f1350527bbc6836c115d7831bcf78",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "changed: see per-record ledger"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "record_id": "A/C",
+      "sha256": "70615835023525e2558f60affb8654f310eff52f668a2b1a6fec1a5ac2071414",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "record_id": "A07",
+      "sha256": "029cafa745ac346f0fc3dfd96b732a7d13763624b75bcd8d4f9d5d1426cd2941",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "changed: see per-record ledger"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "record_id": "C13",
+      "sha256": "279b0ace3511454995e373453310056b506faaaaca2201dd9f171366f8c31859",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "record_id": "C16",
+      "sha256": "03daf1ba3486ce2c8124143e7b5e8f77fba8fdfd5147673fd6c03d053124b1a4",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "record_id": "C18",
+      "sha256": "c7923ca8d5c196e0016dcdb6f597e560d9c7e7c09e7a0958101284ab05c500cc",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "record_id": "C44",
+      "sha256": "61720fce4e55f37e76b5f9d87383893c52135841c4ad8359bc4d72fd03726184",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "record_id": "C47",
+      "sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "changed: see per-record ledger"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "record_id": "vikalpa-samkalpa",
+      "sha256": "5dfe4c27946e4936ae197f3bd848e7436a62020311ed8bd1699248ed169efb9c",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "changed: see per-record ledger"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+      "record_id": "08-s0-p1-inner-instrument",
+      "sha256": "21a544f574ada950c79276342dc12633dad3ff5eaf5bce276be7d5e1e55d5b4f",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "record_id": "10-s0-p3-apoha",
+      "sha256": "7b61fcd71cdabdfe4620287d37c8325e2f0bd5f8a8cd47c7e36c24397528305a",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "record_id": "C42",
+      "sha256": "6a29fdbee907767029eb24e25d4cfb8a02d936cc2149a76d162af37dfaeb5641",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "record_id": "C31",
+      "sha256": "e13740a5c8b0b4f8b49ab593cf0fc7893d2019e165ebee7dc07a4efa5c5aaa1e",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "record_id": "C46",
+      "sha256": "cc1fe6c930ebf01c28aa4fee2a6c787d05ee25ce2118b7e720655b6df5668c08",
+      "reading_scope": "complete current body reopened; source-field acceptance not implied",
+      "disposition": "unchanged consumer re-entry; complete source-depth acceptance remains outstanding"
+    }
+  ],
+  "direct_consumer_count": 24,
+  "transverse_paths_reopened": [
+    "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+    "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+    "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md"
+  ],
+  "additional_whole_reopened": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+  "limits": [
+    "Complete direct bodies were reopened; deeper effect-neighbourhood retrieval is not a review of every returned source.",
+    "A05/A06/A08/A09/A14/A19/A26 and C31/C46 retain observed administrative, source or framing residues. Re-entry is not semantic acceptance.",
+    "Māyā WHOLE retains an old machine-phenomenality guard and administrative/provenance rhetoric; the aperture/dream operations used here were recovered from the direct authorial units, not accepted from those guards.",
+    "A07-prime and the other existing mythic consumers retain their prior source standing. No new episode, optical, clinical or numerical experiment was performed."
+  ]
+}

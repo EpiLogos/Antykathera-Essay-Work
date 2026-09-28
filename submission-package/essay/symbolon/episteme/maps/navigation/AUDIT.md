@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "308e4fa84bf17fdc43e250d33c396e54bd07c4a31d804fec70a326612b523c0e"
+source_digest: "4c560950393b47804f67b4a1094b41cc11442f78f0ca79fb193b2732584e8ef7"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -38,23 +38,23 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Class | Pages | Links | Named | Unnamed | Orphans | No return | Unreachable |
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
-| The rooms — waypoints, alignments, reading routes | 20 | 847 | 79 | 768 | 0 | 0 | 0 |
-| The 48 movements | 48 | 422 | 150 | 272 | 0 | 0 | 0 |
+| The rooms — waypoints, alignments, reading routes | 20 | 850 | 81 | 769 | 0 | 0 | 0 |
+| The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
 | Matheme — exact operations | 94 | 844 | 390 | 454 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1031 | 548 | 483 | 0 | 0 | 0 |
+| Episteme · Arguments A01–A36 | 37 | 1033 | 538 | 495 | 0 | 0 | 0 |
 | Episteme · Conjugate arguments A01′–A36′ | 38 | 583 | 173 | 410 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1223 | 496 | 727 | 36 | 77 | 47 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1225 | 478 | 747 | 36 | 77 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 77 | 14 | 63 | 1 | 2 | 1 |
-| Episteme · Etymology whole-fields | 25 | 611 | 392 | 219 | 0 | 6 | 0 |
+| Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1067 | 167 | 900 | 0 | 80 | 0 |
 | Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
-| Episteme · Maps and curated paths | 5 | 119 | 7 | 112 | 0 | 1 | 0 |
+| Episteme · Maps and curated paths | 5 | 120 | 7 | 113 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
 | Episteme · Aphorisms | 1 | 11 | 9 | 2 | 0 | 0 | 0 |
 | Episteme · Figures | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
@@ -68,7 +68,7 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | [Mono–Poly and the Two Ones — Transverse Thread](../mono-poly-two-ones.md) | mono-poly-two-ones | transverse | 16 | 19 |
 | [Return of Zero — Braided Traversal](../return-of-zero-braided-traversal.md) | — | spine | 48 | 0 |
 | [Trust, Faith, and the Formal Limit — Transverse Thread](../trust-faith-formal-limit.md) | trust-faith-formal-limit | transverse | 8 | 10 |
-| [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../zero-subject-advent.md) | zero-subject-advent | transverse | 12 | 17 |
+| [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../zero-subject-advent.md) | zero-subject-advent | transverse | 13 | 17 |
 
 ## Links leaving the publication body
 

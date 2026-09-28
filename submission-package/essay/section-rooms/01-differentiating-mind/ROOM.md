@@ -54,13 +54,11 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Incoming pressure:** [§0 #1 · The Inner Instrument](movements/08-s0-p1-inner-instrument.md)
 
-**Earned position (Argued):** Mind constructs a context-world through a pulse: *vikalpa* differentiates and qualifies; *saṃkalpa* composes possibilities, intentions, and commitments from those differences.
+**Earned position (Argued):** Mind constructs a context-world through a pulse.
 
-**Why this move:** Each act inherits a field, makes a distinction, selects within it, and changes what the next act can encounter.
+**Carry-forward:** §0/1 has already opened the cut through apoha and Spinoza together.
 
-**Carry-forward:** inherited `0/1` → dia-cut → selected `1` → sym-composition → revised field.
-
-**Open:** [movement](movements/09-s0-p2-vikalpa-samkalpa.md) · canonical route: [A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will](../../symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md), [A09 — Tattvic-Differential-Field](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md), [C12](../../symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md), [C17](../../symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md)
+**Open:** [movement](movements/09-s0-p2-vikalpa-samkalpa.md) · canonical route: [A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will](../../symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md), [A09 — Tattvic-Differential-Field](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md), [C12](../../symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md), [C17](../../symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md) · sources: [taylor-2026-core-theorems-pithy](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [taylor-2026-definition-god-draft3](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md), [dyczkowski-2000-doctrine-vibration](../../symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md)
 
 ### #3 · Apoha
 
