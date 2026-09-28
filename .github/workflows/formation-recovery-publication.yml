@@ -1,0 +1,33 @@
+name: Validate retained formation recovery for publication
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/formation-recovery-publication.yml'
+      - 'working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/delivery/stage.py'
+permissions:
+  contents: write
+jobs:
+  stage:
+    if: github.repository == 'EpiLogos/Antykathera-Essay-Work' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Prepare native builders
+        run: python3 -m pip install PyYAML
+      - name: Apply exact retained data, verify, and create candidate tree without publishing refs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/delivery/stage.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: formation-publication-${{ github.sha }}
+          path: ${{ runner.temp }}/formation-publication/
+          retention-days: 7
+          if-no-files-found: error
