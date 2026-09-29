@@ -4,7 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/formation-recovery-publication.yml'
-      - 'working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/delivery/stage.py'
+      - 'working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/delivery/stage.py'
 permissions:
   contents: write
 jobs:
@@ -23,11 +23,11 @@ jobs:
       - name: Apply exact retained data, verify, and create candidate tree without publishing refs
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/delivery/stage.py
+        run: python3 working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/delivery/stage.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: return-dependence-publication-${{ github.sha }}
-          path: ${{ runner.temp }}/return-dependence-publication/
+          name: reframing-paradox-publication-${{ github.sha }}
+          path: ${{ runner.temp }}/reframing-paradox-publication/
           retention-days: 7
           if-no-files-found: error
