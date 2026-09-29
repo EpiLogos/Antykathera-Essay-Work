@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818"
+source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -28,13 +28,13 @@ This map is generated from the relations authors wrote into the publication body
 | #2 | Matheme — exact operations | 94 | 844 | 46% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 48 | 763 | 59% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 24 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
-| #4 | Episteme · Arguments A01–A36 | 37 | 1035 | 51% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
-| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 573 | 29% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
-| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1236 | 36% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
+| #4 | Episteme · Arguments A01–A36 | 37 | 1033 | 49% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
+| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 568 | 28% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
+| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1233 | 36% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #4 | Episteme · Product field S / S0–S5 | 8 | 77 | 18% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
 | #4 | Episteme · Etymology whole-fields | 25 | 613 | 64% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 660 | 65% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
-| #4 | Episteme · Source houses | 201 | 1067 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
+| #4 | Episteme · Source houses | 201 | 1069 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 205 | 87% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 3 | 37 | 70% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
 | #4 | Episteme · Maps and curated paths | 5 | 120 | 6% | [Maps](../README.md) | [intents](intents/episteme-maps.md) |
@@ -55,21 +55,21 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5538 |
-| sources | 1217 |
-| sources (declared) | 848 |
-| returns-to | 619 |
-| grounds | 377 |
+| unnamed | 5554 |
+| sources | 1212 |
+| sources (declared) | 861 |
+| returns-to | 610 |
+| grounds | 374 |
 | consumed-by (declared) | 293 |
 | extends | 287 |
-| qualifies | 252 |
-| defines | 206 |
-| figures | 184 |
+| qualifies | 249 |
+| defines | 205 |
+| figures | 183 |
 | historicises | 157 |
-| compares | 152 |
+| compares | 151 |
 | returns-to (declared) | 125 |
 | tests | 89 |
-| derives | 29 |
+| derives | 28 |
 | embodies | 15 |
 | sources (declared passage) | 12 |
 | companion notes (declared) | 10 |

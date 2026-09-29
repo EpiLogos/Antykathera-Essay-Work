@@ -9,7 +9,6 @@
       "title-or-alias-only": 505,
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
-      "missing-fragment": 2,
       "missing-path": 1
     },
     "admitted": 288,
@@ -200,7 +199,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
       "sha256": "f73c25f40a7560b4651ee368532858a45a730635f2a756a1a9e630502ef41420",
       "exists": true,
-      "current_sha256": "a2ba1134a96e61dd767fe994c8af428fb32a6245783d305f0d7e61bc167d888c",
+      "current_sha256": "1525064c85512bf700b1b93206fd9b3679246cf1031386af0e9600863f3e2a8b",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -387,7 +386,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
       "sha256": "a67481ea059d28940cdf9f573930f67a137e3756e91896a7441e67379744cb0e",
       "exists": true,
-      "current_sha256": "ea9bd6d28ec67452e4b8b47f08239c8d0a221b850317c77832cc7453fb574eea",
+      "current_sha256": "36674d38fa438a2aad1aa40290d0ef0848cc193ec0fc16aaeeb2452b6fd36b6c",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1069,7 +1068,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
       "sha256": "6715c5f0e4854e399322be424bcc53d7d4f9ba6ad1caa8e5d22e6483cbcea52f",
       "exists": true,
-      "current_sha256": "f240e99ef4d35725d01a199a8e2dda79b372a130c615b292eba0b88a1faf398b",
+      "current_sha256": "5f133655a24a388a3273136f8d0115b4da7f0d44ce994671d3a464ecad57c1a1",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1256,8 +1255,8 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
       "sha256": "53beea3698569c79e6c65683199f703bace8454c7464c1bc90c8b82f3d090658",
       "exists": true,
-      "current_sha256": "53beea3698569c79e6c65683199f703bace8454c7464c1bc90c8b82f3d090658",
-      "changed_since_acceptance": false,
+      "current_sha256": "d3f84d46076a055e61162fafca37f02a301fb5f5a98e2b2000e071f9868d5262",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -2829,7 +2828,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
       "sha256": "d06820718286fd2d1018aeb2f6d73c2cff0195db005b9055e6294f93ab0542fa",
       "exists": true,
-      "current_sha256": "67e4435bae87e17a8b5e6e7493f16dfa2e3fbdac827a233aadbb1a10d2d778fc",
+      "current_sha256": "783c5357f5bc985bb3a5b58b96ddc154e67b0e8d9c63b2ad4b75e78b76805199",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -3016,7 +3015,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
       "sha256": "778adcfa7f6e1be1c3d5e4fbafedcc12ce0e6b665275c953ed64a68ff0ce6970",
       "exists": true,
-      "current_sha256": "a99753ad95b49c12d92506e91623054908aebe3bafa312a3f290928dd40e6ee8",
+      "current_sha256": "7e342a403307ab92e8ec82de5aa900b380b5455fe66ba1b8b3cdc329708971e7",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -5246,26 +5245,6 @@
       "line": 95,
       "target": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
       "status": "title-or-alias-only"
-    },
-    {
-      "source": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
-      "kind": "markdown",
-      "href": "../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#0--epi-logos--paradigmatic-reflexivity",
-      "start": 11783,
-      "end": 11885,
-      "line": 66,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
-      "status": "missing-fragment"
-    },
-    {
-      "source": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
-      "kind": "markdown",
-      "href": "../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#0--epi-logos--paradigmatic-reflexivity",
-      "start": 7290,
-      "end": 7392,
-      "line": 52,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
-      "status": "missing-fragment"
     },
     {
       "source": "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",

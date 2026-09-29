@@ -1,5 +1,5 @@
 {
-  "source_digest": "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818",
+  "source_digest": "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -10,7 +10,6 @@
       "title-or-alias-only": 505,
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
-      "missing-fragment": 2,
       "missing-path": 1
     },
     "admitted": 288,
@@ -30,21 +29,21 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5538,
-    "sources": 1217,
-    "sources (declared)": 848,
-    "returns-to": 619,
-    "grounds": 377,
+    "unnamed": 5554,
+    "sources": 1212,
+    "sources (declared)": 861,
+    "returns-to": 610,
+    "grounds": 374,
     "consumed-by (declared)": 293,
     "extends": 287,
-    "qualifies": 252,
-    "defines": 206,
-    "figures": 184,
+    "qualifies": 249,
+    "defines": 205,
+    "figures": 183,
     "historicises": 157,
-    "compares": 152,
+    "compares": 151,
     "returns-to (declared)": 125,
     "tests": 89,
-    "derives": 29,
+    "derives": 28,
     "embodies": 15,
     "sources (declared passage)": 12,
     "companion notes (declared)": 10,
@@ -125,9 +124,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1035,
-      "named": 525,
-      "unnamed": 510,
+      "links": 1033,
+      "named": 511,
+      "unnamed": 522,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -143,18 +142,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1236,
-      "named": 448,
-      "unnamed": 788,
+      "links": 1233,
+      "named": 446,
+      "unnamed": 787,
       "orphans": 36,
       "no_return": 76,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 573,
-      "named": 168,
-      "unnamed": 405,
+      "links": 568,
+      "named": 161,
+      "unnamed": 407,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -233,9 +232,9 @@
     },
     "episteme-sources": {
       "pages": 201,
-      "links": 1067,
+      "links": 1069,
       "named": 167,
-      "unnamed": 900,
+      "unnamed": 902,
       "orphans": 0,
       "no_return": 80,
       "unreachable": 0
@@ -243,8 +242,8 @@
     "matheme": {
       "pages": 94,
       "links": 844,
-      "named": 390,
-      "unnamed": 454,
+      "named": 389,
+      "unnamed": 455,
       "orphans": 0,
       "no_return": 13,
       "unreachable": 0

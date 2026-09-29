@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818"
+source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -55,7 +55,7 @@ Group: `quilt` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Binary Explication (four-file canonical-candidate set)](../../../sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Hatcher — Algebraic Topology (2002)](../../../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md) · *returns-to* → [A17 — Toroidal Circulation and the Arche-Topos](../../../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) · *unnamed* → [The Two Chromatic Substrates](../../../../matheme/music/chromatic-substrates.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Torus, covering, winding and retained displacement](../../../../matheme/topology/torus-cover-winding.md), [§4 — Kashmir Shaivism: The Metaphysical Architecture](../../../../matheme/quilt/metaphysics.md)
 
-**Reached from:** *unnamed* ← [A17′ — Traversal with Return](../../../conjugate/A17-prime-Traversal-with-Return.md), [Cycle, Interval and Octave](../../../../matheme/harmonics/cycle-interval-octave.md), [Quilt — the 1](../../../../matheme/quilt/README.md), [§2 — The Pythagorean Number](../../../../matheme/quilt/number.md), [§5 — Epi-Logos: The Proof Gathered](../../../../matheme/quilt/recognition.md)
+**Reached from:** *unnamed* ← [Cycle, Interval and Octave](../../../../matheme/harmonics/cycle-interval-octave.md), [Quilt — the 1](../../../../matheme/quilt/README.md), [§2 — The Pythagorean Number](../../../../matheme/quilt/number.md), [§5 — Epi-Logos: The Proof Gathered](../../../../matheme/quilt/recognition.md)
 
 ### [§4 — Kashmir Shaivism: The Metaphysical Architecture](../../../../matheme/quilt/metaphysics.md)
 

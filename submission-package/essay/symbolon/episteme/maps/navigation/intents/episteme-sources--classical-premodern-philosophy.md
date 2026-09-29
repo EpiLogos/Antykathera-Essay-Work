@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818"
+source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -47,7 +47,7 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 **Implicates:** *consumed-by (declared)* → [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md) · *unnamed* → [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md)
 
-**Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM.md), [A34 — Idealism / Order of Dependence](../../../arguments/A34-Idealism-Order-of-Dependence.md), [C60 — Idealism / Order of Dependence](../../../concepts/C60-Idealism-Order-of-Dependence.md) · *sources (declared)* ← [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM.md) · *sources (declared)* ← [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Descartes — Meditations on First Philosophy (CSM II, 1984)](../../../sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md)
 

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818"
+source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -47,7 +47,7 @@ Group: `ql` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [A10 — Advent of Zero](../../../arguments/A10-Advent-of-Zero.md) · *unnamed* → [X/x: Specification without Exhaustion](../../../../matheme/ql/x-x.md), [C09 — Diaphaneity](../../../concepts/C09-Diaphaneity.md), [Von Neumann Ordinals — The Predecessors Retained](../../../../matheme/formal-neighbours/von-neumann-ordinals.md), [A36 — Advent of Integral Zero](../../../arguments/A36-Advent-of-Integral-Zero.md), [§1 · #3 — The Crossed Zero](../../../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md), [Laws of Form and Varela — Crossing, Re-entry, Self-Indication](../../../../matheme/formal-neighbours/laws-of-form-varela.md)
 
-**Reached from:** *unnamed* ← [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [A34′ — The Direction of Dependence](../../../conjugate/A34-prime-Direction-of-Dependence.md), [A/C — Argument / Concept — Root of the Conjugate Field](../../../conjugate/AC.md), [QL](../../../../matheme/ql/README.md), [§5→0 — The Enantiodromic Return](../../../../matheme/quilt/enantiodromic-return.md)
+**Reached from:** *unnamed* ← [A34 — Idealism / Order of Dependence](../../../arguments/A34-Idealism-Order-of-Dependence.md), [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [A34′ — The Direction of Dependence](../../../conjugate/A34-prime-Direction-of-Dependence.md), [A/C — Argument / Concept — Root of the Conjugate Field](../../../conjugate/AC.md), [QL](../../../../matheme/ql/README.md), [§5→0 — The Enantiodromic Return](../../../../matheme/quilt/enantiodromic-return.md)
 
 ### [QL](../../../../matheme/ql/README.md)
 
