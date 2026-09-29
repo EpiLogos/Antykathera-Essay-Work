@@ -24,12 +24,13 @@ def api(endpoint, value=None):
         method='GET' if value is None else 'POST',
         headers={'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
                  'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json'})
-    import time, urllib.error
+    import time
+    from urllib.error import HTTPError
     for attempt in range(4):
         try:
             with urllib.request.urlopen(req, timeout=90) as response:
                 return json.load(response)
-        except urllib.error.HTTPError as exc:
+        except HTTPError as exc:
             if exc.code not in (500, 502, 503, 504) or attempt == 3:
                 raise
             time.sleep((2, 8, 20)[attempt])
