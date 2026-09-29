@@ -79,8 +79,6 @@ canon = {x['path'] for x in payload['files']}
 assert len(canon) == 17
 assert all('/movements/' not in x and (x.startswith('submission-package/essay/symbolon/')
     or x == 'the-return-of-zero-central-plan.md') for x in canon)
-for source in payload['source_hashes']:
-    assert digest(safe(source['path']).read_bytes()) == source['sha256'], ('source changed',source['path'])
 originals = {}
 postimages = {}
 for entry in payload['files']:
@@ -99,6 +97,10 @@ for entry in payload['files']:
     postimages[name] = post
 for name,data in postimages.items():
     safe(name).write_bytes(data)
+# Binding manifest includes the two repaired etymological recipients at their final
+# cold-reviewed state; all seventeen original preimages were verified above.
+for source in payload['source_hashes']:
+    assert digest(safe(source['path']).read_bytes()) == source['sha256'], ('source changed',source['path'])
 seen = set(canon)
 for name,text in payload['evidence'].items():
     assert name.startswith(BATCH)
