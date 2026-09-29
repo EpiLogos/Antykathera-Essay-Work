@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "4c560950393b47804f67b4a1094b41cc11442f78f0ca79fb193b2732584e8ef7"
+source_digest: "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -43,11 +43,11 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
 | Matheme — exact operations | 94 | 844 | 390 | 454 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
+| Mytheme — whole lived images | 48 | 763 | 448 | 315 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1033 | 538 | 495 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 583 | 173 | 410 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1225 | 478 | 747 | 36 | 77 | 47 |
+| Episteme · Arguments A01–A36 | 37 | 1035 | 525 | 510 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 573 | 168 | 405 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1236 | 448 | 788 | 36 | 76 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 77 | 14 | 63 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
@@ -86,7 +86,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | `working/canonical-argument-recovery-2026-09-25` | 4 | `working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md` (2); `working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md` (1); `working/canonical-argument-recovery-2026-09-25/AC-DISPLACED-GOVERNANCE-AND-SOURCE-DEBTS.md` (1) |
 | `working/pre-manuscript-refinement-2026-09-10` | 4 | `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (1); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
 | `.wayfinder/maps` | 3 | `.wayfinder/maps/t20-t21-world-registers.md` (3) |
-| `working/conjugate-field` | 3 | `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (2); `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (1) |
+| `working/conjugate-field` | 2 | `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (1); `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (1) |
 | `working/harmonisation-2026-08-18-objective-internality-capstone` | 1 | `working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md` (1) |
 
 ## Unresolved targets
@@ -163,7 +163,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
 - [C48 — Trust / Faith under Formal Limit](../../concepts/C48-Trust-Faith-under-Formal-Limit.md)
 - [C49 — The Two Ones — 0 = One, 1 = All](../../concepts/C49-The-Two-Ones-0-One-1-All.md)
-- [C51 — Logos / Epi-Logos](../../concepts/C51-Logos-Epi-Logos.md)
 - [C52 — Dimensional Reframing at Zero and Infinity](../../concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md)
 - [C64 — Paradox / Transforming the Containing Field](../../concepts/C64-Paradox-Transforming-the-Containing-Field.md)
 - [0-1 Matheme](../../concepts/reference-notes/0-1-matheme.md)

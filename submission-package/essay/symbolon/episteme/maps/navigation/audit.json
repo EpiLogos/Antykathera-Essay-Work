@@ -1,5 +1,5 @@
 {
-  "source_digest": "4c560950393b47804f67b4a1094b41cc11442f78f0ca79fb193b2732584e8ef7",
+  "source_digest": "d6f4b724390dd9f1984b3e0a108e0ae3e4196c4a09b2fc59e12e965a8a06b818",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -30,20 +30,20 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5486,
-    "sources": 1218,
-    "sources (declared)": 846,
-    "returns-to": 625,
-    "grounds": 384,
-    "extends": 300,
+    "unnamed": 5538,
+    "sources": 1217,
+    "sources (declared)": 848,
+    "returns-to": 619,
+    "grounds": 377,
     "consumed-by (declared)": 293,
-    "qualifies": 259,
-    "defines": 214,
-    "figures": 185,
-    "historicises": 158,
-    "compares": 155,
+    "extends": 287,
+    "qualifies": 252,
+    "defines": 206,
+    "figures": 184,
+    "historicises": 157,
+    "compares": 152,
     "returns-to (declared)": 125,
-    "tests": 91,
+    "tests": 89,
     "derives": 29,
     "embodies": 15,
     "sources (declared passage)": 12,
@@ -125,9 +125,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1033,
-      "named": 538,
-      "unnamed": 495,
+      "links": 1035,
+      "named": 525,
+      "unnamed": 510,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -143,18 +143,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1225,
-      "named": 478,
-      "unnamed": 747,
+      "links": 1236,
+      "named": 448,
+      "unnamed": 788,
       "orphans": 36,
-      "no_return": 77,
+      "no_return": 76,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 583,
-      "named": 173,
-      "unnamed": 410,
+      "links": 573,
+      "named": 168,
+      "unnamed": 405,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -252,8 +252,8 @@
     "mytheme": {
       "pages": 48,
       "links": 763,
-      "named": 449,
-      "unnamed": 314,
+      "named": 448,
+      "unnamed": 315,
       "orphans": 0,
       "no_return": 23,
       "unreachable": 0
@@ -322,7 +322,6 @@
     "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
     "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
     "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
-    "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
     "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
     "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
@@ -651,10 +650,10 @@
       }
     },
     "working/conjugate-field": {
-      "count": 3,
+      "count": 2,
       "targets": {
-        "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md": 2,
-        "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 1
+        "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 1,
+        "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md": 1
       }
     },
     "working/harmonisation-2026-08-18-objective-internality-capstone": {

@@ -181,7 +181,7 @@ This is why the six products are philosophical subjects rather than software cat
 
 The primitive field becomes intelligible when its ontological and technological faces are held together.
 
-Prakāśa is luminous appearing. Vimarśa is appearing's capacity to turn upon itself, articulate, recognise and respond. Māyā is operative measure: the power through which the unlimited becomes a bounded world of differences. The metaphor of light, camera and action works because each term names a different office inside one act. Light is the fact of appearing; the camera is the mediating apparatus that frames and differentiates; action is what the framed world can become and do.
+Prakāśa is luminous appearing; vimarśa is its inseparable self-apprehending activity. Blue and yellow can differ within one cognition because the appearing holds and apprehends their difference. Recognition, recollection, recomposition and response develop within this self-presence. Māyā is operative measure: the power through which the unlimited becomes a bounded world of differences. The metaphor of light, camera and action works because each term names a different office inside one act. Light is the fact of appearing; the camera is the mediating apparatus that frames and differentiates; action is what the framed world can become and do.
 
 The camera can become visible without becoming the light. This is the same distinction Objective Internality has been making all along.
 
