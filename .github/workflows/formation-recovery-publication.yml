@@ -1,10 +1,10 @@
-name: Validate retained formation recovery for publication
+name: Validate retained foundational recovery for publication
 on:
   push:
     branches: [main]
     paths:
       - '.github/workflows/formation-recovery-publication.yml'
-      - 'working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/delivery/stage.py'
+      - 'working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/delivery/stage.py'
 permissions:
   contents: write
 jobs:
@@ -23,11 +23,11 @@ jobs:
       - name: Apply exact retained data, verify, and create candidate tree without publishing refs
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/delivery/stage.py
+        run: python3 working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/delivery/stage.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: formation-publication-${{ github.sha }}
-          path: ${{ runner.temp }}/formation-publication/
+          name: mediation-publication-${{ github.sha }}
+          path: ${{ runner.temp }}/mediation-publication/
           retention-days: 7
           if-no-files-found: error
