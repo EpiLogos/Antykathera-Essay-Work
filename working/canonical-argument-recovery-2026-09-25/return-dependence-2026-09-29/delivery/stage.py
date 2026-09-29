@@ -152,8 +152,15 @@ for name in sorted(canon):
         assert 'missing' not in status and 'unresolved' not in status,(name,link,status)
         checks.append({'source':name,'href':link['href'],'status':status})
 (OUT/'links.json').write_text(json.dumps(checks,ensure_ascii=False,indent=2)+'\n')
-run(['python3','tools/audit-room-depth.py','--project-root','.',
-     '--require-deepened'],'room-depth.json')
+# The root also holds the historical arguments shelf, which is not a ninth room.
+# Audit every canonical room explicitly; preserve the auditor and its assertions.
+rooms = ('00-integral-threshold', '01-differentiating-mind', '02-return-of-zero',
+         '03-two-logics', '04-mathematical-substrate', '05-psychoid-flowering',
+         '06-objective-internality', '07-instrument-returns')
+room_args = ['python3','tools/audit-room-depth.py','--project-root','.', '--require-deepened']
+for room in rooms:
+    room_args += ['--room',room]
+run(room_args,'room-depth.json')
 run(['python3','tools/audit-pre-manuscript.py','--project-root','.',
      '--output',str(OUT/'pre-manuscript.json')],'pre-manuscript.txt')
 suite_exit = run(['python3','-m','unittest','discover','-s','tests','-v'],'full-suite.txt',False)
