@@ -3,7 +3,7 @@ title: "Return of Zero — Canonical Source Index"
 source_id: source-index
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "20b8884afcb8102005a0893131a2965c3a41211a88949ba2d4947a16b7e75759"
+source_digest: "8fdf040c59b4ecc2bfb823ca772206d42fc023777393c975b07a3e9f97078a74"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->

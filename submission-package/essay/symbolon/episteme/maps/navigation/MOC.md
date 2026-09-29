@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
+source_digest: "b3ac86f0e90a8ad5184b84b58fd8b357d54f7277f74e908a87d760e63562f2ba"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -30,11 +30,11 @@ This map is generated from the relations authors wrote into the publication body
 | #4 | Episteme — the register root | 1 | 24 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
 | #4 | Episteme · Arguments A01–A36 | 37 | 1033 | 49% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
 | #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 568 | 28% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
-| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1233 | 36% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
+| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1264 | 36% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #4 | Episteme · Product field S / S0–S5 | 8 | 77 | 18% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
 | #4 | Episteme · Etymology whole-fields | 25 | 613 | 64% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 660 | 65% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
-| #4 | Episteme · Source houses | 201 | 1069 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
+| #4 | Episteme · Source houses | 201 | 1071 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 205 | 87% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 3 | 37 | 70% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
 | #4 | Episteme · Maps and curated paths | 5 | 120 | 6% | [Maps](../README.md) | [intents](intents/episteme-maps.md) |
@@ -55,18 +55,18 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5554 |
-| sources | 1212 |
-| sources (declared) | 861 |
-| returns-to | 610 |
+| unnamed | 5582 |
+| sources | 1226 |
+| sources (declared) | 878 |
+| returns-to | 607 |
 | grounds | 374 |
 | consumed-by (declared) | 293 |
 | extends | 287 |
-| qualifies | 249 |
+| qualifies | 246 |
 | defines | 205 |
 | figures | 183 |
 | historicises | 157 |
-| compares | 151 |
+| compares | 148 |
 | returns-to (declared) | 125 |
 | tests | 89 |
 | derives | 28 |
@@ -78,5 +78,5 @@ This map is generated from the relations authors wrote into the publication body
 ## Standing of the surface
 
 - Workspace-resolved graph: 734/782 reachable, including metadata relations. Conservative visible-link audit: 719/782. See the audit for the distinction.
-- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 214.
+- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 212.
 - Full findings with page lists: [navigation audit](AUDIT.md).

@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
+source_digest: "b3ac86f0e90a8ad5184b84b58fd8b357d54f7277f74e908a87d760e63562f2ba"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -47,11 +47,11 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
 | Episteme · Arguments A01–A36 | 37 | 1033 | 511 | 522 | 0 | 0 | 0 |
 | Episteme · Conjugate arguments A01′–A36′ | 38 | 568 | 161 | 407 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1233 | 446 | 787 | 36 | 76 | 47 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1264 | 451 | 813 | 36 | 74 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 77 | 14 | 63 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
-| Episteme · Source houses | 201 | 1069 | 167 | 902 | 0 | 80 | 0 |
+| Episteme · Source houses | 201 | 1071 | 167 | 904 | 0 | 80 | 0 |
 | Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 120 | 7 | 113 | 0 | 1 | 0 |
@@ -163,8 +163,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
 - [C48 — Trust / Faith under Formal Limit](../../concepts/C48-Trust-Faith-under-Formal-Limit.md)
 - [C49 — The Two Ones — 0 = One, 1 = All](../../concepts/C49-The-Two-Ones-0-One-1-All.md)
-- [C52 — Dimensional Reframing at Zero and Infinity](../../concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md)
-- [C64 — Paradox / Transforming the Containing Field](../../concepts/C64-Paradox-Transforming-the-Containing-Field.md)
 - [0-1 Matheme](../../concepts/reference-notes/0-1-matheme.md)
 - [36 Tattvas](../../concepts/reference-notes/36-tattvas.md)
 - [9-8 Whole Tone](../../concepts/reference-notes/9-8-whole-tone.md)

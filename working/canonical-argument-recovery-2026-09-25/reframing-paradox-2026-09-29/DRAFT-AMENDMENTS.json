@@ -1,0 +1,44 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "old": "take $u=y/(1-x)$ away from $(1,0)$ and $v=y/(1+x)$ away from $(-1,0)$. On the overlap, $uv=y^2/(1-x^2)=1$, so $v=1/u$.",
+    "new": "take $u=x/(1-y)$ away from $(0,1)$ and $v=x/(1+y)$ away from $(0,-1)$. On the overlap, $uv=x^2/(1-y^2)=1$, so $v=1/u$.",
+    "reason": "Restore the exact north/south-pole witness used in the existing manifold-atlas and jigsaw wholes; the initial draft unnecessarily selected a rotated chart."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "old": "one chart gives $u=2$ and the other gives $v=1/2$.",
+    "new": "one chart gives $u=3$ and the other gives $v=1/3$.",
+    "reason": "Keep the inherited point and both of its declared coordinates together."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "old": "y=\\frac{2u}{1+u^2}=\\frac{2v}{1+v^2}=\\frac45.",
+    "new": "y=\\frac{u^2-1}{1+u^2}=\\frac{1-v^2}{1+v^2}=\\frac45.",
+    "reason": "Restore the height expressions for the inherited charts, rather than their rotated variant."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "old": "The atlas preserves the point and its motion by changing the expressions which describe them.",
+    "new": "With $u=3$ and $du/dt=2$, the other coordinate has $dv/dt=-2/9$; either height formula then gives $dy/dt=6/25$. The [manifold-atlas construction](../../matheme/topology/manifold-atlas.md) preserves the point and its motion by changing the expressions which describe them.",
+    "reason": "Complete the preserved velocity and scalar-derivative operation, with its actual owning Matheme."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "old": "A geometric reciprocal changes the containing object again.",
+    "new": "An added dimension has its own exact work. No real number has square $-1$. Write complex numbers as pairs $a+ib$, with multiplication $(a+ib)(c+id)=(ac-bd)+i(ad+bc)$. Then $i^2=-1$, and multiplication by $i$ sends $(a,b)$ to $(-b,a)$: a quarter-turn whose second application reverses both signs. Real numbers remain the pairs with second coordinate zero. Their old no-real-solution result remains true, while the enlarged domain supplies a solution. The multiplication rule, not the extra coordinate alone, earns that change.\n\nA geometric reciprocal changes the containing object again.",
+    "reason": "Recover dimensional extension as an actual operation rather than only a category in the opening; the native complex-rotation operation retains the real/complex domain distinction."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "old": "A second kind of continuation changes a domain rather than a law.",
+    "new": "[Making zero invertible under all ring laws](../sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md#dutta-2023-zero-divided-numbers-india-p002) instead collapses the ring to one element. A changed system need not preserve the distinctions with which it began.\n\nA second kind of continuation changes a domain rather than a law.",
+    "reason": "Explicit limiting witness for the formerly unconditional preservation claim; a formal continuation is not automatically a faithful enlargement."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "old": "The copied passages in the protected encounter remain quotation leads; the operation here belongs to the author's developed interpretation.",
+    "new": "The return concerns a changed manner of interpretation, not a new item added to the same fixed categories.",
+    "reason": "Move quotation-status administration into working evidence; keep the positive interpretive transformation in the argument."
+  }
+]

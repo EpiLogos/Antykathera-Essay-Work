@@ -1,5 +1,5 @@
 {
-  "source_digest": "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79",
+  "source_digest": "b3ac86f0e90a8ad5184b84b58fd8b357d54f7277f74e908a87d760e63562f2ba",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -29,18 +29,18 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5554,
-    "sources": 1212,
-    "sources (declared)": 861,
-    "returns-to": 610,
+    "unnamed": 5582,
+    "sources": 1226,
+    "sources (declared)": 878,
+    "returns-to": 607,
     "grounds": 374,
     "consumed-by (declared)": 293,
     "extends": 287,
-    "qualifies": 249,
+    "qualifies": 246,
     "defines": 205,
     "figures": 183,
     "historicises": 157,
-    "compares": 151,
+    "compares": 148,
     "returns-to (declared)": 125,
     "tests": 89,
     "derives": 28,
@@ -142,11 +142,11 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1233,
-      "named": 446,
-      "unnamed": 787,
+      "links": 1264,
+      "named": 451,
+      "unnamed": 813,
       "orphans": 36,
-      "no_return": 76,
+      "no_return": 74,
       "unreachable": 47
     },
     "episteme-conjugate": {
@@ -232,9 +232,9 @@
     },
     "episteme-sources": {
       "pages": 201,
-      "links": 1069,
+      "links": 1071,
       "named": 167,
-      "unnamed": 902,
+      "unnamed": 904,
       "orphans": 0,
       "no_return": 80,
       "unreachable": 0
@@ -321,8 +321,6 @@
     "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
     "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
     "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
-    "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
-    "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/9-8-whole-tone.md",

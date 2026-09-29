@@ -48,7 +48,7 @@ $$
 \pi_1(\mathbb T^2)\cong\mathbb Z\times\mathbb Z.
 $$
 
-The map from the plane is an infinite universal cover. The torus's orientable double cover of the Klein bottle is another construction. The sphere's contractible loops and the torus's non-contractible classes make different returns available; contractibility does not mean a sphere cannot support circulation. [[symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE|Hatcher's source house]] sources the topology reference with exact passage locators still Open. The QL coordination remains the essay's derivation sourced by [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|the core theorem spine]].
+The map from the plane is an infinite universal cover. The torus's orientable double cover of the Klein bottle is another construction. The sphere's contractible loops and the torus's non-contractible classes make different returns available; contractibility does not mean a sphere cannot support circulation. [Hatcher's quotient and lifting constructions](../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md#hatcher-2002-algebraic-topology-p002) give the relation between a loop and its lifted path. The QL coordination remains the essay's derivation sourced by [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|the core theorem spine]].
 
 ## #3
 

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "8d76fc8e8552bf704280dbfe3928fff7704aff4a743fa2d6576cbf152851db79"
+source_digest: "b3ac86f0e90a8ad5184b84b58fd8b357d54f7277f74e908a87d760e63562f2ba"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -158,7 +158,7 @@ Position #4. Entrance: [Conjugate Argument Field — A01′–A36′ and the A/C
 
 **Implicates:** *sources* → [Bratton — Antikythera Agentworld Brief (2026)](../../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q022) · *sources (declared)* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — QL Musical Derivation v3 (2026)](../../../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md), [Bratton — Antikythera Agentworld Brief (2026)](../../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) · *unnamed* → [Canonical Arguments A01–A36](../../../arguments/README.md), [A17 — Toroidal Circulation and the Arche-Topos](../../../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md), [A/C — Argument / Concept — Root of the Conjugate Field](../../../conjugate/AC.md), [A34′ — The Direction of Dependence](../../../conjugate/A34-prime-Direction-of-Dependence.md), [A14′ — Code as the Age's Logos](../../../conjugate/A14-prime-Code-as-the-Ages-Logos.md), [A29′ — Return or Extraction](../../../conjugate/A29-prime-Return-or-Extraction.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md)
 
-**Reached from:** *unnamed* ← [A17 — Toroidal Circulation and the Arche-Topos](../../../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md), [Canonical Arguments A01–A36](../../../arguments/README.md), [A14′ — Code as the Age's Logos](../../../conjugate/A14-prime-Code-as-the-Ages-Logos.md), [A18′ — The Traversal Run in Code](../../../conjugate/A18-prime-Traversal-Run-in-Code.md), [A32′ — The Mirror Is a Film](../../../conjugate/A32-prime-The-Mirror-Is-a-Film.md), [A34′ — The Direction of Dependence](../../../conjugate/A34-prime-Direction-of-Dependence.md), [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../../conjugate/README.md)
+**Reached from:** *unnamed* ← [A17 — Toroidal Circulation and the Arche-Topos](../../../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md), [Canonical Arguments A01–A36](../../../arguments/README.md), [C64 — Paradox / Transforming the Containing Field](../../../concepts/C64-Paradox-Transforming-the-Containing-Field.md), [A14′ — Code as the Age's Logos](../../../conjugate/A14-prime-Code-as-the-Ages-Logos.md), [A18′ — The Traversal Run in Code](../../../conjugate/A18-prime-Traversal-Run-in-Code.md), [A32′ — The Mirror Is a Film](../../../conjugate/A32-prime-The-Mirror-Is-a-Film.md), [A34′ — The Direction of Dependence](../../../conjugate/A34-prime-Direction-of-Dependence.md), [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../../conjugate/README.md)
 
 ### [A18′ — The Traversal Run in Code](../../../conjugate/A18-prime-Traversal-Run-in-Code.md)
 

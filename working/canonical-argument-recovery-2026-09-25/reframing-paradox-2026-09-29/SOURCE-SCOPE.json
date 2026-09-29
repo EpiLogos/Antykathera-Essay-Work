@@ -1,0 +1,356 @@
+{
+  "scope": "Source-first connected C52/C64 operation. Complete units are distinguished from entire books and whole-field acceptance.",
+  "sources": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "lines": 640,
+      "reading_scope": "Complete 640-line theorem, including all eight determinations and both Spanda readings.",
+      "office": "Direct native generating argument; not replaced by a source-house synopsis."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "lines": 6204,
+      "reading_scope": "Complete contribution unit 3874–4162; the prior return/dependence reading separately retains 2330–2430, 2817–3050, 5080–5125 and 5331–5353.",
+      "office": "Later inverse-orientation/arithmetic-asymmetry correction, changed means rather than content, historical zero return; no whole 6204-line reread claimed."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "sha256": "f5008b29016ffcc5a3786c1cdcb83c9e2a884e81ab3804b42859bdd45b8d9940",
+      "lines": 109,
+      "reading_scope": "Complete 109-line source; previously truncated 33–65 reread explicitly.",
+      "office": "Mathematical exactness and sourceward return; historical priority and dating claims remain separately warranted."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "lines": 124,
+      "reading_scope": "Complete 124-line source, including the final entitled-attractor and source-relation sections.",
+      "office": "Native x/X/x, transformed interpreter, atlas versus trajectory/attractor and objective internality."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "sha256": "ba7b16ed0a51c4c91957336ff784cecf98153805281d5d6848b1b0d2450bcc78",
+      "lines": 1,
+      "reading_scope": "Complete direct authorial note.",
+      "office": "Perspective becomes context/being-with and concern for the outcome; not a quotation from Gebser."
+    },
+    {
+      "path": "working/sources-texts-references/The Nothing That Is - Robert Kaplan.md",
+      "sha256": "546472aac210a3ff66a97675ce31101ced1e66b7acaba89dc69904a39b125107",
+      "lines": 24,
+      "reading_scope": "Complete 24-line authorial encounter.",
+      "office": "Original mathematical/historical motivations; its chronology and copied quotations are not promoted as verified external facts."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/PARADIGM-FRAME-RETURN-2026-09-15.md",
+      "sha256": "ff4f0661c1e2041eaa0f64c16034bc3f6ad743098889179be1af9bf116362876",
+      "lines": 103,
+      "reading_scope": "Complete 103-line authorial refinement.",
+      "office": "Paradigm as lived organisation of means; content change versus changed pattern; six products remain six."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "lines": 279,
+      "reading_scope": "115–172; 209–248; 253–279, read in the preceding return/dependence operation and reused with its recorded scope.",
+      "office": "Definitional limit, source/means/known relation and return; not a cover-to-cover manuscript reread."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd",
+      "lines": 309,
+      "reading_scope": "1–92 and 234–266: working trust thesis/F-block directions and crux §§7.1–7.3.",
+      "office": "Native relation and inverse orientations; later explicit corrections govern older overbroad formal or historical formulations."
+    },
+    {
+      "path": "working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "sha256": "0387d22a8f59d802261be6e56fce86a137d49d538b95f8b6e79a1beb3fe22b1a",
+      "lines": 3715,
+      "reading_scope": "Complete page-14 unit, lines 755–835, including §§2.4–2.6; preceding return/dependence operation separately read 1343–1492, 2290–2345 and 3452–3492.",
+      "office": "Source account of provisional/layered individuation and technical scenario context; no implementation observation is inferred."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+      "sha256": "3270ae376586063c0cd9f79a15489971059a555ce207039c767bd73c0d73cf08",
+      "lines": 104,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Retained selected formation/type passages; the displayed simple hierarchy and bounded-separation argument state their own rules."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+      "sha256": "9124b047f7678f0f8c16cc48f9cc6b919ce67a88d7d3ee2391ca2a1707e4fefc",
+      "lines": 108,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Retained Book I.1/I.3 finite comparison/polygon passages and theological Maximum; not a convergence prohibition."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "sha256": "7ade2bcede906a84bbf293214be97e6946fbb59e7d069efdaa14ad67c73fea80",
+      "lines": 57,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "External encounter and its scope; copied NOTES quotations remain leads."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "sha256": "2c0cb8fa3c11e920fb398eef9b9aba8d9f8ff3f9b8515f1587ef08a211922ab2",
+      "lines": 109,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Co-present structures and perspectival transparency at retained source scope; no mathematical proof of a cultural mutation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md",
+      "sha256": "819aa32849ccf65aab6097ef5cc15679c1be2314bcdb84ff29eb37bc8f5c7a72",
+      "lines": 104,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Selected extended-plane and cross-ratio passages; the constructions are worked explicitly in C52."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md",
+      "sha256": "26fbbd62be9c315d6bdc67aa826d89b69d8885055c247f6b2057043e9dfd19a7",
+      "lines": 98,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Antiderivatives differ by a constant on an interval; the interval condition is retained."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "sha256": "1b0eb5a0ebcaca98aa8a8c3f05fb432e01ccbdfb57f71ebbe570cf03a9963446",
+      "lines": 116,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Current four paraphrase cards, selected printed pp.5,34–35,60–61,74,77; preceding publication recorded PDF text/image verification. No quotation or original-print collation promotion."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "sha256": "9407e0a4ade65f9ae6bf1b93c441706165ba4b9ff66f6f4e98f9d0a2ac89c404",
+      "lines": 137,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Selected English Bhaskara mathematical expression and theological comparison retain their different offices."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "sha256": "1ac75b1dbc79ed2742b815f9af60209da9ff3067b48a7d304a7771b6102f5379",
+      "lines": 328,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Complete 328-line house and authorial encounter; no complete Kaplan book reading or new quotation certification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "sha256": "0504f7b4ecf666321a4a375557f28489e1cc2cec7b454f870cc2ddf016781aa4",
+      "lines": 92,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Complete existing house plus the two bounded new paraphrase-only cards; source hash is the intended postimage."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "sha256": "b1d366be3c3bee2ab28af13b4221b6ab88cad6a90ae84192e9ec92d722234b3b",
+      "lines": 67,
+      "reading_scope": "Complete source-house record; external book/article scope is stated separately.",
+      "office": "Source identity and actual local_copy both read; direct manuscript supplies the native synthesis."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+      "sha256": "4f9281b2f24321509458b7db508041ddef5fce66876f9f44266542436f429915",
+      "lines": 23,
+      "reading_scope": "Complete protected 22-line NOTES, including its long paragraphs.",
+      "office": "Authorial encounter only; unchanged, and not converted into external quotation verification."
+    }
+  ],
+  "consumers": [
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "170caf9d475247854eade69e2c3f99050c9e2a49cda235d8080dc801f8e40dd2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "9cb4c3a295fb43c044392188a55b3217ef6cb5e1bbd3d1efbce84c9743356119"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "d3f84d46076a055e61162fafca37f02a301fb5f5a98e2b2000e071f9868d5262"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "2e7df838835c39575091e2849435ae179f61d210b329e61c4b05c8a9b2993a84"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "c5190aaa4de6c71cad0e6350955d044954a9858e198285281c641beab8d153ad"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "ae422f329f48ca15c84cf4b0ee5411c5311d1e903e5886be756c8655990d1ef1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "02e27877d801605e53d4ea4aefc02f4fca8a507ba14ff01f5f98ec24558b6622"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "cc70541a8b5885d8fe63096abb984423382be70edc560d6d2e158fe0a0e9fd79"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "0b575a5bbf767de1cadbb40822c05f6addc022a39eac3498b74ec8ee39eabeb5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "d11bd477431b758df1a962f8c7744987e1314dc0f6f70089f991e61c1b64406e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/products/S-World-and-Life.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "942f7dbb09ce145915c9f3b6ab320920348ad393b12ef877151646872921f1e7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "293ad816fabf44dbf520a85f2b39ac1340d8614fdedc14062ecbbfc5563e1c27"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "ae1483dd932d9f9266c03daed15457d2c8a642a5897940f23c8bcb9c9ffaace9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "9600121cfe3a8b96e105953dae432d23208690092b761871fbf08269b2653e2c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "41b1975e654a025f282f445d65a960ada94a96619717e096175eca3077d31cd1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "4bbaa9c2e2f63fd53a046f187e0d51ec570e2f41729511c153d9cf3629bdf2fa"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "1ff3bbf9267e9245f04916f3d08dd2f6e443ded6e2e986edc7a9a868d8ebe5c7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "1525064c85512bf700b1b93206fd9b3679246cf1031386af0e9600863f3e2a8b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "783c5357f5bc985bb3a5b58b96ddc154e67b0e8d9c63b2ad4b75e78b76805199"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "69f6ba0eac569a2fe22db1cf2c816a09e72055badd35fe18f7f040e64580c2b5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "bb6cc8de1fbdc89eb89abd9b4d1c91d55fd55ec7fe6e1a507e164a2884a72997"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "36674d38fa438a2aad1aa40290d0ef0848cc193ec0fc16aaeeb2452b6fd36b6c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "5f133655a24a388a3273136f8d0115b4da7f0d44ce994671d3a464ecad57c1a1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "bbe11548caea4ee544214d759c35456de054f977da834f5c776afdc07973c4a6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "4e43e586708bff2dbf006a2f2064ee7cd2cf3eb2da2fd36c519f51a98193668f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "ed11d2f660a7e494a1a08d79a84c09b62d897fcfe5c0a01a6c9855f6a50a4065"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "reading_scope": "Complete current body; reused preceding-operation reading where that body was unchanged.",
+      "acceptance": "Only the relation consumed by this operation is reviewed; no blanket acceptance of inherited body, source debts or linked nodes.",
+      "sha256": "7470316b5f334d7a99948ab65eeed6ca7d78955b74ef33ba47ce9cac20ab38c7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "247325e470b4b5123c4c0d01be870fe02d989e1e99d90abea99bd2bde5ef58f7",
+      "reading_scope": "Complete current body; the ethical consumer relation reopened.",
+      "disposition": "The loving sensitivity/sourceward responsibility consumed by C64 is present. Other historical branches, provenance/AI-consciousness residue and source debts are preserved for their own complete recovery; no whole-file recertification."
+    }
+  ],
+  "external_acquisition": [
+    {
+      "url": "https://bhavana.org.in/mathematics-in-india-7/",
+      "work": "Amartya Kumar Dutta, Mathematics in India, Part 7 (July 2023)",
+      "consulted": "2026-09-29",
+      "scope": [
+        "Division by Zero: Undefined or Impossible?",
+        "Commutative Algebra: the Ring of Fractions"
+      ],
+      "method": "Web text of complete named sections, with surrounding article context; paraphrase only.",
+      "not_claimed": "No critical Sanskrit edition, full-article collation or inspection of reproduced textbook page images."
+    }
+  ],
+  "deferred": "All forty-eight movement bodies and sovereign manuscript.",
+  "graph_note": "C52/C64 effects calls returned zero consumers; exact incoming-link scans are retained and not conflated with completed semantic review."
+}

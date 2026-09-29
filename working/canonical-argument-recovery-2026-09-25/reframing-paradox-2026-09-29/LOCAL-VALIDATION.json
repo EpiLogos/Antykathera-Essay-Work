@@ -1,0 +1,57 @@
+{
+  "source_base": "af830b982a35fdd7e05ccc0dda5c187460906169",
+  "local_current_main_receipt_only": "b48ed6975b858557d235dd1fac816c4fa64d22fe",
+  "authored_records": 6,
+  "complete_concepts": 2,
+  "bounded_supports": 4,
+  "movement_or_manuscript_changes": 0,
+  "strict": {
+    "files": 5,
+    "errors": 0,
+    "review_candidates": 83
+  },
+  "links": 169,
+  "generated_changes": 67,
+  "frozen_tracked_files": 4144,
+  "frozen_manifest_sha256": "32d147678a295181286844e631eaf11d2ab0123c37109c662f59085418645bdd",
+  "full_suite": {
+    "tests": 132,
+    "passed": 130,
+    "failures": 1,
+    "skipped": 1,
+    "failure": "inherited canonical quality-coverage",
+    "skip": "AIKit runtime unavailable"
+  },
+  "authored_postimages": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "before": "7fac0ee0b9c5309381a4ad4f84a2cdaa3951e2ff",
+      "after": "823e515703437ebbaf387d71b25bf281bdf1cefb"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "before": "372e1408a7240a4c34edc4f4adb8b2fa9f9e562c",
+      "after": "836d6d109f9c96a9b2db76e0cd86cc23c7f389b6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "before": "c6b51bdc43f3697c4a216e2edc4fa67f7bc69e2f",
+      "after": "6c06188cc2a79ce1b2c53c34f6fce908778605db"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "before": "ad2ba05a666ce467c92c045472de373f8564f661",
+      "after": "aa2c355e959d01c98c83069df597fdc26a6fed36"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "before": "32a86aa60a06113423ffac87fbe6a7f1f6b392f1",
+      "after": "80b26d4228a2098e4ead63e613a1479e1d0ede6a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "before": "a2121412e681c84bd4978916feab0235c36dee0d",
+      "after": "ce99697a837c84f0bc634f2254a1a41dd63a96cc"
+    }
+  ]
+}

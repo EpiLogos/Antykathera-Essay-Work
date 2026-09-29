@@ -1,0 +1,42 @@
+{
+  "root": {
+    "id": "C64-Paradox-Transforming-the-Containing-Field",
+    "title": "C64 — Paradox / Transforming the Containing Field",
+    "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "artifact_type": "concept",
+    "authority": "canonical-argument",
+    "headings": [
+      "C64 — Paradox / Transforming the Containing Field",
+      "#0",
+      "#1",
+      "#2",
+      "#3",
+      "#4",
+      "#5→0"
+    ],
+    "sha256": "e8abebfb3f67df14246d10c89c7de0872e10e483882fc211b99f0a37d94a7ad8",
+    "record_id": "C64",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}
