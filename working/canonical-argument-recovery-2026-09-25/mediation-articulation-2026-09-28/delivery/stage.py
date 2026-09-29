@@ -24,8 +24,15 @@ def api(endpoint, value=None):
         method='GET' if value is None else 'POST',
         headers={'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
                  'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json'})
-    with urllib.request.urlopen(req, timeout=90) as response:
-        return json.load(response)
+    import time, urllib.error
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=90) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as exc:
+            if exc.code not in (500, 502, 503, 504) or attempt == 3:
+                raise
+            time.sleep((2, 8, 20)[attempt])
 
 def run(args, name, required=True):
     with (OUT/name).open('w') as stream:
@@ -114,6 +121,7 @@ for name,data in originals.items():
     target = safe(target_name)
     assert not target.exists()
     target.parent.mkdir(parents=True,exist_ok=True)
+    target.parent.mkdir(parents=True,exist_ok=True)
     target.write_bytes(gzip.compress(data,mtime=0))
     seen.add(target_name)
 
@@ -186,9 +194,14 @@ for name in ('full-suite.txt','links.json','detector-tests.txt','diff-check.txt'
     target.parent.mkdir(parents=True,exist_ok=True)
     target.write_bytes((OUT/name).read_bytes())
     paths.append(destination)
+(OUT/'INTEGRATION-VALIDATION.json').write_text(json.dumps(receipt,ensure_ascii=False,indent=2)+'\n')
+(OUT/'validated-paths.json').write_text(json.dumps(
+    [{'path':name,'mode':'100644','type':'blob','sha':blob((ROOT/name).read_bytes())} for name in paths],
+    ensure_ascii=False,indent=2)+'\n')
 def upload(name):
     data = (ROOT/name).read_bytes()
     expected = blob(data)
+    print('UPLOAD',name,len(data),expected,flush=True)
     result = api('git/blobs',{'encoding':'base64','content':base64.b64encode(data).decode()})
     assert result['sha'] == expected
     return {'path':name,'mode':'100644','type':'blob','sha':expected}
