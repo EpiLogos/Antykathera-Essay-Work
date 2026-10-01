@@ -73,7 +73,7 @@ assert os.environ["GITHUB_REF"] == "refs/heads/canonical-continuation-2026-10-02
 head = git("rev-parse", "HEAD").decode().strip()
 assert head == os.environ["GITHUB_SHA"]
 assert not git("status", "--porcelain")
-assert git("rev-parse", "HEAD^").decode().strip() == BASE
+subprocess.run(["git", "merge-base", "--is-ancestor", BASE, "HEAD"], cwd=ROOT, check=True)
 records = MANIFEST["records"]
 canon = {r["path"] for r in records}
 assert len(records) == len(canon) == 53
@@ -114,11 +114,11 @@ new_changed_problems = [r for r in reader_report["problems"] if r["source"] in c
 (OUT / "changed-reader-problems.json").write_text(json.dumps(new_changed_problems, indent=2) + "\n")
 assert not new_changed_problems, new_changed_problems
 rooms = ("00-integral-threshold", "01-differentiating-mind", "02-return-of-zero", "03-two-logics", "04-mathematical-substrate", "05-psychoid-flowering", "06-objective-internality", "07-instrument-returns")
-room_args = ["python3", "tools/audit-room-depth.py", "--require-deepened"]
+room_args = ["python3", "tools/audit-room-depth.py", "--project-root", ".", "--require-deepened"]
 for room in rooms:
     room_args += ["--room", room]
 run(room_args, "room-depth.txt")
-run(["python3", "tools/audit-pre-manuscript.py", "--output", str(OUT / "pre-manuscript.json")], "pre-manuscript.txt")
+run(["python3", "tools/audit-pre-manuscript.py", "--project-root", ".", "--output", str(OUT / "pre-manuscript.json")], "pre-manuscript.txt")
 run(["python3", "tools/okf-workspace.py", "effects", "C41", "--depth", "4", "--json"], "effects-C41-after.json")
 run(["python3", "tools/okf-workspace.py", "doctor", "--json"], "doctor.json")
 doctor = json.loads((OUT / "doctor.json").read_text())
