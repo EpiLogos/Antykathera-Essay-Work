@@ -1,0 +1,14 @@
+"""Run the existing native recovery validator with an exact ten-record payload.
+Only batch configuration and its exact path/count assertions change. Tests, builders,
+protection checks, non-forced publication boundary and full-suite conditions remain.
+"""
+from pathlib import Path
+import hashlib
+original = Path('working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/delivery/stage.py')
+source = original.read_text()
+assert hashlib.sha256(source.encode()).hexdigest() == '9026275a83a464523822922874a8f3582de953fde1f544b3baff0aa0958f9aaa' , "retained validator changed; review before execution"
+replacements = [('working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/', 'working/canonical-argument-recovery-2026-09-25/operative-field-2026-10-01/'), ('reframing-paradox-publication', 'operative-field-publication'), ('bb8ccc4c9c8d13a86d9003f0a51596f0bf8ad406b25bc1f6ca7f73aea2f88101', '43d0ccc5bd6bd697cfc6aec62d754861f133c45c90fe2269ca0e82c635a8afe0'), ('assert len(parts) == 7', 'assert len(parts) == 4'), ('assert len(canon) == 6', "assert len(canon) == 10\nassert canon == {'submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md', 'submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md', 'submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md', 'submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md', 'submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md', 'submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md', 'submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md', 'submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md', 'submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md', 'submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md'}"), ('assert sum("/concepts/" in name for name in canon) == 2', 'assert sum("/concepts/" in name for name in canon) == 6'), ('assert sum("/sources/" in name for name in canon) == 1', 'assert sum("/sources/" in name for name in canon) == 0'), ('assert sum("/histories/" in name for name in canon) == 1', 'assert sum("/conjugate/" in name for name in canon) == 2'), ('for identity in ("C52", "C64", "A21"):', 'for identity in ("A14", "A14p", "C38", "C39", "C42", "C43", "C45", "C46"):'), ('assert strict["files"] == 5', 'assert strict["files"] == 10'), ('"authored_records": 6', '"authored_records": 10'), ('"complete_operation_bodies": 2', '"complete_operation_bodies": 6'), ('Two complete concepts and four bounded repairs', 'Six complete local operations and four bounded repairs')]
+for old, new in replacements:
+    assert old in source, old
+    source = source.replace(old, new)
+exec(compile(source, str(original), "exec"))

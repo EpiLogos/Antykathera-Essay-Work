@@ -1,12 +1,15 @@
 name: Validate retained foundational recovery for publication
+
 on:
   push:
     branches: [main]
     paths:
       - '.github/workflows/formation-recovery-publication.yml'
-      - 'working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/delivery/stage.py'
+      - 'working/canonical-argument-recovery-2026-09-25/operative-field-2026-10-01/delivery/stage.py'
+
 permissions:
   contents: write
+
 jobs:
   stage:
     if: github.repository == 'EpiLogos/Antykathera-Essay-Work' && github.ref == 'refs/heads/main'
@@ -23,11 +26,11 @@ jobs:
       - name: Apply exact retained data, verify, and create candidate tree without publishing refs
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/delivery/stage.py
+        run: python3 working/canonical-argument-recovery-2026-09-25/operative-field-2026-10-01/delivery/stage.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: reframing-paradox-publication-${{ github.sha }}
-          path: ${{ runner.temp }}/reframing-paradox-publication/
+          name: operative-field-publication-${{ github.sha }}
+          path: ${{ runner.temp }}/operative-field-publication/
           retention-days: 7
           if-no-files-found: error
