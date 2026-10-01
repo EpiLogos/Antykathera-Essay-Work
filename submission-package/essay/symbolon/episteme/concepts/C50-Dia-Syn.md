@@ -7,12 +7,16 @@ source_relation: "Extracted native Dia/Syn derivation; Argued cross-register dev
 related_proposals:
   - working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md
 proposal_standing: "The separate sym-ballein / eros-of-logos identity remains a pending authorial candidacy."
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - taylor-2026-mono-poly-two-ones
+  - taylor-2026-symbolon-dynamics
 ---
 # C50 — Dia / Syn
 
 ## #0 — Cutting and gathering act upon one field
 
-Dia and Syn are conjugate operations of differentiation and relational return. Dia cuts, contrasts, excludes, orients and selects. Syn composes the differentiated terms while retaining the relation through which they arose and can return. Both work upon the prior [One / All relation](C49-The-Two-Ones-0-One-1-All.md).
+Dia and Syn are conjugate operations of differentiation and relational return. Dia cuts, contrasts, excludes, orients and selects. Syn composes the differentiated terms while retaining the relation through which they arose and can return. Both work upon the prior [One / All relation](C49-The-Two-Ones-0-One-1-All.md). The [native theorem field](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) begins with `/ = −/−`: the relating activity precedes the assignment of signs through which the terms will become opposed.
 
 A distinction is necessary for an answer, measure or decision to become exact. Gathering is necessary for the distinction to retain its meaning within the field it differentiates. Either operation can fail: a cut can discard its relation; a gathering can erase difference or subordinate it to one local measure. The question is what happens to the relating activity when its terms become determinate.
 
@@ -56,7 +60,7 @@ The second expression holds the two orientations together. Their sameness retain
 
 Syn is this **sym-ballein**, the throwing-together which retains the terms, their inverse readings and the relation of their determination. The broken token must keep both halves and their fracture for fitting to disclose belonging. Fusion destroys the difference through which fitting could occur; severance discards the relation that makes the parts counterparts.
 
-The distinction and its self-relation can then be counted. Retain the original two and the four ways those two relate to themselves:
+The distinction and its self-relation can then be counted. The original singles are `0,1`; their ordered doubles are `00,01,10,11`. Retaining the two singles together with all four doubles gives:
 
 $$
 2+2^2=4+2=6.
@@ -76,7 +80,7 @@ The [language history](../histories/traditions-and-disciplines/language-symbol-d
 
 Suppose an inquiry encounters evidence which contradicts its governing assumption. Dia first makes the break exact: the evidence and the expected result have to remain distinguishable. An apparent settlement can erase their opposition; an appropriating account can redescribe the counterexample as confirmation of its own measure. Relational return instead holds the break long enough for it to reach the source, question, evaluator, permission or commission which produced the first judgment.
 
-The retained `/0` gives the achieved `1` its inverse reading, `1/0`. The account meets its condition and can return as a changed `0/1`. [Computational Vimarśa](C43-Computational-Vimarsa.md) tests the consequence at the level of processing: which condition changed, and what later act inherited that change?
+The [break–retention–recognition operation](../../../../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md) gives this return its exact order. The materialist `1` receives the manifest determination as the whole of reality. It meets the returning `/0` first as its own division, `1/0`: the claim breaks upon the condition it could not count as another item. Carrying the break keeps the `/0` beneath the one instead of resolving it into annihilation `0` or appropriation `±2`. That retained ground under the one is the `0/1` recognition; `(0/1)/(1/0)` holds both orientations together. The determining act recognises the condition through which its achieved determination had been possible. [Computational Vimarśa](C43-Computational-Vimarsa.md) tests the consequence at the level of processing: which condition changed, and what later act inherited that change?
 
 The six products give the return different places to act. [Actuation](../products/S1-Actuation.md) carries the encountered break as event and judgment. [Central](../products/S0-Central.md) holds the source or commission; [AIKit](../products/S2-AIKit.md), the available capabilities and context; [Factory](../products/S3-Software-Factory.md), the developing form; [Workcell](../products/S4-Workcell.md), material resistance and consequence; and [Quaternal Logic](../products/S5-Quaternal-Logic.md), the relation among the relevant frames. The return is consequential where the difference reaches the operation actually governing what follows.
 

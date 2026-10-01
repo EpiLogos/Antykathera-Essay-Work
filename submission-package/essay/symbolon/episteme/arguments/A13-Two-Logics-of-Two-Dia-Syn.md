@@ -8,6 +8,9 @@ record_type: argument
 register: episteme
 claim_status: Derived
 source_relation: "Extracted internal derivation; Argued cross-register development"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - taylor-2026-symbolon-dynamics
 ---
 
 # A13 — Two Logics of Two — Dia / Syn
@@ -54,7 +57,11 @@ QL reads these ordinary arithmetic differences as three distinct relational cons
 
 ## #2
 
-Sym-ballein retains what the cut discloses and lets the determination read back through its own condition. The inner slash works as AND/OR: conjunction retains both terms, disjunction preserves their difference. `0/1` reads the One through its appearing All; `1/0` reads the appearing All toward the One which it cannot contain. Their identity is the relation's identity across its obverse orientations:
+The return first meets the determination at the point where it claims to be sufficient. The materialist one takes the manifest mark as the whole of reality. What returns is the condition the mark excluded from its account, and it enters first as a break in the mark's own reckoning. The achieved one turns toward that ground as its own division: `1/0`. Ordinary arithmetic gives this quotient no value. The native operation keeps that inability exact: the determination cannot count the condition of its determining as another determination.
+
+Carrying the break changes what zero does. Cancellation would settle the opposed terms in a terminal zero; appropriation would give their whole span to one pole as `±2`. Here the uncomputed `/0` remains beneath the one. The achieved determination continues to stand, but its ground remains active in how it can be understood and used. That retention is the recognition written `0/1`: the mark is received through the condition it had treated as absent. The return has entered as break before it can be recognised as relation.
+
+Sym-ballein holds those two orientations together. The inner slash works as AND/OR: conjunction retains both terms, disjunction preserves their difference. `0/1` reads the One through its appearing All; `1/0` reads the appearing All toward the One which it cannot contain. Their identity is the relation's identity across its obverse orientations:
 
 $$
 0/1 = 1/0,\qquad (0/1)/(1/0).

@@ -1,5 +1,5 @@
 {
-  "source_digest": "67b1bf64c59b8ab219f5e081a313a381619fc8953dbe9b943105065bdda69b0d",
+  "source_digest": "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -29,20 +29,20 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5611,
-    "sources": 1228,
-    "sources (declared)": 895,
-    "returns-to": 604,
-    "grounds": 373,
+    "unnamed": 5656,
+    "sources": 1250,
+    "sources (declared)": 931,
+    "returns-to": 598,
+    "grounds": 370,
     "consumed-by (declared)": 293,
-    "extends": 286,
+    "extends": 285,
     "qualifies": 244,
-    "defines": 204,
+    "defines": 202,
     "figures": 182,
     "historicises": 157,
     "compares": 148,
     "returns-to (declared)": 125,
-    "tests": 88,
+    "tests": 86,
     "derives": 28,
     "embodies": 15,
     "sources (declared passage)": 12,
@@ -124,8 +124,8 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1033,
-      "named": 507,
+      "links": 1034,
+      "named": 508,
       "unnamed": 526,
       "orphans": 0,
       "no_return": 0,
@@ -142,18 +142,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1284,
-      "named": 449,
-      "unnamed": 835,
+      "links": 1342,
+      "named": 468,
+      "unnamed": 874,
       "orphans": 36,
-      "no_return": 71,
+      "no_return": 67,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 569,
-      "named": 159,
-      "unnamed": 410,
+      "links": 562,
+      "named": 147,
+      "unnamed": 415,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -223,9 +223,9 @@
     },
     "episteme-products": {
       "pages": 8,
-      "links": 77,
+      "links": 78,
       "named": 14,
-      "unnamed": 63,
+      "unnamed": 64,
       "orphans": 1,
       "no_return": 2,
       "unreachable": 1
@@ -306,18 +306,14 @@
     "submission-package/essay/symbolon/episteme/atlas/README.md",
     "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
     "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
-    "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
     "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
     "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
     "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
     "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
-    "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
     "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
     "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
     "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
-    "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
-    "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/9-8-whole-tone.md",
@@ -585,11 +581,11 @@
       }
     },
     "working/final-argument-quilt-2026-08-23": {
-      "count": 34,
+      "count": 35,
       "targets": {
         "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md": 12,
+        "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md": 5,
         "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md": 5,
-        "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md": 4,
         "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md": 4,
         "working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 2,
         "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md": 2,
@@ -602,6 +598,14 @@
       "targets": {
         "submission-package/essay/symbolon/episteme/maps/navigation/MOC.md": 6,
         "submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md": 2
+      }
+    },
+    "working/pre-manuscript-refinement-2026-09-10": {
+      "count": 6,
+      "targets": {
+        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 3,
+        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2,
+        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 1
       }
     },
     "working/p2-enrichment": {
@@ -621,26 +625,17 @@
         "submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md": 2
       }
     },
-    "working/canonical-argument-recovery-2026-09-25": {
-      "count": 4,
-      "targets": {
-        "working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md": 2,
-        "working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md": 1,
-        "working/canonical-argument-recovery-2026-09-25/AC-DISPLACED-GOVERNANCE-AND-SOURCE-DEBTS.md": 1
-      }
-    },
-    "working/pre-manuscript-refinement-2026-09-10": {
-      "count": 4,
-      "targets": {
-        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2,
-        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 1,
-        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 1
-      }
-    },
     ".wayfinder/maps": {
       "count": 3,
       "targets": {
         ".wayfinder/maps/t20-t21-world-registers.md": 3
+      }
+    },
+    "working/canonical-argument-recovery-2026-09-25": {
+      "count": 3,
+      "targets": {
+        "working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md": 2,
+        "working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md": 1
       }
     },
     "working/conjugate-field": {
@@ -648,6 +643,12 @@
       "targets": {
         "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 1,
         "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md": 1
+      }
+    },
+    "docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md": {
+      "count": 1,
+      "targets": {
+        "docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md": 1
       }
     },
     "working/harmonisation-2026-08-18-objective-internality-capstone": {

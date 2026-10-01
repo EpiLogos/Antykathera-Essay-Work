@@ -1,5 +1,6 @@
 ---
 title: "Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return"
+record_id: etymology-genesis-paradigm-project-epilogos
 record_type: etymology-whole-field
 register: episteme
 claim_status: Argued

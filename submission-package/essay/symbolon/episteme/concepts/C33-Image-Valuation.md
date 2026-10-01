@@ -3,6 +3,9 @@ record_id: C33
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from Symbolon Dynamics and Jungian image encounters; exact Jung and Van Eenwyk attribution remains separate"
+source_ids:
+  - taylor-2026-symbolon-dynamics
+  - van-eenwyk-1997-archetypes-strange-attractors
 ---
 # C33 — Image / Valuation
 
@@ -12,7 +15,7 @@ Image / Valuation names the relation by which a formed appearance acquires signi
 
 ## #1
 
-An archetypal image is a concrete appearance; archetype-as-such is the ordering capacity no appearance exhausts. A complex organises associations and feeling-tones; a symbol transforms their relation. [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>) preserves these different offices. A recurrent image can disclose a pattern without becoming the pattern's final form.
+An archetypal image is a concrete appearance; archetype-as-such is the ordering capacity no appearance exhausts. A complex organises associations and feeling-tones; a symbol transforms their relation. [Symbolon Dynamics](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) preserves these different offices. A recurrent image can disclose a pattern without becoming the pattern's final form.
 
 ## #2
 
@@ -24,11 +27,11 @@ Possession is an office change. The image stops answering to encounter and requi
 
 ## #4
 
-A living symbol changes the interpreter as well as the interpreted object; the changed interpreter changes what the image can do on its next return. Frank's protected encounter with Van Eenwyk pp.69–73 follows known→unknown→known and distinguishes a deliberately made vehicle from symbolic efficacy. Assigning a mythic name to a model does not produce that efficacy. The test is an actual transformation of attention, interpretation and relation, including the capacity for the source to revise the image's authority.
+A living symbol changes the interpreter as well as the interpreted object; the changed interpreter changes what the image can do on its next return. Taylor's [protected Van Eenwyk encounter](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) at pp.69–73 follows known→unknown→known. The first known gives an image its familiar authority; the unknown unsettles the categories through which it was received; the returning known is articulated through a changed capacity to receive. A deliberately made vehicle acquires symbolic efficacy through this transformation of its relation to the recipient. Assigning a mythic name to a model does not produce that efficacy. The test is an actual transformation of attention, interpretation and relation, including the capacity for the source to revise the image's authority.
 
 ## #5→0
 
 
 Differential sign-value can make an image effective without establishing the transformation of its interpreter. The [Baudrillard lens](../lenses/baudrillard.md) returns this distinction to living valuation: what changed in attention and action, and what continuing encounter can revise the image’s assigned significance?
 
-The returned image remains usable while its valuation becomes answerable to what it discloses. C21 distinguishes living symbol from idol; C38 distinguishes original/reference office from situated reflection; C47 asks whether the encounter can change the governing model. Valuation is preserved as the power by which a world matters, with a route through which that power can be reoriented.
+The returned image remains usable while its valuation becomes answerable to what it discloses. [Living symbol and idol](C21-Living-Symbol-Idol.md) differ through that return; [Bimba–Pratibimba](C38-Bimba-Pratibimba-Bimba-Map.md) distinguishes original/reference office from situated reflection; [the model-revising encounter](C47-Deferential-Intelligence.md) reaches the governing interpretation. Valuation is preserved as the power by which a world matters, with a route through which that power can be reoriented.

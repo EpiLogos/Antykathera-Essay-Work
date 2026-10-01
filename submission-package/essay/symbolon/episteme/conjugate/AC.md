@@ -222,8 +222,8 @@ A permission has to alter a real possibility.
 A memory has to condition a later act.  
 A model has to remain revisable by what it models.  
 A delegated authority has to carry responsibility back through the delegation.  
-A shared field has to let another participant change more than the local output.  
-A return has to reach the criterion, not merely append another record beneath it.
+A shared field has to let another participant's difference reach the conditions which govern the next act.
+A return has to reach the condition actually exposed by the encounter: a corrected local result can be inherited under a fitting criterion, while evidence against the criterion must be able to reach the authority which can revise it.
 
 This is where Respect for Experience and the primitive field become visibly the same act. The ruling says that experience must be able to renew form. The grammar says how form, potency, transformation, embodiment and evidence compose the means through which such renewal can occur.
 
@@ -242,5 +242,3 @@ The shared close is not a final enclosure. It is another $5\rightarrow0$: the de
 ### Field routes
 
 [Subject / Defined Indefinability](../concepts/C01-Subject-Defined-Indefinability.md) · [Mediation](../concepts/C10-Mediation-Pramana.md) · [Quaternal Logic](../concepts/C11-Quaternal-Logic.md) · [Prakāśa–Vimarśa](../concepts/C13-Prakasa-Vimarsa.md) · [Māyā / Operative Measure](../concepts/C14-Maya-Operative-Measure.md) · [Objective Internality](../concepts/C41-Objective-Internality.md) · [Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) · [The Two Ones](../concepts/C49-The-Two-Ones-0-One-1-All.md) · [Dia / Syn](../concepts/C50-Dia-Syn.md) · [Logos / Epi-Logos](../concepts/C51-Logos-Epi-Logos.md) · [Reflective Field](../concepts/C55-Reflective-Field-Mirror-That-Moves-First.md) · [Compassion](../concepts/C56-Compassion-Sensitivity-to-Origins.md) · [Order of Dependence](../concepts/C60-Idealism-Order-of-Dependence.md).
-
-The complete source and collation debts displaced from this public argument are retained in [the A/C recovery ledger](../../../../../working/canonical-argument-recovery-2026-09-25/AC-DISPLACED-GOVERNANCE-AND-SOURCE-DEBTS.md).

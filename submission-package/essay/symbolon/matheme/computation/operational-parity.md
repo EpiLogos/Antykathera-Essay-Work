@@ -26,7 +26,7 @@ The input is a proposed mechanism, task family, baseline and intervention. The o
 | E5 QL recursion | Let an achieved field serve as a scoped local reference | Flat context with equal information | Scope and return survive nested frames |
 | E6 Deferential return | Introduce resistant evidence or affected dissent | Candidate revision inside a fixed evaluator | Justified revision of map, lens, gauge or frame when required |
 
-These are proposed experimental designs. This page does not report that an O:I product has passed them.
+The programme proposes these six interventions. Their execution and outcomes remain to be recorded.
 
 ## #2 — Work a gauge experiment
 
@@ -44,7 +44,7 @@ Metrics can include successful source correction, unauthorised-action rate, scop
 
 Match or account for model, token budget, tool access, memory, retrieval and evaluator exposure. Additional information or compute can explain an improvement without establishing the proposed mechanism. Repeated trials and held-out cases should be chosen to test the actual pressure rather than mirror the implementation.
 
-The programme's minimal/maximal envelope is not an intelligence ladder. The six O:I centres retain their distinct authored roles; a result in one does not demonstrate all the others. A [J-space](j-space.md), [energy model](ebm-resonance.md) or richer log can still fail to improve conduct. None of these measurements establishes phenomenal subjectivity by itself.
+The six O:I centres retain their distinct authored roles; a result in one does not demonstrate all the others. A [J-space](j-space.md), [energy model](ebm-resonance.md) or richer log can still fail to improve conduct. A successful comparison must identify the operation changed and account for competing explanations of that change. Its result licenses that tested correspondence under the stated conditions; untested mappings remain available for another inquiry.
 
 ## #5→0 — Return the result into the proposal
 

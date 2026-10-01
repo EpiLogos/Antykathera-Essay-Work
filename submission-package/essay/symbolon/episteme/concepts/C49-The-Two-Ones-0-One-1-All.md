@@ -3,20 +3,24 @@ record_id: C49
 register: "episteme"
 claim_status: "Derived"
 source_relation: "Extracted native Two-Ones derivation; formal number constructions and non-dual traditions remain independent neighbours"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - taylor-2026-mono-poly-two-ones
+  - taylor-2026-revision-notes-trust
 ---
 # C49 — The Two Ones — 0 = One, 1 = All
 
 ## #0
 
-The Two Ones discriminate source-unity and manifest-unity within one relation. The primordial `/ = −/−` precedes assignment of the terms; the terms become legible through that relation rather than arriving as two independent things. A11 carries the full Argument; C49 makes its exact offices reusable.
+The Two Ones discriminate source-unity and manifest-unity within one relation. The primordial `/ = −/−` precedes assignment of the terms; the terms become legible through that relation rather than arriving as two independent things. The [core theorem field](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) derives their offices from the relating activity itself.
 
 ## #1
 
-`0 = One = Self-Identity`; `1 = All = Self-Difference`. One is not another counted object. All includes the whole manifest and determinable field and each indefinite particular through which it appears. The first mark opens further marks, names, beings and worlds; All is not an inventory assembled from isolated units.
+The [Mono-Poly development](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) gives `0 = One = Self-Identity`; `1 = All = Self-Difference`. One is not another counted object. All includes the whole manifest and determinable field and each indefinite particular through which it appears. The first mark opens further marks, names, beings and worlds; All is not an inventory assembled from isolated units.
 
 ## #2
 
-Dependency is reciprocal in different respects. The All depends on the One for being and determining reality; the One is manifest, articulated and knowable through the All. This is not temporal succession or symmetrical causal production. Q27's ratified correction locates trust in this slash from the beginning; C48 develops finite reliance within the same relation.
+Dependency is reciprocal in different respects. The All depends on the One for being and determining reality; the One is manifest, articulated and knowable through the All. This is not temporal succession or symmetrical causal production. The [trust revision](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) locates reliance in this slash from the beginning. [Trust under formal limit](C48-Trust-Faith-under-Formal-Limit.md) develops how finite knowing, acting and risking inhabit that prior dependence.
 
 ## #3
 
@@ -37,4 +41,4 @@ The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/moth
 
 The written 0/1 becomes a local determination within the field in which it appears. Taylor's paper scene returns the manifest All to the uncounted One without abolishing the mark's exact office. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
 
-The local one remains real while returning to conditions it cannot own. A12 develops Mono/Poly from these prior offices; A13 develops the two logics of their differentiation; A18 carries the complete transverse field. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.
+The local one remains real while returning to conditions it cannot own. [Mono / Poly](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) develops these prior offices; [Dia / Syn](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) makes their differentiation operative; [Primordial Symbolon](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) carries the complete transverse field. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.

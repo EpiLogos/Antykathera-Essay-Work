@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "67b1bf64c59b8ab219f5e081a313a381619fc8953dbe9b943105065bdda69b0d"
+source_digest: "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -45,10 +45,10 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Matheme — exact operations | 94 | 844 | 389 | 455 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 763 | 448 | 315 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1033 | 507 | 526 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 569 | 159 | 410 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1284 | 449 | 835 | 36 | 71 | 47 |
-| Episteme · Product field S / S0–S5 | 8 | 77 | 14 | 63 | 1 | 2 | 1 |
+| Episteme · Arguments A01–A36 | 37 | 1034 | 508 | 526 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 562 | 147 | 415 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1342 | 468 | 874 | 36 | 67 | 47 |
+| Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1071 | 167 | 904 | 0 | 80 | 0 |
@@ -79,14 +79,15 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | `working/sources-texts-references` | 129 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (16); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
 | `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
 | `working/antykathera-resources` | 48 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (48) |
-| `working/final-argument-quilt-2026-08-23` | 34 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` (5); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (4) |
+| `working/final-argument-quilt-2026-08-23` | 35 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (5); `working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` (5) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
+| `working/pre-manuscript-refinement-2026-09-10` | 6 | `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (3); `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
 | `working/p2-enrichment` | 5 | `working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md` (1); `working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md` (1); `working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md` (1) |
 | `submission-package/epi-logos` | 4 | `submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md` (2); `submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md` (2) |
-| `working/canonical-argument-recovery-2026-09-25` | 4 | `working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md` (2); `working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md` (1); `working/canonical-argument-recovery-2026-09-25/AC-DISPLACED-GOVERNANCE-AND-SOURCE-DEBTS.md` (1) |
-| `working/pre-manuscript-refinement-2026-09-10` | 4 | `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (1); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
 | `.wayfinder/maps` | 3 | `.wayfinder/maps/t20-t21-world-registers.md` (3) |
+| `working/canonical-argument-recovery-2026-09-25` | 3 | `working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md` (2); `working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md` (1) |
 | `working/conjugate-field` | 2 | `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (1); `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (1) |
+| `docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md` | 1 | `docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md` (1) |
 | `working/harmonisation-2026-08-18-objective-internality-capstone` | 1 | `working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md` (1) |
 
 ## Unresolved targets
@@ -148,18 +149,14 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Episteme atlas — historical routes through Etymology](../../atlas/README.md)
 - [C24 — Fusion](../../concepts/C24-Fusion.md)
 - [C25 — Counterfeit Gathering](../../concepts/C25-Counterfeit-Gathering.md)
-- [C26 — Monoisation / Counter-Generation](../../concepts/C26-Monoisation-Counter-Generation.md)
 - [C27 — Protected Account / Occupied Zero / Source-Claim](../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md)
 - [C28 — Covenant / Primary Arbitration](../../concepts/C28-Covenant-Primary-Arbitration.md)
 - [C33 — Image / Valuation](../../concepts/C33-Image-Valuation.md)
 - [C34 — Individuation](../../concepts/C34-Individuation.md)
-- [C36 — Complexio Oppositorum](../../concepts/C36-Complexio-Oppositorum.md)
 - [C37 — World-Picture → World-Atlas](../../concepts/C37-World-Picture-to-World-Atlas.md)
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
 - [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
-- [C48 — Trust / Faith under Formal Limit](../../concepts/C48-Trust-Faith-under-Formal-Limit.md)
-- [C49 — The Two Ones — 0 = One, 1 = All](../../concepts/C49-The-Two-Ones-0-One-1-All.md)
 - [0-1 Matheme](../../concepts/reference-notes/0-1-matheme.md)
 - [36 Tattvas](../../concepts/reference-notes/36-tattvas.md)
 - [9-8 Whole Tone](../../concepts/reference-notes/9-8-whole-tone.md)

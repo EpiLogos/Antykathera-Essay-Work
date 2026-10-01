@@ -3,6 +3,11 @@ record_id: C25
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native relational grammar; Paraphrased Heidegger and Homer witnesses with source-specific bounds"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - heidegger-1977-question-concerning-technology
+  - homer-1919-odyssey-murray
+  - ostrom-2009-beyond-markets-states-nobel-lecture
 ---
 # C25 — Counterfeit Gathering
 
@@ -12,7 +17,7 @@ Counterfeit Gathering produces an apparent whole by arranging differences under 
 
 ## #1
 
-The older carrier recovers the precise opening in Heidegger: *Ge-stell* is named through *Ge-* as gathering, with *Gebirg* and *Gemüt*, then defined as gathering people into the ordering of beings as standing-reserve. Taylor's Argued reading names the resulting counterfeit: the outward shape of throwing-together operates through arrest and orderability. Heidegger supplies the gathering/ordering relation; the two-logics name and constructive return belong to the essay.
+Heidegger's [gathering prefix](../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md#heidegger-1977-question-concerning-technology-q008) gives *Ge-stell* its relation to *Gebirg* and *Gemüt*. [Enframing](../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md#heidegger-1977-question-concerning-technology-q009) gathers people into ordering beings as standing-reserve. The gathered field is productive and articulate: beings become available under its demand. Taylor's counterfeit names the arrest within that productivity, where the terms can enter only as orderable and cannot return upon the relation which assigned them that office. The essay carries this gathering/ordering diagnosis into its own [Dia / Syn](C50-Dia-Syn.md) operation.
 
 ## #2
 
@@ -20,17 +25,17 @@ The missing operation is return. Ordering establishes a totality-condition throu
 
 ## #3
 
-The Homeric carrier makes this visible as a complete sequence: Helios detects, Hephaestus forges concealed bonds, the lovers are arrested, the audience gathers, the relation becomes a demand for repayment, and Hermes treats exposure as an acceptable price. Capture and spectacle do not conclude the scene. Poseidon offers to stand for Ares at his own cost; accepted surety permits release. This technological and trust reading is the essay's development of the narrated sequence, not Homer's theory of surveillance. Harmonia's genealogy belongs to another source, not this song.
+[Demodocus's complete song](../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) makes this visible as a sequence: Helios detects, Hephaestus forges concealed bonds, the lovers are arrested, the audience gathers, the relation becomes a demand for repayment, and Hermes treats exposure as an acceptable price. Capture and spectacle do not conclude the scene. Poseidon offers to stand for Ares at his own cost; accepted surety permits release. The turn from captured relation to entrusted undertaking changes what the gathered audience alone could achieve. The apparatus can expose and hold the lovers; release requires a participant to assume the relation's unresolved liability.
 
 ## #4
 
-Q27 gives the political operation: [divide participants into actionable units](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count), conceal the combine-phase, optimise each under a central measure, then present that order as their necessary unity. Horizontal dependencies still sustain the field, but access to unity returns vertically through the apparatus. The defect lies in who may revise the cut and the coordination, not in counting or organisation as such.
+Division and recombination make the political operation exact: [divide participants into actionable units](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count), conceal the combine-phase, optimise each under a central measure, then present that order as their necessary unity. Horizontal dependencies still sustain the field, but access to unity returns vertically through the apparatus. The defect lies in who may revise the cut and the coordination, not in counting or organisation as such.
 
 ## #5→0
 
 Counterfeit gathering **returns-to** [Count-through-Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) at the point where a counted participant can answer the counting rule. Inclusion remains captive if the participant’s reply merely supplies another entry beneath an unalterable criterion. Restoring return changes who may contest the terms of gathering; the count keeps its organising power while losing its immunity to those it includes.
 
-The positive return restores the gathered participants' capacity to alter the gathering. C54's commons must carry consequences back to the rule and its authorised office. Ostrom supplies a source-distinct institutional neighbour: most individuals affected by the resource regime can participate in modifying its rules, local rule-making is recognised, and governance nests; her next passage warns against rigid transplantation. These conditions guide a proposed commons without verifying its implementation. The achieved whole remains capable of renewed relation rather than merely further ordering.
+The positive return restores the gathered participants' capacity to alter the gathering. [A commons](C54-Commons-Non-Monopoly.md) carries consequences back to the rule and its authorised office. Ostrom's [participation, recognised local rule-making and nested governance](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md#ostrom-2009-beyond-markets-states-nobel-lecture-q001) supply a distinct institutional neighbour; her [warning against rigid transplantation](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md#ostrom-2009-beyond-markets-states-nobel-lecture-q002) keeps those principles responsive to their setting. These conditions guide a proposed commons without verifying its implementation. The achieved whole remains capable of renewed relation rather than merely further ordering.
 
 [the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) **figures** counterfeit inclusion when the friends retain Job inside a common moral order but exclude his testimony from changing its interpretation. He is accounted for precisely where he cannot answer the account. The ending changes that relation: the former judges need the prayer of the person they misjudged. Gathering becomes answerable when membership includes the power to alter the terms of reception.
 

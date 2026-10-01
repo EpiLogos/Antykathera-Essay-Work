@@ -5,6 +5,10 @@ record_type: argument
 register: episteme
 claim_status: Derived
 source_relation: "Extracted internal derivation; Argued symbolic and technical development"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - taylor-2026-binary-explication
+  - taylor-2026-definition-god-draft3
 ---
 
 # A18 — Primordial Symbolon and Its Eight Determinations

@@ -1,5 +1,6 @@
 ---
 title: "Genesis / Paradigm / Project / Epi-Logos — Source Routes"
+record_id: etymology-genesis-paradigm-project-epilogos-source-routes
 page_type: etymology-source-shelf
 status: living
 register: episteme
