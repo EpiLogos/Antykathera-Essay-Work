@@ -10,7 +10,7 @@ status: T21-developed-reviewed
 
 # Whole Field — Apportionment / Economy
 
-**Standing:** mature T09 dyadic field, developed through its five existing operations. Apportionment and Economy remain the terms; Name/Power and vocation enter through their declared consumers. The six sections organise this account without generating a sixth operation. The protected [HISTORY](HISTORY.md) retains the authorial lexical inquiry; [HISTORICAL-BRANCHES](HISTORICAL-BRANCHES.md) **historicises** the field through separately identified witnesses.
+Apportionment makes a finite share effective within the economy which sustains it. Five operations carry that relation through capacity, measure, delegated labour, commons and planetary computation. Name/Power gives the act its expenditure, authority, affected other and returned result; the six sections follow this whole movement without adding another operation. The protected [HISTORY](HISTORY.md) retains the authorial lexical inquiry; [HISTORICAL-BRANCHES](HISTORICAL-BRANCHES.md) **historicises** the field through separately identified witnesses.
 
 ## #0 — The share within its sustaining order
 
@@ -27,6 +27,8 @@ The five operations below follow this pressure from finite capacity to planetary
 
 <a id="canonical-operations"></a>
 ### Canonical operations
+
+A capacity takes an office before it can act: knowledge has a reach, permission authorises a course and time bounds its performance. These allotments remain distinct throughout the five operations. A returned obstacle can correct an allotment, challenge its selecting authority or confirm that the retained limit fits the task. The next use inherits that warranted result.
 
 ### Power becomes finite by apportionment
 
@@ -133,6 +135,6 @@ The consumer return is differentiated. The field **returns-to** [M11](../../../.
 
 The field also **returns-to** [M37](../../../../section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md) through the constituted means of an actionable world, and [M45](../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) through the instrument's dependence on craft, inherited measure and a situated observer. [C59](../../concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md) **extends** these operations into culture: inherited names and measures can change without a new collective owner claiming the field which made their revision possible.
 
-**Source and completion boundary:** all five mature operations are developed here. The companion distinguishes retrieved historical witnesses, existing source-house evidence and remaining lexical/edition debts. External acquisition does not change native claim standing. Reciprocal consumer additions outside this page are supplied for parent integration in the private E6 packet; this two-file development does not certify that those additions have landed.
+The achieved share becomes a condition of another act. Its result carries the allotment which enabled it, the costs it incurred and the answer of those affected. A fitting criterion can be retained through that answer; an exposed failure returns to the office able to revise it. The companion keeps the lexical witnesses and institutional histories distinct while these five operations preserve their relation through use.
 
 The [meal epistemic metabolism whole](../../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-shared-table) **figures** the whole apportionment circuit at register 3. A sustaining economy gives a share and office; preparation and serving put it to work; labour, cost, evidence and value return to the field that can revise the next allocation. A companion can question both the portion and the terms of the table. The commons preserves that power to answer while the contribution remains attributable to its giver.

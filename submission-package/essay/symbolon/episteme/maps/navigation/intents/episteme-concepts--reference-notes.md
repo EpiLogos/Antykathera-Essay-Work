@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709"
+source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [4-2 Techne — Sovereign Commons](../../../concepts/reference-notes/4-2-techne-sovereign-commons.md)
 
-**Implicates:** *unnamed* → [A12 — Mono/Poly — One / All, Whole / Many](../../../arguments/A12-Mono-Poly-One-All-Whole-Many.md), [Compassion as Sensitivity to Origins](../../../concepts/compassion-as-sensitivity-to-origins.md), [Hephaestus's Net: The Failed Relation](../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md)
+**Implicates:** *sources* → [42 Techne — Sovereign Commons Architecture](../../../sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md#42-techne-2026-sovereign-commons-q006) · *unnamed* → [A12 — Mono/Poly — One / All, Whole / Many](../../../arguments/A12-Mono-Poly-One-All-Whole-Many.md), [Compassion as Sensitivity to Origins](../../../concepts/compassion-as-sensitivity-to-origins.md), [Hephaestus's Net: The Failed Relation](../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md)
 
 **Reached from:** *unnamed* ← [Compassion as Sensitivity to Origins](../../../concepts/reference-notes/compassion-sensitivity-origins.md), [Mono-Poly Planetary Intelligence](../../../concepts/reference-notes/mono-poly-planetary-intelligence.md), [SEED Language of Spirit Dialogues](../../../concepts/reference-notes/seed-language-of-spirit-dialogues.md)
 
@@ -235,7 +235,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [Henri Bergson — Duration and Creative Evolution](../../../concepts/reference-notes/henri-bergson-duration.md)
 
-**Implicates:** *unnamed* → [A14 — Computational Process Ontology](../../../arguments/A14-Computational-Process-Ontology.md)
+**Implicates:** *sources* → [Bergson — Time and Free Will (Pogson, 1913 carrier)](../../../sources/process-systems-theory/bergson/bergson-1913-time-free-will-pogson/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *sources (declared)* → [Bergson — Time and Free Will (Pogson, 1913 carrier)](../../../sources/process-systems-theory/bergson/bergson-1913-time-free-will-pogson/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *unnamed* → [A14 — Computational Process Ontology](../../../arguments/A14-Computational-Process-Ontology.md), [C07 — Conditions of Worldhood](../../../concepts/C07-Conditions-of-Worldhood.md), [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md), [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md)
 
 **Reached from:** *compares* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md) · *unnamed* ← [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
 
@@ -301,7 +301,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 ### [Maturana and Varela — Autopoiesis and Enaction](../../../concepts/reference-notes/maturana-varela-autopoiesis-enaction.md)
 
-**Implicates:** none written.
+**Implicates:** *sources* → [Maturana and Varela — Autopoiesis and Cognition (1980)](../../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md#maturana-varela-1980-autopoiesis-cognition-q001), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *sources (declared)* → [Maturana and Varela — Autopoiesis and Cognition (1980)](../../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *unnamed* → [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md#enacted-world-and-instituted-permission), [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [A30 — Objective Co-Internality](../../../arguments/A30-Objective-Co-Internality.md), [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [C43 — Computational Vimarśa](../../../concepts/C43-Computational-Vimarsa.md), [C42 — Objective Co-Internality](../../../concepts/C42-Objective-Co-Internality.md)
 
 **Reached from:** *extends* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md) · *unnamed* ← [Laws of Form](../../../concepts/reference-notes/laws-of-form.md)
 

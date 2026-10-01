@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709"
+source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `formal-neighbours` · back to [Matheme — exact operations](matheme.md)
 
 **Implicates:** *sources* → [NIST DLMF — Complex Variable and Conformal Mapping (2026)](../../../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) · *unnamed* → [Qubit-Bloch Sphere](../../../concepts/reference-notes/qubit-bloch-sphere.md), [The Projective Line](../../../../matheme/topology/projective-line.md), [Quilting for Full Argument — Multi-Session Contribution Ledger](../../../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [The Riemann Sphere](../../../../matheme/topology/riemann-sphere.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md)
 
-**Reached from:** *unnamed* ← [Formal Neighbours](../../../../matheme/formal-neighbours/README.md)
+**Reached from:** *unnamed* ← [Concept Map](../../../concepts/index.md), [Formal Neighbours](../../../../matheme/formal-neighbours/README.md)
 
 ### [Attractors, Basins and a Bifurcation](../../../../matheme/formal-neighbours/chaos-attractors.md)
 

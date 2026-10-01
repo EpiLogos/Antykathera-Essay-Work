@@ -29,7 +29,7 @@ historical_development: HISTORICAL-BRANCHES.md
 
 # Whole Field — Arbitration / Hybris / Regard / Anamnesis
 
-**Standing:** mature T09 Etymology whole-field. [HISTORY.md](HISTORY.md) remains the protected lexical/historical carrier; [Historical branches](HISTORICAL-BRANCHES.md) develops the source distinctions and the questions returned by use. This page governs the relational operations generated from the whole field and their canonical Argument/Concept consumption.
+Arbitration gives a finite judgment consequence; regard returns it to the relations through which it acquired authority. [HISTORY.md](HISTORY.md) remains the protected lexical/historical carrier; [Historical branches](HISTORICAL-BRANCHES.md) develops the source distinctions and the questions returned by use. This page governs the relational operations generated from the whole field and their canonical Argument/Concept consumption.
 
 ## Evidence discipline
 
@@ -233,7 +233,7 @@ operational consequences: measure / frame / decision / regard / return
 new questions returned to HISTORY / source restoration
 ```
 
-**Depth Restoration:** philological and historical branches remain pending wherever `HISTORY.md` has not yet been source-verified at passage level. The relational field itself is materially current for T09.
+The returned settlement retains the witness's particular, the arbiter's stated criterion and the affected party's ability to challenge its application or authority. A warranted retained measure and a warranted revised measure can each serve the next encounter. The Latin, Greek and French witnesses below give their distinct lexical offices; the generated conjugate field carries their authorial relation without converting it into one historical descent.
 
 At operational register 3, Taylor's world-parent reading gives Criterion-through-Distinction and Delineation-through-Difference a mythemic body: an oriented field makes measure and jurisdiction possible. Con-text-through-Diaphaneity returns that measure to its conditions; the story's source sequence remains recoverable in its own whole. The relation **returns-to** [the complete Neumann whole](../../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The serpent's settlement returns through Arbitration-in-Crisis, Con-text-through-Diaphaneity and Resolution-in-Reconciliation at operational register 3; receiving must be able to change the deciding office. This **returns-to** [the uroboros whole](../../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-return).
 

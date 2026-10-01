@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709"
+source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -28,8 +28,8 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 |---|---|
 | 0 | 1 |
 | 1 | 62 |
-| 2 | 522 |
-| 3 | 119 |
+| 2 | 526 |
+| 3 | 115 |
 | 4 | 25 |
 | 5 | 5 |
 
@@ -42,19 +42,19 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
-| Matheme — exact operations | 94 | 844 | 389 | 455 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 48 | 763 | 448 | 315 | 0 | 23 | 0 |
+| Matheme — exact operations | 94 | 844 | 388 | 456 | 0 | 13 | 0 |
+| Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1034 | 508 | 526 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 562 | 147 | 415 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1342 | 468 | 874 | 36 | 67 | 47 |
+| Episteme · Arguments A01–A36 | 37 | 1035 | 496 | 539 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 555 | 117 | 438 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1382 | 456 | 926 | 36 | 67 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
-| Episteme · Source houses | 201 | 1071 | 167 | 904 | 0 | 80 | 0 |
-| Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |
+| Episteme · Source houses | 201 | 1083 | 167 | 916 | 0 | 79 | 0 |
+| Episteme · Dossiers | 8 | 205 | 177 | 28 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
-| Episteme · Maps and curated paths | 5 | 120 | 7 | 113 | 0 | 1 | 0 |
+| Episteme · Maps and curated paths | 5 | 128 | 7 | 121 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
 | Episteme · Aphorisms | 1 | 11 | 9 | 2 | 0 | 0 | 0 |
 | Episteme · Figures | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
@@ -77,8 +77,8 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | Target root | Links | Most linked |
 |---|---|---|
 | `working/sources-texts-references` | 129 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (16); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
-| `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
-| `working/antykathera-resources` | 48 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (48) |
+| `the-return-of-zero-central-plan.md` | 77 | `the-return-of-zero-central-plan.md` (77) |
+| `working/antykathera-resources` | 53 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (53) |
 | `working/final-argument-quilt-2026-08-23` | 35 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (5); `working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` (5) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
 | `working/pre-manuscript-refinement-2026-09-10` | 6 | `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (3); `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
@@ -157,6 +157,7 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
 - [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
+- [Prompt Thrownness](../../concepts/prompt-thrownness.md)
 - [0-1 Matheme](../../concepts/reference-notes/0-1-matheme.md)
 - [36 Tattvas](../../concepts/reference-notes/36-tattvas.md)
 - [9-8 Whole Tone](../../concepts/reference-notes/9-8-whole-tone.md)
@@ -184,7 +185,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Kauffman Iterants](../../concepts/reference-notes/kauffman-iterants.md)
 - [Khahara](../../concepts/reference-notes/khahara.md)
 - [Laws of Form](../../concepts/reference-notes/laws-of-form.md)
-- [Maturana and Varela — Autopoiesis and Enaction](../../concepts/reference-notes/maturana-varela-autopoiesis-enaction.md)
 - [MEF](../../concepts/reference-notes/mef.md)
 - [Meister Eckhart — Dialectical Apophaticism and the Word](../../concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md)
 - [Metonic Cycle](../../concepts/reference-notes/metonic-cycle.md)
@@ -242,7 +242,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Hypostasis of the Archons — Bentley Layton online translation](../../sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md)
 - [Ephesians — SBL-hosted reverse-interlinear witness](../../sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md)
 - [Notes](../../sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md)
-- [Chang Chung-yuan — Tao: A New Way of Thinking (2014)](../../sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md)
 - [Analects — received Chinese text and James Legge translation](../../sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md)
 - [Laozi — Tao Teh King, translated by James Legge](../../sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/SOURCE.md)
 - [Acropolis Museum — The Erechtheion](../../sources/classical-philology/acropolis-museum/acropolis-museum-erechtheion/SOURCE.md)

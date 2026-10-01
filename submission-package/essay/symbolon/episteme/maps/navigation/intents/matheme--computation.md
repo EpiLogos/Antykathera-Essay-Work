@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709"
+source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -63,4 +63,4 @@ Group: `computation` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [PyTorch — Softmax and Argmax API (v2.9)](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md) · *unnamed* → [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
-**Reached from:** *unnamed* ← [Computation](../../../../matheme/computation/README.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md)
+**Reached from:** *unnamed* ← [Concept Map](../../../concepts/index.md), [Computation](../../../../matheme/computation/README.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md)

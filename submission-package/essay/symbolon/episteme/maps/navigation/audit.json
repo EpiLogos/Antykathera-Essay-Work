@@ -1,5 +1,5 @@
 {
-  "source_digest": "81e2de498a0130d7654769e2276080f395adb66e6b4128ef84a0722f8ef01709",
+  "source_digest": "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -7,10 +7,9 @@
     "reachable": 719,
     "problems": {
       "directory-link": 6,
-      "title-or-alias-only": 505,
+      "title-or-alias-only": 501,
       "missing-vault-path": 91,
-      "ambiguous-filename": 5,
-      "missing-path": 1
+      "ambiguous-filename": 5
     },
     "admitted": 288,
     "missing_admitted": 0,
@@ -22,28 +21,28 @@
   "depth_histogram": {
     "0": 1,
     "1": 62,
-    "2": 522,
-    "3": 119,
+    "2": 526,
+    "3": 115,
     "4": 25,
     "5": 5
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5656,
-    "sources": 1250,
-    "sources (declared)": 931,
-    "returns-to": 598,
-    "grounds": 370,
-    "consumed-by (declared)": 293,
-    "extends": 285,
-    "qualifies": 244,
-    "defines": 202,
-    "figures": 182,
+    "unnamed": 5766,
+    "sources": 1269,
+    "sources (declared)": 963,
+    "returns-to": 571,
+    "grounds": 352,
+    "consumed-by (declared)": 295,
+    "extends": 281,
+    "qualifies": 237,
+    "defines": 197,
+    "figures": 173,
     "historicises": 157,
-    "compares": 148,
+    "compares": 147,
     "returns-to (declared)": 125,
-    "tests": 86,
-    "derives": 28,
+    "tests": 83,
+    "derives": 27,
     "embodies": 15,
     "sources (declared passage)": 12,
     "companion notes (declared)": 10,
@@ -124,9 +123,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1034,
-      "named": 508,
-      "unnamed": 526,
+      "links": 1035,
+      "named": 496,
+      "unnamed": 539,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -142,18 +141,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1342,
-      "named": 468,
-      "unnamed": 874,
+      "links": 1382,
+      "named": 456,
+      "unnamed": 926,
       "orphans": 36,
       "no_return": 67,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 562,
-      "named": 147,
-      "unnamed": 415,
+      "links": 555,
+      "named": 117,
+      "unnamed": 438,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -170,8 +169,8 @@
     "episteme-dossiers": {
       "pages": 8,
       "links": 205,
-      "named": 179,
-      "unnamed": 26,
+      "named": 177,
+      "unnamed": 28,
       "orphans": 0,
       "no_return": 1,
       "unreachable": 0
@@ -214,9 +213,9 @@
     },
     "episteme-maps": {
       "pages": 5,
-      "links": 120,
+      "links": 128,
       "named": 7,
-      "unnamed": 113,
+      "unnamed": 121,
       "orphans": 0,
       "no_return": 1,
       "unreachable": 0
@@ -232,18 +231,18 @@
     },
     "episteme-sources": {
       "pages": 201,
-      "links": 1071,
+      "links": 1083,
       "named": 167,
-      "unnamed": 904,
+      "unnamed": 916,
       "orphans": 0,
-      "no_return": 80,
+      "no_return": 79,
       "unreachable": 0
     },
     "matheme": {
       "pages": 94,
       "links": 844,
-      "named": 389,
-      "unnamed": 455,
+      "named": 388,
+      "unnamed": 456,
       "orphans": 0,
       "no_return": 13,
       "unreachable": 0
@@ -251,8 +250,8 @@
     "mytheme": {
       "pages": 48,
       "links": 763,
-      "named": 448,
-      "unnamed": 315,
+      "named": 449,
+      "unnamed": 314,
       "orphans": 0,
       "no_return": 23,
       "unreachable": 0
@@ -314,6 +313,7 @@
     "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
     "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+    "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/9-8-whole-tone.md",
@@ -341,7 +341,6 @@
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/kauffman-iterants.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/khahara.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/laws-of-form.md",
-    "submission-package/essay/symbolon/episteme/concepts/reference-notes/maturana-varela-autopoiesis-enaction.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/mef.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/metonic-cycle.md",
@@ -399,7 +398,6 @@
     "submission-package/essay/symbolon/episteme/sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md",
     "submission-package/essay/symbolon/episteme/sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md",
     "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md",
-    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
     "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
     "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/SOURCE.md",
     "submission-package/essay/symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-erechtheion/SOURCE.md",
@@ -569,15 +567,15 @@
       }
     },
     "the-return-of-zero-central-plan.md": {
-      "count": 80,
+      "count": 77,
       "targets": {
-        "the-return-of-zero-central-plan.md": 80
+        "the-return-of-zero-central-plan.md": 77
       }
     },
     "working/antykathera-resources": {
-      "count": 48,
+      "count": 53,
       "targets": {
-        "working/antykathera-resources/Antikythera Agentworld Brief.md": 48
+        "working/antykathera-resources/Antikythera Agentworld Brief.md": 53
       }
     },
     "working/final-argument-quilt-2026-08-23": {

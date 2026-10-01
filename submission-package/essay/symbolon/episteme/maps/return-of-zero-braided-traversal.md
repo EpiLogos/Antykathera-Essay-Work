@@ -74,14 +74,18 @@ tags:
 35. [[35-s4-p4-gebser-apollo-dionysus|§4 · #4 — Apollo Through Dionysus]]
 36. [[36-s4-p5-mef-prompt-thrownness|§4 · #5→0 — MEF and Prompt Thrownness]]
 
-### §5 — Objective internality and agentic research
+### §5 — Objective Internality: World and Life
 
-37. [[37-s5-p0-math-moves-meaning|§5 · #0 — Mathematics Already Moves as Meaning]]
-38. [[38-s5-p1-apoha-softmax|§5 · #1 — Apoha, Softmax, and Argmax]]
-39. [[39-s5-p2-j-space|§5 · #2 — J-Space]]
-40. [[40-s5-p3-preference-hidden-zero|§5 · #3 — Preference Models and the Hidden Zero]]
-41. [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]]
-42. [[42-s5-p5-research-vectors|§5 · #5→0 — Six Research Vectors]]
+[World and Life](../products/S-World-and-Life.md) holds the whole knowing relation: Subjective Immediacy is knower, Objective Internality supplies means and World is known. Its six product subjects give those means distinct bodies. [Central](../products/S0-Central.md) carries meaningful continuity; [Actuation](../products/S1-Actuation.md) makes the articulation actual; [AIKit](../products/S2-AIKit.md) gives the situated horizon of potency; [Software Factory](../products/S3-Software-Factory.md) develops changed form; [Workcell](../products/S4-Workcell.md) gives concrete situation and resistance; [Quaternal Logic](../products/S5-Quaternal-Logic.md) keeps the differentiated subjects related within containing wholes. Each is a whole subject with its own lens pair and internal return.
+
+37. [[37-s5-p0-math-moves-meaning|§5 · #0 — Central: Meaningful Continuity]]
+38. [[38-s5-p1-apoha-softmax|§5 · #1 — Actuation: Living Articulation]]
+39. [[39-s5-p2-j-space|§5 · #2 — AIKit: Potency]]
+40. [[40-s5-p3-preference-hidden-zero|§5 · #3 — Software Factory: Transformation]]
+41. [[41-s5-p4-bimba-energy-fields|§5 · #4 — Workcell: Situated Existence]]
+42. [[42-s5-p5-research-vectors|§5 · #5→0 — Quaternal Logic: Transcendent Relation]]
+
+The earlier research enters these subjects as live depth: [mathematical transformation, apoha, J-Space and preference](../products/S1-Actuation.md#inherited-model-field) develop the event of articulation; [Bimba and its source dependence](../products/S0-Central.md#4--bimba-pratibimba-and-the-carried-world) make carried continuity answerable; and [the discriminating technical comparisons](../dossiers/oi-technical-responsibility.md#oi-cross-entropy) ask how a returned difference reaches an actual later act. These operations give the product subjects substance without turning them into six research topics or six compulsory workflow stages.
 
 ### §5→0 — Epi-Logos and 4:2 technē
 
@@ -94,7 +98,7 @@ tags:
 
 ## Night pressure — the Agentworld braid
 
-The outer stations are kept honest by [[quilt/agentworld-response-matrix|Agentworld Response Matrix]]: agency without a premature subjectivity verdict; provisional individuation without a monad; shared grammar without ontology collapse; shared language beyond one-way anthropomorphism; conflict without extermination; legibility without surveillance; human responsibility without species monopoly; harness intelligence without a superagent; planetary unity without platform monopoly.
+The outer stations are kept honest by [[quilt/agentworld-response-matrix|Agentworld Response Matrix]]: agency through situated means and personed encounter; provisional individuation without a monad; shared grammar without ontology collapse; shared language beyond one-way anthropomorphism; conflict without extermination; legibility without surveillance; human responsibility without species monopoly; harness intelligence without a superagent; planetary unity without platform monopoly.
 
 ## Transverse threads
 
