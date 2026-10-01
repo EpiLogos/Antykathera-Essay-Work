@@ -122,6 +122,9 @@ run(["python3", "tools/audit-pre-manuscript.py", "--project-root", ".", "--outpu
 run(["python3", "tools/okf-workspace.py", "effects", "C41", "--depth", "4", "--json"], "effects-C41-after.json")
 run(["python3", "tools/okf-workspace.py", "doctor", "--json"], "doctor.json")
 doctor = json.loads((OUT / "doctor.json").read_text())
+forbidden_source_kinds = {"duplicate-source-house", "duplicate-passage-id", "dangling-room-link", "dangling-room-fragment", "missing-passage-locator", "missing-passage-status", "missing-passage-provenance"}
+source_failures = [r for r in doctor["debts"] if r["kind"] in forbidden_source_kinds]
+assert not source_failures, source_failures
 governing_dangles = [r for r in doctor["debts"] if r["kind"] == "unresolved-link" and r["authority"] == "governing"]
 assert not governing_dangles, governing_dangles
 missing_quality = {r["path"]: r["missing"] for r in doctor["quality_assessments"] if r["missing"]}

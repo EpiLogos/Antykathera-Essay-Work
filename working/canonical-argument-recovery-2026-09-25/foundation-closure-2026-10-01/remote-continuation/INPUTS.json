@@ -304,10 +304,12 @@
     },
     {
       "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
-      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-source-continuation/SOURCE.md.txt",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-provenance-repair/SOURCE-candidate.md.txt",
       "preimage_sha256": "daa0f7a6edfda28ff967cdc33fc9babf7d757e83b0efdbd932ca0987ea8679ee",
-      "postimage_sha256": "bf6bf453f11701ffad56abaf19358d9154f7ad0acd7666554d453af2a7b99730",
-      "manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-source-continuation/MANIFEST.json"
+      "postimage_sha256": "4ac68fdd6f4c36f9ca78234b728ba0439fa0881a7f1d6972b8bf0fd5c123120b",
+      "manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-source-continuation/MANIFEST.json",
+      "prior_postimage_sha256": "bf6bf453f11701ffad56abaf19358d9154f7ad0acd7666554d453af2a7b99730",
+      "post_review_provenance_layer": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-provenance-repair/INCLUSION.json"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
@@ -459,6 +461,22 @@
     {
       "path": "working/canonical-argument-recovery-2026-09-25/parent-continuation/EXECUTION-LEDGER.md",
       "sha256": "7755b8f6e12b51071e279b016b81cc78983bbae8f8324d5240e311ff18290656"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-provenance-repair/PRE-EDIT-RECOVERY.md",
+      "sha256": "88bde9e1fef65fb31bab2e344bed6e0e951573bb84002958435deece086a1883"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-provenance-repair/CANDIDATE.json",
+      "sha256": "c2a44e29093d05671f71d6a6dcbe748bb4e938a09c4737a5d25f2498738bec4c"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/musical-provenance-repair/INCLUSION.json",
+      "sha256": "366da1c5e89e8479b64ce2c5e9b7443c592d8256aa3a0a0f0a8f2d3ff34477fa"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-public-continuation/INDEPENDENT-MUSICAL-PROVENANCE-REVIEW.json",
+      "sha256": "5ea6aaab4fec9ca1fef4e7f00a1761b6ae20aca5a4e0b20b5d8ac8dc522bd871"
     }
   ],
   "protected": [
