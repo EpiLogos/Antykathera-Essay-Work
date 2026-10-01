@@ -1,0 +1,41 @@
+name: Validate exact canonical continuation
+on:
+  push:
+    branches: [canonical-continuation-2026-10-02]
+    paths:
+      - '.github/workflows/canonical-continuation-validation.yml'
+      - 'working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-continuation/validate.py'
+      - 'working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-continuation/INPUTS.json'
+permissions:
+  contents: write
+concurrency:
+  group: canonical-continuation-validation
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          persist-credentials: false
+      - name: Reproduce the authored checkout identity without altering builders
+        run: |
+          target=/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work
+          sudo mkdir -p "$target"
+          sudo chown "$(id -u):$(id -g)" "$target"
+          cp -a "$GITHUB_WORKSPACE/." "$target/"
+          python3 -m pip install PyYAML
+      - name: Run unchanged native checks and retain candidate objects
+        working-directory: /Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-continuation/validate.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: canonical-continuation-${{ github.sha }}
+          path: ${{ runner.temp }}/canonical-continuation-validation/
+          retention-days: 7
+          if-no-files-found: error

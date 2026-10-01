@@ -91,7 +91,7 @@ The history **returns-to** [Con-text-through-Diaphaneity](../../../etymologies/a
 
 <a id="language-selection"></a>
 
-Vaswani and colleagues' 2017 Transformer paper specifies attention through queries, keys and values. Scaled query–key dot products enter softmax; the resulting weights combine values. [The canonical §3.2.1 passage](../../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md#vaswani-et-al-2017-attention-q002) **sources** that operation. Its architecture and two translation tasks have their own scope. The paper does not claim to have explained Buddhist reference, reproduced psychoanalytic address or established artificial phenomenality.
+Vaswani and colleagues' 2017 Transformer paper specifies attention through queries, keys and values. Scaled query–key dot products enter softmax; the resulting weights combine values. [The canonical §3.2.1 passage](../../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md#vaswani-et-al-2017-attention-q002) **sources** that operation. Its architecture and two translation tasks have their own scope. The weighted combination has a defined input and output, so its contribution can be examined before a later selection or use. Buddhist reference and psychoanalytic address enter through their own carriers; their historical practices change which further question is being asked of this numerical operation.
 
 [PyTorch's versioned 2.9 documentation](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md#pytorch-2-9-softmax-argmax-api-q001) **defines** normalisation along a stated dimension. The house's separate argmax cards define an index selection and the first-index convention for a tie. A vector of weights and one index retain different information. Attention's weighted combination of values is also different from selecting a final output token. Conflating these stages would erase precisely the field and operation the comparison needs to retain.
 
@@ -119,7 +119,7 @@ Temporal succession and co-presence cross the two logics; a shared gathering can
 
 Source-return must reach a materially relevant criterion or subsequent act; retaining the account alone does not perform that return. This operation **returns-to** [C51-Logos-Epi-Logos](../../../concepts/C51-Logos-Epi-Logos.md).
 
-Dialogue’s revision of assumptions supplies a specified comparison; local Bohm reproduction needs edition collation and agent phenomenality remains Open. This operation **returns-to** [36-s4-p5-mef-prompt-thrownness](../../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md).
+Dialogue makes a defended assumption available to a reply and lets that reply change the next shared question. The local Bohm reproduction retains its own pagination pending collation with the selected edited volume; a technical receiving operation identifies the source, rule or subsequent act which answered the challenge. This operation **returns-to** [36-s4-p5-mef-prompt-thrownness](../../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md).
 
 J-Space remains Offered and bounded; record which source, representation, gauge or permission changed and what followed. This operation **returns-to** [39-s5-p2-j-space](../../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md).
 

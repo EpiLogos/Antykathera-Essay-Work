@@ -1,0 +1,74 @@
+{
+  "standing": "independent changed-operation acceptance; live canonical inclusion not performed by this worker",
+  "candidates": 15,
+  "index_rows_accepted": 20,
+  "native_bytes_unchanged": 15,
+  "independent_review_receipts": [
+    "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-continuation/INDEPENDENT-CONCEPT-COLD-REVIEW.md",
+    "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-continuation/INDEPENDENT-CONCEPT-ADDITIONAL-FOUR.md",
+    "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-continuation/INDEPENDENT-CONCEPT-RECEIVING-FOUR.md"
+  ],
+  "operation_scope": "Complete fifteen receiving carriers; twenty bounded repaired index rows, not blanket legacy/all64 historical closure. Native suite/build/protected comparisons and publication are parent-owned.",
+  "hashes": [
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "candidate_sha256": "2bf6987ae236ca824471a4098a78c37383f98fb663cf2d7de451ce265bea53e9"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/centaur-societies.md",
+      "candidate_sha256": "f7a3033fc65baeee906c527f4233df3c031135687b7bd4ecc1393d18fe7fbbf6"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/index.md",
+      "candidate_sha256": "991babe67b0a5444fdc79f84680590a293c94a0c55e64199e3e90f5f42c0d919"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/anthropomorphization.md",
+      "candidate_sha256": "53ba1e920faeb4f846346e62583d8fdc86c79c81d3f186901888b639e640986e"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/parasociety.md",
+      "candidate_sha256": "7de1d397a2efb282e6e7885751f781a3211889e08216228459cdf961ef80cb44"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "candidate_sha256": "6fbbf906e01fc01d6a99e30eb4d00cff94fef7b45d4abed69db679d76d5c3e1d"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "candidate_sha256": "b739e4b6feee7a949eeca41bcb9a6eb9c8660bf6af99045f2dc1b46d42675c54"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/henri-bergson-duration.md",
+      "candidate_sha256": "9724b8ff8722ad747a2816656e36118ab7f3ac5c1f2e9f4a0d09fd0b5284272e"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/maturana-varela-autopoiesis-enaction.md",
+      "candidate_sha256": "63e6699436eb1ee2899b56c827a4329304a70be939fab4701163ed3ff1765cf1"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
+      "candidate_sha256": "db9ba473f1c3e9509c7f85fda54e10084b191edebb75b9667ec795ecb335d224"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+      "candidate_sha256": "c8c015d097bb066dfd7f0bfe39bac4971a9fe996d630d7608df1d60d75905597"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "candidate_sha256": "4f2ccd445c25d71b56913408433986f20ee639950722584e06674c501268ad59"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "candidate_sha256": "f9b4ebfecb6294e5b4a9b084e192aa0f415dc7e2aa09c5434066bd0b8ca22b6b"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+      "candidate_sha256": "ec50aad9c366306555a4a3bc4cef54c79afeca187f9a621a20253f2033c9cc0e"
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/concepts/j-space.md",
+      "candidate_sha256": "9428764cc0b548819427281c7039b929f46da037dd4811ab74d7b7fe43879495"
+    }
+  ]
+}

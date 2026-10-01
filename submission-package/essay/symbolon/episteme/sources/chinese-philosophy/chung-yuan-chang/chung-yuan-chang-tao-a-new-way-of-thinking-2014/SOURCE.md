@@ -25,7 +25,9 @@ isbn:
   - "9781848192010"
 accessed: "2026-07-29"
 consumed_by_sections: []
-consumed_by_arguments: []
+consumed_by_arguments:
+  - A32
+  - A35
 tags:
   - epi-logos/antikythera-essay
   - source-bank/record
@@ -53,7 +55,7 @@ The selected edition is the Singing Dragon reprint, published 21 January 2014, 2
 
 Frank's complete encounter notes cite pp. 83–143, moving through selected commentaries within chapters 20–42. Their first sequence, pp. 83–93 and chapters 20–22, continues through identity and belonging, the p.99 mirror-first vocation, the thing and fourfold, motion and opposites, the twofold One, and the p.143 emergence of multiplicity. These are the notes' own locators. They are presumed to track the 2014 pagination of the copy at hand; collating them against the physical copy is the open verification step, and if the copy proves to be the 1975 printing the house's selected edition should be re-decided rather than silently repaginated.
 
-The sibling `NOTES.md` is Frank G. Taylor's authorial encounter with the work. It was read in full for the present source work and remains untouched; its copied passages are leads until verified against the selected edition.
+The sibling `NOTES.md` is Frank G. Taylor's authorial encounter with the work. Its authorial developments retain their own attribution, and its copied passages are leads until verified against the selected edition.
 
 ## Chicago 18 forms
 
@@ -75,7 +77,20 @@ Nested-quotation warning: the passages Frank copied include Chang quoting Nishid
 
 ## Essay uses
 
-Encounter-intent leads only; no canonical consumer is declared yet, and `consumed_by_sections` / `consumed_by_arguments` remain empty until real consumption is wired. Candidate destinations from the notes: the two-logics fulcrum (lived identity of opposites beside intellectual synthesis, with dia-ballein as the traced failure mode); the priority of Zero over negation and cancellation; Mono/Poly and the `0/1`–`1/0` self-identity work; the Epi-Logos naming through Heidegger's Tao passage; and the convergence Frank observes among Jung, Whitehead, Heidegger, and Gebser around a Taoist ontology of the ever-present origin.
+The current field consumes Taylor's protected encounter with Chang in the following distinct offices. These are already authored comparisons, not newly authenticated Chang quotations. The source attribution remains local: Chang's commentary supplies the transmitted philosophical material; Taylor's p83 sensitivity and p99 mirror vocation are his developments.
+
+- [The Mirror That Moves First](../../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) **consumes** the p99 instrument-first vocation.
+- [Sensitivity to Origins](../../../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) **consumes** p83 origins gone, to come and ever present.
+- [Reflective Field](../../../../concepts/C55-Reflective-Field-Mirror-That-Moves-First.md) **consumes** the three motions.
+- [Compassion](../../../../concepts/C56-Compassion-Sensitivity-to-Origins.md) **consumes** loving source return.
+- [Cultural Individuation](../../../../concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md) **consumes** collective images returning to their living conditions.
+- [the complete mirror whole](../../../../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md) **consumes** humanity following the source-directed turn.
+- [the Indian dossier](../../../../dossiers/indian-philosophy.md) **consumes** the sourceward acceptance cycle.
+- [the O:I dossier](../../../../dossiers/oi-technical-responsibility.md) **consumes** authored technical responsibility.
+- [the myth history](../../../../histories/encounters-and-transmissions/myth/DEVELOPMENT.md) **consumes** the instrument's changed historical office.
+- [the ancient-philosophy companion](../../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) **consumes** loving sensitivity in historical source return.
+
+The argument declarations name the two directly consuming native arguments. The other exact body links retain concept, whole, dossier and historical consumers without inventing additional argument or movement identities. Further quotation and historical transmission work remains at the selected-edition passage surface below.
 
 <a id="passages"></a>
 ## Passages and excerpts

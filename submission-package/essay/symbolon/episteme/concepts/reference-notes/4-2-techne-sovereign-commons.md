@@ -22,7 +22,7 @@ tags:
 > [!summary]
 > Applied companion architecture for locally governed AI infrastructure, shared community memory, federated compute, and P5→P0 circulation.
 
-Primary document: [42-Techne — Sovereign Commons Architecture](</Users/admin/Documents/4-2 Techne/docs/42-Techne-Sovereign-Commons-Architecture.pdf>).
+Primary design witness: [42-Techne — Sovereign Commons Architecture](../../sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md#42-techne-2026-sovereign-commons-q006). The source house retains the report's six passage units, dated corporate authorship and proposed federation/return; the local PDF is its underlying carrier.
 
 ## Permitted argumentative load
 

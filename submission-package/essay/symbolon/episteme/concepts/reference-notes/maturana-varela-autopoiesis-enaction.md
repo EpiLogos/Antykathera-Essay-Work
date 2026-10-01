@@ -4,6 +4,7 @@ aliases:
   - "Autopoiesis and Enaction"
   - "Maturana Varela Autopoiesis"
 source_id: maturana-varela-autopoiesis-enaction
+source_ids: [maturana-varela-1980-autopoiesis-cognition, taylor-2026-core-theorems-pithy, taylor-2026-symbolon-dynamics]
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"
@@ -20,28 +21,38 @@ tags:
 # Maturana and Varela — Autopoiesis and Enaction
 
 > [!summary]
-> Autopoiesis describes living identity as a recursive network that produces and maintains its own components and boundary. Enaction extends the insight: cognition brings forth a meaningful world through embodied structural coupling rather than representing a fully pre-given world.
+> Autopoiesis specifies a network of production whose components regenerate the network and constitute its boundary. Perturbation can change its realised structure while it retains its organisation. Coupling keeps the interacting unities identifiable through their mutual modification.
 
-**Master context:** [[The Return of Zero — Central Argument Plan#§2 · #4 — Complex dynamism and the safeguard against fusion]] and [[The Return of Zero — Central Argument Plan#§5 · #2 — J-space and circumscription without circumstance]].
+**Master context:** [the Process dossier](../../dossiers/process.md#enacted-world-and-instituted-permission), [Objective Internality](../C41-Objective-Internality.md) and [Objective Co-Internality](../../arguments/A30-Objective-Co-Internality.md).
 
-## Claims
+## Production gives the unity its organisation
 
-- **Extracted:** an autopoietic network produces components that recursively regenerate the network and its boundary.
-- **Extracted:** operational closure does not mean environmental isolation; living systems undergo perturbation and structural coupling.
-- **Extracted:** enactive cognition is ongoing organism–environment co-determination and sense-making, not passive recovery of a pre-given world.
-- **Argued:** system identity requires both boundary and openness to perturbation—dia-ballein and sym-ballein as alternating functions rather than rival ideologies.
+[The selected 1980 production unit](../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md#maturana-varela-1980-autopoiesis-cognition-q001) distinguishes organisation from structure. Organisation specifies the relations through which a unity exists; structure is their concrete realisation. Autopoietic organisation consists in processes producing components which continuously regenerate those processes and specify the unity’s domain. Stop that production and the organisation it sustains is lost.
 
-## AI relevance
+An allopoietic machine produces something different from itself. Its components may have been produced through processes outside its own organisation. Input, output, purpose and use describe it within an observer’s wider domain. A feedback loop drawn through an environment consequently changes which unity is being described: the larger circuit must include the environment and loop whose relations make its operation possible. A useful description has to preserve that boundary and the particular production relation it claims.
 
-An artificial agent's objective internality can be compared with enactive sense-making only at a declared technical level. A harness, memory, tools, policies, and environment can form a recursively maintained context-world. This does not establish biological autopoiesis or phenomenal consciousness. The comparison asks which norms, boundaries, perturbations, and self-maintaining loops make a distinction matter for the system.
+## Coupling preserves a difference through change
 
-## The productive gap
+[The coupling unit](../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md#maturana-varela-1980-autopoiesis-cognition-q002) specifies interacting conduct as a function of the other participants’ conduct, through mutual modification without loss of their identities. Their histories can become reciprocal conditions while they remain distinct. Loss of those identities may produce another unity, but it is a different event from the coupling described here.
 
-Complex dynamism depends on a system not coinciding perfectly with either its current state or its environment. The “gap” is the space of perturbation, adaptation, and unrealised possibility. It is related to but not identical with formal incompleteness.
+A coupled composite has an additional question to answer. Its own organisation must be identified through the production relations which generate its components and constitute its unity before the composite is called autopoietic. The apparent unity perceived by an observer and the production unity realised in a particular space are different offices. An autopoietic participant can also serve an allopoietic role within a larger system; that role describes its participation and does not replace the organisation through which the participant exists.
+
+## An instituted context makes a distinction consequential
+
+[The native theorem](../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [Symbolon Dynamics](../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) give the technical comparison its own positive operation. Sources, memory, tools, policies, permissions, resources and other participants constitute an agent’s field of possible discrimination and action. A source correction can change what is warranted; a permission change can make a previously unavailable act possible. Retained context can then carry those differences into another operation.
+
+The inquiry identifies which norm makes a distinction matter, where its authority comes from, which perturbation is admitted and what loop carries its consequence. A biological production network maintains its organisation through its own continuing production. A harness institutes a different set of conditions through design, commission and maintained infrastructure. Its actual source, permission and resource relations remain part of the explanation. An observer’s account of a useful software result cannot replace the production network required by the biological claim.
+
+At a local grain the agent is the functional knower, its context and rules are means, and the addressed situation is known. In the containing Life’s undertaking that same agent is a means. A further investigation can make its determining centre known and return a correction to a source, rule or responsible authority. [Objective Internality](../C41-Objective-Internality.md) preserves those recursive offices with the unobjectifiable knower condition in Life / Mind. Their consequence is inspectable where the next act inherits an actual changed condition.
+
+## Identity can remain while the course becomes otherwise
+
+The source’s organisation/structure distinction keeps continuity and perturbation together. The essay’s dia/syn relation has its own derivation: differentiation makes a particular course available, and renewed composition retains its source, alternatives and possibility of return. [The two logics](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) develop this relation without requiring that the acquired competence be destroyed whenever its course changes.
+
+The productive gap concerns a situated unity’s unrealised possibilities and its dependence on relations beyond a present state. Formal incompleteness has a distinct mathematical object and warrant. A returned encounter can change the actual condition exposed—source, representation, evaluator, permission or commission—while preserving a fitting criterion and a continuing identity. [Computational Vimarśa](../C43-Computational-Vimarsa.md) carries that change into further processing; [co-internality](../C42-Objective-Co-Internality.md) follows its consequence between distinct participants.
 
 ## Source trail
 
-- Humberto Maturana and Francisco Varela, *Autopoiesis and Cognition*.
-- Francisco Varela, Evan Thompson, and Eleanor Rosch, *The Embodied Mind*.
-- Evan Thompson, *Mind in Life*.
-- [[MEF Full Research - Oct 21 2025]] — working synthesis; primary citations still required.
+- Humberto Maturana and Francisco Varela, [*Autopoiesis and Cognition*](../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md): selected production and coupling passages printed77–81 and107–111; paraphrases in the housed passage register.
+- Francisco Varela, Evan Thompson and Eleanor Rosch, *The Embodied Mind*, and Evan Thompson, *Mind in Life*: the later enaction branch concerning organism–environment co-determination and sense-making. Its sources are distinct from the selected 1980 production/coupling account.
+- [[MEF Full Research - Oct 21 2025]]: retained working synthesis, distinct from a primary historical attribution.

@@ -5,6 +5,9 @@ record_type: argument
 register: episteme
 claim_status: Argued
 source_relation: "Extracted internal derivation; Argued operational development"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - taylor-2026-ql-musical-derivation-v3
 ---
 
 # A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account
@@ -67,7 +70,7 @@ $$
 \frac43\cdot\frac98\cdot\frac43=2.
 $$
 
-The retained whole-tone is how the relation completes. Erasing it would prevent the octave rather than improve the calculation. [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE|The musical-v3 source house]] sources the direct derivation at §II-5.2–5.4; source passage extraction remains locator-needed. [[symbolon/episteme/concepts/C30-Psychoid-Number|C30]] qualifies the further number-reading: an exact interval does not independently prove a psychic, historical or metaphysical identity.
+The retained whole-tone is how the relation completes. Erasing it would prevent the octave rather than improve the calculation. The [musical ratio derivation](../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md#taylor-2026-ql-musical-derivation-v3-q001), §II-5.1–5.3, takes standing unity through partition, reduced ratio and cross-comparison into the completing interval. The criterion of this reckoning is the exact product: the retained `9/8` makes `(16/9)(9/8)=2` possible. [[symbolon/episteme/concepts/C30-Psychoid-Number|Psychoid Number]] qualifies the further number-reading: an exact interval does not independently prove a psychic, historical or metaphysical identity.
 
 Q27's hamartia image figures the opposite accounting: the `9/8` is treated as a defect to close instead of a difference through which return occurs. Its archer/bow/lyre language is a mythemic re-entry whose lexical descent requires its own evidence. The arithmetic above carries the operation without relying on that history.
 
