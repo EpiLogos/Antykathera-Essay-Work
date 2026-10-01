@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "b3ac86f0e90a8ad5184b84b58fd8b357d54f7277f74e908a87d760e63562f2ba"
+source_digest: "67b1bf64c59b8ab219f5e081a313a381619fc8953dbe9b943105065bdda69b0d"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -29,8 +29,8 @@ This map is generated from the relations authors wrote into the publication body
 | #3 | Mytheme — whole lived images | 48 | 763 | 59% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 24 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
 | #4 | Episteme · Arguments A01–A36 | 37 | 1033 | 49% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
-| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 568 | 28% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
-| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1264 | 36% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
+| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 569 | 28% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
+| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1284 | 35% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #4 | Episteme · Product field S / S0–S5 | 8 | 77 | 18% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
 | #4 | Episteme · Etymology whole-fields | 25 | 613 | 64% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 660 | 65% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
@@ -55,20 +55,20 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5582 |
-| sources | 1226 |
-| sources (declared) | 878 |
-| returns-to | 607 |
-| grounds | 374 |
+| unnamed | 5611 |
+| sources | 1228 |
+| sources (declared) | 895 |
+| returns-to | 604 |
+| grounds | 373 |
 | consumed-by (declared) | 293 |
-| extends | 287 |
-| qualifies | 246 |
-| defines | 205 |
-| figures | 183 |
+| extends | 286 |
+| qualifies | 244 |
+| defines | 204 |
+| figures | 182 |
 | historicises | 157 |
 | compares | 148 |
 | returns-to (declared) | 125 |
-| tests | 89 |
+| tests | 88 |
 | derives | 28 |
 | embodies | 15 |
 | sources (declared passage) | 12 |
@@ -78,5 +78,5 @@ This map is generated from the relations authors wrote into the publication body
 ## Standing of the surface
 
 - Workspace-resolved graph: 734/782 reachable, including metadata relations. Conservative visible-link audit: 719/782. See the audit for the distinction.
-- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 212.
+- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 209.
 - Full findings with page lists: [navigation audit](AUDIT.md).

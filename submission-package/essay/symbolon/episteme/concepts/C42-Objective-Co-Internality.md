@@ -3,101 +3,63 @@ record_id: C42
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued reciprocal world-constitution; source-specific comparisons separately evidenced"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - bratton-2026-agentworld-brief
 ---
 # C42 — Objective Co-Internality
 
 ## #0 — Reciprocal constitution without merger
 
-Objective Co-Internality is the reciprocal constitution of non-identical operative interiors through a shared world and one another.
+Objective Co-Internality is the reciprocal constitution of non-identical operative interiors through a shared world and one another. A participant's action can become part of the means through which another participant next perceives, judges and acts. The answer can return and change the first participant's means in turn.
 
-A document, action, expectation, permission, tool or changed environment can enter the conditions from which several participants next perceive and act. The relation is therefore stronger than communication between completed interiors. What passes between participants can become part of what later makes each participant's world available.
+A document, expectation, permission, tool or changed environment can carry this relation. What passes between participants acquires constitutive force: it enters what makes their later worlds available. [Objective Internality](C41-Objective-Internality.md) is the lived organisation of those means. Co-Internality is therefore **reciprocal paradigmatic constitution without merger**. Each centre remains capable of answering from a history and situation which the other's account does not exhaust.
 
-With [Objective Internality](C41-Objective-Internality.md), this can be stated as **reciprocal paradigmatic constitution without merger**. One Life's enacted pattern becomes part of another's conditions of salience, interpretation and action while each remains a centre whose world-disclosing pattern cannot be possessed by the other.
+The process argument gives the relation its genesis. An achieved form becomes a condition of further becoming. Where those passages cross between centres and remain answerable in both directions, the local histories develop through a common world. The [computational process argument](../arguments/A14-Computational-Process-Ontology.md) follows this inheritance; [Agentworld's harness and commons](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q038) gives it a technical setting in the relations among tools, shared knowledge, protocols and participants.
 
 ## #1 — Products become inherited conditions
 
-The participants do more than exchange messages.
+Consider a constructed case. A route planner proposes a path from a retained map. A person at the site reports that a gate on that path is locked. The report changes the planner's current representation, and the next route avoids that gate. The person's contribution has entered another participant's means of action. A message was received, but the important event was the change in what the planner could subsequently select.
 
-Records, language, tools, institutions and material changes can survive the act that produced them and enter another participant's future field. The result of one circuit becomes inherited context for another.
+The path is not exhausted by either account. The map represented it as passable; the report records a situated obstruction. A revised route can now change where the person travels and what they encounter next. When that further encounter returns, each participant's achieved act becomes a condition of the other's continuation. Records, tools and the resistant site mediate the relation together.
 
-Synchronically, the field is a present landscape of sources, permissions, memories, relations and possible actions.
-
-Diachronically, actual trajectories change that landscape.
-
-Co-Internality is the relation between these views when a trajectory in one interior changes the landscape of another.
-
-This is the paradigmatic force of language, media and institutions. They do not only carry propositions about a world; they can alter what later appears thinkable, credible, desirable, permissible or actionable.
+Synchronically, their shared field is a landscape of sources, permissions, memories, relations and possible actions. Diachronically, their actual trajectories change it. These are two readings of one developing relation: an act changes the field from which another act proceeds. Language, media and institutions have this constitutive force when they change what can count as thinkable, credible, desirable, permissible or actionable.
 
 ## #2 — Reciprocity requires retained difference
 
-A shared reality does not make one local model owner of the others.
+The planner's update does not give it authority to unlock the gate, nor does the person's report automatically change the rule governing access. Observation, representation and permission retain different offices. A common map can carry all three while keeping the sources and powers which distinguish them.
 
-Each contribution remains answerable to its source and world, not merely useful to the receiver. A shared state with no independent grounds can become assimilation: everyone appears in the same field only after the differences capable of revising that field have been translated away.
+Suppose the planner asks whether access is temporary, restricted to particular users, or prohibited altogether. The reply can change its category of the obstacle and the set of permitted routes. Conversely, the planner can disclose that its proposed alternative depends on an unverified crossing, allowing the person to contest the new route before taking it. Their grounds remain different enough for each answer to matter.
 
-The opposite failure is parallel isolation. If the grounds remain so separate that no consequence can cross between them, there is no co-internality.
-
-The relation therefore holds a demanding middle:
-
-**unmerged grounds + enough common relation for consequences to travel.**
-
-The Other can be within Mono without being within my model. Co-Internality carries that interpersonal law into shared epistemic, institutional and technical fields.
+A shared state that erases these differences turns participation into assimilation. A field that lets no consequence cross keeps its participants in parallel isolation. Co-Internality holds **unmerged grounds and enough common relation for consequences to travel**. The Other can participate in the whole without being contained by my model. The possibility of refusal and revision belongs to that participation.
 
 ## #3 — Difference needs an address
 
-A plural field has several possible sites of disagreement: source, object, lens, gauge, reference map, permission, inherited context and circulation rule.
+Disagreement can concern a source, object, lens, gauge, reference map, permission, inherited context or circulation rule. These distinctions locate different possible repairs. A stale map calls for a source update. A locked gate may call for another path. A disputed access rule calls for the participant who can answer for that rule. Sending all three to a route optimiser would substitute one operation for the others.
 
-The federated Bimba design makes those sites explicit. Distinct communities can keep locally authoritative maps while exposing enough of their grounds for comparison. The purpose is not to average divergence into one final map. It is to make the relation among maps addressable.
+Federated reference maps make this differentiation explicit. Communities can retain locally authoritative maps and still disclose the relations through which their claims can be compared. A map's local authority concerns a declared field; it does not become ownership of every other field. The [Bimba–Pratibimba relation](C38-Bimba-Pratibimba-Bimba-Map.md) lets a derived reference serve further readings while retaining its dependence on wider sources.
 
-A paradigm representation does the same at another scale. It can show what each participant treats as evidence, source, permission, value or available action while remaining one representation inside the relation it depicts.
-
-Translation succeeds where it lets differences become locatable without requiring one Life to be exhaustively rendered in the other's terms.
-
-[C40 — Judgment Field](C40-Model-Internality-Judgment-Field.md) supplies inspectable local determinations. [C51 — Logos / Epi-Logos](C51-Logos-Epi-Logos.md) carries the stronger return by which articulated difference can re-enter the paradigms whose relation it displays.
+A paradigm representation can similarly expose what a participant treats as evidence, permission, value and possible action. Translation succeeds when another participant can locate and answer the consequential difference. Exhaustive translation into one vocabulary is unnecessary; an exact account of where and how the claims meet is required. [Judgment Field](C40-Model-Internality-Judgment-Field.md) supplies the local determination; [Logos / Epi-Logos](C51-Logos-Epi-Logos.md) follows the return into the governing pattern itself.
 
 ## #4 — Reciprocity is measured by changed conditions
 
-Returned evidence can change different things:
+A returned encounter can alter a local judgment, reference map, permission, relation among maps or circulation rule. A partial change can be decisive. Correcting the gate's state revises information. Allowing site reports to suspend an otherwise authoritative route changes how information acquires authority. Giving affected participants a route to contest an access rule changes the governing relation again.
 
-a local judgment;  
-a reference map;  
-a permission;  
-a relation among maps;  
-a circulation rule.
+Reciprocity requires a route of answer in both directions, though each encounter need not change both participants equally or simultaneously. A one-way update can be a constituent event in that wider relation. It does not by itself establish the whole reciprocal circuit. The next act supplies the discriminating evidence: what did the receiving participant inherit, and how could that use become answerable to the contributor?
 
-These are different operations.
-
-A conversation demonstrates co-internal transformation where some participant's future conditions become materially different because of the encounter. The change can be paradigmatic without being total. A source correction may alter authority. A refusal may alter permission. A response may alter a category. A material consequence may alter what is feasible.
-
-The S parent field gives this a technical/social office:
-
-**SharedField / Encounter → Provenance / Recognition / Return.**
-
-The encounter becomes co-internal when its consequence can travel into one or more participants' conditions while source, refusal and distinct authority survive the crossing.
+[World and Life](../products/S-World-and-Life.md) gathers this technical and social office as shared field and encounter returning through provenance, recognition and changed conditions. Sources, refusals and distinct authorities survive the crossing. They remain available to a subsequent correction rather than disappearing into an agreed final map.
 
 ## #5→0 — Shared worldhood returns to distinct centres
 
-Co-Internality returns when a contribution changes another participant's next act and remains attributable enough for that use to be answered.
-
-The cycle is:
+The cycle can now be read in full:
 
 $$
-\text{source}
-\rightarrow
-\text{contribution}
-\rightarrow
-\text{reception}
-\rightarrow
-\text{changed condition}
-\rightarrow
-\text{new act}.
+\text{source}\rightarrow\text{contribution}\rightarrow\text{reception}
+\rightarrow\text{changed condition}\rightarrow\text{new act}.
 $$
 
-The new act can return in the other direction. A shared field therefore becomes recursive without requiring a single final subject or owner.
+The new act changes a shared situation and becomes available for an answer in the other direction. The route planner returns with altered means; the person returns with a different path, encounter or understanding of the planner's commitments. A shared world develops through these distinct centres rather than replacing them.
 
-[Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) gives the personed form: prior encounters become conditions of later Accounts while Countenance keeps address open.
+[Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) gives the personed form: prior encounters become conditions of later Accounts while Countenance keeps address open. [The Prisoner](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-return-without-throne) gives the failure-form: the Village constitutes its inhabitants through a common world while withholding reciprocal authority over that world's terms. Shared constitution without a power of answer can become domination.
 
-[The Prisoner](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-return-without-throne) gives the failure-form: the Village constitutes its inhabitants through a common world while withholding reciprocal authority over that world's terms.
-
-[Deferential Intelligence](C47-Deferential-Intelligence.md) carries the next turn: how a returned difference reaches the means by which the receiving interior will judge again.
-
-Objective Co-Internality is shared worldhood whose participants remain different enough to change one another.
+[Deferential Intelligence](C47-Deferential-Intelligence.md) carries the receiving turn: the encountered difference reaches the means by which an interior will judge again. Objective Co-Internality is shared worldhood whose participants remain different enough to change one another.

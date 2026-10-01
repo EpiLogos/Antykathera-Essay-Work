@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "b3ac86f0e90a8ad5184b84b58fd8b357d54f7277f74e908a87d760e63562f2ba"
+source_digest: "67b1bf64c59b8ab219f5e081a313a381619fc8953dbe9b943105065bdda69b0d"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -45,9 +45,9 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Matheme — exact operations | 94 | 844 | 389 | 455 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 763 | 448 | 315 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1033 | 511 | 522 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 568 | 161 | 407 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1264 | 451 | 813 | 36 | 74 | 47 |
+| Episteme · Arguments A01–A36 | 37 | 1033 | 507 | 526 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 569 | 159 | 410 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1284 | 449 | 835 | 36 | 71 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 77 | 14 | 63 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
@@ -156,10 +156,7 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C36 — Complexio Oppositorum](../../concepts/C36-Complexio-Oppositorum.md)
 - [C37 — World-Picture → World-Atlas](../../concepts/C37-World-Picture-to-World-Atlas.md)
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
-- [C42 — Objective Co-Internality](../../concepts/C42-Objective-Co-Internality.md)
 - [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)
-- [C45 — Operational Parity](../../concepts/C45-Operational-Parity.md)
-- [C46 — Epistemic Cultivation](../../concepts/C46-Epistemic-Cultivation.md)
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
 - [C48 — Trust / Faith under Formal Limit](../../concepts/C48-Trust-Faith-under-Formal-Limit.md)
 - [C49 — The Two Ones — 0 = One, 1 = All](../../concepts/C49-The-Two-Ones-0-One-1-All.md)

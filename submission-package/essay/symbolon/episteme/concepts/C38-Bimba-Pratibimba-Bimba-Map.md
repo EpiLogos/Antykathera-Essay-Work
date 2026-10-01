@@ -3,6 +3,9 @@ record_id: C38
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native Bimba/Pratibimba and recursive reference-office development; Saiva reflection and Offered technical design remain distinct"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - taylor-2026-mef-twelve-lenses
 ---
 # C38 — Bimba–Pratibimba / Bimba Map
 
@@ -16,15 +19,15 @@ Ontological Bimba is prior in being and later in recognition: the Original is re
 
 ## #2
 
-The native parents `(0/1)/(1/0)` and `(1/0)/(0/1)` carry the complete body in inverse orientations. The first and returned accounts preserve their source relation. Q27's corrected optical stack places QL in the light's ordered spectrum, MEF in the refracting apparatus and pratibimba in the cast image. A technical world-picture is thus a reflection relative to the wider world; renaming it cannot make it metaphysically Original.
+The native parents `(0/1)/(1/0)` and `(1/0)/(0/1)` carry the complete body in inverse orientations. The first and returned accounts preserve their source relation. The optical relation places QL in the light's ordered spectrum, MEF in the refracting apparatus and pratibimba in the cast image. A technical world-picture is thus a reflection relative to the wider world; renaming it cannot make it metaphysically Original.
 
-The T25 paradigm/project relation gives this reflection a general causal office without changing its ontological standing. A **Project** is a determination thrown forth through a **Paradigm** into a World; a pratibimba can therefore become an effective condition of what happens next. The `/↔1` relation names this projection/enactment. C38 supplies the guard the relation needs: causal efficacy, local reference authority and downstream dependence never by themselves promote the projected `1` into the source-office from which it derived.
+The paradigm/project relation gives reflection a consequential office within the world it discloses. A **Project** is a determination thrown forth through a **Paradigm** into a World; a pratibimba can therefore become an effective condition of what happens next. The `/↔1` relation names this projection/enactment. A revised map can change a route and become the reference for later journeys. Its authority in those journeys remains derived from the encountered world, sources and rules through which it was made. Its causal effectiveness and its dependence are simultaneous features of the same projection.
 
 ## #3
 
 Recursive locality nevertheless gives a real reference office. Inside a declared Context Frame, a source record or agreed world-object can serve as Bimba for judgments compared with it. That same field remains pratibimba relative to wider sources and reality. The [retained Bimba carrier](bimba-pratibimba.md) explicitly restores this contextual use: local authority can be strong and operational without being final.
 
-This is also a paradigmatic office. A local Bimba can organise source, gauge, lens and admissible relation strongly enough to condition a subsequent inquiry. The healthier case keeps that organisation visible as mediation and lets returned resistance revise the local original. The counterfeit case appears when the map becomes the sole authorised route through which its wider source is permitted to appear. [A22](../arguments/A22-World-Picture-to-World-Atlas.md) develops the constructive atlas in which projections and transitions remain answerable to the paradigms that made them legible.
+This is also a paradigmatic office. A local Bimba can organise source, gauge, lens and admissible relation strongly enough to condition a subsequent inquiry. The healthier case keeps that organisation visible as mediation and lets returned resistance revise the local original. The counterfeit case appears when the map becomes the sole authorised route through which its wider source is permitted to appear. [World Picture to World Atlas](../arguments/A22-World-Picture-to-World-Atlas.md) develops the constructive atlas in which projections and transitions remain answerable to the paradigms that made them legible.
 
 ## #4
 
@@ -51,6 +54,6 @@ The [Symbol / Account / Trust whole-field — Account does not replace source](.
 
 The map also **returns-to** [Paradigm-through-Project → Projection / Enactment](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#1--paradigm-through-project-projection--enactment) at evidence register 3. A projected reference can orient future determinations and become causally active without becoming metaphysical source. Paradigmatic reflexivity begins where the map’s source, gauge and exclusions can themselves enter the return and where a later act inherits their revision.
 
-Returned evidence can revise a situated judgment, a relation between reference fields, or the local Bimba itself. Stability provides orientation; corrigibility preserves truth-seeking. A map anchors by attributable source relations and contestable construction, not by storing Truth. C42 develops reciprocal world-constitution and C55 the reflective field in which the map's own authority can turn first toward its source.
+Returned evidence can revise a situated judgment, a relation between reference fields, or the local Bimba itself. Stability provides orientation; corrigibility preserves truth-seeking. A map anchors by attributable source relations and contestable construction, not by storing Truth. [Objective Co-Internality](C42-Objective-Co-Internality.md) develops reciprocal world-constitution, and the [Reflective Field](C55-Reflective-Field-Mirror-That-Moves-First.md) lets a map turn its own authority first toward its source.
 
 The [Avatar · image · mask · idol](../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) **figures** an achieved image genuinely serving as local Bimba for further readings within a declared Context Frame. It remains pratibimba toward its wider sources, and the comparisons it makes possible can return to revise the local original itself. The four-office ecology keeps that authority effective: idolisation concerns immunity from sourceward correction, not the mere fact that a bounded reference governs an inquiry.

@@ -31,13 +31,13 @@ The paradigm version adds one further question: **what relation connects the exp
 
 ## #2
 
-[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|The MEF reference house]] sources an internal architecture, with its direct local twelve-lens reference recoverable despite the house's stale absence statement. Each lens carries the whole rotated Name/Power constellation. L4 is not all Power and L4′ is not all Name: the same constellation is grounded from opposite faces. Same-index Day/Night pairing and complementary-index pairing are different relations.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|The MEF reference house]] sources an internal architecture, through its complete locally held twelve-lens reference. Each lens carries the whole rotated Name/Power constellation. L4 is not all Power and L4′ is not all Name: the same constellation is grounded from opposite faces. Same-index Day/Night pairing and complementary-index pairing are different relations.
 
 The Name sequence Truth/Mind/Word/Logos/Son/Image keeps articulation; Power's Play/Need/Sacrifice/Decision/Love/Work keeps transformative cost. The native core and supporting field ground these as coequal offices. Operational parity asks what changes when a distinction is promoted into a technical feature: retrieval, retention of exclusions, evaluation, collaboration or return. Attaching twelve labels to the same unchanged output does not demonstrate twelve operative lenses.
 
 [[symbolon/episteme/concepts/C39-Meta-Epistemic-Framework|C39 MEF]] owns the framework. Its mathematical subset and historical-source claims remain independent tasks; neither a musical resemblance nor a generated scale table proves epistemic utility.
 
-The six product pairs now make the same demand at a larger scale. Central, Actuation, AIKit, Factory, Workcell and QL are not validated because software components have those names. Their philosophical office earns technical standing only where **meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation** produce distinct, inspectable consequences. If removing the distinction leaves the system unchanged, the product mapping has failed its own parity test.
+The six product pairs now make the same demand at a larger scale. Central, Actuation, AIKit, Factory, Workcell and QL are not validated because software components have those names. Their philosophical office earns technical standing only where **meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation** produce distinct, inspectable consequences. If removing the distinction leaves the relevant operation unchanged in a comparison that actually exercises it, the product mapping has not established its claimed consequence.
 
 ## #3
 

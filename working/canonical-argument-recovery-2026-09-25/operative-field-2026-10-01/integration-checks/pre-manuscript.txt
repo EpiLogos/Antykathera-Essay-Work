@@ -1,0 +1,27 @@
+{
+  "census": {
+    "pages": 782,
+    "reachable": 719,
+    "problems": {
+      "directory-link": 6,
+      "title-or-alias-only": 505,
+      "missing-vault-path": 91,
+      "ambiguous-filename": 5,
+      "missing-path": 1
+    },
+    "admitted": 288,
+    "missing_admitted": 0,
+    "unreachable_admitted": 0
+  },
+  "canonical_suite": {
+    "count": 137,
+    "missing": [],
+    "duplicate_ids": {},
+    "duplicate_homes": {},
+    "metadata_mismatches": [],
+    "missing_sixfold_sections": []
+  },
+  "preservation": {
+    "changed_protected_since_T24_entry": []
+  }
+}

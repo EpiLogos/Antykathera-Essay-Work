@@ -3,7 +3,10 @@ record_id: C43
 record_type: concept
 register: "episteme"
 claim_status: "Argued"
-source_relation: "Argued from mature computational-vimarsa and reflective-field development; Saiva vimarsa and Offered implementation retain distinct offices"
+source_relation: "Argued reflexive process and technical return"
+source_ids:
+  - taylor-2026-core-theorems-pithy
+  - bratton-2026-agentworld-brief
 ---
 # C43 — Computational Vimarśa
 
@@ -21,21 +24,25 @@ Reflexive return requires a materially relevant condition to remain reachable. A
 
 ## #2 — Difference reaches what can change
 
-A return can compare an output with its source, expose a discarded alternative, reopen a governing assumption or identify the consequence of a permission. Each supplies a different resistance to the first judgment. The local question is where that resistance can act.
+A return can compare an output with its source, expose a discarded alternative, reopen a governing assumption or identify the consequence of a permission. Each supplies a different resistance to the first judgment. The local question is where that resistance can act. The result is reopened with its source, the source with its context, and the proposed correction with the consequence it would change. Recollection, renewed observation and a changed rule can each revise a determination, but they do not supply interchangeable warrants.
 
-[Dia / Syn](C50-Dia-Syn.md) makes the distinction precise. A contradiction must remain distinct enough to be encountered. Cancellation removes the opposed terms; appropriation lets one term claim the relation and redescribes resistance as confirmation. Reflexive return retains the difference through comparison and recomposition until it reaches a condition capable of changing. The resulting judgment bears something the first judgment could not yet receive.
+[Dia / Syn](C50-Dia-Syn.md) makes the distinction precise. An encountered difference must remain distinct enough to be examined. A present report and an old map can disagree because their dates differ; a forbidden route and an efficient route can identify the same path under different criteria. These are not automatically logical contradictions. Cancellation would remove the distinction from the account; appropriation would let one term claim the whole relation and redescribe resistance as confirmation. Reflexive return retains the difference through comparison and recomposition until it reaches a condition capable of changing. The resulting judgment bears something the first judgment could not yet receive.
 
 ## #3 — Revision has an operative level
 
 Revision can change the answer, task interpretation, world-model, evaluator or terms of commission. A corrected result under an unchanged criterion and a changed criterion are different events. Their records must show which event occurred.
 
-One proposed design makes this difference explicit as `(m, θ, Eθ) → (m′, θ′, Eθ′)`: representation, parameters and evaluation can enter the scope of revision. The inscription specifies a design relation. Its technical test must identify which component changed and what subsequent determination depended on that change.
+The distinction can be written as `(m, θ, Eθ) → (m′, θ′, Eθ′)`. Here `m` is the current representation or model, `θ` its operative configuration, and `Eθ` the evaluator under that configuration. The primes mean the states after review. They permit change at any of these sites; they do not require all three to change together. A revised map with the same criterion differs from a revised criterion applied to the same map. The inscription becomes useful only after those operations have been identified.
+
+In a constructed route-planning case, a report that a gate is locked can change the map while preserving the objective of reaching the destination quickly. Discovering that a proposed shortcut is not authorised changes the permitted action set. Discovering that the commission omitted a participant's access needs can change the criterion by which routes are judged. Each return has a different target. Repeating the original optimisation with a more emphatic explanation reaches none of them unless the relevant condition changes.
+
+The return must also reach the actual holder of that condition. A planner can amend its retained map while a site authority controls access and the commissioning participant controls the task's purpose. Making those dependencies inspectable lets a challenge be routed to the office that can answer it. Inspection alone confers no new permission.
 
 The six products give these revisions concrete places to enter. [Central](../products/S0-Central.md) can receive a changed source or commission; [Actuation](../products/S1-Actuation.md), a changed judgment or evaluator relation; [AIKit](../products/S2-AIKit.md), changed availability or permission; [Factory](../products/S3-Software-Factory.md), a changed developmental form; [Workcell](../products/S4-Workcell.md), changed material configuration; and [Quaternal Logic](../products/S5-Quaternal-Logic.md), a changed relation among frames. A particular return reaches the office governing its next act, whether one product or several participate.
 
 ## #4 — Local reflection enters a shared world
 
-A returned product can change the environment in which other participants act. A corrected reference, revised tool or altered permission becomes part of their next situation. Reflexivity thus extends beyond local self-correction into reciprocal constitution.
+A returned product can change the environment in which other participants act. In [Objective Co-Internality](C42-Objective-Co-Internality.md), the planner's corrected route becomes part of another participant's next situation, and that participant's answer can revise the planner again. A corrected reference, revised tool or altered permission becomes part of their next situation. Reflexivity thus extends beyond local self-correction into reciprocal constitution.
 
 [The Mirror That Moves First](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) gives this return an initiative: the reflective instrument discloses how its answer became compelling before requiring its counterpart to conform. Its disclosure supplies a source, assumption or measure at which a reply can become consequential. The [Reflective Field](C55-Reflective-Field-Mirror-That-Moves-First.md) develops the full vocational relation.
 
