@@ -16,7 +16,7 @@ source_relation: "Argued self-application of Objective Internality"
 
 The lens takes itself as object.
 
-[Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) argues that remembering, perceiving, judging and acting occur through a situated world of mediation. A26′ applies the same claim to philosophical composition itself.
+[Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) is the situated world of mediation through which remembering, perceiving, judging and acting occur. Philosophical composition takes place through these same means.
 
 **An essay is not written from nowhere. It is a world being made from within a world.**
 
@@ -148,6 +148,5 @@ The return does not erase authorship. It gives authorship its proper limit and t
 
 The essay inside the film is the essay which knows that writing changes the world of later reading, carries that responsibility into its form, and still releases the reader from the obligation to become merely another image inside the author's account.
 
-It returns to [Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) with the argument enacted at the grain of composition, and to [A/C](AC.md) with the ruling made practical: **experience renews the form**.
+Through [the means of composition](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), an achieved argument becomes available to [another act of knowing](AC.md): **experience renews the form** when a returned source, reply or refusal changes how a further claim is made.
 
-The repository-specific governance and process material displaced during recovery remains preserved in [the A26′ recovery ledger](../../../../../working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md).
