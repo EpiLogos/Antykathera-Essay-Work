@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
+source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -39,7 +39,7 @@ Group: `ql` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [NIST DLMF — Complex Variable and Conformal Mapping (2026)](../../../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) · *returns-to* → [A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account](../../../arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) · *unnamed* → [Kauffman iterants](../../../../matheme/formal-neighbours/kauffman-iterants.md), [Cross-Ratio under Fractional-Linear Transformation](../../../../matheme/formal-neighbours/cross-ratio.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [§3 · #2 — Mark, Re-entry, and Complex Orientation](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md), [Process — the /](../../../../matheme/process/README.md)
 
-**Reached from:** *returns-to* ← [Quaternion Q8 and Rotation](../../../../matheme/formal-neighbours/quaternion-q8.md), [Tetraktys and the 3–4–5 Triangle](../../../../matheme/harmonics/tetraktys-triangle.md) · *unnamed* ← [Cross-Ratio under Fractional-Linear Transformation](../../../../matheme/formal-neighbours/cross-ratio.md), [QL](../../../../matheme/ql/README.md), [X/x: Specification without Exhaustion](../../../../matheme/ql/x-x.md)
+**Reached from:** *returns-to* ← [Tetraktys and the 3–4–5 Triangle](../../../../matheme/harmonics/tetraktys-triangle.md) · *unnamed* ← [Cross-Ratio under Fractional-Linear Transformation](../../../../matheme/formal-neighbours/cross-ratio.md), [Quaternion Q8 and Rotation](../../../../matheme/formal-neighbours/quaternion-q8.md), [QL](../../../../matheme/ql/README.md), [X/x: Specification without Exhaustion](../../../../matheme/ql/x-x.md)
 
 ### [Crossed Zero and Native Re-entry](../../../../matheme/ql/crossed-zero-re-entry.md)
 

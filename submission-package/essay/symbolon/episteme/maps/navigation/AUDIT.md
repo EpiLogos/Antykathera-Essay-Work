@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
+source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -42,24 +42,24 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
-| Matheme — exact operations | 94 | 841 | 345 | 496 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 48 | 761 | 422 | 339 | 0 | 23 | 0 |
+| Matheme — exact operations | 94 | 841 | 332 | 509 | 0 | 13 | 0 |
+| Mytheme — whole lived images | 48 | 760 | 408 | 352 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
 | Episteme · Arguments A01–A36 | 37 | 1030 | 444 | 586 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 549 | 107 | 442 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1385 | 386 | 999 | 36 | 66 | 47 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 534 | 82 | 452 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1384 | 334 | 1050 | 36 | 66 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 612 | 350 | 262 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 664 | 426 | 238 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1083 | 167 | 916 | 0 | 79 | 0 |
-| Episteme · Dossiers | 8 | 205 | 177 | 28 | 0 | 1 | 0 |
+| Episteme · Dossiers | 8 | 203 | 164 | 39 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 128 | 7 | 121 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
 | Episteme · Aphorisms | 1 | 11 | 9 | 2 | 0 | 0 | 0 |
 | Episteme · Figures | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
 | Episteme · Dialogues | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
-| Supporting quilt ledgers (non-canonical) | 6 | 99 | 19 | 80 | 0 | 3 | 0 |
+| Supporting quilt ledgers (non-canonical) | 6 | 108 | 19 | 89 | 0 | 3 | 0 |
 
 ## Curated paths
 

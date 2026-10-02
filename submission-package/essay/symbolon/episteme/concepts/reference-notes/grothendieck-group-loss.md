@@ -16,7 +16,7 @@ tags:
 # Grothendieck Group Loss
 
 > [!summary]
-> Cancellation/group-completion is structurally lossy; choose a specific K-theory reference before draft citation.
+> Group completion loses original distinctions when its natural map is non-injective; that map is injective exactly when the original commutative monoid is cancellative. Thus `ℕ→ℤ` preserves distinct counts, while a nonzero idempotent becomes zero in the receiving group. The [complete construction](../../../matheme/formal-neighbours/grothendieck-group-loss.md) derives these cases. Choose a specific K-theory reference before draft citation.
 
 **Reference kind:** mathematics. **Evidence status:** research-required.
 

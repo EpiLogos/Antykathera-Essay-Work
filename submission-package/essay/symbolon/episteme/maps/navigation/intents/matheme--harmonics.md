@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
+source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `harmonics` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — QL Musical Derivation v3 (2026)](../../../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) · *unnamed* → [Cymatics and Standing Waves](../../../concepts/reference-notes/cymatics-standing-waves.md), [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md)
 
-**Reached from:** *grounds* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md) · *unnamed* ← [Harmonics](../../../../matheme/harmonics/README.md)
+**Reached from:** *unnamed* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Harmonics](../../../../matheme/harmonics/README.md)
 
 ### [Harmonics](../../../../matheme/harmonics/README.md)
 
@@ -61,7 +61,7 @@ Group: `harmonics` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Derived`
 
-**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [A18 — Primordial Symbolon and Its Eight Determinations](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) · *unnamed* → [§2 — The Pythagorean Number](../../../../matheme/quilt/number.md), [Tetraktys and the 3–4–5 Triangle](../../../../matheme/harmonics/tetraktys-triangle.md), [§3 · #1 — The Spanda Equations and 4+2](../../../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md), [2 + 2² — Binary and Binary-of-Binary](../../../../matheme/ql/binary-and-binary-of-binary.md)
+**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [§2 — The Pythagorean Number](../../../../matheme/quilt/number.md), [Tetraktys and the 3–4–5 Triangle](../../../../matheme/harmonics/tetraktys-triangle.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [§3 · #1 — The Spanda Equations and 4+2](../../../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md), [2 + 2² — Binary and Binary-of-Binary](../../../../matheme/ql/binary-and-binary-of-binary.md)
 
 **Reached from:** *returns-to* ← [Tetraktys and the 3–4–5 Triangle](../../../../matheme/harmonics/tetraktys-triangle.md) · *unnamed* ← [Chinese Remainder: Six as Two by Three](../../../../matheme/formal-neighbours/crt-z6.md), [Harmonics](../../../../matheme/harmonics/README.md), [§2 — The Pythagorean Number](../../../../matheme/quilt/number.md)
 

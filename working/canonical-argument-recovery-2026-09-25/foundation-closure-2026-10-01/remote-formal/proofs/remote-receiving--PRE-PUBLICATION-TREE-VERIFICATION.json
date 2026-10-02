@@ -1,0 +1,21 @@
+{
+  "source_parent": "5e0b0a716a1ed750d98562d2d60031ed13c2c4d0",
+  "validated_tree": "992afbaf0f05b27be84994cd41d895c2b7b06b73",
+  "execution_commit": "c0c4d387d889379ea2c612f7e832819b302d2028",
+  "workflow_run": 36944430510,
+  "workflow_job": 110644491904,
+  "status": "Exact checked tree independently verified before publication",
+  "canonical_records": 36,
+  "proof_files": 32,
+  "changed_blobs": 152,
+  "deleted_blobs": 0,
+  "unexpected_blobs": 0,
+  "protected_files": 574,
+  "protected_changes": 0,
+  "unchanged_tools_tests_governing": 36,
+  "exact_expected_postimages": 69,
+  "strict_errors": 0,
+  "review_candidates": 206,
+  "full_suite_exit": 1,
+  "scope": "Known five deferred movement quality failure and native absent-AIKit skip retained; no whole-foundation semantic closure."
+}

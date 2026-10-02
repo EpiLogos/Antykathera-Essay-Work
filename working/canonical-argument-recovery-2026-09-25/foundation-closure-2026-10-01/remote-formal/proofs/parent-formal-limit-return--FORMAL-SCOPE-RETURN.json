@@ -1,0 +1,27 @@
+{
+  "reviewer": "depth_recovery",
+  "returns": [
+    {
+      "key": "RUSSELL",
+      "before_candidate_sha256": "74f4696b9acf7a740bdc971a931dfc2ec91aace04cd8720b61860dded89d86d3",
+      "after_candidate_sha256": "ea3b84e8d3931638b5ac9d3a3c327c7f137ddbc40e8707cf14f57dbb85cfa3ad",
+      "finding": "Exact type0 domain needed for stated complement equality.",
+      "scope": "Minimal actual formal-premise repair before acceptance; no changed governing source, equation or detector."
+    },
+    {
+      "key": "DIVISION",
+      "before_candidate_sha256": "e6d0e1e5fc8a7d37ce50f79a8131cb975b53e13fbb853f40c052633e54c66ecb",
+      "after_candidate_sha256": "936c449ba7f227f524a0e31e7c312d5a985082b6fb5488cd05752377db38fe26",
+      "finding": "Integers6and17 coincide in characteristic11; real field fixes the example domain while preserving the general nonzero cancellation argument.",
+      "scope": "Minimal actual formal-premise repair before acceptance; no changed governing source, equation or detector."
+    },
+    {
+      "key": "DIVISION",
+      "before_candidate_sha256": "936c449ba7f227f524a0e31e7c312d5a985082b6fb5488cd05752377db38fe26",
+      "after_candidate_sha256": "08cec62fa5fae3d6b0dd4cb4cfa9a4b4222084d60d7c244e062ba65dac4c328f",
+      "finding": "Numeral examples6/2and0\u22606 require field characteristic compatible with those real examples; the construction and all identities remain over anyfield.",
+      "repair": "Explicit real-field scope for these worked examples; no change of general definition."
+    }
+  ],
+  "status": "Corrected; independent full/source review still pending"
+}
