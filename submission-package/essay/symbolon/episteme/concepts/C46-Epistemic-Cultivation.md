@@ -36,7 +36,7 @@ The route-planning example lets those levels be followed. Correcting a gate's st
 <a id="3"></a>
 ## #3 — The warranted change reaches an act
 
-Revise the warranted locus: source relation, concept scope, gauge, permission, implementation or terms of commission. The [cultivation argument](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) asks whether a promoted distinction changes retrieval, exclusion retention, evaluation, collaboration or return. [Operational Parity](C45-Operational-Parity.md) makes that question discriminable; [Deferential Intelligence](C47-Deferential-Intelligence.md) keeps revision open to an Other who was not already contained by the model.
+A warranted revision reaches its actual locus: source relation, concept scope, gauge, permission, implementation or terms of commission. A [distinction carried into inquiry](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) can change retrieval, exclusion retention, evaluation, collaboration or return; its operative claim is answerable through that consequence. [Operational Parity](C45-Operational-Parity.md) makes the difference discriminable; [Deferential Intelligence](C47-Deferential-Intelligence.md) keeps revision open to an Other who was not already contained by the model.
 
 A warranted change has a scope and an agent able to enact it. The site report may revise a map; the relevant authority may revise a permission; a participant may revise the task they commissioned. The system carries the challenge to that office and preserves the answer. The next planning event must then inherit the revised condition. A recommendation to change and a change that actually governs the next event are separate accomplishments.
 

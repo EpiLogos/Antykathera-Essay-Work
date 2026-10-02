@@ -1,0 +1,27 @@
+{
+  "records": [
+    {
+      "id": "A06",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/preimages/A06-Vak.md.txt",
+      "preimage_sha256": "270c1a73486d93f4212e84894736b26a3f9ee3d845922b92be311f6fcad7a446",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/candidates/A06-Vak.md.txt",
+      "candidate_sha256": "cad9f74580d3a839c05b54092da06b7c489dd99d5e6ef8ca15bd134762532c60",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/A06-PRE-EDIT-RECOVERY.json",
+      "changed_contiguous_paragraph_runs": 8,
+      "changed_new_paragraphs": 21,
+      "operation": "Complete formative descent; personed address/context; selfing/Other; name-empty/full and nama; kaleidoscope/word-counterpart/pure-notion/open-concept; explicit model versus enactment; actual authority/execution; sourceward correction or fittingretention inherited nextact; C43 stronger identified processingchange distinguished; authorial firstperson recognition preserved.",
+      "native_audit": {
+        "hard": 0,
+        "review": 7,
+        "all_individually_disposed": true
+      },
+      "independent_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/INDEPENDENT-A06-REVIEW.json",
+        "sha256": "249bb6e855b5ce0d25c4be9ab1763f1928cae27b31888361fc6fb259943cd5eb"
+      },
+      "status": "Independently cold accepted at exact final hash; non-live, parent owns canonical inclusion and unchanged remote gates."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "records": [
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "41b1975e654a025f282f445d65a960ada94a96619717e096175eca3077d31cd1",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/preimages/A03-Immutable-Gap-Formal-Limit.md.txt",
+      "whole_actual_read": "Entire current carrier actually read untruncated before draft, 102 lines.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/candidates/A03-Immutable-Gap-Formal-Limit.md.txt",
+      "lines": 102,
+      "native": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "preimage_sha256": "41b1975e654a025f282f445d65a960ada94a96619717e096175eca3077d31cd1",
+      "candidate_sha256": "b9da695c0bf0b7dc6d97ef252318a844c52b14b8f52abe9f42915ccd79477099",
+      "status": "Exact source/public operation independently accepted; non-live parent admission/inclusion pending",
+      "independent_cold": {
+        "path": "concept-legacy-operation-return/INDEPENDENT-IMMUTABLE-GAP-ARGUMENT-REVIEW.json",
+        "sha256": "2197fbcfd2109a8f1db3d6d8d3fc73484850462097d6df99740cc5ec3716b6d8"
+      }
+    },
+    {
+      "native_path": "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "sha256": "de8071fd67a3c5dbd2c5bb18dabf38364af970266b236b109c6c8d7995436cf9",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/preimages/A03-prime-The-Limit-of-Self-Surfacing.md.txt",
+      "whole_actual_read": "Entire current carrier actually read untruncated before draft, 76 lines.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/candidates/A03-prime-The-Limit-of-Self-Surfacing.md.txt",
+      "lines": 76,
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "preimage_sha256": "de8071fd67a3c5dbd2c5bb18dabf38364af970266b236b109c6c8d7995436cf9",
+      "candidate_sha256": "beab9f2f63fd7e8d5e7e8226986049792fdbfca078c5295d97b821877be2da72",
+      "status": "Exact source/public operation independently accepted; non-live parent admission/inclusion pending",
+      "independent_cold": {
+        "path": "depth-generating-continuation/INDEPENDENT-A03-PRIME-GAP-REVIEW.json",
+        "sha256": "45c9a3a6200fb82f664460974693c9194b9d36d6d122fd8993850a6147f1373c"
+      }
+    }
+  ],
+  "effects_depth": 4,
+  "pre_edit_recovery": "PRE-EDIT-RECOVERY.json",
+  "live_writes": false,
+  "heavy_checks": false,
+  "stage": "Both complete source/public operations independently accepted at b9da695c/beab9f2f; native gates and canonical inclusion parent owned"
+}

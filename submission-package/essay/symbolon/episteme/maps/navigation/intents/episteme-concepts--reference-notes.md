@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
+source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -237,7 +237,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 **Implicates:** *sources* → [Bergson — Time and Free Will (Pogson, 1913 carrier)](../../../sources/process-systems-theory/bergson/bergson-1913-time-free-will-pogson/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *sources (declared)* → [Bergson — Time and Free Will (Pogson, 1913 carrier)](../../../sources/process-systems-theory/bergson/bergson-1913-time-free-will-pogson/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *unnamed* → [A14 — Computational Process Ontology](../../../arguments/A14-Computational-Process-Ontology.md), [C07 — Conditions of Worldhood](../../../concepts/C07-Conditions-of-Worldhood.md), [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md), [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md)
 
-**Reached from:** *compares* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md) · *unnamed* ← [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
+**Reached from:** *unnamed* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md), [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
 
 ### [Hole Whole Holy Health](../../../concepts/reference-notes/hole-whole-holy-health.md)
 
@@ -249,7 +249,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 **Implicates:** *unnamed* → [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md)
 
-**Reached from:** *extends* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md)
+**Reached from:** *unnamed* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md)
 
 ### [Jung-Pauli](../../../concepts/reference-notes/jung-pauli.md)
 
@@ -303,7 +303,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 **Implicates:** *sources* → [Maturana and Varela — Autopoiesis and Cognition (1980)](../../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md#maturana-varela-1980-autopoiesis-cognition-q001), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *sources (declared)* → [Maturana and Varela — Autopoiesis and Cognition (1980)](../../../sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *unnamed* → [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md#enacted-world-and-instituted-permission), [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [A30 — Objective Co-Internality](../../../arguments/A30-Objective-Co-Internality.md), [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [C43 — Computational Vimarśa](../../../concepts/C43-Computational-Vimarsa.md), [C42 — Objective Co-Internality](../../../concepts/C42-Objective-Co-Internality.md)
 
-**Reached from:** *extends* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md) · *unnamed* ← [Laws of Form](../../../concepts/reference-notes/laws-of-form.md)
+**Reached from:** *unnamed* ← [Laws of Form](../../../concepts/reference-notes/laws-of-form.md), [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md)
 
 ### [MEF](../../../concepts/reference-notes/mef.md)
 
@@ -483,7 +483,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 **Implicates:** *unnamed* → [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md), [A17 — Toroidal Circulation and the Arche-Topos](../../../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md), [Surface Classification 4g+2g](../../../concepts/reference-notes/surface-classification-4g-2g.md), [Musical Resolution of the Arche-Topos](../../../concepts/reference-notes/musical-resolution-of-arche-topos.md)
 
-**Reached from:** *extends* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md) · *unnamed* ← [Mathematical-Artistic Image Register](../../../concepts/reference-notes/mathematical-artistic-image-register.md), [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
+**Reached from:** *unnamed* ← [Mathematical-Artistic Image Register](../../../concepts/reference-notes/mathematical-artistic-image-register.md), [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md), [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
 
 ### [Trika](../../../concepts/reference-notes/trika.md)
 
@@ -537,7 +537,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 **Implicates:** *unnamed* → [A14 — Computational Process Ontology](../../../arguments/A14-Computational-Process-Ontology.md), [Taylor and Claude — Derivational Chat Record (2026)](../../../sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md)
 
-**Reached from:** *returns-to* ← [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md) · *unnamed* ← [Gödel Incompleteness](../../../concepts/reference-notes/godel-incompleteness.md), [Russell — Paradox and Type-Theoretic Closure](../../../concepts/reference-notes/russell-paradox-type-theory.md), [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
+**Reached from:** *unnamed* ← [Gödel Incompleteness](../../../concepts/reference-notes/godel-incompleteness.md), [Russell — Paradox and Type-Theoretic Closure](../../../concepts/reference-notes/russell-paradox-type-theory.md), [Process — What an Achieved Form Makes Possible Next](../../../dossiers/process.md), [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
 
 ### [Wittgenstein — Limit, Silence, and Forms of Life](../../../concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md)
 

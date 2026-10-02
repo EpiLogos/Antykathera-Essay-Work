@@ -1,5 +1,5 @@
 {
-  "source_digest": "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae",
+  "source_digest": "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -28,25 +28,25 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 6735,
-    "sources": 1347,
-    "sources (declared)": 972,
+    "unnamed": 7200,
+    "sources": 1372,
+    "sources (declared)": 1002,
     "consumed-by (declared)": 317,
-    "returns-to": 286,
-    "grounds": 168,
-    "extends": 147,
+    "returns-to": 199,
     "returns-to (declared)": 125,
-    "qualifies": 125,
-    "figures": 123,
-    "compares": 98,
-    "defines": 97,
-    "historicises": 79,
-    "tests": 48,
-    "derives": 20,
+    "grounds": 101,
+    "qualifies": 90,
+    "extends": 75,
+    "defines": 56,
+    "compares": 54,
+    "historicises": 53,
+    "figures": 37,
+    "tests": 23,
+    "derives": 16,
     "sources (declared passage)": 12,
     "companion notes (declared)": 10,
-    "embodies": 7,
-    "presages": 2
+    "embodies": 5,
+    "presages": 1
   },
   "per_class": {
     "rooms": {
@@ -123,9 +123,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1025,
-      "named": 394,
-      "unnamed": 631,
+      "links": 1034,
+      "named": 169,
+      "unnamed": 865,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -141,18 +141,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1407,
-      "named": 334,
-      "unnamed": 1073,
+      "links": 1410,
+      "named": 198,
+      "unnamed": 1212,
       "orphans": 36,
-      "no_return": 65,
+      "no_return": 64,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 534,
-      "named": 82,
-      "unnamed": 452,
+      "links": 527,
+      "named": 74,
+      "unnamed": 453,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -168,18 +168,18 @@
     },
     "episteme-dossiers": {
       "pages": 8,
-      "links": 201,
-      "named": 135,
-      "unnamed": 66,
+      "links": 203,
+      "named": 118,
+      "unnamed": 85,
       "orphans": 0,
       "no_return": 1,
       "unreachable": 0
     },
     "episteme-etymologies": {
       "pages": 25,
-      "links": 595,
-      "named": 164,
-      "unnamed": 431,
+      "links": 590,
+      "named": 101,
+      "unnamed": 489,
       "orphans": 0,
       "no_return": 6,
       "unreachable": 0
@@ -195,9 +195,9 @@
     },
     "episteme-histories": {
       "pages": 21,
-      "links": 655,
-      "named": 368,
-      "unnamed": 287,
+      "links": 653,
+      "named": 352,
+      "unnamed": 301,
       "orphans": 0,
       "no_return": 3,
       "unreachable": 0
@@ -309,7 +309,6 @@
     "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
     "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
     "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
-    "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
     "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
@@ -725,9 +724,9 @@
       "| [ancient philosophy](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history](../histories/traditions-and-disciplines/a"
     ],
     "episteme-concepts": [
-      "[The performed definition of God and Subject](../arguments/A01-Subject-God-and-Faithful-Definition.md) makes the defining act part of what is being defined",
-      "A [determining cut](C03-Determination.md) makes what is named distinguishable from its alternatives",
-      "The [formal limit](../arguments/A03-Immutable-Gap-Formal-Limit.md) recurs when an additional representation attempts to capture the condition of representing: t"
+      "To [define the Subject faithfully](../arguments/A01-Subject-God-and-Faithful-Definition.md) is to distinguish the presence to which something is given from the ",
+      "An account [determines through a cut](C03-Determination.md): it selects, excludes and relates",
+      "Its [fidelity](C02-Faithful-Definition.md) keeps that selection answerable to the person or appearing it concerns."
     ],
     "episteme-conjugate": [
       "[Argument field](../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) · [",

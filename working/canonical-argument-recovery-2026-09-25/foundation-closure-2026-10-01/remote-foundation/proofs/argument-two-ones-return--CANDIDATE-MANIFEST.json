@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "id": "A11",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/preimages/A11-The-Two-Ones-0-One-1-All.md.txt",
+      "preimage_sha256": "dfba049660801e7b23b27de6ca02b5a60de3361e805daed7ff7ef012f50fded0",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/candidates/A11-The-Two-Ones-0-One-1-All.md.txt",
+      "candidate_sha256": "f59f2cb5f18f0caa636128c9747344798cf586f0b8ea3d032dc40afc2200c712",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/A11-PRE-EDIT-RECOVERY.json",
+      "whole_operation": "Prior slash → exact source/manifest Two Ones → reciprocal dependence in different respects → inverse orientations/compound → retained singles+four pairings → complete parent/six/return → source-specific poems/tessera/net/wheels/Goethe/paper/body → exact achieved determination and actual next act.",
+      "changed_whole_paragraph_groups": 13,
+      "native_audit": {
+        "hard": 0,
+        "review": 17,
+        "all_individually_disposed": true
+      },
+      "status": "Source/public operation independently cold accepted at exact final candidate; non-live, parent owns inclusion and unchanged remote gates.",
+      "independent_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/INDEPENDENT-A11-REVIEW.json",
+        "sha256": "599be9cd2c9f7c71f7fdc7ace3d6e27095244c4a56b1ab3765b56dc32953f0db"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "native_path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+    "preimage_sha256": "6fbce4abc380427cad540bac28f7f840909a713e9cc2708fa1b74e10419d2dd3",
+    "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/candidates/C09-Diaphaneity.md.txt",
+    "candidate_sha256": "7b971863dd5e3feaada597579a3e025bfe74a02459814b264407025bcba4fb21",
+    "status": "Frozen exact independent source/public cold acceptance; parent inclusion pending",
+    "checks": {
+      "hard_errors": 0,
+      "individually_disposed_reviews": 6,
+      "links": 23,
+      "missing_links": 0
+    },
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-DIAPHANEITY-REVIEW.json",
+    "independent_review_sha256": "30e80c36a94adbe12c9071dee54a09a4b64e86a0a74338691f7a47df1688396b"
+  }
+]

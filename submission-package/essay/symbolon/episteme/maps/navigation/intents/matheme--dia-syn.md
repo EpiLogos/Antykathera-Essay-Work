@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
+source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -39,7 +39,7 @@ Group: `dia-syn` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Quilt — the 1](../../../../matheme/quilt/README.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Chronic — Configuration and Passage](../../../../matheme/dia-syn/chronic.md), [Computation](../../../../matheme/computation/README.md), [Matheme](../../../../matheme/README.md)
 
-**Reached from:** *defines* ← [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md), [Mono/Poly — One through the Many](../../../../mono-poly.md) · *extends* ← [The Slash — Selection and Co-presence](../../../../matheme/ql/slash-and-or.md) · *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [Matheme](../../../../matheme/README.md), [Mono/Poly — the field of notations](../../../../matheme/mono-poly/README.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md), [Indra’s jewel net — the whole within each reflection](../../../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md)
+**Reached from:** *defines* ← [Mono/Poly — One through the Many](../../../../mono-poly.md) · *extends* ← [The Slash — Selection and Co-presence](../../../../matheme/ql/slash-and-or.md) · *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md), [Matheme](../../../../matheme/README.md), [Mono/Poly — the field of notations](../../../../matheme/mono-poly/README.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md), [Indra’s jewel net — the whole within each reflection](../../../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md)
 
 ### [Syn — The Gathering](../../../../matheme/dia-syn/syn.md)
 

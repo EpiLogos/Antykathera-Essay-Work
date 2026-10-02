@@ -70,7 +70,7 @@ That resistance is not simply an obstacle. It is information returned by actuali
 
 To be somewhere is also to be available, in some manner, to encounter by others. A host can be reachable; a person can be addressed; a service can expose an endpoint; a shared workspace can make activity visible. Availability, however, is not consent, ownership or unrestricted access.
 
-[A27/A27′](../arguments/A27-Self-and-Other-Unity-without-Possession.md) matters here because co-presence must not become possession. The Other can be in relation with me, and within a containing whole, without becoming an object inside my authority. Technically, reachability does not grant permission. Philosophically, exposure does not abolish alterity.
+[Co-presence](../arguments/A27-Self-and-Other-Unity-without-Possession.md) gives participants a real relation while preserving their distinct authority to answer, permit and refuse. The Other can be in relation with me, and within a containing whole, without becoming an object inside my authority. Technically, reachability does not grant permission. Philosophically, exposure does not abolish alterity.
 
 Workcell therefore carries the ethical weight of boundaries at the level of situation. Who can enter this space? What can leave it? What evidence may be retained? Which processes may affect which worlds? These are not secondary governance questions placed atop neutral infrastructure. They help constitute the situation itself.
 

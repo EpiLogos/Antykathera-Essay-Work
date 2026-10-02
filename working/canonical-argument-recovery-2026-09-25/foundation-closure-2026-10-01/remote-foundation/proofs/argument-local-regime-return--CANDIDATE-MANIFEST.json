@@ -1,0 +1,22 @@
+{
+  "key": "A19",
+  "native": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+  "preimage_sha256": "58efe2e08eaed26c01ad115b9996a9db4cd44f023a4d61b19d33b235d1ba5122",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/candidates/A19-Complex-as-Local-Arbitration-Regime.md.txt",
+  "candidate_sha256": "1f610ee3247d2e1d57aea40cee470bea63376e44b90c1f39d7daf71f683632e8",
+  "paired_prime_sha256": "fc46b9d4461ddebf889dbc3b776b083fef7e6e887ac17d2336c735c33a4f1f67",
+  "status": "COMPLETE SOURCE-BACKED NON-LIVE; independent complete whole source/public cold accepted at exact final; parent inclusion/native gates pending",
+  "source_recovery_before_draft": "PRE-EDIT-RECOVERY.json",
+  "effects_depth": 4,
+  "returned_byte_bodies": 170,
+  "direct_current_receiving_records": 11,
+  "canonical_writes": 0,
+  "execution_ledger": "EXECUTION-LEDGER.json",
+  "lightweight_checks": "LIGHTWEIGHT-CHECKS.json",
+  "qualification_reasons": "QUALIFICATION-REASONS.json",
+  "independent_review": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-LOCAL-REGIME-ARGUMENT-REVIEW.json",
+    "sha256": "d9983e5ecfc786d58bb3f4c74672140b09836843870ca384a8b61488297cd987",
+    "accepted_candidate_sha256": "1f610ee3247d2e1d57aea40cee470bea63376e44b90c1f39d7daf71f683632e8"
+  }
+}

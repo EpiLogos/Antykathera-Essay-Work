@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
+source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -45,14 +45,14 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Matheme — exact operations | 94 | 838 | 229 | 609 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 750 | 242 | 508 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1025 | 394 | 631 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 534 | 82 | 452 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1407 | 334 | 1073 | 36 | 65 | 47 |
+| Episteme · Arguments A01–A36 | 37 | 1034 | 169 | 865 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 527 | 74 | 453 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1410 | 198 | 1212 | 36 | 64 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
-| Episteme · Etymology whole-fields | 25 | 595 | 164 | 431 | 0 | 6 | 0 |
-| Episteme · Histories | 21 | 655 | 368 | 287 | 0 | 3 | 0 |
+| Episteme · Etymology whole-fields | 25 | 590 | 101 | 489 | 0 | 6 | 0 |
+| Episteme · Histories | 21 | 653 | 352 | 301 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1128 | 166 | 962 | 0 | 76 | 0 |
-| Episteme · Dossiers | 8 | 201 | 135 | 66 | 0 | 1 | 0 |
+| Episteme · Dossiers | 8 | 203 | 118 | 85 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 129 | 7 | 122 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
@@ -153,7 +153,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C33 — Image / Valuation](../../concepts/C33-Image-Valuation.md)
 - [C37 — World-Picture → World-Atlas](../../concepts/C37-World-Picture-to-World-Atlas.md)
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
-- [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)
 - [C47 — Deferential Intelligence](../../concepts/C47-Deferential-Intelligence.md)
 - [Prompt Thrownness](../../concepts/prompt-thrownness.md)
 - [0-1 Matheme](../../concepts/reference-notes/0-1-matheme.md)
@@ -424,9 +423,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `/ [ancient philosophy] (../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history] (../histories/traditions-and-disciplines/a`
-- **Episteme · Concepts C01–C64 and provenance:** `[The performed definition of God and Subject] (../arguments/A01-Subject-God-and-Faithful-Definition.md) makes the defining act part of what is being defined`
-- **Episteme · Concepts C01–C64 and provenance:** `A [determining cut] (C03-Determination.md) makes what is named distinguishable from its alternatives`
-- **Episteme · Concepts C01–C64 and provenance:** `The [formal limit] (../arguments/A03-Immutable-Gap-Formal-Limit.md) recurs when an additional representation attempts to capture the condition of representing: t`
+- **Episteme · Concepts C01–C64 and provenance:** `To [define the Subject faithfully] (../arguments/A01-Subject-God-and-Faithful-Definition.md) is to distinguish the presence to which something is given from the `
+- **Episteme · Concepts C01–C64 and provenance:** `An account [determines through a cut] (C03-Determination.md): it selects, excludes and relates`
+- **Episteme · Concepts C01–C64 and provenance:** `Its [fidelity] (C02-Faithful-Definition.md) keeps that selection answerable to the person or appearing it concerns.`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`

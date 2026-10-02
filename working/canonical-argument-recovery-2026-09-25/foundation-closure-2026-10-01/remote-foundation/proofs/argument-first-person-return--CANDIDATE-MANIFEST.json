@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "id": "A01",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/preimages/A01-Subject-God-and-Faithful-Definition.md.txt",
+      "preimage_sha256": "40c9b22c535a40e15adcc4862822fdf7a4eb7a71da61b2d507c9e13646bfa306",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/candidates/A01-Subject-God-and-Faithful-Definition.md.txt",
+      "candidate_sha256": "6b6f5d8ae72d9463d4a9ae0abff81a852b6ed8b5b8a1e67a93a5440a86a91f9c",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/A01-PRE-EDIT-RECOVERY.json",
+      "whole_operation": "PresentSubject→positiveGodpredicate4+2andactualselfpredicament→failedenclosure→faithfuldisclosure→personedcontext→IAmrecognition→trust/Other/nativewhole/technicalrelativeknower→signSymbolandJob/Prisonerreturn",
+      "status": "Complete non-live candidate independently source/public accepted by conceptworker at final6b6f5d8a; canonical inclusion and native remote gates parent-owned.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/INDEPENDENT-A01-REVIEW.json",
+      "independent_review_sha256": "7d88ea553b821aa26ee158f0b1534a0a3d2da455f9de09c8518ba2fe0dc77336"
+    }
+  ]
+}

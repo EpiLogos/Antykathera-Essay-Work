@@ -19,7 +19,7 @@ source_relation: "Argued non-dual encounter; source-specific philosophical and p
 
 That distinction is the argument's ground. If reality is one whole, another person does not thereby become a content of my consciousness, an element of my model, or a local expression whose meaning I possess. My situated self is itself one determination within the whole. Metaphysical unity therefore intensifies the problem of encounter rather than solving it by absorption: the Other belongs to the same reality without belonging to my local jurisdiction over reality.
 
-[Objective Internality](A26-Objective-Internality-Mind-as-Worldhood.md) makes the asymmetry exact. I meet another through means: perception, language, memory, image, expectation, social role, institution, body and world. Those means are real and constitutive. They are also mine or ours in determinate ways. They make the Other available to me without becoming the Other's first-person presence.
+The asymmetry runs through [Objective Internality](A26-Objective-Internality-Mind-as-Worldhood.md). I meet another through means: perception, language, memory, image, expectation, social role, institution, body and world. Those means are real and constitutive. They are also mine or ours in determinate ways. They make the Other available to me without becoming the Other's first-person presence.
 
 This is why representation and possession have to be distinguished. A faithful image of another is still an image in a relation. A detailed model can increase what I understand and can still become more dangerous if its increased adequacy licenses the belief that the model now owns the criterion of the person.
 
@@ -67,7 +67,7 @@ This is the force of Countenance within the Encounter / Region / Name / Count / 
 
 The personal circuit of the copula reaches the same point: I = Is → Who I am = What is → What I am = Who is? → I = Am. Third-person predication is turned back toward the one whose life it describes. Recognition occurs when the identification is taken up from within rather than left as a completed description from outside.
 
-[AM/IS](../../AM-IS.md), [Copula / Self-Identity through Difference](A02-Copula-Self-Identity-through-Difference.md), and [Encounter / Region / Name / Count / Countenance / Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md) carry these operations in their own forms.
+The [AM/IS relation](../../AM-IS.md) keeps lived presence, description and answering address distinct. Through the [personal circuit of the copula](A02-Copula-Self-Identity-through-Difference.md), the predicate returns to the one whose life it identifies. Through [Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md), that person can answer the durable Name and Account. Identification remains useful because its bearer can still change what it means.
 
 ## #3 — Inner alterity and interpersonal Otherness are not the same
 
@@ -95,7 +95,7 @@ The God / Shadow / Friend / Alien constellation keeps four relations apart:
 
 The sequence matters because recognition has different work in each relation. Shadow integration is not annexation of another person. Recognition of projection does not abolish real danger. Metaphysical unity does not erase refusal. Another's refusal is one of the forms by which unity prevents my local image from claiming the whole.
 
-[Individuation and Recognition](A21-Individuation-Recognition.md) carries the intrapsychic return; [Bimba / Pratibimba](../concepts/C38-Bimba-Pratibimba-Bimba-Map.md) keeps image and source in their order.
+[Individuation](A21-Individuation-Recognition.md) changes the ego’s relation to the disowned possibilities within its life. The [image–source relation](../concepts/C38-Bimba-Pratibimba-Bimba-Map.md) keeps an image of a friend available for comparison with the friend’s independently originating answer. The first operation cannot substitute for the second.
 
 ## #4 — Encounter can change the economy, not merely the answer
 
@@ -123,17 +123,17 @@ Deference therefore differs from compliance. Compliance suppresses the differenc
 
 Regard names this turn in the Arbitration / Hybris / Regard / Anamnesis field: context becomes diaphanous enough that the relation producing the judgment can itself be seen, and seeing it permits the encountered life or consequence to alter the measure.
 
-[Deferential Intelligence](A31-Deferential-Intelligence.md) develops the technical and epistemic form of this return.
+[Deference](A31-Deferential-Intelligence.md) makes the depth of return answerable to the encounter. A factual correction can change an answer under a fitting criterion. A faulty task, world-model, evaluator or commission must become available to the office capable of revising it. Confirmation or justified refusal can retain a condition with reasons, while the encountered source remains able to answer again. This does not replace the stronger model-revising operation; it identifies when that stronger operation is warranted.
 
 ## #5→0 — Unity returns as relation, not annexation
 
 The return of encounter is not the achievement of a final shared picture.
 
-A relation has returned when the Other's difference becomes consequential in the conditions from which another act will proceed. My account changes, my question changes, my permission changes, my measure changes, or the terms under which we meet change. The Other remains capable of answering again.
+A relation has returned when the Other’s difference becomes consequential in the conditions from which another act will proceed. It can correct my account, question, permission, measure or terms of encounter. It can also give an attributable reason to retain a fitting judgment or refuse a request. The next act inherits that disposition, and the Other remains capable of answering again. A protected measure which admits no possible contrary answer has not earned that retention.
 
 This is the passage from Objective Internality to [Objective Co-Internality](A30-Objective-Co-Internality.md): locally grounded worlds become conditions in one another without merging into one owner.
 
-The whole Mytheme field gives this return several irreducible bodies.
+The relation takes several irreducible narrative and bodily forms.
 
 In [Apollo, Eros, Daphne and Peneus](../../mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md), Daphne's address, flight and transformation exceed Apollo's attempt to complete her as his emblem. The image shows possession surviving apparent transformation unless the relation itself changes.
 
@@ -141,16 +141,16 @@ In the [Fanon field](../../mytheme/worlds/francophone-anticolonial/fanon-languag
 
 In [Indra's jewel-net](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md), each jewel belongs through the relation of all without ceasing to be the site from which its own reflections occur. Mutual implication is not advance possession of another jewel's answer.
 
-The [maternal/chiasm image](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md) makes belonging bodily: a life can be borne in and through another while differentiation is the success of the relation rather than its failure.
+In the [maternal chiasm](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md), a life is borne in and through another. Differentiation is the success of that embodied relation rather than its failure.
 
-[Job](../../mytheme/worlds/biblical/job/WHOLE.md) makes irreducible loss part of the return. Renewed household and relation do not render the dead interchangeable with what comes later. A whole which returns faithfully has to carry what cannot be replaced.
+In [Job’s return](../../mytheme/worlds/biblical/job/WHOLE.md), renewed household and relation carry irreducible loss. They do not render the dead interchangeable with what comes later. A whole which returns faithfully has to carry what cannot be replaced.
 
-[The Prisoner](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md) refuses the final sovereign resolution. Escape releases several companions whose paths diverge; the return home does not make Six the owner of the others' meaning.
+Escape in [The Prisoner](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md) releases several companions whose paths diverge. The return home does not make Six the owner of the others’ meaning.
 
-[Avatar / image / mask / idol](../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) gives the relation a contemporary form. A finite presentation can make a bearer addressable. Idolisation begins when the presentation is allowed to supply the bearer's answer in advance.
+A finite [presentation](../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) can make a bearer addressable. Idolisation begins when the presentation supplies the bearer’s answer in advance and prevents the actual source from correcting that image.
 
 These are different images of one requirement: **unity has ethical force only while difference remains capable of return.**
 
 The Other is in the whole. The Other is not therefore in my possession. My best account can become part of our relation. Your answer can still change what that account means and what I am entitled to do with it.
 
-That is the unity A27 argues for: not separation, not fusion, but relation strong enough to be changed by the one it relates.
+Unity lives through a relation strong enough for the one addressed to answer and for that answer to matter. Shared belonging does not erase the grounds from which either participant can refuse, correct or meet again.
