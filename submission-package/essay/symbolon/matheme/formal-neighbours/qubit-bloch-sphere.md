@@ -11,7 +11,7 @@ source_relation: "Explicit mathematical construction; argued native comparison"
 
 ## #0 — State the state-space model
 
-Take a normalized complex vector `|ψ⟩=α|0⟩+β|1⟩`, with `|α|²+|β|²=1`, and identify vectors differing by a common phase `e^{iγ}`. This defines pure qubit rays, the projective space `ℂP¹`. The [admitted note](../../episteme/concepts/reference-notes/qubit-bloch-sphere.md) places this exact geometry beside the native field.
+Take a normalized complex vector `|ψ⟩=α|0⟩+β|1⟩`, with `|α|²+|β|²=1`, and identify vectors differing by a common phase `e^{iγ}`. This defines pure qubit rays, the projective space `ℂP¹`. The [legacy qubit provenance](../../episteme/concepts/reference-notes/qubit-bloch-sphere.md) names this geometry beside the native field; its bibliography-seed standing establishes no additional physical or historical result.
 
 The [NIST house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) warrants a complex sphere, not quantum physics. The equations here specify the quantum state model directly; experimental and historical quantum claims need their own source beyond that geometric house.
 
@@ -49,4 +49,4 @@ The [quilt's explicit correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGU
 
 The result is a complete pure-state parameterisation and an explicit mixed-state boundary. Coordinate poles, common phase and relative phase each have a different operation; retaining them makes the comparison usable.
 
-This record returns-to [Movement28](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Riemann sphere](../topology/riemann-sphere.md) and [translations](../mono-poly/translations.md). The native determination remains in its own register while the state-space geometry is worked exactly.
+[Dimensional reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) receives a pure-state ray whose representation is independent of common phase but sensitive to relative phase. [The Riemann sphere](../topology/riemann-sphere.md) gives the geometric neighbour its own chart convention; [translations](../mono-poly/translations.md) retain the change of convention and the distinct mixed-state boundary. The native comparison inherits this exact separation of operations. A physical experiment or historical quantum account requires its own witness; the derived state-space construction does not perform either inquiry.

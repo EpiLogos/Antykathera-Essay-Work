@@ -1,0 +1,38 @@
+{
+  "records": [
+    {
+      "key": "DYNAMICS-SOURCE",
+      "native": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-before.md.txt",
+      "preimage_sha256": "b1d366be3c3bee2ab28af13b4221b6ab88cad6a90ae84192e9ec92d722234b3b",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-candidate.md.txt",
+      "candidate_sha256": "d37be7005db8c8df09e3aba386d32237c941ec88dd70238a2de138eb3a059765",
+      "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-effects-before.json",
+      "pre_edit": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-PRE-EDIT.json",
+      "status": "Independently accepted complete bounded source-house operation; frozen non-live for parent inclusion",
+      "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-LIGHTWEIGHT-CHECKS.json",
+      "qualifications": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-QUALIFICATION-REVIEW.json",
+      "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/DYNAMICS-SOURCE-SOURCE-READINGS.json",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-CONNECTED-TAYLOR-SOURCES-REVIEW.json",
+      "independent_review_sha256": "2c00b704a69959e45dc72a8e335a69f91aa6b460ebb6d65f0f948c7a8aa59870"
+    },
+    {
+      "key": "POETRY-SOURCE",
+      "native": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-before.md.txt",
+      "preimage_sha256": "b8db02fc2c8d63b08fc591ac92749b9bbb61e94fd5f7a707618d6e79fad48b7e",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-candidate.md.txt",
+      "candidate_sha256": "63bd1db6261689b518f6c6ae21785ba6c2e43bb98f8dce96c9fef32882fd84a8",
+      "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-effects-before.json",
+      "pre_edit": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-PRE-EDIT.json",
+      "status": "Independently accepted complete bounded source-house operation; frozen non-live for parent inclusion",
+      "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-LIGHTWEIGHT-CHECKS.json",
+      "qualifications": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-QUALIFICATION-REVIEW.json",
+      "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/POETRY-SOURCE-SOURCE-READINGS.json",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-CONNECTED-TAYLOR-SOURCES-REVIEW.json",
+      "independent_review_sha256": "2c00b704a69959e45dc72a8e335a69f91aa6b460ebb6d65f0f948c7a8aa59870"
+    }
+  ],
+  "protected": "All source verses/raw and original quotation/readiness untouched; no direct movement assignment",
+  "scope": "Bounded actual existing source-house receiving relations, plus precise authorial dia/syn correction; no global consumer/source history acceptance."
+}

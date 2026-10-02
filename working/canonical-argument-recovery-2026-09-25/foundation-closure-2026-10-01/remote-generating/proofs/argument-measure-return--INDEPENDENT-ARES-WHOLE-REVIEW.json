@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-02",
+  "reviewer": "/root/argument_recovery",
+  "native": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+  "preimage_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+  "candidate_sha256": "54b44cc6a38bb9d684013c6f9e62bbe3e7b33c8271eac602b9b1f64b3f3b4485",
+  "decision": "Accept the exact complete source/public receiving operation with bounded source warrant; parent inclusion/native gates separate",
+  "whole_reads": {
+    "candidate": "Entire initial138-line candidate in two untruncated units; all30 complete changed old paragraphs individually reentered; complete final adjoining #1/#2 lines41–62 reread after both public and quotation-label returns",
+    "old_preimage": "Every changed old paragraph read in full, not a new whole untouched-preimage reading",
+    "Homer_house": "Whole current196-line SOURCE reentered; initial1–120 and121–196 source cards with explicit161–196 tail return; source status/Perseus readiness unchanged"
+  },
+  "actual_fresh_source_units": [
+    {
+      "source": "https://www.theoi.com/Text/HomerOdyssey8.html",
+      "unit": "Complete embedded8.266–366 song plus dance frame and finallisteners reception; page line186 explicitly reopened",
+      "scope": "Selected continuous translated source unit, not wholeBook8/Greek/printededition"
+    },
+    {
+      "source": "https://www.theoi.com/Text/HesiodTheogony.html",
+      "unit": "116–122,176–206,933–937,975–978 complete selected genealogical units",
+      "scope": "Selected continuous translated passages, not wholeTheogony"
+    },
+    {
+      "source": "https://www.theoi.com/Ouranios/Eros.html",
+      "unit": "Whole selected competing parentage reports, including Simonides scholial report and neighbouring Stesichorus575 item",
+      "scope": "Reported fragments, not a newly verified Simonidesfragment575"
+    },
+    {
+      "source": "Internal protected Draft3",
+      "unit": "47–49 and fullAres prose103, with own complete adjoiningEros/Psyche theological unit",
+      "scope": "Protected rawsource unchanged; prior wholeauthorial corpus scope retained separately"
+    },
+    {
+      "source": "MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "unit": "WholeAres source/operation31–61",
+      "scope": "Authored receiving relation, not historicalQL theorem"
+    },
+    {
+      "source": "Q27",
+      "unit": "Wholeactual§10 5659–5678 within freshly read complete culture5435–5877; hamartia4681–4697 prior directA15 read",
+      "scope": "Actual source-specific relation; no politicalallegation ratification"
+    },
+    {
+      "source": "Hesiod SOURCE",
+      "unit": "Wholecurrent123-line sourcehouse",
+      "scope": "Exact source/cards/readiness distinct"
+    }
+  ],
+  "prior_source_basis": "Complete native core640/latestminute102/MonoPoly and relevant complete binary/mirror/Neumann/Uroboros source operations retained with their previous read/version limits; no fresh whole externalbook claim",
+  "recovered_operation": "Homerian detection→unseen capture→distinct spectators/demands→Poseidon undertaking own contingent liability→makeracceptance→release/separate departures→listener reception; payment and restoredmarriage are not narrated. Hesiod differentiated children and human descent, primordialEros/Aphrodite origin and separately reported filialEros remain distinct. Authored productive polarity/gathering retains signedslash versus cancellation/arrogation, TwoOnes and realwhole. Bow/lyre tension and missingground, eight/six/return, wholeNamePower, local interpretingknower/means/known nested in containingperson, and warranted correction or fitting retention inheritednextact retain actual respective source offices. Stronger changedorganisation proof remains separate.",
+  "returned_findings": [
+    {
+      "prior": "6cecd2f3",
+      "finding": "Amplification/procedure inventory actors before productivecapacities and capture/spectator/undertaking sequence",
+      "repair": "Ares/Aphrodite actualcapacities plus capture→differentreception→liableundertaking→release perform at final#2",
+      "replay": "Full adjoining52–62 reread against whole source narrative/seam"
+    },
+    {
+      "prior": "5deeb272",
+      "finding": "Original exact curlyquoted citation label “fragment 575” lost in corrected attribution",
+      "repair": "Literal label restored in neighbouring item attributed toStesichorus; Simonidesreport remains distinct",
+      "replay": "Full44–46 reread; both originalcurlyquotedstrings exact"
+    }
+  ],
+  "exact_retention": {
+    "original_curlyquoted_strings": true,
+    "candidate_hash": "54b44cc6a38bb9d684013c6f9e62bbe3e7b33c8271eac602b9b1f64b3f3b4485",
+    "original_target_and_notation_limits": "Owner exact checks retained; no sourcequote/edition/readiness promotion"
+  },
+  "not_established": [
+    "WholeHomer/Hesiod/HeraclitusGreek or physicaledition collation",
+    "Payment, marriage restoration or narratedinnerpsychicchange",
+    "Universal identity Syn/eros or sourcehistoricalQL derivation",
+    "All31receiver semanticclosure from effects",
+    "Deployed architecture/runtime or sovereignpoliticaladoption",
+    "All48 deferredmovements/manuscript acceptance"
+  ],
+  "heavy_execution": "None; no native/protected/tools/tests/generated writes"
+}

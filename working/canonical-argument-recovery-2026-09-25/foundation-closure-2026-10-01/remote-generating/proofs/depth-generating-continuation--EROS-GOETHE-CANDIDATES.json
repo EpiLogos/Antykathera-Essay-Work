@@ -1,0 +1,36 @@
+[
+  {
+    "key": "EROS-PSYCHE",
+    "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+    "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-PSYCHE-before.md.txt",
+    "preimage_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+    "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-PSYCHE-candidate.md.txt",
+    "candidate_sha256": "bd9f0825e9b4ed1e72fb6aabeeeae09f769fcc704a55106a8e716a5b31010c5a",
+    "status": "Independently accepted complete selected-source/public operation; frozen non-live for parent inclusion",
+    "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-PSYCHE-effects-before.json",
+    "effects_depth": 4,
+    "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-GOETHE-SOURCE-READINGS.json",
+    "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-PSYCHE-DIRECT-CONSUMERS.json",
+    "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-PSYCHE-LIGHTWEIGHT-CHECKS.json",
+    "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-PSYCHE-QUALIFICATION-REVIEW.json",
+    "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/INDEPENDENT-EROS-GOETHE-REVIEW.json",
+    "independent_cold_review_sha256": "baddfda8001fcb76b27655ca1d27659d83b5deb488d050c4d1c75e4434e4819d"
+  },
+  {
+    "key": "GOETHE",
+    "path": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+    "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/GOETHE-before.md.txt",
+    "preimage_sha256": "b4be3bd1b591099736120c869ee2a6d85e83ba02ccd8e78dd0bca6647065a347",
+    "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/GOETHE-candidate.md.txt",
+    "candidate_sha256": "6e6822fea94e22cee810eff5a666fb0694e8acd1cf51643fb9ae5fa0c2660251",
+    "status": "Independently accepted complete selected-source/public operation; frozen non-live for parent inclusion",
+    "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/GOETHE-effects-before.json",
+    "effects_depth": 4,
+    "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/EROS-GOETHE-SOURCE-READINGS.json",
+    "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/GOETHE-DIRECT-CONSUMERS.json",
+    "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/GOETHE-LIGHTWEIGHT-CHECKS.json",
+    "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/GOETHE-QUALIFICATION-REVIEW.json",
+    "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/INDEPENDENT-EROS-GOETHE-REVIEW.json",
+    "independent_cold_review_sha256": "baddfda8001fcb76b27655ca1d27659d83b5deb488d050c4d1c75e4434e4819d"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "reviewer": "concept_recovery",
+  "date_utc": "2026-10-02T10:46:19.990386+00:00",
+  "head": "531bed8e3a86dac1cb00a68f611464f43de305c6",
+  "status": "Independent complete old/new source/public operation accepted at the seven exact final candidate hashes; no canonical inclusion/publication claim",
+  "bindings": [
+    {
+      "key": "etymology",
+      "native": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/etymology.md.txt",
+      "preimage_sha256": "baed1df5a6667f8d91fb13c24ce138413f5c8215753a10e654d2c29d0958ff66",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/etymology-candidate.md.txt",
+      "candidate_sha256": "f18f76632fac80604556d8706b66f9553f4c6e13a01302b573bdee07d2f1ac40",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    },
+    {
+      "key": "psychology",
+      "native": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/psychology.md.txt",
+      "preimage_sha256": "b1036dfcfb6250f6ebe0ebeebb51b52aae734e2734b61bc24b974c9115c732e8",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/psychology-candidate.md.txt",
+      "candidate_sha256": "90c5fac0f9f27d453c4c26afd66b54d9fb5259e70529dbcf98120ae8da26f7ba",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    },
+    {
+      "key": "number",
+      "native": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/number.md.txt",
+      "preimage_sha256": "1450f21c8418e24adb04da22ab91b0b85602c8c2c2c886220e8d53eedc914363",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/number-candidate.md.txt",
+      "candidate_sha256": "ac91acc0748c72bed69055fbb15c0210bd5704cd71dce3ee994922290b6c838c",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    },
+    {
+      "key": "topology",
+      "native": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/topology.md.txt",
+      "preimage_sha256": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/topology-candidate.md.txt",
+      "candidate_sha256": "b130d246fe439f18ce0e37b7eb0d17712d538bfac8692d5381ff4403e7722d6d",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    },
+    {
+      "key": "metaphysics",
+      "native": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/metaphysics.md.txt",
+      "preimage_sha256": "78f0f74c856f9d3c2ed4a468ab4c6b97e583f03808b13a42f862dae4703ac37b",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/metaphysics-candidate.md.txt",
+      "candidate_sha256": "5160644226d37ae815db799d9922c97bdd84e9025faa904adf17b972ba9990a4",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    },
+    {
+      "key": "recognition",
+      "native": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/recognition.md.txt",
+      "preimage_sha256": "bba9bca3895d637c7d67b299a9b0a90fc6323529da5a862a74c6e364bbb78dd6",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/recognition-candidate.md.txt",
+      "candidate_sha256": "e79e1692bd9657746e35aa5eb9a00f82a44bc7d6166982db1ae4e1cc2f610582",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    },
+    {
+      "key": "enantiodromic-return",
+      "native": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/preimages/enantiodromic-return.md.txt",
+      "preimage_sha256": "23a264100c07f91a5463c038fb1b9054b7b0c98c5735305ef69d28f1ec9cf20d",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-quilt-return/enantiodromic-return-candidate.md.txt",
+      "candidate_sha256": "5d98c852338524345451bbbfe1c56825257237d31113d05fc87bb22877849f2d",
+      "actual_read": "Complete retained original and entire final carrier; all four returned final whole carriers freshly replayed; unchanged other three match the full-read drafts."
+    }
+  ],
+  "prior_returned_findings": {
+    "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/INDEPENDENT-PARENT-QUILT-SEVEN-REVIEW-PENDING.json",
+    "sha256": "316574fceb32fe966868159d4d92a00a173acf77c779d1e1f46ad64cbf9fafa4",
+    "retained": true,
+    "disposition": "All four exact returned units replayed in their complete final carriers; number source-exact seven restored, finite powers/count-scale operations replace core actors, actual demand/desire relation replaces source-task, actual six distinct product conditions replace core actor."
+  },
+  "actual_source_scope": {
+    "FileThree": {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "earlier_complete_actual_read": "All 569 lines in eight contiguous untruncated outputs as retained in the pending review",
+      "fresh_reentry": "Actual complete numerical unit137–174 and Lacanian unit208–225; metaphysical introduction250–275. Earlier attempted aggregate output95–184 clipped: no new complete95–184 read claimed. Complete source hash remains the same."
+    },
+    "core": "Prior entire640-line native field retained; fresh complete167–188,512–572,600–640;163–165 slash-knowing source freshly read. Aggregate clipping of the core middle was explicitly reopened by the named full source units.",
+    "authorial_minute": "Entire102-line current minute reentered; first14 lines reopened after aggregate clipping. Section2 governs whole knower/means/known; sections1/5 establish six real product subjects, not a new six-member invented centre taxonomy.",
+    "anti_anti_overclaim": "Complete105-line current correction reentered; exact source/formal/runtime qualification distinguished from standing generic underclaim.",
+    "other_prior_basis": "Prior full current Hatcher source house and native theorem/projections within their named passage/readiness limits; no fresh full external book or Lacanian passage collation claimed."
+  },
+  "final_operation_replay": {
+    "number": "Equation evolution includes divisor perfection and modular return; hinge, zero bifurcation, triple, trig, geometry and harmonic ratios complete the actual seven. Selected function domains, chosen modulus, sums versus ratio and harmonic product stay distinct. No statistical independence or universal Fourier/sixfold theorem acquired.",
+    "topology": "Quotient/cell count versus presentation, cover displacement versus surface return, infinite sheet versus two-face reading, octave quotient versus retained height all preserved. Demand articulation versus exceeding desire is the actual authored cross-reading; no clinical Lacanian passage verification or unrestricted error-immunity theorem.",
+    "metaphysics": "Thirty-six field versus six compression, finite powers/inner instrument, locally relative functional triad nested in person/Life, unobjectifiable appearing condition, upaya source distinction and recognition retained. Exact sums/ratio and proposed category correspondence separated.",
+    "recognition": "All six columns and source-local topology addresses preserved; Activity/Content/Structure and return-information differences perform. Six centres are the existing six product facets under the authorial minute; implemented result at its own scale can enter containing human/world relations. No additional exhaustive centre taxonomy or deployed realisation is asserted.",
+    "other_three": "Whole etymology/psychology/Night return preserve their root questions, Maria/source-specific registers, complete Name/Power tables, source-conflicting T0/T1 labels and Night-versus-inverse distinction. No source conflict normalisation."
+  },
+  "no_exact_remaining_fault_found_at_changed_operations": true,
+  "scope_limits": [
+    "No global external history/philology/clinical/engineering/quotation/readiness acceptance",
+    "No all-effects-consumer semantic closure from graph or byte access",
+    "No new runtime experiment/result",
+    "No movement or manuscript body acceptance",
+    "Parent retains unchanged native tests/builders/freshness/protected verification and publication ownership"
+  ]
+}

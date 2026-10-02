@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-02",
+  "reviewer": "concept_recovery",
+  "state": "ACCEPT complete source-backed NON-LIVE whole operation at exact final candidate hash",
+  "native": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+  "native_preimage_sha256": "405f33917088b7c2e698e08d3df1d414a526e80de21cafb38328f8c56bd3af8f",
+  "requested_initial_candidate_sha256": "f17d120a7c9909e610ada1815a85284c3e5d2dd4fbceb1882d8f70c0c87f831d",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TAYLOR-IMAGES-candidate.md.txt",
+  "own_complete_read_scope": "Entire530-line exact preimage and complete553-line recovered carrier read in contiguous character0–20000/20000–40000/40000–end without output truncation. Initial request f17d and self-phase d88 discrepancy was explicitly retained in the pending receipt. Worker retained verified exact f17d; final51517 differs by only four complete paragraph substitutions, all independently reread with complete adjoining operations. Final accepted byte-version is51517; d88 is historical check scope only.",
+  "fresh_sources": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "sha256": "b8db02fc2c8d63b08fc591ac92749b9bbb61e94fd5f7a707618d6e79fad48b7e",
+      "scope": "Entire511-line complete source house, all23 source cards and provenance/readiness read in contiguous0–16000/16000–end without output clipping."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "scope": "Fresh complete5078–5140 source unit including complementarity, independent historical quotation status and formal scope. Earlier actual entire other relevant rawQ27 joins retained separately."
+    }
+  ],
+  "fresh_complete_protected_corrections": [
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+      "start": 202,
+      "end": 204,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "96fe16fffb1010a3d0529968ece9cde1999b948997ddb5c5adfe37332d7b03f7"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+      "start": 421,
+      "end": 455,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "96fe16fffb1010a3d0529968ece9cde1999b948997ddb5c5adfe37332d7b03f7"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "start": 4,
+      "end": 5,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "4bf0e662dccfec77ef07beeaa341ca8d0a0ff263b5af7f9957b32b2691448225"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "start": 65,
+      "end": 65,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "4bf0e662dccfec77ef07beeaa341ca8d0a0ff263b5af7f9957b32b2691448225"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "start": 326,
+      "end": 326,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "4bf0e662dccfec77ef07beeaa341ca8d0a0ff263b5af7f9957b32b2691448225"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "start": 442,
+      "end": 442,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "4bf0e662dccfec77ef07beeaa341ca8d0a0ff263b5af7f9957b32b2691448225"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "start": 1,
+      "end": 1,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "start": 26,
+      "end": 26,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "start": 42,
+      "end": 42,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "start": 81,
+      "end": 81,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "start": 124,
+      "end": 124,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "start": 180,
+      "end": 180,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+      "start": 1,
+      "end": 12,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "dc0860a1cc767c6cb3792cddcefb225d398f0a2094ff01534156405d85333f2d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+      "start": 17,
+      "end": 17,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "dc0860a1cc767c6cb3792cddcefb225d398f0a2094ff01534156405d85333f2d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/poem-07-06-2026.md",
+      "start": 1,
+      "end": 19,
+      "complete_selected_text_fresh_read": true,
+      "exact_actual_raw_unit_match": true,
+      "file_sha256": "a82541ba833f2b9cd4559e7dee5c488bf434f5e4fc51e7b00db7b9861840d40d"
+    }
+  ],
+  "prior_actual_bases": "Earlier actual whole P2/SocialPower/core640/current minute and correction, complete Draft3 performed137–175 and exact current A01/A06/A11/A13/A18/A19/A25/A27/A29/A32/source-specific receiving companions preserved under own preceding receipts; not falsely relabelled fresh whole external readings.",
+  "exact_retention": {
+    "all23_whole_quote_blocks_byte_exact": true,
+    "raw15_complete_unit_matches": true,
+    "native_unchanged": true,
+    "frontmatter_exact": true,
+    "all_original_anchor_ids_exact": true,
+    "all23_exact_source_blocks": true,
+    "all_original_curly_quote_strings_retained": true,
+    "six_position_headings_exact": true
+  },
+  "other_complete_changed_operations": "All23 whole poem movements/14 images personally compared. Their source-specific full endings, two complete inverse passages, boots/self-feeling correction, centralise/decentralise, selected arrangements, each political/material aftermath, four alterity offices, positive relative knower/means/known nested within person, proper-depth correction or fitting retention versus actual processing change retain their offices. No other exact lost step/stronger false entailment found at the final reviewed joins.",
+  "separate_house_scope": "Poetry SOURCE actual23 direct whole/card reception needs truthful source-house binding; no direct native argument source declarations were found by exact rg. Depth owns bounded house repair distinguishing indirect actual argument reception from direct declarations, with all poems/readiness/locators unchanged.",
+  "bounds": "No full private journal/raw site search, new whole external book/primaryedition/history/quotation/clinical/runtime or human ratification accepted. Protected user-turn units source-only/read-only.175 bytes/graph not semantic acceptance. Deferred movements/manuscript untouched.",
+  "candidate_sha256": "51517ee9d13bb113da45e4277663587d5a2a77e31e142c2555c67b20629c6701",
+  "final_read_scope": "Complete530-line original and553-line first/current whole carrier read in contiguous0–20000/20000–40000/40000–end; preserved requested f17d verified. Exact entire intervening four-paragraph delta plus complete adjoining P19 and seven-paragraph black-sun image freshly reread at final51517. All other first/final paragraphs byte-exact by direct comparison; no first/final hash conflation.",
+  "resolved_finding": {
+    "unit": "FT-P19 last explanatory paragraph",
+    "exact": "His further demand is to derive the positions from the primary determinations, rather than assign an already finished poem to six slots.",
+    "fault": "Authorial demand remains a procedural duty in the public changed operation. The corrected withheld referent and contextual/silence/final-mind offices should perform the relation rather than merely report requested derivation.",
+    "required_return": "Preserve unchanged verse and context-before-silence instruction separately. Develop how withholding holds primary capacity to distinguish, how actual clauses disclose consequential/constituting/contextual/withdrawing offices and final mind return; do not invent a renamed referent, rewrite the verse or impose unearned slots.",
+    "return": "Final P19 now develops withheld parent capacity, consequence/condition, determinate constitution, movement/ground, temporal pattern, contextual inclusion, withdrawal retaining structure and mind return. Exact unchanged verse and later sequence instruction remain distinct; no name inserted or new verse generated.",
+    "disposition": "ACCEPT exact complete adjoining returned operation against actual protected turns65/326/442 and native primary determination source basis."
+  },
+  "intervening_source_public_self_return": "Complete Work/Play, rings and false-accounting have actual human/material relations as subjects; all same psychic/institutional/allegation distinctions and full source offices remain. All four source-public substitutions accepted; exact delta70321e0d retained.",
+  "checks_boundary": "Exact final51517 validation receipt personally read:0 hard,67 review flags/78 individually qualified owner units,51 resolved links. Independent source/public acceptance and exact protected/form retention remain independently bound, not claimed from detector results.",
+  "native_writes": 0,
+  "first_self_phase_readback_sha256": "51517ee9d13bb113da45e4277663587d5a2a77e31e142c2555c67b20629c6701",
+  "final_check_receipt": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TAYLOR-IMAGES-LIGHTWEIGHT-CHECKS.json",
+    "sha256": "0f665daa9aac712f70ccc3061d8f757ecd23b5065ef3fc7bde19fc743fce405e",
+    "scope": "Read full final receipt; owner native checks were not rerun by reviewer."
+  }
+}

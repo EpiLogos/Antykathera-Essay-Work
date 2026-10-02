@@ -50,7 +50,7 @@ passage_surface: '#passages'
 
 ## Provenance identity
 
-Internal source for the full trust/faith argument: knowledge's dependence on a relation it cannot close; provisional anchors and projected distrust; the psychodynamic, social, and political consequences of atomised trust; Hephaestus's failed attempt to capture relation; and faith as lucid continuation where the ground can withdraw. It also develops whole-first mono/poly, delegated responsibility/downward dependency, and the canonical line: **“Faith is falling with a smile.”**
+Internal developmental source for the trust/faith argument: knowledge's dependence on a relation it cannot close; provisional anchors and projected distrust; the psychodynamic, social, and political consequences of atomised trust; Hephaestus's failed attempt to capture relation; and faith as lucid continuation where the ground can withdraw. The later crux discussion coordinates the two inverse orientations, lived non-coincidence, the double-traversal image, musical crossings and source-distinct mythic forms. The fixed text retains its revision directions and the particular historical and source questions through which those proposed comparisons remain answerable.
 
 **Local-copy state:** recoverable fixed local Markdown file at the path in frontmatter; 309 lines, checked 2026-07-15. The complete thread is indexed in [[symbolon/episteme/maps/trust-faith-formal-limit|Trust, Faith, and the Formal Limit — Transverse Thread]].
 

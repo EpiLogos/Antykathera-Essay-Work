@@ -1,0 +1,23 @@
+{
+  "faults": [
+    {
+      "operation": "first finalizer invocation",
+      "failure": "Incorrect working-directory/path pairing; missing source path before any mutation",
+      "resolution": "Use repository root and exact actual peer path"
+    },
+    {
+      "operation": "finalizer after native Mobius inclusion",
+      "failure": "exec qualification helper shared globals p/record, causing missing proof path lookup",
+      "preserved": "Original83 inclusion/audit/INPUT/archive manifests saved before mutation; native change only independently acceptedMobius38c-to-a30",
+      "resolution": "Run qualification writer as independent subprocess; resume assertions allow exact old/new hashes; no candidate other than approvedMobius changed; final archive1072 byteentries individuallyverified"
+    }
+  ],
+  "gate_changes": [],
+  "replay": {
+    "exit": 0,
+    "canonical_records": 83,
+    "individual_findings": 984,
+    "archive_sha256": "11e1fef1c5f57f08d8e388f3a43741a8851888cb772c83958684eda84e3eb0b6",
+    "input_before_final_peer_sha256": "efeeb33949ad0ddca7b7fabd3beb697fb884dc4acb7aed878937f2d0635d53dc"
+  }
+}

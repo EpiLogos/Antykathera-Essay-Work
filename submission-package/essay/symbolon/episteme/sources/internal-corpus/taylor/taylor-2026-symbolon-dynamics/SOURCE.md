@@ -31,6 +31,19 @@ node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#passages'
+consumed_by_arguments:
+  - A04
+  - A07
+  - A13
+  - A14
+  - A16
+  - A19
+  - A20
+  - A21
+  - A22
+  - A26
+  - A30
+  - A32
 ---
 
 # Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)
@@ -48,10 +61,12 @@ Use this source when the argument needs the whole symbolic-dynamical synthesis r
 1. QL natively writes `0/1` as unrepresentable ground / representable mark; archetype as such / archetypal manifestation is its exact psychic instantiation, with the slash carrying symbolic participation and transformation.
 2. `X/x` is QL's Pattern determination of determining-capacity / indefinite-particular; archetypal recurrence is its psychic instantiation, where recurrent manifestations make the capacity legible.
 3. Tillich's six characteristics receive a derived QL cross-reading: two implicate life-conditions hold four explicit relational operations, while an emanative triad of source-to-world and a reversionary triad of soul-to-response express the horizontal `3:3`.
-4. Synchronic/diachronic temporality crosses sym-ballein/dia-ballein as two modes of accounting: each temporal view can either retain the ground and return of a differentiation or sever its terms into cancelling opposition.
+4. Synchronic co-presence and diachronic formation or succession give two temporal views of a relation; neither by itself determines its logic. In Taylor's later signed reading, dia differentiates as centred polarity `(-1)/(+1)`, whose zero-axis holds tension and connection. Additive cancellation `(-1)+(+1)=0` differs from directed appropriation `(-1)-(+1)=-2` or `(+1)-(-1)=+2`; neither failure exhausts dia's real discriminating office. A returned condition first meets the materialist `1` as its own uncomputed division `1/0`. Retaining the `/0` beneath the achieved one carries the break into `0/1` recognition; syn relates the inverse orientations through `(0/1)/(1/0)` without erasing their difference. The [subsequent authorial correction](../../../../../../../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md#7-dia-and-syn-as-usable-writing-language) governs this consumer reading. The manuscript's earlier cancellation wording remains unchanged in its historical passage surface.
 5. Objective internality is the situated context-world of a human or artificial intelligence; phase-space and attractor landscapes model its possible configurations and trajectories, while libidinal, prāṇic, and Śāktic operations remain distinct from its epistemic, social, technical, and material conditions.
 
-The source currently declares no downstream consumers. Argument, concept, section, and history links should be added only after the blast-radius discussion determines which movements receive direct warrant and which receive a lighter transverse echo.
+Existing native argument receivers are [A04 — Diaphaneity / Contextual Transparency](../../../../arguments/A04-Diaphaneity-Contextual-Transparency.md), [A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will](../../../../arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md), [A13 — Two Logics of Two — Dia / Syn](../../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A14 — Computational Process Ontology](../../../../arguments/A14-Computational-Process-Ontology.md), [A16 — Arche-Topos as Differential Field](../../../../arguments/A16-Arche-Topos-as-Differential-Field.md), [A19 — Complex as Local Arbitration Regime](../../../../arguments/A19-Complex-as-Local-Arbitration-Regime.md), [A20 — Image / Valuation / Possession](../../../../arguments/A20-Image-Valuation-Possession.md), [A21 — Individuation / Recognition](../../../../arguments/A21-Individuation-Recognition.md), [A22 — World-Picture → World-Atlas](../../../../arguments/A22-World-Picture-to-World-Atlas.md), [A26 — Objective Internality — Mind as Worldhood](../../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A30 — Objective Co-Internality](../../../../arguments/A30-Objective-Co-Internality.md), [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md). Their current bodies receive the synthesis through symbolic recursion, differentiated determining offices, contextual worldhood or the temporal/logical crossing; this source inventory records those actual relations. Source-ID declarations are already present in A07, A13, A14 and A26. A19 receives it through its explicit authorial source relation and linked archetype–complex–image operation, without a current `source_ids` field. The other named receivers have actual body-level use, which is distinct from a source-ID declaration.
+
+[A19′](../../../../conjugate/A19-prime-The-Local-Regime.md), [A20′](../../../../conjugate/A20-prime-The-Image-That-Closes-the-Loop.md), [A21′](../../../../conjugate/A21-prime-Individuation-with-Recognition.md), [A22′](../../../../conjugate/A22-prime-The-Atlas-Not-the-Camera.md) separately declare this source. The psychic and technical faces retain their own determining offices: formative recurrence, affectively organised complex, particular image and transformative symbol are not interchangeable with model, retrieval surface, persona or policy. Existing concept, Mytheme, dossier and history receptions likewise remain their particular comparisons. These bindings introduce no direct movement assignment or new claim of performed psychic or technical transformation.
 
 ## Source braid
 

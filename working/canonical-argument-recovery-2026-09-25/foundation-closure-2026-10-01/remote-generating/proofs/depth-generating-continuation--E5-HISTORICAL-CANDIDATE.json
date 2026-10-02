@@ -1,0 +1,25 @@
+{
+  "key": "E5-HISTORICAL",
+  "native": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-before.md.txt",
+  "preimage_sha256": "bba963157f5ec215bbbe67ffec96b4372e77de0728e447dc771648f1a6cace24",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-candidate.md.txt",
+  "candidate_sha256": "6e1ce991d448f7a16ff2f1ebf8df8cda72ce55f7d184bb01c810f0acc5e90b21",
+  "pre_edit": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-PRE-EDIT.json",
+  "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-effects-before.json",
+  "status": "Independently accepted complete bounded historical source/public operation; frozen non-live for parent inclusion",
+  "protected": "All original HISTORY/raw/NOTES/manuscript/48movement/tool/test/generated bodies untouched; parent E5root unchanged",
+  "limits": "No new full-sourcebook/print/Greek/causal/clinical/runtime or authorial-ratification upgrade.",
+  "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-LIGHTWEIGHT-CHECKS.json",
+  "qualifications": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-QUALIFICATION-REVIEW.json",
+  "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-SOURCE-READINGS.json",
+  "peer_return": {
+    "preserved_prior": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E5-HISTORICAL-before-independent-qualified-identity.md.txt",
+    "prior_sha256": "ff03de90001f68829788d9d3f791ae1242aa298248b7800412db881bdd39b9ab",
+    "source": "Actual complete Draft3opening27–33 freshly reread, long29 explicit identity governs the recovered paragraph.",
+    "exact_changed_join": "Taylor's Draft 3 example states that the just person, **insofar as just, is Justice itself**. Justice is genuinely present under that respect while the person's other acts remain open to judgment. Focality orders several uses around one primary reference; qualification identifies the respect of one predication. Their coordination preserves both operations. Draft 3 is the actual authorial carrier of this example; the unresolved Flasch/Eckhart page attribution is a separate historical question.",
+    "status": "Exact final complete adjoining #2 independently replayed and accepted; no further changed-operation fault."
+  },
+  "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-E5-HISTORICAL-REVIEW.json",
+  "independent_review_sha256": "4cdac18f2dfa597282913aa5fdf8c2f2309983ce26f4d7a1748c15d76c09d79d"
+}

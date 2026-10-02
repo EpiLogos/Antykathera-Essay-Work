@@ -1,0 +1,37 @@
+{
+  "rows": [
+    {
+      "key": "VALENTINIAN",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-before.md.txt",
+      "preimage_sha256": "fd39f4553cd2e9843013d06c8373bec63525768502c1c75d8a80b8a78c9e4526",
+      "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-candidate.md.txt",
+      "candidate_sha256": "a719b93da7904bdaaf53b9bbdcb5cb951f38e07fdf12a477e9c05f345d64a8d3",
+      "status": "Independent bounded whole/source/public operation accepted; frozen non-live pending parent inclusion",
+      "effects_depth": 4,
+      "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-effects-before.json",
+      "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-SOURCE-READINGS.json",
+      "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-DIRECT-CONSUMERS.json",
+      "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-LIGHTWEIGHT-CHECKS.json",
+      "qualifications": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-QUALIFICATION-REVIEW.json",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-GNOSTIC-TWO-REVIEW.json",
+      "independent_review_sha256": "270c3b6ec851c5d12e18831c4dc5a6ff8aa0cdd9706e0ca0cab9faf3fcbdb68e"
+    },
+    {
+      "key": "IRENAEUS-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/SOURCE.md",
+      "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/IRENAEUS-SOURCE-before.md.txt",
+      "preimage_sha256": "cf99492bea6c187d1ab6f1ee246ca68f5ad11b78a599c8f030e41200941f2cdd",
+      "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/IRENAEUS-SOURCE-candidate.md.txt",
+      "candidate_sha256": "b2c26e2a6fea42d88784088e9f75b53afaa403eaa41e83c277bdf848ac613f36",
+      "status": "Independent bounded whole/source/public operation accepted; frozen non-live pending parent inclusion",
+      "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/IRENAEUS-SOURCE-effects-before.json",
+      "effects_depth": 4,
+      "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/VALENTINIAN-SOURCE-READINGS.json",
+      "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/IRENAEUS-SOURCE-LIGHTWEIGHT-CHECKS.json",
+      "binding_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/IRENAEUS-SOURCE-BINDING-REVIEW.json",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-GNOSTIC-TWO-REVIEW.json",
+      "independent_review_sha256": "270c3b6ec851c5d12e18831c4dc5a6ff8aa0cdd9706e0ca0cab9faf3fcbdb68e"
+    }
+  ]
+}

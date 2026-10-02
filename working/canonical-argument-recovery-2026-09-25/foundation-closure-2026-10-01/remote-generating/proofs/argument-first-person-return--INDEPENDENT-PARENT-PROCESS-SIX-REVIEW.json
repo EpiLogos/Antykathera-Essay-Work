@@ -1,0 +1,153 @@
+{
+  "reviewer": "/root/argument_recovery",
+  "kind": "Independent final complete source/public cold review",
+  "records": [
+    {
+      "key": "t0-onto-logic",
+      "path": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "preimage_sha256": "d13d0efa88786eecb3136d361b7c87b957791f235f80054b67963de3b3ff950b",
+      "candidate_sha256": "3628a46c1e91132ec66a76733103c8cd772a8274ebd037171357a5d78a7d451c",
+      "whole_old_and_final_candidate_read": true,
+      "exact_final_changed_joins_replayed": true,
+      "retention_checks": {
+        "exact_declared_preimage": true,
+        "exact_declared_final": true,
+        "canonical_still_preimage": true,
+        "metadata_exact": true,
+        "display_blocks_exact": true,
+        "table_rows_exact": true,
+        "all_link_targets_exact": true,
+        "blockquote_lines_exact": true
+      },
+      "disposition": "Accepted bounded native mathematical/source/public operation; canonical integration and execution gates remain parent-owned."
+    },
+    {
+      "key": "t1-geometry",
+      "path": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "preimage_sha256": "71d58b64dd571c159abed03c56917936d21de5dea57836884f4bf52f4eb35c62",
+      "candidate_sha256": "8354b777f1aa96f6b442bb8432179da28d29adddceeb4923f8bd9349bcd89e38",
+      "whole_old_and_final_candidate_read": true,
+      "exact_final_changed_joins_replayed": true,
+      "retention_checks": {
+        "exact_declared_preimage": true,
+        "exact_declared_final": true,
+        "canonical_still_preimage": true,
+        "metadata_exact": true,
+        "display_blocks_exact": true,
+        "table_rows_exact": true,
+        "all_link_targets_exact": true,
+        "blockquote_lines_exact": true
+      },
+      "disposition": "Accepted bounded native mathematical/source/public operation; canonical integration and execution gates remain parent-owned."
+    },
+    {
+      "key": "phase-flip",
+      "path": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "preimage_sha256": "2c906b0e6dff06b5950b2e225bf098ea7a9fc4586db19a2c8c72cb34a5d96c40",
+      "candidate_sha256": "757e82c5e55cc36aa9878ff397b51ee04a37e27166843c752ce5c35f2d6198f1",
+      "whole_old_and_final_candidate_read": true,
+      "exact_final_changed_joins_replayed": true,
+      "retention_checks": {
+        "exact_declared_preimage": true,
+        "exact_declared_final": true,
+        "canonical_still_preimage": true,
+        "metadata_exact": true,
+        "display_blocks_exact": true,
+        "table_rows_exact": true,
+        "all_link_targets_exact": true,
+        "blockquote_lines_exact": true
+      },
+      "disposition": "Accepted bounded native mathematical/source/public operation; canonical integration and execution gates remain parent-owned."
+    },
+    {
+      "key": "ratio-threshold",
+      "path": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "preimage_sha256": "739ca3bdbc5539c8ac395cb5b520a8ce4cb3c1d2ce116907466ca81df9eec44d",
+      "candidate_sha256": "9b23efe77f3015f431d809d96826ac1177de13c9bf521a2290f4fc9c8ebc3347",
+      "whole_old_and_final_candidate_read": true,
+      "exact_final_changed_joins_replayed": true,
+      "retention_checks": {
+        "exact_declared_preimage": true,
+        "exact_declared_final": true,
+        "canonical_still_preimage": true,
+        "metadata_exact": true,
+        "display_blocks_exact": true,
+        "table_rows_exact": true,
+        "all_link_targets_exact": true,
+        "blockquote_lines_exact": true
+      },
+      "disposition": "Accepted bounded native mathematical/source/public operation; canonical integration and execution gates remain parent-owned."
+    },
+    {
+      "key": "harmonics-symmetries",
+      "path": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "preimage_sha256": "039d469edb39ede1c681a3fd354e6cf023d32c39fc32f06cf062edf30351f8b0",
+      "candidate_sha256": "f8bdbe8107a3167791a9d7ca8652c72134deb5d0538b7461f0ddaee3c8a7a824",
+      "whole_old_and_final_candidate_read": true,
+      "exact_final_changed_joins_replayed": true,
+      "retention_checks": {
+        "exact_declared_preimage": true,
+        "exact_declared_final": true,
+        "canonical_still_preimage": true,
+        "metadata_exact": true,
+        "display_blocks_exact": true,
+        "table_rows_exact": true,
+        "all_link_targets_exact": true,
+        "blockquote_lines_exact": true
+      },
+      "disposition": "Accepted bounded native mathematical/source/public operation; canonical integration and execution gates remain parent-owned."
+    },
+    {
+      "key": "spanda",
+      "path": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "preimage_sha256": "a329b834e8137f640e47e4d0d5c00f8b2a0b655e74b75433c6d13a996587f64c",
+      "candidate_sha256": "8ea8874cca015985e38305a598addc4e3086031f1afc3c23db6a612d3d207bf3",
+      "whole_old_and_final_candidate_read": true,
+      "exact_final_changed_joins_replayed": true,
+      "retention_checks": {
+        "exact_declared_preimage": true,
+        "exact_declared_final": true,
+        "canonical_still_preimage": true,
+        "metadata_exact": true,
+        "display_blocks_exact": true,
+        "table_rows_exact": true,
+        "all_link_targets_exact": true,
+        "blockquote_lines_exact": true
+      },
+      "disposition": "Accepted bounded native mathematical/source/public operation; canonical integration and execution gates remain parent-owned."
+    }
+  ],
+  "source_basis": [
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "actual_read_scope": "Fresh complete FileTwo1–389 actually read in two untruncated units. Source order T1geometry then T0onto-logic distinct from locally named T0emanative/T1reversionary tracks."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_read_scope": "Prior complete640-line actual source; fresh Definition/counting337–401 and agentic401–437; native person1–2–3/4–5–0, both implicate parents, knower/means/known and whole return."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_read_scope": "Fresh complete102-line source; clipped50–63 explicitly reopened. Primary subject3:3=3:1 and full six/eight; local functional knower nested in Life; complete Dia order retained."
+    }
+  ],
+  "native_operations_replayed": [
+    "T1 composition/retention distinct from Boolean evaluation; N→E→W→S versus enumeration; valid endpoint quotient versus centre; directed traversal without physical metric.",
+    "T0 scalar-domain distinct slash orientations; all four conditions; each parent contains complete4+2; manifestation/source dependency in respective respects.",
+    "Phase R²=id retains differing applications and history; Kauffman alternation; IS→AM actual determining act; formal reversal does not itself enact institutional correction.",
+    "Spanda both directed tracks and stood unity;100-unit sum versus constituent ratio versus prime-factor count; native3:3 also3:1 retains three operations.",
+    "Ratio ordered cross-reading (4,2)/(3,3) gives pair; fourth/fifth/octave independent musical warrant;16/9 retains9/8; fourth–tone–fourth completion distinct twelve-fifths comma.",
+    "Harmonic adjacent and complementary partitions distinct; subject sequence primary, harmonic knower/means/known mapping separate; mutual-condition Borromean operation does not supply a topological embedding."
+  ],
+  "public_return_findings": "Returned page/source/README/schema actor faults now resolved by the actual named relation, operation and consequence in each adjoining unit. Acceptance follows positive semantic replay, not a renamed-link or detector result. No exact remaining public wrapper, lost native step or stronger mathematical/source consequence found in these six final operations.",
+  "limits": [
+    "First-person recognition remains an enacted office; numerical100%/position count does not certify an occurrence or quantify awareness.",
+    "No new physical acoustic measurement, tuning-history whole-source audit, Spencer-Brown primary-passage readiness, historical Śaiva doctrine proof, link invariant or institutional deployed result established.",
+    "Whole external books and quotation upgrades were not freshly collated. Existing source-specific primary-passage and experiential limits remain.",
+    "48 movement bodies remain protected and deferred; receiving link labels do not certify their whole operations.",
+    "No local heavy execution/builds/tests run in this review; unchanged admission gates remain parent-owned."
+  ]
+}

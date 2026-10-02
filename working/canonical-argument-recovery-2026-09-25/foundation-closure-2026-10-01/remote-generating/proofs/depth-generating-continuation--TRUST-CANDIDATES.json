@@ -1,0 +1,36 @@
+[
+  {
+    "key": "TRUST-FIELD",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+    "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-FIELD-before.md.txt",
+    "preimage_sha256": "5d8172c4a33294abc1ca03673b78b0b5b6b9c581c58059cc7a38ccc0a1cad625",
+    "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-FIELD-candidate.md.txt",
+    "candidate_sha256": "c519eff90cae8ead563831d8dddd3dabf037101352770d4394427c87011a558a",
+    "status": "Independently source/public accepted; frozen for parent inclusion",
+    "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-FIELD-effects-before.json",
+    "effects_depth": 4,
+    "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-SOURCE-READINGS.json",
+    "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-DIRECT-CONSUMERS.json",
+    "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-FIELD-LIGHTWEIGHT-CHECKS.json",
+    "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-FIELD-QUALIFICATION-REVIEW.json",
+    "independent_cold_review": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/INDEPENDENT-TRUST-CYCLE-REVIEW.json",
+    "independent_cold_review_sha256": "0ace1b190bb7ea029d97bfcbbe14caf094b2d78b7c317702c2841a84ca3f0bc2"
+  },
+  {
+    "key": "TRUST-HISTORICAL",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+    "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-HISTORICAL-before.md.txt",
+    "preimage_sha256": "ba955fcfda5e4ba7c0667ddf72b263d4aeb025b61a147487d3f11b73c14c6207",
+    "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-HISTORICAL-candidate.md.txt",
+    "candidate_sha256": "7f31c3de116c3d287204740a2a3d7b9936412f8939f15a477d7902d0b624a54e",
+    "status": "Independently source/public accepted; frozen for parent inclusion",
+    "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-HISTORICAL-effects-before.json",
+    "effects_depth": 4,
+    "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-SOURCE-READINGS.json",
+    "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-DIRECT-CONSUMERS.json",
+    "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-HISTORICAL-LIGHTWEIGHT-CHECKS.json",
+    "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-HISTORICAL-QUALIFICATION-REVIEW.json",
+    "independent_cold_review": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/INDEPENDENT-TRUST-CYCLE-REVIEW.json",
+    "independent_cold_review_sha256": "0ace1b190bb7ea029d97bfcbbe14caf094b2d78b7c317702c2841a84ca3f0bc2"
+  }
+]
