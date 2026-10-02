@@ -6,7 +6,7 @@ record_type: concept
 register: episteme
 claim_status: Argued
 source_relation: Argued from
-source_ids: [dyczkowski-2000-doctrine-vibration, abhinavagupta-singh-1988-paratrisika-vivarana]
+source_ids: [dyczkowski-2000-doctrine-vibration, abhinavagupta-singh-1988-paratrisika-vivarana, taylor-2026-core-theorems-pithy]
 argument_consumers: [A05, A06, A09, A14, A26, A32]
 ---
 # C13 — Prakāśa–Vimarśa
@@ -15,7 +15,7 @@ argument_consumers: [A05, A06, A09, A14, A26, A32]
 
 Prakāśa is luminous appearing; vimarśa is its active self-presence. An appearance is known in the act of appearing, rather than first being displayed to an absent observer and subsequently lit by another awareness. Their inseparability is the living relation through which a difference can appear, be recognised, retained and articulated.
 
-The [full argument](../arguments/A05-Prakasa-Vimarsa.md) distinguishes these powers so that illumination, reflection, cognition, freedom and recognition acquire their own offices within one field. Self-presence is already operative in the experience from which the inquiry begins.
+In [luminous self-presence](../arguments/A05-Prakasa-Vimarsa.md), appearing is illuminated, difference apprehended, an affection retained and a new act formed. Reflection, cognition, freedom and recognition distinguish these relations within one field. Self-presence is already operative in the experience from which the inquiry begins.
 
 ## #1
 
@@ -47,11 +47,13 @@ Two axes further differentiate the movement (p.75). Manifestation and withdrawal
 
 ## #5→0
 
-The [Māyā whole](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream) carries both mirror limits through eye, veil, frame and dream. The living mirror generates, hosts and apprehends its appearances; the inert crystal only displays. Recognition therefore concerns the source relation of an experienced world, not the multiplication of pictures within it.
+Through [Māyā’s eye, veil, frame and dream](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream), a bounded life knows a world whose condition can withdraw from its horizon. The living mirror generates, hosts and apprehends its appearances; the inert crystal only displays. Recognition therefore concerns the source relation of an experienced world, not the multiplication of pictures within it.
 
 [Indra's jewel-net](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) brings the whole relation into view through mutual reflection. Its jewels disclose one another, while the Śaiva account additionally specifies the retention, recomposition and self-apprehension of vimarśa. The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-sophia-logos-shakti) brings active bearing and recognition into the crossing: a receiving matrix participates in what appears. Its Christian sequence and the Śaiva sequence retain their own figures and histories; the comparison follows their operations rather than assigning them fixed interchangeable offices.
 
-[Computational Vimarśa](C43-Computational-Vimarsa.md) gives reflexive mediation a technical body. Retention allows a result to be recalled; recomposition allows a new result; review can return a consequence to the source, permission or criterion that governed it. A recorded review becomes a changed operation when an accessible condition is actually altered and the next act inherits that change. The means have then become answerable at their own level.
+[Computational Vimarśa](C43-Computational-Vimarsa.md) gives reflexive mediation a technical body. Retention allows a result to be recalled; recomposition allows another result; review returns a consequence to what made the determination possible. Within that review the local interpreting agent is the functional knower, retained source and context together with the comparison rule are means, and the result examined is known. Within the containing person’s inquiry, the reviewing apparatus itself serves as means. The [native knowing relation](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) holds these relative offices within Life / Mind.
+
+A corrected answer or application can follow under a fitting rule. If the rule, representation, permission or commission itself failed, the return reaches the office capable of changing that condition. If inquiry warrants retaining it, the later act inherits the reasons for that judgment and the source relation through which it was reached. The recorded review becomes consequential through this inherited answerability. A claim that processing changed must additionally identify what changed and where the next operation received it; reasoned retention is not reported as a new engineering intervention. The means remain open to another answer at the depth that answer actually exposes.
 
 [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] carries the corresponding relation: an articulation answers to the appearing it discloses, instead of usurping its source. The return preserves the differentiated powers while releasing an achieved determination's claim to contain the whole.
 

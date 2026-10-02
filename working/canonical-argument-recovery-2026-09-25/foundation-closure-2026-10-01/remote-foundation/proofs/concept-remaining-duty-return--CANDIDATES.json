@@ -1,0 +1,90 @@
+[
+  {
+    "key": "C42",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/preimages/C42-Objective-Co-Internality.md.txt",
+    "preimage_sha256": "39df3f4d1e58b199987cb861dd6e71014cfa5e4b35386d4f94ecb33f228310b7",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/effects/C42.json",
+    "effects_sha256": "19e56bb7b7d77334972693884c7354082bd4090ad02e29cf947977322867a9b1",
+    "effects_depth": 4,
+    "native_matches_preimage": true,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C42-Objective-Co-Internality.md.txt",
+    "status": "Complete source-first non-live operation independently whole source/public accepted; frozen for parent inclusion and unchanged native gates",
+    "candidate_sha256": "0a47d352ba69f590566b350e631e130d76cc9dd6d8422c2173affbd260d37165",
+    "changed_lines": [
+      18
+    ],
+    "author_self_read": "Complete native preimage and complete saved final candidate read untruncated; sole fullparagraph diff and all source units replayed. All241 original lines across4 remain; public-duty subject changed, no native/source edits.",
+    "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/SOURCE-READINGS.json",
+    "source_ledger_sha256": "176e3b1bec4c9f1da19454798035464dbb3be82d4b34f7ec2c033caea09d75e6",
+    "independent_review_status": "accepted at exact final candidate within explicit source bounds",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+    "independent_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd"
+  },
+  {
+    "key": "C43",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/preimages/C43-Computational-Vimarsa.md.txt",
+    "preimage_sha256": "eff7081fbc9d81573d381a46028a5f79ede26dcf7de6938388d294cef649cf8b",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/effects/C43.json",
+    "effects_sha256": "4bc2c3943e4e2b41cff174c8ed6b3958caf129365b8d5b72fed47e269a3912ec",
+    "effects_depth": 4,
+    "native_matches_preimage": true,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C43-Computational-Vimarsa.md.txt",
+    "status": "Complete source-first non-live operation independently whole source/public accepted; frozen for parent inclusion and unchanged native gates",
+    "candidate_sha256": "970bf57a1ea55a093fc177e6e292027ec36b4af78dd37767ff35ab5f04ade8d2",
+    "changed_lines": [
+      55
+    ],
+    "author_self_read": "Complete native preimage and complete saved final candidate read untruncated; sole fullparagraph diff and all source units replayed. All241 original lines across4 remain; public-duty subject changed, no native/source edits.",
+    "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/SOURCE-READINGS.json",
+    "source_ledger_sha256": "176e3b1bec4c9f1da19454798035464dbb3be82d4b34f7ec2c033caea09d75e6",
+    "independent_review_status": "accepted at exact final candidate within explicit source bounds",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+    "independent_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd"
+  },
+  {
+    "key": "C46",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/preimages/C46-Epistemic-Cultivation.md.txt",
+    "preimage_sha256": "506f9833fcdba8b22355463e0fdd03b8d8301f4980fa49c1639216107e488cdc",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/effects/C46.json",
+    "effects_sha256": "c89713ba50f90f10e2065c30f481b4e911d3e93669e86551159dc59ad5c4cf6f",
+    "effects_depth": 4,
+    "native_matches_preimage": true,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C46-Epistemic-Cultivation.md.txt",
+    "status": "Complete source-first non-live operation independently whole source/public accepted; frozen for parent inclusion and unchanged native gates",
+    "candidate_sha256": "8c589cb22f93c8bbd37a25cddc1c27234faf5d4fa15f9e41c395d80db26e0275",
+    "changed_lines": [
+      39
+    ],
+    "author_self_read": "Complete native preimage and complete saved final candidate read untruncated; sole fullparagraph diff and all source units replayed. All241 original lines across4 remain; public-duty subject changed, no native/source edits.",
+    "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/SOURCE-READINGS.json",
+    "source_ledger_sha256": "176e3b1bec4c9f1da19454798035464dbb3be82d4b34f7ec2c033caea09d75e6",
+    "independent_review_status": "accepted at exact final candidate within explicit source bounds",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+    "independent_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd"
+  },
+  {
+    "key": "C60",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/preimages/C60-Idealism-Order-of-Dependence.md.txt",
+    "preimage_sha256": "5f133655a24a388a3273136f8d0115b4da7f0d44ce994671d3a464ecad57c1a1",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/effects/C60.json",
+    "effects_sha256": "ab4ca01e6f291d334b8090af85fd461a069146cc2ebebb9ea1cec8827ffb2966",
+    "effects_depth": 4,
+    "native_matches_preimage": true,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C60-Idealism-Order-of-Dependence.md.txt",
+    "status": "Complete source-first non-live operation independently whole source/public accepted; frozen for parent inclusion and unchanged native gates",
+    "candidate_sha256": "fc89f1f910a63b3a3bba8734a6f8da47f532ec53cd02492e676f976d0cbcf8c0",
+    "changed_lines": [
+      20
+    ],
+    "author_self_read": "Complete native preimage and complete saved final candidate read untruncated; sole fullparagraph diff and all source units replayed. All241 original lines across4 remain; public-duty subject changed, no native/source edits.",
+    "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/SOURCE-READINGS.json",
+    "source_ledger_sha256": "176e3b1bec4c9f1da19454798035464dbb3be82d4b34f7ec2c033caea09d75e6",
+    "independent_review_status": "accepted at exact final candidate within explicit source bounds",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+    "independent_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd"
+  }
+]

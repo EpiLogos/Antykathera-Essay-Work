@@ -1,0 +1,110 @@
+{
+  "status": "Accepted exact complete whole old/new source/public operation after returned institutional attribution join",
+  "records": [
+    {
+      "record": "A29",
+      "preimage_sha256": "151941b780a48792892e32295e15c2869c669b5f4299e260f7e1654667854517",
+      "candidate_sha256": "23e13649cba953ccb0a22fd5b7eff280b53209b244b6bb9101eff82bd8802ef5",
+      "frontmatter_exact": true,
+      "headings_exact": false,
+      "curly_quotes_exact": true,
+      "accepted": true
+    },
+    {
+      "record": "A29p",
+      "preimage_sha256": "28681d2d9ce9511aaed85ede26b51d505552a82aab31bc30963560631d841b08",
+      "candidate_sha256": "7c88b32d687c6ed789d8a8e1b283f8e4270efb75374c850174b90e2649fd269d",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "curly_quotes_exact": true,
+      "accepted": true
+    }
+  ],
+  "actual_readings": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "151941b780a48792892e32295e15c2869c669b5f4299e260f7e1654667854517",
+      "scope": "Entire complete old/native or final carrier actually freshly read untruncated; paired bodies independently compared, no semantic inference from effect names"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/candidates/A29-Power-Delegated-Labour-Return.md.txt",
+      "sha256": "23e13649cba953ccb0a22fd5b7eff280b53209b244b6bb9101eff82bd8802ef5",
+      "scope": "Entire full final23e13649 carrier freshly reread untruncated after whole95c draft/preimage source comparison and exact returned join."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "sha256": "28681d2d9ce9511aaed85ede26b51d505552a82aab31bc30963560631d841b08",
+      "scope": "Entire complete old/native or final carrier actually freshly read untruncated; paired bodies independently compared, no semantic inference from effect names"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/candidates/A29-prime-Return-or-Extraction.md.txt",
+      "sha256": "7c88b32d687c6ed789d8a8e1b283f8e4270efb75374c850174b90e2649fd269d",
+      "scope": "Entire complete old/native or final carrier actually freshly read untruncated; paired bodies independently compared, no semantic inference from effect names"
+    },
+    {
+      "path": "submission-package/epi-logos/resources/units/unit-social-power.md",
+      "sha256": "b9cb631dc9c30bcea7eb34388c15078798aef220f09830b08e256ccf557b854f",
+      "scope": "Entire201-line41974-character direct authored unit freshly read in contiguous0–6500/6500–13000/13000–19500/19500–26000/26000–32500/32500–39000/39000–end, all outputs untruncated"
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "scope": "Actual complete sovereigncommons/BwO authored unit4783–4933 freshly read untruncated, not wholequilt fresh"
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "44834dfb502d070aca3e6df6fee5234d0947b8036f9a2f173d594bc7a8e97053",
+      "scope": "Actual entireR16.1–7 and sixproductoffice source1095–1127 freshly read; later complete minute governs inherited R16.7 reservation, no entirequilt fresh"
+    },
+    {
+      "path": "working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "sha256": "0387d22a8f59d802261be6e56fce86a137d49d538b95f8b6e79a1beb3fe22b1a",
+      "scope": "Actual complete FROM/TO table and fullQ9 question context3380–3483 freshly read; earlier complete source scenario/crossover/coupling bases retained, not fresh wholePDF/transcript"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "sha256": "324b08e5524c608de5ee3e50dd6bd42f8676c04cd8bfe1876086b745f270cbf9",
+      "scope": "Entire currentSOURCEhouse freshly read untruncated, selected participation/recognisedrights/nesting and anti-rigidity cards; no fresh wholelecture/primaryPDF"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "sha256": "db7a58a1d482561f3d0718dded299f3f42ab7cc777444fefd9a32ca8942ad914",
+      "scope": "Entire140-line currenthouse/all6paraphrasecards freshly read untruncated; no fresh whole17-page report or newquotation/deployment acceptance"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "sha256": "f1898cbd3ba265b01d22989daf1f8b73c1c55b08c865effe6f175ce10a2a4318",
+      "scope": "Actual entireq008192–206/q012252–266/q013267–281/q039657–670 plus adjoiningunits freshly read; prior full sourcehouse accepted source basis retained, no fresh entirehouse"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "78e7fb05971490d9b8fca7be5cf30ae8dc67600329dff80758599b3ffed4e0d1",
+      "scope": "Entire currentC53 carrier freshly read untruncated at actual included bytes"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "sha256": "f471e9ba617efe750f1f34ca11cae9e3df92444f7276e501ea9a1df20a49864f",
+      "scope": "Entire currentC54 carrier freshly read untruncated at actual included bytes, prior exact ownsource/peer acceptance retained"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/lenses/foucault.md",
+      "sha256": "ad9eca38ab8e9ce85907303022457d708b1feea0eb2e94ac4eea730e2b3b8fbb",
+      "scope": "Entire current84-line native lens freshly read untruncated; institutional mechanism/scales comparison, not all external works/primarypassages freshly accepted"
+    }
+  ],
+  "retained_prior_basis": "Own actual whole640core/currentminute102/trust309/Dynamics124/MonoPoly103; complete healthyName/Power/images/Indra/maternal/Job/Prisoner/Meal/mirror and actualS/S0–S5 basis already source-compared. These actual priorreads do not become workerfreshreads or all newexternalprimaryacceptance.",
+  "findings": [
+    {
+      "record": "A29",
+      "unit": "#4 4:2institutional attribution",
+      "finding": "Report-linked proposal is credited with mandates/redress without distinguishing its affiliated architectural/report programme from later SovereignAgenticCommons layered institutional construction.",
+      "actual_source": "Complete42SOURCE describes communitystewardship/resourceknowledgefederation/roadmap; completeQ27 records mandate/redressmachinery as institutional construction at4863–4865 and its adoption/ratification bounds later.",
+      "requested_return": "Make report infrastructure/ownership programme and later mandate/redress construction distinct positive receiving operations, retain source targets; no externalPDF expansion.",
+      "status": "Resolved and exact adjacent/entire final replay accepted at A29 final23e13649cba953ccb0a22fd5b7eff280b53209b244b6bb9101eff82bd8802ef5; report programme and later proposed mandate/surety/redress construction positively distinguished, local ratification preserved."
+    }
+  ],
+  "limitations": "No wholeexternalbook/clinical/political-institutional/allegation/implementation/law/property/quotereadiness acceptance enlarged. Governing source construction distinct from particular measured result. No canonical edits. Native A29 pair preimages read from live exactnative bytes; worker receipt copies .md rename requested separately.",
+  "final_manifest_sha256": "f94c8988c042dcc44cea92af0d34388a838999a4a4bcfb68b2eaa70ef663a83e",
+  "final_replay": "Complete entire final native A29 read untruncated after exact #3/#4/#5 adjoining replay; complete unchanged prime final previously read; first95c draft and whole native preimages read with exact source units. No further exact lost step, false stronger consequence or source/page/status actor found at the changed joins.",
+  "preimage_receipt_return": "Worker renamed exact preimage copies .md.txt and corrected refs; original hashes preserved. This receipt binds full old native and final candidate bytes, not filename discovery alone."
+}

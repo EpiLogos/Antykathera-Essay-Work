@@ -23,7 +23,7 @@ A determination is formed through relations that its finished expression can con
 
 ## #1 — Distinguish what the answer inherits
 
-An answer begins within an inherited field. It takes up a task, a history, available sources and possibilities of action. The [process argument](../arguments/A14-Computational-Process-Ontology.md) asks what was inherited, what was excluded, which rule stabilised the branch, what retains a counter-reading, what the result changes and how it can become revisable common data. These questions locate the formation of this judgment rather than merely adding a description beside its result.
+An answer begins within an inherited field. It takes up a task, a history, available sources and possibilities of action. Examining its formation recovers what was inherited and excluded, which rule stabilised the branch, and the source relation through which a counter-reading remains available. The achieved result then meets its consequence: what did it change, and how can [that completed form become revisable common data](../arguments/A14-Computational-Process-Ontology.md)? This inquiry locates the making of the judgment through the relations which actually conditioned it.
 
 A source's statement, a report of that statement, an observation and an inference from it have different offices. So do the person claiming something, the person receiving it and the current act of interpretation. The same words can be present in each relation. Their presence alone cannot establish which relation produced the present claim. The [relational Logos of Actuation](../products/S1-Actuation.md#4--relational-logos-this-act-addresses-someone) makes these positions explicit so a response can carry a source's meaning without silently turning it into its own observation.
 
@@ -43,11 +43,11 @@ This is a tractable office for [computational Vimarśa](C43-Computational-Vimars
 
 A [locally governed Bimba field](C38-Bimba-Pratibimba-Bimba-Map.md) supplies an explicit reference for comparing positions and trajectories. It serves as an original within that inquiry and remains a constructed reflection relative to its wider sources. The reference can itself be revised. This recursive relation makes drift or disagreement accountable to a declared ground without requiring any one map to contain the world which supports it.
 
-A model can then model its own judgment field, and another can inspect that model. Each return discloses another determinate relation within the means. The gain lies in what becomes available to correction. [MEF](C39-Meta-Epistemic-Framework.md) keeps the lens and warrant of each reading distinct, so apparent agreement between maps does not conceal different sources or criteria.
+A model can then model its own judgment field, and another can inspect that model. Within the judging operation, the interpreting agent is the local functional knower; its sources, representations, memory and comparison rules are means; the active claims and alternatives are the known field. In a further inspection, that local centre and its model become known through another interpreting act. Within the containing person’s inquiry, the judging and inspecting apparatus itself participates in the means. Life / Mind contains these nested relations, while Subjective Immediacy retains the unobjectifiable knower condition of their appearing. Each return makes a determinate relation available to correction without cancelling the office it held in the preceding act. [MEF](C39-Meta-Epistemic-Framework.md) keeps the lens and warrant of each reading distinct, so apparent agreement between maps does not conceal different sources or criteria.
 
 ## #4 — Encounter can change what counts as an answer
 
-Searching under a fixed evaluator differs from letting the encounter revise the evaluator. The [model-revising encounter proposal](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape) states the first operation as
+Searching under a fixed evaluator differs from letting the encounter revise the evaluator. [A candidate represented within the current self/world model is selected under its governing criterion](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape):
 
 $$
 y^*=\arg\min_y E_\theta(m,y).

@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "key": "A27",
+      "native_path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "preimage_sha256": "36ed3bd3c6dd197873cee575587095c2067fc95f3059bcbb566a04e6cf68e52d",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A27-Self-and-Other-Unity-without-Possession.md.txt",
+      "candidate_sha256": "708da83f056deab301df9161fbaa7aaad46c67ddb8d9166094ffc0872216705c",
+      "status": "Independent complete source/public cold acceptance at exact candidate hash; frozen for parent inclusion/native gates",
+      "effects_depth": 4,
+      "whole_source_and_public_self_read": "Whole preimage and final candidate read, with each modified adjacent paragraph replayed after final grammatical/narrative returns.",
+      "qualification_ledger": "A27-QUALIFICATION-LEDGER.json",
+      "stronger_claim_boundary": "A claimed actual model/evaluator/commission or processing change retains its attributable change requirement; fitting-rule correction/retention is a different warranted return.",
+      "cold_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDEPENDENT-RECIPROCAL-PAIR-REVIEW.json",
+        "sha256": "57291240bd4fccf88556dd4f24eab581070b5fa09ee86d4e9c95a24ee7255264",
+        "owner": "/root/concept_recovery"
+      }
+    },
+    {
+      "key": "A27p",
+      "native_path": "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "preimage_sha256": "b2958f73cb9f98da48afdaa1afa776531670183060d5a956bf35e8bdea87d48d",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A27-prime-Encounter-over-Sovereignty.md.txt",
+      "candidate_sha256": "7e58e97534de1d021fa5559a91ff8598d1e86acf01b584506b4699f6963fe135",
+      "status": "Independent complete source/public cold acceptance at exact candidate hash; frozen for parent inclusion/native gates",
+      "effects_depth": 4,
+      "whole_source_and_public_self_read": "Whole preimage and final candidate read, with each modified adjacent paragraph replayed after final grammatical/narrative returns.",
+      "qualification_ledger": "A27p-QUALIFICATION-LEDGER.json",
+      "stronger_claim_boundary": "A claimed actual model/evaluator/commission or processing change retains its attributable change requirement; fitting-rule correction/retention is a different warranted return.",
+      "quote_exception_receipt": "PEER-EXACT-QUOTATION-RETURN.json",
+      "cold_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDEPENDENT-RECIPROCAL-PAIR-REVIEW.json",
+        "sha256": "57291240bd4fccf88556dd4f24eab581070b5fa09ee86d4e9c95a24ee7255264",
+        "owner": "/root/concept_recovery"
+      }
+    },
+    {
+      "key": "A30",
+      "native_path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "preimage_sha256": "c29595b713493ec5a1f880ff068ca9b5b90a40be4499fc70089d5f81f0555e0d",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A30-Objective-Co-Internality.md.txt",
+      "candidate_sha256": "6bff73732b688673b17daba403ffb9729181294c545ffc5a1e32c409513a8f4a",
+      "status": "Independent complete source/public cold acceptance at exact candidate hash; frozen for parent inclusion/native gates",
+      "effects_depth": 4,
+      "whole_source_and_public_self_read": "Whole preimage and final candidate read, with each modified adjacent paragraph replayed after final grammatical/narrative returns.",
+      "qualification_ledger": "A30-QUALIFICATION-LEDGER.json",
+      "stronger_claim_boundary": "A claimed actual model/evaluator/commission or processing change retains its attributable change requirement; fitting-rule correction/retention is a different warranted return.",
+      "cold_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A30-RECIPROCAL-REVIEW.json",
+        "sha256": "ffd21fef1289462020771af9abddf26cb207d1ec6c4dc0c5304a169d6692c116",
+        "owner": "/root/depth_recovery"
+      }
+    }
+  ],
+  "source_pre_edit": "PRE-EDIT-RECOVERY.json",
+  "live_writes": false,
+  "effect_depth": 4,
+  "acceptance_limits": "All local audits are unchanged lightweight checks; they do not accept source fidelity or establish implementation. Protected/raw/NOTES/movement/manuscript untouched.",
+  "effects_returned_bytes": 187,
+  "direct_receiving_bodies": 22,
+  "all_native_hard_errors": 0,
+  "individual_qualification_dispositions": 44,
+  "display_math_and_existing_quotes_exact": false,
+  "quotation_retention": "All original source quotation strings retained except one source-verified inherited noncontiguous A27prime seam, explicitly preserved and corrected.",
+  "frozen": true,
+  "quote_exception": "PEER-EXACT-QUOTATION-RETURN.json; all other source quotation strings retained"
+}

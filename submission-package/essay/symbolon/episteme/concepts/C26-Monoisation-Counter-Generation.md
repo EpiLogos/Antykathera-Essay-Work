@@ -15,7 +15,7 @@ Monoisation promotes a local determination into the sole source or measure of it
 
 ## #1
 
-The [Mono-Poly authorial development](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) begins from [the Two Ones](C49-The-Two-Ones-0-One-1-All.md). Self-Identity and Self-Difference are aspects of one complete relation; the Any and All do not arise by aggregating independent units. A local determination is generated within this field and can express it without exhausting or possessing it. Its efficacy is real precisely through relations that exceed its local boundary.
+In [Mono / Poly](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md), [the Two Ones](C49-The-Two-Ones-0-One-1-All.md) distinguish Self-Identity and Self-Difference as aspects of one complete relation. The Any and All arise through that prior relating activity; aggregating independent units already requires it. A local determination is generated within this field and can express it without exhausting or possessing it. Its efficacy is real precisely through relations that exceed its local boundary.
 
 ## #2
 
@@ -23,7 +23,7 @@ The reversal runs local `1` → occupied source-office → field redescribed as 
 
 ## #3
 
-Division with monopolised recombination makes the reversal social: actionable units lose sight of their horizontal dependencies, while the apparatus monopolises recombination. A central measure then appears to supply the unity whose relational conditions it has concealed. The [authorial cultural development](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) follows a further turn: a culture's internal plurality is suppressed under one measure, and its counterculture becomes organised through opposition to that measure. Where the counter preserves the same frame, two monocultures confront one another. Replacing the occupant has left the source-claim intact. Restoring a common relation lets the opposed positions remain determinate while their governing frame becomes answerable.
+Division with monopolised recombination makes the reversal social: actionable units lose sight of their horizontal dependencies, while the apparatus monopolises recombination. A central measure then appears to supply the unity whose relational conditions it has concealed. Where a [culture’s internal plurality](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) is suppressed under one measure, its counterculture can become organised through opposition to that measure. Where the counter preserves the same frame, two monocultures confront one another. Replacing the occupant has left the source-claim intact. Restoring a common relation lets the opposed positions remain determinate while their governing frame becomes answerable.
 
 ## #4
 
@@ -31,8 +31,8 @@ Coordination, temporary arbitration and delegated authority remain necessary off
 
 ## #5→0
 
-Taylor's nourishment/Saturnine fork distinguishes assimilation that renews generation from consumption that blocks it. The body's taking becomes counter-generation through what it prevents from emerging next. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-metabolism).
+[Nourishment and Saturnine consumption](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-metabolism) diverge through what the body’s taking allows to emerge next. Assimilation renews generation; devouring becomes counter-generation where it prevents birth and differentiation from continuing.
 
-The return retains differentiated powers and their shared conditions. It does not defeat one monoculture by enthroning its counter. The [Mono / Poly argument's candidate `(1)`](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) pictures a local determination enclosed by its forgotten condition; restoring that relation lets polarity remain real without becoming war. [The commons](C54-Commons-Non-Monopoly.md) gives this relation institutional pressure: set terms, refuse, revise, leave and reconnect without losing every route to shared life. An apportioned office returns its work and effects to the economy that sustains it.
+The return retains differentiated powers and their shared conditions. It does not defeat one monoculture by enthroning its counter. A [local `(1)`](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) remains enclosed by a condition it has forgotten; recognising the enclosing relation lets polarity remain real without becoming war. [The commons](C54-Commons-Non-Monopoly.md) gives this relation institutional pressure: set terms, refuse, revise, leave and reconnect without losing every route to shared life. An apportioned office returns its work and effects to the economy that sustains it.
 
-[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) **figures** monoisation when a partial account of justice takes the office of the whole. The friends repeatedly translate Job's contradiction into confirmation of the same judgement, arresting the return by which the shared moral world could change. Their rebuke and Job's intercession reopen that relation. The account's competence survives when its claim to final jurisdiction returns to the encounter it had excluded.
+[Job’s friends](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) give a partial account of justice the office of the whole. The friends repeatedly translate Job's contradiction into confirmation of the same judgement, arresting the return by which the shared moral world could change. Their rebuke and Job's intercession reopen that relation. The account's competence survives when its claim to final jurisdiction returns to the encounter it had excluded.

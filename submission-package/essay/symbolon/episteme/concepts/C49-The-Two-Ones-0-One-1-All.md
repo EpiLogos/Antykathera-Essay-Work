@@ -12,19 +12,19 @@ source_ids:
 
 ## #0
 
-The Two Ones discriminate source-unity and manifest-unity within one relation. The primordial `/ = −/−` precedes assignment of the terms; the terms become legible through that relation rather than arriving as two independent things. The [core theorem field](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) derives their offices from the relating activity itself.
+The Two Ones discriminate source-unity and manifest-unity within one relation. The primordial `/ = −/−` precedes assignment of the terms; the terms become legible through that relation rather than arriving as two independent things. [Relating](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) gives each its office: the source remains uncounted while its manifestation becomes determinate.
 
 ## #1
 
-The [Mono-Poly development](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) gives `0 = One = Self-Identity`; `1 = All = Self-Difference`. One is not another counted object. All includes the whole manifest and determinable field and each indefinite particular through which it appears. The first mark opens further marks, names, beings and worlds; All is not an inventory assembled from isolated units.
+[Self-Identity and Self-Difference](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) distinguish the relation’s two aspects: `0 = One = Self-Identity`; `1 = All = Self-Difference`. One is not another counted object. All includes the whole manifest and determinable field and each indefinite particular through which it appears. The first mark opens further marks, names, beings and worlds; All is not an inventory assembled from isolated units.
 
 ## #2
 
-Dependency is reciprocal in different respects. The All depends on the One for being and determining reality; the One is manifest, articulated and knowable through the All. This is not temporal succession or symmetrical causal production. The [trust revision](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) locates reliance in this slash from the beginning. [Trust under formal limit](C48-Trust-Faith-under-Formal-Limit.md) develops how finite knowing, acting and risking inhabit that prior dependence.
+Dependency is reciprocal in different respects. The All depends on the One for being and determining reality; the One is manifest, articulated and knowable through the All. This is not temporal succession or symmetrical causal production. [Reliance](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) acts through this slash from the beginning: determining and knowing already depend upon a relation they cannot produce by finishing their account. [Finite knowing, acting and risking](C48-Trust-Faith-under-Formal-Limit.md) inhabit that prior dependence without possessing its ground.
 
 ## #3
 
-`0/1` and `1/0` are the relation's inverse readings; `(0/1)/(1/0)` retains them together. Ordinary arithmetic does not assign them equal values: the first computes and the second is undefined. The native authorial equality belongs to the relational matheme. The von Neumann neighbour `1 = {0}` states membership in a chosen representation, not identity between QL's One and the empty set.
+`0/1` and `1/0` are the relation's inverse readings; `(0/1)/(1/0)` retains them together. Ordinary arithmetic does not assign them equal values: the first computes and the second is undefined. Equality holds in the relational matheme through the same relation read from its inverse orientation. In the von Neumann construction, `1 = {0}` represents one as the singleton whose member is zero. This representation does not identify QL’s One with the empty set.
 
 ## #4
 
@@ -33,12 +33,16 @@ Self-application retains `0,1` with `00,01,10,11`: `2 + 2² = 4+2`. The sixfold 
 ## #5→0
 
 
-The [zero-reception dossier](../dossiers/zero-reception.md#4--rotmans-meta-subject-is-a-distinct-interlocutor) **compares** this operation. The semiotic production of Rotman’s meta-subject and native uncounted One remain distinct propositions. A signifying practice can constitute a manipulable observing role without exhausting the capacity in which that role appears. Being and manifestation sustain reciprocal dependence in different respects; neither temporal priority nor ordinal membership substitutes for this relation. Rotman’s chapter 2 retains its exact source-reading task.
+[Rotman’s semiotically produced meta-subject](../dossiers/zero-reception.md#4--rotmans-meta-subject-is-a-distinct-interlocutor) is a manipulable observing role constituted through signifying practice. The uncounted One concerns the capacity in which a role can appear, so producing the role and recognising that capacity remain distinct propositions. Being and manifestation sustain reciprocal dependence in different respects; neither temporal priority nor ordinal membership substitutes for this relation.
 
-A selected jewel gives the [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) its definite entrance. It **figures** the distinction between a manifest member and the source-unity through which members become possible: the return through others’ reflections retains this one without making it self-grounding. The Two Ones remain native offices, beyond an inventory of jewels.
+[A selected jewel](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) remains definite as its reflections lead into the others’ reflections and return. The manifest member keeps its local identity within a relation it does not originate or exhaust. Source-unity remains distinct from countable membership; an inventory of jewels cannot replace the relation through which each appears.
 
-The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** reciprocal orientations through the wheels: `0/1` meets `1/0`, and the compound holds their relation. One and All retain different offices in this native reading. The encountered wheel does not prove an arithmetic operation or supply its own historical iconographic attribution.
+The [encountered wheels](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) turn the relation through reciprocal orientations: `0/1` meets `1/0`, and the compound holds their relation. One and All retain different offices in this native reading. The encountered wheel does not prove an arithmetic operation or supply its own historical iconographic attribution.
 
-The written 0/1 becomes a local determination within the field in which it appears. Taylor's paper scene returns the manifest All to the uncounted One without abolishing the mark's exact office. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
+The [written 0/1 on paper](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold) becomes a local determination within the field in which it appears. Reading the mark’s production, its supporting surface and the possibility of erasure returns the manifest All to the uncounted One without abolishing the mark’s exact office.
 
-The local one remains real while returning to conditions it cannot own. [Mono / Poly](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) develops these prior offices; [Dia / Syn](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) makes their differentiation operative; [Primordial Symbolon](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) carries the complete transverse field. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.
+The local one remains real while returning to conditions it cannot own. The [One and All](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) are already related before [cutting and gathering](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) make their differentiation operative. The [complete eight-determination traversal](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) takes that relation through its different registers and returns its achieved determination. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.
+
+## Source standing
+
+The distinction involving Rotman’s meta-subject retains the existing chapter 2 passage-collation limit. No new exact quotation or whole-work reading is asserted by this comparison.

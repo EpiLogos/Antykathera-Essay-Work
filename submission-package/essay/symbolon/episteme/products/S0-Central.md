@@ -35,7 +35,7 @@ concept_relations:
 
 Within Objective Internality this ground belongs to the means through which a World is disclosed. It therefore remains distinguishable from Subjective Immediacy. A remembered self-description is content within the means, not the knower itself; a durable project record is not the Life for whom the project matters. Central’s task is to preserve the **attributable articulation of ground** strongly enough that later acts can recognise what they inherit, what has changed and what remains answerable.
 
-This is why Central is the proper home for durable Bimba and project/world reference. The Bimba is not simply a database of facts. It is a structured articulation of the meaningful relations by which a field has come to understand itself. It can be corrected, extended and reframed precisely because it is not identical with the Subject or World it helps disclose.
+This is why Central is the proper home for durable Bimba and project/world reference. The Bimba is not simply a database of facts. It is a structured articulation of the meaningful relations by which a field has come to understand itself. Within a declared Context Frame, this agreed reference genuinely serves as local Bimba: later judgments are its pratibimbas and acquire orientation from it. The same field remains pratibimba toward wider sources and World. It can be corrected, extended and reframed through that wider answerability while performing its real local source office.
 
 ## #1 — L0 Quaternal: ground becomes sayable
 
@@ -51,7 +51,7 @@ The conjugate pair gives **Arche · Apokalypsis · Dynamis · Sophia · Parousia
 
 **Arche** is the originating ground or commission from which a meaningful line begins. **Apokalypsis** is its disclosure: what becomes available from that ground. **Dynamis** is the potency carried forward by what has been disclosed. **Sophia** is understanding that integrates disclosure without pretending to exhaust its source. **Parousia** is presence: what has become actually available here. **Epi-Logos** is reflective return, where the carried account is revisited through what later encounter has made visible.
 
-The crucial movement is the last one. A record that only accumulates can become increasingly complete in quantity while growing less alive in relation. Epi-Logos requires that returned experience be able to revise the ground itself. The changed account must reach the source, rule, interpretation or entrusted decision that will condition the next encounter. Otherwise continuity has become repetition.
+The crucial movement is the last one. A record that only accumulates can become increasingly complete in quantity while growing less alive in relation. Epi-Logos makes the carried ground answerable to returned experience. A mistaken answer can be corrected under a fitting rule; a failed source, rule, interpretation or entrusted decision requires return to that condition itself. A challenge can also warrant retaining a condition, with the reasons and encountered difference carried forward. Continuity becomes reflective when the next encounter inherits this correction or reasoned retention.
 
 ## #3 — Authorship without enclosure
 
@@ -65,7 +65,7 @@ This is also why Central’s root meta-project role is philosophical rather than
 
 ## #4 — Bimba, Pratibimba and the carried world
 
-The inherited Bimba material belongs here because meaningful continuity requires a distinction between an articulated image and what it images. Bimba and Pratibimba preserve the order of dependence without denying that a reflection can become causally effective. A map can guide the next act; a remembered account can change a decision; a model can become part of the world it models. None of these consequences reverses the dependence by which the representation acquired meaning.
+The inherited Bimba material belongs here because meaningful continuity requires a distinction between an articulated image and what it images. Bimba and Pratibimba preserve the order of dependence without denying that a reflection can become causally effective. A map can guide the next act; a remembered account can change a decision; a model can become part of the world it models. A produced reference can become local Original for the judgments it orients while retaining the wider dependence through which it acquired meaning. Its causal efficacy does not make it metaphysically Original.
 
 The danger is not representation as such. It is the representation claiming the source’s office. This is the same pressure developed across the Antichrist, mirror and Power fields: an image becomes total when the living source is permitted to appear only through the image’s categories. Central resists that closure by preserving revision, source and returned encounter as constitutive parts of continuity.
 
@@ -73,7 +73,7 @@ This makes Bimba a live ground rather than a totalising ontology. The computatio
 
 ## #5→0 — Continuity completes itself by becoming revisable
 
-A Life carries its ground so that it can continue, but continuation worthy of the name includes the capacity to become otherwise. Central’s return therefore closes where the next act can actually differ. A source correction that remains in a note but does not reach the governing source relation has not completed its return. A revised commission that does not alter subsequent work remains commentary on the old commission. A remembered experience that cannot revise the categories through which later experience is received has become archive rather than learning.
+A Life carries its ground so that it can continue, but continuation worthy of the name includes the capacity to become otherwise. Central’s return closes at the warranted depth when a later act inherits the encountered difference and the judgment made upon it. A source correction that remains in a note but does not reach the governing source relation has not completed its return. A revised commission that does not alter subsequent work remains commentary on the old commission. A remembered experience can disclose a faulty category or confirm a fitting distinction. Learning carries the resulting correction or reasoned retention into later reception; an archived account which cannot become consequential there leaves that return unfinished.
 
 Central thus gives Objective Internality its **meaningful temporal depth**. It is the aspect through which a Life can say: this is where I came from; this is what I carried; this is what happened; this is what I now understand differently; this is what will therefore condition what comes next.
 

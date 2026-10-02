@@ -30,7 +30,7 @@ These are not exchanges between already completed interiors. They are cases in w
 
 The participants remain locally grounded. Their worlds do not fuse into one super-map whose owner can speak for all of them. Yet their separation is no longer absolute because what one does can enter the conditions from which another next acts.
 
-[Objective Internality](A26-Objective-Internality-Mind-as-Worldhood.md) supplies the local field. [Self and Other](A27-Self-and-Other-Unity-without-Possession.md) preserves independent address. [Power / Delegated Labour / Return](A29-Power-Delegated-Labour-Return.md) follows consequence through shared conditions. Co-Internality is what becomes visible when those operations are held together.
+Perception, memory, judgment and action proceed through a locally organised [Objective Internality](A26-Objective-Internality-Mind-as-Worldhood.md). Another participant remains [independently addressable](A27-Self-and-Other-Unity-without-Possession.md) while their contribution enters those means. Its use changes the distribution of [power, delegated labour and consequence](A29-Power-Delegated-Labour-Return.md): who can next act, what they inherit, and who can contest that inheritance. Co-Internality joins these operations without transferring ownership of one interior to another.
 
 ## #1 — A contribution can outlast the act that produced it
 
@@ -40,7 +40,7 @@ Documents, memory, code, tools, standards, roles, buildings, permissions, storie
 
 This is the importance of **objective immortality** in the present argument: an achieved form can outlast its occasion and become a condition of another occasion. The phrase does not mean that the original act simply continues unchanged. It means that what the act made can acquire a later efficacy.
 
-Symbolon Dynamics gives this relation two temporal views.
+This developing relation has two temporal views.
 
 Synchronically, an interior is a present landscape of memories, permissions, expectations, tools, relations, basins and possible transitions.
 
@@ -79,7 +79,7 @@ The federated Bimba design makes this explicit. Locally governed reference field
 
 A common grammar succeeds when it lets participants say **where** they differ without requiring them first to become the same.
 
-[C42 — Objective Co-Internality](../concepts/C42-Objective-Co-Internality.md) institutes this relation for reuse; [Agentworld](../concepts/C57-Agentworld.md) gives it a durable technical and social setting.
+[Reciprocal constitution](../concepts/C42-Objective-Co-Internality.md) keeps the contribution, its source and the receiving office available for an answer in the other direction. In [Agentworld](../concepts/C57-Agentworld.md), artifacts, memories, permissions, tools and institutional roles carry such contributions across acts; shared use becomes reciprocal where the source can contest what that use makes possible.
 
 ## #3 — Reflection remains answerable to source
 
@@ -101,7 +101,7 @@ The shared field therefore grows by **related difference**, not by successive an
 
 Long coherent action may pass through people, subagents, tools and artifacts. What gives such composition integrity is not the discovery of one hidden owner behind every contribution. It is the maintained relation of source, delegation, transformation, consequence and return.
 
-[Bimba / Pratibimba](../concepts/C38-Bimba-Pratibimba-Bimba-Map.md) carries this order of reflection; [World-Picture to World-Atlas](A22-World-Picture-to-World-Atlas.md) develops the plural-map consequence.
+A derived [reference map](../concepts/C38-Bimba-Pratibimba-Bimba-Map.md) can genuinely govern local comparisons while retaining the sources from which its authority came. An [atlas of placed views](A22-World-Picture-to-World-Atlas.md) keeps their different frames and transition-relations explicit, so that a disagreement can find its proper source rather than disappear into one enlarged picture.
 
 ## #4 — Reciprocity is a power relation
 
@@ -117,15 +117,15 @@ The contribution must be capable of changing a local judgment, a reference map, 
 
 Apportionment gives the political form. Every shared world distributes attention, authority, resources, risk and capacity. Co-Internality becomes ethical when those apportionments remain answerable to the lives whose worlds they help constitute.
 
-Encounter gives the personed form. Countenance can answer the Name and Account under which a participant entered the field. A returned answer becomes consequential only when it can alter the conditions of the next encounter.
+Encounter gives the personed form. Countenance can answer the Name and Account under which a participant entered the field. A returned answer becomes consequential when the next encounter inherits what it established. It may correct an attribution under an adequate rule, expose a faulty rule to the office able to revise it, or justify retaining a fitting condition. Recording the reply without letting it affect the following encounter leaves the circuit unfinished.
 
 This is why reciprocity is more than exchange. Exchange can leave every governing term untouched. Reciprocity is the possibility that the relation itself changes because another participant has acted within it.
 
-[Apportionment / Economy](../etymologies/apportionment-and-economy/WHOLE-FIELD.md) and [Encounter / Region / Name / Count / Countenance / Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md) develop those two dimensions.
+[Apportionment](../etymologies/apportionment-and-economy/WHOLE-FIELD.md) distributes the powers through which a contribution becomes effective. [Encounter and Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md) return its attribution to the person who can answer for what was counted and named. Reciprocity requires both the power to receive that answer and the continuing address of its source.
 
 ## #5→0 — The returned contribution becomes a new condition
 
-Co-Internality completes a circuit when what returned from one interior changes the field from which another interior next proceeds.
+Co-Internality completes a circuit when a returned contribution becomes an actual condition of the other interior’s next act. A correction can change its answer, task, representation, permission or rule. An encounter can also establish why an existing rule remains fitting; that finding enters the next act as an attributable reason rather than as immunity from further answer.
 
 This is not consensus.
 
@@ -147,16 +147,16 @@ $$
 
 The next act then becomes a possible contribution in the other direction. The field is recursively constituted without requiring a final centre which contains all interiors.
 
-The hive or colony gives one image: intelligence can arise through recurrent colony–environment relation while local participants remain real. Its pathology appears when one stratum proliferates into the whole and suppresses the plurality through which the field remained adaptive. The problem is not that coordination became large; it is that one local organisation claimed the office of the whole relation.
+In the hive or colony image, intelligence can arise through recurrent colony–environment relation while local participants remain real. Its pathology appears when one stratum proliferates into the whole and suppresses the plurality through which the field remained adaptive. The problem is not that coordination became large; it is that one local organisation claimed the office of the whole relation.
 
-Indra's net gives another image: a local jewel appears through reflections of a field of jewels. Co-Internality begins when the reflection is not merely present but consequential—when what occurs at one site can alter what becomes possible at another while the sites remain distinct.
+In Indra’s net, a local jewel appears through reflections of a field of jewels. Co-Internality begins when the reflection is not merely present but consequential—when what occurs at one site can alter what becomes possible at another while the sites remain distinct.
 
-The Meal makes the relation interpersonal: a contribution can nourish only by being transformed within the receiving life. The giver does not own that transformation; the receiver does not erase the giver's source.
+A Meal nourishes through transformation within the receiving life. The giver does not own that transformation; the receiver does not erase the giver's source.
 
-The travelling jigsaw gives the epistemic form: an atlas is improved when a returned piece can change the rule of fit, not merely occupy a slot already prepared for it.
+Within a travelling jigsaw, a returned piece can correct its placement under a fitting rule, reveal an excluded relation that requires the rule to change, or confirm a fit with reasons that later comparison can inspect. The atlas improves when the received difference can find the condition actually at issue. A rule which prevents every piece from challenging its terms protects the picture from the source it claims to assemble.
 
-The Prisoner gives the political counter-image. The Village constitutes its inhabitants through spaces, records, signs and offices while withholding reciprocal authority over the terms of that constitution. Shared worldhood without return becomes administration.
+In The Prisoner, the Village constitutes its inhabitants through spaces, records, signs and offices while withholding reciprocal authority over the terms of that constitution. Shared worldhood without return becomes administration.
 
-[Deferential Intelligence](A31-Deferential-Intelligence.md) carries the next operation: how returned difference reaches the criterion of a receiving intelligence. [Operational Parity](A33-Epistemic-Cultivation-Operational-Parity.md) asks for the observable consequence: what changed in source, map, relation, permission or circulation rule, and what became possible afterward?
+[Deference](A31-Deferential-Intelligence.md) lets the received difference reach the answer, task, world-model, evaluator or commission which the encounter actually exposes. A fitting condition can remain with reasons; a failed one must reach the office capable of correcting it. [Operational parity](A33-Epistemic-Cultivation-Operational-Parity.md) distinguishes that achieved return from an announcement: identify what the next act inherited, what became possible afterward, and how the use remains answerable to its source. A stronger claim that the paradigm or processing itself changed requires the attributable change it names.
 
 Objective Co-Internality is therefore neither isolated interiority nor merged mind. It is the living middle in which distinct worlds become conditions in one another and remain different enough for what returns to matter.

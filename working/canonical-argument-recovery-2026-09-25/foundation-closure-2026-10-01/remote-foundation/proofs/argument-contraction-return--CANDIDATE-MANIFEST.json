@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "id": "A09",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/preimages/A09-Tattvic-Differential-Field.md.txt",
+      "preimage_sha256": "1f4a4be53d0324024c2eca1954fd118a673a9f27e82a511c8e27389418e76e51",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/candidates/A09-Tattvic-Differential-Field.md.txt",
+      "candidate_sha256": "636011721366d32bef45359b861619be701b9ee0620b58572f4f8df24bb8c799",
+      "paired_prime": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "paired_prime_sha256": "5da612b485f5212b84a31d6a2967016ef22a512376ee15ee530d5995e3a34cad",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/PRE-EDIT-RECOVERY.md",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/SOURCE-READINGS.json",
+      "status": "Independently complete old/new/source/public accepted at exact final; native inclusion and unchanged full remote gates parent-owned.",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/LIGHTWEIGHT-CHECKS.json",
+      "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A09-CONTRACTION-REVIEW.json",
+      "independent_cold_review_sha256": "d81cee37eee47c6902a0e0852006828d357852c3be36e5d84dc740425927b1d3"
+    }
+  ]
+}

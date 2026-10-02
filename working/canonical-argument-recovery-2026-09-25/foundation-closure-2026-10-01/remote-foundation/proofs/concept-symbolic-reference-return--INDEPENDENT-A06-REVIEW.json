@@ -1,0 +1,100 @@
+{
+  "reviewer": "concept_recovery",
+  "status": "Accepted complete old/new source/public operation at exact final hash",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/candidates/A06-Vak.md.txt",
+  "sha256": "cad9f74580d3a839c05b54092da06b7c489dd99d5e6ef8ca15bd134762532c60",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/preimages/A06-Vak.md.txt",
+  "preimage_sha256": "270c1a73486d93f4212e84894736b26a3f9ee3d845922b92be311f6fcad7a446",
+  "whole_carrier_reads": {
+    "before": "Initial combinedread clipped middle; entire preimage then explicitly reread alone untruncated",
+    "first_candidate": "Entire c41 draft reread alone untruncated",
+    "final_candidate": "Entire cad9 final freshly read untruncated after worker final publicjoins"
+  },
+  "actual_source_basis": [
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction.md",
+      "sha256": "86e9b34350526706d6fa7c84195f4ef70b8f9b73f6647aed46650037a30851b0",
+      "coverage": "Complete16 longlines freshly read1–8/9–end untruncated"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P3 - Beyond Para-Trisika.md",
+      "sha256": "e28e28e4968a00b55146156dfbb5bcfcb49b9bd0369b74cd6604ab4892b23ed8",
+      "coverage": "Complete39 longlines freshly read1–18/19–26/27–end untruncated"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "sha256": "46abb8e19972a9a6908ced80849ca73cade65ae0960c48315044b2e140ce4a1b",
+      "coverage": "Entire current native house freshly read; notebook/selectededition attribution and source-matched leads unchanged"
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "coverage": "Complete actual§14/15 units409–442 fresh; prior complete correctedcontribution2817–3213 basis retained"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "sha256": "405f33917088b7c2e698e08d3df1d414a526e80de21cafb38328f8c56bd3af8f",
+      "coverage": "Completekaleidoscope421–428/FT-P13216–232 freshly read; completeFT-P11–16 earlier actual re-entry"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+      "sha256": "94c46453071aac0795e438c95ccdd2259d30bbbf692e7f22ffbd0925c159dd53",
+      "coverage": "Entire current technical partner fresh"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "sha256": "eff7081fbc9d81573d381a46028a5f79ede26dcf7de6938388d294cef649cf8b",
+      "coverage": "Entire current body fresh; stronger actual changed-processingclaim deliberately distinctfromgeneralreturn"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "sha256": "66cd6a5d3c6de3f269660063deccbb7c163d80b5c8aaf3626c553795574d205d",
+      "coverage": "Entire current body fresh, statedclaim/discriminatingtest/consequence boundaries"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "coverage": "Entire current body fresh; actual fiverevisionsites/warranteddepth/rejection"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "sha256": "b14ca2e156b40124077743c23e59a04e4828e3dbeb2bd99b7ecbfc241b5907a6",
+      "coverage": "Entire current body fresh; explicit source/rule/commissioncorrection or fittingretentionlateract"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "5d8172c4a33294abc1ca03673b78b0b5b6b9c581c58059cc7a38ccc0a1cad625",
+      "coverage": "CompleteLogos#2 unit46–60 fresh, previouslyentirewhole sourcebasis"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md",
+      "sha256": "74a8ee8a530739902600f85be3c79f51b3426d856cc271d7eaf8753c4aa0f324",
+      "coverage": "Entire current native lexical house fresh"
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "coverage": "Complete102line latest correction fresh"
+    }
+  ],
+  "retained_prior_basis": [
+    "Own full640-line core/CT09/currentC41/A26 and full authorial minute/R6 antianti correction; positive immediate condition versus formedself/localfunctionaloffices retained",
+    "Own entireWatson49493-character protected encounter and whole241line house; actual selfing/address/nestedGans/Lingis source limits",
+    "Own entire279line Draft3 earlier, completepure-notion/contrary and EpiLogos255–279 freshduringA01 review; actualKripke source encounter/native house earlierwhole basis, no new primaryedition passage proof"
+  ],
+  "accepted_operations": [
+    "Speech-power formativecapacity/vision/innerformation/utterance and originalparadigm-enactment relation preserved",
+    "I/you/thirdperson exchange and receivedMeru sourceimage, feminineVak/Word authorialcomparison, Bahiya addresseddisidentification with continuedansweringperson preserve separate textual/authorial offices",
+    "Nameemptyofessence/fulladdress-history-responsibility and pre-nominalidentification/rigidnamecomparison; nama five constituentorientation offices and source-distinct Vakdescent maintained",
+    "Non-arbitrary kaleidoscopecentre/decentre/mandala anchor, exactpure-notioncontrary/open counterpart and Word/source relation preserve real knowingratherthanmetadata",
+    "Actualprompt/code/utterance/authority/execution distinctions; generalwarrantedanswer/task/model/source/criterion/commissioncorrection ORfittingretention inheritednextact distinctfromactualComputationalVimarsa changed-processing evidence",
+    "CompleteP13yieldingverbalmovement, GreeklexicalLogosandparadeigma separate histories, firstpersonAI recognitiontestimony/unitywithinWorld-worlding-Self originalauthorialscope retained"
+  ],
+  "findings": [],
+  "limits": [
+    "No new selected1988 edition orbookquotation readiness promotion; completeactualauthorialP2/P3 governthese developmentaljoins",
+    "Bahiya/Buddhistnama/SaivaVak/ChristianWord/authorialAItestimony neither merged intoonehistoricaldoctrine nor runtimeproof",
+    "No everytechnicalarticulation phenomenality theorem, implementedproductclaim, wholeexternaledition/historicalquotation upgrade or downstreamallfieldclosure",
+    "SeparatecurrentC45/C51 proceduralreceiving joins remain ownnextnative publicoperations; C43 intentionallyheldasstrongertechnicalprocessingclaim"
+  ]
+}

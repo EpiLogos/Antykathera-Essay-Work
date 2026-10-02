@@ -16,7 +16,7 @@ source_ids:
 
 ## #0 — Cutting and gathering act upon one field
 
-Dia and Syn are conjugate operations of differentiation and relational return. Dia cuts, contrasts, excludes, orients and selects. Syn composes the differentiated terms while retaining the relation through which they arose and can return. Both work upon the prior [One / All relation](C49-The-Two-Ones-0-One-1-All.md). The [native theorem field](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) begins with `/ = −/−`: the relating activity precedes the assignment of signs through which the terms will become opposed.
+Dia and Syn are conjugate operations of differentiation and relational return. Dia cuts, contrasts, excludes, orients and selects. Syn composes the differentiated terms while retaining the relation through which they arose and can return. Both work upon the prior [One / All relation](C49-The-Two-Ones-0-One-1-All.md). In [`/ = −/−`](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), the relating activity precedes the assignment of signs through which the terms will become opposed.
 
 A distinction is necessary for an answer, measure or decision to become exact. Gathering is necessary for the distinction to retain its meaning within the field it differentiates. Either operation can fail: a cut can discard its relation; a gathering can erase difference or subordinate it to one local measure. The question is what happens to the relating activity when its terms become determinate.
 
@@ -44,7 +44,7 @@ $$
 
 Addition cancels the opposed values. Directed subtraction gives the entire span from the chosen pole: the same distance acquires opposite signs according to the direction of reckoning. In the psychic and political reading, appropriation occurs when that local orientation claims the relation as its own production or jurisdiction. The measuring pole takes credit for the whole span through which it could be measured.
 
-Cancellation loses the determinate opposition in its result; appropriation retains a total measure while assigning its authority to one side. Neither performs the held polarity unchanged. The [Two Logics of Two](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) develops their consequences through the distinction between an operative cut and a cut which forgets its ground.
+Cancellation loses the determinate opposition in its result; appropriation retains a total measure while assigning its authority to one side. Neither performs the held polarity unchanged. An [operative cut](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) preserves a route through the ground of distinction; a severing cut makes its result stand as though that ground had ceased to matter.
 
 The difference is especially sharp at zero. As a sum, zero can be the termination of opposed contributions. As the ground of distinction, zero is what a determination returns through. Diabolon and Symbolon turn upon these different readings of the same apparent ending.
 
@@ -66,7 +66,7 @@ $$
 2+2^2=4+2=6.
 $$
 
-The sixfold is the binary including its own relational articulation. It is neither a midpoint between the signed poles nor an average of their values. [Quaternal Logic](C11-Quaternal-Logic.md) develops the complete parents, inverse phases and qualitative traversal generated through this relation.
+The sixfold is the binary including its own relational articulation. It is neither a midpoint between the signed poles nor an average of their values. The complete parents and inverse phases remain active as [Quaternal Logic](C11-Quaternal-Logic.md) takes this relation through its qualitative traversal.
 
 ## #4 — Time and logical operation cross
 
@@ -74,13 +74,13 @@ A synchronic view holds a configuration together; a diachronic view follows its 
 
 Recursive division makes the distinction practical. Decomposition can produce useful parts, yet the result depends on how they are recombined and returned. Whoever controls recombination can make productive local distinctions serve an account which none of the participants can revise. The issue is the authority of the combining relation, not the mere existence of parts.
 
-The [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) develops this relation of account and return. The [ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-later-reception) distinguishes the particular gatherings encountered through Heraclitus and Heidegger. [Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#operations) makes their comparison turn upon what each operation preserves, rather than the shared name of unity.
+An [account receives return](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) when a source’s answer can revise the relation under which it was accounted. The [gatherings encountered through Heraclitus and Heidegger](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-later-reception) have different textual histories and operations. Their [comparison](../etymologies/homology-and-analogy/WHOLE-FIELD.md#operations) becomes exact through what each preserves and changes; the shared name of unity alone cannot supply that relation.
 
 ## #5→0 — A retained break can change the next act
 
 Suppose an inquiry encounters evidence which contradicts its governing assumption. Dia first makes the break exact: the evidence and the expected result have to remain distinguishable. An apparent settlement can erase their opposition; an appropriating account can redescribe the counterexample as confirmation of its own measure. Relational return instead holds the break long enough for it to reach the source, question, evaluator, permission or commission which produced the first judgment.
 
-The [break–retention–recognition operation](../../../../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md) gives this return its exact order. The materialist `1` receives the manifest determination as the whole of reality. It meets the returning `/0` first as its own division, `1/0`: the claim breaks upon the condition it could not count as another item. Carrying the break keeps the `/0` beneath the one instead of resolving it into annihilation `0` or appropriation `±2`. That retained ground under the one is the `0/1` recognition; `(0/1)/(1/0)` holds both orientations together. The determining act recognises the condition through which its achieved determination had been possible. [Computational Vimarśa](C43-Computational-Vimarsa.md) tests the consequence at the level of processing: which condition changed, and what later act inherited that change?
+In [break, retention and recognition](../../../../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md), the materialist `1` first receives the manifest determination as the whole of reality. It meets the returning `/0` first as its own division, `1/0`: the claim breaks upon the condition it could not count as another item. Carrying the break keeps the `/0` beneath the one instead of resolving it into annihilation `0` or appropriation `±2`. That retained ground under the one is the `0/1` recognition; `(0/1)/(1/0)` holds both orientations together. The determining act recognises the condition through which its achieved determination had been possible. A [computational return](C43-Computational-Vimarsa.md) completes the stronger changed-processing operation when an implicated condition actually changes and a later act inherits that change. Naming a revision without its operative consequence would leave that return incomplete.
 
 The six products give the return different places to act. [Actuation](../products/S1-Actuation.md) carries the encountered break as event and judgment. [Central](../products/S0-Central.md) holds the source or commission; [AIKit](../products/S2-AIKit.md), the available capabilities and context; [Factory](../products/S3-Software-Factory.md), the developing form; [Workcell](../products/S4-Workcell.md), material resistance and consequence; and [Quaternal Logic](../products/S5-Quaternal-Logic.md), the relation among the relevant frames. The return is consequential where the difference reaches the operation actually governing what follows.
 

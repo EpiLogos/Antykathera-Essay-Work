@@ -1,0 +1,28 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/preimages/C45-Operational-Parity.md.txt",
+    "preimage_sha256": "66cd6a5d3c6de3f269660063deccbb7c163d80b5c8aaf3626c553795574d205d",
+    "bytes": 9167,
+    "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/effects/C45.json",
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C45-Operational-Parity.md.txt",
+    "candidate_sha256": "05a6f75646e857540db45ef5ce2517fa62ae0ba63feda80d79489399f636b2be",
+    "scope": "Independent whole source/public cold accepted at exact frozen candidate hash",
+    "effects_depth": 4,
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/INDEPENDENT-CONCEPT-MEANS-SCRIPT-THREE-REVIEW.json",
+    "independent_review_sha256": "68e389a9bce359c688dfbd1892515b9aede6d21bd9cd53621fcdb1c4e1916e80"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/preimages/C51-Logos-Epi-Logos.md.txt",
+    "preimage_sha256": "b14ca2e156b40124077743c23e59a04e4828e3dbeb2bd99b7ecbfc241b5907a6",
+    "bytes": 11088,
+    "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/effects/C51.json",
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C51-Logos-Epi-Logos.md.txt",
+    "candidate_sha256": "a8e2a14e2c579e868a0d473b5204c7ba7c4f3e79e0432a6370d11193fec7e6f2",
+    "scope": "Independent whole source/public cold accepted at exact frozen candidate hash",
+    "effects_depth": 4,
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/INDEPENDENT-CONCEPT-MEANS-SCRIPT-THREE-REVIEW.json",
+    "independent_review_sha256": "68e389a9bce359c688dfbd1892515b9aede6d21bd9cd53621fcdb1c4e1916e80"
+  }
+]

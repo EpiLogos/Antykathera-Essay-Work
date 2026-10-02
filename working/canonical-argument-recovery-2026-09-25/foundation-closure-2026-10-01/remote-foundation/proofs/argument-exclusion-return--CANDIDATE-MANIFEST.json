@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "id": "A08",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/preimages/A08-Apoha-Constitutive-Exclusion.md.txt",
+      "preimage_sha256": "97d09b4d0c5454c50b603b528d2094ebbbdb3d1b73a25fcd8afc2739415c0d1b",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/candidates/A08-Apoha-Constitutive-Exclusion.md.txt",
+      "candidate_sha256": "6a716929b3e2210ec0b66c21935a4b7e6c3acaec6e246614c3dbfb2867111a5a",
+      "paired_prime_sha256": "69f19a43f34d97638d15ee4bd006456a2cc054c35f0ff63b3960e486d418e739",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/PRE-EDIT-RECOVERY.md",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/SOURCE-READINGS.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/QUALIFICATION-REASONS.json",
+      "status": "Complete source/public operation independently accepted at exact final non-live hash; canonical inclusion and unchanged full gates parent owned.",
+      "independent_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A08-EXCLUSION-REVIEW.json",
+        "sha256": "e4d42cf13e6c2a07d9b97a43e7afd0d7a310a80bad1055c02a8cc570e93eb80c"
+      }
+    }
+  ]
+}

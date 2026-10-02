@@ -1,0 +1,52 @@
+{
+  "records": [
+    {
+      "key": "A23",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/preimages/A23-Trust-Faith-and-the-Formal-Limit.md.txt",
+      "preimage_sha256": "d7b4918e60fd4ce7caee4075fa683972a77eca42e502f90a9082e77a861f8c6f",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/candidates/A23-Trust-Faith-and-the-Formal-Limit.md.txt",
+      "candidate_sha256": "14fb8937368f07980b843480e4273646c19aff15babf85d39d3ab1fd9e76cff1",
+      "changed_complete_paragraphs": 24,
+      "status": "Exact complete native source/public operation independently accepted; non-live parent admission/inclusion pending",
+      "hard_findings": 0,
+      "qualification_reviews": 14,
+      "reader_links": 28,
+      "missing_reader_targets": 0,
+      "self_read_scope": "Entire final native/prime personallyread untruncated after all complete source-firstjoins",
+      "whole_changed_groups": 7,
+      "independent_cold": {
+        "path": "concept-legacy-operation-return/INDEPENDENT-TRUST-ARGUMENT-REVIEW.json",
+        "sha256": "11b725ebe02f1c2bbeca34563c8530fd964fb4c05edf1d4f268ef81d9150fb8f"
+      }
+    },
+    {
+      "key": "A23P",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/preimages/A23-prime-Trust-under-Unpossessable-Interiors.md.txt",
+      "preimage_sha256": "f652e91a9aacc4ee888c1b1244bc88a7c06605929243db96f9ff7ae93c3060d7",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/candidates/A23-prime-Trust-under-Unpossessable-Interiors.md.txt",
+      "candidate_sha256": "e96fbb77b3c2b52eb79bbfb01f60417b1d58e977dff026e535b7f0ac180568a5",
+      "changed_complete_paragraphs": 5,
+      "status": "Exact complete native source/public operation independently accepted; non-live parent admission/inclusion pending",
+      "hard_findings": 0,
+      "qualification_reviews": 10,
+      "reader_links": 19,
+      "missing_reader_targets": 0,
+      "self_read_scope": "Entire final native/prime personallyread untruncated after all complete source-firstjoins",
+      "whole_changed_groups": 5,
+      "independent_cold": {
+        "path": "depth-generating-continuation/INDEPENDENT-A23-PRIME-TRUST-REVIEW.json",
+        "sha256": "12f1f3cacab155c8b62f9a6f487f2faee7e07fd96a74f45cb88ae95c71a4ddc6"
+      }
+    }
+  ],
+  "effects_depth": 4,
+  "live_writes": false,
+  "pre_edit_recovery": "PRE-EDIT-RECOVERY.json",
+  "status": "Both complete trust operations independently accepted at final14fb8937/e96fbb77; gates/inclusion remain parent owned",
+  "reviews_individually_disposed": 24,
+  "manual_source_boundaries": 6,
+  "actual_whole_direct_and_transverse_rows": 12,
+  "heavy_execution": "None; canonical/raw/protected/tools/tests/generated untouched; parent independentadmission/inclusion/Git separate"
+}

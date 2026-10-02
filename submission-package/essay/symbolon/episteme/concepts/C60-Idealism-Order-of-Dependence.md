@@ -17,7 +17,7 @@ source_ids:
 
 **Idealism names the dependence of determinate being upon the whole relation of appearing.** Subjective Immediacy is the knower; Objective Internality is the constituted means; World is the known; Life / Mind is their whole. Within that whole the order is **Subject / Consciousness → constituted means → determinate object**. The middle term names mind's mediating office, not Mind as the exhaustive name of reality.
 
-The order is ontological. An object is a real determination of the whole, not an independently self-grounding item from which the whole relation can subsequently be assembled. [The argument of dependence](../arguments/A34-Idealism-Order-of-Dependence.md) carries the derivation; the concept keeps its terms and directions available for further use.
+The order is ontological. An object is a real determination of the whole, not an independently self-grounding item from which the whole relation can subsequently be assembled. In [this order of dependence](../arguments/A34-Idealism-Order-of-Dependence.md), the object's identity, properties and differences are real determinations of the articulated field. Another object can explain its production within that field while presupposing the relation of knower, means and known.
 
 ## #1 — What an additional object cannot supply
 
