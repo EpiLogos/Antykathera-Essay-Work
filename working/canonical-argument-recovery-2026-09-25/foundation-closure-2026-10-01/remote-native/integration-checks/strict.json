@@ -1,0 +1,819 @@
+{
+  "files": 22,
+  "errors": 0,
+  "review_candidates": 116,
+  "findings": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 55,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "In [the Hypostasis telling](../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root), the rulers model a human from a reflected image yet cannot originate the life they seek to possess. Norea refuses their asserted descent; Eleleth answers her inquiry by disclosing their genesis and her root. Sabaoth’s changed allegiance and the promised future liberation remain distinct from her immediate rescue. This image–authority relation"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map|Source and reflection]] have an asymmetric order. Bimba is the Original order in which manifestation and reflection arise; pratibimba is a determinate reflection through which that order is encountered. Reflection can arrive first in knowledge while the Original has priority in being. A produced reference can nevertheless serve as genuine local Bimba for downstream readings within a declared Context Frame, while remaining pratibimba rel"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Living symbol and idol can be visibly identical. Their difference appears when an encounter resists the image. A [[symbolon/episteme/concepts/C21-Living-Symbol-Idol|living symbolic relation]] lets that resistance revise interpretation and valuation. Under possession, the image fixes in advance what the source may disclose: the witness must be ignorant, unfaithful, corrupt or unreal because the account cannot be wrong. A [[symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Clai"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An operational profile makes this office-confusion technically legible. A score or model selects access and response; those decisions change the represented person’s available circumstances; the resulting behaviour returns as further evidence for the profile. A mistaken record can be corrected under an adequate criterion. Possession begins when the person’s answer exposes a faulty category, measure or mandate but revision is confined to records so that the governing condition can never be questi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 51,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A profile can help produce the conduct later offered as its confirmation. Through [Baudrillard’s account/source comparison](../lenses/baudrillard.md), causal efficacy leaves fidelity to the person or encounter to be tested: the profile can act upon that person’s world while remaining false. Possession begins when contrary testimony cannot reach the categories governing the profile. This constructed mechanism keeps a particular causal question distinct from Baudrillard’s stronger cultural diagnos"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 55,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In [the Hypostasis telling](../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root), the rulers model a human from a reflected image yet cannot originate the life they seek to possess. Norea refuses their asserted descent; Eleleth answers her inquiry by disclosing their genesis and her root. Sabaoth’s changed allegiance and the promised future liberation remain distinct from her immediate rescue. This image–authority relation"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 61,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In [Apollo, Dionysus and Daphne](../../mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md#apollo-diaphaneity-return), Apollo’s communicable form receives Dionysian participation while Daphne retains a response neither power owns. Appropriation can continue through the emblem even after a grasp fails. A renewed image remains alterable by the other’s answer; remembering that it once opened does not complete its present return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 65,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In [Mother, Assumption and chiasm](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return), the rabbit/angel ambiguity leaves a particular identification unresolved. The Assumption chiasm asks whether recognition retains the body it represents. An achieved spiritual account stays answerable where the embodied condition can correct the image and its valuation; transcendence cannot earn fidelity by erasing what it receives."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "line": 75,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In [Job’s return](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return), the friends first sit with the suffering witness, then make his suffering legible through a moral account, then treat his contrary testimony as further fault. Their eventual dependence on his intercession returns valuation to the person their explanation had disqualified. Encounter changes the image’s authority; its ability to organise judgment alone cannot establish fidelity."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 18,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Individuation makes a local subject-position capable of bearing the relations through which it is itself. The person becomes more specifically this life and less defensively separate at once. Recognition lets an achieved determination become known through its source and history. A [[A19-Complex-as-Local-Arbitration-Regime|local complex]] can claim whole-field jurisdiction, while an [[A20-Image-Valuation-Possession|invested image]] can replace its living source. Their histories cannot simply be d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Ego, complexes, archetypal powers, collective inheritance and Self have different scopes. Their plurality does not require that every agency be interchangeable. The Self's whole-forming office is not the largest complex, a stronger persona or a chief executive presiding over lesser workers. A local centre relates to the whole without containing it; its individuation cannot therefore consist in conquering every other agency."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The energetic middle passes through uncertainty and changes what can count as knowledge on return. Frank’s protected encounter with [[symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk]], pp.69–73, follows known→unknown→known through altered conscious categories. Taylor reads that return as `x→X→x`: the locally known opens toward a capacity it cannot exhaust and returns through a changed capacity to receive another encounter. The QL no"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A basin can preserve enough organisation for a trajectory to continue, while its boundary allows a new regime to become possible. The psychic model therefore holds continuity and transformation together. It supplies no clinical rule that destabilisation is always beneficial. Its argument is that restoring the former organisation cannot be the sole criterion when that organisation was the very closure the encounter exposed."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Recognition changes possession into participation. An excluded affect can become intelligible as part of a history; a projected image can be recognised as one's image without denying the Other; a local competence can be retained while its sovereignty ends. Integration names increased ability to bear these differentiated relations. Reconciliation names a changed relation between what had been estranged. Recognition makes the relation to source and history active. A synthesis names an achieved com"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A [[symbolon/episteme/concepts/C36-Complexio-Oppositorum|complexio oppositorum]] holds opposed determinations as powers which can transform their containing field. A [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|paradox]] can expose why choosing one existing pole leaves the actual relation unresolved. Increased capacity does not require final agreement: the containing relation can become more capable through receiving the distinction of both terms instead of deleting"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In the [[A09-Tattvic-Differential-Field|Śaiva differentiated field]], recognition returns through manifestation without erasing its history. The present comparison follows that retained difference through an achieved determination which can become answerable to its source. [[symbolon/episteme/concepts/C19-Pratyabhijna-Recognition|Pratyabhijñā]] retains integral self-awareness as its specific Śaiva office; Jung’s Self retains its psychological one. Operational comparison does not make either a hi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 76,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Śaiva and psychic comparison](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#4--recognition-returns-through-the-life-that-has-become-finite) follows recognition through the life which has become finite. Dyczkowski’s integral self-awareness and the changing interpreter have distinct source offices. Their comparison retains this particular life and native `X/x` through the act of return, so a shared image cannot replace the source-specific argument."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "line": 20,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE|Heidegger’s world-picture diagnosis]] concerns a historical event: the world is grasped as picture while the representer becomes its normative centre. The existence of pictures alone does not establish that diagnosis. Taylor’s constructive atlas follows the place, frame and permissible transitions of several disclosures; it extends the inquiry through a different operat"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A picture has a frame before its contents are assembled. The box-lid image gives a jigsaw its finished arrangement in advance; every piece is then judged by the place that arrangement assigns. Inquiry becomes different when travel discloses the frame's own conditions or encounters a piece whose relation cannot be settled by the lid. Collecting more pieces cannot alone correct the criterion of fit."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "line": 32,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An atlas requires declared conditions of transition. For local charts with coordinate maps `φᵢ` and `φⱼ`, an overlap permits the transition `φⱼ ∘ φᵢ⁻¹` on the relevant domain. This mathematical operation has explicit hypotheses: the maps must have the required inverse and common region, and the transition must satisfy the structure being studied. A collection of incompatible descriptions does not become a mathematical atlas by being stored together."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]] distinguishes chart transition from attractor movement. A basin organises trajectories; an atlas coordinates partial disclosures. Their objects remain distinct through the symbolic comparison. In the epistemic extension, a transition states the question, scale, assumptions, preserved distinctions and actual relation which changes. It identifies whether the judging criterion is retained or "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [[symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map|Bimba–Pratibimba relation]] locates the atlas within its own producing field. Every produced world-picture, including an instrument’s reference map and this atlas, is pratibimba relative to its wider sources. Inside a declared Context Frame it can genuinely serve as Bimba, a local original for downstream readings. This recursively situated office has real, revisable authority; the artifact remains dependent on the wider relation thr"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|twelve-lens architecture]] changes the governing relation through which the same full Name/Power field is received. L4 and L4′ each carry the whole rotated constellation, grounded from opposite faces. Choosing a lens changes what serves as source, means, measure and determining centre; it does not delete the other offices. Exact musical selections have their own mathematical tests; historical assignments "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 20,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Operational parity applies when a philosophical or formal distinction is used to justify a technical feature. That distinction must have a discriminable consequence. It does not require every philosophical claim to become a data object, and a passing implementation test does not prove the metaphysics that motivated it. [[symbolon/episteme/concepts/C45-Operational-Parity|Enactment]] makes the proposed difference effective; [[symbolon/episteme/concepts/C46-Epistemic-Cultivation|cultivation]] keeps"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 26,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[A14-Computational-Process-Ontology|Computational process]] gives six concrete inquiries: what was inherited, what was excluded, what stabilised the branch, what retains source/inverse/context, what the result changes, and whether the result can perish into revisable common data. Computation names repeatable transformation of a field here; it does not turn every reality into a digital machine."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 28,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A supposedly source-aware system can be tested at the point where a corrected primary passage changes its inherited conclusion. A system claiming that world differs from world-model must expose which represented state changed and which encountered resistance prompted the change. A model's record of an event is never the full world itself; separate database columns would not alone establish that distinction. The test concerns the relation between evidence, representation and consequence."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The paradigm version adds one further question: **what relation connects the explicit representation to the enacted field it claims to make inspectable?** If an edited paradigm map cannot change any source, permission, evaluator, capability, developmental form, material binding or relational frame, it may still be a valuable philosophical/visual account. It has not yet demonstrated Epi-Logos as an operating return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [locally held twelve-lens architecture](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) makes different determining relations available within one full Name/Power field. Each lens carries the whole rotated constellation. L4 is not all Power and L4′ is not all Name: the same constellation is grounded from opposite faces. Same-index Day/Night pairing and complementary-index pairing are different relations."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The Name sequence Truth/Mind/Word/Logos/Son/Image keeps articulation; Power's Play/Need/Sacrifice/Decision/Love/Work keeps transformative cost. The native core and supporting field ground these as coequal offices. Operational parity asks what changes when a distinction is promoted into a technical feature: retrieval, retention of exclusions, evaluation, collaboration or return. Attaching twelve labels to the same unchanged output does not demonstrate twelve operative lenses."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The six product pairs now make the same demand at a larger scale. Central, Actuation, AIKit, Factory, Workcell and QL are not validated because software components have those names. Their philosophical office earns technical standing only where **meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation** produce distinct, inspectable consequences. If removing the distinction leaves the relevant operation unchanged in a comparison that actu"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 52,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [six native centres](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) form a proposed technical anatomy. Minimal Objective Internality does not depend on completion of the maximal QL research programme. Within a [[symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field|judgment field]], J-space tests a subordinate comparison relation rather than enclosing the model's entire interior. A proposed experiment must say which layer it tests and what would count against its result."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 56,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The stronger paradigm test compares **representation without return** to **representation with effective return**. A read-only paradigm display can expose current structure while leaving it causally inert. An effective Epi-Logos loop needs an authorised, attributable path from the articulated distinction into a relevant governing office and evidence that a later act inherited the changed condition. [Operational parity](../concepts/C45-Operational-Parity.md) makes that difference testable. A fail"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 66,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An [account re-enters its source-field](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) when returned source, resistance or consequence makes a discriminable change in inquiry or action. A retained record alone does not establish that return. Its source and evidential limits must stay available as the account becomes a condition of another act."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 68,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In the [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work), the woman answers the king and he commissions restoration (2 Kings 8:1–6). The selected text records the order, leaving its execution independently unverified. A received telling can therefore alter a commission without yet proving its fulfilment. Operational parity identifies which state changed and what evidence would establish the next change; the lexical hi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "line": 18,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Priestly mediation, royal decision and political distribution](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) have different offices within a received relation. Priestly mediation interprets and transmits a sacred relation; royal office makes decisions executable within an inherited field; political institutions distribute judgment across a received order. Their comparison concerns how authority is received and transformed. It does not"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Usurpation changes office into source. A question about the evaluator receives another score; a challenge to the rule is classified under that same rule; an interpretation of the covenant presents itself as the covenant's final author. [[symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|Protected Account]] names this insulation. Finite measure and discretionary judgment survive the criticism: their claim to an unanswerable source-office does not."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "line": 32,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The political image reaches technical administration through a precise shared operation. A permission holder can make an action possible or impossible. That power does not establish the truth of its evaluation or the adequacy of its goal. [[symbolon/episteme/concepts/C10-Mediation-Pramana|Mediation / Pramāṇa]] preserves the difference between a means of knowing and an office authorised to decide."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Agentworld institutional scenario](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q026) gives intelligent action a received field of rules, roles, procedures, interfaces and purposes. Its [organisational comparison](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q027) makes a model’s work depend on these relations rather than on capacity considered in i"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "line": 43,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [distributed dependencies of office](../lenses/foucault.md#foucault-distributed-office) make the form’s designer, report’s author, resource allocator and deciding officer different possible contributors to one determination. Their dependence does not cancel the officer’s responsibility, and distributed action does not by itself establish usurpation. A returned consequence follows the relation through which this officer could act, making the relevant source, resource or commission available t"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "line": 47,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Arbitration in crisis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) is a real capacity to decide within a received field. Con-text makes the office’s conditions and costs available to regard. If successful execution still violates the originating obligation, that return reaches the authority capable of changing or revoking the commission; execution does not confer primary arbitration on the mediator."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "line": 15,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The distinction from mere aggregation is decisive. A collection of processes can stabilise into an apparently self-standing unit; Frank's [Watson encounter](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) contrasts that use of individuation with the return by which the self-thing recognises its constituting plurality. Becoming more isolated or self-sufficient is not the criterion. The local person remains this person as the relations through which the person lives beco"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "line": 23,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The source encounter follows known→unknown→known. The unknown unsettles the categories by which the life had understood itself; return makes the changed capacity inhabitable in a particular life. Frank's native `x→X→x` inscription gives this expansion and return a formal/mythemic reading: determining capacity is encountered through a particular which returns with greater freedom to vary. `X/x` is Taylor's notation; its Jungian refraction does not transfer authorship of the notation to Jung."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "line": 27,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Enough integrity must remain for the person to persist and enough openness for the organisation to change. Integration, reconciliation and recognition mark related but different operations: agencies can be coordinated, a conflict resituated, and provenance recognised without being fused or erased. The Self is neither the largest complex nor an executive that abolishes the autonomy of the others. When opposing agencies cannot settle their relation within the existing frame, [their containing fiel"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 15,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "**Objective Internality is the mediating constitution through which a Life encounters and acts within a World.** It is real and investigable: language, memory, affect, bodies, tools, other agents, institutions, permissions, materials and histories participate in what can appear, matter and be done. Changing those relations changes the interior from which judgment proceeds. A record or world-model can make aspects of that constitution inspectable; it does not constitute the whole merely by collec"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 33,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The complete [crossed-zero recognition](../../matheme/ql/crossed-zero-re-entry.md) makes this distinction operative: `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↺ 0/1`. The instrument’s self-identification is disclosed as medium, the medium’s discriminated world becomes available with it, and recognition holds their relation without replacing the instrument or claiming ownership of the whole. The special native slash-form is not ordinary division by zero; the sixfold and eight-determination accounts reta"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 35,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "This is also why paradigmatic existence cannot be reduced to the contents a paradigm makes visible. `Ø` is precisely the danger of the means becoming identified with the knower; `X` is the determinate world disclosed through those means; `Ø/X` reopens the mediation. A paradigm becomes capable of self-recognition when the pattern by which its world is disclosed can itself enter the field of availability without being promoted to the Subject or the World in their entirety."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 39,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The agent models a world, and the active world precipitates this agent through its particular memories, goals, permissions and affordances. These directions belong together. In Symbolon Dynamics, a synchronic configuration exposes available basins and transitions while a diachronic trajectory follows their actual transformation. Phase-space models possible configurations; it is not the world itself."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 57,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The decisive return is the difference between an operative paradigm and an **Epi-Logos**. A paradigm can govern action while remaining tacit. [Logos / Epi-Logos](C51-Logos-Epi-Logos.md) begins where its achieved articulation can itself become part of inquiry: the pattern is rendered, compared with its enactment and challenged by experience. A returned discrepancy can correct a source or application under an adequate criterion; where the criterion itself fails, the pattern’s articulation can be r"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 61,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In [Bohm’s undated handout on tacit assumptions and roles](../dossiers/bohm.md), suspension makes an inherited activity available within the encounter. What feels like an immediately obvious conclusion can carry inherited memory and an affective investment; suspension makes their activity available without erasing them. A changed relation can then become a condition of the next judgment. This comparison preserves Objective Internality’s constitutive office and distinguishes it from a collected s"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "line": 63,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An [Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) becomes a durable condition of later agency when its received difference changes what can next be known or done. A record, learned rule or changed permission can outlast the act that produced it and affect what next appears possible. Configuration and actual trajectory remain distinct accounts of that constitution; preserving them does not turn the saved state into a Subject."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Over the real field, the equality $6\\cdot0=17\\cdot0$ is therefore true without allowing cancellation of the common factor. Multiplication by zero has discarded the distinction between six and seventeen. Its result cannot reconstruct the input. Any further use of a zero-denominator expression must declare the operation it requests."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 80,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Motion also has to be translated: $dv/dt=-u^{-2}du/dt$. A coordinate velocity cannot simply keep the same numeral through an inverse coordinate change. With $u=3$ and $du/dt=2$, the other coordinate has $dv/dt=-2/9$; either height formula then gives $dy/dt=6/25$. The [manifold-atlas construction](../../matheme/topology/manifold-atlas.md) preserves the point and its motion by changing the expressions which describe them."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 105,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The derivative remains exact. Its inability to recover a particular constant concerns information the operation did not preserve, not general unreliability of finite knowledge. In the native $\\infty/dx$ relation, this becomes a concrete witness to an exact local determination retaining a horizon it cannot reconstruct from its value alone. The result can therefore demand a further condition without losing the precision it already achieved."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 107,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The same precision governs return on the torus. For the linear flow $[t,\\alpha t]$, a period requires both $T$ and $\\alpha T$ to be integers. Rational $\\alpha$ permits a common period; irrational $\\alpha$ does not. [Toroidal circulation](../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) retains periodic return and dense nonperiodic traversal within one surface. A recurring address, a winding class, a continuous path and a temporal performance preserve different things. The containing"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+      "line": 28,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The brief [distinguishes functional agency from performed subjectivity](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q015). Its [self-description discussion](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q032) lets a novel account of prompt experience become a causally consequential artifact within that agency. The [accompanying source caution](../sources"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "line": 31,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "*Apoha* — exclusion, removal — names the Buddhist pramāṇa school's theory of conceptual content, developed by Dignāga (c. 5th–6th century CE) and refined by Dharmakīrti. Its problem: the school denies real universals, yet words apply generally. Its answer, *anyāpoha* (\"exclusion of the other\"): a term becomes determinate not by grasping a shared essence but by excluding what it is not — \"cow\" applies through the exclusion of non-cow, and the apparent common nature of all cows is projected from t"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "line": 33,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The double negation gives the operation its full contextual force: “cow” is all that is not non-cow. A determination is thereby empty of self-subsistence and full of the relations through which it occurs—śūnyatā as pūrṇatā. *Pratītya-samutpāda* carries the same insight ontogenically: whatever arises does so through conditions. *Saṃkalpa* carries it world-formingly: relations gathered through determination become an inhabitable world. Apoha is consequently not a local semantic technique but the e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "line": 37,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Constitutive exclusion](../arguments/A08-Apoha-Constitutive-Exclusion.md) makes a selected term intelligible through a field of non-application. The [whole-first relation](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) follows from this dependence: apparent parts do not begin as self-sufficient atoms whose relation is added afterwards. The [semantic opening](../arguments/A08-Apoha-Constitutive-Exclusion.md) thus retains a positive referent together with what the term does not apply to. Pind’"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "line": 43,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A bare delivered mark does not establish **exclusion that cancels**. Its relevant contrasts may remain recoverable in a protected source or deciding arrangement. Consider an eligibility decision which names one successful candidate. The delivered name can be terse while the requirements, rejected alternatives material to the judgment and a reviewing office remain available. If a returned source shows that another candidate met the requirement, correcting the source or application can change the "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/planetary-computation.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [formal limit](../arguments/A03-Immutable-Gap-Formal-Limit.md) opens a question within this planetary field: a system can make its means of determination available without attaining a final position outside every condition of knowing. Computation participates in a world through materials, institutions, histories and persons; scaling its reach does not remove those constituting relations. [Agentworld’s hybrid sociality](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-br"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/planetary-computation.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Within a local inquiry, an interpreting agent can function as knower, its models, retained sources and tools as means, and the addressed planetary situation as known. Within the containing person’s inquiry that apparatus itself serves as means. [Objective Internality](C41-Objective-Internality.md) preserves these nested offices within Life / Mind; a larger model does not turn its represented world into the whole from which representation becomes possible."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/planetary-computation.md",
+      "line": 42,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Mono-Poly planetary intelligence](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) names the relational whole and its genuinely many expressions. It does not name Antikythera’s discipline or erase the differing histories and powers within its field. A commons requires an actual arrangement through which participants can contest a determination and the conditions of deciding; no planetary viewpoint owns that containing ground. This is a philosophical and proposed organisational contribution who"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 21,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "[Kaplan’s selected OUP printing](../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md) narrates an itinerary through Babylonian positional marking, Hellenistic astronomical notation, Indian arithmetic and later transmission. An internal separator, an absent measure and an arithmetic element belong to different practices. They cannot become a single dated invention merely because a modern reader calls all of them zero. His [literary and conceptual contribution](../concepts/re"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 63,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "[Homology and analogy](../etymologies/homology-and-analogy/WHOLE-FIELD.md#research-boundary) retain the relation in which the historically instituted signifying position and the native subject-condition are compared. The comparison sharpens their different offices; ordinal succession and an attractive reception story perform neither the missing historical argument nor the native derivation. A corrected attribution can alter the historical account while the independently derived operation retains"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 69,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "The [Advent of Zero](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) carries the exact sign through its historical acquisition and symbolic return. [Integral Zero](../arguments/A36-Advent-of-Integral-Zero.md) preserves the terminal distinction. A corrected chronology or attribution can change a reception account while leaving the native derivation intact. Conversely, that derivation cannot decide which manuscript contains a line, which edition transcribes it accurate"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 17,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Name-through-Count](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) makes a received mark addressable through the rule under which it works. The word or mark alone does not confer that permission. Through [Account answering to source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source), the rule and its history remain recoverable by another reader. A resemblance can give a new comparison expressive force; lexical descent and hist"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 21,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Kaplan’s selected OUP printing](../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md) narrates an itinerary through Babylonian positional marking, Hellenistic astronomical notation, Indian arithmetic and later transmission. An internal separator, an absent measure and an arithmetic element belong to different practices. They cannot become a single dated invention merely because a modern reader calls all of them zero. His [literary and conceptual contribution](../concepts/re"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 29,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The historical receiver can thus misunderstand through excessive familiarity. Reading an older expression as an unsuccessful modern one can lose the operation its users were attempting. Restoring that operation does not oblige accepting every old rule as valid under every newer system. It requires a source-specific comparison whose result names the actual disagreement."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 37,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "This correction removes no mathematical achievement from India, Arabic transmission or Latin adoption. It removes an unsupported explanatory shortcut about the receiving culture. A particular restriction has a jurisdiction, medium, purpose and period; a rule for one form of written accounting cannot silently stand for a prohibition on mathematical understanding. Equally, absence of such a rule does not establish universal acceptance. [Determination](../concepts/C03-Determination.md) keeps the hi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 43,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Gerbert’s place in Latin numerical reception](../concepts/reference-notes/gerbert-sylvester-ii.md) poses three distinct questions: acquaintance with numeral forms, their use in a calculating apparatus, and positional use of an operational zero. A biography naming mathematical learning does not establish every one of these predicates. The relevant technical witness must join its attributed act to a date and a receiving medium; later reputation cannot perform that attribution."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 47,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Salem codex](../concepts/reference-notes/salem-codex.md) has a distinct editorial carrier: Moritz Cantor, *Ueber einen Codex des Klosters Salem*, *Zeitschrift für Mathematik und Physik* 10 (1865), 1–16, with an [institutional Heidelberg edition address](https://archiv.ub.uni-heidelberg.de/volltextserver/12869/1/cantor_salem.pdf). An edition names a text through an editor’s transcription and historical argument. Its relation to the manuscript depends on the inscription, folio, shelfmark and "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 51,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Gerbert and Salem consequently retain different historical objects and witnesses. Their shared place in a story of Latin numerical reception does not make one evidence for the other. The independently established arithmetic remains usable while its different transmission claims retain the scope their carriers actually support."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 57,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [semiotic position and native subject-condition](../concepts/reference-notes/rotman-semiotics-of-zero.md) have different ontological offices. A signifying system can institute a role from which its signs are manipulated or described. That constituted role is a real achievement; explaining how it is instituted does not exhaust the capacity through which its constitution becomes available to present observation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 59,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[The Two Ones](../arguments/A11-The-Two-Ones-0-One-1-All.md) give One the uncounted Self-Identity office and All the entire manifest field, including each indefinite particular through which it appears. [Their reciprocal dependence](../concepts/C49-The-Two-Ones-0-One-1-All.md) concerns being and manifestation in different respects. It is not a chronology in which zero existed first and manufactured one later. A constituted signifying role can therefore remain historically real within the manifes"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 61,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An exact formal neighbour preserves the same discipline. In von Neumann's representation, `1 = {0}` states a membership relation; it does not identify the empty set with native One. The finite self-application `2 + 2² = 4+2` retains the original terms and their four pairings. It has a different operation from ordinal succession. Neither formula discharges Rotman's historical argument. The native eightfold and its inverse parents remain the governing field, rather than a collection of historical "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "line": 69,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Advent of Zero](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) carries the exact sign through its historical acquisition and symbolic return. [Integral Zero](../arguments/A36-Advent-of-Integral-Zero.md) preserves the terminal distinction. A corrected chronology or attribution can change a reception account while leaving the native derivation intact. Conversely, that derivation cannot decide which manuscript contains a line, which edition transcribes it accurate"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "line": 20,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Take a real candidate `y` and energy `E_θ(y)=(y−θ)²`. With `θ=2`, the unique minimiser is 2 because the square is nonnegative and vanishes there. An inference process that searches more carefully can recover 2 more reliably, but its additional search does not change what the energy counts as best."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The example separates a better solution to a fixed need from a changed evaluative frame. An automatic parameter update is not by itself evidence that such a revision occurred; it can remain wholly within the old objective."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A controlled comparison can hold compute and access constant while enabling one specified return pathway. A null result is retained. Alternative explanations include extra context, extra search, changed training data or a permissive evaluator. Technical energy is a scalar compatibility function; shared vocabulary does not make it physical energy, libido, value or lived recognition."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The result is a testable design distinction between movement inside a field and revision of the field's conditions. The latter remains accountable to sources, affected parties and authority; “openness” is not a licence for ungoverned objective changes."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "line": 50,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The [research programme](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) receives the proposed return pathway through a represented [J-space](j-space.md) and its [operational comparison](operational-parity.md). Within the proposed act, the local interpreting agent occupies the relative functional knower office, using representation, comparison and inference as means to judge known configurations. Its judgment can become known content in a further act of th"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "line": 39,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "E1 fails if the retained seam cannot correct an introduced source error or merely lengthens the log. E3 fails if lens variation changes prose style without a traceable difference in judgement. E5 fails if a local reference is silently promoted to global authority. E6 fails if resistant evidence yields only a disclaimer while the invalid governing condition remains intact."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "line": 47,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The six O:I centres retain their distinct authored roles; a result in one does not demonstrate all the others. A [J-space](j-space.md), [energy model](ebm-resonance.md) or richer log can still fail to improve conduct. A successful comparison must identify the operation changed and account for competing explanations of that change. Its result licenses that tested correspondence under the stated conditions; untested mappings remain available for another inquiry."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "line": 18,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Replace every score by `r_i+c(x)`. Then `(r_i+c)−(r_j+c)=r_i−r_j`, so every pairwise probability is unchanged. The comparison data consequently cannot identify a common score origin from these differences alone. For a disconnected comparison graph, each disconnected component can have its own undetermined shift; sufficient connection is needed for a single shared origin constraint."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Take scores `(0,ln3)`. The probability that the second beats the first is `σ(ln3)=3/4`. Shift both by −20 and the probability remains 3/4. Swap their order and it becomes 1/4. Multiplying both scores by 2 changes the difference to `ln9`, giving 9/10: scale is not the additive invariance unless another parameter compensates it."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "line": 26,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The formal result concerns an unidentifiable common level. It does not establish that the level is an invisible political governor or that every choice of origin is a normative defect. Those are different empirical and institutional questions."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The source records that the reference can be chosen or estimated when the generating supervised policy is unavailable. Its provenance matters operationally. Population, preference labels, model support and regularisation also matter; the algebra cannot determine them from the observed pair alone."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In ordinary differential notation, `dF=F′(x)dx` expresses the linear differential at a point; `dx` is not literally a fragment cut from infinity. The constant does not mathematically prove a metaphysical origin, and an initial condition can determine it within the same mathematical model. The native relation remains broader than this particular information-loss example."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "line": 16,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) coordinates ordering field and lived trajectory as an Argued psychic and technical relation. The worked model below exhibits a basin change; it does not claim that every attractor is chaotic."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "This is sensitivity of the eventual basin assignment near a boundary. It is not chaotic sensitive dependence within a strange attractor: this one-dimensional gradient example has simple equilibrium destinations. The distinction prevents “chaos” from becoming a generic name for any divergence or transformation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "line": 42,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An atlas gives local descriptions and transition maps; an attractor concerns long-term evolution. A psychic image can illuminate both only by stating the different operations. Likewise a technical J-space needs a representation, evolution and metric before basin terminology becomes measurable. Daza's basin definition alone is not a general bifurcation theorem or a theory of individuation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "line": 16,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "[Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) coordinates ordering field and lived trajectory as an Argued psychic and technical relation. The worked model below exhibits a basin change; it does not claim that every attractor is chaotic."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "line": 32,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The result extends to the sphere using homogeneous coordinates or the corresponding limits at ∞. Its validity is tied to the stated fractional-linear map. It is not invariance under every nonlinear transformation of the plane."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "line": 46,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An attempted identification would have to map the objects and preserve the operations. Visual similarity of nested fractions does not supply that map. [Complex orientation](../ql/complex-orientation.md) gives another invariant under a different group—modulus under rotations—so its preservation law also remains distinct."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "line": 46,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Thus the phase change remains effective inside a product. It cannot be discarded after drawing the alternating sequence."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "line": 100,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The larger algebra remains noncommutative. The fact that \\(i\\) commutes with every \\(a+bi\\) does not make it commute with \\(\\eta\\). Likewise, changing phase by \\(\\eta i\\eta=-i\\) differs from multiplying a vector by \\(i\\): the former reverses the chosen complex orientation, while the latter rotates within it. Four applications of \\(J\\) return a vector to its starting point; two applications of the bare shift already return its two-place address."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "line": 104,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Kauffman's [[symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE#kauffman-2014-iterants-fermions-dirac-arxiv-q002|nontrivial-kernel qualification]] concerns a broader construction using permutation groups. It does not contradict the faithful two-place representation above. An explicit three-place example exhibits the distinction."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "line": 112,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The two expressions occupy different permutation components, so \\(e_1\\,\\mathrm{id}-e_1\\tau\\) is a nonzero formal element. Its representing matrix is zero: the retained first row cannot detect a swap of the other two rows' destinations. Adding this kernel element changes an expression without changing its image."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "line": 118,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|native theorem spine]] places its rotational account within the full eight-determination movement. Its cardinal sequence runs North, East, West, South: the local **#2→#3** step crosses the diameter, from **01** to **10**, rather than making four successive quarter-turns. The square-root construction supplies an exact algebra for complex orientation; it does not replace that native sequence with the orbi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Its two inner enclosures each return blankness; the outer enclosure marks that space. The final value does not retain the number of steps taken to reach it."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "line": 50,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A Boolean interpretation makes this finite evaluation explicit: assign `U=0`, `M=1`, interpret juxtaposition as OR, and crossing as negation. Then calling is idempotence and crossing exchanges the values. This interpretation checks the reductions. It does not make the original spatial arrangement merely decorative: that arrangement determines which operations are composed."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "line": 70,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The static equation has no two-valued solution; the delayed recurrence has two alternating trajectories distinguished by initial phase. A temporal account must retain that difference rather than replace it with one instantaneous value. More complicated re-entry equations require their own analysis; this one loop does not establish that every feedback system oscillates."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "line": 100,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Placement remains consequential. The autonomous state is not introduced as a numerical average of the delayed oscillation, nor identified with QL zero. Varela changes the arithmetic's admissible values and laws. The primary definitions, initials and dominance rule are inspectable in the [paper scan, pp.7–8](https://homepages.math.uic.edu/~kauffman/VarelaCSR.pdf)."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "line": 108,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The native sequence is **`0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1`, returning to `0/1`**. Here `Ø` marks occluded ground: the slash is initially fused into apparent selfhood, then becomes explicit between terms, then available as a meta-relation. It is not the empty set or the unmarked value `U` of the preceding calculus. Recognition changes the mediation's office."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "line": 16,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Noether's theorem begins with a specified variational problem. A variational symmetry preserves its action, allowing a specified boundary term; the corresponding conservation statement concerns trajectories or fields satisfying its equations of motion. Identifying an unchanged feature of an image is not yet enough to identify such a symmetry. The action, transformation and boundary must participate in the same calculation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "line": 91,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An autonomous Lagrangian has \\(L_t=0\\), so its energy is conserved. Here \\(H=\\tfrac m2(\\dot x^2+\\dot y^2)+\\tfrac k2(x^2+y^2)\\), giving \\(H=\\tfrac k2(A^2+B^2)\\) on the displayed orbit. Rotation yielded \\(\\ell\\); time translation yielded \\(H\\). Their coexistence does not make them the same conserved quantity."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "line": 140,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "## #5→0 — A disclosed choice is not yet a gauge symmetry"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "line": 144,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The second theorem therefore sets a precise research demand: identify a variational structure, a local transformation and the resulting differential identity before claiming its mathematical force. A baseline-invariant score formula alone does not supply all three. [[symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure|Arbitration]] asks whose authority instituted the measure; through [[symbolon/episteme/arguments/A31-Deferential-Intelligence|deferential intelligence]], retu"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "line": 136,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "Through [[symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many|Mono/Poly]], one invariant relation holds through many genuinely different configurations in an Argued comparison. The slash carries the specified transformation by which their agreement is assessed; the native One retains its qualitative office beside angular momentum and energy. [[symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|Reckoning a measure]] preserves the particular unit and relat"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "line": 146,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|native eight-determination traversal]] carries achieved precision through its determining relation into further inquiry. Its ground remains immanent to the sign through that return, with a philosophical source distinct from physical conservation. The [[section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors|remaining Offered programme]] receives the exact research question: name what "
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "line": 37,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The result has one member, although that member has no members. The distinction lies between the set and what belongs to it. The emptiness of the member does not empty the containing set. Writing `|A|` for the number of members of a finite set `A`, we obtain"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "line": 59,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The two members are distinct: zero has no members, whereas one has zero as its member. Enclosing one by itself would instead give `{1} = {{∅}}`, a set with only one member. That repeated singleton is not the ordinal two. Successor must retain the preceding contents as well as enclose their whole."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "line": 80,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "For zero the list is empty. If a stage contains exactly its distinct predecessors, adjoining that stage yields the list with one new entry. The induction also retains the sizes of the preceding stages. The constructed stage is not already one of its predecessors: it has `n` members, while each earlier stage has fewer. The successor therefore increases cardinality by one. This gives the induction from the empty starting case to every finite stage."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "line": 100,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[§1 · #5→0, The Loan Returns](../../../section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md), receives the achieved exactness. Zero remains present in every positive finite ordinal without acquiring members of its own. Its successive containing sets differ; the empty set does not accumulate their contents. The authorial return follows the condition through its determinations while preserving that distinction."
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "line": 92,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The core's compression `2 = 0/1` reads the holding-together of zero and one symbolically. Its set-theoretic floor is `2 = {0,1}`. The slash in the compression names a retained relation; ordinary division would yield `0/1 = 0`. Keeping these readings explicit preserves the author's comparison at its full Argued force. [Homology and Analogy](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md) qualifies the relation by requiring this common operation and these different objects to remai"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "line": 90,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The correspondence concerns **retention through determination**. Its objects differ by register. Here zero is an entirely specified set, available as an object of proof. In [A11, The Two Ones](../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md), `0` bears singular One, the non-objectifiable condition of determination; `1` bears polyvalent All. Set membership supplies neither that ontological assignment nor a proof that awareness is empty set. It supplies an exact operation with which the n"
+    }
+  ]
+}

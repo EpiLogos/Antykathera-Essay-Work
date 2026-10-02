@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
+source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `dia-syn` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) · *returns-to* → [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) · *unnamed* → [C50 — Dia / Syn](../../../concepts/C50-Dia-Syn.md), [X/x: Specification without Exhaustion](../../../../matheme/ql/x-x.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md)
 
-**Reached from:** *returns-to* ← [Attractors, Basins and a Bifurcation](../../../../matheme/formal-neighbours/chaos-attractors.md) · *unnamed* ← [Dia/Syn — the two logics of two](../../../../matheme/dia-syn/README.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md)
+**Reached from:** *unnamed* ← [Dia/Syn — the two logics of two](../../../../matheme/dia-syn/README.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Attractors, Basins and a Bifurcation](../../../../matheme/formal-neighbours/chaos-attractors.md)
 
 ### [Dia — The Cut](../../../../matheme/dia-syn/dia.md)
 

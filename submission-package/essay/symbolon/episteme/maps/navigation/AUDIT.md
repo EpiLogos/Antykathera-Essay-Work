@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
+source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -42,17 +42,17 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
-| Matheme — exact operations | 94 | 841 | 332 | 509 | 0 | 13 | 0 |
+| Matheme — exact operations | 94 | 840 | 321 | 519 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 760 | 408 | 352 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1030 | 444 | 586 | 0 | 0 | 0 |
+| Episteme · Arguments A01–A36 | 37 | 1025 | 394 | 631 | 0 | 0 | 0 |
 | Episteme · Conjugate arguments A01′–A36′ | 38 | 534 | 82 | 452 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1384 | 334 | 1050 | 36 | 66 | 47 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1398 | 330 | 1068 | 36 | 65 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 612 | 350 | 262 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 664 | 426 | 238 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1083 | 167 | 916 | 0 | 79 | 0 |
-| Episteme · Dossiers | 8 | 203 | 164 | 39 | 0 | 1 | 0 |
+| Episteme · Dossiers | 8 | 201 | 154 | 47 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 128 | 7 | 121 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
@@ -151,7 +151,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C25 — Counterfeit Gathering](../../concepts/C25-Counterfeit-Gathering.md)
 - [C28 — Covenant / Primary Arbitration](../../concepts/C28-Covenant-Primary-Arbitration.md)
 - [C33 — Image / Valuation](../../concepts/C33-Image-Valuation.md)
-- [C34 — Individuation](../../concepts/C34-Individuation.md)
 - [C37 — World-Picture → World-Atlas](../../concepts/C37-World-Picture-to-World-Atlas.md)
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
 - [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)

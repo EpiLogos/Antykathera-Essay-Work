@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
+source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -87,4 +87,4 @@ Group: `ql` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Van Eenwyk — Archetypes and Strange Attractors (1997)](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) · *unnamed* → [Six Positions, Eight Turns](../../../../matheme/ql/eight-determinations.md), [X/x — Determining Capacity and Its Particular](../../../../X-x.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [A21 — Individuation / Recognition](../../../arguments/A21-Individuation-Recognition.md), [§3 · #5→0 — The Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md), [Complex Orientation: Measure through Rotation](../../../../matheme/ql/complex-orientation.md)
 
-**Reached from:** *returns-to* ← [Attractors, Basins and a Bifurcation](../../../../matheme/formal-neighbours/chaos-attractors.md) · *unnamed* ← [Chronic — Configuration and Passage](../../../../matheme/dia-syn/chronic.md), [Calculus: Local Rate and the Constant of Return](../../../../matheme/formal-neighbours/calculus-infinity-dx.md), [QL](../../../../matheme/ql/README.md), [Crossed Zero and Native Re-entry](../../../../matheme/ql/crossed-zero-re-entry.md), [§1 — The Jungian Architecture](../../../../matheme/quilt/psychology.md)
+**Reached from:** *unnamed* ← [Chronic — Configuration and Passage](../../../../matheme/dia-syn/chronic.md), [Calculus: Local Rate and the Constant of Return](../../../../matheme/formal-neighbours/calculus-infinity-dx.md), [Attractors, Basins and a Bifurcation](../../../../matheme/formal-neighbours/chaos-attractors.md), [QL](../../../../matheme/ql/README.md), [Crossed Zero and Native Re-entry](../../../../matheme/ql/crossed-zero-re-entry.md), [§1 — The Jungian Architecture](../../../../matheme/quilt/psychology.md)

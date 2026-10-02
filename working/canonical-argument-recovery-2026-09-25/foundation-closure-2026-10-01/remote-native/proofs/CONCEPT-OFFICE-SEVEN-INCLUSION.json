@@ -1,0 +1,84 @@
+{
+  "base_main": "85ac7c52314211029471f6af346d924c3c0820be",
+  "status": "Seven exact independently reviewed concept and legacy receiving operations included locally for next remote packet",
+  "records": [
+    {
+      "key": "C34",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C34-Individuation.md.txt",
+      "preimage_sha256": "ae1483dd932d9f9266c03daed15457d2c8a642a5897940f23c8bcb9c9ffaace9",
+      "postimage_sha256": "0f423733ff86670ed7295f78f056d6ad290b22c801ff92721d9c22d95575dd52",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 3
+    },
+    {
+      "key": "C58",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C58-Anthropomorphization.md.txt",
+      "preimage_sha256": "6e26e69f7a4fa653ff195cbb783a4f3425f9f1cd05be8a07f7af065facdf8721",
+      "postimage_sha256": "4c0310ff959c0ac146ffc0ea99810dc8c36530b3e095e667e9fdf42eea05d5a9",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 1
+    },
+    {
+      "key": "C52",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C52-Dimensional-Reframing-at-Zero-and-Infinity.md.txt",
+      "preimage_sha256": "8cb431031a0d716c35ecf700769ec13cead4caeb0c42297a10decae5d576c7ec",
+      "postimage_sha256": "0fa140db15f7a45426a36534a4c3ee5d8de38e759da0697f87aef4698feb2df4",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 4
+    },
+    {
+      "key": "C29",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C29-Mediating-Office-Derivative-Sovereignty.md.txt",
+      "preimage_sha256": "9799ec535b2bada9322d48867332671659185f124a12c4abd63f23e97c753bef",
+      "postimage_sha256": "ef418c0835881952ab2dfb25f59946afddcd2cd932b30f30c4ff8e6494ec6abd",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 6
+    },
+    {
+      "key": "C41",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C41-Objective-Internality.md.txt",
+      "preimage_sha256": "e7796b391b7eacf5ca43ba59baf132f18c7269eb43dc7d922fd7332d90933d4f",
+      "postimage_sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 7
+    },
+    {
+      "key": "APOHA",
+      "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/apoha.md.txt",
+      "preimage_sha256": "1d53636f3e2881f9550b27b8bb9901cd88c381039b9fa10edb1cbd317e79a34c",
+      "postimage_sha256": "cd200dd898bf1199ad0ca50d468b51884e763aab8d48b312b67b72eb7df0192c",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 4
+    },
+    {
+      "key": "PLANETARY",
+      "path": "submission-package/essay/symbolon/episteme/concepts/planetary-computation.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/planetary-computation.md.txt",
+      "preimage_sha256": "16602316d6405941ac9400dc3152c6bab66f3269eaeb46afdb8765120f65fec5",
+      "postimage_sha256": "db527b35ae7ed014326f53bbd771641709fb7a2a9f90e73328854cd965017fa4",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 3
+    }
+  ],
+  "scope": "Individuation/interface/office/planetary/exclusion/dimensional-reframing operations, with source-specific warrants and quotation/clinical/runtime boundaries retained"
+}

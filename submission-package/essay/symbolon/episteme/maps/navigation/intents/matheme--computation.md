@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "46b044d93270ab9e6de81ec86490972c0bf63f5bed0adbb3f59eac19a34e85d0"
+source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -29,7 +29,7 @@ Group: `computation` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Offered`
 
-**Implicates:** *sources* → [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) · *unnamed* → [Quilting for Full Argument — Multi-Session Contribution Ledger](../../../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
+**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md), [Quilting for Full Argument — Multi-Session Contribution Ledger](../../../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
 **Reached from:** *unnamed* ← [Computation](../../../../matheme/computation/README.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
@@ -45,15 +45,15 @@ Group: `computation` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Offered`
 
-**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) · *unnamed* → [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md)
+**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md)
 
-**Reached from:** *unnamed* ← [Computation](../../../../matheme/computation/README.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [Softmax and Argmax](../../../../matheme/computation/softmax-argmax.md), [§5 — Epi-Logos: The Proof Gathered](../../../../matheme/quilt/recognition.md)
+**Reached from:** *tests* ← [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md) · *unnamed* ← [Computation](../../../../matheme/computation/README.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [J-Space: A Bounded Judgment Field](../../../../matheme/computation/j-space.md), [Softmax and Argmax](../../../../matheme/computation/softmax-argmax.md), [§5 — Epi-Logos: The Proof Gathered](../../../../matheme/quilt/recognition.md)
 
 ### [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md)
 
 `matheme` · `matheme` · `Derived`
 
-**Implicates:** *sources* → [Rafailov et al. — Direct Preference Optimization (2023)](../../../sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md), [Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)](../../../sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) · *unnamed* → [Softmax and Argmax](../../../../matheme/computation/softmax-argmax.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
+**Implicates:** *sources* → [Rafailov et al. — Direct Preference Optimization (2023)](../../../sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *tests* → [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md) · *unnamed* → [Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)](../../../sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md), [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md), [Softmax and Argmax](../../../../matheme/computation/softmax-argmax.md)
 
 **Reached from:** *unnamed* ← [Computation](../../../../matheme/computation/README.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md), [Softmax and Argmax](../../../../matheme/computation/softmax-argmax.md)
 
@@ -63,4 +63,4 @@ Group: `computation` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [PyTorch — Softmax and Argmax API (v2.9)](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md) · *unnamed* → [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
-**Reached from:** *unnamed* ← [Concept Map](../../../concepts/index.md), [Computation](../../../../matheme/computation/README.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md)
+**Reached from:** *unnamed* ← [Apoha](../../../concepts/apoha.md), [Concept Map](../../../concepts/index.md), [Computation](../../../../matheme/computation/README.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md)

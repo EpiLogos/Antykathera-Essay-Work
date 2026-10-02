@@ -1,0 +1,40 @@
+{
+  "base_main": "85ac7c52314211029471f6af346d924c3c0820be",
+  "status": "Three complete native arguments independently source/public accepted and included locally for next remote packet",
+  "records": [
+    {
+      "key": "A20",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A20-Image-Valuation-Possession.md.txt",
+      "preimage_sha256": "1f93c4ffe6710848861d880ad8bb31712e8b52a29f75dc272c0b429c3d1e80a1",
+      "postimage_sha256": "3d03e6ae7d415abc8acea87da90fe39c32eac2f85049f0c62f1cd106397407be",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-ARGUMENT-NATIVE-THREE-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 9
+    },
+    {
+      "key": "A21",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A21-Individuation-Recognition.md.txt",
+      "preimage_sha256": "69f6ba0eac569a2fe22db1cf2c816a09e72055badd35fe18f7f040e64580c2b5",
+      "postimage_sha256": "10fc631bd7b0be1a125cd2a3e320f6f6f4464b3a82eb1c5174cc050cb05076ac",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-ARGUMENT-NATIVE-THREE-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 8
+    },
+    {
+      "key": "A22",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A22-World-Picture-to-World-Atlas.md.txt",
+      "preimage_sha256": "84e915c622d4a62a96be8b174bf63c2b5ded3d185924f4003f9571bac233c826",
+      "postimage_sha256": "38551d85900528b9ec7d68531e8fddfdadc5c6f114fdb95fab330476f68a210d",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-ARGUMENT-NATIVE-THREE-REVIEW.json",
+      "effects_depth": 4,
+      "native_hard_errors": 0,
+      "native_review_findings": 6
+    }
+  ],
+  "scope": "Complete appearance/individuation/atlas operations with source-specific warrants and warranted revision or retention; physical/historical/clinical/runtime readiness unchanged"
+}

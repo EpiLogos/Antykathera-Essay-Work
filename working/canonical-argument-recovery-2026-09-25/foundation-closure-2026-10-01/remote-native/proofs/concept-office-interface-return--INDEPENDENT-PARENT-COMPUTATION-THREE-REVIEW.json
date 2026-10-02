@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-02",
+  "reviewer": "concept-recovery independent worker",
+  "scope": "All three complete retained old carriers and complete first candidates read separately without clipping; complete final returned adjoining units replayed. Source houses read in full. This is not a new complete external publication or quotation audit.",
+  "records": [
+    {
+      "key": "EBM",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-candidate.md.txt",
+      "candidate_sha256": "514795248ccd02730c6e86f4af325fabcf93dbb0bf7d1a75b44454002c1e17ea",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-before.md.txt",
+      "preimage_sha256": "0b2226a938407080fe7b2d7e5ff5e8d0b634d35344264cbc70523c71b7187340",
+      "whole_old_new_read": true,
+      "final_returned_unit_replay": "Complete adjacent #0/#5 for EBM/PREFERENCE and #0 for PARITY after whole before/first-draft reading",
+      "accepted": true,
+      "frontmatter_headings_formula_strings_exact": true
+    },
+    {
+      "key": "PARITY",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-candidate.md.txt",
+      "candidate_sha256": "1abb674ec26899bc047882733c4264053274939de1265adfdb25ae48ac9b4b19",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-before.md.txt",
+      "preimage_sha256": "a320666260589b486b6f830a515baf5db2717d447f31c87a34e206cf1f7630ea",
+      "whole_old_new_read": true,
+      "final_returned_unit_replay": "Complete adjacent #0/#5 for EBM/PREFERENCE and #0 for PARITY after whole before/first-draft reading",
+      "accepted": true,
+      "frontmatter_headings_formula_strings_exact": true
+    },
+    {
+      "key": "PREFERENCE",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-candidate.md.txt",
+      "candidate_sha256": "0d3c0a2bc911abf9770f3b40b0953eb526e9536ce50d293c6b411241eca0b8ea",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-before.md.txt",
+      "preimage_sha256": "15323374335cb2834a8d837eeb7808f2ded3a7ea8d694dc42c9450ff64369ee0",
+      "whole_old_new_read": true,
+      "final_returned_unit_replay": "Complete adjacent #0/#5 for EBM/PREFERENCE and #0 for PARITY after whole before/first-draft reading",
+      "accepted": true,
+      "frontmatter_headings_formula_strings_exact": true
+    }
+  ],
+  "source_readings": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "sha256": "84a93eb9b677490903b470d098c906132a14e43a4dbf9e6fb0366abfd32aedaf",
+      "scope": "Whole current source house freshly read; original edition/readiness/locator scopes retained"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "sha256": "b5bd9d640bffa8c2205492e82eca0299d21a8de777e79fa3ae793364367ca409",
+      "scope": "Whole current source house freshly read; original edition/readiness/locator scopes retained"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+      "sha256": "3b128ff8f0b4fa3a2155eb0a9fa240491373142a7d9c164dd5903da5ce546cf4",
+      "scope": "Whole current source house freshly read; original edition/readiness/locator scopes retained"
+    }
+  ],
+  "governing_basis": "Previously actually read whole authored core/theorem field, whole Symbolon Dynamics, MEF reference and authorial minute/anti-anti correction; core II113\u2013174, CT09, R3 and current complete C41 local/containing relation re-entered during present packet. No claim to parent\u2019s fresh S1 body reading.",
+  "findings_returned": [
+    {
+      "key": "EBM",
+      "finding": "Status/source-duty paragraph in #0 and implicit local interpreting reference in #5",
+      "resolution": "Actual resistant encounter\u2192representation/evaluator\u2192inherited next inference; local interpreting agent explicitly functional knower with means/known within containing person\u2019s inquiry."
+    },
+    {
+      "key": "PARITY",
+      "finding": "Standing defense of native philosophy rather than the distinct implemented operation",
+      "resolution": "Native determination/means/conscious condition and experiment\u2019s varied technical means/outcome now have their particular objects."
+    },
+    {
+      "key": "PREFERENCE",
+      "finding": "Future historical passage-gathering task and carrier/core-asks wrapper",
+      "resolution": "Bradley\u2013Terry historical attribution distinct from DPO construction; identifiable differences/additive freedom/reference variation and actual sources/authority return now perform."
+    }
+  ],
+  "acceptance": "No exact lost step, stronger false entailment or public residue found at these complete recovered operations. Explicit domain/energy-vs-loss/learning-vs-inference/gauge-vs-reference/source/criterion/authority differences retained; all six interventions and experimental counter-hypotheses retained.",
+  "limits": "No runtime implementation/experiment passed; no machine first-person conclusion; no whole external LeCun chapter, DPO paper or Bradley\u2013Terry article/locator acquired; no selected-edition or quotation readiness promotion. Real construction/math proof is assessed as specified, with the older source identity preserved."
+}
