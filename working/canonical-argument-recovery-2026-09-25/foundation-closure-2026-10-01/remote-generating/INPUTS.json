@@ -7155,5 +7155,16 @@
     "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md": [
       "counterpressure-surface"
     ]
+  },
+  "transport_replay": {
+    "failed_execution_commit": "18fc9111b16aca43caefd986047e788929b88018",
+    "failed_run": 37008552829,
+    "corrected_execution_tree": "066ac192912d2f8e36b4655eaf55bbd4f0af948e",
+    "corrected_execution_commit": "adc77c636c6c6a7487d4e68ed5da6e6b3ae871c7",
+    "verified_text_blobs": 181,
+    "verified_archive_blob": "7eb9a3ed7f56b303267c1fe0206b143d1524a652",
+    "candidate_changes": [],
+    "gate_changes": [],
+    "trigger": "Prior replay changed onlyE6 and did not match the existing workflow path filter; this retained INPUT receipt triggers identical checks."
   }
 }
