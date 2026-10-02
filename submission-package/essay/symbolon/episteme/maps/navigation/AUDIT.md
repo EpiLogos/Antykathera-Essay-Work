@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
+source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -42,15 +42,15 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
-| Matheme — exact operations | 94 | 844 | 388 | 456 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
+| Matheme — exact operations | 94 | 841 | 345 | 496 | 0 | 13 | 0 |
+| Mytheme — whole lived images | 48 | 761 | 422 | 339 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1035 | 496 | 539 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 555 | 117 | 438 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1382 | 456 | 926 | 36 | 67 | 47 |
+| Episteme · Arguments A01–A36 | 37 | 1030 | 444 | 586 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 549 | 107 | 442 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1385 | 386 | 999 | 36 | 66 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
-| Episteme · Etymology whole-fields | 25 | 613 | 394 | 219 | 0 | 6 | 0 |
-| Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
+| Episteme · Etymology whole-fields | 25 | 612 | 350 | 262 | 0 | 6 | 0 |
+| Episteme · Histories | 21 | 664 | 426 | 238 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1083 | 167 | 916 | 0 | 79 | 0 |
 | Episteme · Dossiers | 8 | 205 | 177 | 28 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
@@ -59,7 +59,7 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Episteme · Aphorisms | 1 | 11 | 9 | 2 | 0 | 0 | 0 |
 | Episteme · Figures | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
 | Episteme · Dialogues | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
-| Supporting quilt ledgers (non-canonical) | 6 | 95 | 15 | 80 | 0 | 3 | 0 |
+| Supporting quilt ledgers (non-canonical) | 6 | 99 | 19 | 80 | 0 | 3 | 0 |
 
 ## Curated paths
 
@@ -85,7 +85,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | `working/p2-enrichment` | 5 | `working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md` (1); `working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md` (1); `working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md` (1) |
 | `submission-package/epi-logos` | 4 | `submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md` (2); `submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md` (2) |
 | `.wayfinder/maps` | 3 | `.wayfinder/maps/t20-t21-world-registers.md` (3) |
-| `working/canonical-argument-recovery-2026-09-25` | 3 | `working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md` (2); `working/canonical-argument-recovery-2026-09-25/A26P-DISPLACED-REPOSITORY-GOVERNANCE.md` (1) |
+| `working/canonical-argument-recovery-2026-09-25` | 2 | `working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md` (2) |
 | `working/conjugate-field` | 2 | `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (1); `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (1) |
 | `docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md` | 1 | `docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md` (1) |
 | `working/harmonisation-2026-08-18-objective-internality-capstone` | 1 | `working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md` (1) |
@@ -149,7 +149,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Episteme atlas — historical routes through Etymology](../../atlas/README.md)
 - [C24 — Fusion](../../concepts/C24-Fusion.md)
 - [C25 — Counterfeit Gathering](../../concepts/C25-Counterfeit-Gathering.md)
-- [C27 — Protected Account / Occupied Zero / Source-Claim](../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md)
 - [C28 — Covenant / Primary Arbitration](../../concepts/C28-Covenant-Primary-Arbitration.md)
 - [C33 — Image / Valuation](../../concepts/C33-Image-Valuation.md)
 - [C34 — Individuation](../../concepts/C34-Individuation.md)
@@ -428,9 +427,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `/ [ancient philosophy] (../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history] (../histories/traditions-and-disciplines/a`
-- **Episteme · Concepts C01–C64 and provenance:** `[Immutable Gap] (C05-Immutable-Gap.md) names the recurrent non-coincidence which formal limit protects`
-- **Episteme · Concepts C01–C64 and provenance:** `[Self-identity through difference] (../arguments/A02-Copula-Self-Identity-through-Difference.md) begins here`
-- **Episteme · Concepts C01–C64 and provenance:** `The [non-coincidence of an account with its condition] (C05-Immutable-Gap.md) gives identification a passage to make`
+- **Episteme · Concepts C01–C64 and provenance:** `[The performed definition of God and Subject] (../arguments/A01-Subject-God-and-Faithful-Definition.md) makes the defining act part of what is being defined`
+- **Episteme · Concepts C01–C64 and provenance:** `A [determining cut] (C03-Determination.md) makes what is named distinguishable from its alternatives`
+- **Episteme · Concepts C01–C64 and provenance:** `The [formal limit] (../arguments/A03-Immutable-Gap-Formal-Limit.md) recurs when an additional representation attempts to capture the condition of representing: t`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`
 - **Episteme · Conjugate arguments A01′–A36′:** `[Argument field] (../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../arguments/A01-Subject-God-and-Faithful-Definition.md) · [`

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
+source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `chinese-philosophy` · back to [Episteme · Source houses](episteme-sour
 
 **Implicates:** *defines* → [Ministry of Education — Revised Mandarin Chinese Dictionary](../../../sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md#moe-2021-revised-mandarin-dictionary-q001) · *compares* → [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) · *unnamed* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source)
 
-**Reached from:** *sources* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md) · *qualifies* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), [Ministry of Education — Revised Mandarin Chinese Dictionary](../../../sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md) · *compares* ← [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md), [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md) · *qualifies* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), [Ministry of Education — Revised Mandarin Chinese Dictionary](../../../sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Chang Chung-yuan — Tao: A New Way of Thinking (2014)](../../../sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md)
 

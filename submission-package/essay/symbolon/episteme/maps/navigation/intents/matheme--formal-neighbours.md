@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
+source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -79,7 +79,7 @@ Group: `formal-neighbours` · back to [Matheme — exact operations](matheme.md)
 
 **Implicates:** *sources* → [Return of Zero Source Bank](../../../sources/README.md), [Histories — Streams of the Logos in Time](../../../histories/README.md) · *unnamed* → [Von Neumann Ordinals — The Predecessors Retained](../../../../matheme/formal-neighbours/von-neumann-ordinals.md), [Division Pluralisms — What the Denominator Permits](../../../../matheme/formal-neighbours/division-pluralisms.md), [Sheffer Stroke — One Operation, Every Boolean Function](../../../../matheme/formal-neighbours/sheffer-stroke.md), [Laws of Form and Varela — Crossing, Re-entry, Self-Indication](../../../../matheme/formal-neighbours/laws-of-form-varela.md), [Russell's Paradox and Types — Restricting the Formed Totality](../../../../matheme/formal-neighbours/russell-types.md), [Gödel Incompleteness — The Proof Relation Turned Inward](../../../../matheme/formal-neighbours/godel-incompleteness.md), [FDE, four-valued logic and catuṣkoṭi](../../../../matheme/formal-neighbours/fde-catuskoti.md), [Chinese Remainder: Six as Two by Three](../../../../matheme/formal-neighbours/crt-z6.md), [The One-Element Ring](../../../../matheme/formal-neighbours/trivial-ring.md), [Group Completion and the Conditions of Loss](../../../../matheme/formal-neighbours/grothendieck-group-loss.md), [Kauffman iterants](../../../../matheme/formal-neighbours/kauffman-iterants.md), [Cross-Ratio under Fractional-Linear Transformation](../../../../matheme/formal-neighbours/cross-ratio.md) (+6 more)
 
-**Reached from:** *extends* ← [§5→0 — The Catuṣkoṭi Crossing](../../../../matheme/definition/catuskoti-crossing.md), [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md) · *unnamed* ← [∞/dx — Horizon and Differential](../../../../infinity-dx.md), [Matheme](../../../../matheme/README.md), [The Slash — Selection and Co-presence](../../../../matheme/ql/slash-and-or.md)
+**Reached from:** *extends* ← [§5→0 — The Catuṣkoṭi Crossing](../../../../matheme/definition/catuskoti-crossing.md) · *unnamed* ← [∞/dx — Horizon and Differential](../../../../infinity-dx.md), [Matheme](../../../../matheme/README.md), [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md), [The Slash — Selection and Co-presence](../../../../matheme/ql/slash-and-or.md)
 
 ### [Group Completion and the Conditions of Loss](../../../../matheme/formal-neighbours/grothendieck-group-loss.md)
 

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
+source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -29,7 +29,7 @@ Group: `dia-syn` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Argued`
 
-**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) · *unnamed* → [C50 — Dia / Syn](../../../concepts/C50-Dia-Syn.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Chronic — Configuration and Passage](../../../../matheme/dia-syn/chronic.md), [Sheffer Stroke — One Operation, Every Boolean Function](../../../../matheme/formal-neighbours/sheffer-stroke.md)
+**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [C50 — Dia / Syn](../../../concepts/C50-Dia-Syn.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Chronic — Configuration and Passage](../../../../matheme/dia-syn/chronic.md), [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [Sheffer Stroke — One Operation, Every Boolean Function](../../../../matheme/formal-neighbours/sheffer-stroke.md)
 
 **Reached from:** *defines* ← [Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation](../../../../mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md) · *returns-to* ← [Group Completion and the Conditions of Loss](../../../../matheme/formal-neighbours/grothendieck-group-loss.md) · *unnamed* ← [Softmax and Argmax](../../../../matheme/computation/softmax-argmax.md), [Dia/Syn — the two logics of two](../../../../matheme/dia-syn/README.md), [Chronic — Configuration and Passage](../../../../matheme/dia-syn/chronic.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md)
 

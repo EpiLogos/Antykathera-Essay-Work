@@ -12,7 +12,7 @@ status: "T25 developed; lexical sources housed; R6 truth-strength review active"
 
 ## Office
 
-This field gives the essay's clarified paradigmatic frame an etymological and relational home **inside the native QL theorem**. It develops one compressed determination of the same `0 / 1 → 0/1` relation: Genesis as generative source, Paradigm as patterned mediation, Project as determinate projection, and Epi-Logos as their achieved relation becoming answerable to its own enactment.
+Genesis gives, Paradigm discloses through a pattern, and Project throws a determination into a World. Epi-Logos returns that achieved determination upon the source and mediation through which it became possible. These are one compressed determination of the native `0 / 1 → 0/1` relation: generative source, patterned mediation, determinate projection, and their achieved relation becoming answerable to its own enactment.
 
 The core appointment is:
 
@@ -104,7 +104,7 @@ Epi-Logos works **within paradigmatic life**. Integral diaphaneity means that me
 
 ## Paradox — crisis of the containing paradigm
 
-C64 owns **Paradox as the crisis operator of paradigmatic life**. It is the event in which the containing relation itself becomes answerable to determinations it can no longer reconcile unchanged.
+**Paradox is the crisis operator of paradigmatic life**: the containing relation becomes answerable to determinations it can no longer reconcile unchanged.
 
 A paradigm normally recedes behind the determinations it makes possible. Paradox marks the crisis in which determinations with genuine standing can no longer be reconciled by the containing relation which generated them. At that point the slash itself becomes visible.
 
@@ -116,7 +116,7 @@ The two logics govern the possible response. The break can be cancelled into `0`
 
 ## Compassion — ethical form of reflexive disclosure
 
-A35/C56 own the ethical orientation of this return. This field makes their relation to paradigm explicit.
+Sensitivity to origins gives reflexive disclosure its ethical direction. The return reaches conditions which still sustain the determination, and meets their bearers as capable of answering rather than as material to be absorbed.
 
 **Diaphaneity is the phenomenological/epistemic side of reflexive self-disclosure; compassion is its ethical side.** Revealing the conditions of phenomena leaves open what will be done with what has been revealed: the same disclosure can serve recognition or appropriation.
 
@@ -147,31 +147,31 @@ S as World and Life is the parent field. Paradigm names the lived organisation o
 
 **Operational homology**
 
-- Māyā / operative measure ↔ Paradigm / pattern of disclosure: register 3; the relation is operational rather than lexical descent.
-- crossed zero / recognition of the slash ↔ paradigmatic reflexivity: register 3; native QL owns the theorem.
-- Bimba–Pratibimba / simulacrum ↔ Project / projection: register 3; each historical source retains its own argument.
-- paradox / containing-field transformation ↔ paradigm change: register 3; C64 owns the transformation criterion.
+- Māyā / operative measure ↔ Paradigm / pattern of disclosure: a finite horizon reveals by withholding; the two histories enter that operational comparison through their own sources.
+- crossed zero / recognition of the slash ↔ paradigmatic reflexivity: the means becomes distinguishable within the act it mediates, and that recognition can change its next enactment.
+- Bimba–Pratibimba / simulacrum ↔ Project / projection: a projected form can condition a later event while remaining answerable to its source; the historical accounts retain their different arguments.
+- paradox / containing-field transformation ↔ paradigm change: conflicting determinations retain their standing while the relation that generated them becomes transformable.
 
 **Poetic/phonic re-entry**
 
-Any play among project, projection, pro-logos or similar sounding/formal neighbours remains register 4 unless independently supported. Phonic relation can carry poetic return without manufacturing common descent.
+The sound and form of project, projection, pro-logos or neighbouring expressions can participate in poetic return. A phonic relation gives that play an audible or visible body; common descent is a different historical claim and requires its own witness.
 
 ## Return routes
 
 Primary returns:
 
 - crossed-zero / subject-logics and the opening knower–means–known relation;
-- A09/C14 tattvic field and Māyā/Mahāmāyā;
-- A06/A07 and Vāk–vikalpa–saṃkalpa;
-- A26/C41 Objective Internality;
-- C51 Logos/Epi-Logos;
-- C64 Paradox / containing-field transformation;
-- A35/C56 Compassion / sensitivity to origins;
+- tattvic differentiation and Māyā/Mahāmāyā as finite manifestation and its powers;
+- Vāk–vikalpa–saṃkalpa as articulated manifestation and determination;
+- Objective Internality as the means through which a Life discloses its World;
+- Logos/Epi-Logos as an account returning upon its own articulation;
+- Paradox as a containing-field transformation that retains the standing of its conflicting determinations;
+- Compassion as sensitivity to origins and to the lives able to answer the returning account;
 - Bimba–Pratibimba, Mirror and Baudrillard/simulacrum relations;
-- S and all six product records;
+- World and Life through all six whole product subjects;
 - the early Gebser/diaphaneity thread and its later Actuation application;
 - the §5→0 instrument/vocation return.
 
 **Linear returns:** paradigmatic mediation first becomes explicit in [[section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality|M12 — Objective Internality]], returns vocationally in [[section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion|M43 — From Theory to Vocation]], and closes as paradigm-level Return in [[section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return|M48 — AHI and Planetary Return]].
 
-This whole field should be consumed by exact operation. A bare `Paradigm` link is not evidence that the relation has been recovered.
+Paradigmatic reflexivity becomes consequential when disclosure, its mediating pattern and its projected determination remain available to one another. An encountered difference can then reach the source, interpretation, selection, permission or commission which conditions a further act. A fitting correction may preserve an adequate pattern; a contradiction the pattern cannot receive makes that containing relation itself answerable.

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "5e1394b748f32e1aa8e77d58e3bc4918eca064a7640fd87f96e423e51163d5c2"
+source_digest: "8b9dc90ca6b61fcb6b958a7d9a3c2c982fa0de7b3439d138ab633b74bd7e3080"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -45,7 +45,7 @@ Group: `harmonics` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Argued`
 
-**Implicates:** *sources* → [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) · *unnamed* → [Metonic Cycle](../../../concepts/reference-notes/metonic-cycle.md), [Cycle, Interval and Octave](../../../../matheme/harmonics/cycle-interval-octave.md)
+**Implicates:** *sources* → [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [Metonic Cycle](../../../concepts/reference-notes/metonic-cycle.md), [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [Cycle, Interval and Octave](../../../../matheme/harmonics/cycle-interval-octave.md)
 
 **Reached from:** *qualifies* ← [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *unnamed* ← [Harmonics](../../../../matheme/harmonics/README.md)
 
