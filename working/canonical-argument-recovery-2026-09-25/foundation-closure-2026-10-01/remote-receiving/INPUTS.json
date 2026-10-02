@@ -141,9 +141,11 @@
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/simulation.md",
-      "postimage_sha256": "5744e6f9afb4d215f92677604abe79507ad09bacd49dab91bd89c95d13bb4b82",
+      "postimage_sha256": "7a74630aad5d9572154a2368bcc87d7bb831affc1fcc8ddd57c4c87a56761248",
       "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/candidates/simulation.md.txt",
-      "preimage_sha256": "85bc2a5f5e12a9237317a11cb931e620cc8f1f8b7af30a15ab8f8853e52e4382"
+      "preimage_sha256": "85bc2a5f5e12a9237317a11cb931e620cc8f1f8b7af30a15ab8f8853e52e4382",
+      "prior_postimage_sha256": "5744e6f9afb4d215f92677604abe79507ad09bacd49dab91bd89c95d13bb4b82",
+      "quote_return": "Exact original Taylor attributed phrase restored; independent quote/causal relation replay. Prior incorrect retention claim retained in historical proof/archive."
     },
     {
       "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
@@ -334,6 +336,18 @@
     {
       "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-receiving/RECOVERY-EVIDENCE.zip",
       "sha256": "a32f2f6108ac92d7df713f3fe2b4e568dee531e10e1743205de21890099f192f"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-receiving/proofs/CORRECTION--concept-receiving-three--EXACT-QUOTE-RETURN.json",
+      "sha256": "ec8e8964e354dc278f1bd28ffa2f65d7eaf416881e2d27034ad732cdb571b340"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-receiving/proofs/CORRECTION--argument-public-continuation--INDEPENDENT-CONCEPT-RECEIVING-THREE-REVIEW.json",
+      "sha256": "6d7d322647d5781808e79649012d29e492a17843b0ef20b3c4a618d8c6dc5754"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-receiving/proofs/SIMULATION-QUOTE-LAYER-INCLUSION.json",
+      "sha256": "80cd4287e1f92f7bc43891883a5126d47becf23eb77c69829c37d6a53c6eac70"
     }
   ],
   "protected": [
