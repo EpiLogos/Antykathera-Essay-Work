@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 **Implicates:** *sources* → [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *qualifies* → [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD.md)
 
-**Reached from:** *historicises* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *sources* ← [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md), [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Aristotle — Politics (Benjamin Jowett translation)](../../../sources/classical-premodern-philosophy/aristotle/aristotle-politics-jowett/SOURCE.md)
 
@@ -39,7 +39,7 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 **Implicates:** *sources* → [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *qualifies* → [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD.md)
 
-**Reached from:** *historicises* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *sources* ← [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md), [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Berkeley — Three Dialogues (1734 text, Wilkins ed. 2002)](../../../sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md)
 
@@ -69,9 +69,9 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 `primary-text-translation`
 
-**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [The Return of Zero — Reading Root](../../../../../README.md), [Return of Zero — Section Rooms](../../../../../section-rooms/README.md)
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [The Return of Zero — Reading Root](../../../../../README.md), [Return of Zero — Section Rooms](../../../../../section-rooms/README.md), [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md)
 
-**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md), [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) · *qualifies* ← [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) · *sources (declared)* ← [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) · *sources (declared)* ← [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) · *unnamed* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Valentinian Sophia, Horos, Achamoth and Soter](../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md)
 
 ### [Nicholas of Cusa — On Learned Ignorance](../../../sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md)
 

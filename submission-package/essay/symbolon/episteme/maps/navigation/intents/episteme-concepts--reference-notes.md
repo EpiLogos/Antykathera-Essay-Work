@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -531,7 +531,7 @@ Group: `reference-notes` · back to [Episteme · Concepts C01–C64 and provenan
 
 **Implicates:** none written.
 
-**Reached from:** *returns-to* ← [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md)
+**Reached from:** *unnamed* ← [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md)
 
 ### [Whitehead Creativity](../../../concepts/reference-notes/whitehead-creativity.md)
 

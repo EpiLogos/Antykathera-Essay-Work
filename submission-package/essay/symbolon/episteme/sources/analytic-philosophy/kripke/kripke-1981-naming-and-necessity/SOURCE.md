@@ -26,7 +26,13 @@ isbn:
   - "9780674598454"
 accessed: "2026-07-29"
 consumed_by_sections: []
-consumed_by_arguments: []
+consumed_by_arguments:
+  - A01
+  - A02
+  - A06
+  - A07
+  - A08
+  - A15
 tags:
   - epi-logos/antikythera-essay
   - source-bank/record
@@ -77,7 +83,9 @@ One factual clarification for the notes' open question: the David Kaplan credite
 
 ## Essay uses
 
-Encounter-intent leads only; no canonical consumer is declared yet, and `consumed_by_sections` / `consumed_by_arguments` remain empty until real consumption is wired. Candidate destinations from the notes: the naming–counting–accounting layer of identity; apoha with the positive case secured by rigidity; intuition and the psychoid register; possible worlds held as counterfactual states against their reification.
+Six arguments already receive Taylor’s protected encounter. [Faithful definition](../../../../arguments/A01-Subject-God-and-Faithful-Definition.md#1) makes name, instance and circumstance consequential to the defining act. [Copular identification](../../../../arguments/A02-Copula-Self-Identity-through-Difference.md#1--this-very-one-through-altered-predicates) distinguishes a bearer beneath repeated or changed names and keeps the stipulated dice outcomes within their counterfactual conditions. [Personed speech](../../../../arguments/A06-Vak.md#3) differentiates the sound-name from its counted bearer and the changing persons of address. [Constructive selection](../../../../arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md#1--identification-draws-its-scope-from-circumstance) carries name, instance and circumstance into a course whose rule remains answerable to its formation. [Constitutive exclusion](../../../../arguments/A08-Apoha-Constitutive-Exclusion.md#3) keeps the positive individual tracked across circumstances distinct from the Buddhist causally effective particular. [Ratio and account](../../../../arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md#1) brings the counted instance into an addressable participant and a contestable reckoning. These are uses of Taylor’s encounter, with Kripke’s rigid-designation argument retained as its distinct philosophical comparison.
+
+The same received relations are explicit in [copula](../../../../concepts/C06-Copula-Identification-with-Difference.md#1--a-predicate-belongs-to-this-very-one), [script](../../../../concepts/C12-Script-Frozen-Conditioned-Will.md#1--the-circumstance-precedes-the-rule-it-supports), [vikalpa–saṃkalpa](../../../../concepts/C17-Vikalpa-Samkalpa.md#0--a-course-arises-within-a-circumstance) and [apoha](../../../../concepts/C18-Apoha.md#3). The [Indian philosophical comparison](../../../../dossiers/indian-philosophy.md#2--speech-forms-a-world-which-can-answer-its-speaker) distinguishes a sound-name, its particular bearer and the I–you circumstance without making the QL development Kripke’s doctrine. These current body routes retain their own source scope; no verified external Kripke passage card or quotation is claimed by recording them. `consumed_by_sections` remains empty: no movement consumption is newly declared.
 
 <a id="passages"></a>
 ## Passages and excerpts

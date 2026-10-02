@@ -11,6 +11,7 @@ page_type: "concept"
 coordinates: ["#4", "L4"]
 claim_status: "Argued"
 source_ids:
+  - taylor-2026-symbolon-dynamics
   - burkert-1960-lied-ares-aphrodite
   - brown-1989-ares-aphrodite-laughter
   - phillips-moicheia-unity-greek-law
@@ -21,10 +22,10 @@ tags:
   - argument-map/method
 aperture:
   novice: "The essay sorts its rich material into three registers—exact formula, living image, and instituted knowledge—then keeps every item that performs necessary work. Several can belong in one section when their jobs differ; repetition is compressed or linked."
-  expert: "A QL triad over the essay's own reference apparatus: three registers whose fourth is the symbolon gathering them (a 3+1 of the kind Jung's quaternity studies track). Assignment of the three to 0, /, 1 is a held authorial decision (list-order: matheme→0, mytheme→/, episteme→1; the conjugate assignment also runs — itself QL-consistent). Admission test: aletheia-work — a resonance enters prose only if it discloses an operation no admitted instance discloses."
+  expert: "A QL triad over the essay's own reference apparatus: three registers whose fourth is the symbolon gathering them (a 3+1 of the kind Jung's quaternity studies track). The active list-order is matheme→0, mytheme→/, episteme→1; the conjugate reading takes mytheme as imaginal ground and matheme as exact mark. Each register retains its own 0/1 interior. Admission test: aletheia-work — a resonance enters prose only if it discloses an operation no admitted instance discloses."
   prereq: "[[12-core-theorem-bridge|0-1-matheme]] — the root symbolon whose overdetermination makes the grammar necessary."
 analogia:
-  - "[[mathematical-artistic-image-register]]"
+  - "[Mathematical-Artistic Image Register](mathematical-artistic-image-register.md)"
 ---
 # Register Grammar — Matheme, Mytheme, Episteme
 
@@ -32,7 +33,7 @@ analogia:
 
 Because `0/1` is the root symbolon, nearly every study, myth, and formal system the research touches will eventually present itself as a refraction of it. The register grammar is the discipline that converts that overdetermination from a flooding risk into depth. Every candidate resonance is classified by the register in which it performs: **matheme** — the exact, transmissible formal relation (a derivation, an identity, a construction); **mytheme** — the lived image through which a relation can be remembered, suffered, and transformed (a scene, a figure, a drama); **episteme** — the instituted knowledge-form in which a relation stands as discipline, history, and warrant (a scholarship, a legal form, a science). The three are themselves a QL triad whose fourth is the **symbolon** that gathers them — a 3+1 of the kind Jung's quaternity studies track across cultures, operating here on the essay's own reference apparatus, which bears on why such structures stay implicit while psyche keeps pointing at them.
 
-The assignment of the three registers to `0`, `/`, and `1` is a **held authorial decision**, deliberately left open in the central plan until locked: the list-order reading gives matheme→`0` (the ground-invariant, the matheme 0/1 itself), mytheme→`/` (the living mediation), episteme→`1` (knowledge as the standing mark — *epi-histēmi*, what stands upon); the conjugate reading — mytheme→`0` as imaginal ground, matheme→`1` as exact mark — is also coherent, and that both assignments run is itself QL-consistent rather than a defect.
+In [Taylor's Symbolon Dynamics](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), the list-order gives matheme→`0` as ground-invariant, mytheme→`/` as living mediation, and episteme→`1` as knowledge brought to standing. The conjugate reading is also active: mytheme→`0` as imaginal ground and matheme→`1` as exact mark. Each register has its own `0/1` interior. A mathematical expression conducts an unrepresented field of possible operations; a finite narrative carries archetypal depth; an authorised statement carries histories, exclusions, methods and institutions. Their reversibility belongs to these actual relations rather than awaiting a further assignment decision. The symbolon gathers them without flattening their vocabularies and warrants.
 
 ## Functional admission and polyphonic weighting
 
@@ -46,6 +47,6 @@ Register is not a filing label that assigns one record to one bucket. It is the 
 
 ## In the argument
 
-The grammar governs the [central plan](../../../../../the-return-of-zero-central-plan.md)'s "Register grammar" section and, through it, every station's admission decisions. Worked example at [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3]]: the station's mytheme is the Homeric net developed in full; its matheme is the two-logics pair already derived; its episteme is the legal-and-philological control (Burkert, Brown, Phillips, Detienne–Vernant) carried through source houses — while Priest, McGilchrist, and the atlas-of-charts land at *their* stations rather than crowding this one.
+The [central plan](../../../../../the-return-of-zero-central-plan.md)'s "Register grammar" section applies this distinction to admission. In [[22-s2-p3-ares-aphrodite-harmonia|the Homeric capture and release]], the mytheme gives the forged bonds, exposed lovers, laughing audience and Poseidon's surety their complete telling. The two-logics matheme distinguishes cancellation, retained seam and arrested return; legal and philological inquiry into the narrated fine and pledge supplies its separate epistemic controls (Burkert, Brown, Phillips, Detienne–Vernant). A logic of four answers, hemispheric attention and manifold charts require their respective complete operations and sources when introduced; their shared relation does not erase those different tasks.
 
-Related: [[mathematical-artistic-image-register]] · [[12-core-theorem-bridge|0-1-matheme]] · [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]
+Related: [Mathematical-Artistic Image Register](mathematical-artistic-image-register.md) · [[12-core-theorem-bridge|0-1-matheme]] · [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]

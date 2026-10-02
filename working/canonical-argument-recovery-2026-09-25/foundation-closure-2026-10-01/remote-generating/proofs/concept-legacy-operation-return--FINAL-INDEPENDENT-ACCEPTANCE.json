@@ -1,0 +1,405 @@
+{
+  "reader": "concept_recovery",
+  "status": "All12 complete source-first legacy operations independently accepted at exact frozen hashes; ready for parent inclusion and full unchanged native gates",
+  "records": [
+    {
+      "key": "mathematical-artistic-image-register",
+      "native": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/mathematical-artistic-image-register.md.txt",
+      "preimage_sha256": "91134ad8765cda3f85810047d585303a20720172b948d164459d763c0241d924",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/mathematical-artistic-image-register.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/mathematical-artistic-image-register.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "80d31aee48a9a8da5415f3e422da146355a87f90400a229df1ac98a0ad611ac0",
+      "checks": {
+        "key": "mathematical-artistic-image-register",
+        "candidate_sha256": "80d31aee48a9a8da5415f3e422da146355a87f90400a229df1ac98a0ad611ac0",
+        "hard_count": 0,
+        "review_count": 16,
+        "link_count": 11,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-LEGACY-SIX-OPERATIONS-REVIEW.json",
+        "receipt_sha256": "d38876d52227fd6f4e016dce75cdfa6305491cd399c7bbcd82b5d662959be55d",
+        "reader": "depth_recovery",
+        "source_boundaries": "Exact complete old/new and source/public units with external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "diaphaneity",
+      "native": "submission-package/essay/symbolon/episteme/concepts/diaphaneity.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/diaphaneity.md.txt",
+      "preimage_sha256": "4107e66ad75f62e25121062c0520660ca16ff9537770576d0f29c27f92e183e8",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/diaphaneity.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/diaphaneity.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "55d1707a846dd7efe26cc4a8712e3ab2ec655b2699d63d9b7cbfda1896771910",
+      "checks": {
+        "key": "diaphaneity",
+        "candidate_sha256": "55d1707a846dd7efe26cc4a8712e3ab2ec655b2699d63d9b7cbfda1896771910",
+        "hard_count": 0,
+        "review_count": 3,
+        "link_count": 11,
+        "missing_links": [],
+        "metadata_exact": true,
+        "original_headings_missing": [
+          "## The withheld payoff"
+        ],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+        "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+        "reader": "argument_recovery",
+        "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "zero",
+      "native": "submission-package/essay/symbolon/episteme/concepts/zero.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/zero.md.txt",
+      "preimage_sha256": "6614dea4fd4dd893c7ec28ccfdafc886bc370e65adf21a54b4ed5efc299c04ca",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/zero.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/zero.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "f02a874701d7eb264a079782fb625e6a56697eb5035f008c38cfb4a1c4366792",
+      "checks": {
+        "key": "zero",
+        "candidate_sha256": "f02a874701d7eb264a079782fb625e6a56697eb5035f008c38cfb4a1c4366792",
+        "hard_count": 0,
+        "review_count": 0,
+        "link_count": 19,
+        "missing_links": [],
+        "metadata_exact": true,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+        "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+        "reader": "argument_recovery",
+        "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "agentworld",
+      "native": "submission-package/essay/symbolon/episteme/concepts/agentworld.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/agentworld.md.txt",
+      "preimage_sha256": "7e8775e2e15cb6a890a3599e2f0195d9a6bdef5b89e288126e587140304e5a6e",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/agentworld.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/agentworld.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "fcd135fcaf90e084a9fb57363840c8e4420661019a6df245695d46f0e3d029d0",
+      "checks": {
+        "key": "agentworld",
+        "candidate_sha256": "fcd135fcaf90e084a9fb57363840c8e4420661019a6df245695d46f0e3d029d0",
+        "hard_count": 0,
+        "review_count": 2,
+        "link_count": 29,
+        "missing_links": [],
+        "metadata_exact": true,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+        "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+        "reader": "argument_recovery",
+        "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "vikalpa-samkalpa",
+      "native": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/vikalpa-samkalpa.md.txt",
+      "preimage_sha256": "5dfe4c27946e4936ae197f3bd848e7436a62020311ed8bd1699248ed169efb9c",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/vikalpa-samkalpa.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/vikalpa-samkalpa.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "88eda899b1e02431636c4507b2bcc95edde98fdb681e8759201bb73b615a44cf",
+      "checks": {
+        "key": "vikalpa-samkalpa",
+        "candidate_sha256": "88eda899b1e02431636c4507b2bcc95edde98fdb681e8759201bb73b615a44cf",
+        "hard_count": 0,
+        "review_count": 4,
+        "link_count": 19,
+        "missing_links": [],
+        "metadata_exact": true,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+        "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+        "reader": "argument_recovery",
+        "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "counterfeit-gathering",
+      "native": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/counterfeit-gathering.md.txt",
+      "preimage_sha256": "5a5f3567e1c1d34bfd6d1b3b9b97afa0c67c8babb17d2d5e7561b101f8110ad4",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/counterfeit-gathering.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/counterfeit-gathering.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "4bfbac4d973272d811eaad486c9448919ce007e1b6616a76569b01351187381a",
+      "checks": {
+        "key": "counterfeit-gathering",
+        "candidate_sha256": "4bfbac4d973272d811eaad486c9448919ce007e1b6616a76569b01351187381a",
+        "hard_count": 0,
+        "review_count": 1,
+        "link_count": 13,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+        "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+        "reader": "argument_recovery",
+        "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "bimba-pratibimba",
+      "native": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/bimba-pratibimba.md.txt",
+      "preimage_sha256": "d4a987ba3d3c4355d93824cdb779a3ef2a7043f83cd6b5ae40a9333c636446e1",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/bimba-pratibimba.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/bimba-pratibimba.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "778d6d44f7d8a7fe18787816ef299738c9b4b7b74dbbfca42cff5302af824e4b",
+      "checks": {
+        "key": "bimba-pratibimba",
+        "candidate_sha256": "778d6d44f7d8a7fe18787816ef299738c9b4b7b74dbbfca42cff5302af824e4b",
+        "hard_count": 0,
+        "review_count": 1,
+        "link_count": 20,
+        "missing_links": [],
+        "metadata_exact": true,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+        "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+        "reader": "argument_recovery",
+        "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "dimensional-reframing-at-zero-and-infinity",
+      "native": "submission-package/essay/symbolon/episteme/concepts/dimensional-reframing-at-zero-and-infinity.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/dimensional-reframing-at-zero-and-infinity.md.txt",
+      "preimage_sha256": "c4412972e448f77f43ef5f111c3157842275e67300a094aad5c28573031c921b",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/dimensional-reframing-at-zero-and-infinity.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/dimensional-reframing-at-zero-and-infinity.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "1c237d625a2614b0ea4a25b15300a562fa23b3f4f61339032c8ec1e6ea1ab931",
+      "checks": {
+        "key": "dimensional-reframing-at-zero-and-infinity",
+        "candidate_sha256": "1c237d625a2614b0ea4a25b15300a562fa23b3f4f61339032c8ec1e6ea1ab931",
+        "hard_count": 0,
+        "review_count": 5,
+        "link_count": 12,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-LEGACY-SIX-OPERATIONS-REVIEW.json",
+        "receipt_sha256": "d38876d52227fd6f4e016dce75cdfa6305491cd399c7bbcd82b5d662959be55d",
+        "reader": "depth_recovery",
+        "source_boundaries": "Exact complete old/new and source/public units with external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "fusion-as-syns-shadow",
+      "native": "submission-package/essay/symbolon/episteme/concepts/fusion-as-syns-shadow.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/fusion-as-syns-shadow.md.txt",
+      "preimage_sha256": "c179a944d20efc884ca265f0fd3dd4e56bccc8c6bd8f871a17883256c521943f",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/fusion-as-syns-shadow.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/fusion-as-syns-shadow.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "e285b6d51e6547d7052c81085a2d0528ee1d478092765bfdc17148ffe6f60d76",
+      "checks": {
+        "key": "fusion-as-syns-shadow",
+        "candidate_sha256": "e285b6d51e6547d7052c81085a2d0528ee1d478092765bfdc17148ffe6f60d76",
+        "hard_count": 0,
+        "review_count": 5,
+        "link_count": 18,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-LEGACY-SIX-OPERATIONS-REVIEW.json",
+        "receipt_sha256": "d38876d52227fd6f4e016dce75cdfa6305491cd399c7bbcd82b5d662959be55d",
+        "reader": "depth_recovery",
+        "source_boundaries": "Exact complete old/new and source/public units with external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "register-grammar",
+      "native": "submission-package/essay/symbolon/episteme/concepts/register-grammar.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/register-grammar.md.txt",
+      "preimage_sha256": "a9c1d0117b997e01d9832ee78cabab6e63b63d1d0b4b176607c59b04474c1cd6",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/register-grammar.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/register-grammar.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "cb28476334500a87f81b9498d1063728a306ef47583dc8a38b0ec93a59d613b8",
+      "checks": {
+        "key": "register-grammar",
+        "candidate_sha256": "cb28476334500a87f81b9498d1063728a306ef47583dc8a38b0ec93a59d613b8",
+        "hard_count": 0,
+        "review_count": 3,
+        "link_count": 6,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-LEGACY-SIX-OPERATIONS-REVIEW.json",
+        "receipt_sha256": "d38876d52227fd6f4e016dce75cdfa6305491cd399c7bbcd82b5d662959be55d",
+        "reader": "depth_recovery",
+        "source_boundaries": "Exact complete old/new and source/public units with external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "world-picture-to-world-atlas",
+      "native": "submission-package/essay/symbolon/episteme/concepts/world-picture-to-world-atlas.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/world-picture-to-world-atlas.md.txt",
+      "preimage_sha256": "de05e443eaa080d8781e7ecf789af0ef9f2e41e370d665d23ed1b4b05435852a",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/world-picture-to-world-atlas.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/world-picture-to-world-atlas.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "300da2e8f7a898e18fbb6bef2bc937475cabe4b3e0669d62312551739b9a027f",
+      "checks": {
+        "key": "world-picture-to-world-atlas",
+        "candidate_sha256": "300da2e8f7a898e18fbb6bef2bc937475cabe4b3e0669d62312551739b9a027f",
+        "hard_count": 0,
+        "review_count": 2,
+        "link_count": 10,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-LEGACY-SIX-OPERATIONS-REVIEW.json",
+        "receipt_sha256": "d38876d52227fd6f4e016dce75cdfa6305491cd399c7bbcd82b5d662959be55d",
+        "reader": "depth_recovery",
+        "source_boundaries": "Exact complete old/new and source/public units with external/readiness exclusions in peer receipt"
+      }
+    },
+    {
+      "key": "psychoid-number",
+      "native": "submission-package/essay/symbolon/episteme/concepts/psychoid-number.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/preimages/psychoid-number.md.txt",
+      "preimage_sha256": "0a1c995cfb08251e735767a491e7d4bdf70a7b5c71de8ac258ee7c356e68d9b8",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/effects/psychoid-number.json",
+      "effects_depth": 4,
+      "effects_exit": 0,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/candidates/psychoid-number.md.txt",
+      "status": "Independent bounded complete source/public operation accepted; frozen non-live candidate awaiting parent inclusion and unchanged full gates",
+      "candidate_sha256": "15b4997c0413cc63447837cf954fcd66acfa974c8ed413e8dd7e16e1d006b101",
+      "checks": {
+        "key": "psychoid-number",
+        "candidate_sha256": "15b4997c0413cc63447837cf954fcd66acfa974c8ed413e8dd7e16e1d006b101",
+        "hard_count": 0,
+        "review_count": 1,
+        "link_count": 12,
+        "missing_links": [],
+        "metadata_exact": false,
+        "original_headings_missing": [],
+        "curly_quoted_strings_missing": [],
+        "display_equations_exact": true,
+        "original_resolved_targets_lost": []
+      },
+      "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "independent_review": {
+        "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-LEGACY-SIX-OPERATIONS-REVIEW.json",
+        "receipt_sha256": "d38876d52227fd6f4e016dce75cdfa6305491cd399c7bbcd82b5d662959be55d",
+        "reader": "depth_recovery",
+        "source_boundaries": "Exact complete old/new and source/public units with external/readiness exclusions in peer receipt"
+      }
+    }
+  ],
+  "effects": "Native depth4 beforedraft,214 distinct complete returned bytes reopened; graph access not semantic closure",
+  "source_operation": "PRE-EDIT-RECOVERY.json",
+  "source_reading": "SOURCE-READINGS.json",
+  "source_bound_scope": "FINAL-SELF-REPLAY.json and individual qualification ledger43; all original quotations/displaymath/resolved targets retained with exact metadata/heading exceptions",
+  "connected_lexical_admission": {
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-candidate.md.txt",
+    "candidate_sha256": "e9454a4f2567c29966c418e3283ddd62e69df66e5d39fb0307d395d2120c2490",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-MONIER-SOURCE-REVIEW.json",
+    "scope": "Five selected official Cologne paraphrases; existing enumeration cards and readiness unchanged; native source admission must accompany relevant receiving inclusion."
+  },
+  "live_changes": false,
+  "native_tests_builders": "Parent-owned, unchanged; no heavy local jobs run by worker",
+  "frozen": "Ratified/protected raw/movement/manuscript/NOTES/HISTORY/tools/test/builders remain untouched"
+}

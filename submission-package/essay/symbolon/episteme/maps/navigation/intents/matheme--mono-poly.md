@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `mono-poly` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Binary Explication (four-file canonical-candidate set)](../../../sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [A12 — Mono/Poly — One / All, Whole / Many](../../../arguments/A12-Mono-Poly-One-All-Whole-Many.md) · *unnamed* → [A12 — Mono/Poly — One / All, Whole / Many](../../../arguments/A12-Mono-Poly-One-All-Whole-Many.md), [2 + 2² — Binary and Binary-of-Binary](../../../../matheme/ql/binary-and-binary-of-binary.md), [Poly — The Many Notations](../../../../matheme/mono-poly/poly.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md), [C50 — Dia / Syn](../../../concepts/C50-Dia-Syn.md), [Mono/Poly — One through the Many](../../../../mono-poly.md)
 
-**Reached from:** *defines* ← [Indra’s jewel net — the whole within each reflection](../../../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md) · *unnamed* ← [Mono/Poly — the field of notations](../../../../matheme/mono-poly/README.md), [Poly — The Many Notations](../../../../matheme/mono-poly/poly.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md)
+**Reached from:** *unnamed* ← [Mono/Poly — the field of notations](../../../../matheme/mono-poly/README.md), [Poly — The Many Notations](../../../../matheme/mono-poly/poly.md), [Translations — Correspondence with Its Proof Boundary](../../../../matheme/mono-poly/translations.md), [Indra’s jewel net — the whole within each reflection](../../../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md)
 
 ### [Mono/Poly — the field of notations](../../../../matheme/mono-poly/README.md)
 

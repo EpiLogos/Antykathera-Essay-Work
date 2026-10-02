@@ -13,7 +13,7 @@ source_relation: "Extracted internal quilting; native derivation and source-dist
 
 Naming the structure and inhabiting it are different operations. The Night pass of File 3 in the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) turns the Day's third-person IS toward first-person AM. Its source headings are `#0′` First Spanda, `#1′` Second Spanda, `#2′` Name, `#3′` Power, `#4′` Requilting, `#5′` Foundation Stone, and `5′→0′` Möbius Stitch.
 
-These primes are **Night-pass sequence addresses**. File 2 uses primes for **inverse-phase positions**. This page keeps the distinction throughout. The quilt's governing chain remains `0/1=4+2=5→0=0/1`; the complete process/music chain explicitly includes `1/0=4′+2′=5′→0′` before return.
+These primes are **Night-pass sequence addresses**. File 2 uses primes for **inverse-phase positions**. The two sequences retain these different offices throughout the traversal. The quilt's governing chain remains `0/1=4+2=5→0=0/1`; the complete process/music chain explicitly includes `1/0=4′+2′=5′→0′` before return.
 
 ## #1 — Genesis and base frame re-enter
 
@@ -42,7 +42,7 @@ File 3 calls the Name unit “T1/emanative” and Power “T0/reversionary,” w
 
 ## #3 — Requilt the achieved account
 
-Night `#4′` rereads intelligence through gathering, minding, knowing and seeing; rereads the real through nonbeing, possession, order, being, trust and unconcealment; and returns VALUE→SOLVE as the I-thought's reification/release circuit. Their grouping is an authorial construction. The candidate's compressed East/West genealogy and several bundled roots require their separate historical warrants; no geographical binary is inferred from the operations alone.
+Night `#4′` rereads intelligence through gathering, minding, knowing and seeing; rereads the real through nonbeing, possession, order, being, trust and unconcealment; and returns VALUE→SOLVE as the I-thought's reification/release circuit. Their grouping is an authorial construction. The compressed East/West genealogy and several bundled roots require their separate historical warrants; no geographical binary is inferred from the operations alone.
 
 A worked return starts with “my conclusion.” Measure, comparison, equation and production have made the conclusion determinate. Returning it discloses its source, excluded alternatives and affected context. SOLVE releases the claim that possession supplies its warrant. The conclusion can remain exact while its authority is traced through the field that produced it.
 
@@ -52,7 +52,7 @@ The source places Whiteheadian concrescence, dialectical mediation and solve/coa
 
 The [crossed-zero sequence](../ql/crossed-zero-re-entry.md) supplies the diagnostic: absolutise `Ø` and the apparent self occupies the experient's office; absolutise `X` and the articulated object-field claims self-standing; absolutise `Ø/X` and mediation is treated as the whole; objectify `0` and the unobjectifiable becomes another possessed term. Each isolates something real while suppressing its relation. The return restores the complete field rather than erasing the local operation.
 
-The proto-matheme lineage—tetraktys, letter operations, yantra/mantra, Maria's axiom, universal calculus and modern marks—raises the candidate's stated wager: notation can carry transformative knowing when it is traversed. Historical descent and particular traditions remain source-distinct; a shared operative vocation does not establish a single transmission chain.
+The proto-matheme lineage—tetraktys, letter operations, yantra/mantra, Maria's axiom, universal calculus and modern marks—carries the stated wager: notation can carry transformative knowing when it is traversed. Historical descent and particular traditions remain source-distinct; a shared operative vocation does not establish a single transmission chain.
 
 The Foundation Stone retains formal limit, topological circulation and performed recognition. [Gödel's theorem](../formal-neighbours/godel-incompleteness.md) supplies its exact formal case, not a universal proof that every one-register discourse is incomplete. The torus hole supplies a geometric image, not an undecidable sentence. What the native argument requires is that achieved determination remain answerable to a condition it cannot install as one more exhaustive term.
 
@@ -60,6 +60,6 @@ The Foundation Stone retains formal limit, topological circulation and performed
 
 Return to an actual act of noticing. There is an appearance, an awareness of it and the distinction through which each is legible. The circuit has made the operation available; it has not manufactured the subject by adding a theory to the contents. AM now carries the first-person enactment of the relation displayed as IS.
 
-The result is the opening `0/1` carrying the definition, process and quilt through which it has been recognised. A reader's transformation is the candidate's performative vocation; a projection cannot certify it on the reader's behalf. The distinction between named structure and lived recognition remains precisely what makes the return necessary.
+The result is the opening `0/1` carrying the definition, process and quilt through which it has been recognised. The reader performs this turn within an actual life: the account is encountered through attention, memory, speech and action, and its recognised relation can shape the next act. Its first-person enactment occurs in that encounter rather than being supplied by a completed description. The distinction between named structure and lived recognition remains precisely what makes the return necessary.
 
-This record returns-to [A36](../../episteme/arguments/A36-Advent-of-Integral-Zero.md), [self-identity](../../self-identity.md), and [recognition](recognition.md). The next movement is [music](../music/README.md): ratio given time, the achieved relation returned as an instrument that can actually be played.
+[Integral Zero](../../episteme/arguments/A36-Advent-of-Integral-Zero.md) retains the achieved determination within its condition; [self-identity](../../self-identity.md) keeps that identity answerable to its differentiation; [recognition](recognition.md) gathers the traversed relations so that another act can inherit them. The next movement is [music](../music/README.md): ratio given time, the achieved relation returned as an instrument that can actually be played.

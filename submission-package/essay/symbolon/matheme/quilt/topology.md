@@ -13,7 +13,7 @@ source_relation: "Extracted internal quilting; exact construction and source-dis
 
 Let integer pairs act on the real plane by translation: `(m,n)·(x,y)=(x+m,y+n)`. Declare two points equivalent when their difference lies in `ℤ²`. The quotient is the torus, `T²=ℝ²/ℤ²`, equivalently `S¹×S¹` through `(x,y)↦(e^{2πix},e^{2πiy})`.
 
-This is the exact input and operation beneath File 3's topological quilt in the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md). The [core spine, §VIII](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) makes quotient identification the slash's native topological carrier. [Hatcher's house](../../episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md) is the mathematical reference; quotation locators remain pending.
+This is the exact input and operation beneath File 3's topological quilt in the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md). The [native topological reading, §VIII](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) identifies points under a stated relation while retaining the cover through which their difference remains available. [Hatcher’s topological reference](../../episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md) remains paraphrase-level support for the selected construction; no uncollated passage is quoted here.
 
 ## #1 — Count the presentation and the quotient separately
 
@@ -31,7 +31,7 @@ The two generator classes `(1,0)` and `(0,1)` are independent and commute; `π�
 
 The hole, surface and circulation give the quilt's ground, manifestation and returning relation a topological body. Its harmonics, catuṣkoṭi and Borromean reading coordinate those aspects in the authorial register. A Borromean link is a separate three-component link construction; the mere presence of two torus generators does not establish it.
 
-A sphere has trivial fundamental group but is not topologically trivial in every respect. The torus's noncontractible loops supply the relevant contrast. They do not force an actual physical circulation or prove universal energy conservation. The Lacanian demand/desire comparison likewise has its own source task; the exact result here is independent winding with retained displacement.
+A sphere has trivial fundamental group but is not topologically trivial in every respect. The torus's noncontractible loops supply the relevant contrast. They do not force an actual physical circulation or prove universal energy conservation. The Lacanian demand/desire comparison relates an articulated demand to desire exceeding what it asks for; that psychoanalytic relation differs from a loop’s lifted displacement. Independent winding retains its exact topological result, while the proposed cross-reading remains answerable to the particular Lacanian passages.
 
 ## #4 — Give pitch its quotient
 
@@ -39,10 +39,10 @@ For positive frequency `f` relative to `f₀`, let `u=log₂(f/f₀)`. Octave eq
 
 In the twelve pitch classes, stepping by 2 partitions the field into `{0,2,4,6,8,10}` and `{1,3,5,7,9,11}`. These are two six-orbits of one cyclic action. They are not automatically the two independent generators of a product torus. [Music's substrates](../music/chromatic-substrates.md) makes the selected tonal construction explicit; its bimba/pratibimba reading remains native.
 
-The candidate's toric-code witness concerns global logical cycles under specified coding assumptions. Local errors can occur and accumulate into logical errors; “no local disturbance can reach” the information is not an unrestricted immunity theorem. That engineering witness requires its distinct evidence rather than being inferred from the quotient alone.
+The proposed toric-code witness concerns global logical cycles under specified coding assumptions. Local errors can occur and accumulate into logical errors; “no local disturbance can reach” the information is not an unrestricted immunity theorem. That engineering witness requires its distinct evidence rather than being inferred from the quotient alone.
 
 ## #5→0 — Enriched 0/1
 
 The result is return that preserves a path's class while renewing its surface address. The quilt's short chain remains `0/1=4+2=5→0=0/1`. The file's Night-pass primes are not the process file's inverse-phase coordinates.
 
-This record returns-to [A17](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) and [Movement29](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md). [Torus cover and winding](../topology/torus-cover-winding.md) gives the construction its technical office; [metaphysics](metaphysics.md) takes up the distinct question of its lived interiority.
+[Toroidal circulation](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) retains the lifted displacement through a renewed surface address. [Musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) carries octave quotient and retained height together while preserving their different operations. [Torus cover and winding](../topology/torus-cover-winding.md) gives the construction its technical office; [metaphysics](metaphysics.md) takes up the distinct question of its lived interiority.

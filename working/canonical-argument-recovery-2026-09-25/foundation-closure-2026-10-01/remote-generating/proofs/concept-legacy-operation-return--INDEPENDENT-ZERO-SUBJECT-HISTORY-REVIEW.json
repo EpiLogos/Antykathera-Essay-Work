@@ -1,0 +1,49 @@
+{
+  "reader": "concept_recovery",
+  "status": "Independent bounded complete source/public operation accepted",
+  "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-SUBJECT-HISTORY-candidate.md.txt",
+  "candidate_sha256": "2c7b94421eb943853564cee0ce0022675e840f778ffadbe07825a099963ba186",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-SUBJECT-HISTORY-before.md.txt",
+  "preimage_sha256": "d7661f9816b1055f2ec718a6fe49c19800f7fe7fc8130dc23bf6659913214cb3",
+  "actual_whole_reads": "Entire70-line old and final candidate each read untruncated; entireprotected69-lineHISTORY visible before unrelated source-ledger output clipping, not edited",
+  "fresh_source_reads": [
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "sha256": "f5008b29016ffcc5a3786c1cdcb83c9e2a884e81ab3804b42859bdd45b8d9940",
+      "scope": "Entire actual109-line authorial field untruncated"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+      "scope": "Entire current source house"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+      "scope": "Entire71-line current house, highlevelbibliographic scope, no primarypassage"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "scope": "Entire145-line currenthouse, §§746–757 admittedparaphrase, no fresh wholePDFclaim"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "scope": "Full actual returned paper/erasure longline81 and selectedearlierdevelopment lines21/26/90/99–102; earlier owncompleteprotectedNOTES basis retained, notfreshfullNOTESread"
+    }
+  ],
+  "prior_actual_source_basis": "Earlier completecore640/minute102/NeumannwholeandSOURCE/NOTES, fresh fullGebser109/QCT344 withreturnedq008–9 in legacyrepair, prior Colebrooke/Dutta/currentDivision/C52 acceptance source units. No newly inferred externalhistory/quotation from worker ledger names.",
+  "accepted_operations": [
+    "Twoadvents/mathematicalpermission versusintegral livingSymbol remain distinct",
+    "Zeroaddition/multiplication/denominator/differingformalpermissions, historicalkhaharacomparison versusSubject and restrictedregime versusfielddivision preserved",
+    "Gebserpositionedview/Heideggerworldpicture source-specificparaphrases, crossedØ/X/nativeprovisionalfields notattributedtoauthors",
+    "Freudbibliographic/highlevelplacement versusJungnumberedselectedpassages distinct, no1915invention ofunconsciouslife",
+    "Neumanncreation/hero/transformation divisions/captive-beforeOsiris andpaperwholemark+erasurerecognition retained; complete8+inverseparents/folds/180–360 contexts preserved",
+    "Sourcefault inreference needsproperconditionreturn; factualcorrection underfittingreference adequate; reasonedretention inheritednextact andstrongerchangedprocessing requireactualchange",
+    "Relativefunctionalinterpretingknower/means/known nestedcontainingperson/actualimmediatecondition retainedpositively"
+  ],
+  "findings": [],
+  "retention": {
+    "metadata_exact": true,
+    "original_curly_strings_missing": [],
+    "original_headings_retained": true
+  },
+  "limits": "No new Babylonian/Indian/psychoanalytic/consciousness universalchronology, primaryFreudpassage, Neumanncopiedquote, CW11eventproof, Sanskritcriticaledition, technicalruntime/clinical/phenomenaloutcome or movement/manuscript acceptance"
+}

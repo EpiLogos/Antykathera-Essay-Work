@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,4 +31,4 @@ Group: `language-literary-studies` · back to [Episteme · Source houses](episte
 
 **Implicates:** *unnamed* → [Encounter and Account — Historical Branches and Relational Returns](../../../etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md), [Encounter / Region / Name / Count / Countenance / Account](../../../etymologies/encounter-region-name-count/WHOLE-FIELD.md), [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#opening-and-integrity)
 
-**Reached from:** *sources* ← [Encounter and Account — Historical Branches and Relational Returns](../../../etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md), [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md) · *unnamed* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *derives* ← [Encounter and Account — Historical Branches and Relational Returns](../../../etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md) · *sources* ← [Encounter and Account — Historical Branches and Relational Returns](../../../etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md), [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md) · *unnamed* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `biblical-studies` · back to [Episteme · Source houses](episteme-source
 
 **Implicates:** *sources* → [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *qualifies* → [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD.md)
 
-**Reached from:** *historicises* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages](../../../sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md)
 
@@ -47,7 +47,7 @@ Group: `biblical-studies` · back to [Episteme · Source houses](episteme-source
 
 **Implicates:** *unnamed* → [The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above](../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life)
 
-**Reached from:** *sources* ← [The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above](../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above](../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md)
+**Reached from:** *sources* ← [The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above](../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [The Book of Job — KJV, eBible eng-kjv2006 digital witness (2026-08-19)](../../../sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md)
 

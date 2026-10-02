@@ -116,7 +116,7 @@ ANF notes 2678–2679 flag obscure/doubtful wording in I.2.5. Notes around I.12 
 
 The exact coverage row `T20-mytheme-valentinian-sophia-horos-achamoth`, copula lines 315–338 and Q27 line 762 authorize source-led recovery while keeping the **0/1→4+2 founding comparison Offered**. Sophia's solitary movement, the restored seam and collective fruit can be compared in the author's native register; this source does not derive that notation, vocabulary or universal founding claim. The presence of ancient arithmetic at I.15.1 neither proves that specific comparison nor warrants claiming that no ancient arithmetic analogue exists.
 
-Intended future consumer, not yet a materialized link or an assertion of consumption: `submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md`. The admitted row names A13 and A19 returns; this acquisition does not bind them. No consumer, whole body, census, queue, NOTES or projection was changed. The parent must bind the packet and run integration/projection checks when authorized. Source attribution and quotation readiness here do not alter any earned native claim status.
+The current [Valentinian Sophia–Horos–Achamoth whole](../../../../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) names this source identity and consumes the reported I.1–8 sequence within the Preface and I.1–21. It retains the upper Sophia, excluded Achamoth, two formations, hidden maternal agency, later Demiurge education and differentiated consummation, together with the distinct variant and polemical voices. Its A13 and A19 receiving links carry Taylor’s proposed cutting/gathering and resituated-authority comparisons; they are indirect returns through that whole, rather than direct source-house declarations by those arguments. The source attribution supports the received telling while the three particular interpretive comparisons retain their existing unratified standing.
 
 
 ## Acquisition witnesses
@@ -143,7 +143,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html`; raw SHA-256 `617d8da16c503d4e79a4f909e07be843e72167959f7b977cbfea42ed820245a7`; paragraph UTF-8 SHA-256 `04a98e6c7ba76687af7e820cff23cccd1bddc29b89cb33400040282d1f22e951`.
 - **Source relation:** Extracted.
 - **Use boundary:** Irenaeus claims commentaries and personal contact, especially Ptolemy's disciples, and announces refutation. Evidence of his reporting posture, not independent certification of every reported doctrine.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-00); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q002"></a>
@@ -158,7 +158,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`; raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `54e0e51ae6f664f891e21d4d0cef4252cae47cfc09c828abe581aa47e62cd8a6`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep aliases and paired generation; distinguish Bythus from the later Bythius. Native 0/1 notation is not in this account.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-01); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q003"></a>
@@ -173,7 +173,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`; raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `aa54f371e5f3b361304012b2803ee99e579943c404a8bc029a7af214e50a55e9`.
 - **Source relation:** Extracted.
 - **Use boundary:** Together with I.1.1 these enumerate fifteen pairs. Preserve both lines of generation and Sophia's terminal position in the Duodecad.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-01); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q004"></a>
@@ -188,7 +188,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`; raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `2c23ec89935e1724d0df31a30937725a05c33e0a31fb4885f10fc169ed02d89b`.
 - **Source relation:** Extracted.
 - **Use boundary:** Thirty belongs to this reported opening system; later productions and other teachers' counts require separate treatment.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-01); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q005"></a>
@@ -203,7 +203,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `aa242b83da86746926be50316b1c646997e6aec209b6fb87b7e4b4dbfab10d1a`.
 - **Source relation:** Extracted.
 - **Use boundary:** The distributed desire for knowledge precedes Sophia's distinctive movement; do not replace the sequence with an isolated fall motif.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-02); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q006"></a>
@@ -218,7 +218,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `699d40e67badc18b3105cc4398165ad5b62ee81eba6c1958268144d519c5862c`.
 - **Source relation:** Extracted.
 - **Use boundary:** Horos supports, restrains and returns Sophia to herself. Her passion is reported within a cosmological telling; the author's dia comparison remains Offered.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-02); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q007"></a>
@@ -233,7 +233,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `8ff1c5a643be6e409b884fff915931626ba360247e3c42e6f2d718cf6fcef544`.
 - **Source relation:** Extracted.
 - **Use boundary:** The text says others describe this differently. Preserve amorphous birth and repentance as a marked variant, not an unmarked addition to I.2.2.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-02); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q008"></a>
@@ -248,7 +248,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `160fc144ce0cada53e29f31aa53b8677f1bce7f07daf2fbbd946b71f892225b2`.
 - **Source relation:** Extracted.
 - **Use boundary:** Upper Sophia remains restored inside; enthymesis with passion is expelled. Horos/Stauros names here are not automatically distinct characters.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-02); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q009"></a>
@@ -263,7 +263,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `1e757d8873331acd1f5aa44adf7e5fac94a3997bf27f50665bbdedffe45c53da`.
 - **Source relation:** Extracted.
 - **Use boundary:** The earlier Christ teaches conjunction and incomprehensibility; do not collapse him into the subsequently collective Soter. ANF notes flag obscure wording.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-02); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q010"></a>
@@ -278,7 +278,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `8f8dad85dbf18bb536f84388aa8d6cc0566951a68cbbc19ec176f16cb1cef709`.
 - **Source relation:** Extracted.
 - **Use boundary:** All Aeons contribute to the common fruit in this account; Christ and Spirit concur. Later variants do not all give this origin.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-02); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q011"></a>
@@ -293,7 +293,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`; raw SHA-256 `62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6`; paragraph UTF-8 SHA-256 `08bcf16ad45e6734544a17beda430f731c8f380e7195c87272edcab8abcd92e6`.
 - **Source relation:** Extracted.
 - **Use boundary:** Retain Irenaeus's explicit distinction between the prior Christ and Soter; the summary supplies a check on retrospective conflation.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-03); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q012"></a>
@@ -308,7 +308,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`; raw SHA-256 `62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6`; paragraph UTF-8 SHA-256 `3de6d51ef6c9b923fee32e85e5376e883b5bbfe889cab5703e4fc1719694c3c0`.
 - **Source relation:** Extracted.
 - **Use boundary:** Two functions here; the two Horoi attributed to Valentinus in I.11.1 belong to a different report.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-03); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q013"></a>
@@ -323,7 +323,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `4fc899e3574e445c44ba3f44850e11dc71d56c40fc045e55f0bc3f50e47ef27c`.
 - **Source relation:** Extracted.
 - **Use boundary:** Substantial formation is initially distinguished from intelligence, yet the paragraph later says form along with intelligence. Preserve that textual tension and the second formation at I.4.5.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-04); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q014"></a>
@@ -338,7 +338,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `3f5bd25b60ac020019f6c04009d7f544cc22774c1e640dadb97d8940b6dceb52`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep this mapping beside I.5.4's mapping; neither licenses silently rewriting the other into four independent elemental passions.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-04); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q015"></a>
@@ -353,7 +353,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `fdeead33d8e2b2446044805749cb0e783cb2361d9106243f9efa8e3b771cb58e`.
 - **Source relation:** Extracted.
 - **Use boundary:** This is the refuter's invented sarcastic contribution, not a reported Valentinian cosmogenic operation.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-04); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q016"></a>
@@ -368,7 +368,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `205415992eb7c92e82de2aa23143ae13722c0a796761b50e674933e9bee8e381`.
 - **Source relation:** Extracted.
 - **Use boundary:** Intellectual formation, separation and consolidation of passions, and the sight of angels producing seed are distinct steps. Passions are not simply annihilated.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-04); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q017"></a>
@@ -383,7 +383,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `cdca1db5649f39d64348427d86c230a40ebb31311b22f30f3568be8fd262c4f6`.
 - **Source relation:** Extracted.
 - **Use boundary:** Material, psychic and spiritual kinds; Achamoth acts under Soter's instructions. Preserve mediation and image relations rather than making Demiurge the highest principle.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-05); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q018"></a>
@@ -398,7 +398,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `2fc8065528af7284b911b8577c5d62aa0005dfd0f2b180851e399519a0ac4cbe`.
 - **Source relation:** Extracted.
 - **Use boundary:** The mother's intermediate Ogdoad is not the primary eight Aeons; the psychic maker orders the cosmos.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-05); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q019"></a>
@@ -413,7 +413,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `21a9e6b5da90f0807335cc909e76e85a9498ca85e3e7adc4bd67f3ce3fc60b15`.
 - **Source relation:** Extracted.
 - **Use boundary:** Ignorance is reported here; I.7.4's later learning must survive with it.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-05); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q020"></a>
@@ -428,7 +428,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `04579a6ed6ab606a59035c2a923d5c59da0b16c5845c20199cd0fced05282317`.
 - **Source relation:** Extracted.
 - **Use boundary:** Earth/stupor, water/fear, air/grief; fire inheres in the three like ignorance. The native 4+2 comparison remains an Offered comparison.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-05); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q021"></a>
@@ -443,7 +443,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `cf782c39d533c257a1b02b03d5ee13bb492dc0f1d874495bc82887e48e8ec057`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep the narrated stages of human embodiment; do not collapse body, psychic animation and the hidden seed into a single undifferentiated substance.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-05); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q022"></a>
@@ -458,7 +458,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `df1041752bd8662bdd47f307e2b7f4ea2ad4273b9e321ae906e9b4e440d80d11`.
 - **Source relation:** Extracted.
 - **Use boundary:** Maternal seed enters without the Demiurge's knowledge and grows in embodied psychic conditions; preserve the whole anthropogenic route.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-05); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q023"></a>
@@ -473,7 +473,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html`; raw SHA-256 `3b0e7b127e7799509c4b94ea270f5a20eed50686fce4e133a409b1258501078a`; paragraph UTF-8 SHA-256 `b08d4201b8c7f628f144ae4035bc4abccfa939c96d88ac02633938f7acc95fde`.
 - **Source relation:** Extracted.
 - **Use boundary:** The spiritual needs formation; psychic choice differs from material destiny. Report this school account without accepting Irenaeus's ensuing moral allegations as neutral evidence.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-06); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q024"></a>
@@ -488,7 +488,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `5b2c15293d9b1edf9067e0ded3fc4018df16dfda04a60ac47cc7a2fe16186c92`.
 - **Source relation:** Extracted.
 - **Use boundary:** Achamoth/Soter union, angelic brides, intermediate psychic reward and matter's destruction differ. Do not claim universal material reintegration into the Pleroma.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-07); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q025"></a>
@@ -503,7 +503,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `c1a1c39394c5f3da60a11ee1f768b700841f1e87fe2aac25f4ca894404e1b136`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep the explicit some and the distinct psychic Christ, seed, body and Soter; this variant is not the sole Valentinian incarnation account.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-07); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q026"></a>
@@ -518,7 +518,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `b5cd0471bcbbc4ab523d5a0cdf6f59119ba4929d7f4a9c5c04df11fd1fe24817`.
 - **Source relation:** Extracted.
 - **Use boundary:** Mother, seed and Demiurge supply different prophetic origins in the reported account; preserve agency distinctions rather than attributing every utterance to one actor.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-07); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q027"></a>
@@ -533,7 +533,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `998fcd3a9b245a3c847e4581e795af5bd98a3cdd00e6f1fe6c1e58d48eaa7e48`.
 - **Source relation:** Extracted.
 - **Use boundary:** The ignorant maker receives the Saviour's disclosure, joins willingly and anticipates the intermediate reward; retain this restorative development.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-07); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q028"></a>
@@ -548,7 +548,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `0d20fbec80728ade354e40183eb7cc2df34c6df96b779e98d69af406557f32e9`.
 - **Source relation:** Extracted.
 - **Use boundary:** Spiritual, material and psychic distinctions recur; the psychic good/bad alternatives must not disappear into a single automatic salvation claim.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-07); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q029"></a>
@@ -563,7 +563,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`; raw SHA-256 `9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730`; paragraph UTF-8 SHA-256 `0eea3dc3b857fbb43b53484d254cecbdb58e917c09e0e7f6f17ca31bd25c5401`.
 - **Source relation:** Extracted.
 - **Use boundary:** Reported exegesis distinguishes Achamoth and upper Sophia and includes Demiurge's gratitude. These are the school's readings as transmitted by Irenaeus.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-08); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q030"></a>
@@ -578,7 +578,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`; raw SHA-256 `9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730`; paragraph UTF-8 SHA-256 `2ede498f16ffae7e84cf3c2d5044a6fc5af9dca04ae8821514befe30b099a95d`.
 - **Source relation:** Extracted.
 - **Use boundary:** Includes the closing attribution to Ptolemy and Irenaeus's corrections; distinguish the voices and retain edition notes on the Johannine wording.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-08); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q031"></a>
@@ -593,7 +593,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`; raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `94c66eba432ea638acecaa4f2b0e48b0fa0a89f55da910131f099c37a63a3c88`.
 - **Source relation:** Extracted.
 - **Use boundary:** Different generation and Christ sequences; treat attributed Valentinus as hostile reported testimony, not an autograph. Do not harmonize into I.1–8.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-11); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q032"></a>
@@ -608,7 +608,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`; raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `2af2844a3df48330f5d5ed3ed81652d90352f3aa400c41f29c3fe119c52ed901`.
 - **Source relation:** Extracted.
 - **Use boundary:** The fallen power derives from fruits rather than directly from the thirty in this variant.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-11); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q033"></a>
@@ -623,7 +623,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`; raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `5a8164f2a2a4c75b9407394d9fc935f505f0404d6645efb6b9965e20553ea54d`.
 - **Source relation:** Extracted.
 - **Use boundary:** Unpaired, masculine-feminine and consorted accounts differ; the opening Bythus/Sige arrangement is not universal.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-11); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q034"></a>
@@ -638,7 +638,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`; raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `db9e0c3087fbdf9fa3eefb6a2bdd844ad7e7b2e9885eff5816409c0ef4a8548a`.
 - **Source relation:** Extracted.
 - **Use boundary:** Two affections/consorts and their generation form a further reported account; keep this distinction even under a shared school name.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-12); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q035"></a>
@@ -653,7 +653,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`; raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `6ed61337172243244b8951fa7a31e4e1a08106a5669477cf032fed5ad89540f0`.
 - **Source relation:** Extracted.
 - **Use boundary:** Retain the source's sequence and ANF's corrupt-reading uncertainty; do not certify an uncertain teacher identification from the editorial heading.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-12); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q036"></a>
@@ -668,7 +668,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`; raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `0bad828c37444a8a0bdb922def3e7c8ac70cc16ca33b30481435b7efba71099f`.
 - **Source relation:** Extracted.
 - **Use boundary:** All Aeons, ten, twelve, Christ/Spirit or primordial Anthropos are competing accounts, not cumulative stages of one production.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-12); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q037"></a>
@@ -683,7 +683,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html`; raw SHA-256 `b845db976f1d3ddd84501d41f6a6922b74dd45771858f840a7870f46c5be9a69`; paragraph UTF-8 SHA-256 `f29e69c1e9183e815d3c63544acd20e9f7f7f7a75001933c3b5120230609cf38`.
 - **Source relation:** Extracted.
 - **Use boundary:** Four utterances and thirty letters belong to Marcus's reported alphabetic revelation; distinct from the opening syzygy narrative.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` declares this source and its complete selected context. This card remains surrounding Marcosian testimony, without a separately developed receiving operation or quotation in that body; it is not attributed to the upper Sophia/Horos narrative.
 - **Whole context:** [complete selected chapter](#telling-14); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q038"></a>
@@ -698,7 +698,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html`; raw SHA-256 `a3eb29ce8296076b00ccdca223fdda7a53c75fa7198699365e6c60231c4811de`; paragraph UTF-8 SHA-256 `c1096772ba85df69f6bcd7d187bc6083c5cb7c4b170f0dbfc307d3169c0d7eae`.
 - **Source relation:** Extracted.
 - **Use boundary:** The ancient report explicitly adds two and four to six, then quadruples six. This is Marcosian letter arithmetic; it does not establish Sophia/Horos as the native 0/1→4+2 founding derivation.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-15); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q039"></a>
@@ -713,7 +713,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`; raw SHA-256 `c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2`; paragraph UTF-8 SHA-256 `60a60cf7f7e6d2acfea4d0f89c9b9c0daff9a961d6a2a9e20180c412682eb3e4`.
 - **Source relation:** Extracted.
 - **Use boundary:** Elements image the Tetrad and qualities complete an Ogdoad, followed by cosmological numerical analogies. Distinguish this 4+4 from I.15.1's 2+4; do not certify the ancient astronomy.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-17); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q040"></a>
@@ -728,7 +728,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`; raw SHA-256 `c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2`; paragraph UTF-8 SHA-256 `559aaea8babd8baf616d5ba54a1f8ac10d52bbf388b20a2381ee4ba4de5837ce`.
 - **Source relation:** Extracted.
 - **Use boundary:** The Demiurge extends times and cycles to imitate higher infinitude, while his work remains perishable in the report.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` declares this source and its complete selected context. This card remains surrounding Marcosian testimony, without a separately developed receiving operation or quotation in that body; it is not attributed to the upper Sophia/Horos narrative.
 - **Whole context:** [complete selected chapter](#telling-17); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q041"></a>
@@ -743,7 +743,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`; raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `5fdb9ff62dd0084abcb56de172936be78828dc51cb9779e3f4271736d5cd48f2`.
 - **Source relation:** Extracted.
 - **Use boundary:** Some use a nuptial rite, others water and different formulas or balm. Neither a universal rite nor independent confirmation of every practice.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-21); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q042"></a>
@@ -758,7 +758,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`; raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `042243b9ac98f7c9b4a2991919face76f6d95adf8035038d94b2f4a68476703c`.
 - **Source relation:** Extracted.
 - **Use boundary:** Some reject material enactments and make knowledge dissolve ignorance and defect. Preserve disagreement with the preceding rites.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-21); associated ANF editorial notes follow that chapter.
 
 <a id="irenaeus-1885-against-heresies-book-1-q043"></a>
@@ -773,7 +773,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`; raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `e1338b31ab3f7ffdda53c374cf883896d3abe871f030f7b67aa2d6d30ec76121`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep the ascent formulas and distinction of upper Sophia from Achamoth within a marked further variant. The attached final ANF transmission note is editorial, not part of the ritual.
-- **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
+- **Consumers:** The current source-led whole `mytheme-valentinian-sophia-horos-achamoth` receives this reported narrative or variant relation within its complete selected context, as stated above. This declaration concerns the paraphrased relation, not use of this complete paragraph as a quotation. Its A13/A19 routes are indirect returns; no direct argument source declaration is asserted here.
 - **Whole context:** [complete selected chapter](#telling-21); associated ANF editorial notes follow that chapter.
 
 <a id="complete-selected-text"></a>

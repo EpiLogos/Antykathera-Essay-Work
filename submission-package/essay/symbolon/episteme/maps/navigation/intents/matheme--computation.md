@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -37,7 +37,7 @@ Group: `computation` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Offered`
 
-**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) · *returns-to* → [§5 · #2 — AIKit — Potency](../../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) · *unnamed* → [§5 · #2 — AIKit — Potency](../../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
+**Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) · *unnamed* → [§5 · #2 — AIKit — Potency](../../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
 **Reached from:** *unnamed* ← [Computation](../../../../matheme/computation/README.md), [Energy-Based Inference and Revisable Encounter](../../../../matheme/computation/ebm-resonance.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
@@ -61,6 +61,6 @@ Group: `computation` · back to [Matheme — exact operations](matheme.md).
 
 `matheme` · `matheme` · `Derived`
 
-**Implicates:** *sources* → [PyTorch — Softmax and Argmax API (v2.9)](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *returns-to* → [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md) · *unnamed* → [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
+**Implicates:** *sources* → [PyTorch — Softmax and Argmax API (v2.9)](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) · *unnamed* → [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md), [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md), [Dia — The Cut](../../../../matheme/dia-syn/dia.md), [Syn — The Gathering](../../../../matheme/dia-syn/syn.md), [Operational Parity: Six Discriminating Tests](../../../../matheme/computation/operational-parity.md)
 
 **Reached from:** *unnamed* ← [Apoha](../../../concepts/apoha.md), [Concept Map](../../../concepts/index.md), [Computation](../../../../matheme/computation/README.md), [Preference Gauge and Reference Policy](../../../../matheme/computation/preference-gauge.md)

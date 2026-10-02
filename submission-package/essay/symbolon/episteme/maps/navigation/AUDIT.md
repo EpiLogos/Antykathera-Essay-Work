@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "a73de66fe0d6e440c60a905630f1391155b21cbe96f8e3fc56fc8cf3303a0ed3"
+source_digest: "edd0e07702a366914a7f37729501e2ede18d64b2fde37859968338264ad998ae"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -42,21 +42,21 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
-| Matheme — exact operations | 94 | 840 | 321 | 519 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 48 | 760 | 408 | 352 | 0 | 23 | 0 |
+| Matheme — exact operations | 94 | 838 | 229 | 609 | 0 | 13 | 0 |
+| Mytheme — whole lived images | 48 | 750 | 242 | 508 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
 | Episteme · Arguments A01–A36 | 37 | 1025 | 394 | 631 | 0 | 0 | 0 |
 | Episteme · Conjugate arguments A01′–A36′ | 38 | 534 | 82 | 452 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1398 | 330 | 1068 | 36 | 65 | 47 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1407 | 334 | 1073 | 36 | 65 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
-| Episteme · Etymology whole-fields | 25 | 612 | 350 | 262 | 0 | 6 | 0 |
-| Episteme · Histories | 21 | 664 | 426 | 238 | 0 | 3 | 0 |
-| Episteme · Source houses | 201 | 1083 | 167 | 916 | 0 | 79 | 0 |
-| Episteme · Dossiers | 8 | 201 | 154 | 47 | 0 | 1 | 0 |
+| Episteme · Etymology whole-fields | 25 | 595 | 164 | 431 | 0 | 6 | 0 |
+| Episteme · Histories | 21 | 655 | 368 | 287 | 0 | 3 | 0 |
+| Episteme · Source houses | 201 | 1128 | 166 | 962 | 0 | 76 | 0 |
+| Episteme · Dossiers | 8 | 201 | 135 | 66 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
-| Episteme · Maps and curated paths | 5 | 128 | 7 | 121 | 0 | 1 | 0 |
+| Episteme · Maps and curated paths | 5 | 129 | 7 | 122 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
-| Episteme · Aphorisms | 1 | 11 | 9 | 2 | 0 | 0 | 0 |
+| Episteme · Aphorisms | 1 | 9 | 0 | 9 | 0 | 0 | 0 |
 | Episteme · Figures | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
 | Episteme · Dialogues | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
 | Supporting quilt ledgers (non-canonical) | 6 | 108 | 19 | 89 | 0 | 3 | 0 |
@@ -79,9 +79,9 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | `working/sources-texts-references` | 129 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (16); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
 | `the-return-of-zero-central-plan.md` | 77 | `the-return-of-zero-central-plan.md` (77) |
 | `working/antykathera-resources` | 53 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (53) |
-| `working/final-argument-quilt-2026-08-23` | 35 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (5); `working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` (5) |
+| `working/final-argument-quilt-2026-08-23` | 33 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (5); `working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` (5) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
-| `working/pre-manuscript-refinement-2026-09-10` | 6 | `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (3); `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
+| `working/pre-manuscript-refinement-2026-09-10` | 7 | `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (4); `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (1) |
 | `working/p2-enrichment` | 5 | `working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md` (1); `working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md` (1); `working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md` (1) |
 | `submission-package/epi-logos` | 4 | `submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md` (2); `submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md` (2) |
 | `.wayfinder/maps` | 3 | `.wayfinder/maps/t20-t21-world-registers.md` (3) |
@@ -233,7 +233,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Return of Zero — Canonical Source Index](../../sources/SOURCE-INDEX.md)
 - [Author — Title (Year)](../../sources/SOURCE-TEMPLATE.md)
 - [Notes](../../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md)
-- [Saul A. Kripke — Naming and Necessity (1980)](../../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md)
 - [The Book of Job — KJV, eBible eng-kjv2006 digital witness (2026-08-19)](../../sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md)
 - [Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages](../../sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md)
 - [Brown–Driver–Briggs — Hebrew lexicon, SPR entries (Bible Hub)](../../sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md)
@@ -273,7 +272,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Pax Machina and the Body Without Organs](../../sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/SOURCE.md)
 - [Skenfrith, the Marches, and the History of Power](../../sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/SOURCE.md)
 - [Taylor — Personal Poetry Corpus (2026)](../../sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md)
-- [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md)
 - [ATILF — TLFi, regard](../../sources/language-literary-studies/atilf/atilf-tlfi-regard/SOURCE.md)
 - [Merriam-Webster.com Dictionary — selected E1 and E4 entries](../../sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md)
 - [Sheffer — A Set of Five Independent Postulates (1913)](../../sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md)
@@ -300,7 +298,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Notes](../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md)
 - [Marie-Louise von Franz — Number and Time](../../sources/psychology/von-franz/von-franz-1974-number-time/SOURCE.md)
 - [Notes](../../sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md)
-- [Gay Watson — The Resonance of Emptiness (1998)](../../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md)
 - [Al-Bukhārī — Ṣaḥīḥ, selected Names report](../../sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md)
 - [Augustine — City of God](../../sources/religion-theology/augustine/augustine-city-god-dods-digital/SOURCE.md)
 - [Qur’an — selected passages in the Quranic Arabic Corpus](../../sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md)
@@ -418,8 +415,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `- [Arguments A01–A36] (arguments/README.md) — the canonical semantic Argument identities`
-- **Episteme · Aphorisms:** `The result returns through [A03] (../arguments/A03-Immutable-Gap-Formal-Limit.md) to C04/C05, and through [A23] (../arguments/A23-Trust-Faith-and-the-Formal-Limit`
-- **Episteme · Aphorisms:** `The result returns through [A03] (../arguments/A03-Immutable-Gap-Formal-Limit.md) to C04/C05, and through [A23] (../arguments/A23-Trust-Faith-and-the-Formal-Limit`
+- **Episteme · Aphorisms:** `An [enlarged account] (../arguments/A03-Immutable-Gap-Formal-Limit.md) can include body, language, memory, method and institution previously left unexamined`
+- **Episteme · Aphorisms:** `The [operation-specific question] (../concepts/C04-Formal-Limit.md) concerns what these conditions permit and what their operation reproduces`
+- **Episteme · Aphorisms:** `The [gap relocates as inquiry succeeds] (../concepts/C05-Immutable-Gap.md)`
 - **Episteme · Arguments A01–A36:** `[Argument field] (README.md) · [Other face: A01′ — Faithful Definition of the Agent] (../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C ro`
 - **Episteme · Arguments A01–A36:** `[Argument field] (README.md) · [Other face: A01′ — Faithful Definition of the Agent] (../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C ro`
 - **Episteme · Arguments A01–A36:** `[Argument field] (README.md) · [Other face: A01′ — Faithful Definition of the Agent] (../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C ro`

@@ -1,0 +1,131 @@
+{
+  "reader": "concept_recovery",
+  "status": "Independently accepted bounded complete source/public operation",
+  "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-candidate.md.txt",
+  "candidate_sha256": "b4551b477f4f8f03beab778601744eb5daa71ddf1eb961cca4ee473f2a24b969",
+  "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-before.md.txt",
+  "preimage_sha256": "0ce5ecbdc362909d1a09d67c3cd73563769ffc44d5b3e64165af2a929abe8926",
+  "whole_carrier_reads": "Entire335-line preimage and272-line candidate personally read in two contiguous halves each, no clipped output",
+  "sources": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/pseudo-apollodorus/pseudo-apollodorus-library-frazer/SOURCE.md",
+      "sha256": "0f6b60cb507d195fb047ff9013dee4acdcaf50f2f4f01af18e31a15cf7298742",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/hyginus/hyginus-fabulae-macfarlane-digital/SOURCE.md",
+      "sha256": "14238666ee91a8478edd8551eaaf3d7767be39dc7d61491710342c6da1919fa0",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/augustine/augustine-city-god-dods-digital/SOURCE.md",
+      "sha256": "b959717e69aa508117024e90d9ad88f72b5bbb1ec7fe5f0622686083d5934b16",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-west-pediment-poseidon/SOURCE.md",
+      "sha256": "a9969c067b7cb34d107f88f8033d261a07e65b151bad41ee03a709eab7c43385",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-erechtheion/SOURCE.md",
+      "sha256": "b98e9e0403dd5e220558a33bd432782c92e047a07eb78f81756d367e6d110c6d",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/herodotus/herodotus-histories-macaulay/SOURCE.md",
+      "sha256": "659275bea3ab63e8f0fe3c185e1979358056d053ab3107f05948b6de64cf77dc",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/pausanias/pausanias-description-greece-jones-1918/SOURCE.md",
+      "sha256": "8c03afd2443a63a2aa6d1b5ba1fbdcbbfb1688f33da9d9518343990812331c01",
+      "actual_read": "Fresh entire source house in two grouped displays, no clipping"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-pseudo-apollodorus-library-frazer.txt",
+      "sha256": "7d0ae161c68d290a48fdb7cd09e1ff7dd9cbf8ac7d496f506a68223787214888",
+      "actual_read": "Entire selected lines [759, 769]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-hyginus-fabulae-macfarlane-digital.txt",
+      "sha256": "8f945df45495af90ff9b6f85ea5db0203fca564fca58fadd83f2eed5641d1a1e",
+      "actual_read": "Entire selected lines [12, 12]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-hyginus-latin-164.txt",
+      "sha256": "220f7df6f5d2d17f9151bd61a1b771204ba3fbfab29d837858439d3d86415a4e",
+      "actual_read": "Entire selected lines [20, 22]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-augustine-city-god-dods-digital.txt",
+      "sha256": "c05779106a94993c9aced55f8ee7101f77462930eaa1d710fce41580660d3bba",
+      "actual_read": "Entire selected lines [13, 19]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-herodotus-histories-macaulay.txt",
+      "sha256": "3d1a792d9a48bcc31cdd0ec8c94bff91eb0826cae16536e74e83ab83e9c4b450",
+      "actual_read": "Entire selected lines [1, 6]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-acropolis-museum-erechtheion.txt",
+      "sha256": "22e2b288bf11c4525d11e495515e7678472e8e54b776a455104b38ce479e3c30",
+      "actual_read": "Entire selected lines [17, 19]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-acropolis-museum-west-pediment-poseidon.txt",
+      "sha256": "656536e12015acebc9df58116f62c888b31d3f1df4b02173c30ac3d559487e0a",
+      "actual_read": "Entire selected lines [19, 41]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/source-readings/ATTICA-pausanias-description-greece-jones-1918.txt",
+      "sha256": "63e58cf0bcc1f8a0f4dec8adc667356ed18b5be4d57d9a81ccf73df3b77d6844",
+      "actual_read": "Entire selected lines [1366, 1390] plus [1402, 1407]",
+      "limit": "Selected witness only; no fresh whole external work or critical edition/page-image acceptance"
+    }
+  ],
+  "authorial_actual_reentry": [
+    {
+      "path": "working/final-argument-quilt-2026-08-23/NATIVE-020-DEEP-SEAM-RECONCILIATION.md",
+      "complete_lines": [
+        17,
+        79
+      ]
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md",
+      "complete_lines": [
+        251,
+        280
+      ]
+    }
+  ],
+  "prior_basis": "Actual complete core640/latestminute102/MonoPoly/Dynamics/Neumann/Uroboros/Maya and whole E2 protectedHISTORY plus A24 old/current accepted candidate source comparison retained in earlier own bounded receipts; not newly claiming every whole source book",
+  "operation_acceptance": [
+    "Cecrops earthborn serpent-human and priorActe/Cecropia; Poseidonfirst/tridentsea; Athenawitnessolive; twelvejudges/witnessdistinct; naming/flood complete",
+    "HyginusJupiter+preventedflood/Mercury and Augustineonevotemajority/threepunishments/Varroattribution/theologicalpolemic remain separate",
+    "Monumentreconstruction/localherojudges distinctliterarytribunal; laterculticmemory distinctmythaction; Herodotus/Pausaniasregrowthtimingheight/report and lampoilsource remain distinct",
+    "Five established sea-depth/civic/torus/olive/verdict relations perform without approval/status wrappers; five further comparisons explicitlyproposed and not silentlypromoted",
+    "Fullnative8/folds remain different operations rather than assignedgodslots; formal torus does notbecomewetwell",
+    "Sourcechallenge cancorrectattribution/model, exposecriterion/permissionfailure or retainfittingjudgmentwithreasons inheritednextact; relativeinterpretingknower/means/known nestedperson"
+  ],
+  "findings": [],
+  "retention": {
+    "metadata_exact": true,
+    "original_curly_quoted_strings_missing": [
+      "“what does Poseidon mean?”",
+      "“integration of opposites.”",
+      "“complexio oppositorum”"
+    ],
+    "original_blockquotes_missing": [],
+    "curly_string_exceptions": "Three rhetorical/scare-quoted authorial formulations removed or rephrased, not direct ancient-source quotations; actual psychic relation/comparison/proposal retained. No source quotation loss found; all four substantive blockquotes exact."
+  },
+  "not_accepted": "No new human amplification, whole external book/critical Greek Latin/print quotation, historical transmission, constitutional history, clinical/runtime/phenomenal result, or movement/manuscript closure"
+}

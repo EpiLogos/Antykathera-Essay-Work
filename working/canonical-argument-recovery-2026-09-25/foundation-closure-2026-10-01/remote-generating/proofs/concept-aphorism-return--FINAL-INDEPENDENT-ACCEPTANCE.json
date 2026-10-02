@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-02",
+  "disposition": "INDEPENDENT WHOLE SOURCE/PUBLIC ACCEPTED; FROZEN NON-LIVE",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/candidates/investigation-and-faith.md.txt",
+  "candidate_sha256": "af404ecc51417bf3055bc2551782d5543de6c6b2f0aca37815d7fc8d17618f22",
+  "native": "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+  "native_preimage_sha256": "3fe65c872193db2d5cd72e646804a4d3b08a37b0aac05aa81c89edf5b57c2958",
+  "native_still_preimage": true,
+  "peer_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/INDEPENDENT-APHORISM-REVIEW.json",
+  "peer_receipt_sha256": "60afe0528984f0143a5f8d004126ae076c1e49e58299686e8df82d9ae8c5ad52",
+  "whole_read_scope": "Owner whole69-line preimage and71-line final; independent reviewer whole69-line preimage and71-line final, complete Native027 and architecture, distinct direct/source/prior scopes in exact peer receipt.",
+  "complete_four_lines_byte_exact": true,
+  "retained_receipt_correction": "Peer original count-before-return receipt retained; only69-old/71-final count wording corrected, no candidate or acceptance change.",
+  "checks": {
+    "candidate_sha256": "af404ecc51417bf3055bc2551782d5543de6c6b2f0aca37815d7fc8d17618f22",
+    "hard_count": 0,
+    "review_count": 5,
+    "reader_link_count": 14,
+    "missing_links": [],
+    "frontmatter_exact": true,
+    "original_headings_missing": [],
+    "curly_quoted_strings_missing": [],
+    "display_math_exact": true,
+    "original_resolved_targets_lost": [],
+    "native_unchanged": true,
+    "complete_ratified_form_exact": true
+  },
+  "publication_claim": false,
+  "bounds": "No new aphorism, external book/quotation/history, formal universal identity, clinical/runtime, movement/manuscript or all190-consumer acceptance."
+}
