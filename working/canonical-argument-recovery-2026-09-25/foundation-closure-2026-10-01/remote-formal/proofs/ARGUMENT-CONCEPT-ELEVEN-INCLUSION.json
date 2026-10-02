@@ -1,0 +1,128 @@
+{
+  "base_main": "01dcff08cfa52febd072f9a0fe1470dabdccda7e",
+  "status": "Eleven exact independently reviewed complete source operations included locally; native remote validation pending",
+  "records": [
+    {
+      "key": "A04p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A04-prime-The-Mask-as-Document.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A04-prime-The-Mask-as-Document.md.txt",
+      "preimage_sha256": "7cbf4b81dc8917299059b291a67972479ff7d80bcd1b2dae4faa35b0b2446fb6",
+      "postimage_sha256": "2e691046785c533e69fa15a45cafd09b986bcb423b7205c7a3dd89ede1e13109",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-map-response-return/INDEPENDENT-A04-A16-PRIME-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 3
+    },
+    {
+      "key": "A16p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A16-prime-No-View-from-Nowhere.md.txt",
+      "preimage_sha256": "1ff3bbf9267e9245f04916f3d08dd2f6e443ded6e2e986edc7a9a868d8ebe5c7",
+      "postimage_sha256": "7ca356253de465b513f69d89995dc9e4f401d71b246a7a0ec3521254927687c3",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-map-response-return/INDEPENDENT-A04-A16-PRIME-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 6
+    },
+    {
+      "key": "A19p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A19-prime-The-Local-Regime.md.txt",
+      "preimage_sha256": "59019edd53bdc9f158f2cfe985d5c9ae1f6249bc21348915620ab0251e8f7cdb",
+      "postimage_sha256": "fc46b9d4461ddebf889dbc3b776b083fef7e6e887ac17d2336c735c33a4f1f67",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-TECHNICAL-PRIMES-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 5
+    },
+    {
+      "key": "A20p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A20-prime-The-Image-That-Closes-the-Loop.md.txt",
+      "preimage_sha256": "9634ddfcff0b41896cd51c72fa7830a97d13773dc63f72e64739260719090e35",
+      "postimage_sha256": "ba4baa975928de802329f82aeb334260871437c9e6bf55d8efb7e24fc82dda84",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-TECHNICAL-PRIMES-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 4
+    },
+    {
+      "key": "A21p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A21-prime-Individuation-with-Recognition.md.txt",
+      "preimage_sha256": "bb6cc8de1fbdc89eb89abd9b4d1c91d55fd55ec7fe6e1a507e164a2884a72997",
+      "postimage_sha256": "fbea0f8fd0bfad86d777861afb0c0991004901dbb466e91d439d52cb9b8a015c",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-TECHNICAL-PRIMES-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 8
+    },
+    {
+      "key": "A22p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A22-prime-The-Atlas-Not-the-Camera.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A22-prime-The-Atlas-Not-the-Camera.md.txt",
+      "preimage_sha256": "6dc6eb8f77f876932ccebebb878ea3bdfb662af4343d31d43898f9d90e934f60",
+      "postimage_sha256": "a25c35d813a078dd6c92412ccfb6c9c328e6bfe3a4e63d307469dec571ee7728",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-TECHNICAL-PRIMES-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 4
+    },
+    {
+      "key": "A24p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-world-return/candidates/A24-prime-The-Usurping-Criterion.md.txt",
+      "preimage_sha256": "30d46f51d9791d835ba2817f5c5bfa6da6f5aee0a3379da309af8c8af2babc16",
+      "postimage_sha256": "36f8a00cafdde95cf53c734cb1b5e523ae144681cb82a353e98dd24a506c08f8",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-TECHNICAL-PRIMES-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 5
+    },
+    {
+      "key": "C18",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C18-Apoha.md.txt",
+      "preimage_sha256": "c7923ca8d5c196e0016dcdb6f597e560d9c7e7c09e7a0958101284ab05c500cc",
+      "postimage_sha256": "0c4c11b64c9607e2863125b24efc82078a6159d862b93f47170fdf88f577e904",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-EXCLUSION-FOUR-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 5
+    },
+    {
+      "key": "C19",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C19-Pratyabhijna-Recognition.md.txt",
+      "preimage_sha256": "2597e4c29a6ead2d1b388a568bcc1746addd466473156c8ed189c4533b29fe77",
+      "postimage_sha256": "3630bceca9f086cbda0f5574fc2d91ce885930d0e5e2b2c8b6cf70018e79ce7f",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-EXCLUSION-FOUR-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 4
+    },
+    {
+      "key": "C22",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C22-Counterfeit-Symbolon.md.txt",
+      "preimage_sha256": "2a460b278d7d9a16340f897b85d2974cf512e58dc4ff1588e0f43eddf99dd4ab",
+      "postimage_sha256": "59fbb1ec6a8ef5c178f637127879ec4e6fe3876ad43ab09f75a96debc8f1e2b9",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-EXCLUSION-FOUR-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 5
+    },
+    {
+      "key": "C23",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C23-Severance.md.txt",
+      "preimage_sha256": "808f3958f452f8738d688bbd016b6fddc5971d4a09ea399e0f6939b805f6ff4c",
+      "postimage_sha256": "f5a48613de0b8b130a2ea59cfd32acf21b2101b250a756cdeb8a2216624f3cd2",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-EXCLUSION-FOUR-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 3
+    }
+  ],
+  "scope": "Seven technical primes and four concepts; native A20/A21/A22/A33 repairs remain separately in progress; no source-readiness promotion or deferred bodies edit"
+}
