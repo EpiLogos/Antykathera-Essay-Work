@@ -1,0 +1,165 @@
+{
+  "reviewer": "concept_recovery",
+  "role": "Independent whole old/new/source/public cold; no writer role in SubjectLogics",
+  "observed_main": "8d8b9b429bdc8f8bb6140e1e4dd4c8884a932045",
+  "native": "submission-package/essay/symbolon/subject-logics.md",
+  "native_sha256": "d2b1d2ea617ae5b94b9a811adb4ef9cab2b80a807889e97db94a6e84e4945769",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/preimages/SUBJECT-LOGICS.md.txt",
+  "preimage_sha256": "d2b1d2ea617ae5b94b9a811adb4ef9cab2b80a807889e97db94a6e84e4945769",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/candidates/SUBJECT-LOGICS.md.txt",
+  "candidate_sha256": "724c6cee9da213b5405a95db0b683eae50fd7a51022baaa610b9a8ed4f00151b",
+  "owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/CANDIDATES.json",
+  "owner_manifest_sha256": "30053a3f7017ad0286e425383b2fd540d4df397bcbdb8bd88b8950ad56337e9f",
+  "disposition": "Accept exact complete native source/public operation within actual source bounds; no exact lost step, stronger false entailment or remaining semantic page/schema/status actor found. Native remains original preimage.",
+  "actual_independent_reads": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/preimages/SUBJECT-LOGICS.md.txt",
+      "sha256": "d2b1d2ea617ae5b94b9a811adb4ef9cab2b80a807889e97db94a6e84e4945769",
+      "lines": 71,
+      "actual_independent_read_scope": "Fresh entire71-line immutable original read independently, untruncated."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/candidates/SUBJECT-LOGICS.md.txt",
+      "sha256": "724c6cee9da213b5405a95db0b683eae50fd7a51022baaa610b9a8ed4f00151b",
+      "lines": 71,
+      "actual_independent_read_scope": "Fresh entire71-line final read independently, untruncated; all11 changed paragraphs compared with whole original and actual sources."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/methods/source-grounding.md",
+      "sha256": "74f9c7bd9757b5f94e31bb504ad64bc99b5d8574bc5c7c5f59bfaff78dac0e56",
+      "lines": 46,
+      "actual_independent_read_scope": "Fresh entire46-line protected source. Parent/source and generated positions remain distinct; no mutation or whole cross-tradition proof claimed."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/self-identity.md",
+      "sha256": "6b14cc0da372d492ecd072b268b73dec203225ae4892e615e8df19ec353f40d0",
+      "lines": 223,
+      "actual_independent_read_scope": "Fresh entire223-line protected source. Initial grouped source output clipped38–112; complete38–118 separately reopened, completing every missing unit."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "lines": 640,
+      "actual_independent_read_scope": "Fresh entire337–437 performed/counting/psyche units and entire464–511 crossed-zero/ordinal/thread unit. Earlier own complete640-line core retained at exact same hash; not fresh whole claim in this review."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f",
+      "lines": 499,
+      "actual_independent_read_scope": "Fresh complete1–112 source unit: ordinary seeing/unobjectifiable presentact/charitable cogito/baremark/source distinction/Lacan local fastening. Initial long output clipped43–71; complete43–72 reopened. No new fresh499-line whole or external historical source acceptance."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "lines": 102,
+      "actual_independent_read_scope": "Fresh entire102-line governing authorial minute; complete knowing offices/whole Life and distinct recognition/eight/signed/sixfold source obligation retained."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "36674d38fa438a2aad1aa40290d0ef0848cc193ec0fc16aaeeb2452b6fd36b6c",
+      "lines": 84,
+      "actual_independent_read_scope": "Fresh entire84-line actual current argument; full strength ontological order and real mediation distinct from private-ego manufacture and chronology."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "sha256": "7f5ef2bc2793f81f5ef89b4276e280d25e911157456ff22599b31553097885c9",
+      "lines": 73,
+      "actual_independent_read_scope": "Fresh entire73-line actual current included final; fact/contents, full eight, other person, positive local triad and present inspection condition retained."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "lines": 65,
+      "actual_independent_read_scope": "Fresh entire65-line actual current included final; relative route-planner/means/known nested in person Life and proper correction or fitting retention retain actual offices."
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md",
+      "sha256": "4042f553cceb0627012ae4cf4c9e1bd08558d49fd4660203172871873f8079c7",
+      "lines": 61,
+      "actual_independent_read_scope": "Fresh entire61-line protected receiving movement read only for the first occlusion/retained stroke and its explicit unperformed later-recognition boundary. Initial grouped output clipped first portion; whole61 separately reopened. No movement-body edit or all-movement acceptance."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "sha256": "6e688c9a8509144d272f895c9447aefa9a80517cc8659ced2bf47aeaae20b804",
+      "lines": 149,
+      "actual_independent_read_scope": "Fresh entire149-line source house; q001–q003 locators unextracted and selected edition not consulted. Taylor’s own diagnosis is not Descartes/Hume intent nor freshly verified quotation."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/SOURCE-READINGS.json",
+      "sha256": "e759379ddef42cc4fb929a32402e9c0bbd9ae3653f71da1f64216adea97a5318",
+      "lines": 103,
+      "actual_independent_read_scope": "Entire worker source/consumer ledger read; its whole640/499 and nine-consumer evidence retained as worker evidence, not claimed as reviewer fresh readings."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "083228bd9cbb03634ec350c88ef4da47400edc5fe39bab98a7b380624e84583b",
+      "lines": 212,
+      "actual_independent_read_scope": "All10 SubjectLogics individual three-question reasons independently compared with already full-read paragraphs. Initial full rows clipped one duplicate paragraph; compact complete stronger-proposition/feature/necessary-information rows reopened for all10, no unresolved missing reason."
+    }
+  ],
+  "prior_actual_version_bound_basis": [
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "sha256": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "lines": 105,
+      "actual_independent_read_scope": "Earlier own complete governing correction retained at exact version from adjacent A09 cold."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "sha256": "1adca4e275dfc11a86fdfb5c0b18703b10adfc40e395d83361c453fab24e152a",
+      "lines": 246,
+      "actual_independent_read_scope": "Prior own complete current argument/ethical root comparison retained at exact1adca version; current hash checked. Not freshly entire246-line read or whole all-consumer acceptance in this review."
+    }
+  ],
+  "source_operations": [
+    {
+      "operation": "Presence and factual contents",
+      "acceptance": "A mistaken self-description is real as occurrence without becoming true in content. Defined indefinability distinguishes appearing condition from its represented predicates, not an unmeasured missing function."
+    },
+    {
+      "operation": "Instrument, apparent owner and world",
+      "acceptance": "Antahkarana’s appropriation/attention/memory/judgment and selected world are two effects of the same mediation. The means is positively real; its inspection does not abolish it or promote a private ego into source of all reality."
+    },
+    {
+      "operation": "Complete recognition sequence",
+      "acceptance": "0→Ø→X→Ø/X→(0/Ø)/(1/X)→1 with0/1return retains every operation. The initially bracketed0 and manifest0/1 remain distinct; full six-unit traversal occurs within complete eight-field, without collapsing them into equal sequences. Recognised1 retains source-dependent determinate meaning."
+    },
+    {
+      "operation": "Thread, bar and local fastening",
+      "acceptance": "Taylor’s synthesis gives local S1/button a meaning-fastening office and anusyuta/thread a pre-quilting continuity office. The latter is not attributed to Lacan; source synthesis is not newly verified Lacanian doctrine or historical genealogy."
+    },
+    {
+      "operation": "Exact ordinal neighbour",
+      "acceptance": "0=emptyset,1={emptyset},2={0,1} keep singleton nonempty and sets as mathematical objects. Linking unity is a formal neighbour, not proof that the unobjectifiable present condition is a set."
+    },
+    {
+      "operation": "Crossed stroke and return",
+      "acceptance": "Stroke remains while its fused singular-self appearance becomes recognisable as mediation; erasing stroke would lose the source’s positive instrument. The first protected movement’s actual limited office and later traversal remain distinct."
+    },
+    {
+      "operation": "Relative local knowing and containing inquiry",
+      "acceptance": "Local judging centre is functional knower, memory/model/rules/tools/context its means and addressed alternatives its known. Entire apparatus is means in containing person’s inquiry. Further act can inspect centre as known without objectifying the first-person condition of that inspection."
+    },
+    {
+      "operation": "Warranted inherited judgment",
+      "acceptance": "Encounter can correct answer/task/model under a fitting criterion or expose faulty source/rule/permission/commission for revision. Reasoned fitting retention and next-act inheritance remain real; another person can change the approaching account. No universal criterion rewrite or automatic organisation change added."
+    }
+  ],
+  "retention": {
+    "frontmatter_exact": true,
+    "all_original_headings_exact": true,
+    "display_math_exact": true,
+    "all20_inline_code_occurrences_exact": true,
+    "all9_original_reader_targets_exact": true,
+    "independent_native_context_link_resolution": "All9 target paths resolve from canonical root directory, zero missing. No whole-browser/runtime verification."
+  },
+  "qualification": "All10 existing detector-review flags individually source-compared; owner0hard is a check, not the source/semantic warrant.",
+  "remaining_required_native_faults_in_reviewed_whole": [],
+  "limits": [
+    "Descartes selected edition/AT-CSM wording remains unextracted; cogito/Hume placements and Lacanian-thread comparison are Taylor’s own diagnosis/synthesis.",
+    "No external book/print/linguistic/clinical/source-quotation readiness or runtime/implementation/experiential certificate added.",
+    "Worker181 impact bytes/nine consumer bodies are recorded worker coverage, not independent all-consumer semantic acceptance by this receipt.",
+    "Read-only protected movement retains its limited source office; all48 movement bodies/manuscript remain deferred.",
+    "Parent publication68 preserved; root candidate remains non-live and returned separately."
+  ]
+}

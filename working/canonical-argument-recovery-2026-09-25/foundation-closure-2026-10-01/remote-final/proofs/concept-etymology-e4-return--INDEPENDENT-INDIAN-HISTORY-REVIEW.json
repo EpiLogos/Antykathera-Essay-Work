@@ -1,0 +1,207 @@
+{
+  "reader": "concept_recovery",
+  "kind": "Independent complete old/new/source/public cold",
+  "observed_main": "fec057ae84cbebed9bd270271ae8798db6e5e879",
+  "native": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md",
+  "native_sha256": "b6f41e0e27eccba6c6541a08d545e63ac9685f6408986749d8bc7f8eb0c9d7e0",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/preimages/INDIAN-HISTORY.md.txt",
+  "preimage_sha256": "b6f41e0e27eccba6c6541a08d545e63ac9685f6408986749d8bc7f8eb0c9d7e0",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/candidates/INDIAN-HISTORY.md.txt",
+  "candidate_sha256": "398686a745e9a154d77104b5bae60c43765d874239a19e7717cbe3317aa6dbfd",
+  "writer_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/CANDIDATES.json",
+  "writer_manifest_sha256": "d922967770f5fae93552b79362a0624b6b1b2efe401229ef5f7d2ac20b438c23",
+  "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/effects/INDIAN-HISTORY.json",
+  "effects_sha256": "c6e0bc256ef9b0464cda65bc1ba1d8855c2f8fb68f165906e254b50944fea527",
+  "depth": 4,
+  "disposition": "Accepted exact bounded complete Indian historical operation. No exact lost step, stronger false entailment or remaining semantic public record/page/status/schema actor found at the recovered joins. Native remains immutable preimage; not included by this review.",
+  "actual_independent_reads": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY.md",
+      "sha256": "fcb1f4bdc80776223e3f64e84d2ca11690ce458d03e5f509e8f18d8d7c80fd19",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+      "sha256": "69533d66d630b25ff5abde2497ae93e0692d24fff4701687fbcad31670439ad9",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE.md",
+      "sha256": "78662a50c5c1d1bf70295896c9cb71f5a651c19cc04f4b850e2462c191ffd787",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/das/das-2022-sriharsa-sep/SOURCE.md",
+      "sha256": "bfa2f2b25a787b50244564c1f81e78901dcee33ec12a4aab77413642e2c0fd17",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "sha256": "9407e0a4ade65f9ae6bf1b93c441706165ba4b9ff66f6f4e98f9d0a2ac89c404",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "sha256": "0504f7b4ecf666321a4a375557f28489e1cc2cec7b454f870cc2ddf016781aa4",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "sha256": "46abb8e19972a9a6908ced80849ca73cade65ae0960c48315044b2e140ce4a1b",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "sha256": "d37be7005db8c8df09e3aba386d32237c941ec88dd70238a2de138eb3a059765",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "sha256": "ce437a1122795f5ac81a3854435f7ac03f8289c4352297e7246c80bf5508a448",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "sha256": "68b5d2ba37a006764f3d06676afa906d22a1eede3ad296b7e99643187fd7052a",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "sha256": "1a21cc5c1522d305105184beee9b2df3b88d859bbfbb200fedc135f34e5fe887",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md",
+      "sha256": "4f519645a7c01287ec96b2d8bc5b19cf1e0c5dbb65e7bc8a1f862aadaf922e4a",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "sha256": "b5e33d856ea7af9765c410c644730893e27495055b8a489b3948d384177f1dae",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md",
+      "sha256": "d693ebac89d98df7b0bbeefdba070138d8e2b96a0359697b6da06aeea0a3fca0",
+      "actual_read_scope": "Fresh complete current house/protected history read independently, all selected cards and standing. For Priest2018 initial grouped clipping was repaired by complete105–200; GarfieldPriest entire173 reopened independently. Not fresh whole external book/print/quote verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "sha256": "f1898cbd3ba265b01d22989daf1f8b73c1c55b08c865effe6f175ce10a2a4318",
+      "actual_read_scope": "Fresh complete selected q003,q016,q017,q038–q042 card units: lines117–131,312–341,642–717. Actual full selected card contexts and boundaries, not fresh whole source house or entire external Brief."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/preimages/INDIAN-HISTORY.md.txt",
+      "sha256": "b6f41e0e27eccba6c6541a08d545e63ac9685f6408986749d8bc7f8eb0c9d7e0",
+      "actual_read_scope": "Entire immutable104-line original read independently untruncated."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/candidates/INDIAN-HISTORY.md.txt",
+      "sha256": "398686a745e9a154d77104b5bae60c43765d874239a19e7717cbe3317aa6dbfd",
+      "actual_read_scope": "Entire104-line final read independently untruncated against original and actual sources."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_read_scope": "Fresh complete coreI1–115 owns new horizontal source-expression-recognition versus complementary achieved account. Prior actual whole640 and latest native knowing/tattvic source re-entries retained in A09/A16 exact receipts."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_read_scope": "Actual complete latest minute retained from adjacent own A09/A16 source review; no newly fresh whole claim here."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "sha256": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "actual_read_scope": "Actual whole latest governing correction retained from adjacent own A09 review."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "cb5edc451ee2ddfce55b5c2cbd007b705ebf10efccf7c22870d35e916a52daa2",
+      "actual_read_scope": "All16 Indian-specific reasons read against actual complete final paragraphs and respective sources; other two process carrier rows not independently accepted here."
+    }
+  ],
+  "prior_actual_complete_current_version_basis": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+      "sha256": "6480239f5230c10cba11452c098f59f3215f4b24420d558034863132e8859c02",
+      "actual_read_scope": "Prior actual entire source-house/owning-operation reading retained at exact current version. Pind/Siderits: own complete A08 source cold; Dycz full418/available60–81: own A09 source cold; Van entire house+protected NOTES and rawDynamics: own A16 and earlier native-symbolic cold. No fresh external/quotation verification inferred."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+      "sha256": "cf3e407b478cadf36c930e0568fcd8eaa66a5e00edef01b6cd559b42c491fb5b",
+      "actual_read_scope": "Prior actual entire source-house/owning-operation reading retained at exact current version. Pind/Siderits: own complete A08 source cold; Dycz full418/available60–81: own A09 source cold; Van entire house+protected NOTES and rawDynamics: own A16 and earlier native-symbolic cold. No fresh external/quotation verification inferred."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "sha256": "c5b57a5806f9c44e81570e1abaa0798a11085e53e5555a29c54b61fba66a7b87",
+      "actual_read_scope": "Prior actual entire source-house/owning-operation reading retained at exact current version. Pind/Siderits: own complete A08 source cold; Dycz full418/available60–81: own A09 source cold; Van entire house+protected NOTES and rawDynamics: own A16 and earlier native-symbolic cold. No fresh external/quotation verification inferred."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "sha256": "7ade2bcede906a84bbf293214be97e6946fbb59e7d069efdaa14ad67c73fea80",
+      "actual_read_scope": "Prior actual entire source-house/owning-operation reading retained at exact current version. Pind/Siderits: own complete A08 source cold; Dycz full418/available60–81: own A09 source cold; Van entire house+protected NOTES and rawDynamics: own A16 and earlier native-symbolic cold. No fresh external/quotation verification inferred."
+    }
+  ],
+  "prior_own_source_cold_proofs": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A08-EXCLUSION-REVIEW.json",
+      "sha256": "e4d42cf13e6c2a07d9b97a43e7afd0d7a310a80bad1055c02a8cc570e93eb80c",
+      "actual_read_scope": "Actual earlier own complete source/read receipt retained; coverage stated within each, no source reading inferred merely from hash."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A09-CONTRACTION-REVIEW.json",
+      "sha256": "d81cee37eee47c6902a0e0852006828d357852c3be36e5d84dc740425927b1d3",
+      "actual_read_scope": "Actual earlier own complete source/read receipt retained; coverage stated within each, no source reading inferred merely from hash."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-A16-DIFFERENTIAL-REVIEW.json",
+      "sha256": "6b8bfcdf552d064b157c7ac740eaf5c29d06b5c5916e5aa0163b8ecca56c61b4",
+      "actual_read_scope": "Actual earlier own complete source/read receipt retained; coverage stated within each, no source reading inferred merely from hash."
+    }
+  ],
+  "accepted_operations": [
+    {
+      "scope": "#0",
+      "acceptance": "Separate instrument/witness, preclusion, arithmetic and conscious manifestation retain distinct ontology, geography, doctrine and publication chronology. Apportionment and generated recognition compare actual finite functions/source return without inventing lexical ancestry or institutional succession."
+    },
+    {
+      "scope": "#1",
+      "acceptance": "The1837 buddhi/ahamkara/manas functions and XIX witness are distinct; translation consciousness has its local appropriation office. Dycz65–66 Śaiva objection preserves source-specific activity assignments, without renaming Samkhya witness Shiva or attributing all36tattvas to selectedkarikas."
+    },
+    {
+      "scope": "#2",
+      "acceptance": "Positive qualified preclusion and provisional prose attribution, secondary2011 scholarly transmission, distinct Nagarjuna selected-edition debt, Das disputed difference/nondifference report, and zero identity/absorption/retained denominator/restricted rules remain source-bound. Technical argmax remains another object; arithmetic and theology do not prove each other."
+    },
+    {
+      "scope": "#3",
+      "acceptance": "Full available Dycz luminous/reflective/mirror/vertical-horizontal manifestation, efficacy of limitation, contracted anatomy and source recognition retained. Inert mirror and noexternaloriginal are particular source limits. Sixcompression and exactgnomon have their own boundary/return offices; all36cellmapping remains proposed. Native dependence and relative local knower/means/known recurse withinLife/person, retaining unobjectifiablecondition."
+    },
+    {
+      "scope": "#4",
+      "acceptance": "Trace/recall/recomposition differs from source recognition. Notebook/speaker/Logos comparison remains authorial versus external attribution. Changed interpreter/differentiated indivisibility and actual all8 keep psychological/technical scope; fitting retention does not masquerade as actual changed processing. Priest4/FDE/fifth/plurivalence/receptions, review mediation and silence debt remain distinct from native ground/two-plus-four."
+    },
+    {
+      "scope": "#5",
+      "acceptance": "CoreI supports horizontal source-expression-recognition and complementary achieved accounting. QL/MEF/localBimba/harness offices and Bratton scenarios keep source-specific functions and modality. Local functional knowing recurses into containingpersonmeans. A warranted result/failedcondition correction or justified adequate retention is inherited by nextact; stronger changed-processing claim needsactualchange. Three table operations make actual consequences addressable without code/page actor duties; categorymapping proof remains particular research requirement."
+    }
+  ],
+  "independent_findings": [],
+  "retention": {
+    "frontmatter_exact": true,
+    "headings_exact": true,
+    "curly_quoted_strings_exact": true,
+    "original_link_target_multiset_exact": true,
+    "governance_typography_exception": "Original table coded navigation/duty header and cells are semantically recovered as actual operations/distinctions/nextact consequences. Original mathematical/native expressions remain operative, not a claim every coded string is byteexact."
+  },
+  "individual_qualification_review": "All16 source-specific reasons independently compared to full final paragraphs and actual sources;0hard audit is author evidence only, not a substitute for this source judgment.",
+  "honest_read_limits": [
+    "Initial large owner manifest/source ledger output clipped: only subsequently filtered complete Indian-specific19source rows are claimed, not full39source ledger reading.",
+    "Initial grouped Priest2018/Garfield output clipped: Priest105–200 and entire Garfield173 were reopened; complete Spandakarika house already remained visible, completing all six selected new reception houses.",
+    "P2/P3 complete earlier actual notebook/source basis retained; no fresh whole notebooks or selected primary printed edition acquired here.",
+    "All48movement bodies/sovereign manuscript untouched; movement links preserve existing operation navigation, not movementqualityclosure.",
+    "No new critical Sanskrit/primary-book/print/quote/history-transmission/clinical/technicaldeployment/readiness promotion.",
+    "No all162impactconsumersemantic acceptance from effects graph or preserved byte reopens.",
+    "Other two process carrier candidates remain separately reviewed by their assigned reviewer; this receipt accepts onlyIndian-history."
+  ]
+}

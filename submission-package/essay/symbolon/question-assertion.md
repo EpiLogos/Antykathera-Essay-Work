@@ -15,7 +15,7 @@ source_relation: "Extracted internal derivation; Argued philosophical developmen
 
 “What is this?” begins within an encounter. The asking has already distinguished something sufficiently to address it, while leaving what it is unsettled. The word *this* takes a provisional mark; the question gives that mark a future in which it can be answered, corrected, or found inadequate. Inquiry receives both the appearance and the activity through which it has become noticeable.
 
-[0/1](0-1.md) grounds this conscious circumstance: something appears, its appearing is known, and the knowing occurs through a relation that can itself become a question. The [slash](the-slash.md) grounds the differentiating activity. At `?/!`, that activity undertakes an account. The mark now has to answer for the distinction it makes.
+In [the conscious circumstance](0-1.md), something appears, its appearing is known, and the knowing occurs through a relation that can itself become a question. The [differentiating slash](the-slash.md) makes the distinction available. At `?/!`, that activity undertakes an account. The mark now has to answer for the distinction it makes.
 
 ## #1 — The question takes a mark
 
@@ -23,7 +23,7 @@ source_relation: "Extracted internal derivation; Argued philosophical developmen
 
 “What allows for an essence is essentially inessential.” The line states the turn precisely. The condition that lets an essence be determined cannot simply be another essence alongside the one being defined; another object would repeat the question at the level of what enables objectification. The answer therefore becomes faithful by making its own enabling limit part of what it says. [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) carries the full derivation.
 
-Definition therefore makes a real commitment. It selects a name or account under which the appearance can be recognised again. Its precision lies partly in retaining what would make that selection answerable. [A01, Faithful Definition](episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), derives the longer movement in which an account succeeds through making its failure of final enclosure active in what it says.
+Definition therefore makes a real commitment. It selects a name or account under which the appearance can be recognised again. Its precision lies partly in retaining what would make that selection answerable. [Faithful definition](episteme/arguments/A01-Subject-God-and-Faithful-Definition.md) succeeds through making its failure of final enclosure active in what it says.
 
 ## #2 — A mark makes a difference
 
@@ -45,7 +45,7 @@ File 1's Catuṣkoṭi crossing tests the relation with the proposition **0 is a
 
 **NEITHER** turns the account upon that remaining claim. Neither identity nor difference, nor their conjunction as a completed formula, contains the condition under which the formula is now understood. The fourth makes the whole predicative movement available together, including its dependence on what it has failed to capture.
 
-The four corners preserve their determinate work through this crossing. The shift beyond them concerns the relation of the one who takes these positions to the circumstance in which position-taking occurs. The [self-identity root](self-identity.md) grounds the copula's ability to relate through difference; the [subject-logics root](subject-logics.md) extends the recognition of the medium through which the account has been made.
+The four corners preserve their determinate work through this crossing. The shift beyond them concerns the relation of the one who takes these positions to the circumstance in which position-taking occurs. [The copula relates through difference](self-identity.md); [the medium through which the account has been made can itself become recognisable](subject-logics.md).
 
 ## #4 — The assertion encounters its own limit
 
@@ -61,4 +61,4 @@ This is why an answer can remain exact while opening another question. What it h
 
 The inquiry “What am I?” makes that return intimate. Asking already manifests the capacity whose nature is in question. The answer cannot acquire that capacity as an additional object, yet the asking can become transparent to the presence in which it occurs. `?/!` conducts this double movement: a determinate self-account and the continuing answerability of the one making it.
 
-This root returns-to [A18](episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) and [§3 · #0, Eight Determinations](../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), where its operation passes into force, recurrence, personed context, differential horizon, and return. The [spine-index](eight-determinations.md) gathers that sequence. The [definition register](matheme/definition/README.md) extends the worked crossing; [1/0](1-0.md) returns the achieved account towards its ground. The mark has said something. It can now be asked what its saying has made possible.
+Within [the complete eight determinations](episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [the question's commitment passes into force, recurrence, personed context, differential horizon, and return](../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). [Each turn](eight-determinations.md) retains the preceding operation while changing what it can do. [The worked crossing](matheme/definition/README.md) preserves affirmation, denial, both and neither within their lived condition; [the achieved account turns towards its ground](1-0.md) without adding a further answer-object. The mark has said something. It can now be asked what its saying has made possible.

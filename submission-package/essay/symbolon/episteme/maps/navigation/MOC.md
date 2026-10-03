@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
+source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -24,16 +24,16 @@ This map is generated from the relations authors wrote into the publication body
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 850 | 10% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
 | #0 | The 48 movements | 48 | 421 | 35% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #0 | The historical argument shelf (01–21) | 21 | 264 | 5% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/argument-shelf.md) |
-| #1 | Symbolon — the twelvefold root | 14 | 187 | 65% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
+| #1 | Symbolon — the twelvefold root | 14 | 186 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 94 | 838 | 27% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 48 | 750 | 32% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 24 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
-| #4 | Episteme · Arguments A01–A36 | 37 | 1034 | 16% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
-| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 527 | 14% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
+| #4 | Episteme · Arguments A01–A36 | 37 | 1052 | 13% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
+| #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 527 | 12% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
 | #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1410 | 14% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #4 | Episteme · Product field S / S0–S5 | 8 | 78 | 18% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
 | #4 | Episteme · Etymology whole-fields | 25 | 590 | 17% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
-| #4 | Episteme · Histories | 21 | 653 | 54% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
+| #4 | Episteme · Histories | 21 | 652 | 50% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
 | #4 | Episteme · Source houses | 201 | 1128 | 15% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 203 | 58% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 3 | 37 | 70% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
@@ -55,24 +55,24 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 7200 |
-| sources | 1372 |
-| sources (declared) | 1002 |
+| unnamed | 7346 |
+| sources | 1374 |
+| sources (declared) | 1016 |
 | consumed-by (declared) | 317 |
-| returns-to | 199 |
+| returns-to | 175 |
 | returns-to (declared) | 125 |
-| grounds | 101 |
-| qualifies | 90 |
-| extends | 75 |
-| defines | 56 |
-| compares | 54 |
-| historicises | 53 |
-| figures | 37 |
-| tests | 23 |
-| derives | 16 |
+| qualifies | 78 |
+| grounds | 77 |
+| extends | 52 |
+| historicises | 50 |
+| compares | 45 |
+| defines | 40 |
+| figures | 27 |
+| tests | 16 |
+| derives | 14 |
 | sources (declared passage) | 12 |
 | companion notes (declared) | 10 |
-| embodies | 5 |
+| embodies | 3 |
 | presages | 1 |
 
 ## Standing of the surface

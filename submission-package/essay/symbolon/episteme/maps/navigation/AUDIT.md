@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
+source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -41,16 +41,16 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | The rooms — waypoints, alignments, reading routes | 20 | 850 | 81 | 769 | 0 | 0 | 0 |
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 264 | 12 | 252 | 0 | 0 | 0 |
-| Symbolon — the twelvefold root | 14 | 187 | 122 | 65 | 0 | 2 | 0 |
+| Symbolon — the twelvefold root | 14 | 186 | 65 | 121 | 0 | 2 | 0 |
 | Matheme — exact operations | 94 | 838 | 229 | 609 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 750 | 242 | 508 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1034 | 169 | 865 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 527 | 74 | 453 | 0 | 0 | 0 |
+| Episteme · Arguments A01–A36 | 37 | 1052 | 133 | 919 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 527 | 65 | 462 | 0 | 0 | 0 |
 | Episteme · Concepts C01–C64 and provenance | 179 | 1410 | 198 | 1212 | 36 | 64 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 78 | 14 | 64 | 1 | 2 | 1 |
 | Episteme · Etymology whole-fields | 25 | 590 | 101 | 489 | 0 | 6 | 0 |
-| Episteme · Histories | 21 | 653 | 352 | 301 | 0 | 3 | 0 |
+| Episteme · Histories | 21 | 652 | 324 | 328 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1128 | 166 | 962 | 0 | 76 | 0 |
 | Episteme · Dossiers | 8 | 203 | 118 | 85 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
@@ -409,8 +409,8 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **The historical argument shelf (01–21):** `[[The Advent of Zero, Subject, and Integral Logic]] carries this formal condition through its historical emergence: zero becomes a formal term without ceasing t`
 - **The historical argument shelf (01–21):** `the fuller [[34-s4-p3-lacan-matheme-mytheme/crossed-zero sequence]] traces that mark from occlusion through visible mediation into contextual availability and r`
 - **Symbolon — the twelvefold root:** `[Compassion's vocation] (episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) extends this relation into conduct`
-- **Symbolon — the twelvefold root:** `[The Copula / Self-Identity through Difference] (episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) carries the identity that survives this chang`
-- **Symbolon — the twelvefold root:** `[A27, Self and Other] (episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md), qualifies the consequence`
+- **Symbolon — the twelvefold root:** `[Determining capacity becomes legible through its particular face] (X-x.md)`
+- **Symbolon — the twelvefold root:** `[Identity survives the change of person] (episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) through a personal circuit: *I = Is*, *Who I am = Wh`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `- [Arguments A01–A36] (arguments/README.md) — the canonical semantic Argument identities`

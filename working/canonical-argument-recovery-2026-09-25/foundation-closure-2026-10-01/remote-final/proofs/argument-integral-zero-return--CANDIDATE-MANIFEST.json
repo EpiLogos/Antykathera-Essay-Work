@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "id": "A36",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/preimages/A36-Advent-of-Integral-Zero.md.txt",
+      "preimage_sha256": "bbe11548caea4ee544214d759c35456de054f977da834f5c776afdc07973c4a6",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/candidates/A36-Advent-of-Integral-Zero.md.txt",
+      "candidate_sha256": "b1ea27a18675f93e413f228a13c8fbc1b79da2ff12fa9016b089e6dd22d5130b",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/SOURCE-READINGS.json",
+      "effects_depth": 4,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Independent complete old/new/source/public accepted at exact final; frozen non-live for parent native inclusion and unchanged validation.",
+      "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "independent_cold_review_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e"
+    }
+  ],
+  "paired_prime_retained": {
+    "path": "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+    "sha256": "6ba99b24798e92f17dd0bd113dc971108ffc0c6f724730b4d21bdfebd6913df0",
+    "actual_read_scope": "Whole current published substantive prime operation freshly reentered and retained; plural hybrid inquiry/AGI-AHI target, control-model-world separation, local/reference dependence and enacted inherited correction distinguish offered construction. Its exact remaining public wrapper residues are not counted closed by this native operation."
+  },
+  "remaining": [
+    "Finite current-body A07/A17/A31/A34 public-operation receiving joins retained separately; source/math operations preserved. No whole external history/quotation/runtime closure."
+  ]
+}

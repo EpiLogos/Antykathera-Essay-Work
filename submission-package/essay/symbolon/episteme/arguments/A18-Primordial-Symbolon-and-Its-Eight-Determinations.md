@@ -9,6 +9,7 @@ source_ids:
   - taylor-2026-core-theorems-pithy
   - taylor-2026-binary-explication
   - taylor-2026-definition-god-draft3
+  - taylor-2026-symbolon-dynamics
 ---
 
 # A18 — Primordial Symbolon and Its Eight Determinations
@@ -47,7 +48,7 @@ The sequence does not move among eight independent objects. One relation becomes
 
 At the threshold, $/=-/-$ is relation before its terms have names. At the return, $1/0$ is the achieved determination turning toward the condition it has presupposed. Between them lie the six qualitative determinations of the $4+2$ body.
 
-The [Eight Determinations root](../../eight-determinations.md) teaches the complete traversal in its Symbolon form. The argument here asks what follows from that traversal: what a symbol is, how a determination can remain faithful to its source, how recognition changes the field, and how a counterfeit symbol can falsify the relation rather than merely state a false proposition.
+Through the [complete eightfold traversal](../../eight-determinations.md), a determination acquires the means to answer for its relation to a source. Its symbolic life lies in that relation: recognition can change the receiving field, and counterfeiting can falsify the seam to an origin as well as state a false proposition.
 
 ## #1 — Determination becomes answerable
 
@@ -75,7 +76,7 @@ The determination therefore makes the knowing relation explicit:
 - pramāṇa — the means through which knowing occurs;
 - prameya — the known.
 
-These offices are distinguishable within one act. The means can become an object of examination; the known can be re-described; the knower-pole is not thereby converted into one more item in the inventory of means and knowns.
+These offices are distinguishable within one act, and their placement is relative to the act being considered. In a source comparison, a judging agent occupies the local knower office; retrieved material, memory, a comparison rule and tools are its means; the discriminated agreement or difference is known. The same complete apparatus serves as means in a person’s containing inquiry. Examining its judgment makes that local centre known in a further act, with another placement of knower, means and known. The first-person condition of that examination withdraws from the inventory it makes: describing more of the means or the known does not possess the presence through which they appear. [Objective Internality](../concepts/C41-Objective-Internality.md) is articulated through this nested disclosure and action, within the containing relation of Life.
 
 At $\infty/dx$, the personed relation reaches exact local difference against an inexhaustible horizon. The calculus gives the structure a precise formal image: differentiation can determine local change while losing the additive constant; integration restores a family $F(x)+C$ whose particular member requires a further condition. Exact local knowledge does not contain the whole provenance of its own exactness.
 
@@ -121,11 +122,19 @@ Across them run the complementary folds:
 
 The same generative whole also unfolds through **Name and Power**.
 
-Name moves through Truth, Mind, Word, Logos, Son and Image: the passage by which a source becomes articulate, personal and imaginal.
+Truth precedes the saying that will reflect it. Play holds the freedom of that beginning: what is has not yet been compelled into one expression, and a course can be undertaken otherwise. Their convergence lets truth be received through a gratuitous beginning rather than treating the achieved assertion as its own origin.
 
-Power moves through Play, Need, Sacrifice, Decision, Love and Work: the passage by which articulation acquires demand, expenditure, commitment, relation and consequence.
+Mind first apprehends what it receives. Need is the gap by which that reception seeks something it does not yet possess. A question takes up this lack; the capacity to receive is stirred into inquiry. Need directs the search without making its eventual answer the whole of what could be apprehended.
 
-Name without Power would leave articulation without what it costs or changes. Power without Name would leave consequence without the form through which it becomes intelligible. Their co-presence is not an appendix to the theorem; it is the theorem's insistence that what a determination means and what its determination does belong to one accountable field.
+Word makes the first articulate cut. Sacrifice is what this articulation costs: speaking gives up the preceding silence and actualises some possibilities at the expense of others. The selected terms become answerable through the difference they make, while the excluded possibilities and expenditure remain part of the relation that produced them.
+
+Logos gathers the terms proportionately. Decision commits to that proportion and closes alternatives for this course. A judgment can consequently act, and its rule, scope and judging authority can be addressed when the achieved arrangement fails to receive what it concerns. Proportion acquires consequence through a commitment whose conditions remain recoverable.
+
+Son is personal embodiment: what had been a universal structure becomes someone’s life. Love widens the concern within which that life is held. The person who lives the structure can answer, and the answer can affect the purpose, permission or judgment through which the structure approaches them. Personal embodiment and contextual embrace meet through a life that exceeds its description.
+
+Image is reflected completion. Work is the crystallised achievement through which the freedom of the beginning becomes available to another. A formed result earns its reflection through the apprehension, cut, commitment and personal relation that made it. Its receiver can now encounter what was achieved and return a difference to those conditions; the next work inherits that judgment.
+
+Truth/Mind/Word/Logos/Son/Image is the emanative Name seen from outside; Play/Need/Sacrifice/Decision/Love/Work is the reversionary Power felt from inside. At every position the articulated determination and its effective demand are co-present. Name gives consequence intelligible form; Power holds what that form costs, commits, embraces and achieves. The complete field remains one accountable relation through these different readings.
 
 ## #4 — A living symbol changes its containing field
 
@@ -151,11 +160,11 @@ A counterfeit Symbolon can also falsify provenance itself. A fabricated voice, i
 
 The reverse corruption is equally important. Once counterfeit seams are possible, a genuine record can be rejected simply because fabrication is conceivable. Trust therefore depends on preserving the addressable relation among source, mark, means of transmission and returned consequence. A symbol is alive where that relation can still be tested and changed.
 
-The [Living Symbol / Idol](../concepts/C21-Living-Symbol-Idol.md) and [Counterfeit Symbolon](../concepts/C22-Counterfeit-Symbolon.md) concepts take these consequences into reusable form.
+A [living symbol](../concepts/C21-Living-Symbol-Idol.md) remains available to an encounter that can reorganise receiving capacity. A [counterfeit symbolon](../concepts/C22-Counterfeit-Symbolon.md) can simulate that availability while severing provenance, merging addressable terms or protecting its containing measure. Their difference lies in what another encounter can actually reach.
 
 ## #5→0 — Recognition returns the difference
 
-The return is performed when the achieved determination changes the conditions of another act.
+Return is performed when the achieved determination makes its determining relation answerable and another act inherits the judgment. A returned difference can correct an answer under a fitting rule, revise a model or task, expose a faulty rule or permission, or alter the commission. Inquiry can also retain a fitting condition with reasons. Where the claim is that processing itself has changed, an identified change in the producing relation is required.
 
 The crossed-zero recognition matheme gives this return its internal anatomy:
 
@@ -177,11 +186,13 @@ $$
 
 At $Ø$, the mediating activity has fused into the apparent subject and appears self-grounding. At $X$, the object-world stands over against it as independently given. At $Ø/X$, the slash becomes visible as medium. At $(0/Ø)/(1/X)$, subject-side and object-side recognition become available together. At $1$, unity is affirmed with the differentiations retained. The return to $0/1$ recognises the pulse that had been active throughout.
 
-This is why the reader's own return matters. Describing the sequence from outside while leaving one's source, exclusions, measure and context untouched performs only another description. Traversal becomes recognition when the account of the field can itself enter the field and alter what the reader will next notice, ask, permit, refuse or do.
+The reader’s own source, exclusions, measure and context enter this examination. An account becomes recognitive when its determining conditions are available to the inquiry it describes, and the reader’s next noticing, question, permission, refusal or act inherits the warranted correction or retention. Merely repeating the sequence leaves this relation unexamined; altering a condition solely to exhibit change would likewise miss the judgment the encounter requires.
 
-The Mytheme field gives this operation lived bodies. Indra's jewel-net makes local reflection inseparable from the wider relation of reflections; the Meal turns reception into transformed criterion; the travelling jigsaw lets the frame itself enter the account of fit; the Neumann and ouroboric materials make the self-consuming and self-renewing circuit imaginally available. These wholes are not decorative examples. Each performs a distinct way in which an achieved form returns into the conditions of further determination.
+In [Indra’s jewel-net](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md), a local reflection appears through the wider relation of reflections; attending to one jewel discloses dependencies that its isolated image cannot contain. In the [Meal](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md), appetite receives food, chewing differentiates and assimilation changes the capacity of further reception. Taste can expose a failed distinction or reaffirm one that fits; shared companions remain answerable participants in the meal. Satiety permits rest, and renewed hunger opens another beginning.
 
-The technical face has the same demand. A source, selected mark, permission, model, decision object or evaluation becomes symbolically alive when its generating relation remains available enough for returned difference to revise the next operation. A system which can expose every record while insulating its criterion from consequence has disclosure without return. A system which can change its result but cannot retain what changed it has return without recognition.
+The [travelling jigsaw](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md) carries an acquired view into another account of fit. A misplaced piece can be corrected within an adequate frame; an obstruction can instead disclose the frame’s insufficiency. The returned piece, rule of fit and authority to reconstruct therefore remain distinguishable. In [Neumann’s images](../../mytheme/archetypal-ground/neumann-images/WHOLE.md), mark, zero, slash, formed figure and erasure make capacity and particular completion available to renewed seeing. The [uroboric circuit](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md) carries nourishment and mutual consumption through transformation, then holds the hole through which confinement or release becomes consequential. These are different embodied returns: reflected dependence, assimilation, recomposed fit, renewed aperture and self-consuming transformation.
+
+A source, selected mark, permission, model, decision object or evaluation becomes symbolically alive when its generating relation remains available to the appropriate deciding office and the next operation inherits its warranted correction or reasoned retention. Exposing records while permanently insulating their governing criterion from challenge gives disclosure without that route of return. A changed result whose producing relation cannot be recovered gives movement without recognitive answerability; the stronger claim of changed processing requires that actual change to be identified and carried into later use.
 
 The Primordial Symbolon therefore names a stronger condition than representation. It is a determination that remains joined to the relation of its determination, can be changed by what returns through that relation, and can carry the acquired difference into another beginning.
 

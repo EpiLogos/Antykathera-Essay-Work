@@ -1,0 +1,5 @@
+{
+  "failed_assertion": "Assumed every retained complete paragraph equals a single physical line. A31line50 is one of six disclosure sentences in a complete hard-break paragraph. Owner receipt correctly retains the entire six-office paragraph.",
+  "repair": "Derive current paragraph by blank boundaries; compare exact full paragraph and exact detector finding line prefix. No detector/candidate/reason edit.",
+  "candidate_changes": 0
+}

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
+source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `definition` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Binary Explication (four-file canonical-candidate set)](../../../sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) · *unnamed* → [§0/1 — The Matheme](../../../../matheme/definition/the-matheme.md), [§0 — −/− = AND/OR / X/x](../../../../matheme/definition/minus-over-minus.md), [§1 — =/≠ → / = ( = =/≠ ≠ )](../../../../matheme/definition/copula.md), [§2–§3 — 4+2 → (3+1)+2](../../../../matheme/definition/harmonics-and-recount.md), [§5 — The Six Determinations](../../../../matheme/definition/six-determinations.md), [§5→0 — The Catuṣkoṭi Crossing](../../../../matheme/definition/catuskoti-crossing.md), [§0/1–§5→0 — The Immutable Subject](../../../../matheme/definition/immutable-subject.md)
 
-**Reached from:** *extends* ← [?/! — Question and Assertion](../../../../question-assertion.md), [Self-Identity](../../../../self-identity.md) · *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [Matheme](../../../../matheme/README.md)
+**Reached from:** *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [A13 — Two Logics of Two — Dia / Syn](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [Matheme](../../../../matheme/README.md), [?/! — Question and Assertion](../../../../question-assertion.md), [Self-Identity](../../../../self-identity.md)
 
 ### [§0 — −/− = AND/OR / X/x](../../../../matheme/definition/minus-over-minus.md)
 

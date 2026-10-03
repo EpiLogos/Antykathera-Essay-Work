@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
+source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -39,7 +39,7 @@ Group: `process` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Binary Explication (four-file canonical-candidate set)](../../../sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) · *unnamed* → [AND + OR — The Geometry of Space-Time](../../../../matheme/process/t1-geometry.md), [§1/0 — 0/1 = / ≠ 1/0](../../../../matheme/process/phase-flip.md), [AND/OR — The Onto-Logic](../../../../matheme/process/t0-onto-logic.md), [§3′ — 4′+2′ = 5′→0′](../../../../matheme/process/spanda.md), [Spanda](../../../../matheme/spanda/README.md), [Ratio threshold — 16/9 = (4/3)²](../../../../matheme/process/ratio-threshold.md), [§4′ — 5′→0′](../../../../matheme/process/harmonics-symmetries.md), [§5′ — 5′→0′ = 1/0](../../../../matheme/process/ql-positions.md)
 
-**Reached from:** *defines* ← [§5′ — 5′→0′ = 1/0](../../../../matheme/process/ql-positions.md) · *extends* ← [AM/IS — The Personed Copula](../../../../AM-IS.md), [Six Positions, Eight Turns](../../../../matheme/ql/eight-determinations.md), [−/+ — Negation and Affirmation](../../../../minus-plus.md) · *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [Matheme](../../../../matheme/README.md), [§2–§3 — 4+2 → (3+1)+2](../../../../matheme/definition/harmonics-and-recount.md), [§4′ — 5′→0′](../../../../matheme/process/harmonics-symmetries.md), [§1/0 — 0/1 = / ≠ 1/0](../../../../matheme/process/phase-flip.md), [Ratio threshold — 16/9 = (4/3)²](../../../../matheme/process/ratio-threshold.md), [§3′ — 4′+2′ = 5′→0′](../../../../matheme/process/spanda.md), [AND/OR — The Onto-Logic](../../../../matheme/process/t0-onto-logic.md), [AND + OR — The Geometry of Space-Time](../../../../matheme/process/t1-geometry.md), [Complex Orientation: Measure through Rotation](../../../../matheme/ql/complex-orientation.md)
+**Reached from:** *defines* ← [§5′ — 5′→0′ = 1/0](../../../../matheme/process/ql-positions.md) · *extends* ← [Six Positions, Eight Turns](../../../../matheme/ql/eight-determinations.md) · *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [AM/IS — The Personed Copula](../../../../AM-IS.md), [Matheme](../../../../matheme/README.md), [§2–§3 — 4+2 → (3+1)+2](../../../../matheme/definition/harmonics-and-recount.md), [§4′ — 5′→0′](../../../../matheme/process/harmonics-symmetries.md), [§1/0 — 0/1 = / ≠ 1/0](../../../../matheme/process/phase-flip.md), [Ratio threshold — 16/9 = (4/3)²](../../../../matheme/process/ratio-threshold.md), [§3′ — 4′+2′ = 5′→0′](../../../../matheme/process/spanda.md), [AND/OR — The Onto-Logic](../../../../matheme/process/t0-onto-logic.md), [AND + OR — The Geometry of Space-Time](../../../../matheme/process/t1-geometry.md), [Complex Orientation: Measure through Rotation](../../../../matheme/ql/complex-orientation.md), [−/+ — Negation and Affirmation](../../../../minus-plus.md)
 
 ### [Ratio threshold — 16/9 = (4/3)²](../../../../matheme/process/ratio-threshold.md)
 

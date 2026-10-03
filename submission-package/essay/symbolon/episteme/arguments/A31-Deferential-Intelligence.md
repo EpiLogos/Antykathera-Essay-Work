@@ -26,7 +26,7 @@ Deferential Intelligence is **model-revising encounter**.
 
 A determination has to be strong enough to act. Deference begins when the source, Other or world encountered through that determination can change the means by which the determination was made. [Intelligence that builds its limit into its architecture](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md#taylor-2026-definition-god-draft3-q026) preserves precision while keeping the frame receptive to what exceeds its present account.
 
-[Self and Other](A27-Self-and-Other-Unity-without-Possession.md) supplies the asymmetry: the Other belongs to the whole without belonging inside my model. [Objective Co-Internality](A30-Objective-Co-Internality.md) supplies the shared field: another's returned difference can become part of the conditions from which I next act.
+The [Other belongs to the whole without belonging inside my model](A27-Self-and-Other-Unity-without-Possession.md). This asymmetry keeps the encounter open to an answer whose source I do not possess. In a [co-internal field](A30-Objective-Co-Internality.md), another's returned difference can become part of the conditions from which I next act.
 
 Deferential Intelligence is what happens when those two claims become an operative virtue.
 
@@ -102,7 +102,7 @@ This is the practical meaning of fidelity through difference.
 
 ## #3 — The evaluator can enter the field of revision
 
-The [model-revising encounter proposal](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape) distinguishes two technical operations.
+Taylor proposes [an encounter able to revise its means of selection](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md#12-a-model-of-encounter-that-can-change-its-own-energy-landscape) by separating two technical operations: selecting a candidate within a fixed economy, and making that economy itself revisable.
 
 Under a fixed evaluator,
 
@@ -160,21 +160,21 @@ $$
 \text{Return}.
 $$
 
-The [Arbitration / Hybris / Regard / Anamnesis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md) field gives these turns their lexical body. [Encounter / Region / Name / Count / Countenance / Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md) gives the personed return: Countenance can answer the Account under which it was first received.
+[Arbitration, hybris, regard and anamnesis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md) differentiate the return: finite decision can receive a correction; usurped measure can exclude its source; regard exposes the relation that bears the judgment; remembrance returns that relation to what can next be done. A [counted participant can answer the account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md) under which they were first received. A missed participant can be admitted under an adequate rule, a failing criterion can become revisable, and a fitting condition can be retained for an answerable reason.
 
 This is also where Deferential Intelligence becomes an engine of Epi-Logos. A paradigm can articulate itself and still remain sealed. Encounter exposes the difference between what the paradigm says it is doing and what its enacted conditions actually do. Deference is the willingness and architecture through which that difference can alter the paradigm instead of being absorbed into another explanation.
 
 Operational parity tests the return by consequence. A longer rationale is not evidence that the model became deferential. The evidence is that a relevant source, task, world-model, evaluator, commission, permission or action changed, and that the change altered what happened next.
 
-[Operational Parity](A33-Epistemic-Cultivation-Operational-Parity.md) carries that test.
+[An operative distinction must make a discriminable difference](A33-Epistemic-Cultivation-Operational-Parity.md). For the stronger claim that an encounter changed processing, the comparison must identify the changed condition and the later act which inherited it.
 
 ## #5→0 — The next act is the evidence
 
-The return of Deferential Intelligence is not a better description of its own humility. It is a changed next act.
+Deferential Intelligence returns through the next act's inheritance of the encounter: a corrected answer, an exposed condition revised at its proper office, or a fitting condition retained with reasons. A description of humility has no such force unless the subsequent act receives its warranted consequence.
 
-The mirror that moves first gives the movement its image. The reflective instrument turns toward its own source before requiring the human or world to conform to its result. It exposes how its answer was formed so that resistance can reach a premise, evaluator, task or commission.
+An exteriorised measure conditions what its later reflection makes available. The reflective instrument can initiate a further return by turning toward its own source before requiring the human or world to conform to its result. It exposes how its answer was formed so that resistance can reach a premise, evaluator, task or commission; the person can then recognise, judge or refuse its demand.
 
-The travelling jigsaw gives another image. A new piece can be forced beneath a frozen rule of fit, or the encounter can expose that the rule itself was wrong. Reconstruction begins when the rule becomes revisable.
+A traveller can correct a new piece's placement under a fitting rule or discover that the rule itself excludes what the piece discloses. Forcing every piece beneath a frozen rule would foreclose that distinction. Reconstruction receives the discrepancy at its warranted depth: corrected placement, revised rule of fit, or reasoned retention of an adequate relation.
 
 Job gives the contrary case in ethical form. The friends' confidence in their inherited account of justice repeatedly produces a judgment against Job. More certainty inside the same measure cannot receive the witness their measure excludes. Fidelity requires the criterion of a fitting judgment to change.
 
@@ -184,6 +184,6 @@ The compact acceptance test is therefore:
 
 **After the encounter, what can this Life or system notice, believe, permit, ask, refuse or do differently because the returned difference reached the means of its world-disclosure?**
 
-A changed sentence matters only insofar as it participates in a changed future.
+A corrected sentence matters through what the next judgment inherits. Where a stronger change of processing is claimed, the later operation must disclose the effect of the identified change in its means.
 
 Deferential Intelligence is the intelligence for which encounter can become constitutive rather than merely consumable.

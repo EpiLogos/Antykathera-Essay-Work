@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
+source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `music` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Binary Explication (four-file canonical-candidate set)](../../../sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) · *unnamed* → [The Foundational Ratios](../../../../matheme/music/foundational-ratios.md), [The Two Chromatic Substrates](../../../../matheme/music/chromatic-substrates.md), [The Universal Pairing Grammar](../../../../matheme/music/pairing-grammar.md), [The Lens as Epistemic Anchor](../../../../matheme/music/lens-anchors.md), [The Diatonic CF Grammar](../../../../matheme/music/diatonic-cf-grammar.md), [The Mode–Tonic Field and Voicing Landscape](../../../../matheme/music/field.md), [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md)
 
-**Reached from:** *compares* ← [∞/dx — Horizon and Differential](../../../../infinity-dx.md) · *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [Matheme](../../../../matheme/README.md), [The Two Chromatic Substrates](../../../../matheme/music/chromatic-substrates.md), [§5→0 — The Enantiodromic Return](../../../../matheme/quilt/enantiodromic-return.md), [§5 — Epi-Logos: The Proof Gathered](../../../../matheme/quilt/recognition.md)
+**Reached from:** *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [∞/dx — Horizon and Differential](../../../../infinity-dx.md), [Matheme](../../../../matheme/README.md), [The Two Chromatic Substrates](../../../../matheme/music/chromatic-substrates.md), [§5→0 — The Enantiodromic Return](../../../../matheme/quilt/enantiodromic-return.md), [§5 — Epi-Logos: The Proof Gathered](../../../../matheme/quilt/recognition.md)
 
 ### [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md)
 

@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "68b2990a2cc8f6be31c91041d378acb58965360e70363c57d1157cd59c737b1f"
+source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -55,7 +55,7 @@ Group: `classical-premodern-philosophy` · back to [Episteme · Source houses](e
 
 **Implicates:** *consumed-by (declared)* → [A/C — Argument / Concept — Root of the Conjugate Field](../../../conjugate/AC.md) · *unnamed* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
 
-**Reached from:** *historicises* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *sources (declared)* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
+**Reached from:** *sources* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *sources (declared)* ← [Subject-Logics — The Ø Traversal](../../../../subject-logics.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md)
 
 ### [Flasch — Meister Eckhart: Philosopher of Christianity (2015)](../../../sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md)
 

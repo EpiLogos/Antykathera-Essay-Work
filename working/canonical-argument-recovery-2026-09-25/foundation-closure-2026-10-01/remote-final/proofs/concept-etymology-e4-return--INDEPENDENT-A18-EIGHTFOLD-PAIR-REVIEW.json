@@ -1,0 +1,257 @@
+{
+  "reviewer": "concept_recovery",
+  "role": "Independent complete A18/A18prime old/new/source/public cold; no writer role",
+  "observed_main": "8d8b9b429bdc8f8bb6140e1e4dd4c8884a932045",
+  "owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/CANDIDATE-MANIFEST.json",
+  "owner_manifest_sha256": "d441c34a8cb1d17c873d067b72fa631cfc7b9f96a8967579f291a296e0dabeea",
+  "records": [
+    {
+      "id": "A18",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/preimages/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.txt",
+      "preimage_sha256": "cccbe851db3008695bab394b5d5e87c9c2021cda4aab5f107a6a5745f7a51c8f",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/candidates/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.txt",
+      "candidate_sha256": "459e0f4fea16209081866bcf917791dce591c451066173688fb2df63719d78f2",
+      "disposition": "Accept exact complete operation within declared source scopes; no exact lost step, false stronger consequence or semantic page/schema/status actor found at changed receiving joins.",
+      "retention": {
+        "all_original_headings_exact": true,
+        "all_display_math_exact": true,
+        "paired_navigation_exact": true,
+        "original_target_set_retained": true,
+        "original_target_occurrences": 6,
+        "final_target_occurrences": 12,
+        "added_target_set": [
+          "../../mytheme/archetypal-ground/neumann-images/WHOLE.md",
+          "../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+          "../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+          "../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+          "../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+          "../concepts/C41-Objective-Internality.md"
+        ],
+        "resolved_relative_file_links": 12,
+        "missing": [],
+        "metadata": "Native appends truthful consumed Dynamics source_id; prime metadata unchanged.",
+        "quotations_and_inline_notation": "Original quoted wording and displayed formula values retained in whole old/new comparison; original inline code preserved in prime. No quote/readiness upgrade."
+      }
+    },
+    {
+      "id": "A18p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/preimages/A18-prime-Traversal-Run-in-Code.md.txt",
+      "preimage_sha256": "a207d7c7e59bd9cb11127822186d9701fc5b2e6cee96b79a891ecaae4a58b29c",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/candidates/A18-prime-Traversal-Run-in-Code.md.txt",
+      "candidate_sha256": "14e15571809b8c04429db47d387cd5c17ed080169b9eadb2f25effa49024503a",
+      "disposition": "Accept exact complete operation within declared source scopes; no exact lost step, false stronger consequence or semantic page/schema/status actor found at changed receiving joins.",
+      "retention": {
+        "all_original_headings_exact": true,
+        "all_display_math_exact": true,
+        "paired_navigation_exact": true,
+        "original_target_set_retained": true,
+        "original_target_occurrences": 24,
+        "final_target_occurrences": 24,
+        "added_target_set": [],
+        "resolved_relative_file_links": 24,
+        "missing": [],
+        "metadata": "Native appends truthful consumed Dynamics source_id; prime metadata unchanged.",
+        "quotations_and_inline_notation": "Original quoted wording and displayed formula values retained in whole old/new comparison; original inline code preserved in prime. No quote/readiness upgrade."
+      }
+    }
+  ],
+  "actual_independent_reads": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/preimages/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.txt",
+      "sha256": "cccbe851db3008695bab394b5d5e87c9c2021cda4aab5f107a6a5745f7a51c8f",
+      "lines": 188,
+      "actual_independent_read_scope": "Entire immutable original independently read untruncated; all substantive operations compared with complete final and actual sources."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/candidates/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.txt",
+      "sha256": "459e0f4fea16209081866bcf917791dce591c451066173688fb2df63719d78f2",
+      "lines": 199,
+      "actual_independent_read_scope": "Entire frozen final independently read untruncated at exact hash, then bound to stable owner manifest after author self read. No intervening candidate difference."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/preimages/A18-prime-Traversal-Run-in-Code.md.txt",
+      "sha256": "a207d7c7e59bd9cb11127822186d9701fc5b2e6cee96b79a891ecaae4a58b29c",
+      "lines": 105,
+      "actual_independent_read_scope": "Entire immutable original independently read untruncated; all substantive operations compared with complete final and actual sources."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/candidates/A18-prime-Traversal-Run-in-Code.md.txt",
+      "sha256": "14e15571809b8c04429db47d387cd5c17ed080169b9eadb2f25effa49024503a",
+      "lines": 105,
+      "actual_independent_read_scope": "Entire frozen final independently read untruncated at exact hash, then bound to stable owner manifest after author self read. No intervening candidate difference."
+    },
+    {
+      "path": "submission-package/essay/symbolon/eight-determinations.md",
+      "sha256": "a3513f416a41adb9f2914bdc742d913e1fcf32d5af99e364f537327cf2582e04",
+      "lines": 323,
+      "actual_independent_read_scope": "Fresh entire current root independently read untruncated. Both Spanda readings, parent/six/return, ordered determinations, person3:3/3:1 versus4:2, harmonics/folds and crossed-zero relation compared."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "lines": 124,
+      "actual_independent_read_scope": "Fresh entire124-line raw authorial source in contiguous untruncated spans1–64/65–124. Living fraction/eight/Tillichsix, transformed receiving field, trajectory/attractor/atlas and material means distinct. Later minute governs older compressed Dia and local knowing assignments; raw immutable."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "sha256": "dac8551e65740c94ed47a288d31c40833a3b363292bf871466d5b8ca26cda1be",
+      "lines": 125,
+      "actual_independent_read_scope": "Fresh entire180-line current whole untruncated. Appetite, preparation, tasting, chewing, discrimination, container, assimilation, companions, satiety, rest and renewed hunger retain full source-specific limits. Direct outline/primary comparison remains earlier own whole cold, not newly upgraded."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+      "sha256": "0fe19540405c0148cfd1a6c2153720314ac012e0af75a90bddf17d7fbcbe0d08",
+      "lines": 97,
+      "actual_independent_read_scope": "Fresh entire source house and all3 selected paraphrase cards. Achieved one/datum for further becoming, perishing and original subjective immediacy distinct. Earlier own selected printed21–26/59–60 primary comparison retained; no new whole book or quote admission."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "lines": 640,
+      "actual_independent_read_scope": "Fresh complete335–385 performed-definition/person-counting unit. Preceding A33prime fresh151–188 and SubjectLogics337–437/464–511 plus prior own whole640 retained. Actual eight/recognition/sixfold and ordinal differences preserved."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/SOURCE-READINGS.json",
+      "sha256": "28b8feeca11bb7bdc1f4f2e65cc64924d656fad000ca19291ede0c55f6eca67f",
+      "lines": 125,
+      "actual_independent_read_scope": "Entire owner20-row source ledger independently read; worker fresh/prior scopes remain worker evidence, not independent all-source whole reads."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/QUALIFICATION-REASONS.json",
+      "sha256": "9e675d47803ffaa09fcb203ae849f3d3634ccdcb76d33baf99590fc434e50a0f",
+      "lines": 302,
+      "actual_independent_read_scope": "All20 individual reasons14native/6prime actually read through compact complete necessary-information, stronger-inference, positive-operation and source rows. Full paragraphs already read in complete finals. Initial schema probe returned no rows; corrected individual_dispositions field then all20 visible untruncated."
+    }
+  ],
+  "prior_actual_version_bound_basis": [
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Fresh entire412–487 unit: both Spanda equations as raw authorial sources, complete six Name phases/six Power phases/convergence table and requilting opening. All six paired operations independently compared; prior own full FileThree basis retained, not freshly entire569 here."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Fresh entire terminal251–279 and whole long51 containing authoredF correction. Cord-cut offering/remembrance/double devotion and singularOne/manifestAll retain actual source offices. EarlierF is not mislocated in terminal prose."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Fresh entire102-line minute during immediately preceding SubjectLogics cold; governing unit distinctions/whole Life/NamePower/personed return retained."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "sha256": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Prior own complete later correction at exact version retained from adjacent A09 source cold."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Fresh entire current65-line carrier in preceding SubjectLogics cold; genuine local functional centre and containingperson means office retained."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Fresh entire current in preceding A28 cold; warranted returned depth/fitting retention distinct from stronger actual change."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "sha256": "318dca8133ea034e44dd3b8d3c8fb09cd7c89902d1c72772ce7c7db8dd591a24",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Prior own whole old/new/protected source comparison retained at current318d version; paper/mark/slash/erasure and primordial recognition source offices exact."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "sha256": "4040f3c552af212a07905e068e64a91090e18c9c41efb16c3bc3418463a984dd",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Prior own whole old/new/source/public cold retained at current4040 version; inner opening, nourishment, transformed receiver and telicrest remain real."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "sha256": "6ba3ab0964e1eb83aeac8133db8e391b0d92b3557f8a564f7a6372e05a318d23",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "prior_receipt_sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Prior own whole old/new/source/public cold retained at current6ba3 version, including actual primary source selection; chosen southwest jewel/mark/reflections and final simile qualification intact."
+    },
+    {
+      "path": "working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "sha256": "0387d22a8f59d802261be6e56fce86a137d49d538b95f8b6e79a1beb3fe22b1a",
+      "prior_actual_read_receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A33P-PARITY-REVIEW.json",
+      "prior_receipt_sha256": "331bd0686dcb96d571bb3ab4e2d4d62b93da0db5e7cd13a7654bd8ba4c47dab1",
+      "actual_independent_read_scope": "Actual preceding own source read retained at equal current hash: Fresh complete selected2970–3030 harness-centric owning unit; entire research-question owning3460–3525 including Q9–11 and Q12opening;3428–3462 confirms actual PDF57 heading. Q10/Q11 exact quoted portions compared with raw linewraps; not fresh whole Brief/PDF/book."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "62b99e255fcdacc7729dde40c13642e2a1101dc738599a745e10451ffc1b6788",
+      "lines": 74,
+      "actual_independent_read_scope": "Earlier own whole old/new/source authored recovery and argument independent source/public cold retained at exact62b99 current. Responsive symbolic relation and idol-insulated criterion keep their actual source operations."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "sha256": "59fbb1ec6a8ef5c178f637127879ec4e6fe3876ad43ab09f75a96debc8f1e2b9",
+      "lines": 58,
+      "actual_independent_read_scope": "Earlier own whole old/new/source authored recovery and argument independent cold retained at exact59fbb current. Fabrication/provenance, severance/fusion/insulated gathering and genuine-record dismissal remain particular."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "sha256": "20d2f8f7af10e213a8b289631043ffa93e3df32b81195faf2adc35808437174d",
+      "lines": 108,
+      "actual_independent_read_scope": "Earlier own complete current/source operation comparison retained at exact20d2 version. Wrong piece under adequate frame differs from failed frame; mathematical fit/cover/authority/source offices scoped."
+    }
+  ],
+  "source_operations": [
+    {
+      "operation": "Primordial relation and complete eight",
+      "acceptance": "Constitutive broken-edge counterpart precedes optional label. Bare parent brackets conscious circumstance, question/assertion, reserve/issue, capacity/instance, personed context, horizon/local difference and inverse return. One relation acquires offices. Parent/six/return,4+2,3:3,3:1 and4:2 remain distinct counts and operations."
+    },
+    {
+      "operation": "All six Name/Power pairings",
+      "acceptance": "Truth/Play receives field and free beginning; Mind/Need receives and searches the actual gap; Word/Sacrifice articulates with cost; Logos/Decision gathers proportion and commits; Son/Love embodies and widens concern; Image/Work reflects achieved form and returns its further use. Complete source faces remain co-present, not twelve components or Power appended after naming."
+    },
+    {
+      "operation": "Locally recursive knowing within Life",
+      "acceptance": "Judging agent is the relative functional knower, source/map/memory/rule/tools means, and claims/routes known. Same apparatus is means in the containing person inquiry. Further inspection makes the local centre known without acquiring current first-person condition as inventory. Persona remains addressable means; report and first-person condition retain their different offices."
+    },
+    {
+      "operation": "Living symbol and counterfeit mechanisms",
+      "acceptance": "Mutual transformation can reorganise receiving capacity; an idol protects achieved form as source. Severance, fusion, insulated gathering, monoisation and protected account fail differently. Fabrication can falsify a seam to an event; dismissing a genuine record merely because fabrication is possible remains a separate consequence."
+    },
+    {
+      "operation": "Constructed route and ethical cost",
+      "acceptance": "Inherited purpose/map/permission, questioned route, reserve allocation and recurrence, locked-gate report/personed reply/local horizon, all Names/Powers, labour and infrastructure costs, authority, refusal and shared product return perform distinct operations. Ordinary field zero quotient remains unavailable; gate report is not literally a derivative. Components and interface labels alone do not establish the native whole."
+    },
+    {
+      "operation": "Proper returned depth and stronger actual change",
+      "acceptance": "Corrected answer under a fitting rule, model/task/permission/commission repair when exposed, or reasoned retention can govern later use. A permanently immune criterion blocks the return route. A changed result without recoverable producing relation does not establish recognitive answerability; a claim of changed processing requires an identified producing change. No compulsory evaluator change at every return."
+    },
+    {
+      "operation": "Embodied returns and process source scope",
+      "acceptance": "Indra reflected dependence, Meal assimilation with answerable companions/satiety/renewal, adequate jigsaw frame versus failed frame, Neumann mark/erasure/aperture and uroboric nourishment/transformation/hole remain different operations. Whitehead achievement enters further becoming in his own metaphysics; technical shared-record inheritance needs actual execution and does not preserve original subjective immediacy."
+    }
+  ],
+  "qualification": "All20 individual source-specific reasons compared with actual positive operations and necessary boundaries. Unchanged0hard audit is separate verification evidence.",
+  "remaining_required_native_semantic_faults": [],
+  "limits": [
+    "No new full external book/PDF/print/critical translation, source quotation or quotation-readiness admission. Whitehead selected cards remain paraphrase-only.",
+    "Authorial cross-register derivation and external psychic/biological/theological witnesses remain differently warranted.",
+    "No implemented route planner, deployed architecture, measured material cost/clinical change or institutional ratification certified.",
+    "Owner impact-byte re-entry and source20 records are not this reviewer all-consumer semantic acceptance.",
+    "All48movement bodies and sovereign manuscript deferred; prior published batches unchanged."
+  ]
+}
