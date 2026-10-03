@@ -1,0 +1,105 @@
+{
+  "original_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/before-peer-acceptance.json",
+  "original_sha256": "fb9d09ba4950ceff0eb9be6dbecbd7e4db323435734dcd2b70e4e50154f0b0ee",
+  "current_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/CANDIDATE-MANIFEST.json",
+  "current_sha256": "b2962d856b06e3b14cc471e84785514dcf9cbcb2173b008b9b9f0a727e2cce29",
+  "actual_difference": "Record status plus truthful existing independent peer path/hash and remaining packet status only; no candidate/source/effects/check/qualification/execution proof change. Peer remains bound to exact original fb9d snapshot, not rewritten as reviewing current acceptance metadata.",
+  "records": [
+    {
+      "id": "A28",
+      "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+      "original_body_binding": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+      "proofs": [
+        {
+          "role": "candidate",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "current_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd"
+        },
+        {
+          "role": "source_readings",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS.json",
+          "current_sha256": "1ed8fad767edf139829d2e94cac19bbafc4e238879c2b8b5103ff09c89fde764"
+        },
+        {
+          "role": "pre_edit_recovery",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/PRE-EDIT-RECOVERY.json",
+          "current_sha256": "a8ef6fb70464b97bfc3d406afb8b420c449a4c6d89595c06558cce0aa2d130d8"
+        },
+        {
+          "role": "effects",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EFFECTS-DEPTH4.json",
+          "current_sha256": "7d40ccb1d647b342a456bb8c4cfe17407801c834b46bae8803e32e939f85d26c"
+        },
+        {
+          "role": "returned_byte_read_coverage",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/RETURNED-BYTE-READ-COVERAGE.json",
+          "current_sha256": "2b3770396ae1b0c65fb7c76b673cd64ed5df0ae773c99c5bddc0e19527282b92"
+        },
+        {
+          "role": "execution_ledger",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EXECUTION-LEDGER.json",
+          "current_sha256": "383e59f1882f112f1329c444f76b324c44feb53f821aee9beca935f828e64a6b"
+        },
+        {
+          "role": "qualification_reasons",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/QUALIFICATION-REASONS.json",
+          "current_sha256": "6d618875ee34953dc35230828e4c77a891266f932ac8a5fe677aac050271f917"
+        },
+        {
+          "role": "lightweight_checks",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/LIGHTWEIGHT-CHECKS.json",
+          "current_sha256": "13250c5a2a171343698d48c9dd164b229bd10d1ad811f7f619b1b677f93f9d0f"
+        }
+      ]
+    },
+    {
+      "id": "A28p",
+      "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+      "original_body_binding": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+      "proofs": [
+        {
+          "role": "candidate",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+          "current_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb"
+        },
+        {
+          "role": "source_readings",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS.json",
+          "current_sha256": "1ed8fad767edf139829d2e94cac19bbafc4e238879c2b8b5103ff09c89fde764"
+        },
+        {
+          "role": "pre_edit_recovery",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/PRE-EDIT-RECOVERY.json",
+          "current_sha256": "a8ef6fb70464b97bfc3d406afb8b420c449a4c6d89595c06558cce0aa2d130d8"
+        },
+        {
+          "role": "effects",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EFFECTS-DEPTH4.json",
+          "current_sha256": "7d40ccb1d647b342a456bb8c4cfe17407801c834b46bae8803e32e939f85d26c"
+        },
+        {
+          "role": "returned_byte_read_coverage",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/RETURNED-BYTE-READ-COVERAGE.json",
+          "current_sha256": "2b3770396ae1b0c65fb7c76b673cd64ed5df0ae773c99c5bddc0e19527282b92"
+        },
+        {
+          "role": "execution_ledger",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EXECUTION-LEDGER.json",
+          "current_sha256": "383e59f1882f112f1329c444f76b324c44feb53f821aee9beca935f828e64a6b"
+        },
+        {
+          "role": "qualification_reasons",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/QUALIFICATION-REASONS.json",
+          "current_sha256": "6d618875ee34953dc35230828e4c77a891266f932ac8a5fe677aac050271f917"
+        },
+        {
+          "role": "lightweight_checks",
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/LIGHTWEIGHT-CHECKS.json",
+          "current_sha256": "13250c5a2a171343698d48c9dd164b229bd10d1ad811f7f619b1b677f93f9d0f"
+        }
+      ]
+    }
+  ],
+  "independent_peer": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A28-AUTHORED-SESSION-REVIEW.json",
+  "independent_peer_sha256": "de5e1fa3e7034eb154afc453a915eec2a4f5966f9548194a1b8bf27485a76474"
+}

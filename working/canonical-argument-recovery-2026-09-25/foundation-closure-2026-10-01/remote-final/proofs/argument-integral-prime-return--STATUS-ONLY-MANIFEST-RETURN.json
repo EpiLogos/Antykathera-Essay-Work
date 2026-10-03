@@ -1,0 +1,9 @@
+{
+  "original_owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/before-peer-acceptance.json",
+  "original_owner_manifest_sha256": "c9249ac12c8cce6fdb598036e01cec2ba205b7c4820db6f45cb62bc8d85bbbe4",
+  "current_status_owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/CANDIDATE-MANIFEST.json",
+  "current_status_owner_manifest_sha256": "af4198345f2085db1e72e84107c995c2d61311d42127ac2652ee6b298d09554a",
+  "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-LAST-TWO-SOURCE-REVIEW.json",
+  "independent_cold_review_sha256": "1c93c17a73b23826cb9ae074f7c0819f97d114855d3c7cc8cb490617ae25988a",
+  "actual_return": "Only acceptance metadata/remaining pointer updated; exact preimage/candidate/source/effects/ledger/qualification bytes unchanged. Peer remains bound to original frozen writer manifest; retained snapshot, not retroactively rewritten as reading status update."
+}

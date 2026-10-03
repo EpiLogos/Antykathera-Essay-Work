@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "A28",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "preimage_sha256": "16cc3e53e36200faf8fa67e107f14091d56b2019cf59439c02275f0a8931c40c",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS.json",
+      "effects_depth": 4,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Independent whole old/new/source/public accepted; nonlive ready.",
+      "independent_peer_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A28-AUTHORED-SESSION-REVIEW.json",
+      "independent_peer_sha256": "de5e1fa3e7034eb154afc453a915eec2a4f5966f9548194a1b8bf27485a76474"
+    },
+    {
+      "id": "A28p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-prime-The-Authored-Session.md.txt",
+      "preimage_sha256": "e68e3a7fa99a4191c7e796e36f46ea97b9732803bfee4b8550806bba4f51acdd",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+      "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS.json",
+      "effects_depth": 4,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Independent whole old/new/source/public accepted; nonlive ready.",
+      "independent_peer_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A28-AUTHORED-SESSION-REVIEW.json",
+      "independent_peer_sha256": "de5e1fa3e7034eb154afc453a915eec2a4f5966f9548194a1b8bf27485a76474"
+    }
+  ],
+  "remaining_owned": [
+    "A36 complete native recovery",
+    "A33prime complete receiving operation",
+    "A18 actual native full source comparison before disposition"
+  ],
+  "other_pending": "A12 independently accepted ready; A36 stable own source/public complete independent peer pending; parent owns A16 and publication. Existing24 earlier accepted operations may now be locally included by parent, never reapply their old preimages."
+}

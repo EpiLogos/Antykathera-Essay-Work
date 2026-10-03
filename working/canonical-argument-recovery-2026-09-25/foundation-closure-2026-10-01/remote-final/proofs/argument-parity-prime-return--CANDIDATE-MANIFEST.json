@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "id": "A33p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/preimages/A33-prime-Parity.md.txt",
+      "preimage_sha256": "851d591664a9db181f1de80fb16390c15f0f76c0c4800cf6aa511a06763ab358",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/candidates/A33-prime-Parity.md.txt",
+      "candidate_sha256": "9a7db85f727e1da37fba7df0a67f57fb895b15691b18210a01760ca954e85df3",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/SOURCE-READINGS.json",
+      "effects_depth": 4,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Independent complete old/new/source/public accepted at exact final; frozen non-live for parent native inclusion and unchanged validation.",
+      "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A33P-PARITY-REVIEW.json",
+      "independent_cold_review_sha256": "331bd0686dcb96d571bb3ab4e2d4d62b93da0db5e7cd13a7654bd8ba4c47dab1"
+    }
+  ],
+  "native_partner_preserved": {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/preimages/A33-Epistemic-Cultivation-Operational-Parity.md.txt",
+    "sha256": "2b0bec9be729636b03e871b6a49cfc89543eb9f0326d45f6a2b89443982f22b2",
+    "bytes": 14026
+  },
+  "remaining": [
+    "Finite current-body A07/A17/A31/A34 public-operation receiving joins retained separately; source/math operations preserved. No whole external history/quotation/runtime closure."
+  ]
+}

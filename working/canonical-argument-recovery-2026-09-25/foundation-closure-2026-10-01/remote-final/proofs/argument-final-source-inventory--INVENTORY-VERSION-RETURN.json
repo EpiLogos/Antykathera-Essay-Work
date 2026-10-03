@@ -1,0 +1,42 @@
+{
+  "initial_inventory": {
+    "role": "exact dated initial inventory",
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY.json",
+    "sha256": "2e7ac571115d5d3913ba1e9bc8985433955acb27f75d0237c7e502e430b8f43b"
+  },
+  "final_inventory": {
+    "role": "actual final source-operation/disposition version",
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY-V2.json",
+    "sha256": "120393b7382f1f3339c2805c0e45648a4f76dd371826dece71b179f3207b9bcd"
+  },
+  "old_owner_reference_returns": [
+    {
+      "role": "exact source/body/manifest version return",
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "e4278de1f71822277cf7a4b0464ce35e379774a3f6b242e4f29d77d0acd4c242"
+    },
+    {
+      "role": "exact source/body/manifest version return",
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "b9ae0edcdf237979c415199aac5889dc2adc87ba59554c4ac811e0a620988066"
+    },
+    {
+      "role": "exact source/body/manifest version return",
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "26f2b5a35fa50f6053b23bbefba932547ce946e06f09ebddb1bd5780839890e4"
+    }
+  ],
+  "exact_received_body_correction": {
+    "role": "one precise full source/closing return",
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PEER-PUBLIC-RETURN.json",
+    "sha256": "f6df70351033f096d9031a587ba7ee9865fa96e74087cc0a2d1e9f85f8b93738"
+  },
+  "published_four_review": {
+    "role": "new actual review; published bytes unchanged",
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-final-prime-four-cold/INDEPENDENT-PUBLISHED-PRIME-FOUR-SOURCE-PUBLIC-REVIEW.json",
+    "sha256": "7eee1fccd2325524bed7ff11e5a309025267169f274f86693b7eefd79f61f24e"
+  },
+  "standing": "Initial inventory pending statuses and original owner hashes remain exact historical evidence. Each changed live manifest path can be resolved to its immutable before-status/reviewer snapshot through these status returns. Only A34prime non-live terminal paragraph changed during independent late10 review; its original390f and exact final99fd source return are preserved. No published/canonical body changed.",
+  "native_writes": 0,
+  "heavy_jobs": 0
+}

@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "id": "A12",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/preimages/A12-Mono-Poly-One-All-Whole-Many.md.txt",
+      "preimage_sha256": "44b746dd65b62da88c5b450dcf36c755b87a834c008ef9b5ac0674f5f0962fb2",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/candidates/A12-Mono-Poly-One-All-Whole-Many.md.txt",
+      "candidate_sha256": "3dcd89e734b1da2d7e9eb666415e3c338d057cd792a9fcd608c356d568979f4f",
+      "paired_prime": "submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md",
+      "paired_prime_sha256": "7f77c31468aebe5d7400ff3d2526f2c3b84b3e937d156fbb03aa618fc0079cc7",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/PRE-EDIT-RECOVERY.md",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/SOURCE-READINGS.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Independently whole old/new/source/public accepted; exact final non-live pending parent inclusion.",
+      "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A12-COMMONS-REVIEW.json",
+      "independent_cold_review_sha256": "2c9069e5bb6bf3b99b3bded3beaeea724e7f662382c1522e05f3f34d03aa1cce"
+    }
+  ]
+}

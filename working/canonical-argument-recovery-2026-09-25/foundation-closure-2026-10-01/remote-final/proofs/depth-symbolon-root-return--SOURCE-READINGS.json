@@ -1,0 +1,103 @@
+{
+  "direct_generators": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_read_scope": "Fresh complete 640-line authorial core in consecutive 1–115/115–190/190–385/386–463/464–640; initial combined tail clipping replaced by separate full IX–XI464–640. All old raw guard lines preserved unchanged; later minute/recovery consumer rule governs present receiving office."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/methods/source-grounding.md",
+      "sha256": "74f9c7bd9757b5f94e31bb504ad64bc99b5d8574bc5c7c5f59bfaff78dac0e56",
+      "actual_read_scope": "Fresh complete actual source read. Protocol fresh1–240 here plus earlier complete whole in this logical recovery; minute whole102 and both protected source-grounding/Self-Identity whole generators read. No source mutations."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/self-identity.md",
+      "sha256": "6b14cc0da372d492ecd072b268b73dec203225ae4892e615e8df19ec353f40d0",
+      "actual_read_scope": "Fresh complete actual source read. Protocol fresh1–240 here plus earlier complete whole in this logical recovery; minute whole102 and both protected source-grounding/Self-Identity whole generators read. No source mutations."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_read_scope": "Fresh complete actual source read. Protocol fresh1–240 here plus earlier complete whole in this logical recovery; minute whole102 and both protected source-grounding/Self-Identity whole generators read. No source mutations."
+    },
+    {
+      "path": "docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md",
+      "sha256": "7a354829498ef3699d6bf9d6a9070463844739f65333bfe715c12f51a61b7324",
+      "actual_read_scope": "Fresh complete actual source read. Protocol fresh1–240 here plus earlier complete whole in this logical recovery; minute whole102 and both protected source-grounding/Self-Identity whole generators read. No source mutations."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f",
+      "actual_read_scope": "Retained actual earlier complete499-line source read at depth-continuation/GENERATING-REGISTER-COMPARISONS.json.complete_raw_source_reentry; not freshly reread499 this pass."
+    }
+  ],
+  "direct_consumer_reads": [
+    {
+      "root": "SUBJECT-LOGICS",
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md",
+      "sha256": "4042f553cceb0627012ae4cf4c9e1bd08558d49fd4660203172871873f8079c7",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "SUBJECT-LOGICS",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "36674d38fa438a2aad1aa40290d0ef0848cc193ec0fc16aaeeb2452b6fd36b6c",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "SUBJECT-LOGICS",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "sha256": "7f5ef2bc2793f81f5ef89b4276e280d25e911157456ff22599b31553097885c9",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "SUBJECT-LOGICS",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "SUBJECT-LOGICS",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "sha256": "1adca4e275dfc11a86fdfb5c0b18703b10adfc40e395d83361c453fab24e152a",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "X-X-ROOT",
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "sha256": "f04585d4e3837f6404d77262c52c8edfdbfbb6ef23fd3e0f556ff03d993bf10b",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "X-X-ROOT",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "cccbe851db3008695bab394b5d5e87c9c2021cda4aab5f107a6a5745f7a51c8f",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "X-X-ROOT",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "3d03e6ae7d415abc8acea87da90fe39c32eac2f85049f0c62f1cd106397407be",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    },
+    {
+      "root": "X-X-ROOT",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "10fc631bd7b0be1a125cd2a3e320f6f6f4464b3a82eb1c5174cc050cb05076ac",
+      "actual_scope": "Fresh complete current direct consumer re-entry before drafting; all original bodies read untruncated. C01 initial grouped clipping repaired by independent complete73 read; A18 complete1–110/111–188; AC complete1–130/131–246. Two protected movements read only for their source/receiving scope, remain deferred unchanged.",
+      "acceptance_boundary": "Actual native-operation comparison; no new whole historical/book/quote/runtime/movement acceptance inferred."
+    }
+  ],
+  "semantic_operation": "Complete coreII(c) eight/personed/means sequence; fullcoreVII psychic reserve/specification/threshold/mediated/context/totality; fullIX crossed-zero/ordinal/thread; fullX/XI actual contraction and process runtime. Later minute/recovery rule preserve real relative local knowing within containing person means; exact actual C01/C41/AC elaborate this source office. Both whole roots reread before draft and whole finals separately after manual18paragraph recovery.",
+  "effects_scope": "SubjectLogics181/Xx169 byte paths fully reopened separately; graph and byte hash do not confer semantic acceptance.",
+  "unchanged_sources": true,
+  "external_source_limits": "No fresh whole philosophical historical editions, linguistic proofs, clinical outcome, runtime/implementation or experiential-certification claim. Original Descartes/historical/Lacan attribution boundaries retained."
+}

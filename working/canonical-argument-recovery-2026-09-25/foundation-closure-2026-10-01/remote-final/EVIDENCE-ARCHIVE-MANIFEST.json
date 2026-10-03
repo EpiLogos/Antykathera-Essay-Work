@@ -1,0 +1,2660 @@
+{
+  "archive_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-final/RECOVERY-EVIDENCE.tar.xz",
+  "archive_sha256": "4871daa9b3ab64231087ef0ffa846907459c3dfed5d7f91c0d6e8271b177b7df",
+  "entries": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/FINAL-ASSEMBLY-ADDRESS-RETURN.json",
+      "sha256": "d5915027551f82d44d8ac360d418c30e4b31fd4a755c4d4597512e8a348c6794",
+      "role": "operation evidence",
+      "bytes": 343
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/A28-Authored-Ground-Positional-Delegation.diff",
+      "sha256": "98771aec7a0f3f059a00c62ea5f83a1f8ba2e6c42936c818fb54580a1093718a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 21643
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/A28-prime-The-Authored-Session.diff",
+      "sha256": "4bc2b86119ced4e1397f947125d10f7dda5e8eeca1bad023b667cf47cabc2969",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17596
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/CANDIDATE-MANIFEST.json",
+      "sha256": "b2962d856b06e3b14cc471e84785514dcf9cbcb2173b008b9b9f0a727e2cce29",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4959
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EFFECTS-DEPTH4.json",
+      "sha256": "7d40ccb1d647b342a456bb8c4cfe17407801c834b46bae8803e32e939f85d26c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 734636
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EXECUTION-LEDGER-before-count-return.json",
+      "sha256": "43bcdd54e33fbd302a05634da8deebb067c74fb113a625c689f9c4b644942d7b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6686
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/EXECUTION-LEDGER.json",
+      "sha256": "383e59f1882f112f1329c444f76b324c44feb53f821aee9beca935f828e64a6b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6997
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "13250c5a2a171343698d48c9dd164b229bd10d1ad811f7f619b1b677f93f9d0f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 28074
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "a8ef6fb70464b97bfc3d406afb8b420c449a4c6d89595c06558cce0aa2d130d8",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1895
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/PREIMAGE-MANIFEST.json",
+      "sha256": "05dc6f5defeff9ad86428d0eca96f0c7c512f4e9ae8e71519c27997551077110",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 802
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/QUALIFICATION-REASONS.json",
+      "sha256": "6d618875ee34953dc35230828e4c77a891266f932ac8a5fe677aac050271f917",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 23957
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "2b3770396ae1b0c65fb7c76b673cd64ed5df0ae773c99c5bddc0e19527282b92",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 61037
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SELF-SIX-OFFICE-RETURN.json",
+      "sha256": "b6a86cfad5b2b751700581c61bae2086eaad05aa613c7cb81bb77a7b2e09d508",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 483
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SELF-SOURCE-STANDING-RETURN.json",
+      "sha256": "7f26ffb39c16d997334a319d1ca7f94065650f0bc03e57e017e47945bd56bf41",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 823
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS-before-candidate.json",
+      "sha256": "7301e81f29235438951131ae6c38e5c58b32f96f671c85701fa972b9bef06784",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11232
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS.json",
+      "sha256": "1ed8fad767edf139829d2e94cac19bbafc4e238879c2b8b5103ff09c89fde764",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12845
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "557fd929b77543bb1c2ff1a72f5c094cd411b83d551bd839a2243fec3d639ec5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6612
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "ef9d8fa59766b6bdec2ec1522005d019beae55f877da32fc56fb9228a78e0051",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 40579
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/before-peer-acceptance.json",
+      "sha256": "fb9d09ba4950ceff0eb9be6dbecbd7e4db323435734dcd2b70e4e50154f0b0ee",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4321
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/before-self-six-office/A28-prime-The-Authored-Session.md.txt",
+      "sha256": "9fc798f58233b75ccdfe9e0798e1cead7b5bb71e9d18978b337d035699aacb13",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10289
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/before-self-source-standing/A28-prime-The-Authored-Session.md.txt",
+      "sha256": "326b16b1030d2be44967c25e3cdce2930e45e545f7077d6615b7e3838511d5b5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10342
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12797
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+      "sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10352
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "sha256": "16cc3e53e36200faf8fa67e107f14091d56b2019cf59439c02275f0a8931c40c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10970
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-prime-The-Authored-Session.md.txt",
+      "sha256": "e68e3a7fa99a4191c7e796e36f46ea97b9732803bfee4b8550806bba4f51acdd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8569
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/A12.diff",
+      "sha256": "8d709b15f06f056c0c39ed9619acfa613a82811070fed88d7014500bbea969c1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 23499
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/CANDIDATE-MANIFEST-before-peer-acceptance.json",
+      "sha256": "1fb519add1372c88b52db6e6c8965153ee564aa5ab04c301ae0594c4ea8eec20",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1910
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/CANDIDATE-MANIFEST.json",
+      "sha256": "8c7a8fdcccad8b1ba510a2e7a6848112a2a95b2fa282ec00b8e95494199b34e1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2149
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/EFFECTS-DEPTH4-current83.json",
+      "sha256": "c7416371e024261d9a9ef6cac3c0834b56c899eb01e04285683a3e2f28602198",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 727858
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/EFFECTS-DEPTH4.json",
+      "sha256": "c7416371e024261d9a9ef6cac3c0834b56c899eb01e04285683a3e2f28602198",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 727858
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/EXECUTION-LEDGER-before-peer-acceptance.json",
+      "sha256": "3b646c902e953e1cc515c1987494cddad396ce8a19ec74473d30a9b0a8690c70",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2440
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/EXECUTION-LEDGER.json",
+      "sha256": "4dac6b2d7ea21ef529597c7de4f22e1e5354160d3e2f996b41de14333fd80de6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2671
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "02e5c0e0a5a2d000a21383d882511d857794a90121ecd0b9e4d249ce5f56b0dc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16401
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/PARENT-READY-25-RETURN.json",
+      "sha256": "c70a91b90c0a5d947031ff5ea96c23fe693c03191731396df36afd694cfdf041",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 37412
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/PRE-EDIT-RECOVERY.md",
+      "sha256": "171255e42a6fae28d7699e9cf6547ee547f197ce0ea76eed89f2006e97455bdd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3456
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/PREIMAGE-MANIFEST.json",
+      "sha256": "7015db9d361831ced5b38cbf724579d821fc585c1669674604d54953c4313cda",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 778
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/QUALIFICATION-REASONS.json",
+      "sha256": "470c1087e71d1414c8dfbb7b5a060ef29708d345cdb4f5c8a9d423d919127a57",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16343
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/RETURNED-BYTE-READ-COVERAGE-current83.json",
+      "sha256": "c43b7be690ea1a5a7579c900f81147f5023100e7d0e17d65767429b82404354f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 58401
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "42575678300665371ea3c2db946accba87b1228d12f552dba795aa3fc5d6369b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 55185
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/SOURCE-READINGS.json",
+      "sha256": "f2e64e72a56447d2ad132184de016671bad41af05ae7abc9e305f0bdb7305cba",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13295
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "db3233f436ab9d5c43210613e15e41e974be554d9c401d44fac0f17de960318a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 23329
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/candidates/A12-Mono-Poly-One-All-Whole-Many.md.txt",
+      "sha256": "3dcd89e734b1da2d7e9eb666415e3c338d057cd792a9fcd608c356d568979f4f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16888
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/preimages/A12-Mono-Poly-One-All-Whole-Many.md.txt",
+      "sha256": "44b746dd65b62da88c5b450dcf36c755b87a834c008ef9b5ac0674f5f0962fb2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10878
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-commons-native-return/preimages/A12-prime-Against-Monoculture.md.txt",
+      "sha256": "7f77c31468aebe5d7400ff3d2526f2c3b84b3e937d156fbb03aa618fc0079cc7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8149
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/A02-Copula-Self-Identity-through-Difference.diff",
+      "sha256": "aa92da12c989a8efc6cb27e0cd750d45b41cf010fef37fdf1e755a003890f399",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1310
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/CANDIDATE-MANIFEST.json",
+      "sha256": "f27a45347bfacd54c5f0d03c14d6c6427fe32f7ebcdd08c93de52954e955d946",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3191
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/EFFECTS-DEPTH4.json",
+      "sha256": "e1407444d5563cf754414174f39c3e797ffd1529cb0fb64f2c9295572605c1e3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 812777
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/EXECUTION-LEDGER.json",
+      "sha256": "13de9b8ebd0962de187fea547e6ffcba8295896ad9b5b7b2269292c1005a5402",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3167
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "ad2d0efb5c01e132ffbe1fb9ea0fee865b657a80c2fc29207f5510b983a204fb",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17880
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "ceda5404255ee4ca8409ee32bda922081d2b8fe2d08c290397f99c3befda9719",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1556
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/PREIMAGE-MANIFEST.json",
+      "sha256": "c2cf6f5a7d0fb23df2a20cd686eaeaf92038c00bb91164d108fe98262c72ac45",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 838
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/QUALIFICATION-REASONS.json",
+      "sha256": "2c533656e18a5f0df235f063a5292f97f8e6f85457e76153d56b3dd5550e5b39",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17052
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "ec003ea979e315055e303f435314a81f341d706a903aa720e8d4a44bb2ded3b9",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 62352
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/SOURCE-READINGS.json",
+      "sha256": "ed00615d9f4b2ca00a5e6732ed421653c53bc6c38f17aadf7e01c01fcc61ab91",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4450
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "59829b2d59e30ef6fd5f30355a3bdca900eb1771dbc276baa281002f04e74b89",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1114
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "e532e1d5011a9dbafebc3ae58a206712afe08896ae232b38ba009479391b8eaa",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1379
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/before-peer-acceptance.json",
+      "sha256": "cd817048e0a8722e7ad01a71bcc39c06a30ecc07b0112e1f35453f8675eb16f4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2649
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/candidates/A02-Copula-Self-Identity-through-Difference.md.txt",
+      "sha256": "c523539438b67481607eb53887a2f1c48bdf6626566f08f4b2651bdc54906051",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16537
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/preimages/A02-Copula-Self-Identity-through-Difference.md.txt",
+      "sha256": "0ea2b6c4483da18d1dc588c28095e98a0fd1cd7c4c0c2ba57e1ac228ff562428",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16543
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-copula-narrow-return/preimages/A02-prime-Continuity-as-Maintained-Identification.md.txt",
+      "sha256": "03dc97660e70ee513cf07768c34aa38e6a5a2208fbb15a846bbc490b4fc85b79",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7708
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.diff",
+      "sha256": "c24bb3870b0776e5549b24669e70aad5bda03cfec741c1148d4214edf58addca",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15612
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/A17-Toroidal-Circulation-and-the-Arche-Topos.diff",
+      "sha256": "ad0096f202ed1b7a8a9f25a5972b181873b962fdb21f410e69594b1a0a751aad",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11245
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/A17-prime-Traversal-with-Return.diff",
+      "sha256": "3999a46b83b44b5a38342755f98fbe5db150df3366bb40fc95f567d25da9eb51",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8913
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/CANDIDATE-MANIFEST-before-peer-acceptance.json",
+      "sha256": "18215fc0ff4df373b6853dfa63b6f912209f26754fd953058196b3ee8a991e04",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6180
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/CANDIDATE-MANIFEST.json",
+      "sha256": "d7290166d0c85c4f5af6ada2a620ff44169514cd49147fddc8458839f092ed39",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9036
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-A07-DEPTH4.json",
+      "sha256": "8305bef0a88e26cd13282df6a5247a75591a2c553e0ea71ac722feb529eff1d6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 795650
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-A17-DEPTH4.json",
+      "sha256": "1cde3eb4c0895f7fef1140d85ea5fc138b8cee58383b623a11baa99d3d12fcbf",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 742083
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-A17p-DEPTH4.json",
+      "sha256": "2c17d789537c60d9f7be3be883b55459aaf6e610fe44b9b5a670f5de6828e131",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 740966
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-DEPTH4.json",
+      "sha256": "8dd52876638cae92beab48a0ca7b0df6f5dd45fef78e9b936dc4e3473052c1a9",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 797
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EXECUTION-LEDGER.json",
+      "sha256": "362aee488b385e2bebbac0a32224303e1c2fbc0fa174f17d536e42d7cf8c9bc6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7396
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "097b6144c51ced2b8f9c65fcb0647d90ebb1e62ef5af75f9c42641e65b4b4e96",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 34086
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "39dbd1d04a48140d0d6343e396d191d568590c1dd72b6649adb396a760e642f4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3379
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/PREIMAGE-MANIFEST.json",
+      "sha256": "d6311f7b61e1a241f703c89453753adda0e05c6d512d2afd99f070c60ee72906",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1645
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/QUALIFICATION-REASONS.json",
+      "sha256": "eb986349b04cef67aeb7dc072433673b8622094d3bbdfef34c8a9d0db94b3494",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 59909
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "5bd6272b28a638aeb09da2479e89c6108278b844270404caa7c45b5c855543f6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 63816
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/SELF-PUBLIC-RETURN.json",
+      "sha256": "aafe683283685bdf95e429bfd4b6898bc16beefdbe712209e54fa69527d0eb6d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1153
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/SOURCE-READINGS.json",
+      "sha256": "b928f8e46447eeb08828d4e174c339a3f6949650c32068b88bafd215105c92cb",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17409
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "e4278de1f71822277cf7a4b0464ce35e379774a3f6b242e4f29d77d0acd4c242",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4715
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "e341be8fd7da54ee2fc995db52f9702a184ba1f84cdbd3944f0c03cdeb6e0e96",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 31466
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/before-self-public/A17-prime-Traversal-with-Return.md.txt",
+      "sha256": "ce1e0d9d51a168dae8fe69c9be3203a4e2ee8db52c9037fadfda06e6459689a8",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9224
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/candidates/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.txt",
+      "sha256": "b661814c563477d67ee9d42d5c5a0b02aea738f5cb97ba35127f48ad6e7ef5bd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12198
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/candidates/A17-Toroidal-Circulation-and-the-Arche-Topos.md.txt",
+      "sha256": "9c82c18fa20d687b09bb1323ff054a2e7754355886042f6d3870c36c4b5e1d40",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15331
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/candidates/A17-prime-Traversal-with-Return.md.txt",
+      "sha256": "3672a8b96cfbdf71d44f8130994f6892d5dbbb3aa5e6f5dfb4a988ab199117cc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9292
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.txt",
+      "sha256": "029cafa745ac346f0fc3dfd96b732a7d13763624b75bcd8d4f9d5d1426cd2941",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11767
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A07-prime-Purpose-That-Survives-the-Metric.md.txt",
+      "sha256": "34124c70471b2c42be5df898ea929c003f1104e8e13f9ae1073015d51b44645a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6921
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A17-Toroidal-Circulation-and-the-Arche-Topos.md.txt",
+      "sha256": "1525064c85512bf700b1b93206fd9b3679246cf1031386af0e9600863f3e2a8b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14564
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A17-prime-Traversal-with-Return.md.txt",
+      "sha256": "783c5357f5bc985bb3a5b58b96ddc154e67b0e8d9c63b2ad4b75e78b76805199",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8860
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/A31-Deferential-Intelligence.diff",
+      "sha256": "ddd72eff0c9c46d60de890dac29b1050f949d3fe56cb3aaba16faa5730a8035a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6927
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/A34-Idealism-Order-of-Dependence.diff",
+      "sha256": "91aa7fa949ddf49f08ac09cb5c20bf2988240de84068dc1f2b848f99ca49ab2e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18014
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/A34-prime-Direction-of-Dependence.diff",
+      "sha256": "2393737583452f93b53aafff2a036101fd1d9054dfe52a0a0ae3fc91a333e27f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12224
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/A34p-peer-public-return.diff",
+      "sha256": "4cf44bf7de61b4e05f925eded744c163baf7105eb971b8b879f8c798efae906a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1787
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/CANDIDATE-MANIFEST-before-peer-acceptance.json",
+      "sha256": "a740ac2571e778ec28ca7b5aa18b395d367b8e7e9cbd8138ac3d40b38d46952f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6950
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/CANDIDATE-MANIFEST.json",
+      "sha256": "cbb87adcb6f3de5036f9d0f574e8d6476b75a6d85cbd8bc0abb673df68eee084",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9817
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/CHANGED-OPERATIONS.json",
+      "sha256": "eac5b09f5395c212fc620716177fc099ff049e95f3b2abeb6844d93055402571",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 23957
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-A31-DEPTH4.json",
+      "sha256": "16281f3a1f94afabcabedb3e3e7f68a1e76c3af713d9d98e501a8b772ec1c2ef",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 787385
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-A34-DEPTH4.json",
+      "sha256": "6d11eba0773e6113757df8770e23dd02c8b335b9bb593d7c115fade4c3a56c20",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 816875
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-A34p-DEPTH4.json",
+      "sha256": "f4686a946e91ee2c197d2ba6046ca305e522d5e08d1674e18906f43c7f7cfd62",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 780261
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-A34p-PEER-RETURN-DEPTH4.json",
+      "sha256": "f4686a946e91ee2c197d2ba6046ca305e522d5e08d1674e18906f43c7f7cfd62",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 780261
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-DEPTH4.json",
+      "sha256": "68c6d526de9fe608030e7396c29d4e66c0766e22bdc16e6b6c56331b58d56106",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 815
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EXECUTION-LEDGER.json",
+      "sha256": "eae2a0bade584bdc8e85740e815719370082082b8ade6c4fc787dc3196f8b09f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8370
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "05a7567243af99041657208fc499c923107f2924b3cd855d861e6a04c58911f4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 39082
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PEER-PUBLIC-RETURN-before-count-correction.json",
+      "sha256": "ca620f19fa7fde8220fb4dddd02233fdec6c7def2a83767042fe77232359f518",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4544
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PEER-PUBLIC-RETURN.json",
+      "sha256": "f6df70351033f096d9031a587ba7ee9865fa96e74087cc0a2d1e9f85f8b93738",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5009
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "9e83f871a9f9438e11576d246ec18cc264aaef4fc58047af430261c303100521",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3744
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PREIMAGE-MANIFEST.json",
+      "sha256": "6e31c9396080f92d45853cfa25e62ab300fc3e839254087e059e7aacd964a238",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1615
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/QUALIFICATION-REASONS.json",
+      "sha256": "78d7df2fe5229c8466d903ce65efd07da43a4d7c16fd988b64f7bcd163efa6dd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 58555
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "685f25f84dfcdd38e61cea89630f0095e9efdd38f9d6c5717df8293082c3a8ba",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 71253
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/SOURCE-READINGS.json",
+      "sha256": "5a3f108ec8a1c765832ab32b07162216837aeb001d8b45657f2108fe2d871121",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18948
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "b9ae0edcdf237979c415199aac5889dc2adc87ba59554c4ac811e0a620988066",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5128
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "db16c65d642686d4f7f9c57807a34ab6f2d509309501dd3b2ba70cd612b1922a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 31462
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/A34-prime-Direction-of-Dependence.diff",
+      "sha256": "fae17630b3a858d53aa99a0fd601a9b09358364d3fab447fce821e82ee47e127",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11897
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/A34-prime-Direction-of-Dependence.md.txt",
+      "sha256": "390f6377a74179f60ce324a57dbd202aeebeacc68ae1f781076e44c2d0d4edf0",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10162
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/CANDIDATE-MANIFEST.json",
+      "sha256": "65c38e1d02daf695adfdb47a6d04ad1681ec7906dbfb935a8af37facee208e5c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6231
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/EXECUTION-LEDGER.json",
+      "sha256": "57ea48db44960771966ba0a253552d68047ccc062a635692e1d36a97e319edb3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7830
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "4ab6bc586d5a3cba403da304fe4bbe4f03ecb2e74693e9ca4b4bb192da02b46b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 39082
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/QUALIFICATION-REASONS.json",
+      "sha256": "bd3dd05a9ed59efccf468855f8b11ab803df1681b4596e6d41ddc952327b40af",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 58405
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/before-peer-public-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "69dd3c323038fa53f45eab60f77e81cadb42901c9c22229253c040a5a1436841",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 30845
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/candidates/A31-Deferential-Intelligence.md.txt",
+      "sha256": "bf3be563e157d11ee52fb393f25e8ffa4ce46d6dcfae697154e084a07fff8ac3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12622
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/candidates/A34-Idealism-Order-of-Dependence.md.txt",
+      "sha256": "546e9578e3183d19392f59cfb7a887805c9055db0c120557890cc17ecf43ff6c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14461
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/candidates/A34-prime-Direction-of-Dependence.md.txt",
+      "sha256": "99fd04c2f8e96c58faa218259ed9034d9ac2b8e01137df84a1dfeed7200aa761",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10231
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A31-Deferential-Intelligence.md.txt",
+      "sha256": "3c95041501d0d682af8f8d91ff377ba7767fccc6388e0d8bb645def096ae6dc7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11458
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A31-prime-Deference-as-Co-Evolutionary-Alignment.md.txt",
+      "sha256": "1361fe672aa7911d1d6e036c1cd59e145f8030c16d353c73a138c1224749c0b1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8668
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A34-Idealism-Order-of-Dependence.md.txt",
+      "sha256": "36674d38fa438a2aad1aa40290d0ef0848cc193ec0fc16aaeeb2452b6fd36b6c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13452
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A34-prime-Direction-of-Dependence.md.txt",
+      "sha256": "7e342a403307ab92e8ec82de5aa900b380b5455fe66ba1b8b3cdc329708971e7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9109
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/A18-Primordial-Symbolon-and-Its-Eight-Determinations.diff",
+      "sha256": "2dfbad693049446a21ea2a064be086d665fc7e3c1dacb809451d7efe6fc1954f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12963
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/A18-prime-Traversal-Run-in-Code.diff",
+      "sha256": "f94a8d0c0853706ed9075003cec87480d00c2901d7c3bf75cc3e9d2d85f1abc4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 27928
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/CANDIDATE-MANIFEST.json",
+      "sha256": "6408608d29fe53bb15ca6918b6267c58f635fbf064d9b4dc8a0d5afccb0973e5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5076
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/EFFECTS-DEPTH4.json",
+      "sha256": "54cdaf2cffff882ef5960ad0e73ea163d42d07237482a632d8fc7706dfc0d2ec",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 716110
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/EXECUTION-LEDGER.json",
+      "sha256": "96b576b6be09948b0ac4c11dab7bd9070113de4334a59d21f8f8bf5d5e8234a6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5423
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "b5383b4303588b2daa2b0fb65662d7584fa1d0fecb92dfd4fb543ffd077dff2b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 28584
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/PARENT-READY-NINE-RETURN.json",
+      "sha256": "1b5f3f597432dbb953c259c43246226c898e64b75ea15bc0ca7a5b0044b462ad",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 42820
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "6218d830c566832c8b250c43ecef4fd3a7d9c660511849d15be563d7502adf2e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2773
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/PREIMAGE-MANIFEST.json",
+      "sha256": "b30fdb02956bfcfd02dc217fcc0b457163ead049e1e665115b553d025e619c64",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 827
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/QUALIFICATION-REASONS.json",
+      "sha256": "9e675d47803ffaa09fcb203ae849f3d3634ccdcb76d33baf99590fc434e50a0f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 42563
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "7df111f6edd07e21dff113023ecba897187b416d4f343e347146fdb3dd2c94cc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 67041
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/SELF-PUBLIC-RETURN.json",
+      "sha256": "858a8e965042db0010013fc39d1045b48dec3510aa5f19179db59861c929a258",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2716
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/SOURCE-READINGS.json",
+      "sha256": "28b8feeca11bb7bdc1f4f2e65cc64924d656fad000ca19291ede0c55f6eca67f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14221
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "6bd7442f8e74a53042df7db8177ebf6b09e504fbf74fa4d5fc894cf0fe55b6c7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1123
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "08f0fd0cf049286f862bbbe89ba8f12b8dc8a5834dddafcf8b10bcbbfd1b6aea",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 37460
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/before-peer-acceptance.json",
+      "sha256": "d441c34a8cb1d17c873d067b72fa631cfc7b9f96a8967579f291a296e0dabeea",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4165
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/before-self-public/A18-prime.md.txt",
+      "sha256": "56d66a305737aab8fe71d6c3cc725dfa18effd8877c270a8b88007a5543ae590",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18940
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/candidates/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.txt",
+      "sha256": "459e0f4fea16209081866bcf917791dce591c451066173688fb2df63719d78f2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17160
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/candidates/A18-prime-Traversal-Run-in-Code.md.txt",
+      "sha256": "14e15571809b8c04429db47d387cd5c17ed080169b9eadb2f25effa49024503a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18868
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/preimages/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.txt",
+      "sha256": "cccbe851db3008695bab394b5d5e87c9c2021cda4aab5f107a6a5745f7a51c8f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12773
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/preimages/A18-prime-Traversal-Run-in-Code.md.txt",
+      "sha256": "a207d7c7e59bd9cb11127822186d9701fc5b2e6cee96b79a891ecaae4a58b29c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18133
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL19-EXACT-QUALIFICATION-ASSOCIATION.json",
+      "sha256": "01777269868de5bf25f53a1ff0fc6d1e1eab3936d78ef9bfcea75ecf2f6e9248",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 427107
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY-V2.json",
+      "sha256": "120393b7382f1f3339c2805c0e45648a4f76dd371826dece71b179f3207b9bcd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 713769
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY-V2.md",
+      "sha256": "b03cefcce4d9b61cccbecf157ea412227b84b5f684ae6165036fcb266ff0f4d8",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4166
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY.json",
+      "sha256": "2e7ac571115d5d3913ba1e9bc8985433955acb27f75d0237c7e502e430b8f43b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 615398
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY.md",
+      "sha256": "34652f480f228765a87e6871b6f510c4c9978df584241123a48b3ec01440a69f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4484
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/INVENTORY-INTEGRITY-CHECK.json",
+      "sha256": "2234397c67dc3ef8145810b1397c68fa930384c9fa6b981a57f92af3a0d9ca27",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1132
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/INVENTORY-VERSION-RETURN.json",
+      "sha256": "57c844c059ce9e03efdbe5cd9159a575909d8cddcbfe466d164d96cc443ddc63",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2802
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/PARENT-READY-NINETEEN-RETURN.json",
+      "sha256": "0d68715d1d76b23a1a5e2e30c7156c074f2045f704fcc4d4da7e0c5e582a5bfa",
+      "role": "operation evidence",
+      "bytes": 103831
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/PENDING10-EXACT-QUALIFICATION-ASSOCIATION.json",
+      "sha256": "89a4f24ea42c1a45ad41e88516fb1c647d5039fdf828e2def2525596ebfd4ed3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12024
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/QUALIFICATION-ASSOCIATION-FIRST-ATTEMPT.json",
+      "sha256": "62ecd5b23bd42ab1c6d3cffcd453d0494eaa6f993c06c4ff2d39bc6ccf96c52f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 756
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/QUALIFICATION-ASSOCIATION-SECOND-ATTEMPT.json",
+      "sha256": "33f585d9104be9e07c732f1e002216a501f7a1564e83bfc4b0420629e6baa845",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 438
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/A36-prime-Integral-Zero-of-the-Hybrid-Society.diff",
+      "sha256": "b7db8a3ab74fc9cdffccb8e787481f4d258fbd5391810c20cc682de64cf574ca",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17658
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/CANDIDATE-MANIFEST.json",
+      "sha256": "af4198345f2085db1e72e84107c995c2d61311d42127ac2652ee6b298d09554a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3165
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/EFFECTS-DEPTH4.json",
+      "sha256": "8bb1e37d07e4aaee430c92687a49d46110faf0766e0eb0e0b7816d29a08f066f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 744534
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/EXECUTION-LEDGER.json",
+      "sha256": "f717fa92a929def64013c01ae734de0a79c68903bc927e616813750e1fe13869",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3161
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "0acbb4f2799e9bfdb9e8168e0ed860db7e380a8440bea1a65f08dc6e90fc051f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11630
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "9ddbf3c4bc1a658e4594446e66bbdb0e96a4d2c9d0bd9b86b91a7fa3203bf341",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1773
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/PREIMAGE-MANIFEST.json",
+      "sha256": "8a417aa805145cdf1f44ee5687434758902072f1024775dcae9e2366ebf0e6ad",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 801
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/QUALIFICATION-REASONS.json",
+      "sha256": "bde9d44ca87fbac198cd8a0275fce2a768e9e00499ce45691f3fc57a1c81c1ad",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8868
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "5f14999b596fe453992ca6c42f21b6d234d20500c322d48c1a46db9015d8b164",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 57672
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/SOURCE-READINGS.json",
+      "sha256": "a90d48bbaa02d88a24fffb6bc514bf146321b1f34251b30bd765cc2e2fc9dc57",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8974
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "efd59d93cbdea534a7cd5567d2fe3e965301c81bbed8cc9546e68e7a0fad52c4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1116
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "8d2f88bc47f3caab80b729e128d9223dc7fd185e3fa29afc617936b58e053429",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17860
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/before-peer-acceptance.json",
+      "sha256": "c9249ac12c8cce6fdb598036e01cec2ba205b7c4820db6f45cb62bc8d85bbbe4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2623
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/candidates/A36-prime-Integral-Zero-of-the-Hybrid-Society.md.txt",
+      "sha256": "d28aabb372f5e0e0c7947b9a9a08f68a87a58efa5a5e1e659a7cf7373db91b37",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10940
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/preimages/A36-Advent-of-Integral-Zero.md.txt",
+      "sha256": "bbe11548caea4ee544214d759c35456de054f977da834f5c776afdc07973c4a6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13349
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-prime-return/preimages/A36-prime-Integral-Zero-of-the-Hybrid-Society.md.txt",
+      "sha256": "6ba99b24798e92f17dd0bd113dc971108ffc0c6f724730b4d21bdfebd6913df0",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10013
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/A36-Advent-of-Integral-Zero.diff",
+      "sha256": "47f5ce54a4d0466c965b6d43f621e5446862cd3557f48e3baf498accfa62d6f7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 30033
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/CANDIDATE-MANIFEST.json",
+      "sha256": "45c97461aa808ad8fa401ae9326e6633c328728caf14a0819907570a5624ad51",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3100
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/EFFECTS-DEPTH4.json",
+      "sha256": "d916e3ffbbb22a1109cb452b7ec66bff6d02c7b2b0dce35bcff9e60dff90f8f1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 799159
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/EXECUTION-LEDGER.json",
+      "sha256": "8443fa5a13b767d55c4fe7d1f7049c9918ca1fb0c257e3097bc11e059ce739ac",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4875
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "e483cb844f44c1e1ab2f4cf47baa3a1017ef680836b6dddc7952a009edf4c8c5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 19203
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "76fc258be43950b56f1a5902b0c83c941e81e78e3b31433a0c7f281b5e93c78a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2673
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/PREIMAGE-MANIFEST.json",
+      "sha256": "345f628318359e40bdc009ea28539b0178d0793fb749b3fd3f1a6d33e206e12f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 799
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/QUALIFICATION-REASONS.json",
+      "sha256": "d811a2c9abcf01bffc1db3c8d6c05898f2de5ed5fe5e96980c0900331a682081",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18146
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "5a022dc5449b7ca17445aeb116dbb42d56b5840605bd4c7342f95c259f206491",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 62932
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/SELF-PUBLIC-RETURN.json",
+      "sha256": "2bf98afd1bc127e036ecc69df6921cc4866b4be32e61fb4ed462cceb9a114835",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 929
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/SOURCE-READINGS.json",
+      "sha256": "d615db797058f16d3294379cc67a4c718aa2c458d71be1f9c0ad5968a60d8af2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17218
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "e8cddec8498b17e58709c9b60f2a24ccede5f90afcca063903f0bdec19386483",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1116
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "bc90e9c58071051ab480d5d8a0e5c0dd225ba2a6603ad66c01fe1230c866d2f7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 31827
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/before-peer-acceptance.json",
+      "sha256": "67c73e350e099b1d230ebc685777f4073eaca093a3cdf3066e9bfc860d0b275b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2698
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/before-self-public/A36.md.txt",
+      "sha256": "01e975a7250748645a0ec71e265621b7e838af1a99a669805d32e2dc4604d8d1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17321
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/candidates/A36-Advent-of-Integral-Zero.md.txt",
+      "sha256": "b1ea27a18675f93e413f228a13c8fbc1b79da2ff12fa9016b089e6dd22d5130b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17286
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/preimages/A36-Advent-of-Integral-Zero.md.txt",
+      "sha256": "bbe11548caea4ee544214d759c35456de054f977da834f5c776afdc07973c4a6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13349
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/preimages/A36-prime-Integral-Zero-of-the-Hybrid-Society.md.txt",
+      "sha256": "6ba99b24798e92f17dd0bd113dc971108ffc0c6f724730b4d21bdfebd6913df0",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10013
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/A33-prime-Parity.diff",
+      "sha256": "b7d0e6f401b7271a9b3bbbb65a995e9d038e0098dd6ac14fb7e84cd73b0e87f4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14014
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/CANDIDATE-MANIFEST.json",
+      "sha256": "5a662b6529c04eb07b443d12551be526f041fa37a3c6ea5abae61c6da7a3d330",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2893
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/EFFECTS-DEPTH4.json",
+      "sha256": "c9d64632df260a98e5aeae500c24f2f9afa09b1e349701aacffb0ac4d6c8023c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 776692
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/EXECUTION-LEDGER-before-count-return.json",
+      "sha256": "e7a1b2c5352d3ab91981d253ddbaeabce0f6f532c1a45ff0caf266ef54cdcf67",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4074
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/EXECUTION-LEDGER.json",
+      "sha256": "ea712b870f7281fce0c14e03742c9d922095ff201d1ffe03d612162a79ab392d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4074
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "cbf9e1301c50f29bd5dfe9731d62c2e3c660b2108d515a0ac10887438ed8e536",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8033
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "80450c5eacf6562bba7195f39100a3d3982963847cd0da34ba145106dc978041",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2016
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/PREIMAGE-MANIFEST.json",
+      "sha256": "f9d9533a66b778357e4f47b0fd0edf96391bc4dfc9cd8e588da306e104a311be",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 772
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/QUALIFICATION-REASONS.json",
+      "sha256": "ecdb7e48e5d2b0d4c89d990a37ccc98cbe702eb4ee0ed844f03a6e09352b7c80",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7531
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "67620bb02c37c1134fc37e647984e534724882bb718d4f738ddcc204ea592c33",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 59122
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/SELF-PUBLIC-RETURN.json",
+      "sha256": "2e7f84fa4b0f8a69fdbbb107e8ea0ae42778207cb0cac4d7aa08af5e0f10f70c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 935
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/SOURCE-READINGS.json",
+      "sha256": "6629078d88f687bd5892c9dde56f1a85872ee7a5bedd3fc8febfe2dfd7a6dbdf",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8581
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "a978d4cd447ac06630cf6bb9840f5b31d391f8bc49cdfdd67b697072270a84a3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1108
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "29b5be1e233f328968fc9df47714c240614f2cb284672f6204f8daaa18bae227",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13865
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/before-peer-acceptance.json",
+      "sha256": "703934a6452bc691958b396e9ef5a61afc82928a9666958fde3735e652891abc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2535
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/before-self-public/A33-prime.md.txt",
+      "sha256": "121ac015a2fa4159beced0b4309ddb08e3beb1574645aeb83e6969732092bd2d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8408
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/candidates/A33-prime-Parity.md.txt",
+      "sha256": "9a7db85f727e1da37fba7df0a67f57fb895b15691b18210a01760ca954e85df3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8733
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/preimages/A33-Epistemic-Cultivation-Operational-Parity.md.txt",
+      "sha256": "2b0bec9be729636b03e871b6a49cfc89543eb9f0326d45f6a2b89443982f22b2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14026
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-parity-prime-return/preimages/A33-prime-Parity.md.txt",
+      "sha256": "851d591664a9db181f1de80fb16390c15f0f76c0c4800cf6aa511a06763ab358",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7681
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/A05-prime-Lights-Camera-Action.diff",
+      "sha256": "ef7caba922a7643452aa016c4a53a38a882343fc9cd05becec1a16775cc1062b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12889
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/A06-prime-Articulation-as-Ontological-Descent.diff",
+      "sha256": "44c6c726b2d3125cfb6d6e563467270b420fa165e6fe5353aee803ee5163260e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12901
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/A09-prime-The-Stack-as-Descent.diff",
+      "sha256": "f1799b5c1f2cceb26b40f99e7cc0734874f7134e06f418f5014bb7db4b8a430a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13963
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/A14-prime-Code-as-the-Ages-Logos.diff",
+      "sha256": "0b2709c82a8a118ce897ef4d5ee937f8d84eaeedd6c545a696b88df149e1c6ed",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16875
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/CANDIDATE-MANIFEST-before-peer-acceptance.json",
+      "sha256": "9ed0f4b879214531b8ea53eae9ec01f63d9111d399db0e3b914ef85ec43f35aa",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8149
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/CANDIDATE-MANIFEST.json",
+      "sha256": "6bf7395d300d2a7e6d0c0a82e3b8fbf5c0371344e45f0d250a42c05021e9b0b8",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11631
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/CHANGED-OPERATIONS.json",
+      "sha256": "c5e6fdf6dc9156aa4ae7846e4d72ce0fe324071b7d6c5e41005c7a74caa1d9b3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 33026
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-A05p-DEPTH4.json",
+      "sha256": "c6d285da8dd8e2b087b052f4e60083a9ae7f9bf46429b41cbcf3ade24b8df87d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 777846
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-A06p-DEPTH4.json",
+      "sha256": "ec32e934ff79e294e11dbde45b4cafd0c13f3bdc0b2b7ec65b8754afa3ee8ced",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 778261
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-A09p-DEPTH4.json",
+      "sha256": "ec9c28330f49ebb8580c635c8d8f448e7088eb5292878e7098c7e7a93c30d014",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 799075
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-A14p-DEPTH4.json",
+      "sha256": "e93fa1eff6dd06c078aae9a72961ab2402f5f5ca6b113d01aa5876bfa3d4d9af",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 821649
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-DEPTH4.json",
+      "sha256": "66028d03c7b2a67199977c5b28d8a63709721f6aa84833015a655b94a79dfd67",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1063
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EXECUTION-LEDGER.json",
+      "sha256": "cf8188c45deaacbff566aca8807e8689542fe8a93d54cb0531f062587d35e70a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9603
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/FINAL-PUBLIC-ADJOINING-SELF-RETURN.json",
+      "sha256": "3fb45e1d9c458bb7908b24f0949c5403e38ba24b0fbcdeff41479b3baea1c345",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4515
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/FINAL-PUBLIC-SELF-RETURN.json",
+      "sha256": "d574216cc3e2e17bade9e5311bfd412a39f596a9708f3a8277263ace0405aab4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1065
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "84c8c0b6b1bdc44cd160e037050a16ae178c7868353bbc0fe342d6ce0f55786c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 48050
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "00527d0fbcad064645e220d4c97f996bb8a2aa982c1b87042c7ee59584c3f0d2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4373
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/PREIMAGE-MANIFEST.json",
+      "sha256": "8aeb537f8ac90643c7f1f8940c94aa6548f94ed54d7944e8033def50c687964e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3226
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/QUALIFICATION-REASONS.json",
+      "sha256": "ee671a563dcc176b3daa5dfb3ebaba632820a05895eabe5ff14f029ba5a45eb5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 60888
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "sha256": "9c10a7741887dcb3608a9f7c75ede39c8e826060ee99d14a6ed31dd6d9b319d9",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 66993
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/SOURCE-READINGS.json",
+      "sha256": "de63021aaf770d4f83610a9998702c44aca0a153ec24de5509d5575ea01b6825",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 23438
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/STATUS-ONLY-MANIFEST-RETURN.json",
+      "sha256": "26f2b5a35fa50f6053b23bbefba932547ce946e06f09ebddb1bd5780839890e4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6854
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/WHOLE-CHANGED-UNITS.json",
+      "sha256": "c507ec79ff6d03fe1f725c6af69d2bc3f24ad1fa7105d0251a9e83229cfc8fcd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 52063
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/before-final-public-self/A06-prime-Articulation-as-Ontological-Descent.md.txt",
+      "sha256": "836311663f40441335d5de39c603b0db39345f006f669a9a36036894d40a7e36",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8335
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/before-final-public-self/adjoining-A06-prime-Articulation-as-Ontological-Descent.md.txt",
+      "sha256": "33da0f8a0858dedda4d89d9c1fb2c59778236e8d24264708abfb297209abfa06",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8365
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/before-final-public-self/adjoining-A09-prime-The-Stack-as-Descent.md.txt",
+      "sha256": "ede5766c091b0e44f56cee7750b9f5bae14d3f12b57f99b83b5ebea97084fc7a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9308
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/before-final-public-self/adjoining-A14-prime-Code-as-the-Ages-Logos.md.txt",
+      "sha256": "6c11d66b771c2cb59788c5395cede2970cde696a5d7ca79cf6917967399443ac",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10855
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A05-prime-Lights-Camera-Action.md.txt",
+      "sha256": "6ebcd5b724f7cdbdd79e06154fd93481bded1e52d278b0fea59cc2df90a2eb01",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8849
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A06-prime-Articulation-as-Ontological-Descent.md.txt",
+      "sha256": "894962c063ee9f5613eb46217a8c5511844dd0e45ba23601c79e435c0486543f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8333
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A09-prime-The-Stack-as-Descent.md.txt",
+      "sha256": "abef4c6064268a621bb40f75762c12df16794c1ad49da35c48ebadebfc002d90",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9386
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A14-prime-Code-as-the-Ages-Logos.md.txt",
+      "sha256": "83776f7678bae078d2fcf580fe48acbfba64d901dc0da02cd204cec2502eb826",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11088
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A05-Prakasa-Vimarsa.md.txt",
+      "sha256": "da6fbab7adf158dee23b22434c740403801a2c8815384192863cc8d700b8eaf2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15175
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A05-prime-Lights-Camera-Action.md.txt",
+      "sha256": "4df4e9062b8766182be056c80ed1b66d56e3aa6a1a73e13471409d6f246244ca",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8457
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A06-Vak.md.txt",
+      "sha256": "cad9f74580d3a839c05b54092da06b7c489dd99d5e6ef8ca15bd134762532c60",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17902
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A06-prime-Articulation-as-Ontological-Descent.md.txt",
+      "sha256": "94c46453071aac0795e438c95ccdd2259d30bbbf692e7f22ffbd0925c159dd53",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8190
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A09-Tattvic-Differential-Field.md.txt",
+      "sha256": "636011721366d32bef45359b861619be701b9ee0620b58572f4f8df24bb8c799",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17462
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A09-prime-The-Stack-as-Descent.md.txt",
+      "sha256": "5da612b485f5212b84a31d6a2967016ef22a512376ee15ee530d5995e3a34cad",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8969
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A14-Computational-Process-Ontology.md.txt",
+      "sha256": "70f03e9436edec5cb68e06e06d91b75df025d69a55c9156d9dcad86423e2f0ea",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14225
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A14-prime-Code-as-the-Ages-Logos.md.txt",
+      "sha256": "3632feb3f29a593626e14d291f93d7454f5d14c21713884f979ddac3b19bdfe4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10248
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/A02-PAIR-AND-PRISONER-PRE-COLD-READ.json",
+      "sha256": "e4f53a20ab182dc43861ee75c57759bc9830deed86051de6b5c2cb87fe8986b7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2221
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/A02-PAIR-PRE-COLD-READ.json",
+      "sha256": "6226d86788203e0604714cd6d51a91e37a0cbdbfb9347f6ff286148603f2093f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1611
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/CANDIDATE-MANIFEST-before-final-cold-binding.json",
+      "sha256": "a8cd2e48b8c67c5869a718d6dbe4b60fa95d6cdb0078cb8653d6ec2f5969b0ff",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3467
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/CANDIDATE-MANIFEST.json",
+      "sha256": "8d74538d3c18dd1402e1e82834604f9500cb1481fbccf583205369518fb59d93",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4148
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/CURRENT-RETURN-HANDOFF.json",
+      "sha256": "78930f4602795587bb33d6abf4b063192ed42d52dcd841104085af84c6a796df",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4304
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/CURRENT-RETURN.md",
+      "sha256": "b2756c07ddaeed6b30bc6bb4cf2baa6cce3b379512620bcc6f410eb561863918",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1418
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-before-depth-duty-return.md.txt",
+      "sha256": "b4ee9cb13dcce21375029426c4b99f3261aaf8f5a7f970ab1ffc8c7be5f84579",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 41576
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-before-self-position-return.md.txt",
+      "sha256": "5c6e377ac3b30d9b512d4ee09b379352e8cdf4ace91792b25ad190eae5db1ec2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 40920
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-candidate.md.txt",
+      "sha256": "9b3f79873eef3d44ddfeef9d21d08bd0949132ca9945537d883410a7269abcf5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 41661
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-depth-duty-return.diff",
+      "sha256": "36f9579e65dd22c0c51c15945ced254d193c6fb1893c6e5d826a2b62c7e162c6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2252
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-effects-depth4-before.json",
+      "sha256": "8b4d5f313bfeb8d2405ea836b3f6b779d615f24a6d5f1719465dbbd89cf036ef",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 886810
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-intermediate-final.diff",
+      "sha256": "86a049eb36aadb8ec9824f54104b439a3122bfd9fef6378d01425f1ca9a657ba",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 64246
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-native-before.md.txt",
+      "sha256": "ee31b6b2dd382fead1c4f9f0396c3ef7982e3d90f8c2309d289828164afd93d7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 38208
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-native-final.diff",
+      "sha256": "4253dedf7285fcc50fdebba53888a015c584250fb2dbc17b691bb8bade321601",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 76354
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-parent-intermediate.md.txt",
+      "sha256": "4dc4c6e216f2e6668aa76b53b786fdaa89c411408af73faad7493c23ba2bfc67",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 39006
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/EXACT-RETENTION.json",
+      "sha256": "34efd801a5ec74e5bf1abd64c1f45f4adf746267ca7e22d6ed2a3e1c88fee2ca",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 825
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/EXECUTION-LEDGER.json",
+      "sha256": "4ef795622f3e7d0bdcbb38a97e5c027b2c4e797a679508365750c089ce1c800e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6154
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/FINAL-INDEPENDENT-ARGUMENT-NINE-REVIEW-INDEX.json",
+      "sha256": "3d98807627e15b520d717226861b8ad27ec4c47b694a20c2b99b7eaa3cb15a78",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 32066
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/FINAL-INDEPENDENT-ARGUMENT-REVIEW-INDEX.json",
+      "sha256": "6576856110e39416e952348e2344cd98fe57003b6bcde95ea8b7f0a1302d137d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 22597
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/FINAL-INDEPENDENT-ARGUMENT-TEN-REVIEW-INDEX.json",
+      "sha256": "2e0746705f6fe15554f505bad42869ad9d5d2a1f9bb7c2a35ba36ab0df2245cc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 21453
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A04-CONTEXTUAL-REVIEW.json",
+      "sha256": "405803efb15f2d26df431a836b1d0ad810397a3081b76dcea9cecc1ecb064ac7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5203
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A04-CONTEXTUAL-REVIEW.md",
+      "sha256": "a5753e034799a3739e42fad7aa44d9fcc3faaa56f28a9306891cafe2942d6305",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 430
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A08-EXCLUSION-REVIEW.json",
+      "sha256": "e4d42cf13e6c2a07d9b97a43e7afd0d7a310a80bad1055c02a8cc570e93eb80c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8575
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A08-EXCLUSION-REVIEW.md",
+      "sha256": "7d44d6a4b012a3103275c9522b175facaa085e1633f8e5fc6cdca31838512cab",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1023
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A09-CONTRACTION-REVIEW.json",
+      "sha256": "d81cee37eee47c6902a0e0852006828d357852c3be36e5d84dc740425927b1d3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10841
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A09-CONTRACTION-REVIEW.md",
+      "sha256": "e8623d2893fdcc24ab863d03b6938feba0294a97b7a1ad33d1b26252d8bcb371",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1035
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A12-COMMONS-REVIEW.json",
+      "sha256": "2c9069e5bb6bf3b99b3bded3beaeea724e7f662382c1522e05f3f34d03aa1cce",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 13387
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A12-COMMONS-REVIEW.md",
+      "sha256": "c1e79234fce641eecbb3f60a05346e45283c21ff662ed4599e6dbed2ebd9af3c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1043
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A18-EIGHTFOLD-PAIR-REVIEW.json",
+      "sha256": "30f910a882d94ab341c5b483031edad1e592e5cefc464b118f4fd4244b6543c2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 23311
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A18-EIGHTFOLD-PAIR-REVIEW.md",
+      "sha256": "49f0c163dc7d4a5049d0bd84d1e6219a92725badbac7ef14a43990a0f0788749",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1098
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A28-AUTHORED-SESSION-REVIEW.json",
+      "sha256": "de5e1fa3e7034eb154afc453a915eec2a4f5966f9548194a1b8bf27485a76474",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18398
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A28-AUTHORED-SESSION-REVIEW.md",
+      "sha256": "f5753793182fd6f1a8412ea3735f2094d8d7736c461ba741ce985fffbe3000b6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1791
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A33P-PARITY-REVIEW.json",
+      "sha256": "331bd0686dcb96d571bb3ab4e2d4d62b93da0db5e7cd13a7654bd8ba4c47dab1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12769
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A33P-PARITY-REVIEW.md",
+      "sha256": "a6e4cf9447580909e142ff22ae7e4a162039d07152b8553b7ee97e0f611b1a31",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1132
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.json",
+      "sha256": "1f2ac077e6b4d622c290fed0cb7df1367571b9096c2b99412beed6503649383e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 21699
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A36-INTEGRAL-ZERO-REVIEW.md",
+      "sha256": "7f14e3867fa6133f4fe38cf16c51eed2e85604bf79093df09f4b4cad3b578821",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1560
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-COURSE-WINDING-THREE-REVIEW.json",
+      "sha256": "436a3c0165c16ac104dfa1e59f7dcc1de3942d0ca93eb43fcffbac702e534fc9",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11914
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-COURSE-WINDING-THREE-REVIEW.md",
+      "sha256": "91586b007425beac8288f738446d0c09ebe4f77aec4765a9edd2d93b0d804290",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 501
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-DEFERENCE-DEPENDENCE-THREE-REVIEW.json",
+      "sha256": "7629f5b9c919a3ded561e21a6a2baed8cdba237637d81ee30ac2f5372dcb2c6b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12033
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-DEFERENCE-DEPENDENCE-THREE-REVIEW.md",
+      "sha256": "2622af28335d345b147d2a171560c1841b34d1342c283101fb88ee08a69c28ff",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 784
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-DUTY-RETURN.json",
+      "sha256": "a557b456a7a22061c1f55d734346b76b629a38cb11bc2f544e4231b1ebe268cd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1858
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-INDIAN-HISTORY-REVIEW.json",
+      "sha256": "3cf3798c9e02a2017cc7fad6a5e5722e3203a96e9a546077f50dbb65da947eae",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 20371
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-INDIAN-HISTORY-REVIEW.md",
+      "sha256": "3094e344c6ca7da239f612667bf2ed61642095517f829116c99decf0819a6a62",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1112
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-LAST-TWO-SOURCE-REVIEW.json",
+      "sha256": "1c93c17a73b23826cb9ae074f7c0819f97d114855d3c7cc8cb490617ae25988a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16807
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-LAST-TWO-SOURCE-REVIEW.md",
+      "sha256": "7804e49f3af705e71bc0871d91fa06d80d17274079f530fda082630d45169b38",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1089
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-A16-DIFFERENTIAL-REVIEW.json",
+      "sha256": "6b8bfcdf552d064b157c7ac740eaf5c29d06b5c5916e5aa0163b8ecca56c61b4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14956
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-A16-DIFFERENTIAL-REVIEW.md",
+      "sha256": "614df91abc51ab895b864575c356b595b83023ac98b06b261dfef4bf08913381",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 691
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-E2-ROOT-REVIEW.json",
+      "sha256": "75875b98edeff8b8b6954e5d45ca423a348f648a04d720379d65d15e6bdad260",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4191
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-E2-ROOT-REVIEW.md",
+      "sha256": "68851a139e79beb5c380de4965ab76f490fa406443bf7e3ee3e0e2bf6852b30c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 515
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-RECEIVING-PRIMES-FOUR-REVIEW.json",
+      "sha256": "449492e54a8d680c96863567152fa63f3907f4ef4ed220deb5a94c133e0301ed",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 19493
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-RECEIVING-PRIMES-FOUR-REVIEW.md",
+      "sha256": "49270df765820b61c856194a29f915100ccd1462f946a445ed3333ce7111005e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 987
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-SUBJECT-LOGICS-ROOT-REVIEW.json",
+      "sha256": "04d2cc4a302e23776842ce56e95e213818ec3e68836e8dbafa1a77a72ea3703f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12711
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-SUBJECT-LOGICS-ROOT-REVIEW.md",
+      "sha256": "307e79dfe4bb30277829214cd58689483ef7f1285d4fc368c77ede1b6e148a19",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1359
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-authored-session-return-CANDIDATE-MANIFEST.json",
+      "sha256": "b2962d856b06e3b14cc471e84785514dcf9cbcb2173b008b9b9f0a727e2cce29",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4959
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-commons-native-return-CANDIDATE-MANIFEST.json",
+      "sha256": "8c7a8fdcccad8b1ba510a2e7a6848112a2a95b2fa282ec00b8e95494199b34e1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2149
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-copula-narrow-return-CANDIDATE-MANIFEST.json",
+      "sha256": "cd817048e0a8722e7ad01a71bcc39c06a30ecc07b0112e1f35453f8675eb16f4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2649
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-eightfold-native-return-CANDIDATE-MANIFEST.json",
+      "sha256": "d441c34a8cb1d17c873d067b72fa631cfc7b9f96a8967579f291a296e0dabeea",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4165
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-integral-prime-return-CANDIDATE-MANIFEST.json",
+      "sha256": "c9249ac12c8cce6fdb598036e01cec2ba205b7c4820db6f45cb62bc8d85bbbe4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2623
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-integral-zero-return-CANDIDATE-MANIFEST.json",
+      "sha256": "67c73e350e099b1d230ebc685777f4073eaca093a3cdf3066e9bfc860d0b275b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2698
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/argument-parity-prime-return-CANDIDATE-MANIFEST.json",
+      "sha256": "703934a6452bc691958b396e9ef5a61afc82928a9666958fde3735e652891abc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2535
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/course-winding3-18215fc0-CANDIDATE-MANIFEST.json",
+      "sha256": "18215fc0ff4df373b6853dfa63b6f912209f26754fd953058196b3ee8a991e04",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6180
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/deference-dependence3-65c38e1d-CANDIDATE-MANIFEST.json",
+      "sha256": "65c38e1d02daf695adfdb47a6d04ad1681ec7906dbfb935a8af37facee208e5c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6231
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/deference-dependence3-final-a740ac25-CANDIDATE-MANIFEST.json",
+      "sha256": "a740ac2571e778ec28ca7b5aa18b395d367b8e7e9cbd8138ac3d40b38d46952f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6950
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/OWNER-MANIFEST-SNAPSHOTS/receiving-primes4-9ed0f4b8-CANDIDATE-MANIFEST.json",
+      "sha256": "9ed0f4b879214531b8ea53eae9ec01f63d9111d399db0e3b914ef85ec43f35aa",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8149
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/PER-FILE-AUDIT.json",
+      "sha256": "f957604fc921c1899874624dae7d5f55d16d748416f991515584bb08da0ea9c4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14841
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "c12dacefc3be3f1a01930c6675349849acba3abde23ac007ccfbe965c51a1646",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7668
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/PRE-EDIT-RECOVERY.md",
+      "sha256": "3deb5e00d6061557e2ec0718e4883f9a051e545c87a2e063157f903ddf81b53e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1101
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/QUALIFICATION-REVIEW.json",
+      "sha256": "017cc3ca58e6a19277b6a223634a2ed0ed6697c03251262ecd642d31947499ec",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 52537
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/RETURNED-SEMANTIC-LEDGER.json",
+      "sha256": "fb1826ea2c9dbf3e275d616ef0f58942ccf2ab86db30e1963a3de5605cda6dc3",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 66006
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/SELF-POSITION-RETURN.json",
+      "sha256": "687fcc0199f5d63606f87f9be79b5ab6b06cdb08f212f740d30a9d6ed79fb560",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1207
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/SOURCE-READINGS.json",
+      "sha256": "dfcbfa96e3560928749a936dc35ef452d5f6937e5848dbef1c2641317278ad54",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5370
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/SOURCE-BOUND-CONCEPT-DISPOSITION.json",
+      "sha256": "67a010cdf2aaad22458e991aee4da06c0ce061358a4c02fe43188855b645fe1b",
+      "role": "finite actual source-operation disposition",
+      "bytes": 56364
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/FINITE-CONCEPT-LEGACY-COMPLETION.json",
+      "sha256": "33fc11c23b2440e12ca92a0196ad3b270d059139e0055e45c02e80b9a51a7238",
+      "role": "finite actual source-operation disposition",
+      "bytes": 240451
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-final-prime-four-cold/INDEPENDENT-PUBLISHED-PRIME-FOUR-SOURCE-PUBLIC-REVIEW.json",
+      "sha256": "7eee1fccd2325524bed7ff11e5a309025267169f274f86693b7eefd79f61f24e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 45370
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-final-prime-four-cold/INDEPENDENT-PUBLISHED-PRIME-FOUR-SOURCE-PUBLIC-REVIEW.md",
+      "sha256": "3b38c98a8722c27587f243e74608104e91bbc4be1bc7ab86fd8e2d484e172bb4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3598
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/CURRENT-GENERATING-OPERATION-DISPOSITION.json",
+      "sha256": "721c02abe4b0b193546e6ab759b490978a38013de34128b22535909b1580b7b1",
+      "role": "finite actual source-operation disposition",
+      "bytes": 430006
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/CURRENT-GENERATING-OPERATION-DISPOSITION.md",
+      "sha256": "4c99b02d16c32dca66dfc690c1e389cf61d66f82893d558754615d7dabc4d004",
+      "role": "finite actual source-operation disposition",
+      "bytes": 2056
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/CANDIDATES.json",
+      "sha256": "d922967770f5fae93552b79362a0624b6b1b2efe401229ef5f7d2ac20b438c23",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 34227
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/EFFECTS-BYTE-COVERAGE.json",
+      "sha256": "71281933df6cd00b866b32c0af509ece36e5ce97f7dd2dfcc6800f2c1a4937dd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 289374
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/EXECUTION-LEDGER.md",
+      "sha256": "04108fc4179057ead21b1b7262cab1f461ee6cde3259f0cc6d4a13b995768be1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1205
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/FINAL-INDEPENDENT-ACCEPTANCE.json",
+      "sha256": "708cac691c31605e50759e930c82f115e8dc2279473209ab58c0a2ecc669ce70",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4240
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/INDIAN-HISTORY-WHOLE-CHANGED-UNITS.json",
+      "sha256": "dba5d7a972dde745b47d569242ee936c1b57d35d4b6feab9e9adcb09c24672ee",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 45783
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/INDIAN-HISTORY-before-owner-public-return.md.txt",
+      "sha256": "37d2cdeabdcb9e95f999bd92c518303f1ebe48ab53198fe5df3a31d7479dfe8a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 24903
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/INDIAN-HISTORY.diff",
+      "sha256": "805b3142d8dde84a3fc2b5af608a491bb404b07a08cb3866f4fa284e44f59dca",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 47212
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "cb5edc451ee2ddfce55b5c2cbd007b705ebf10efccf7c22870d35e916a52daa2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 62270
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/INITIAL-LIGHTWEIGHT-READBACK.json",
+      "sha256": "e77762515a9ba44eabe1e7c3b84b3a05f6eab40a312dbcc0bfabc33f4b4ec729",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 28413
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "ec405a6bf99140c5df0c2798db0529793ed6aa1b64b9dccd80dbc97dc3bbfdee",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 32613
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/OWNER-SELF-PUBLIC-RETURN.json",
+      "sha256": "c5bd446e12e052f6602248f189737b754d663a62cc3f23e611bfea8163926c30",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2636
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "9ab3b37db30992e00d5602a185dfe45a09b4eae16770e662139372c3b835bd13",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4915
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PRIOR-READ-LOOKUP-NOT-ACCEPTANCE.json",
+      "sha256": "fdfd445e71002b7be2c8f72f42a9493d283b3cad0aacf8d5aa8d5ec0280959fa",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17184
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PROCESS-DOSSIER-WHOLE-CHANGED-UNITS.json",
+      "sha256": "7df47c15aa685be2c2d983b6ed38124b7d4408893e67255ba606547f48503b5b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 30285
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PROCESS-DOSSIER-before-owner-public-return.md.txt",
+      "sha256": "e680a089a27d282afe01dee2653a13880b9514266d85d6b36eff1729e0463dde",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18793
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PROCESS-DOSSIER.diff",
+      "sha256": "e0d9ee00e2d129be6acf976b5886794754df3fc6ffe6174005ba0792fde108a9",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 33163
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PROCESS-HISTORY-WHOLE-CHANGED-UNITS.json",
+      "sha256": "0096d2a60ba71ff85ba845e7b8ad47b251febb8540e2a73515788e2ceaa4e7b0",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 30137
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PROCESS-HISTORY-before-owner-public-return.md.txt",
+      "sha256": "d50920c7a32d85754f565769e745e3356adee16228fb5ba60d44f3590e232e8d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15923
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/PROCESS-HISTORY.diff",
+      "sha256": "47bcbb22e4c8418f36d4f427ad1314fb57027ea9c8eeea6433dca67b83741729",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 30030
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/SOURCE-READINGS.json",
+      "sha256": "efe2acb77b3c22aaad0377d71f5b064a9cf28e261b0d4505bda9e32e32e16e5d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 32271
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/SOURCE-UNIT-INVENTORY.json",
+      "sha256": "9de6f743b8147dc9852b98efe13a7cb190164c302010a03f1503622f397e6c9e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18142
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/STAINED-SOURCE-STANDING-DISPOSITION.json",
+      "sha256": "1550987f74b8d09680e0b388503aaf9b96c7fc159c04081a922aacee867685f4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7779
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/candidates/INDIAN-HISTORY.md.txt",
+      "sha256": "398686a745e9a154d77104b5bae60c43765d874239a19e7717cbe3317aa6dbfd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 25071
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/candidates/PROCESS-DOSSIER.md.txt",
+      "sha256": "7f92ab280874a94c411460a34e611671fdfc45bd0223aec70400d05e57c64544",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 18799
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/candidates/PROCESS-HISTORY.md.txt",
+      "sha256": "15aedbfde3cec8e0c3384234294453868b1052da17e6beb3b6a015223a9f9be0",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15989
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/effects/INDIAN-HISTORY.json",
+      "sha256": "c6e0bc256ef9b0464cda65bc1ba1d8855c2f8fb68f165906e254b50944fea527",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 866637
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/effects/PROCESS-DOSSIER.json",
+      "sha256": "9bbe1ebb4003de98b3f72e1f4a70ad5781195fd77a40ca29e7fe44954cbc8613",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 762880
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/effects/PROCESS-HISTORY.json",
+      "sha256": "3fca1059689cd05c72631be16b7c1c93f0b9385f876049309966f497b35631f5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 936943
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/preimages/INDIAN-HISTORY.md.txt",
+      "sha256": "b6f41e0e27eccba6c6541a08d545e63ac9685f6408986749d8bc7f8eb0c9d7e0",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 27451
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/preimages/PROCESS-DOSSIER.md.txt",
+      "sha256": "3ecbe7dfaf085081b875ed89ca25b88148ac6d31cdd47fe13316e00ce66f8833",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 19790
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-process-indian-public-return/preimages/PROCESS-HISTORY.md.txt",
+      "sha256": "c5773b60b4a6c0cd6432dd1734eb65602b699a5f08b740395f2726586978c292",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15596
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/AM-IS-WHOLE-CHANGED-UNITS.json",
+      "sha256": "a1cc726282ee3029c823c1dbfd8e63c196d0d9f99a5880ec0ea6df245184e71e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6151
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/AM-IS.diff",
+      "sha256": "82c148a4ca1ef374a742b0a8cdf16ffbac5fa7c168e0fbdb7a6a3880a05b7fbe",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9005
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/AUTHORING-ADDRESS-FAULT-RETURN.json",
+      "sha256": "d31cb2dc0c21db69c0eb56f52d4d4a9ac87e82edc0fce163e3c82a35e41163d8",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 541
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/CANDIDATES.json",
+      "sha256": "d36789fd7fafcbe20333cb8d9f545149189c91fea67d19f2473f322b2178b23c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17379
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/COMPLEXIO-WHOLE-CHANGED-UNITS.json",
+      "sha256": "bb2532821dc38d751fb9f2143a495d50a4549861fd87ff6c4309e109b4881166",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8770
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/COMPLEXIO.diff",
+      "sha256": "cbf3ec19b703f9f1f2bee2d7d0e5c6dd2c923d1ea0b6f19fd49392b99619f38a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10549
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/DIRECT-RECEIVER-VERSION-BOUNDARIES.json",
+      "sha256": "5b623a0227f46c0cc15fa7374adfa24ab1e918a5a66937012e41e68afc5a279f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12544
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/EFFECTS-BYTE-COVERAGE.json",
+      "sha256": "ad245363fab8a58b21b2fb95dfaad84e3f69e73aa727c265c86625ceb2d210d7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 63758
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/EXECUTION-LEDGER.md",
+      "sha256": "c554ac60c4299f1d920ba51567f474a941a2d7e4dc6a8e3117933572d3030354",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1991
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/FINAL-INDEPENDENT-ACCEPTANCE.json",
+      "sha256": "48a68932d34d83f9701169dc4015e869eb365bb4e7e066ef12e7982ab7742c85",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8822
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "3d0d514fd66fbc0503b408784710594a6a0137ddeda1bbc83650410f7d1e7cc8",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 61717
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/INFINITY-DX-WHOLE-CHANGED-UNITS.json",
+      "sha256": "de2195aedaabd15ca5c01633467fe4e3199119d42cc6dfd7b96cfe9123959feb",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3825
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/INFINITY-DX.diff",
+      "sha256": "754a6543ceb046aff2516270f9385d6045b2851445437e1594684a4f86be7639",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5218
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/INITIAL-PER-FILE-AUDIT.json",
+      "sha256": "0f2fc3ad2ff2a99e770acd658a44d4c04483c8a3cc6c419c51825e455264294f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 26958
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "0f2fc3ad2ff2a99e770acd658a44d4c04483c8a3cc6c419c51825e455264294f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 26958
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/MINUS-PLUS-WHOLE-CHANGED-UNITS.json",
+      "sha256": "231a3ffc830e146940c174861baaa13e2b16bc50e9cc6d2d63385aba670ae957",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4078
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/MINUS-PLUS.diff",
+      "sha256": "14ccf272cfc003a96d66c70f2e5ecef34e66bf202f1989490c2b7364cf2da658",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6441
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/MONO-POLY-WHOLE-CHANGED-UNITS.json",
+      "sha256": "3d8c4f3541f5dc6d5ce0d72a4dae8fea3888c877cd55263d750a27b1b2af4aa1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 12456
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/MONO-POLY.diff",
+      "sha256": "c377403f2a5992daaff2a5e3d98623497d0bd9315b1098b458f1b12246bbdc34",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16412
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "cf196899ffd89f6682aa1084c6acb2078808d8a7c650e17acab6551c2a5cf858",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9182
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/QUESTION-ASSERTION-WHOLE-CHANGED-UNITS.json",
+      "sha256": "d9388eeda42f5b5c77013e9142efbce45b42537f4b547375b82ea96fd6ccb1f1",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3849
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/QUESTION-ASSERTION.diff",
+      "sha256": "696407a0603320885b4a7cbdbaa477c6e7c4514a9676d1f67b6c356396b79915",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5716
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/SELF-IDENTITY-WHOLE-CHANGED-UNITS.json",
+      "sha256": "4d369681c8f5b6c45594443737d8165341c6f16e731d61a7096e8efb2b361f3f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5828
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/SELF-IDENTITY.diff",
+      "sha256": "a7e2ab7585cfa3b39b89c16c47c8de72e8c2c02a4514eb256a88fda1cd0f3bb7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8938
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/SOURCE-READINGS.json",
+      "sha256": "9f7446ac01acf17cdc4b0de4c62c376987de6bf9ddbf6d2d82c5d1d90f3b3e3e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5522
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/AM-IS.md.txt",
+      "sha256": "6a64f0ec4e55ea156322a72733fe1459907c3b2740119bd1cdd90663a1e0d04b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7074
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/COMPLEXIO.md.txt",
+      "sha256": "1831542faaf857e077f42cbf9ac4fcecb02463017717042cd59d6bc89c452d7e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10340
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/INFINITY-DX.md.txt",
+      "sha256": "3b2b1f47144a9cd11c1b3195b989d760e1d50feca98f04af4e2420f3e6ec24ed",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6214
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/MINUS-PLUS.md.txt",
+      "sha256": "965b7bfe889a6f24cabbde44086dd53051d3b43281353be23d51be6a0dd8616f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6924
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/MONO-POLY.md.txt",
+      "sha256": "bac0005182adb25d2b0a0fd0b82d2ce9906194e3612f7ec8b2e7dfc3fcf0d83d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11634
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/QUESTION-ASSERTION.md.txt",
+      "sha256": "5526964397555ec8ae75bc66f822baeab8601306b9912c5bac51deb807bbc3a2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8374
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/candidates/SELF-IDENTITY.md.txt",
+      "sha256": "ae413a40152c5395298c84ab4f799cd0b8a163b08bca095e5208ba24c8256ff7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7828
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/AM-IS.json",
+      "sha256": "d195b1df21443918f2814fc88c65ca50b29d644c5e001cc45c782b10ff72f306",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 785685
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/COMPLEXIO.json",
+      "sha256": "38f8e31c9389fc45953e9e2fc9c9b4f080554e63568fbbdbebad3c60280104ae",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 744021
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/INFINITY-DX.json",
+      "sha256": "abc9b2f5bbf9d2f2634993e19f453412196cfa1f65319fbbabee2e2613b4f53a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 571871
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/MINUS-PLUS.json",
+      "sha256": "d2d922d92fd3c9e4c4d71a0d5a176e39aa519c80e150ce6b41ac430e2867a5be",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 550964
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/MONO-POLY.json",
+      "sha256": "96d788a3007912611d941f3a3c0b76ada42b05f8ff7d4438b9bc92e692ea9480",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 782368
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/QUESTION-ASSERTION.json",
+      "sha256": "a879d75c3717592cfc90a223405d63dba490414cd3db10158a6f988817d63fa2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 667187
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/effects/SELF-IDENTITY.json",
+      "sha256": "473c64efe5b1156226fc97f89c99a565769ee5773ed48419d8774e80285c3226",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 611476
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/AM-IS.md.txt",
+      "sha256": "687ab1cdd77c098651f512fa0852d6a77923b4d6f344a4fead40c47d5bc3092a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7086
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/COMPLEXIO.md.txt",
+      "sha256": "0237886485a478143e30adcdefc1658517725644d794e0719d7804172cb717d6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10523
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/INFINITY-DX.md.txt",
+      "sha256": "d274a7adc691602d2bb07eec0fba6d1e35966a43a5041480b0469e1c390a3d50",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6294
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/MINUS-PLUS.md.txt",
+      "sha256": "5a7822da46b5a93e680141d5e64b43d38889e5351b1f6c4e1da1f45882176b43",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6981
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/MONO-POLY.md.txt",
+      "sha256": "bf8e0bfe710447defdeb99d3f2bd15739b4b461f4521fe43c2cebe0f9a6aa4dd",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11959
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/QUESTION-ASSERTION.md.txt",
+      "sha256": "ca7fe1cc2d392d0d4a3d35fdb86f47ba60393aa4e5083fc81a834556e3ecca72",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8392
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-public-seven-return/preimages/SELF-IDENTITY.md.txt",
+      "sha256": "62783e8421556de4a8be297253e4f79a9cebe2e84143385ec8d140e752fdc98e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7879
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-comparison/COMPLETE-ROOT-OPERATION-COMPARISON.json",
+      "sha256": "2de525e589ecf9a5c4e8fec9058044106fd401e8285502635c4700af7dce7c42",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 29719
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-comparison/EXECUTION-LEDGER.md",
+      "sha256": "64fc9d134f3812e412e617710f825c9b357a812b0f81f7ccf470a558f71491eb",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1092
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/CANDIDATES.json",
+      "sha256": "30053a3f7017ad0286e425383b2fd540d4df397bcbdb8bd88b8950ad56337e9f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2433
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/EFFECTS-BYTE-COVERAGE.json",
+      "sha256": "0d22a5295aea143d655ca36c86920aed2a23db563d99c6eee927e28f8b82004f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 132071
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/EXECUTION-LEDGER.md",
+      "sha256": "ea958db83f88700fc439160e18244259034ef2856df49207c0158b6416da8cbc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1416
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/FINAL-INDEPENDENT-ACCEPTANCE.json",
+      "sha256": "3f35bfee21888cdb0900a0033a9674c2db5e0adad134eccdd31012aae9fe5f3a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 1238
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "083228bd9cbb03634ec350c88ef4da47400edc5fe39bab98a7b380624e84583b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 29719
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/INITIAL-PER-FILE-AUDIT.json",
+      "sha256": "d1fe96971833b6bad0d0862a158644fb5fc60494ebc7b031f1e120989204f696",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10890
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/LIGHTWEIGHT-CHECKS.json",
+      "sha256": "386547b974077ea0b334f6aa1e6567798702d3e9d5506dee90a900b81923f5fc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 11834
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "3b53178d8fa81067586ffebfb3e2dccb1f45b50f31588b06db97dac7c2edf3e6",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3054
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/SOURCE-READINGS.json",
+      "sha256": "e759379ddef42cc4fb929a32402e9c0bbd9ae3653f71da1f64216adea97a5318",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10290
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/SUBJECT-LOGICS-WHOLE-CHANGED-UNITS.json",
+      "sha256": "11c4e2fb454e5f4e19eb0a01605bd732141d216a3e2d05ac231d76685214e024",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14517
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/SUBJECT-LOGICS.diff",
+      "sha256": "4dd7c7799dfe1c29b1d8de2453b8cbf422d7bb0955650f018280f582a567b677",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 14667
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/X-X-ROOT-WHOLE-CHANGED-UNITS.json",
+      "sha256": "b5424206c9fa2f5b653e6e3c3e1769cb87a1a5259133a2f0fba1cba80dd46148",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8814
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/X-X-ROOT.diff",
+      "sha256": "9ff2eaaf6d1e41935ee5b19947b1784e1c226444c5c6d900d2c131ee770dad16",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 8777
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/candidates/SUBJECT-LOGICS.md.txt",
+      "sha256": "724c6cee9da213b5405a95db0b683eae50fd7a51022baaa610b9a8ed4f00151b",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 10328
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/candidates/X-X-ROOT.md.txt",
+      "sha256": "318b2bf80bd2d92859330329ea3500c2123770f63719389fec1d48528f4530cc",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 7794
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/effects/SUBJECT-LOGICS.json",
+      "sha256": "87d2cdef9e646289d331421b794a1995dfc66aa88d6e5b64f6429b4606dd1cb2",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 686047
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/effects/X-X-ROOT.json",
+      "sha256": "1b0e99a689d27a6893e00414968a2476cb1eb7eac86f51c71538e5c121895a10",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 600611
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/preimages/SUBJECT-LOGICS.md.txt",
+      "sha256": "d2b1d2ea617ae5b94b9a811adb4ef9cab2b80a807889e97db94a6e84e4945769",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 9896
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/preimages/X-X-ROOT.md.txt",
+      "sha256": "59ff165724db1e5d3e00bdd9a9946c953972f2cc46f8287308b88b72918d8107",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6703
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-wilson-edition-cold/INDEPENDENT-WILSON-EDITION-REVIEW.json",
+      "sha256": "d4c078779567c076245082150fc507aed63c7ea48a9c3d23b0c3e4f350f7651e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4265
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-wilson-edition-cold/INDEPENDENT-WILSON-EDITION-REVIEW.md",
+      "sha256": "2060f2a5f1b1991fe4d34c84d1deffc58cc4d9c3f3d9de729b0d071d3e73acca",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 791
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-final-foundation-accepted/READY-FOUR-AND-NEXT-STATE.json",
+      "sha256": "06905e8a4a30c60825b87cc9edeaf4ae58254ff55b9e125fa14a0d4500ae7f0e",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5941
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-root-product-return/S-S0-S5-COMPLETE-OPERATION-COMPARISON.json",
+      "sha256": "92810e4b0d8cd6cfe683344c6381f77af053b745f3b56063ae6ea2a26960f46e",
+      "role": "finite actual source-operation disposition",
+      "bytes": 3740
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-symbolon-Xx-cold/INDEPENDENT-X-X-ROOT-REVIEW.json",
+      "sha256": "65fe67883d232b1c2a31eea2aca9c470f58ad2f3e1a6065a47f1bcf28df34315",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 16002
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-symbolon-Xx-cold/OWNER-MANIFEST-AS-READ.json",
+      "sha256": "30053a3f7017ad0286e425383b2fd540d4df397bcbdb8bd88b8950ad56337e9f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2433
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-symbolon-seven-cold/INDEPENDENT-SYMBOLON-SEVEN-REVIEW.json",
+      "sha256": "865c46faa1482dc924c247c6986406cd849e10ffb9de88e4de6bdeb6a72f0766",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17305
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-symbolon-seven-cold/INDEPENDENT-SYMBOLON-SEVEN-REVIEW.md",
+      "sha256": "c2d8a4c391091bcc46d6d34a5792bedf1ff68eece52663b55ce940641fbaf6e4",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 662
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-symbolon-seven-cold/OWNER-MANIFEST-AS-READ.json",
+      "sha256": "d36789fd7fafcbe20333cb8d9f545149189c91fea67d19f2473f322b2178b23c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 17379
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/CANDIDATE-MANIFEST.json",
+      "sha256": "4a3232f350af4f7f59b567726786996e172cd4d3f05aab622a89548763b05fc7",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 2859
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/SOURCE-before.md.txt",
+      "sha256": "a57a0a6d65772a5a83710653da6087babc878041e71a7472866b9cfc27eadf5c",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 5688
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/SOURCE-candidate.md.txt",
+      "sha256": "62abec340459e2e24ae10b4a409f718763316da3041e77c4b461929f76e4475d",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 6499
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/SOURCE.diff",
+      "sha256": "309dfedea5ce1756640783987a5ad4e388ef23362d469ff474aafac6347645d5",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 4004
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/create-candidate.py",
+      "sha256": "c39ac81b32573ce75d5af4c1dddbb872d562c589b0062d99c67509cf05d0f201",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 3812
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/effects-before.json",
+      "sha256": "9ab6849ff2a1c48ac444e0079a57864b0f2deac2ffc2bfdb258c4fb717418679",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 658517
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/effects-before.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/official-current-archive-citation.html",
+      "sha256": "9c4dc5a0496607e47cadeac4bc250cbd8341681d2ad33c3c5f0fc0d40eaca68a",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 15097
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/official-fixed-archive.html",
+      "sha256": "ed262f09db8817ee82cac205330ecc7c9376abac0689747224f17aa690a24e6f",
+      "role": "complete source/effects/old-new/qualification packet",
+      "bytes": 176778
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-final/PRE-INCLUSION.json",
+      "sha256": "dd1fe49687801ff5f41a636000b34cf72c41cd186f0b0ae989f5c3e64f8d7a97",
+      "role": "operation evidence",
+      "bytes": 118699
+    }
+  ],
+  "standing": "Lossless complete packets; actual semantic reader/source scopes remain in the named cold receipts.",
+  "scope_return": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-final/ARCHIVE-SCOPE-RETURN.json"
+}

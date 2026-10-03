@@ -114,4 +114,4 @@ The account also returns to its own accountability. What it counts, the marks it
 
 The copula returns as the relation already enacted in the first assertion: exact enough to identify, open enough for the identified to answer through difference.
 
-[The Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) figures the copula's passage between assigned identity and first-person address. The Village's designation identifies a position within its field, while Number Six's reply refuses to let that predicate exhaust the speaker. Designation and refusal belong to one encounter without becoming equivalent accounts of it.
+In [The Prisoner](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count), the Village’s designation identifies a position within its field, while Number Six’s reply refuses to let that predicate exhaust the speaker. Assigned identity and first-person address meet through this difference: designation and refusal belong to one encounter without becoming equivalent accounts of it.

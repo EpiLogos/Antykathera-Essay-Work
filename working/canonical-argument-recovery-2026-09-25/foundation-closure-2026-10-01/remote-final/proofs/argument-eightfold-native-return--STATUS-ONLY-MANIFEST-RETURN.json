@@ -1,0 +1,9 @@
+{
+  "original_owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/before-peer-acceptance.json",
+  "original_owner_manifest_sha256": "d441c34a8cb1d17c873d067b72fa631cfc7b9f96a8967579f291a296e0dabeea",
+  "current_status_owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-eightfold-native-return/CANDIDATE-MANIFEST.json",
+  "current_status_owner_manifest_sha256": "6408608d29fe53bb15ca6918b6267c58f635fbf064d9b4dc8a0d5afccb0973e5",
+  "independent_cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A18-EIGHTFOLD-PAIR-REVIEW.json",
+  "independent_cold_review_sha256": "30f910a882d94ab341c5b483031edad1e592e5cefc464b118f4fd4244b6543c2",
+  "actual_return": "Only acceptance metadata/remaining pointer updated; exact preimage/candidate/source/effects/ledger/qualification bytes unchanged. Peer remains bound to original frozen writer manifest; retained snapshot, not retroactively rewritten as reading status update."
+}
