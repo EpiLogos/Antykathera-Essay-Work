@@ -1,6 +1,6 @@
 name: Canonical recovery field snapshot
 
-# Capture the post-movement-repair field for the 2026-09-27 semantic-depth continuation.
+# Capture the current field for the 2026-10-04 Kaplan emptiness-fullness integration.
 on:
   push:
     branches: [main]
