@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "021b7d238108b09553a8293cd3dac1cc0046268c54f425291779b408dc36864d"
+source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -24,7 +24,7 @@ Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md).
 - [computer-science-ml](episteme-sources--computer-science-ml.md) — 9 pages
 - [history-philosophy-of-science](episteme-sources--history-philosophy-of-science.md) — 5 pages
 - [indian-philosophy](episteme-sources--indian-philosophy.md) — 13 pages
-- [internal-corpus](episteme-sources--internal-corpus.md) — 22 pages
+- [internal-corpus](episteme-sources--internal-corpus.md) — 23 pages
 - [language-literary-studies](episteme-sources--language-literary-studies.md) — 2 pages
 - [language-philology](episteme-sources--language-philology.md) — 3 pages
 - [literature](episteme-sources--literature.md) — 1 pages

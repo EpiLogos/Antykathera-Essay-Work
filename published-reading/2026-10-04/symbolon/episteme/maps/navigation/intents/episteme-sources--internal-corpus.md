@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "021b7d238108b09553a8293cd3dac1cc0046268c54f425291779b408dc36864d"
+source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -16,6 +16,14 @@ source_digest: "021b7d238108b09553a8293cd3dac1cc0046268c54f425291779b408dc36864d
 
 Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md). Each entry names what the page **implicates** through its written relations and what **reaches** it. The relation word is the one the sentence around the link names; `unnamed` marks a link whose sentence names none. This is a mirror of the written graph, never its substitute.
 Group: `internal-corpus` · back to [Episteme · Source houses](episteme-sources.md).
+
+### [6174 as QL: The Complete Mapping](../../../sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md)
+
+`matheme` · `internal-manuscript`
+
+**Implicates:** none written.
+
+**Reached from:** *sources* ← [§2–§3 — 4+2 → (3+1)+2](../../../../matheme/definition/harmonics-and-recount.md) · *sources (declared)* ← [§2–§3 — 4+2 → (3+1)+2](../../../../matheme/definition/harmonics-and-recount.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Core Theorems — Pithy](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md)
 

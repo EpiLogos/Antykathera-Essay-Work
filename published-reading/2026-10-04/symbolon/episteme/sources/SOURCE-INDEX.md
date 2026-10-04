@@ -3,7 +3,7 @@ title: "Return of Zero — Canonical Source Index"
 source_id: source-index
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "14039a63b8fa61cb820f7f09fbefad54c96ae76e723803e6dbec86496c22338e"
+source_digest: "d1b2ba27b53063eb59df8de44cdd7bababd60d613712e78be39055d0f75f4f04"
 ---
 
 <!-- Generated from canonical source houses (<source_id>.md). Do not edit by hand. -->
@@ -11,6 +11,7 @@ source_digest: "14039a63b8fa61cb820f7f09fbefad54c96ae76e723803e6dbec86496c22338e
 # Canonical Source Index
 
 - [42 Techne — Sovereign Commons Architecture](media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/42-techne-2026-sovereign-commons.md) — `42-techne-2026-sovereign-commons` — metadata-verified
+- [6174 as QL: The Complete Mapping](internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md) — `taylor-2026-6174-ql-complete-mapping` — internal-source
 - [Abhinavagupta — Parātrīśikā-vivaraṇa (Singh, 1988)](indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/abhinavagupta-singh-1988-paratrisika-vivarana.md) — `abhinavagupta-singh-1988-paratrisika-vivarana` — citation-ready
 - [Acropolis Museum — Parthenon. West pediment. Poseidon](classical-philology/acropolis-museum/acropolis-museum-west-pediment-poseidon/acropolis-museum-west-pediment-poseidon.md) — `acropolis-museum-west-pediment-poseidon` — citation-ready-for-selected-digital-sections
 - [Acropolis Museum — The Erechtheion](classical-philology/acropolis-museum/acropolis-museum-erechtheion/acropolis-museum-erechtheion.md) — `acropolis-museum-erechtheion` — citation-ready-for-selected-digital-sections

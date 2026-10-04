@@ -5,7 +5,7 @@ record_type: matheme
 register: matheme
 claim_status: Derived
 source_relation: "Extracted internal derivation"
-source_ids: [taylor-2026-binary-explication, taylor-2026-core-theorems-pithy]
+source_ids: [taylor-2026-binary-explication, taylor-2026-core-theorems-pithy, taylor-2026-6174-ql-complete-mapping]
 ---
 
 # §2–§3 — 4+2 → (3+1)+2
@@ -21,6 +21,8 @@ source_ids: [taylor-2026-binary-explication, taylor-2026-core-theorems-pithy]
 The middle `=/≠` yields two appearances when read analytically: identity exposed to difference, and difference remaining related to identity. Add the initial equality-pole and final difference-pole to obtain four. Retain `/` and `=` as the two operative marks to obtain `4+2`.
 
 The count distinguishes **appearances** from **operations**. Counting only the visible poles would lose the relation that composes them; counting the operators as unrelated extra content would lose how the four arise from the two.
+
+The complete [6174 as QL: The Complete Mapping](../../episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md) is retained as a deep source for this 4+2 field.
 
 ## #2 — Hold the hinge as one
 

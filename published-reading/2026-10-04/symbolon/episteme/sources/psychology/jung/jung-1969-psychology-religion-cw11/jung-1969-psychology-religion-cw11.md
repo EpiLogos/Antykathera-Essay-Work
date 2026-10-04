@@ -225,3 +225,37 @@ The actual user-local carrier and selected passage contexts were reopened. These
 **Consumer:** Current working [M06](../../../../../../../../working/s01-hardening-2026-10-01/M06-REWRITE.md) note `s01-jung-quaternity`. This is a final-read draft consumer; no accepted manuscript or movement body is changed.
 
 **Existing q001 refinement:** its Sophia/Logos/Śakti comparison is specifically at ¶610, digital PDF page 317. This narrows its already recovered ¶¶609–613 locator; the original card and its source-specific/paraphrase standing are retained.
+
+<a id="jung-1969-psychology-religion-cw11-p011"></a>
+### jung-1969-psychology-religion-cw11-p011 — Shadow and conscious embodiment
+
+**Locator:** ¶131; user-local PDF page 71.
+
+**Located operation:** The shadow, its relation to conscious embodiment, and the opportunity of correction are located together.
+
+**Context and use boundary:** The surrounding discussion distinguishes suppression from repression. The passage does not license labelling every other person’s conduct an unconscious shadow.
+
+**Status:** locator-verified; acquisition required before quotation admission.
+
+**Provenance:** Actual user-local carrier already identified in this house; SHA-256 `bbea07152cf7ff6e588b51fa90bdbf39f171657ea202b511df4493654257861d`; selected paragraph and adjacent page context read with pypdf extraction by s01-apparatus, 2026-10-04. Rights provenance remains unregistered; no new quotation transcription is admitted.
+
+**Relation:** source-specific locator support; the essay’s philosophical continuation remains authorial.
+
+**Consumer:** Current working [M05](../../../../../../../../working/s01-hardening-2026-10-01/M05-REWRITE.md) note `s01-jung-shadow`; authorial text is preserved.
+
+<a id="jung-1969-psychology-religion-cw11-p012"></a>
+### jung-1969-psychology-religion-cw11-p012 — Death and transformation of a God-image
+
+**Locator:** ¶¶144–148; user-local PDF pages 80–82; psychological image/proof qualifier at ¶102, PDF page 58.
+
+**Located operation:** Finite definition, withdrawal of projections, the Christian archetype and loss of living faith occur in a connected sequence.
+
+**Context and use boundary:** The source treats a psychological relation and does not prove an ontological God from a psychic image. Its discussion of Christ is an archetypal interpretation; authorial God/Subject identity remains separate.
+
+**Status:** locator-verified; acquisition required before quotation admission.
+
+**Provenance:** Actual user-local carrier already identified in this house; SHA-256 `bbea07152cf7ff6e588b51fa90bdbf39f171657ea202b511df4493654257861d`; selected paragraph and adjacent page context read with pypdf extraction by s01-apparatus, 2026-10-04. Rights provenance remains unregistered; no new quotation transcription is admitted.
+
+**Relation:** source-specific locator support; the essay’s philosophical continuation remains authorial.
+
+**Consumer:** Current working [M04](../../../../../../../../working/s01-hardening-2026-10-01/M04-REWRITE.md) note `s01-god-image`; authorial text is preserved.

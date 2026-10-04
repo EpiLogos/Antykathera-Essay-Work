@@ -3,7 +3,7 @@ title: "Return of Zero — Main Sources by Section"
 source_id: main-sources
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "14039a63b8fa61cb820f7f09fbefad54c96ae76e723803e6dbec86496c22338e"
+source_digest: "d1b2ba27b53063eb59df8de44cdd7bababd60d613712e78be39055d0f75f4f04"
 ---
 
 <!-- Generated from canonical source houses (<source_id>.md). Do not edit by hand. -->

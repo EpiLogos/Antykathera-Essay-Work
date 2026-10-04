@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "021b7d238108b09553a8293cd3dac1cc0046268c54f425291779b408dc36864d"
+source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -18,17 +18,17 @@ Generated findings about the written navigation of the publication body. A findi
 
 ## Reader links and workspace lookup
 
-Visible, independently resolved links reach 966 of 996 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
+Visible, independently resolved links reach 967 of 997 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
 
 This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. The workspace report `reader-audit.json` retains every location and unresolved destination; it is not part of the public reading edition.
 
-Workspace lookup reaches 970 of 996 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
+Workspace lookup reaches 971 of 997 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
 
 | Depth (clicks) | Pages |
 |---|---|
 | 0 | 1 |
 | 1 | 63 |
-| 2 | 610 |
+| 2 | 611 |
 | 3 | 221 |
 | 4 | 75 |
 
@@ -40,7 +40,7 @@ Workspace lookup reaches 970 of 996 pages. The tables below describe that larger
 | The rooms — waypoints, alignments, reading routes | 20 | 871 | 87 | 784 | 0 | 0 | 0 |
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 186 | 65 | 121 | 0 | 2 | 0 |
-| Matheme — exact operations | 101 | 856 | 232 | 624 | 0 | 16 | 0 |
+| Matheme — exact operations | 101 | 857 | 233 | 624 | 0 | 16 | 0 |
 | Mytheme — whole lived images | 148 | 968 | 246 | 722 | 0 | 118 | 0 |
 | Episteme — the register root | 1 | 23 | 4 | 19 | 0 | 0 | 0 |
 | Arguments A01–A36 | 37 | 1044 | 113 | 931 | 0 | 0 | 0 |
@@ -49,7 +49,7 @@ Workspace lookup reaches 970 of 996 pages. The tables below describe that larger
 | Product field S / S0–S5 | 8 | 79 | 13 | 66 | 0 | 2 | 0 |
 | Episteme · Etymology whole-fields | 25 | 583 | 102 | 481 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 652 | 324 | 328 | 0 | 3 | 0 |
-| Episteme · Source houses | 218 | 1161 | 187 | 974 | 0 | 91 | 0 |
+| Episteme · Source houses | 219 | 1162 | 187 | 975 | 0 | 92 | 0 |
 | Episteme · Dossiers | 8 | 203 | 118 | 85 | 0 | 1 | 0 |
 | Episteme · Lenses | 13 | 76 | 15 | 61 | 0 | 13 | 0 |
 | Episteme · Maps and curated paths | 5 | 129 | 7 | 122 | 0 | 1 | 0 |
@@ -76,7 +76,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | `working/sources-texts-references` | 122 | `working/sources-texts-references/QL-Essay-Rewrite.md` (49); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (22); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (13) |
 | `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
 | `working/_to_delete` | 59 | `working/_to_delete/2026-09-25-retire/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-DECISIONS.md` (20); `working/_to_delete/2026-09-25-retire/lenses-register/foucault.md` (11); `working/_to_delete/2026-09-25-retire/lenses-register/baudrillard.md` (9) |
-| `working/s01-hardening-2026-10-01` | 28 | `working/s01-hardening-2026-10-01/M05-REWRITE.md` (8); `working/s01-hardening-2026-10-01/M04-REWRITE.md` (7); `working/s01-hardening-2026-10-01/M06-REWRITE.md` (7) |
+| `working/s01-hardening-2026-10-01` | 31 | `working/s01-hardening-2026-10-01/M05-REWRITE.md` (10); `working/s01-hardening-2026-10-01/M04-REWRITE.md` (8); `working/s01-hardening-2026-10-01/M06-REWRITE.md` (7) |
 | `working/antykathera-resources` | 14 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (13); `working/antykathera-resources/antykathera-site-copy.md` (1) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
 | `submission-package/epi-logos` | 4 | `submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md` (2); `submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md` (2) |
@@ -316,6 +316,7 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [The Symbolon in Modern Media](../../sources/internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/taylor-chatgpt-2026-symbolon-in-media.md)
 - [Pax Machina and the Body Without Organs](../../sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/taylor-gemini-2026-pax-machina-body-without-organs.md)
 - [Skenfrith, the Marches, and the History of Power](../../sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/taylor-gemini-2026-skenfrith-castle-power-history.md)
+- [6174 as QL: The Complete Mapping](../../sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md)
 - [Taylor — Personal Poetry Corpus (2026)](../../sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/taylor-2026-personal-poetry-corpus.md)
 - [ATILF — TLFi, regard](../../sources/language-literary-studies/atilf/atilf-tlfi-regard/atilf-tlfi-regard.md)
 - [Merriam-Webster.com Dictionary — selected E1 and E4 entries](../../sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/merriam-webster-online-dictionary.md)

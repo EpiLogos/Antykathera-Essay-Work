@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "021b7d238108b09553a8293cd3dac1cc0046268c54f425291779b408dc36864d"
+source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -24,7 +24,7 @@ This map is generated from the relations authors wrote into the publication body
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 871 | 10% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
 | #0 | The 48 movements | 48 | 421 | 35% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 186 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
-| #2 | Matheme — exact operations | 101 | 856 | 27% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
+| #2 | Matheme — exact operations | 101 | 857 | 27% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 148 | 968 | 25% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 23 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
 | #0 | Arguments A01–A36 | 37 | 1044 | 11% | [Canonical Arguments A01–A36](../../../../section-rooms/arguments/README.md) | [intents](intents/episteme-arguments.md) |
@@ -33,7 +33,7 @@ This map is generated from the relations authors wrote into the publication body
 | #0 | Product field S / S0–S5 | 8 | 79 | 16% | [Episteme — S Product Field](../../../../section-rooms/arguments/products/README.md) | [intents](intents/episteme-products.md) |
 | #4 | Episteme · Etymology whole-fields | 25 | 583 | 17% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 652 | 50% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
-| #4 | Episteme · Source houses | 218 | 1161 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
+| #4 | Episteme · Source houses | 219 | 1162 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 203 | 58% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 13 | 76 | 20% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
 | #4 | Episteme · Maps and curated paths | 5 | 129 | 5% | [Maps](../README.md) | [intents](intents/episteme-maps.md) |
@@ -53,9 +53,9 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 8104 |
-| sources | 1365 |
-| sources (declared) | 781 |
+| unnamed | 8105 |
+| sources | 1366 |
+| sources (declared) | 782 |
 | consumed-by (declared) | 296 |
 | returns-to | 178 |
 | returns-to (declared) | 125 |
@@ -75,6 +75,6 @@ This map is generated from the relations authors wrote into the publication body
 
 ## Standing of the surface
 
-- Workspace-resolved graph: 970/996 reachable, including metadata relations. Conservative visible-link audit: 966/996. See the audit for the distinction.
-- Orphans (no written inbound relation): 2. Pages with no written route back into the essay: 388.
+- Workspace-resolved graph: 971/997 reachable, including metadata relations. Conservative visible-link audit: 967/997. See the audit for the distinction.
+- Orphans (no written inbound relation): 2. Pages with no written route back into the essay: 389.
 - Full findings with page lists: [navigation audit](AUDIT.md).

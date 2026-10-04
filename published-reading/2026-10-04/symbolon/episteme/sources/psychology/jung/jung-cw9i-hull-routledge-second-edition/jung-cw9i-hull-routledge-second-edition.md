@@ -85,3 +85,20 @@ The Books pool is a discovery/locator witness. Its rights provenance is not regi
 **Relation:** source-specific locator support; the essay's philosophical continuation remains authorial.
 
 **Consumer:** Current working [M04](../../../../../../../../working/s01-hardening-2026-10-01/M04-REWRITE.md) note `s01-jung-individuation`. This is a final-read draft consumer; no accepted manuscript or movement body is changed.
+
+<a id="jung-cw9i-hull-routledge-second-edition-p003"></a>
+### jung-cw9i-hull-routledge-second-edition-p003 — Child as beginning and end
+
+**Locator:** ¶299; user-local PDF page 189 (printed p.178).
+
+**Located operation:** The initial/terminal child and pre-conscious/post-conscious essence are located in the child-archetype discussion.
+
+**Context and use boundary:** Jung calls the after-death aspect an anticipation by analogy. The passage is not empirical proof of survival after death. The scan drops leading digits in some paragraph labels and is not quotation-ready.
+
+**Status:** locator-verified; acquisition required before quotation admission.
+
+**Provenance:** Actual user-local carrier already identified in this house; SHA-256 `cf2b51f05da957e10e7798cd76165092227d35617bb6a143d0d7df350a0d35ec`; selected paragraph and adjacent page context read with pypdf extraction by s01-apparatus, 2026-10-04. Rights provenance remains unregistered; no new quotation transcription is admitted.
+
+**Relation:** source-specific locator support; the essay’s philosophical continuation remains authorial.
+
+**Consumer:** Current working [M05](../../../../../../../../working/s01-hardening-2026-10-01/M05-REWRITE.md) note `s01-jung-child`; authorial text is preserved.
