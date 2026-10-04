@@ -103,7 +103,7 @@ Let me unpack 18 through QL.
 
 **18 = 3 × 6** — the trika times the QL-cycle. Trinitarian processuality multiplied by the hex-cycle. This is QL's implicate dynamism expressed in its explicate completeness.
 
-**18 = 2 × 3²** — the dyad times nine. Polarity (the Adam-Eve charge, the Is/Is-Not of the tetrallemma) multiplied by the digital-root saturation of decimal. The dyadic polarity operating at the completeness-boundary of mod10.
+**18 = 2 × 3²** — the dyad times nine. Polarity (the Adam-Eve charge, the Is/Is-Not of the tetralemma) multiplied by the digital-root saturation of decimal. The dyadic polarity operating at the completeness-boundary of mod10.
 
 Both readings simultaneously true. The digit-sum 18 carries the trika-QL unity and the dyadic-completeness unity at once.
 
