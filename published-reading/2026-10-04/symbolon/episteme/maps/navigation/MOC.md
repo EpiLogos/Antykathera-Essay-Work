@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
+source_digest: "9426276062c15ab75b6e2b7810eef94824c518e9baf15552646ef7926166a886"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -21,7 +21,7 @@ This map is generated from the relations authors wrote into the publication body
 | Position | Class | Pages | Written relations out | Named | Entrance | Intents |
 |---|---|---|---|---|---|---|
 | #5 | The sovereign essay | 1 | 8 | 0% | [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
-| #0 | The rooms — waypoints, alignments, reading routes | 20 | 871 | 10% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
+| #0 | The rooms — waypoints, alignments, reading routes | 20 | 872 | 10% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
 | #0 | The 48 movements | 48 | 421 | 35% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 186 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 101 | 857 | 27% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
@@ -40,7 +40,7 @@ This map is generated from the relations authors wrote into the publication body
 | #4 | Episteme · Atlas | 1 | 30 | 3% | [Episteme atlas — historical routes through Etymology](../../atlas/README.md) | [intents](intents/episteme-atlas.md) |
 | #4 | Episteme · Aphorisms | 26 | 64 | 2% | [Investigation and Faith — the complete aphorism](../../aphorisms/investigation-and-faith.md) | [intents](intents/episteme-aphorisms.md) |
 | #4 | Episteme · Figures | 5 | 38 | 0% | [Episteme Figures](../../figures/README.md) | [intents](intents/episteme-figures.md) |
-| support | Supporting quilt ledgers (non-canonical) | 79 | 689 | 9% | [QL Expression Grammar](../../../../quilt/ql-expression-grammar.md) | [intents](intents/quilt.md) |
+| support | Supporting quilt ledgers (non-canonical) | 80 | 689 | 9% | [QL Expression Grammar](../../../../quilt/ql-expression-grammar.md) | [intents](intents/quilt.md) |
 
 ## Four reading movements
 
@@ -54,7 +54,7 @@ This map is generated from the relations authors wrote into the publication body
 | Relation | Count |
 |---|---|
 | unnamed | 8105 |
-| sources | 1366 |
+| sources | 1367 |
 | sources (declared) | 782 |
 | consumed-by (declared) | 296 |
 | returns-to | 178 |
@@ -75,6 +75,6 @@ This map is generated from the relations authors wrote into the publication body
 
 ## Standing of the surface
 
-- Workspace-resolved graph: 971/997 reachable, including metadata relations. Conservative visible-link audit: 967/997. See the audit for the distinction.
-- Orphans (no written inbound relation): 2. Pages with no written route back into the essay: 389.
+- Workspace-resolved graph: 971/998 reachable, including metadata relations. Conservative visible-link audit: 967/998. See the audit for the distinction.
+- Orphans (no written inbound relation): 3. Pages with no written route back into the essay: 390.
 - Full findings with page lists: [navigation audit](AUDIT.md).

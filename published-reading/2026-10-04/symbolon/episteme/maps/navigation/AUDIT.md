@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
+source_digest: "9426276062c15ab75b6e2b7810eef94824c518e9baf15552646ef7926166a886"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -18,11 +18,11 @@ Generated findings about the written navigation of the publication body. A findi
 
 ## Reader links and workspace lookup
 
-Visible, independently resolved links reach 967 of 997 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
+Visible, independently resolved links reach 967 of 998 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
 
 This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. The workspace report `reader-audit.json` retains every location and unresolved destination; it is not part of the public reading edition.
 
-Workspace lookup reaches 971 of 997 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
+Workspace lookup reaches 971 of 998 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
 
 | Depth (clicks) | Pages |
 |---|---|
@@ -37,7 +37,7 @@ Workspace lookup reaches 971 of 997 pages. The tables below describe that larger
 | Class | Pages | Links | Named | Unnamed | Orphans | No return | Unreachable |
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
-| The rooms — waypoints, alignments, reading routes | 20 | 871 | 87 | 784 | 0 | 0 | 0 |
+| The rooms — waypoints, alignments, reading routes | 20 | 872 | 88 | 784 | 0 | 0 | 0 |
 | The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 186 | 65 | 121 | 0 | 2 | 0 |
 | Matheme — exact operations | 101 | 857 | 233 | 624 | 0 | 16 | 0 |
@@ -56,7 +56,7 @@ Workspace lookup reaches 971 of 997 pages. The tables below describe that larger
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
 | Episteme · Aphorisms | 26 | 64 | 1 | 63 | 1 | 25 | 25 |
 | Episteme · Figures | 5 | 38 | 0 | 38 | 0 | 1 | 0 |
-| Supporting quilt ledgers (non-canonical) | 79 | 689 | 59 | 630 | 0 | 44 | 0 |
+| Supporting quilt ledgers (non-canonical) | 80 | 689 | 59 | 630 | 1 | 45 | 1 |
 
 ## Curated paths
 
@@ -99,6 +99,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 
 ## Orphans — no written inbound relation
 
+- [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality](../../../../CONFRONTING-THE-LIMIT-S01.md)
 - [Concept Map](../../../../section-rooms/arguments/concepts/index.md)
 - [Aphorisms](../../aphorisms/README.md)
 
@@ -106,6 +107,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 
 Pages outside the rooms with no link to the manuscript, a room surface, or a canonical Argument.
 
+- [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality](../../../../CONFRONTING-THE-LIMIT-S01.md)
 - [The Return of Zero — Parallel Harmonised Quilt](../../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md)
 - [Quilt](../../../../quilt/README.md)
 - [Concept Reharmonisation Proposal — Pass 2 — Epi-Logos, Sym-Ballein, Compassion within the Bounded 64](../../../../quilt/conjugate-field-proposals/CONCEPT-REHARMONISATION-PROPOSAL.md)
@@ -498,6 +500,7 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 
 ## Unreachable from the reading root
 
+- [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality](../../../../CONFRONTING-THE-LIMIT-S01.md)
 - [Concept Map](../../../../section-rooms/arguments/concepts/index.md)
 - [Aphorisms](../../aphorisms/README.md)
 - [A1 — Hero (REWRITTEN rev-8 — heart voice)](../../aphorisms/site-a1-hero.md)
@@ -527,9 +530,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 
 ## Unnamed-link samples by class
 
-- **The rooms — waypoints, alignments, reading routes:** `**Start with [§0/1 — The Integral Threshold] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md).** This is the foundation being completed for th`
-- **The rooms — waypoints, alignments, reading routes:** `- **If you are new, start with the rooms.** Read [The Question Before the Mechanism] (section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mec`
-- **The rooms — waypoints, alignments, reading routes:** `The [48-movement path] (symbolon/episteme/maps/return-of-zero-braided-traversal.md) keeps your place across all eight stations`
+- **The rooms — waypoints, alignments, reading routes:** `[§0/1 — The Integral Threshold] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) is the opening section being completed for the essay submissi`
+- **The rooms — waypoints, alignments, reading routes:** `- **Read the opening section.** Begin with [The Question Before the Mechanism] (section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism`
+- **The rooms — waypoints, alignments, reading routes:** `- **Follow the longer essay.** The [manuscript] (THE-RETURN-OF-ZERO.md) offers continuous prose`
 - **The sovereign essay:** `*[Section room] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)*`
 - **The sovereign essay:** `*[Section room] (section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md)*`
 - **The sovereign essay:** `*[Section room] (section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md)*`

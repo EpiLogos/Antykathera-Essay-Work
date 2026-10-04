@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
+source_digest: "9426276062c15ab75b6e2b7810eef94824c518e9baf15552646ef7926166a886"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -22,7 +22,7 @@ Position #4. Entrance: [Maps](../../README.md). Each entry names what the page *
 
 **Implicates:** *unnamed* → [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [Episteme](../../../README.md), [Return of Zero — Braided Traversal](../../return-of-zero-braided-traversal.md), [Mono–Poly and the Two Ones — Transverse Thread](../../mono-poly-two-ones.md), [Trust, Faith, and the Formal Limit — Transverse Thread](../../trust-faith-formal-limit.md), [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../../zero-subject-advent.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — Current Plain-English Full Flow](../../../../../quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md), [Episteme](../../../README.md)
+**Reached from:** *sources* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md) · *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — Current Plain-English Full Flow](../../../../../quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md), [Episteme](../../../README.md)
 
 ### [Mono–Poly and the Two Ones — Transverse Thread](../../mono-poly-two-ones.md)
 

@@ -11,6 +11,18 @@ page_type: reading-root
 
 A system can give an exact answer while concealing the conditions that made its answer possible. *Confronting the Limit* follows that problem through the subject, the history of zero, mathematics, myth, psychic life and artificial intelligence.
 
+## Start reading
+
+[§0/1 — The Integral Threshold](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) is the opening section being completed for the essay submission. Its six movements introduce the question before the formal notation. The room gathers those movements, their arguments, sources and figures in one place.
+
+- **Read the opening section.** Begin with [The Question Before the Mechanism](section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md), then follow the next movement. Return to [the §0/1 room](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) whenever you want its overview.
+- **Follow the longer essay.** The [manuscript](THE-RETURN-OF-ZERO.md) offers continuous prose. Frank is composing it over time; the wider sections remain in development. The [eight section rooms](section-rooms/README.md) let you enter each part and see its supporting work.
+- **Explore the support.** Open the [source index](symbolon/episteme/sources/SOURCE-INDEX.md) for references, or the [reading paths](symbolon/episteme/maps/README.md) to follow a question across sections. Links within a passage lead to the argument, image or source it uses.
+
+Use **Pages** to browse the collection or search it. **Connections** opens the graph of links around the page, its contents and the pages that link back to it. Both controls stay at the top while you read. **Reading home** returns here; **§0/1 · The foundation** returns to the opening room.
+
+## How the collection is organised
+
 This folder is the written field. Three things sit here.
 
 **The rooms** are eight stations. Each station holds six movements. Together they are the 48-step path you can follow today.
@@ -21,9 +33,7 @@ This folder is the written field. Three things sit here.
 
 The field around the manuscript is largely generated. It demonstrates method and intent. It will be refined. It is not a finished doctrine, and it should not speak in slogans.
 
-## Begin
-
-**Start with [§0/1 — The Integral Threshold](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md).** This is the foundation being completed for the bounded essay submission. The wider manuscript and its supporting field remain in development. Follow a claim into its formal, imaginal or scholarly support, then return to the passage it serves.
+### Further routes
 
 - **If you are new, start with the rooms.** Read [The Question Before the Mechanism](section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md), then follow its transition to the next movement. The [48-movement path](symbolon/episteme/maps/return-of-zero-braided-traversal.md) keeps your place across all eight stations. The [manuscript](THE-RETURN-OF-ZERO.md) is the continuous prose when you want the long reading; it is in progress by hand.
 - **Enter one station.** Each station has a [room](section-rooms/README.md): six movements, each routed to the canonical Arguments and Concepts it stands on, and the sources that carry them. Start with [§0/1 — The Integral Threshold](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) if you want the question before any notation, or [§1 — The Return of Zero](section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md) if you want the sign itself.

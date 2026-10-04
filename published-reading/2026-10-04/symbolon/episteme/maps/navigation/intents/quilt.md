@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "b03651ca48c6a7db215df9fa23ed7e006f781234b326fe1a9d558f4d2b7f6985"
+source_digest: "9426276062c15ab75b6e2b7810eef94824c518e9baf15552646ef7926166a886"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -75,6 +75,12 @@ Position support. Entrance: [QL Expression Grammar](../../../../../quilt/ql-expr
 **Implicates:** *unnamed* → [The Return of Zero — The Rooms](../../../../../section-rooms/README.md), [C51 — Logos / Epi-Logos](../../../../../section-rooms/arguments/concepts/C51-Logos-Epi-Logos.md), [C46 — Epistemic Cultivation](../../../../../section-rooms/arguments/concepts/C46-Epistemic-Cultivation.md), [C56 — Compassion / Sensitivity to Origins](../../../../../section-rooms/arguments/concepts/C56-Compassion-Sensitivity-to-Origins.md), [C59 — Cultural Individuation](../../../../../section-rooms/arguments/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md), [C50 — Dia / Syn](../../../../../section-rooms/arguments/concepts/C50-Dia-Syn.md), [Eros of Logos — Sym-Ballein as Love — Canonical Argument Candidacy](../../../../../quilt/conjugate-field-proposals/EROS-OF-LOGOS-A-CANDIDACY.md)
 
 **Reached from:** *unnamed* ← [Quilt](../../../../../quilt/README.md), [Eros of Logos — Sym-Ballein as Love — Canonical Argument Candidacy](../../../../../quilt/conjugate-field-proposals/EROS-OF-LOGOS-A-CANDIDACY.md)
+
+### [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality](../../../../../CONFRONTING-THE-LIMIT-S01.md)
+
+**Implicates:** none written.
+
+**Reached from:** none written.
 
 ### [Covenant, Arbitration, and Mediating Offices — King · Priest · Politician](../../../../../quilt/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md)
 

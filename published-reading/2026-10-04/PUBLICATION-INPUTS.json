@@ -1,12 +1,12 @@
 {
   "schema": "essay.curated-reading-snapshot/v1",
   "canonical_main": "44e4da181e9795ede293b3004c2293bbf7ad73e6",
-  "input_sha256": "e15b6c7860080c014a8e0e89a010ef866df2bce0d26a68105a5acf9e8450ecdc",
+  "input_sha256": "807b776ed061abc919a89b66321658d4cb568bc3d8c40f4f856e23d19c9e2bc3",
   "foundation_slug": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
   "files": [
     {
       "path": "README.md",
-      "sha256": "b9d81c4f7d85678c930447da00f1623cdf319070ab50aeec964fd560983824b9",
+      "sha256": "0177fe34df476d8e2a504f5f5f129e7d12cc3940fd121437370cd35a3063a665",
       "kind": "markdown"
     },
     {
@@ -1751,302 +1751,302 @@
     },
     {
       "path": "symbolon/episteme/maps/navigation/AUDIT.md",
-      "sha256": "4de94b8e64590930d05c6995edaae28d5c2a406e193c35e55cdfd638b686e4ca",
+      "sha256": "233ba06fa3bb599a43a01e53d2c238c5c313eb1d9e1d3235d8ce56ead4bf5a78",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-aphorisms.md",
-      "sha256": "ac4e8d92e6177bf750fcc84a09daa06cb3e8672d560e5c2c65674cf8425598e2",
+      "sha256": "2b2f37d12947b635810ce96755804397af6ff0afca2b4442fd8b6d8c2e37f7d4",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-arguments.md",
-      "sha256": "3f3f6c12718803d384dc2a313a3a303d740eb1b4b83d1db4a6b07d48ce5b3a8b",
+      "sha256": "b8832518c8fde6d004e3d7473cbddf1a933682eee6dda899de0f70af10def85a",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-atlas.md",
-      "sha256": "759f06a2050fde6a3177b2548749d01a9475b9d06e2dfaf4eff6bd4c0708630f",
+      "sha256": "a94fefc6b1282fdb3034f58311e59a24179b61306ad68828869d861a683570ed",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-concepts--developed-provenance.md",
-      "sha256": "7a1edbb526bc44e332d8e302217b785916620d3e9e70f6ae06b5ff38a370a4a0",
+      "sha256": "a04863af6bec2ec0f53b0838d27c07ac727597b76a56eb4d269884bedf486203",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-concepts--reference-notes.md",
-      "sha256": "82171e4b65f2a161a3d4b265e2fa74ebc22be37c841fe1cd083c4f112e923851",
+      "sha256": "b2432378a992735159075bb20f84e1f98cb7ad53329d8d4f25488cf8930553fc",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-concepts.md",
-      "sha256": "fd0a709fdda0604b90b4b1d59bc6f9bdbddf404d84754b0f98872644e42a32e4",
+      "sha256": "08d7fb4fe4f567d988dc40f6aea87f7069a3e2f7756460bdfffce4272de1f932",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-conjugate.md",
-      "sha256": "ec8c2cd327825be8184bf5f43f428eacde127eb7d2c0dc63f9993febcd61afe9",
+      "sha256": "aa429ceda68c71234186b2fd123519614b8e79754b4ae7dbbe60f91aef1b03aa",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-dossiers.md",
-      "sha256": "ca1db6a34de4985eebc2d7a42b13406198c5078f5a09063078a916e3fd559793",
+      "sha256": "442434ad8a75726ea970a67e769134a3c94d19a3a3e1b82314f8fd284917b2e2",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-etymologies.md",
-      "sha256": "1ba30a1fd3464ff2543fff32f5664d02b3747caad759188c26fc6b885485ccda",
+      "sha256": "990ae477595ce30dfedcfc5896c1a30850a9ede33acb810f0bd6f3a99fd97014",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-figures.md",
-      "sha256": "3de2edca094eff62bdffe7c973587d819c4dc92a957c6851ca0d01a7664430b4",
+      "sha256": "c59d3f01713304fd7ff1903fba7212597ea44bd286196a690b4802ca64b07319",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-histories.md",
-      "sha256": "c73adcbb5fcbae2b3ab28d6baf71217488e50fd584853942fe11cc55211f9c74",
+      "sha256": "00dce7cb42d8f4762eff12db059045af8d7075d1e597cdc6ad4f12d15cad8660",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-lenses.md",
-      "sha256": "e9bc309eff7c6ff097d3f2a7cdb6cbd0763e1f77da9d2e55bb53de91a863e947",
+      "sha256": "c24d0b2cdeb3c1ef83f5ae0f6c95a247fbfab7d0d943f8b1349eebf65c61666e",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-maps.md",
-      "sha256": "9bb19869efa140550de0564c8ed63dd6fc1375272ab8560aec3e020427e34382",
+      "sha256": "afa28692e921b2f6ed497dabd4bf95740dc5868e173289271ffefff557b3c3fe",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-products.md",
-      "sha256": "abbf996634df18cdd4816fa4afd95b07d4b80c0a278a66f395e560d05601a28f",
+      "sha256": "635032c1358c24aaae8ef7c1d0eeca79745a4338b4ede7eb9bc312553af2c24c",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-root.md",
-      "sha256": "7ee02cf735fa52bf38f4c433df776bcf132ee1a89eb5e6d60541ea8b7d1cdfc9",
+      "sha256": "384536e94a3cb4d92c5ce26fbb5f4dbc86bb6a5f8b5b2d076d3c701bebba14ff",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--analytic-philosophy.md",
-      "sha256": "456f4a13d58280f9fcb485fa21b804dd148ad153d091cbd9584f1fc28989058c",
+      "sha256": "002dfe69daa2a5663043e114d93be1f5c2097ec84d445044f03457793f0f0491",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--biblical-studies.md",
-      "sha256": "01f7103d394f3d844e98ebd3655b0bb3c485d285d62fb43fa309e831545cea91",
+      "sha256": "a9b3adebf5203e65e521e6106969f8f14dcf25136245adb08be3243cc56224df",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--chinese-philosophy.md",
-      "sha256": "6b05541a0e8bcc78ca437b1aad26ed53e7e700822d4aa5de83ef83a4391299d1",
+      "sha256": "065c12f6a722f3cda0e1e2bb7fa2efec5f6bf2199ca1703df57ffc3b97e1146c",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--classical-philology.md",
-      "sha256": "1c6ebf2de12e23f13fdddc339c1d1f44106a78d0baefa1514b8fed2610362d65",
+      "sha256": "1f0fc62378f65ef24c1503f0e0c7c58f2b6aeadd625d27eb2908e91449d9e0c0",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--classical-premodern-philosophy.md",
-      "sha256": "3fb14b7358331331268612692dd39baa36cb240da44cc0580909d67701cc8d26",
+      "sha256": "39e7f39e3c2fad47f65c0bc4e7bdb1da8b2c753680e76563d268d5213763e85b",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--computer-science-ml.md",
-      "sha256": "b03a262b082042ae2e0c166a1224e9f2e4fce3a1efca208b48442008832a02c5",
+      "sha256": "347085a32d4d46f655f999a5f60246eb6ae10fb92441233ad285909769b7ffab",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--history-philosophy-of-science.md",
-      "sha256": "e03693fbb82400ada1ea3fa578cba4d7d5cfe0efdf5f8adc6c5e24ec118c3bba",
+      "sha256": "3beafacae6ec39712ca5cd28b0171f4f005a63ff10340099686a38b5eb0b9a5e",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--indian-philosophy.md",
-      "sha256": "02c6651a4f8869d69224c1c3da1403b584b5567e40abd8a8ffc845c7b6931583",
+      "sha256": "886017e6a2952e3578f41fbe05dfa75bb364a9e5547ab6cc42af234c2c8b3451",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--internal-corpus.md",
-      "sha256": "de291fe4378bc98828cc3dafe26bace46d3f356af45885fb8e3f6e54be2003b4",
+      "sha256": "19e328732a0b21b437e9501e5fc290be483753a1dfcab931a5f890f22a42de41",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--language-literary-studies.md",
-      "sha256": "38f2a4058238588869fec281dcb384b84074984026e6c2c183819541983016c6",
+      "sha256": "cc63b21ca231f4738b1a43db40567928558e5c54f7ddeccccd01c21a1f53e021",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--language-philology.md",
-      "sha256": "530a0bcce4a772d6acc1969593a1e49c89f91190c3c902d353f4e4f44da8d7f7",
+      "sha256": "d0d66af4c2e101cad4b843077b1fb29873f8c9d32694521f7b100e842a018480",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--literature.md",
-      "sha256": "f5c3b118b947f8bc3f984e7c1b1dbb02a553decf0e795caf6c009d8a04a54cd9",
+      "sha256": "62e22250dfa418ac62cb931c8cadb75aa69b000c0f2ec0304339e6f57ac124a2",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--mathematics-logic.md",
-      "sha256": "f4f1807c9b2f698a8a303229615bc4800b2284144718ad460381d58fe5da2f44",
+      "sha256": "0226c50ede236cdbaf242850201aa856d2ba15f06c5fa3b4f14ae32212669131",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--media-technology-philosophy.md",
-      "sha256": "dbde9d49f4dfe03a1eeb704013324324174b7ffd6a91cbcf1a838394a58c269b",
+      "sha256": "0fe4992962893487913daa9d3c08768adc2fde2dc4cb80362c838dea8faf4283",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--phenomenology-continental-philosophy.md",
-      "sha256": "f978d6c0e5f3c28429309b5f088b5df905345e11766eabe5eb3c4c2716afa2cd",
+      "sha256": "ef8928d8f0abf06bdf1c61dc387f1b341cd219e8e54b782df1494b18bb52d160",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--physics.md",
-      "sha256": "17b70710f3d2bb6c5ac4e8ffea57ba174eda6f8d3a02a6db1f44427dcb3ee609",
+      "sha256": "6459b9b034916606f1ebfd092d461d72e0036974c98a986d21c2f7d8878f97a1",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--political-theory-institutions.md",
-      "sha256": "fc0c71d6091644dfdc12e35718ee31fb99bc6459c412039e9d84d4523509dbde",
+      "sha256": "fccf1fb93f70a8db349636bdcdb8daf0c5799e693b4775a39e0fcde088b2baf6",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--process-systems-theory.md",
-      "sha256": "e978dbcb162e47038fa63d6ab4d278acfe5d6fc2ea4866eeead842155ab7429c",
+      "sha256": "a1122b5cf1b711b20b47d577799ef7917a373db2c341ddfd55fd873e6c300127",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--psychology.md",
-      "sha256": "59b3acec197ae212c9efbd92ac1d338dd9475e24a0e4f9754965a9ffd048f42e",
+      "sha256": "70a6b8815c793d18ead66d03cb0eebb7654bac9c3c1a87c14016ab9fa419f72b",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--religion-theology.md",
-      "sha256": "548f5cfdf4aabe5f7a1f8dae87391c712005ce9c313abbd488bd2186f031f32b",
+      "sha256": "eb2660c0060ff84c95579efdd7490985227d83d76ea55d879e328372565fa173",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--root.md",
-      "sha256": "da7bb7c0da34c8a68796328e327dcce32593ce9c23a2c4864cf616ecec0e2088",
+      "sha256": "d0209209e3b69a11f3a612bc83f99cbe38cfaa26b450d3ffb29ac10ea36ddadc",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/episteme-sources.md",
-      "sha256": "49f233d2f4f6ff2d803340d5855b3a5119b2f555120783f12fb6e388934c079e",
+      "sha256": "df4e7b28db7190df2a528b9863a58c332bc7bc528f122b84358b1d43d31a1dc8",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/essay.md",
-      "sha256": "db511df8f9a4a330dbf8e956164fe14b6064455cad03cb9af79edad34120cadd",
+      "sha256": "4b62b11fe08840c2ea6fa574e161706e859385b79db871dc4224a17641fe2ab6",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--computation.md",
-      "sha256": "709e4cf7dbcf6eb1886ef9edb6cc11f1f1838bf33267400feb0afe491b6a38a5",
+      "sha256": "d21860a8fc87f90fca9fcd3c081bad54b6fa6a5908337a6c0d093bc4ccf51e03",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--definition.md",
-      "sha256": "27546f51bd654b598d8782b24193dae85223f4e5ca46ccf0b9682c912be423ca",
+      "sha256": "b7919c7f0a8b4f4bb48c86b52ac64d516491dd6073eb765fa1d10d8383e8a388",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--dia-syn.md",
-      "sha256": "fc1a57346bfde7e5c7fa58bb975526a1434fde290fbc257e81d451e75a7d89c7",
+      "sha256": "726b47c01c1216e7386a8d7e36c8188fad3cdc264bf557b9e77528c5071d8e7b",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--diagrams.md",
-      "sha256": "15da7bd24165501a13c0194d1629730ae7818ce42cc6f98013f9b1ecd38044dc",
+      "sha256": "523eef2603138731621679acc2fc7a178ec0083d4f845ec3c12427407bef48ad",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--formal-neighbours.md",
-      "sha256": "1989e108a51976713826c201cb98147aaf0bbaf02bae83a148e0afdc7f72c5a5",
+      "sha256": "7e064c7f64c561b66bde3f1aadbe5cdb8999bbfd9afba4706836cd45711e031a",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--harmonics.md",
-      "sha256": "2552e9dec88f486ea5529c5875b6cae2bcd72597085957397766e5efe3dda9eb",
+      "sha256": "1ca423c71244121e9a11920091cd30efdc8ec20d856f5bdee22c431fc14c10e5",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--mono-poly.md",
-      "sha256": "447e5d8cd1a22c98f4cde017d64cfc60d52c616ffad54cef51967456fe5d41aa",
+      "sha256": "92a41ebd0a54d699234ffb0d6dd7c3e94533fe75f1491d76068a0d6363a0db15",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--music.md",
-      "sha256": "9934fd7e2a9261ada394b4f5c3ee0d378a1709f06f07fbdccc0660d117eaabfe",
+      "sha256": "2fbfb8d2653c4a54e1e22c9bb7822e2419fe6a69f47f55852c0652478790749f",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--process.md",
-      "sha256": "7703e5b8d14e87d8cb8826d6f00eb63f25050557933bf6ba334f64af0d426473",
+      "sha256": "ec9ca291671634abb697c00a9bafd2780fe9061d4712f9ffdabdf2ccfefe25d6",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--ql.md",
-      "sha256": "8980acf611278c5748ac76e86117d521a80b270ce49ce91f0d8cc8e381a7a4f3",
+      "sha256": "ce2b2983a033a78b6a6cabe1749b4dd79a440369618c3cccb1fc5885ee96c4cb",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--quilt.md",
-      "sha256": "8bea6c2b88bace9b6d5a73911a6aced8e2b52517bfd8a74ce0426b43c4165783",
+      "sha256": "8cdd8ac46cf82809e4370e2289e00b53f793aa75353c21af0a8102a97d08aca0",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--root.md",
-      "sha256": "e9ad8b86d57ba637802df3ae339cd4b37508cd70a9682389b8255c6c1144246a",
+      "sha256": "19f5adb62e08a6ac0c49b71f664669030e50b730a18b4225a5f44793ee2a958e",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--spanda.md",
-      "sha256": "9aaa822d7c347804603fb925437f60ba817ea61eaebca0fc87b1818cf899aff5",
+      "sha256": "692ba8f55fcb02c58c1bc08a74e0216b56d1ac62de0a38f81198863983d694ae",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme--topology.md",
-      "sha256": "ea4057b5a5bb6d4995c252949d857813fd9193c994c6bd62840928f38027d1a3",
+      "sha256": "815c90ff633d73477f124a18d2841015494c42cfc2fc49707e3fbf6171b1dcb4",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/matheme.md",
-      "sha256": "fd2a9fd79557cb648f8e6e6f7e12fe680860922cbf6f42b747f1860e2802dc15",
+      "sha256": "c038c419eb4bb46e968fe311eb1722e4d825d8472df329d6d1f14ad4ecc9b6a8",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/movements.md",
-      "sha256": "cf4610466098f85fe79244afe3428ec4ce9f6c935e3d294d5106fa86e9125a59",
+      "sha256": "39441bf9268ff2e6def721256cf56df90223d70e451c872c11a9619de403a7b5",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/mytheme.md",
-      "sha256": "3e48a4e3809e5d4a6610faa17a907ec608e1abda287ddaf6c41fef3de0a86a9b",
+      "sha256": "4a8be5814c14fec3faef8e1a957f5c27a361cf760571e335e95a67b111497759",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/quilt.md",
-      "sha256": "1612a36511c281a72c87bd61ee904d639bb590f6bcd6c5d9331be334e4068083",
+      "sha256": "ae6328c2966cacc2f786fe3da135e47448a06a39c9b21720a08c2eab59b1d1da",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/rooms.md",
-      "sha256": "10efb2d4f202b7bbf53ce9c0e43250ef658d33f70cc3aed9d163273386c8a81c",
+      "sha256": "4ded00bab01b1d69c4a83d7731bad2127b3e0243be49ab7ca0db9ac280929b5b",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/intents/symbolon-root.md",
-      "sha256": "c7ac808514e4e4008ae8f691f2b050fac254df1ffae62899f2e906e041c22664",
+      "sha256": "a1b9fb43aeb5267661eec76ca26daea79c622c280183cfcc88c2cc0d276a2601",
       "kind": "markdown"
     },
     {
       "path": "symbolon/episteme/maps/navigation/MOC.md",
-      "sha256": "00daa656b07c177f08072ac378dac4a7d8b826a9d066e1b376c22ff5139fd752",
+      "sha256": "dae1e2517aad19e455049e6416c5bbc390f0e9ab475cc2b78487feccabd9017a",
       "kind": "markdown"
     },
     {
@@ -4455,5 +4455,16 @@
       "kind": "markdown"
     }
   ],
-  "standing": "Current curated reading projection received from recovered main into the author-ratified local layout. The working §0/1 review and abstract are withheld pending final authorial composition. The full manuscript remains a development draft; this snapshot is not prose acceptance."
+  "withheld_current_paths": [
+    "CONFRONTING-THE-LIMIT-S01.md"
+  ],
+  "held_publication_objects": [
+    {
+      "path": "THE-RETURN-OF-ZERO.md",
+      "publication_basis": "8265f382177086daff1fbd461c932b521babc971",
+      "publication_sha256": "c6056eeab059f505d03b8542268e1ac81a97630012a2aa4c885f9d60b8844b28",
+      "current_live_sha256": "cd889da562a281c93dea9a5843c96bfdc070d6cb3f5f6bd84491e1f426d146ef"
+    }
+  ],
+  "standing": "Curated reading projection of recovered source and reader navigation. The concurrently collated §0/1 submission is withheld; the manuscript retains its previously published development-draft bytes under the existing deferral. Live authorial files are preserved. This snapshot is not new prose acceptance."
 }
