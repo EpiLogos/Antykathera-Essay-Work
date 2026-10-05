@@ -13,7 +13,7 @@ source_relation: "Explicit geometric construction; argued native return"
 
 For a field `F`, take nonzero pairs `(x,y)∈F²` and identify `(x,y)` with `(λx,λy)` for every nonzero scalar `λ`. The equivalence classes are the projective line `P¹(F)`, written `[x:y]`. The zero pair is excluded because it determines no one-dimensional direction.
 
-The [legacy projective-line provenance](../../episteme/concepts/reference-notes/projective-line.md) names homogeneous coordinates beside the native zero/infinity relation; its bibliography-seed standing supplies no additional theorem. The [NIST house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) supplies the complex completion's exact source context; the real construction is explicitly given here rather than attributed to that complex-only passage.
+The [legacy projective-line provenance](../../../section-rooms/arguments/concepts/reference-notes/projective-line.md) names homogeneous coordinates beside the native zero/infinity relation; its bibliography-seed standing supplies no additional theorem. The [NIST house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) supplies the complex completion's exact source context; the real construction is explicitly given here rather than attributed to that complex-only passage.
 
 ## #1 — Enter the affine chart
 
@@ -35,7 +35,7 @@ The word “line” refers to projective dimension over the chosen field. The re
 
 ## #4 — Return the coordinate limit to the native relation
 
-The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) `0/1` and `1/0` retain a defined/undefined seam in ordinary arithmetic. Homogeneous coordinates show one exact way to make the endpoint of a particular map representable by changing the object and chart.
+The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) `0/1` and `1/0` retain a defined/undefined seam in ordinary arithmetic. Homogeneous coordinates show one exact way to make the endpoint of a particular map representable by changing the object and chart.
 
 The construction does not remove that arithmetic seam. It states where the old affine coordinate ceases to apply and supplies another coordinate for the larger space. In the native dimensional reframing, an account retains the determined relation while changing the representation through which it becomes available. This coordinate change gives that reading its exact local operation.
 

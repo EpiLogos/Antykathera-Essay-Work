@@ -11,7 +11,7 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — State the two signatures
 
-A translation begins with a source notation, a target notation and the relation proposed to survive the passage. The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) supply a field rich in correspondences. This page makes their different proof burdens operational.
+A translation begins with a source notation, a target notation and the relation proposed to survive the passage. The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) and [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) supply a field rich in correspondences. This page makes their different proof burdens operational.
 
 Three claims remain separate: an internal derivation, an exact construction in another formalism, and the essay's interpretation of the correspondence. One can succeed while another remains Argued or Offered.
 
@@ -43,4 +43,4 @@ The register therefore retains source terms alongside a translated result whenev
 
 The result is a correspondence that can be checked: input, map, preserved relation, omitted information, and standing of the interpretation. [Mono](mono.md) holds the common subject; [Poly](poly.md) keeps the dialects available; [Dia/Syn](../dia-syn/README.md) supplies discrimination and retained composition.
 
-This record returns-to [A12](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A18](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), and [Spanda's equations](../spanda/spanda-equations.md). An earned correspondence can now travel without silently becoming a stronger identity than its operation established.
+This record returns-to [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A18](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), and [Spanda's equations](../spanda/spanda-equations.md). An earned correspondence can now travel without silently becoming a stronger identity than its operation established.

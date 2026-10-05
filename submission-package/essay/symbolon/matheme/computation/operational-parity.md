@@ -11,7 +11,7 @@ source_relation: "Exact technical construction; argued native relation and offer
 
 ## #0 — Make a promoted distinction do work
 
-The [six research vectors](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) give the arche-topos a concrete experimental programme. A technical distinction earns promotion when removing or varying it changes a declared operation under an adequate comparison. The [native relation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) joins a determination to its means and the conscious condition through which it appears. The proposed experiment varies a specified technical means and measures its consequence; its outcome must establish the implementation claim actually being made.
+The [six research vectors](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) give the arche-topos a concrete experimental programme. A technical distinction earns promotion when removing or varying it changes a declared operation under an adequate comparison. The [native relation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) joins a determination to its means and the conscious condition through which it appears. The proposed experiment varies a specified technical means and measures its consequence; its outcome must establish the implementation claim actually being made.
 
 The input is a proposed mechanism, task family, baseline and intervention. The output must include failure and null results, not only a successful example selected after the fact.
 

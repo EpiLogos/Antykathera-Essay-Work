@@ -1,0 +1,13 @@
+{
+  "previous_local_main": "3d199eb2bf83171873ee85cffa8d2769be390a63",
+  "current_main": "44e4da181e9795ede293b3004c2293bbf7ad73e6",
+  "received": [
+    {
+      "published_path": ".github/workflows/r3-field-snapshot.yml",
+      "local_path": ".github/workflows/r3-field-snapshot.yml",
+      "preimage_sha256": "de683a2f1687d07c8df89f1c8e85a82e418fec4945829cc0869cf0393c99b4ad",
+      "postimage_sha256": "c597074d3b8c85e3d60a4540c81514b7d4c6e7f72ad309bb931cf6168030c75d"
+    }
+  ],
+  "standing": "Received latest published workflow comment. Existing authoring workflow and every essay body were preserved. No source or manuscript body changed."
+}

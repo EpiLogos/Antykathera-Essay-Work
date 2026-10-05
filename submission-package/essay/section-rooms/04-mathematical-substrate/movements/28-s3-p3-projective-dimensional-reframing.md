@@ -14,7 +14,7 @@ tags: [epi-logos/antykathera-essay, argument-map/live, argument-map/section, arg
 # §3 · #3 — Projective Completion and Dimensional Reframing
 
 <!-- reader-navigation -->
-Movement 28 of 48 · [This room](../ROOM.md) · [← Previous](27-s3-p2-mark-reentry-complex.md) · [Next →](29-s3-p4-topology-music-resolution.md)
+Movement 28 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← Previous](27-s3-p2-mark-reentry-complex.md) · [Next →](29-s3-p4-topology-music-resolution.md)
 <!-- /reader-navigation -->
 
 ## Movement thesis
@@ -53,9 +53,9 @@ The comparison is further gated by the debate Priest's reconstruction provokes. 
 
 Zero and infinity repeatedly function as useful **stress points** because attempts to force them into an existing representation can reveal which laws and distinctions that representation is using. In the examples above, the response may be a complex extension, compactification, projective completion, changed logic or changed algebra. These are not stages of one universal dimensional ladder. Their shared lesson is methodological: when a relation fails under a frame, inspect both the relation and the frame before declaring the relation impossible or the frame absolute.
 
-This is the exact formal neighbour of [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox / Transforming the Containing Field]]. A paradox can sometimes be dissolved by correcting a mistake inside the current scheme; in other cases it exposes the scheme's own assumptions as part of the problem. Mathematics supplies disciplined examples of the second possibility without proving that every philosophical paradox demands a higher dimension.
+This is the exact formal neighbour of [[section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox / Transforming the Containing Field]]. A paradox can sometimes be dissolved by correcting a mistake inside the current scheme; in other cases it exposes the scheme's own assumptions as part of the problem. Mathematics supplies disciplined examples of the second possibility without proving that every philosophical paradox demands a higher dimension.
 
-[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the formal comparison by keeping its generated objects countable. FDE's subsets of `{T,F}` give four values; QL's `2+2²` additionally retains the two initial terms and therefore gives six. Likewise, adjoining a point, moving from affine to projective geometry, compactifying a plane and changing an algebra have distinct hypotheses and preserved relations. The movement into topology and music carries only the stated operation of reframing and return.
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the formal comparison by keeping its generated objects countable. FDE's subsets of `{T,F}` give four values; QL's `2+2²` additionally retains the two initial terms and therefore gives six. Likewise, adjoining a point, moving from affine to projective geometry, compactifying a plane and changing an algebra have distinct hypotheses and preserved relations. The movement into topology and music carries only the stated operation of reframing and return.
 
 ## Transition
 

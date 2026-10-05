@@ -15,7 +15,7 @@ Let `z=(z₁,…,z_n)` be finite real logits with `n≥1`, and let temperature `
 
 `p_i=exp(z_i/T)/Σ_j exp(z_j/T)`.
 
-[PyTorch 2.9’s operators](../../episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) distinguish softmax normalisation, argmax index selection and its first-maximum tie rule. The [native selection and retained field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) keep the selected result related to the alternatives and rule through which it became determinate.
+[PyTorch 2.9’s operators](../../episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/pytorch-2-9-softmax-argmax-api.md) distinguish softmax normalisation, argmax index selection and its first-maximum tie rule. The [native selection and retained field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) keep the selected result related to the alternatives and rule through which it became determinate.
 
 ## #1 — Normalise and shift
 

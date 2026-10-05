@@ -1,0 +1,122 @@
+{
+  "root_home": "/",
+  "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+  "native_search": true,
+  "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+  "foundation_backlinks": 14,
+  "first_backlink": "../../THE-RETURN-OF-ZERO",
+  "passed": true,
+  "fills": [
+    {
+      "query": "Integral Threshold",
+      "before": {
+        "value": "",
+        "connected": true,
+        "layout": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      },
+      "listeners": {
+        ".search-button": [
+          "click",
+          "click",
+          "click"
+        ],
+        ".search-bar": [
+          "input"
+        ]
+      }
+    },
+    {
+      "query": "Integral Threshold",
+      "before": {
+        "value": "",
+        "connected": true,
+        "layout": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      },
+      "listeners": {
+        ".search-button": [
+          "click",
+          "click",
+          "click",
+          "click",
+          "click"
+        ],
+        ".search-bar": [
+          "input"
+        ]
+      }
+    }
+  ],
+  "state": {
+    "events": [
+      {
+        "value": "Integral Threshold",
+        "time": 3200.4000005722046
+      },
+      {
+        "value": "Integral Threshold",
+        "time": 25799.300000190735
+      }
+    ],
+    "searches": [
+      {
+        "active": "search-container",
+        "value": "",
+        "layouts": [
+          {
+            "connected": true,
+            "html": ""
+          }
+        ]
+      }
+    ]
+  },
+  "page_errors": [],
+  "listeners": {
+    ".search-button": [
+      {
+        "type": "click",
+        "handler": "",
+        "line": 8
+      },
+      {
+        "type": "click",
+        "handler": "",
+        "line": 8
+      },
+      {
+        "type": "click",
+        "handler": "",
+        "line": 8
+      },
+      {
+        "type": "click",
+        "handler": "",
+        "line": 8
+      },
+      {
+        "type": "click",
+        "handler": "",
+        "line": 8
+      }
+    ],
+    ".search-bar": [
+      {
+        "type": "input",
+        "handler": "",
+        "line": 8
+      }
+    ]
+  }
+}

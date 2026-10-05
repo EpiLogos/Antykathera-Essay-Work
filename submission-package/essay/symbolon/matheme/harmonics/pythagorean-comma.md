@@ -11,9 +11,9 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Compare two exact traversals
 
-Take a positive reference frequency `f₀`. Twelve ascending pure fifths reach `f₀(3/2)^12`; seven octaves reach `f₀2^7`. The [Scholtz house](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) has verified cards for the comma and temperament, so the older reference note's bibliography debt is not the current state of this ratio claim.
+Take a positive reference frequency `f₀`. Twelve ascending pure fifths reach `f₀(3/2)^12`; seven octaves reach `f₀2^7`. The [Scholtz house](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md) has verified cards for the comma and temperament, so the older reference note's bibliography debt is not the current state of this ratio claim.
 
-The [native ratio field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) receives this mismatch as a concrete musical witness of maintained fit and nonclosure. The witness keeps its own mathematical operation.
+The [native ratio field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) receives this mismatch as a concrete musical witness of maintained fit and nonclosure. The witness keeps its own mathematical operation.
 
 ## #1 — Calculate the remainder
 

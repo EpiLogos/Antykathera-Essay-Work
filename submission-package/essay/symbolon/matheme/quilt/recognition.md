@@ -11,9 +11,9 @@ source_relation: "Extracted internal quilting; native derivation and source-dist
 
 ## #0 — Every threshold gathered
 
-The [Binary Explication's](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) fifth quilt gathers what its five preceding registers have performed. The input is their developed operations, not a list of repeated words. Definition and process have already earned the formal body; this section makes its cross-register recognisability available to the reader.
+The [Binary Explication's](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) fifth quilt gathers what its five preceding registers have performed. The input is their developed operations, not a list of repeated words. Definition and process have already earned the formal body; this section makes its cross-register recognisability available to the reader.
 
-In [computational process, §XI](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), process is prior to the finished thing; computation names its exact repeatable operations; epistemology is that process becoming able to inspect its determinations. The scope does not require every being to be a digital computer.
+In [computational process, §XI](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), process is prior to the finished thing; computation names its exact repeatable operations; epistemology is that process becoming able to inspect its determinations. The scope does not require every being to be a digital computer.
 
 ## #1 — Make the positional correspondences explicit
 
@@ -38,7 +38,7 @@ A worked comparison takes the number and topology columns at return. Modulo 6, a
 
 The source's intelligence/real convergence puts Activity at Becoming, Content at Being and Structure at Knowing. Reading-between is an activity; the determined field is its content; the grammar gives their relation a repeatable form. The three are distinguishable offices of the encounter.
 
-The property/relational-order contrast in the account of *real* does philosophical work: a determination can be possessed as an isolated thing or returned through the proportion and conditions that make it actual. The proposed historical genealogy of *res*, *ratio* and *ṛta* does not establish that philosophical relation by itself. [Whole and many](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md) let a determination retain its particularity within the relation through which the whole becomes articulate.
+The property/relational-order contrast in the account of *real* does philosophical work: a determination can be possessed as an isolated thing or returned through the proportion and conditions that make it actual. The proposed historical genealogy of *res*, *ratio* and *ṛta* does not establish that philosophical relation by itself. [Whole and many](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) let a determination retain its particularity within the relation through which the whole becomes articulate.
 
 ## #4 — From Logos to Code
 
@@ -52,4 +52,4 @@ The six centres of Objective Internality locate different conditions through whi
 
 The result is a gathered proof-field that a reader can traverse by its actual operations. Its cross-register recognitions do not become independent statistical trials merely because they occupy different columns. The native derivation keeps its force, and each external comparison keeps its material and warrant.
 
-The quilt returns by `0/1=4+2=5→0=0/1`. Its [Night pass](enantiodromic-return.md) turns the seen structure into the question of inhabiting it; the prime glyph there means Night-pass sequence. [The eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keep the whole traversal available; [Integral Zero](../../episteme/arguments/A36-Advent-of-Integral-Zero.md) returns its achieved form through the still-active condition of recognition. The ratios enter [music](../music/README.md) as something to be sounded and worked.
+The quilt returns by `0/1=4+2=5→0=0/1`. Its [Night pass](enantiodromic-return.md) turns the seen structure into the question of inhabiting it; the prime glyph there means Night-pass sequence. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keep the whole traversal available; [Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) returns its achieved form through the still-active condition of recognition. The ratios enter [music](../music/README.md) as something to be sounded and worked.

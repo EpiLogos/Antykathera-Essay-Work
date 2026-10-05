@@ -27,11 +27,11 @@ The inherited fields have exact orders. In the forward parent, the poles `0` and
 | #1/#1′ and #4/#4′ | `0/1` and `1/0` | Outer #2/#3, expression and inverse |
 | #2/#2′ and #3/#3′ | `0/0` and `1/1` | Outer #1/#4, indeterminacy and unity |
 
-The source names the latter two correspondences Structure/Formality exchange. Their operation compares local coordinates with outer content addresses. The pole-pair stays the axis of the comparison while its entries change order. [The eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold the whole field that makes these nested comparisons possible. The inverse has retained the content needed for the next operation.
+The source names the latter two correspondences Structure/Formality exchange. Their operation compares local coordinates with outer content addresses. The pole-pair stays the axis of the comparison while its entries change order. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold the whole field that makes these nested comparisons possible. The inverse has retained the content needed for the next operation.
 
 ## #1 — The two arcs meet in standing unity
 
-Within [the inverse-phase accounting, §3′](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), the First Spanda equation takes its AND/OR reading:
+Within [the inverse-phase accounting, §3′](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md), the First Spanda equation takes its AND/OR reading:
 
 $$
 0=(0/0)\longrightarrow\frac{0/1}{1/0}
@@ -49,7 +49,7 @@ $$
 
 Here `[T₀]` is the emanative arc: the source takes expression as its denominator and proceeds toward manifestation. `[T₁]` is the reversionary arc: the inverse takes the source as denominator and proceeds toward recognition of its condition. These are the equation's local track definitions. They operate within the file that has first developed T1 geometry and then T0 onto-logic; track notation does not change the order of those sections.
 
-The bridge `(1/0+0/1)` gathers the directed movements. Its result is standing unity, `1/1`: the relation recognises itself as a whole through expression and recognition together. These zero-denominator expressions are native QL orientations. The final `1/1=1=100%` has an ordinary numerical reading, while the preceding bridge is not a sum of evaluated real fractions. [The Two Ones](../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md) retain the distinct offices of the terms throughout the passage.
+The bridge `(1/0+0/1)` gathers the directed movements. Its result is standing unity, `1/1`: the relation recognises itself as a whole through expression and recognition together. These zero-denominator expressions are native QL orientations. The final `1/1=1=100%` has an ordinary numerical reading, while the preceding bridge is not a sum of evaluated real fractions. [The Two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) retain the distinct offices of the terms throughout the passage.
 
 ## #2 — The counted triads retain one act of recognition
 
@@ -61,11 +61,11 @@ $$
 [T_1],\ (1/0+0/1),\ 1/1.
 $$
 
-This is the horizontal `3:3`. In the [primary subject relation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), first-, second- and third-person perspectives unfold through `1–2–3`; the return `4–5–0` voids their isolation, recognises their unity, and returns the one as `0/1`.
+This is the horizontal `3:3`. In the [primary subject relation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), first-, second- and third-person perspectives unfold through `1–2–3`; the return `4–5–0` voids their isolation, recognises their unity, and returns the one as `0/1`.
 
 The return triad is one recognition in three operations—void, one, `0/1`. Thus `3:3` is also `3:1`. Counting the operations gives three on either side; following the second three's recognitive act gives one. This preserves the source's earned unity without deleting two stages of its passage.
 
-Emanation/reversion is a further reading of that subject structure. The horizontal count becomes available for proportional comparison only after its native relation has been recovered. [The whole/many relation](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md) lets differentiated perspectives belong to one act without becoming interchangeable.
+Emanation/reversion is a further reading of that subject structure. The horizontal count becomes available for proportional comparison only after its native relation has been recovered. [The whole/many relation](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) lets differentiated perspectives belong to one act without becoming interchangeable.
 
 ## #3 — The achieved whole returns as a base frame
 
@@ -97,7 +97,7 @@ $$
 \longrightarrow4+2.
 $$
 
-Each arrow names an operation. The ratio is not equal to the sum, and the final factor count is not an evaluation of the ratio as six. [Ratio and reckoning](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains the denominator and operation through this accounting. The whole returns as an explicit organisation that can be read and traversed again.
+Each arrow names an operation. The ratio is not equal to the sum, and the final factor count is not an evaluation of the ratio as six. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains the denominator and operation through this accounting. The whole returns as an explicit organisation that can be read and traversed again.
 
 ## #4 — The account carries a difference forward
 
@@ -133,4 +133,4 @@ $$
 
 This source section's heading, `4′+2′=5′→0′`, locates its operation within the inverse phase. The achieved field is gathered so it can return to the originating relation. File Two's primes mark these inverse positions; File Three's Night-pass primes mark another sequence. Definition and Quilt retain the short `0/1=4+2=5→0=0/1` vantage. The full Process chain makes the intervening inversion available rather than silently assuming it.
 
-[The Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) receives both equations operated inside their source sequence: relation reaches standing unity, then that unity makes its organisation explicit. [Matheme](../README.md) gathers the horizontal recognition and vertical accounting as different readings of the same field. [Integral Zero](../../episteme/arguments/A36-Advent-of-Integral-Zero.md) carries the achieved determination with its exactness and source relation intact. Self-accounting has given the whole a renewed point of departure, with the passage through difference still available.
+[The Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) receives both equations operated inside their source sequence: relation reaches standing unity, then that unity makes its organisation explicit. [Matheme](../README.md) gathers the horizontal recognition and vertical accounting as different readings of the same field. [Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) carries the achieved determination with its exactness and source relation intact. Self-accounting has given the whole a renewed point of departure, with the passage through difference still available.

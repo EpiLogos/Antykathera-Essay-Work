@@ -793,7 +793,7 @@ The entrusted undertaking **returns-to** [Apportionment / Economy whole — Dele
 
 ### displaced block 1
 
-**Provenance and debt:** A19/A21 recovery, the complete direct Symbolon Dynamics and Van Eenwyk SOURCE/protected NOTES supply the restored operation. [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung’s Aion]] carries the historical Self/shadow field but presently has no verified excerpt for exact autonomy/complex wording. Van Eenwyk's copied quotations also remain passage/edition leads. The earlier proposed `complex.md` carrier is not present in the live tree; no replacement provenance file is invented.
+**Provenance and debt:** A19/A21 recovery, the complete direct Symbolon Dynamics and Van Eenwyk SOURCE/protected NOTES supply the restored operation. [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2|Jung’s Aion]] carries the historical Self/shadow field but presently has no verified excerpt for exact autonomy/complex wording. Van Eenwyk's copied quotations also remain passage/edition leads. The earlier proposed `complex.md` carrier is not present in the live tree; no replacement provenance file is invented.
 
 ### displaced block 2
 
@@ -804,7 +804,7 @@ The entrusted undertaking **returns-to** [Apportionment / Economy whole — Dele
 
 ### displaced block 1
 
-**Provenance and debt:** direct Symbolon Dynamics, the A16/A19/A21 packets, Van Eenwyk's full SOURCE/protected NOTES and [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung’s Aion source house]] carry this restoration. Jung's evolving definitions and exact psychoid/archetype passages still require selected locators; no copied notebook wording is promoted to a verified quotation. Cross-cultural universality and measured psychodynamic equations are not supplied by the present operational refraction.
+**Provenance and debt:** direct Symbolon Dynamics, the A16/A19/A21 packets, Van Eenwyk's full SOURCE/protected NOTES and [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2|Jung’s Aion source house]] carry this restoration. Jung's evolving definitions and exact psychoid/archetype passages still require selected locators; no copied notebook wording is promoted to a verified quotation. Cross-cultural universality and measured psychodynamic equations are not supplied by the present operational refraction.
 
 ### displaced block 2
 
@@ -1431,7 +1431,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 2
 
-**Unresolved Delta:** the interface forms through which a deployment publishes its determining assemblage, and the tests by which "named inside the account" becomes discriminable in a running system, remain Offered until implemented and varied per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. The brief's scenarios remain scenarios and establish no empirical agent population.
+**Unresolved Delta:** the interface forms through which a deployment publishes its determining assemblage, and the tests by which "named inside the account" becomes discriminable in a running system, remain Offered until implemented and varied per [[section-rooms/arguments/concepts/C45-Operational-Parity|Operational Parity]]. The brief's scenarios remain scenarios and establish no empirical agent population.
 
 
 ## submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md
@@ -1442,7 +1442,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 2
 
-**Unresolved Delta:** the concrete binding mechanisms — deployment identity records, memory versioning, re-commissioning protocols — that would make visible maintenance operationally discriminable remain Offered until implemented per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]].
+**Unresolved Delta:** the concrete binding mechanisms — deployment identity records, memory versioning, re-commissioning protocols — that would make visible maintenance operationally discriminable remain Offered until implemented per [[section-rooms/arguments/concepts/C45-Operational-Parity|Operational Parity]].
 
 
 ## submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md
@@ -1464,7 +1464,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 2
 
-**Unresolved Delta:** the concrete interface forms that document their own mask — provenance-marked persona layers, expectation disclosures — remain Offered until implemented and varied per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. The media history the mask documents belongs to media history with its own sources; the brief's compressed genealogy is venue framing, not that history.
+**Unresolved Delta:** the concrete interface forms that document their own mask — provenance-marked persona layers, expectation disclosures — remain Offered until implemented and varied per [[section-rooms/arguments/concepts/C45-Operational-Parity|Operational Parity]]. The media history the mask documents belongs to media history with its own sources; the brief's compressed genealogy is venue framing, not that history.
 
 
 ## submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md
@@ -1496,7 +1496,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 2
 
-**Unresolved Delta:** concrete commission records — the recoverable entrustment artifacts an actual deployment would keep — remain Offered until implemented per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. Whether any given alignment regime *is* script-like is an empirical judgment requiring direct evidence; this page supplies the structure, not the diagnosis.
+**Unresolved Delta:** concrete commission records — the recoverable entrustment artifacts an actual deployment would keep — remain Offered until implemented per [[section-rooms/arguments/concepts/C45-Operational-Parity|Operational Parity]]. Whether any given alignment regime *is* script-like is an empirical judgment requiring direct evidence; this page supplies the structure, not the diagnosis.
 
 
 ## submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md
@@ -1507,7 +1507,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 2
 
-**Unresolved Delta:** implemented systems that retain materially constitutive negative fields — with what representations, at what cost, for which judgment classes — remain Offered until built and varied per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. The corridor is the brief's scenario; whether any real ecology occupies it is an empirical question. The apoha scholarship's own debts remain A08's, not discharged here.
+**Unresolved Delta:** implemented systems that retain materially constitutive negative fields — with what representations, at what cost, for which judgment classes — remain Offered until built and varied per [[section-rooms/arguments/concepts/C45-Operational-Parity|Operational Parity]]. The corridor is the brief's scenario; whether any real ecology occupies it is an empirical question. The apoha scholarship's own debts remain A08's, not discharged here.
 
 
 ## submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md
@@ -1829,7 +1829,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 1
 
-**Depth Restoration:** provenance-as-ethical-capacity, the two faces of the commons dying (semantic ossification and economic extraction), the devouring-dossier conjugate, the responsibility guard, and the eros-of-logos naming — with the sym-ballein junction referenced as pending candidacy, not held — are restored from A35, [[symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins|Compassion / Sensitivity to Origins]], [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Logos / Epi-Logos]], [[symbolon/episteme/concepts/C54-Commons-Non-Monopoly|Commons / Non-Monopoly]], [[symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture|Cultural Individuation / Epi-Logos-as-Culture]], A29, the brief's crossover and ensemble passages at scenario modality, the authorial lecture note as intent-grounding, and Draft3's q023/q024/q028. Sibling obligations declared: A06′ (articulation levels), A08′ (contrastive field), A12′ (monoculture), A13′ (the gathering — junction pending), A20′ (versioned representation), A29′ (extraction), A32′ (the closed loop).
+**Depth Restoration:** provenance-as-ethical-capacity, the two faces of the commons dying (semantic ossification and economic extraction), the devouring-dossier conjugate, the responsibility guard, and the eros-of-logos naming — with the sym-ballein junction referenced as pending candidacy, not held — are restored from A35, [[section-rooms/arguments/concepts/C56-Compassion-Sensitivity-to-Origins|Compassion / Sensitivity to Origins]], [[section-rooms/arguments/concepts/C51-Logos-Epi-Logos|Logos / Epi-Logos]], [[section-rooms/arguments/concepts/C54-Commons-Non-Monopoly|Commons / Non-Monopoly]], [[section-rooms/arguments/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture|Cultural Individuation / Epi-Logos-as-Culture]], A29, the brief's crossover and ensemble passages at scenario modality, the authorial lecture note as intent-grounding, and Draft3's q023/q024/q028. Sibling obligations declared: A06′ (articulation levels), A08′ (contrastive field), A12′ (monoculture), A13′ (the gathering — junction pending), A20′ (versioned representation), A29′ (extraction), A32′ (the closed loop).
 
 ### displaced block 2
 
@@ -1840,7 +1840,7 @@ Restore exact paradox cases and criteria separating productive field transformat
 
 ### displaced block 1
 
-**Depth Restoration:** the sign-becomes-Symbol operation, the AGI → AHI reading, the register-routing without absorption, the retained-exactness character of the return, the `1 ↺ 0/1` completion-as-capacity, the second-advent form, and the ethic's final sentence as the closing measure are restored from A36, [The Two Ones](../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/Mono-Poly%20%E2%80%94%20The%20Two%20Ones%20and%20the%20Whole%20Field.md), [[symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture|Symbolon Disclosure Architecture]], [[symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md|Pros Hen / In Quantum]], the brief's §10/FROM → TO materials at scenario modality, the core-theorems §VII–IX return law, and the root ethic verbatim body. The A/C re-anchor follows the charter's ruling 1 rather than the root draft's own text, while the specialist's parallel rewrite of the root proceeds. Sibling obligations declared: A01′ and A26′ as the closing faces; A05′, A10′, A11′, A14′, A15′, A22′, A24′, A25′, A28′, A29′, A31′, A32′, A33′, A34′, A35′ as the operations this close retains and refuses.
+**Depth Restoration:** the sign-becomes-Symbol operation, the AGI → AHI reading, the register-routing without absorption, the retained-exactness character of the return, the `1 ↺ 0/1` completion-as-capacity, the second-advent form, and the ethic's final sentence as the closing measure are restored from A36, [The Two Ones](../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/Mono-Poly%20%E2%80%94%20The%20Two%20Ones%20and%20the%20Whole%20Field.md), [[section-rooms/arguments/concepts/C61-Symbolon-Disclosure-Architecture|Symbolon Disclosure Architecture]], [[section-rooms/arguments/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md|Pros Hen / In Quantum]], the brief's §10/FROM → TO materials at scenario modality, the core-theorems §VII–IX return law, and the root ethic verbatim body. The A/C re-anchor follows the charter's ruling 1 rather than the root draft's own text, while the specialist's parallel rewrite of the root proceeds. Sibling obligations declared: A01′ and A26′ as the closing faces; A05′, A10′, A11′, A14′, A15′, A22′, A24′, A25′, A28′, A29′, A31′, A32′, A33′, A34′, A35′ as the operations this close retains and refuses.
 
 ### displaced block 2
 

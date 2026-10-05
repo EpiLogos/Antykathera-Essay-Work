@@ -11,7 +11,7 @@ source_relation: "Explicit geometric construction; argued native return"
 
 ## #0 — Add one point to the complex plane
 
-The [NIST source house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) states the extended complex plane `Ĉ=ℂ∪{∞}`. Its topology is the one-point compactification: neighbourhoods of ∞ contain the complement of a sufficiently large compact region of the plane. The [projective line](projective-line.md) identifies it with `ℂP¹`.
+The [NIST source house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) states the extended complex plane `Ĉ=ℂ∪{∞}`. Its topology is the one-point compactification: neighbourhoods of ∞ contain the complement of a sufficiently large compact region of the plane. The [projective line](projective-line.md) identifies it with `ℂP¹`.
 
 The input here is the complex plane, not the real affine line or the integer lattice quotient that produces a torus.
 
@@ -39,7 +39,7 @@ Binary expressions such as `0/0` or ∞−∞ do not thereby gain unique values.
 
 The [torus cover](torus-cover-winding.md) identifies lattice translates of the plane; the Riemann sphere adds one point to the complex plane. They are different constructions. The torus has two independent fundamental-group generators; the sphere is simply connected.
 
-Simply connected does not mean motionless or devoid of dynamics. For example, rotating the sphere about an axis gives an explicit continuous motion. The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) sphere/torus imagery therefore uses a stated topological contrast, not a theorem that a sphere cannot carry movement, structure or a viable consciousness.
+Simply connected does not mean motionless or devoid of dynamics. For example, rotating the sphere about an axis gives an explicit continuous motion. The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) sphere/torus imagery therefore uses a stated topological contrast, not a theorem that a sphere cannot carry movement, structure or a viable consciousness.
 
 ## #5→0 — Return through the second coordinate
 

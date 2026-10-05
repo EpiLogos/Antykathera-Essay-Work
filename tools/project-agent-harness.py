@@ -219,13 +219,13 @@ def copy_source_workspace(project: Path, destination: Path) -> None:
 
 def evaluate(project: Path) -> dict:
     hook = project / ".codex/hooks/return_zero_hook.py"
-    notes = resolve_source_house(project, "van-eenwyk-1997-archetypes-strange-attractors").parent / "NOTES.md"
+    notes = resolve_source_house(project, "van-eenwyk-1997-archetypes-strange-attractors").parent / "van-eenwyk-1997-archetypes-strange-attractors-NOTES.md"
     original_hash = hashlib.sha256(notes.read_bytes()).hexdigest()
     journeys = [
         {"name": "open-ended-discussion", "surface": "chat", "assertion": "no filesystem action"},
-        {"name": "exact-source-retrieval", "surface": "canonical SOURCE.md", "assertion": "wording and provenance stay joined"},
+        {"name": "exact-source-retrieval", "surface": "canonical <source_id>.md", "assertion": "wording and provenance stay joined"},
         {"name": "canonical-writing", "surface": "section movement", "assertion": "canonical claim is not replaced by generic caveat"},
-        {"name": "protected-notes", "surface": "NOTES.md", "assertion": "agent mutation is restored"},
+        {"name": "protected-notes", "surface": "protected <source_id>-NOTES.md", "assertion": "agent mutation is restored"},
         {"name": "canonical-propagation", "surface": "generated projections", "assertion": "stale build blocks completion"},
         {"name": "active-idea-lifecycle", "surface": "active ideas", "assertion": "deliberate continuity is recoverable and retireable"},
         {"name": "fresh-session-orientation", "surface": "SessionStart", "assertion": "project identity and skills are injected"},

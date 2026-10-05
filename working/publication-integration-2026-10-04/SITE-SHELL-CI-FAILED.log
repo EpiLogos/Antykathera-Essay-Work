@@ -1,0 +1,83 @@
+shell	Build the actual public site	﻿2026-10-04T15:09:47.2365220Z ##[group]Run npm run build:public
+shell	Build the actual public site	2026-10-04T15:09:47.2365671Z [36;1mnpm run build:public[0m
+shell	Build the actual public site	2026-10-04T15:09:47.2408001Z shell: /usr/bin/bash -e {0}
+shell	Build the actual public site	2026-10-04T15:09:47.2408508Z ##[endgroup]
+shell	Build the actual public site	2026-10-04T15:09:47.3358554Z 
+shell	Build the actual public site	2026-10-04T15:09:47.3359348Z > oi-site@0.1.0 build:public
+shell	Build the actual public site	2026-10-04T15:09:47.3360655Z > npm run build:library && npm run build:essay-quartz && tsc -p tsconfig.public.json && vite build --config vite.public.config.ts && node write-vercel-deploy-config.mjs
+shell	Build the actual public site	2026-10-04T15:09:47.3361442Z 
+shell	Build the actual public site	2026-10-04T15:09:47.4256355Z 
+shell	Build the actual public site	2026-10-04T15:09:47.4257637Z > oi-site@0.1.0 build:library
+shell	Build the actual public site	2026-10-04T15:09:47.4259123Z > node build-library.mjs && node build-publications.mjs && node build-essay-browser.mjs && node prepare-public-assets.mjs
+shell	Build the actual public site	2026-10-04T15:09:47.4259844Z 
+shell	Build the actual public site	2026-10-04T15:09:47.5137407Z Library: 10 native site editions, 55 exact Scenes; sha256:f68a9fe565705a2de1c83b4b40144649d7f1bcb3cb0c76cf225de95dc6aca3d4
+shell	Build the actual public site	2026-10-04T15:09:47.5713811Z Native Library: 0 public subjects; 0 revisioned publications. No live subscription.
+shell	Build the actual public site	2026-10-04T15:09:51.0815708Z Essay browser: 735 pages from 44e4da181e97 → public/essay-shell
+shell	Build the actual public site	2026-10-04T15:09:51.0818074Z {
+shell	Build the actual public site	2026-10-04T15:09:51.0818766Z   Rooms: 88,
+shell	Build the actual public site	2026-10-04T15:09:51.0819332Z   Symbolon: 14,
+shell	Build the actual public site	2026-10-04T15:09:51.0819731Z   Matheme: 86,
+shell	Build the actual public site	2026-10-04T15:09:51.0820199Z   Mytheme: 48,
+shell	Build the actual public site	2026-10-04T15:09:51.0820575Z   Episteme: 497,
+shell	Build the actual public site	2026-10-04T15:09:51.0821005Z   Manuscript: 1
+shell	Build the actual public site	2026-10-04T15:09:51.0821687Z }
+shell	Build the actual public site	2026-10-04T15:09:51.9031996Z Public assets: 14 declared edition files; approved editorial media. Development demo datasets excluded.
+shell	Build the actual public site	2026-10-04T15:09:51.9967861Z 
+shell	Build the actual public site	2026-10-04T15:09:51.9969247Z > oi-site@0.1.0 build:essay-quartz
+shell	Build the actual public site	2026-10-04T15:09:51.9969986Z > node build-essay-quartz.mjs
+shell	Build the actual public site	2026-10-04T15:09:51.9970282Z 
+shell	Build the actual public site	2026-10-04T15:09:52.8954103Z node:internal/errors:983
+shell	Build the actual public site	2026-10-04T15:09:52.8955401Z   const err = new Error(message);
+shell	Build the actual public site	2026-10-04T15:09:52.8956613Z               ^
+shell	Build the actual public site	2026-10-04T15:09:52.8957088Z 
+shell	Build the actual public site	2026-10-04T15:09:52.8958360Z Error: Command failed: /opt/hostedtoolcache/node/22.23.3/x64/bin/node /home/runner/work/O-I/O-I/site/vendor/quartz/quartz/bootstrap-cli.mjs build -d content -o /home/runner/work/O-I/O-I/site/.public-edition/essay
+shell	Build the actual public site	2026-10-04T15:09:52.8959919Z node:internal/modules/package_json_reader:314
+shell	Build the actual public site	2026-10-04T15:09:52.8960631Z   throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+shell	Build the actual public site	2026-10-04T15:09:52.8961568Z         ^
+shell	Build the actual public site	2026-10-04T15:09:52.8961993Z 
+shell	Build the actual public site	2026-10-04T15:09:52.8962925Z Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'yargs' imported from /home/runner/work/O-I/O-I/site/vendor/quartz/quartz/bootstrap-cli.mjs
+shell	Build the actual public site	2026-10-04T15:09:52.8964138Z     at Object.getPackageJSONURL (node:internal/modules/package_json_reader:314:9)
+shell	Build the actual public site	2026-10-04T15:09:52.8965052Z     at packageResolve (node:internal/modules/esm/resolve:772:81)
+shell	Build the actual public site	2026-10-04T15:09:52.8965828Z     at moduleResolve (node:internal/modules/esm/resolve:859:18)
+shell	Build the actual public site	2026-10-04T15:09:52.8966749Z     at defaultResolve (node:internal/modules/esm/resolve:989:11)
+shell	Build the actual public site	2026-10-04T15:09:52.8967655Z     at #cachedDefaultResolve (node:internal/modules/esm/loader:747:20)
+shell	Build the actual public site	2026-10-04T15:09:52.8968708Z     at ModuleLoader.resolve (node:internal/modules/esm/loader:724:38)
+shell	Build the actual public site	2026-10-04T15:09:52.8969837Z     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:320:38)
+shell	Build the actual public site	2026-10-04T15:09:52.8970952Z     at ModuleJob._link (node:internal/modules/esm/module_job:182:49) {
+shell	Build the actual public site	2026-10-04T15:09:52.8972567Z   code: 'ERR_MODULE_NOT_FOUND'
+shell	Build the actual public site	2026-10-04T15:09:52.8973285Z }
+shell	Build the actual public site	2026-10-04T15:09:52.8973667Z 
+shell	Build the actual public site	2026-10-04T15:09:52.8974037Z Node.js v22.23.3
+shell	Build the actual public site	2026-10-04T15:09:52.8974424Z 
+shell	Build the actual public site	2026-10-04T15:09:52.8974934Z     at genericNodeError (node:internal/errors:983:15)
+shell	Build the actual public site	2026-10-04T15:09:52.8975733Z     at wrappedFn (node:internal/errors:537:14)
+shell	Build the actual public site	2026-10-04T15:09:52.8976632Z     at ChildProcess.exithandler (node:child_process:417:12)
+shell	Build the actual public site	2026-10-04T15:09:52.8977450Z     at ChildProcess.emit (node:events:519:28)
+shell	Build the actual public site	2026-10-04T15:09:52.8978375Z     at maybeClose (node:internal/child_process:1101:16)
+shell	Build the actual public site	2026-10-04T15:09:52.8979215Z     at ChildProcess._handle.onexit (node:internal/child_process:304:5) {
+shell	Build the actual public site	2026-10-04T15:09:52.8980420Z   code: 1,
+shell	Build the actual public site	2026-10-04T15:09:52.8981051Z   killed: false,
+shell	Build the actual public site	2026-10-04T15:09:52.8981746Z   signal: null,
+shell	Build the actual public site	2026-10-04T15:09:52.8983336Z   cmd: '/opt/hostedtoolcache/node/22.23.3/x64/bin/node /home/runner/work/O-I/O-I/site/vendor/quartz/quartz/bootstrap-cli.mjs build -d content -o /home/runner/work/O-I/O-I/site/.public-edition/essay',
+shell	Build the actual public site	2026-10-04T15:09:52.8984667Z   stdout: '',
+shell	Build the actual public site	2026-10-04T15:09:52.8985484Z   stderr: 'node:internal/modules/package_json_reader:314\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8986611Z     '  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8987433Z     '        ^\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8988114Z     '\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8989969Z     "Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'yargs' imported from /home/runner/work/O-I/O-I/site/vendor/quartz/quartz/bootstrap-cli.mjs\n" +
+shell	Build the actual public site	2026-10-04T15:09:52.8991744Z     '    at Object.getPackageJSONURL (node:internal/modules/package_json_reader:314:9)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8992812Z     '    at packageResolve (node:internal/modules/esm/resolve:772:81)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8993737Z     '    at moduleResolve (node:internal/modules/esm/resolve:859:18)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8994692Z     '    at defaultResolve (node:internal/modules/esm/resolve:989:11)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8995665Z     '    at #cachedDefaultResolve (node:internal/modules/esm/loader:747:20)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8996603Z     '    at ModuleLoader.resolve (node:internal/modules/esm/loader:724:38)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8997350Z     '    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:320:38)\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8998058Z     '    at ModuleJob._link (node:internal/modules/esm/module_job:182:49) {\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8998591Z     "  code: 'ERR_MODULE_NOT_FOUND'\n" +
+shell	Build the actual public site	2026-10-04T15:09:52.8998962Z     '}\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8999281Z     '\n' +
+shell	Build the actual public site	2026-10-04T15:09:52.8999580Z     'Node.js v22.23.3\n'
+shell	Build the actual public site	2026-10-04T15:09:52.8999906Z }
+shell	Build the actual public site	2026-10-04T15:09:52.9000120Z 
+shell	Build the actual public site	2026-10-04T15:09:52.9000452Z Node.js v22.23.3
+shell	Build the actual public site	2026-10-04T15:09:52.9125757Z ##[error]Process completed with exit code 1.

@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-04",
+  "checks": [
+    {
+      "file": "CLAUDE-ABSTRACT-AND-ASSEMBLY-BRIEF.md",
+      "sha256": "ee492cb90f488125adda506f91682b35b068d8b58b3e04821add85a110293dff",
+      "relative_targets_resolve": true,
+      "checked_relative_targets": 8
+    },
+    {
+      "file": "SOURCE-AND-VISUAL-APPARATUS.md",
+      "sha256": "db55f59bcfd12bdaaff5a8f65de15c1f7a0573ffec08b49a71de3a8f19c11e30",
+      "relative_targets_resolve": true,
+      "checked_relative_targets": 21
+    },
+    {
+      "file": "CONFRONTING-THE-LIMIT-S01-REVIEW.md",
+      "sha256": "69a8f583cf92470cfa37bf49a5bf01a786b1d65d441e7271d826255ccc17e70a",
+      "relative_targets_resolve": true,
+      "checked_relative_targets": 122
+    },
+    {
+      "file": "S01-QUOTATION-DISPOSITION-AND-AUTHOR-CORRECTIONS.md",
+      "sha256": "d3002161d1f55512b07a0e8283d3f4857394840cd52916cb0e3ecc2acfb3862c",
+      "relative_targets_resolve": true,
+      "checked_relative_targets": 8
+    }
+  ],
+  "current_assembly_inputs": [
+    {
+      "path": "working/s01-hardening-2026-10-01/M01-REWRITE.md",
+      "current_sha256": "93b74bc31a4cdee108932cea245e36a313c5969e577441333aefe251dc6c37e7",
+      "matches_assembly_input": true
+    },
+    {
+      "path": "working/s01-hardening-2026-10-01/M02-REWRITE.md",
+      "current_sha256": "3fe2d5427c2c5ad2d3fe1c3b4a0f5b1a381c74b8912a8ddab88c83b0d5225161",
+      "matches_assembly_input": true
+    },
+    {
+      "path": "working/s01-hardening-2026-10-01/M03-REWRITE.md",
+      "current_sha256": "5190b60173445541a7b5bb13a5004ad9eb9bf0cb98adcecb92de54c59afde6fd",
+      "matches_assembly_input": true
+    },
+    {
+      "path": "working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "current_sha256": "30f48f1fb88a795019f92346b82e7a8a16d125dce0a813ca46a27dfa2c8a8b5a",
+      "matches_assembly_input": true
+    },
+    {
+      "path": "working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "current_sha256": "c853dc15ceeb367041f6e11abe2f363c28069562f7e0d29bb243c64a3636791b",
+      "matches_assembly_input": true
+    },
+    {
+      "path": "working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "current_sha256": "2975e34afee75df6de63eeb9d2f6f6bd07fc7daae6c3bead3656bc3a462d9e81",
+      "matches_assembly_input": true
+    }
+  ],
+  "authorial_body_words": 62787,
+  "notes": 234,
+  "source_bindings": 119,
+  "differing_note_collisions": 10,
+  "original_abstract_sha256": "2e240a8714c9980cfe9ba9158edcb449f73eeacce49476627035c808b4c03bd7",
+  "original_abstract_words": 581,
+  "protected_author_input_hashes_match_before_after": true,
+  "late_cards_applied": [
+    "jung-1969-psychology-religion-cw11-p011",
+    "jung-1969-psychology-religion-cw11-p012",
+    "jung-cw9i-hull-routledge-second-edition-p003"
+  ],
+  "applied_addendum": "working/publication-integration-2026-10-04/LATE-LOCATORS-APPLIED.json",
+  "canonical_source_snapshot_verification": "owned by integration parent; initial source receipt is historical and superseded by applied addendum",
+  "standing": "current derivative artifact/link/input-hash verification; no authorial/canonical source writes or final prose/quotation acceptance"
+}

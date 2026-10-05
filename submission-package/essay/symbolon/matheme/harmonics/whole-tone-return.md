@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — State the interval body
 
-The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) derives the ratio body around the doubled fourth `16/9`. The [musical derivation house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) develops its octave remainder. The [Scholtz house](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) supplies the exact Pythagorean tuning context.
+The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) derives the ratio body around the doubled fourth `16/9`. The [musical derivation house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) develops its octave remainder. The [Scholtz house](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md) supplies the exact Pythagorean tuning context.
 
 The inputs are positive frequency ratios: fourth `4/3`, fifth `3/2`, octave `2`. Successive intervals multiply their ratios; the interval between two ratios is their quotient.
 

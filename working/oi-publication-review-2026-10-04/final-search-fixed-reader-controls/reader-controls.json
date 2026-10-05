@@ -1,0 +1,358 @@
+[
+  {
+    "case": "vercel-1440",
+    "passed": true,
+    "dimensions": {
+      "viewport": 1440,
+      "document": 1440
+    },
+    "local_graph": {
+      "box": {
+        "x": 1206,
+        "y": 183,
+        "width": 213,
+        "height": 250
+      },
+      "colours": 46
+    },
+    "global_graph": {
+      "box": {
+        "x": 145,
+        "y": 188,
+        "width": 1152,
+        "height": 612
+      },
+      "colours": 47
+    },
+    "page_errors": []
+  },
+  {
+    "case": "vercel-1100",
+    "passed": true,
+    "dimensions": {
+      "viewport": 1100,
+      "document": 1100
+    },
+    "local_graph": {
+      "box": {
+        "x": 722,
+        "y": 123,
+        "width": 357,
+        "height": 250
+      },
+      "colours": 46
+    },
+    "global_graph": {
+      "box": {
+        "x": 56,
+        "y": 188,
+        "width": 990,
+        "height": 612
+      },
+      "colours": 59
+    },
+    "page_errors": []
+  },
+  {
+    "case": "vercel-900",
+    "passed": true,
+    "dimensions": {
+      "viewport": 900,
+      "document": 900
+    },
+    "local_graph": {
+      "box": {
+        "x": 522,
+        "y": 123,
+        "width": 357,
+        "height": 250
+      },
+      "colours": 46
+    },
+    "global_graph": {
+      "box": {
+        "x": 46,
+        "y": 188,
+        "width": 810,
+        "height": 612
+      },
+      "colours": 51
+    },
+    "page_errors": []
+  },
+  {
+    "case": "vercel-390",
+    "passed": true,
+    "dimensions": {
+      "viewport": 390,
+      "document": 390
+    },
+    "local_graph": {
+      "box": {
+        "x": 62,
+        "y": 123,
+        "width": 307,
+        "height": 250
+      },
+      "colours": 50
+    },
+    "global_graph": {
+      "box": {
+        "x": 20.5,
+        "y": 188,
+        "width": 351,
+        "height": 612
+      },
+      "colours": 181
+    },
+    "page_errors": []
+  },
+  {
+    "case": "vercel-900-deep-routes-and-search",
+    "passed": true,
+    "root_home": "/",
+    "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "native_search": true,
+    "search_states": [
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      },
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      }
+    ],
+    "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "foundation_backlinks": 14,
+    "first_backlink": "../../THE-RETURN-OF-ZERO",
+    "page_errors": []
+  },
+  {
+    "case": "vercel-1440-deep-routes-and-search",
+    "passed": true,
+    "root_home": "/",
+    "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "native_search": true,
+    "search_states": [
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      },
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      }
+    ],
+    "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "foundation_backlinks": 14,
+    "first_backlink": "../../THE-RETURN-OF-ZERO",
+    "page_errors": []
+  },
+  {
+    "case": "pages-1440",
+    "passed": true,
+    "dimensions": {
+      "viewport": 1440,
+      "document": 1440
+    },
+    "local_graph": {
+      "box": {
+        "x": 1206,
+        "y": 183,
+        "width": 213,
+        "height": 250
+      },
+      "colours": 44
+    },
+    "global_graph": {
+      "box": {
+        "x": 145,
+        "y": 188,
+        "width": 1152,
+        "height": 612
+      },
+      "colours": 49
+    },
+    "page_errors": []
+  },
+  {
+    "case": "pages-1100",
+    "passed": true,
+    "dimensions": {
+      "viewport": 1100,
+      "document": 1100
+    },
+    "local_graph": {
+      "box": {
+        "x": 722,
+        "y": 123,
+        "width": 357,
+        "height": 250
+      },
+      "colours": 46
+    },
+    "global_graph": {
+      "box": {
+        "x": 56,
+        "y": 188,
+        "width": 990,
+        "height": 612
+      },
+      "colours": 62
+    },
+    "page_errors": []
+  },
+  {
+    "case": "pages-900",
+    "passed": true,
+    "dimensions": {
+      "viewport": 900,
+      "document": 900
+    },
+    "local_graph": {
+      "box": {
+        "x": 522,
+        "y": 123,
+        "width": 357,
+        "height": 250
+      },
+      "colours": 45
+    },
+    "global_graph": {
+      "box": {
+        "x": 46,
+        "y": 188,
+        "width": 810,
+        "height": 612
+      },
+      "colours": 56
+    },
+    "page_errors": []
+  },
+  {
+    "case": "pages-390",
+    "passed": true,
+    "dimensions": {
+      "viewport": 390,
+      "document": 390
+    },
+    "local_graph": {
+      "box": {
+        "x": 62,
+        "y": 123,
+        "width": 307,
+        "height": 250
+      },
+      "colours": 48
+    },
+    "global_graph": {
+      "box": {
+        "x": 20.5,
+        "y": 188,
+        "width": 351,
+        "height": 612
+      },
+      "colours": 166
+    },
+    "page_errors": []
+  },
+  {
+    "case": "pages-900-deep-routes-and-search",
+    "passed": true,
+    "root_home": "/O-I/",
+    "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "native_search": true,
+    "search_states": [
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      },
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      }
+    ],
+    "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "foundation_backlinks": 14,
+    "first_backlink": "../../THE-RETURN-OF-ZERO",
+    "page_errors": []
+  },
+  {
+    "case": "pages-1440-deep-routes-and-search",
+    "passed": true,
+    "root_home": "/O-I/",
+    "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "native_search": true,
+    "search_states": [
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      },
+      {
+        "value": "",
+        "connected": true,
+        "layoutConnected": true,
+        "results": [
+          {
+            "connected": true,
+            "children": 0
+          }
+        ]
+      }
+    ],
+    "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+    "foundation_backlinks": 14,
+    "first_backlink": "../../THE-RETURN-OF-ZERO",
+    "page_errors": []
+  }
+]

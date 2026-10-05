@@ -19,7 +19,7 @@ source_ids:
 
 The [diatonic CF grammar](diatonic-cf-grammar.md) selects seven notes and seven ways of taking one of its frames as ground. The [lens anchors](lens-anchors.md) retain twelve anchor identities. Their combination supplies a lens-scale and a modal grounding within it.
 
-The [musical field derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) combines those choices and then develops a second product in which a five-note cluster is placed over a bass. The [fuller cluster/bass proposal](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md), §II-4.8, retains the distinct selected objects. The counts become exact when the objects counted remain explicit.
+The [musical field derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) combines those choices and then develops a second product in which a five-note cluster is placed over a bass. The [fuller cluster/bass proposal](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md), §II-4.8, retains the distinct selected objects. The counts become exact when the objects counted remain explicit.
 
 Use the tempered chromatic pitch classes `ℤ₁₂`. Let `a` denote a lens’s anchor class, and take the ordered major selection
 
@@ -126,7 +126,7 @@ $$
 \frac{(9/8)^5}{16/9}=\kappa.
 $$
 
-This comma is distinct from the `9/8` interval itself. The [completing whole-tone](foundational-ratios.md) carries `16/9` exactly to `2/1`; the comma measures the accumulated difference between specified generator histories and their returns. Taylor interprets it as an *aletheic remainder*: the performed account preserves how its return was obtained. [Renewed circulation and recognition](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) remain different acts. The player can hear and compare the ratio-history, then recognise the standing relation through which that history becomes available.
+This comma is distinct from the `9/8` interval itself. The [completing whole-tone](foundational-ratios.md) carries `16/9` exactly to `2/1`; the comma measures the accumulated difference between specified generator histories and their returns. Taylor interprets it as an *aletheic remainder*: the performed account preserves how its return was obtained. [Renewed circulation and recognition](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) remain different acts. The player can hear and compare the ratio-history, then recognise the standing relation through which that history becomes available.
 
 The music’s full circuit remains
 
@@ -137,7 +137,7 @@ $$
 
 Its primes mark inverse-phase positions. The lens and musical-position primes inherited by the indexed fields identify File 3’s Night/conjugate face, a distinct office. Both traversals are retained.
 
-[Accountable ratio](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains counted objects, correspondence and selection criteria in the result; [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) makes the interval return audible. A player can select a scale, grounding, upper cluster and bass through these exact operations. Sounding and interpreting that particular selection realises possibilities which their numerical count alone does not perform.
+[Accountable ratio](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains counted objects, correspondence and selection criteria in the result; [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) makes the interval return audible. A player can select a scale, grounding, upper cluster and bass through these exact operations. Sounding and interpreting that particular selection realises possibilities which their numerical count alone does not perform.
 ## Source and implementation standing
 
 File 4 and v3 remain the housed candidate lineage, superseded in practice by the actual ql-mef package whose current implementation is unrecovered here. The fields are available as exact operations without claiming that a numerical count alone has realised their musical or epistemic possibilities.

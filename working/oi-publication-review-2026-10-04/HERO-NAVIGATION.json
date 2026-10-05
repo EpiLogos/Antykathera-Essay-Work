@@ -1,0 +1,39 @@
+{
+  "observed_at_utc": "2026-10-04T15:07:57.150797+00:00",
+  "basis": "Actual built site served by Vite preview on port 4177; installed Chromium with software WebGL; native navigation tested with reduced motion; separate restored-shell suite covers both motion modes",
+  "cases": [
+    {
+      "case": "desktop header Essay reaches actual Quartz foundation entrance",
+      "passed": true,
+      "url": "http://127.0.0.1:4177/essay/"
+    },
+    {
+      "case": "desktop landing Essay reaches actual Quartz foundation entrance",
+      "passed": true,
+      "url": "http://127.0.0.1:4177/essay/"
+    },
+    {
+      "case": "desktop header Library reaches native public Library",
+      "passed": true,
+      "url": "http://127.0.0.1:4177/#/library?published=1"
+    },
+    {
+      "case": "mobile header Essay reaches actual Quartz foundation entrance",
+      "passed": true,
+      "url": "http://127.0.0.1:4177/essay/"
+    },
+    {
+      "case": "mobile landing Essay reaches actual Quartz foundation entrance",
+      "passed": true,
+      "url": "http://127.0.0.1:4177/essay/"
+    },
+    {
+      "case": "mobile header Library reaches native public Library",
+      "passed": true,
+      "url": "http://127.0.0.1:4177/#/library?published=1"
+    }
+  ],
+  "passed": 6,
+  "failed": 0,
+  "capture_errors": []
+}

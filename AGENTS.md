@@ -34,9 +34,9 @@ For every canonical record touched during recovery, run `python tools/audit-cano
 1. `the-return-of-zero-central-plan.md` is the sole live structural authority.
 2. `return-of-zero-orienting-principles.md` is mandatory orientation, subordinate to the plan.
 3. Live section, argument, concept and traversal nodes carry the canonical granular argument.
-4. `submission-package/essay/symbolon/episteme/sources/<domain>/<author>/<source_id>/SOURCE.md` is the one canonical source house for work identity, passages, learning material, citation, quotation, provenance and consumption. Resolve `source_id` to a path through `tools/source_resolver.py`; never assume nesting depth.
-5. An optional `NOTES.md` beside a source is Frank's authorial encounter with that work. Read it whenever you open the source; never create, edit, append, normalise or relocate it. Its quotations are leads until independently verified in `SOURCE.md`, and its insights disclose intent without becoming source attribution.
-6. `submission-package/essay/THE-RETURN-OF-ZERO.md` is the sovereign manuscript. Generated `ROOM.md` files are compact authoring refractions; protected `READING.md` files are optional cross-source learning routes. Neither supersedes a canonical node.
+4. `submission-package/essay/symbolon/episteme/sources/<domain>/<author>/<source_id>/<source_id>.md` is the one canonical source house for work identity, passages, learning material, citation, quotation, provenance and consumption — a house file is the Markdown file whose stem equals its folder's name. Resolve `source_id` to a path through `tools/source_resolver.py`; never assume nesting depth.
+5. An optional `<source_id>-NOTES.md` beside a source is Frank's authorial encounter with that work. Read it whenever you open the source; never create, edit, append, normalise or relocate it. Its quotations are leads until independently verified in the house file, and its insights disclose intent without becoming source attribution.
+6. `submission-package/essay/THE-RETURN-OF-ZERO.md` is the sovereign manuscript. Generated `ROOM-<room-slug>.md` files are compact authoring refractions; protected `READING-<room-slug>.md` files are optional cross-source learning routes. Neither supersedes a canonical node.
 7. `working/legacy/` is frozen provenance and governs nothing. Raw chat transcripts under `working/sources-texts-references/chat-logs-for-quilting/` are the `local_copy` shelf for the Taylor dialogue records under `episteme/sources/internal-corpus/taylor/chat-logs/`; those records are typed `dialogue-record` — provenance of thinking, never evidence.
 8. Dated design documents describe intended artifacts; they never override the live essay, the live nodes, or the developer workflow.
 
@@ -58,13 +58,15 @@ things.
 - The **rooms**, `section-rooms/`: eight rooms of six movements each — 48 in order, each
   naming its previous and next step, with M48 returning to M01.
 
-The rooms' implicate ground is the **canonical A/C suite** in Episteme: 36 arguments
-(A01–A36), 36 conjugates (A01′–A36′), 64 concepts (C01–C64) and the A/C root — 137 records
-in one home. Each room's `P1-CANONICAL-ALIGNMENT.md` is the per-movement route into it.
-The 21 historical files under `section-rooms/arguments/` are **provenance**: earlier
-carriers, typed `legacy-argument` with `authority: historical-provenance`, each pointing at
-its developed successor. They are not the rooms' argument field, and their count is not a
-census of anything live. `submission-package/essay/README.md` is the authored reading root.
+The rooms' implicate ground is the **canonical A/C suite**, housed since Frank's ratified
+2026-09-25 migration in `section-rooms/arguments/`: 36 arguments (A01–A36), 36 conjugates
+(A01′–A36′), 64 concepts (C01–C64) and the A/C root — 137 records in one home, with the
+product field (`S`, `S0`–`S5`) beside them. Each room's `P1-CANONICAL-ALIGNMENT.md` is the
+per-movement route into it. The 21 historical argument carriers are **provenance**: since
+the same migration they live frozen under `working/legacy/section-rooms-arguments/`, typed
+`legacy-argument` with `authority: historical-provenance`, each pointing at its developed
+successor. They are not the rooms' argument field, and their count is not a census of
+anything live. `submission-package/essay/README.md` is the authored reading root.
 
 `working/` holds the non-publication surfaces only: ledgers, raw authorial shelves, legacy,
 working drafts, the deletion queue. It never becomes authority, and nothing is maintained as
@@ -79,14 +81,14 @@ a generated duplicate of the publication body.
 - **Missing citation readiness never downgrades an internally Derived or Argued position.** Scope the claim accurately and preserve its earned force. Use `may`, `might`, `perhaps` or `could` only for a named modal, causal, empirical, or genuinely open uncertainty — never to soften the essay's position into an acceptable neighbouring one.
 - **A relation that bears the work must be recovered before you write.** Run `python3 tools/okf-workspace.py effects <source-or-concept> --depth 4 --json`, reopen every returned canonical consumer, and read the whole declared transverse thread. The map follows declared links and thread metadata only; it is never a licence for association by shared vocabulary, tags or folder adjacency. Do not sever a connection because it passes from formal, phenomenological, psychic, social, mythic or technical registers; and do not merge distinct wholes because they meet at one point.
 - **Check `local_copy` before saying material is unavailable.** A stale source-locality claim is a provenance debt to repair from the actual local object.
-- **The prose register has its own gate.** `writing-guidance-tools/README.md` is the entry point for all authored prose; its load contract governs — draft cold with only `references/WRITING-LAWS.md` and `references/WRITING-RUBRIC.md` open, audit against the rubric with `references/comparative-and-negation-gate.md` in the same pass, and only then calibrate selectively. Calibration files are never pre-loaded. No single-pass prose ships.
+- **The prose register has one standard.** `PROSE-STANDARD.md` governs all manuscript prose: the thirteen faults, the authorial hand, the repair method, the locked mechanics and the done-stamp. It is applied by reading the passage in its section, never by pattern-matching. The former `writing-guidance-tools/` stack is retired (archived under `working/legacy/`) and governs nothing.
 
 ## Sources and evidence
 
 `submission-package/essay/symbolon/episteme/sources/README.md` is the governing protocol.
 It holds in full; these are its load-bearing points.
 
-1. **A source is a recoverable object** — one book, edition, article, transcript, dataset or internal manuscript, with one stable `source_id` and one canonical `SOURCE.md`. Never create a source for a person, a concept or an argument.
+1. **A source is a recoverable object** — one book, edition, article, transcript, dataset or internal manuscript, with one stable `source_id` and one canonical house file `<source_id>.md`. Never create a source for a person, a concept or an argument.
 2. **Chicago 18 Notes and Bibliography**, citing the exact edition consulted. Prefer DOI URLs for articles.
 3. **Citation readiness never licenses a quotation.** A quotation requires exact transcription, edition, locator, context check, transcription method, verifier and date, and a named consuming claim.
 4. **No evidence tiers.** No `A`/`B`/`C`, no "primary tier", no single ordinal standing in for analysis. Track `source_role`, `metadata_status`, `edition_status`, `citation_status`, `quote_status` and exact consumption independently.
@@ -147,7 +149,7 @@ change its source and rebuild.
 
 | Surface | Built by |
 |---|---|
-| `section-rooms/README.md` and every `ROOM.md` | `tools/build-section-rooms.py` |
+| `section-rooms/README.md` and every `ROOM-<room-slug>.md` | `tools/build-section-rooms.py` |
 | `symbolon/episteme/maps/navigation/` — `MOC.md`, `intents/`, `AUDIT.md`, `audit.json` | `tools/build-navigation.py` |
 | source projections (`SOURCE-INDEX.md`, `PASSAGE-LEDGER.md`, `MAIN-SOURCES.md`) | `tools/build-source-projections.py` |
 | room-depth and reader-navigation audits | `tools/audit-room-depth.py`, `tools/audit-reader-navigation.py` |
@@ -171,7 +173,7 @@ Claude Code discovers the same eight skills through `.claude/skills/`, which are
 projections of `.agents/skills/` rather than a second editable copy. Both runtimes register
 the same handler — Codex through `.codex/hooks.json`, Claude through `.claude/settings.json`
 — calling `.codex/hooks/return_zero_hook.py`. That handler loads compact orientation at
-session start, restores any agent mutation of a source-house `NOTES.md`, and stops
+session start, restores any agent mutation of a source-house `<source_id>-NOTES.md`, and stops
 completion when canonical changes have left generated projections stale.
 
 `working/active-ideas.json` is an optional continuity surface, not a session ledger. Add an
@@ -196,3 +198,20 @@ new writing worktrees. A model-written version begins only from one ratified bas
 and uses a sequential `codex/write-<model-slug>` branch under the common execution receipt
 defined in `WRITING-PROTOCOL.md` (§7). Model branches are never rebased on, merged from, or
 shown each other's prose before comparison.
+
+## Learned User Preferences
+
+- Prefer continuous prose with metaphors and similes over short staccato beat-by-beat replies in this project.
+- Implement O:I site changes on the stated main site path; do not open a new O-I branch unless asked.
+- Explain hosting and tooling in plain English first; lead with the outcome (own domain, vault and manuscript together under `/essay`) before naming tools.
+- Site chrome: one Essay nav entry to the vault home or manuscript field; do not dual-link “essay” versus manuscript; do not live-link install or product pages while products are unready.
+- Before claiming site work done, verify CSS rendering and that explorer, graph, and home navigation actually resolve under the deploy base path.
+- Bring the named GitHub manuscript and sections into the local essay submission home before running unrelated test suites; the submission-folder manuscript is the live home, not a “prior draft” skeleton.
+
+## Learned Workspace Facts
+
+- Public O:I target is `oi.epi-logos.org` (Vercel); essay vault and manuscript ship together under `/essay` via a self-hosted Quartz-class static build, preferred over Obsidian Publish SaaS for same-origin with the Expressions Library.
+- Essay source of truth remains `submission-package/essay/`; do not invent a second essay ontology for the public site.
+- O:I site code lives at `Central/Work/O-I/site`; Expressions Library stays on the same site (`library.html`); the full generated library expression set should be present.
+- Quartz explorer, graph, and home links must resolve under the `/essay` base path; backlinks can work while explorer paths 404 when base-path routing is wrong.
+- Working manuscript candidates stay under `working/`; do not alter the sovereign `submission-package/essay/THE-RETURN-OF-ZERO.md` during unaccepted prose-pass work without explicit instruction.

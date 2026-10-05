@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "jung-1971-spirit-man-art-literature-cw15",
+    "title": "Jung — The Spirit in Man, Art, and Literature, CW 15 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1971-spirit-man-art-literature-cw15/jung-1971-spirit-man-art-literature-cw15.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — The Spirit in Man, Art, and Literature, CW 15 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-1971-spirit-man-art-literature-cw15-p001 — Art and compensation"
+    ],
+    "sha256": "70f13f348fb5b6800443a5b76b35b65534706180a8d66ce884aa85d4bb6bb86d",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

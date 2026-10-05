@@ -1,0 +1,170 @@
+{
+  "base": "5c74f16120e688b2969ea848e797d1062485ed77",
+  "commit": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "tree": "4fee6d352733e8abc643208d43fa83604ecec944",
+  "ref": "refs/heads/publication/essay-field-2026-10-04",
+  "changed_paths": [
+    ".github/workflows/site-shell-v2.yml",
+    ".github/workflows/site.yml",
+    "gates/manifest.json",
+    "site/build-essay-browser.mjs",
+    "site/build-essay-quartz.mjs",
+    "site/build-library.mjs",
+    "site/content/public-site.md",
+    "site/essay-browser.mjs",
+    "site/essay-source.mjs",
+    "site/essay-source.test.mjs",
+    "site/index.html",
+    "site/package.json",
+    "site/public-content.test.mjs",
+    "site/shell.html",
+    "site/src/shell/ShellApp.tsx",
+    "site/src/shell/ShellNav.tsx",
+    "site/src/shell/content.ts",
+    "site/src/shell/public-entrance.css",
+    "site/src/shell/shell.css",
+    "site/tests/essay-host-smoke.py",
+    "site/tests/essay-reader-controls.py",
+    "site/tests/library-acceptance.py",
+    "site/tests/library-regressions.py",
+    "site/tests/read-shell-source.mjs",
+    "site/tests/shell-v2-acceptance.py",
+    "site/vendor/quartz/quartz.config.ts",
+    "site/vendor/quartz/quartz.layout.ts",
+    "site/vendor/quartz/quartz/components/EssayAnchor.tsx",
+    "site/vendor/quartz/quartz/components/FadeToggles.tsx",
+    "site/vendor/quartz/quartz/components/Footer.tsx",
+    "site/vendor/quartz/quartz/components/Graph.tsx",
+    "site/vendor/quartz/quartz/components/index.ts",
+    "site/vendor/quartz/quartz/components/renderPage.tsx",
+    "site/vendor/quartz/quartz/components/scripts/essay-panels.inline.ts",
+    "site/vendor/quartz/quartz/components/scripts/graph.inline.ts",
+    "site/vendor/quartz/quartz/components/scripts/search.inline.ts",
+    "site/vendor/quartz/quartz/plugins/emitters/aliases.ts",
+    "site/vendor/quartz/quartz/plugins/transformers/links.ts",
+    "site/vendor/quartz/quartz/styles/custom.scss"
+  ],
+  "owned_files": [
+    {
+      "path": ".github/workflows/site-shell-v2.yml",
+      "blob": "c794a9c9390955fa6f25ff880647e7ed90bd5834",
+      "sha256": "d645689263ab795eadf63a22b6b34315ad15e07fb1a0590244c6d4c1bb5d8937"
+    },
+    {
+      "path": ".github/workflows/site.yml",
+      "blob": "c67855c6903d83bba55e1b967b62cc4a78255c99",
+      "sha256": "4ea903524952c3afc4476f752351ec4199aedceb3ce0819b9f818aab5c3d1712"
+    },
+    {
+      "path": "site/build-library.mjs",
+      "blob": "80739baecfb49900ea0b4d29b0edb120a7075119",
+      "sha256": "893a7f26a56caacf7ed4a12ffc2351c8e51650d9d59d549bd13b2b7ff60383c0"
+    },
+    {
+      "path": "site/essay-source.mjs",
+      "blob": "b54ae1c62f0888b7978daa6a29fbfc9da8cf8aea",
+      "sha256": "1c9f4b37ae0e1cab45dd1a905a5db2b54b6819fb62107a1763edd57f2ed8536b"
+    },
+    {
+      "path": "site/essay-source.test.mjs",
+      "blob": "e364f4381e403ed4ca083c2ae62067de3f82dcb9",
+      "sha256": "f03812401dca31437bba50711ab4d733e9a5389ec00c7d062cb2eeb0c9cb22c4"
+    },
+    {
+      "path": "site/tests/essay-reader-controls.py",
+      "blob": "535c93baf4bdd9a5acfac8e7e20016e56dce3e6c",
+      "sha256": "7250bb8626bf5765172191be7695c40b024f10192b97ef84e83dc19d955e431c"
+    },
+    {
+      "path": "site/vendor/quartz/quartz.config.ts",
+      "blob": "9957fa03eeaa344bd17f967a684c87a4f07bb4d4",
+      "sha256": "1f7878de968c3d796691b2217785232222dd3038e70a1b54ea2ac0b10f963ccd"
+    },
+    {
+      "path": "site/vendor/quartz/quartz.layout.ts",
+      "blob": "01f97bd8e9c1932433d0b62cfc1fddb92cf1fe76",
+      "sha256": "68cb71f02c5f2d2acadd03af8cd9df4612d7aafe4a62b9814d2158982c7994e0"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/EssayAnchor.tsx",
+      "blob": "6131a91229c15018803d4500820bcefc21f5da93",
+      "sha256": "0e2f83c5d4bae329b40b280ef8278464d9c70371794a5879fa9d5787112ba789"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/FadeToggles.tsx",
+      "blob": "b89153d78dcb5e3c4e1c7a475363736dac34e27e",
+      "sha256": "c3d07eee9abf5fda2523d7eb9929a16a7fb8cf5404e44bc1ff1e33fba71fd9d3"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/Footer.tsx",
+      "blob": "382136dc3f176887b06ba4d411d2885dca6dd270",
+      "sha256": "469ee54d10bebec27168e69ec5e871b497bafd555119d86e9bdd14b2be9a1336"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/Graph.tsx",
+      "blob": "89b92c0cb2c5f442d55652dfc822b1d83dc35346",
+      "sha256": "4caaebd7de349a678f648e9f5b32a58c10ae8913c6e696d7f17d98b2b94fe7d1"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/index.ts",
+      "blob": "8ac1c859e0640005c297881baa04b0f2c4b8beff",
+      "sha256": "854caf3104dc7502bc6854aaddd643bffbb505a1b38dd1554fe42178cdc34e80"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/renderPage.tsx",
+      "blob": "70b12e5bebeba1fbef96bd3bb10c7dd6983c45c5",
+      "sha256": "5401f3c8cad32f5ec08cd73518bb99696fc66e5b9fbe5c9c16cbd3d36e549b0f"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/essay-panels.inline.ts",
+      "blob": "80ab16b3fc078986f9fecdfc0a0089c044e02637",
+      "sha256": "52b308d4cc720d3969c613def817d229b318dcf54a07eee3b4221fe1fd2f4bde"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/graph.inline.ts",
+      "blob": "db47c9489500d5f649f59380704a70c962c8efb5",
+      "sha256": "24d10d345fffe6eeedfbeb7bf8efd4c121e3e102c1066d325c66c6b6a4bdfd68"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/search.inline.ts",
+      "blob": "aece9e1247934505ab6272cf2181d259d8e71eb4",
+      "sha256": "f00a7e14304c4803dea1f9ba694e09fa2a3876c25cb1c5b3e140221b2827ec36"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/plugins/transformers/links.ts",
+      "blob": "19a41ce7f596c0e47eac55165a4ba7a32ee24160",
+      "sha256": "ea29b2c2138a96a7d2d93fbd3142515419aad095a8cfa895b9b4df8b29657b41"
+    },
+    {
+      "path": "site/vendor/quartz/quartz/styles/custom.scss",
+      "blob": "1cd5918d8480e7ff56d53534b6e22be4b92319d5",
+      "sha256": "7c04501c1fda8b4aa9645fd437094b0015fb7db2cbecb5c80a07e36f6dbfbfbe"
+    }
+  ],
+  "standing": "Scoped publication candidate. Shared primary HEAD/index and unrelated edits were preserved. This is not a full landing receipt.",
+  "previous_publication_commit": "8f4a11c6589e5047b0a4b7fb20f1f8547bdde3ef",
+  "excluded_unpublished_capture": "3d6fbea3df2b2442a44074896040d162a72c79ea",
+  "held_foreign_paths": [
+    "site/content/public-site.md",
+    "site/index.html",
+    "site/public-content.test.mjs",
+    "site/src/shell/ShellApp.tsx",
+    "site/src/shell/ShellNav.tsx",
+    "site/src/shell/content.ts",
+    "site/src/shell/public-entrance.css",
+    "site/src/shell/shell.css",
+    "site/tests/library-acceptance.py",
+    "site/tests/library-regressions.py",
+    "site/tests/read-shell-source.mjs",
+    "site/tests/shell-v2-acceptance.py"
+  ],
+  "primary_head_unchanged": true,
+  "primary_index_unchanged": true,
+  "product_build_commit": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "latest_change_scope": [
+    "site/vendor/quartz/quartz/components/scripts/search.inline.ts",
+    "site/vendor/quartz/quartz/styles/custom.scss",
+    "site/vendor/quartz/quartz.layout.ts",
+    "site/tests/essay-reader-controls.py"
+  ]
+}

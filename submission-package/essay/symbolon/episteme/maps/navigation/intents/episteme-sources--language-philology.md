@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources--language-philology
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.1"
+generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
+source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -17,26 +17,42 @@ source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870
 Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md). Each entry names what the page **implicates** through its written relations and what **reaches** it. The relation word is the one the sentence around the link names; `unnamed` marks a link whose sentence names none. This is a mirror of the written graph, never its substitute.
 Group: `language-philology` · back to [Episteme · Source houses](episteme-sources.md).
 
-### [Lewis and Short — prōiciō / projiciō](../../../sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md)
+### [de Vaan — Etymological Dictionary of Latin and the Other Italic Languages (2008)](../../../sources/language-philology/de-vaan/devaan-2008-etymological-dictionary-latin/devaan-2008-etymological-dictionary-latin.md)
+
+`dictionary`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Lewis and Short — prōiciō / projiciō](../../../sources/language-philology/lewis-short/lewis-short-proicio/lewis-short-proicio.md)
 
 `lexicon-entry`
 
-**Implicates:** *consumed-by (declared)* → [A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation](../../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) · *unnamed* → [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md)
+**Implicates:** *consumed-by (declared)* → [A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation](../../../../../section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) · *unnamed* → [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md)
 
-**Reached from:** *sources* ← [Genesis / Paradigm / Project / Epi-Logos — Source Routes](../../../etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md), [Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return](../../../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Genesis / Paradigm / Project / Epi-Logos — Source Routes](../../../etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md), [Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return](../../../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [LSJ — γένεσις](../../../sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md)
+### [LSJ — γένεσις](../../../sources/language-philology/liddell-scott-jones/lsj-genesis/lsj-genesis.md)
 
 `lexicon-entry`
 
-**Implicates:** *consumed-by (declared)* → [A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation](../../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) · *unnamed* → [§5→0 · #0 — From Theory to Vocation](../../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
+**Implicates:** *consumed-by (declared)* → [A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation](../../../../../section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) · *unnamed* → [§5→0 · #0 — From Theory to Vocation](../../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
 
-**Reached from:** *sources* ← [Genesis / Paradigm / Project / Epi-Logos — Source Routes](../../../etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md), [Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return](../../../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Genesis / Paradigm / Project / Epi-Logos — Source Routes](../../../etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md), [Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return](../../../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [LSJ — παράδειγμα / παραδείκνυμι](../../../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md)
+### [LSJ — παράδειγμα / παραδείκνυμι](../../../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/lsj-paradeigma-paradeiknumi.md)
 
 `lexicon-entry-pair`
 
-**Implicates:** *consumed-by (declared)* → [A06 — Vāk](../../../arguments/A06-Vak.md) · *unnamed* → [§0 · #5→0 — Objective Internality](../../../../../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md)
+**Implicates:** *consumed-by (declared)* → [A06 — Vāk](../../../../../section-rooms/arguments/A06-Vak.md) · *unnamed* → [§0 · #5→0 — Objective Internality](../../../../../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md)
 
-**Reached from:** *sources* ← [A06 — Vāk](../../../arguments/A06-Vak.md), [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [C51 — Logos / Epi-Logos](../../../concepts/C51-Logos-Epi-Logos.md), [Genesis / Paradigm / Project / Epi-Logos — Source Routes](../../../etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md), [Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return](../../../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) · *sources (declared)* ← [C41 — Objective Internality](../../../concepts/C41-Objective-Internality.md), [C51 — Logos / Epi-Logos](../../../concepts/C51-Logos-Epi-Logos.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [A06 — Vāk](../../../../../section-rooms/arguments/A06-Vak.md), [C51 — Logos / Epi-Logos](../../../../../section-rooms/arguments/concepts/C51-Logos-Epi-Logos.md), [Genesis / Paradigm / Project / Epi-Logos — Source Routes](../../../etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md), [Genesis / Paradigm / Project / Epi-Logos — Paradigmatic Disclosure and Return](../../../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md) · *sources (declared)* ← [C41 — Objective Internality](../../../../../section-rooms/arguments/concepts/C41-Objective-Internality.md), [C51 — Logos / Epi-Logos](../../../../../section-rooms/arguments/concepts/C51-Logos-Epi-Logos.md) · *unnamed* ← [C41 — Objective Internality](../../../../../section-rooms/arguments/concepts/C41-Objective-Internality.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Watkins — The American Heritage Dictionary of Indo-European Roots (3rd ed., 2011)](../../../sources/language-philology/watkins/watkins-2011-ahd-indo-european-roots/watkins-2011-ahd-indo-european-roots.md)
+
+`dictionary`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)

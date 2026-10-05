@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources--history-philosophy-of-science
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.1"
+generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
+source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -17,42 +17,98 @@ source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870
 Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md). Each entry names what the page **implicates** through its written relations and what **reaches** it. The relation word is the one the sentence around the link names; `unnamed` marks a link whose sentence names none. This is a mirror of the written graph, never its substitute.
 Group: `history-philosophy-of-science` · back to [Episteme · Source houses](episteme-sources.md).
 
-### [Frank, Gleiser, and Thompson — The Blind Spot (2024)](../../../sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md)
+### [Enz — No Time to Be Brief: A Scientific Biography of Wolfgang Pauli (Oxford, 2002)](../../../sources/history-philosophy-of-science/enz/enz-2002-no-time-to-be-brief/enz-2002-no-time-to-be-brief.md)
 
 `book`
 
-**Implicates:** *consumed-by (declared)* → [A03 — Immutable Gap / Formal Limit](../../../arguments/A03-Immutable-Gap-Formal-Limit.md), [A26 — Objective Internality — Mind as Worldhood](../../../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md), [A31 — Deferential Intelligence](../../../arguments/A31-Deferential-Intelligence.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [The Return of Zero — Reading Root](../../../../../README.md), [Return of Zero — Section Rooms](../../../../../section-rooms/README.md)
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *sources* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING.md), [§0/1 · #1 — Define the Subject Without Making It an Object](../../../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md), [§0/1 · #3 — The Formal-Limit Genealogy](../../../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md), [Process, Systems, and Science — From Substance to Participating Field](../../../histories/traditions-and-disciplines/process-systems-science/HISTORY.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *compares* ← [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *sources (declared)* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING.md), [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Immutable Gap and Meta-Sign](../../../../../section-rooms/arguments/01-immutable-gap-and-meta-sign.md), [Objective Internality](../../../../../section-rooms/arguments/02-objective-internality.md), [Agent Subjectivity Must Remain Open](../../../../../section-rooms/arguments/05-agent-subjectivity-open.md), [Deferential Intelligence](../../../../../section-rooms/arguments/08-deferential-intelligence.md), [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *unnamed* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM.md), [Immutable Gap and Meta-Sign](../../../../../section-rooms/arguments/01-immutable-gap-and-meta-sign.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md)
+### [Frank, Gleiser, and Thompson — The Blind Spot (2024)](../../../sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/frank-gleiser-thompson-2024-blind-spot.md)
 
-`journal-article`
+`book`
 
-**Implicates:** *consumed-by (declared)* → [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md), [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [A16 — Arche-Topos as Differential Field](../../../arguments/A16-Arche-Topos-as-Differential-Field.md)
+**Implicates:** *consumed-by (declared)* → [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A31 — Deferential Intelligence](../../../../../section-rooms/arguments/A31-Deferential-Intelligence.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md)
 
-**Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM.md), [Myth — Tellings, Changed Offices, and Consequential Return](../../../histories/encounters-and-transmissions/myth/DEVELOPMENT.md), [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md), [Ancient Philosophy — Measure, Tension, and the Form of Relation](../../../histories/traditions-and-disciplines/ancient-philosophy/HISTORY.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md), [Metonic Cycle and Antikythera: Maintained Fit](../../../../matheme/harmonics/metonic-antikythera-cycle.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *sources (declared)* ← [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [Arche-Topos as Differential Field](../../../../../section-rooms/arguments/04-arche-topos-topology-music.md), [Artificial Hybrid Intelligence as Reflective Field](../../../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING-00-integral-threshold.md), [§0/1 · #1 — Define the Subject Without Making It an Object](../../../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md), [§0/1 · #3 — The Formal-Limit Genealogy](../../../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-process-systems-science.md), [Process, Systems, and Science — From Substance to Participating Field](../../../histories/traditions-and-disciplines/process-systems-science/HISTORY-process-systems-science.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *compares* ← [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *sources (declared)* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING-00-integral-threshold.md), [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *unnamed* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [Freeth et al. — Decoding the Antikythera Mechanism (2006)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md)
-
-`journal-article`
-
-**Implicates:** *consumed-by (declared)* → [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) · *unnamed* → [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md)
-
-**Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM.md), [Myth — Tellings, Changed Offices, and Consequential Return](../../../histories/encounters-and-transmissions/myth/DEVELOPMENT.md), [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md), [Ancient Philosophy — Measure, Tension, and the Form of Relation](../../../histories/traditions-and-disciplines/ancient-philosophy/HISTORY.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md), [Process, Systems, and Science — From Substance to Participating Field](../../../histories/traditions-and-disciplines/process-systems-science/HISTORY.md), [Technology, Politics and Institutions — Formation, Delegation and Return](../../../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md), [Technology, Politics, and Institutions — From Mass Formation to Planetary Technē](../../../histories/traditions-and-disciplines/technology-politics/HISTORY.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *sources (declared)* ← [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [Artificial Hybrid Intelligence as Reflective Field](../../../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
-
-### [Nothaft — Medieval Europe's Satanic Ciphers (2020)](../../../sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md)
+### [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md)
 
 `journal-article`
 
-**Implicates:** *unnamed* → [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Nothaft Satanic Ciphers](../../../concepts/reference-notes/nothaft-satanic-ciphers.md)
+**Implicates:** *consumed-by (declared)* → [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../../../section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md)
 
-**Reached from:** *sources* ← [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md), [Mathematics — From the Empty Place to Recursive Return](../../../histories/traditions-and-disciplines/mathematics/HISTORY.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md), [Myth — Tellings, Changed Offices, and Consequential Return](../../../histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md), [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT-ancient-philosophy.md), [Ancient Philosophy — Measure, Tension, and the Form of Relation](../../../histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md), [Metonic Cycle and Antikythera: Maintained Fit](../../../../matheme/harmonics/metonic-antikythera-cycle.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *sources (declared)* ← [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [Plate — Mechanism: Gearing as Non-Closure](../../../../mytheme/plates/mechanism-gearing-non-closure.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [Owen — Lectures on Comparative Anatomy (1843)](../../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/SOURCE.md)
+### [Freeth et al. — Decoding the Antikythera Mechanism (2006)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/freeth-et-al-2006-antikythera.md)
+
+`journal-article`
+
+**Implicates:** *consumed-by (declared)* → [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../../../section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) · *unnamed* → [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md)
+
+**Reached from:** *sources* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md), [Myth — Tellings, Changed Offices, and Consequential Return](../../../histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md), [Ancient Philosophy — Agreement, Measure and the Work of an Account](../../../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT-ancient-philosophy.md), [Ancient Philosophy — Measure, Tension, and the Form of Relation](../../../histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-process-systems-science.md), [Process, Systems, and Science — From Substance to Participating Field](../../../histories/traditions-and-disciplines/process-systems-science/HISTORY-process-systems-science.md), [Technology, Politics and Institutions — Formation, Delegation and Return](../../../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md), [Technology, Politics, and Institutions — From Mass Formation to Planetary Technē](../../../histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *sources (declared)* ← [§5→0 · #2 — Antikythera as Attunement Instrument](../../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md), [Plate — Mechanism: Gearing as Non-Closure](../../../../mytheme/plates/mechanism-gearing-non-closure.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Haeckel — Generelle Morphologie der Organismen (Reimer, 1866)](../../../sources/history-philosophy-of-science/haeckel/haeckel-1866-generelle-morphologie/haeckel-1866-generelle-morphologie.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Kekulé — Benzolfest Address (1890)](../../../sources/history-philosophy-of-science/kekule/kekule-1890-benzolfest-address/kekule-1890-benzolfest-address.md)
+
+`speech-in-journal`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Keynes — Newton, the Man (1947)](../../../sources/history-philosophy-of-science/keynes/keynes-1947-newton-the-man/keynes-1947-newton-the-man.md)
+
+`essay-in-proceedings`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Nobel Prize Outreach — Wolfgang Pauli: Facts (NobelPrize.org)](../../../sources/history-philosophy-of-science/nobel-prize-outreach/nobel-prize-outreach-1945-pauli-facts/nobel-prize-outreach-1945-pauli-facts.md)
+
+`web-page`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Nothaft — Medieval Europe's Satanic Ciphers (2020)](../../../sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/nothaft-2020-satanic-ciphers.md)
+
+`journal-article`
+
+**Implicates:** *unnamed* → [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Nothaft Satanic Ciphers](../../../../../section-rooms/arguments/concepts/reference-notes/nothaft-satanic-ciphers.md)
+
+**Reached from:** *sources* ← [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md), [Mathematics — From the Empty Place to Recursive Return](../../../histories/traditions-and-disciplines/mathematics/HISTORY-mathematics.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Owen — Lectures on Comparative Anatomy (1843)](../../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md)
 
 `scholarly-book`
 
-**Implicates:** *sources* → [Homologia / Analogia — Historical and Relational Branches](../../../etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md) · *qualifies* → [Whole Field — Homologia / Analogia](../../../etymologies/homology-and-analogy/WHOLE-FIELD.md)
+**Implicates:** *sources* → [Homologia / Analogia — Historical and Relational Branches](../../../etymologies/homology-and-analogy/HISTORICAL-BRANCHES-homology-and-analogy.md) · *qualifies* → [Whole Field — Homologia / Analogia](../../../etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md)
 
-**Reached from:** *sources* ← [Homologia / Analogia — Historical and Relational Branches](../../../etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Homologia / Analogia — Historical and Relational Branches](../../../etymologies/homology-and-analogy/HISTORICAL-BRANCHES-homology-and-analogy.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Peat — Infinite Potential: The Life and Times of David Bohm (Addison-Wesley, 1997)](../../../sources/history-philosophy-of-science/peat/peat-1997-infinite-potential/peat-1997-infinite-potential.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Tesla — My Inventions (Electrical Experimenter, 1919)](../../../sources/history-philosophy-of-science/tesla/tesla-1919-my-inventions/tesla-1919-my-inventions.md)
+
+`magazine-serial`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)

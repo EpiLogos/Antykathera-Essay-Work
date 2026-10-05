@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-04",
+  "standing": "REVIEW ONLY — UNAPPLIED; canonical source snapshot frozen",
+  "changes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md",
+      "expected_frozen_sha256": "5b031b5f67ae0a594fb6233295917abe1c41965015686eabfe97e024dd21af66",
+      "operation": "append-after-integrator-release-only",
+      "passage_id": "jung-1969-psychology-religion-cw11-p011",
+      "append_text": "\n<a id=\"jung-1969-psychology-religion-cw11-p011\"></a>\n### jung-1969-psychology-religion-cw11-p011 — Shadow and conscious embodiment\n\n**Locator:** ¶131; user-local PDF page 71.\n\n**Located operation:** The shadow, its relation to conscious embodiment, and the opportunity of correction are located together.\n\n**Context and use boundary:** The surrounding discussion distinguishes suppression from repression. The passage does not license labelling every other person’s conduct an unconscious shadow.\n\n**Status:** locator-verified; acquisition required before quotation admission.\n\n**Provenance:** Actual user-local carrier already identified in this house; SHA-256 `bbea07152cf7ff6e588b51fa90bdbf39f171657ea202b511df4493654257861d`; selected paragraph and adjacent page context read with pypdf extraction by s01-apparatus, 2026-10-04. Rights provenance remains unregistered; no new quotation transcription is admitted.\n\n**Relation:** source-specific locator support; the essay’s philosophical continuation remains authorial.\n\n**Consumer:** Current working [M05](../../../../../../../../working/s01-hardening-2026-10-01/M05-REWRITE.md) note `s01-jung-shadow`; authorial text is preserved.\n"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md",
+      "expected_frozen_sha256": "5b031b5f67ae0a594fb6233295917abe1c41965015686eabfe97e024dd21af66",
+      "operation": "append-after-integrator-release-only",
+      "passage_id": "jung-1969-psychology-religion-cw11-p012",
+      "append_text": "\n<a id=\"jung-1969-psychology-religion-cw11-p012\"></a>\n### jung-1969-psychology-religion-cw11-p012 — Death and transformation of a God-image\n\n**Locator:** ¶¶144–148; user-local PDF pages 80–82; psychological image/proof qualifier at ¶102, PDF page 58.\n\n**Located operation:** Finite definition, withdrawal of projections, the Christian archetype and loss of living faith occur in a connected sequence.\n\n**Context and use boundary:** The source treats a psychological relation and does not prove an ontological God from a psychic image. Its discussion of Christ is an archetypal interpretation; authorial God/Subject identity remains separate.\n\n**Status:** locator-verified; acquisition required before quotation admission.\n\n**Provenance:** Actual user-local carrier already identified in this house; SHA-256 `bbea07152cf7ff6e588b51fa90bdbf39f171657ea202b511df4493654257861d`; selected paragraph and adjacent page context read with pypdf extraction by s01-apparatus, 2026-10-04. Rights provenance remains unregistered; no new quotation transcription is admitted.\n\n**Relation:** source-specific locator support; the essay’s philosophical continuation remains authorial.\n\n**Consumer:** Current working [M04](../../../../../../../../working/s01-hardening-2026-10-01/M04-REWRITE.md) note `s01-god-image`; authorial text is preserved.\n"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md",
+      "expected_frozen_sha256": "c2ec211fb0b2969db672eea6ddee1845928037cb5413d860bb5055f866bf3f9c",
+      "operation": "append-after-integrator-release-only",
+      "passage_id": "jung-cw9i-hull-routledge-second-edition-p003",
+      "append_text": "\n<a id=\"jung-cw9i-hull-routledge-second-edition-p003\"></a>\n### jung-cw9i-hull-routledge-second-edition-p003 — Child as beginning and end\n\n**Locator:** ¶299; user-local PDF page 189 (printed p.178).\n\n**Located operation:** The initial/terminal child and pre-conscious/post-conscious essence are located in the child-archetype discussion.\n\n**Context and use boundary:** Jung calls the after-death aspect an anticipation by analogy. The passage is not empirical proof of survival after death. The scan drops leading digits in some paragraph labels and is not quotation-ready.\n\n**Status:** locator-verified; acquisition required before quotation admission.\n\n**Provenance:** Actual user-local carrier already identified in this house; SHA-256 `cf2b51f05da957e10e7798cd76165092227d35617bb6a143d0d7df350a0d35ec`; selected paragraph and adjacent page context read with pypdf extraction by s01-apparatus, 2026-10-04. Rights provenance remains unregistered; no new quotation transcription is admitted.\n\n**Relation:** source-specific locator support; the essay’s philosophical continuation remains authorial.\n\n**Consumer:** Current working [M05](../../../../../../../../working/s01-hardening-2026-10-01/M05-REWRITE.md) note `s01-jung-child`; authorial text is preserved.\n"
+    }
+  ]
+}

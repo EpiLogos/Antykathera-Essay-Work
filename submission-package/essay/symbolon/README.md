@@ -46,7 +46,7 @@ These records gather formal, imaginal and epistemic developments without duplica
 
 ## The three registers
 
-The four registers carry the Vāk layering — one descent of speech, held architecturally as `#1`–`#4`: **Symbolon = parā** (the whole unsayable form), **Matheme = paśyantī** (the visionary operative logic, more primordial than the mytheme), **Mytheme = madhyamā** (the formed visual and narrative operations built through that logic), **Episteme = vaikharī** (the inspected, documented utterance). The four register-foundations are the Binary Explication four-file system — definition, process, quilt, music: the 0, the /, the 1, the 0/1 returned ([taylor-2026-binary-explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md)) — nested-aligned to the registers and housed in Matheme's source layer.
+The four registers carry the Vāk layering — one descent of speech, held architecturally as `#1`–`#4`: **Symbolon = parā** (the whole unsayable form), **Matheme = paśyantī** (the visionary operative logic, more primordial than the mytheme), **Mytheme = madhyamā** (the formed visual and narrative operations built through that logic), **Episteme = vaikharī** (the inspected, documented utterance). The four register-foundations are the Binary Explication four-file system — definition, process, quilt, music: the 0, the /, the 1, the 0/1 returned ([taylor-2026-binary-explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md)) — nested-aligned to the registers and housed in Matheme's source layer.
 
 ### [[symbolon/matheme/README.md|Matheme]]
 

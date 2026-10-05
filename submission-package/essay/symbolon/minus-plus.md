@@ -19,7 +19,7 @@ The signs name **withdrawal and extension**, **reserve and issue**. Their relati
 
 ## #1 — The positive is the reserve's own issue
 
-The parent [−/−](the-slash.md) begins with two unassigned marks distinguished by their relation. Read dynamically, the first mark is withdrawal: the side that withholds itself from determinate presentation. Across the slash, withdrawal occurs again as the act by which reserve gives itself a face. Negation's self-relation makes affirmation available. [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) develops the full process.
+The parent [−/−](the-slash.md) begins with two unassigned marks distinguished by their relation. Read dynamically, the first mark is withdrawal: the side that withholds itself from determinate presentation. Across the slash, withdrawal occurs again as the act by which reserve gives itself a face. Negation's self-relation makes affirmation available. [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) develops the full process.
 
 This is the derivational pressure behind `−/+`. The appearing face belongs to the reserve that issues it. The positive consequently carries its origin through the difference by which it appears. “The void voids itself” names the operation: determination arises through the unmarked's own self-limitation. The familiar algebraic rule about double negation is a later comparison with a movement already generated inside the relation.
 
@@ -27,7 +27,7 @@ In [the conscious circumstance](0-1.md), reserve is active in the capacity of th
 
 ## #2 — A journey that remains resident
 
-The [core-theorems spine](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), §II(c), sources the qualitative position **#2, Dynamis**. File 1's poem gives its movement the line “What builds for itself a journey is perpetually residential.” The journey is the issuing pole; residence is the reserve through which issuing can continue. The two remain co-present in the pulse.
+The [core-theorems spine](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), §II(c), sources the qualitative position **#2, Dynamis**. File 1's poem gives its movement the line “What builds for itself a journey is perpetually residential.” The journey is the issuing pole; residence is the reserve through which issuing can continue. The two remain co-present in the pulse.
 
 Breathing lets that relation be felt. Gathering and release differ, and their difference sustains one living movement. The reserve does not need to travel outside itself in order to issue; the issuing does not consume the whole capacity to gather again. The image gives the native relation a bodily performance: the difference of gathering and release sustains the continuity of breathing.
 
@@ -47,7 +47,7 @@ $$
 
 Addition cancels the signed contributions. Subtraction measures the whole span from one chosen pole. In the essay's argued reading of a claim to total jurisdiction, that span can be appropriated as though the measuring pole had supplied the relation by itself. The arithmetic results remain exact; the claim of ownership is a further operation whose consequence must be shown in its own setting.
 
-[Held polarity, cancellation and appropriation](episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) give these accountings their distinct consequences. `−/+` sustains a tension through which movement remains possible. Cancellation ends that particular opposition; appropriation fixes its whole measure to one orientation. Substituting either for the living polarity changes the relation it sustains.
+[Held polarity, cancellation and appropriation](../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) give these accountings their distinct consequences. `−/+` sustains a tension through which movement remains possible. Cancellation ends that particular opposition; appropriation fixes its whole measure to one orientation. Substituting either for the living polarity changes the relation it sustains.
 
 ## #4 — Force becomes recognisable
 
@@ -61,6 +61,6 @@ Within the sixfold, these two determinations form the **Becoming harmonic**. `�
 
 An achieved form enters the conditions of what can happen next. A spoken thought becomes something another thought can inherit; an action changes the situation to which further action must answer. Return therefore carries the consequence of issuing. The next reserve includes a world already altered by the previous determination.
 
-Within [the whole eightfold](episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [force passes into recurrence, personed context, horizon, and recognition](../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). [Those distinct operations](eight-determinations.md) retain what the issue has made possible while [their achieved expression turns towards its ground](1-0.md). A new reserve can therefore receive the consequence of the former issue without confusing that consequence with the entire capacity to issue.
+Within [the whole eightfold](../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [force passes into recurrence, personed context, horizon, and recognition](../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). [Those distinct operations](eight-determinations.md) retain what the issue has made possible while [their achieved expression turns towards its ground](1-0.md). A new reserve can therefore receive the consequence of the former issue without confusing that consequence with the entire capacity to issue.
 
 The issue has real consequences because it differs from its reserve. It can return because that difference continues to belong to the relation that produced it.

@@ -1,0 +1,78 @@
+{
+  "schema": "oi.shell-ci-and-favicon-repair/v1",
+  "observed_at_utc": "2026-10-04T15:21:55.246396+00:00",
+  "standing": "Scoped authorised repair stable in shared working tree; parent owns publication, coordinated product rebuild and native CI replay",
+  "source_paths": [
+    {
+      "path": ".github/workflows/site-shell-v2.yml",
+      "sha256": "7c301e39a20f4ac17fe2f415eb145163ef2698767af5697f385da66b490e90f3",
+      "bytes": 2640
+    },
+    {
+      "path": "site/index.html",
+      "sha256": "9ae86d9165f3f58c0ae52f8fb7ddd8c369208a3286d5c82388072db4b951cbbc",
+      "bytes": 613
+    }
+  ],
+  "ci_failure": {
+    "run_id": "37211936152",
+    "job": "Site shell v2 acceptance",
+    "step": "Build the actual public site",
+    "error": "ERR_MODULE_NOT_FOUND: yargs imported from site/vendor/quartz/quartz/bootstrap-cli.mjs",
+    "log_path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/publication-integration-2026-10-04/SITE-SHELL-CI-FAILED.log"
+  },
+  "ci_repair": {
+    "dependency_step": "npm ci --prefix vendor/quartz --no-audit --no-fund",
+    "native_reference_workflow": ".github/workflows/site.yml",
+    "essay_snapshot_checkout": "8265f382177086daff1fbd461c932b521babc971",
+    "essay_reading_path": ".publication-sources/essay-reading/published-reading/2026-10-04",
+    "build_environment_key": "OI_ESSAY_BROWSER_REPO",
+    "preserved": [
+      "Original source/media/motion/layout/navigation acceptance",
+      "Chromium, Firefox and WebKit installation and execution",
+      "Evidence retention"
+    ]
+  },
+  "favicon_failure": {
+    "confirmed_url": "https://oi.epi-logos.org/favicon.ico",
+    "status": 404,
+    "trace_receipt": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/LIVE-HOME-CONSOLE-TRACE.json"
+  },
+  "favicon_repair": {
+    "native_existing_asset": "site/public/media/brand/oi-cube.svg",
+    "basis": "The original shell.html already declares this icon; public asset staging copies the brand media",
+    "asset_live_http_status": 200,
+    "asset_live_matches_local_bytes": true,
+    "asset_sha256": "7d96509b6afb711411cd00a7cff959dbb7288469bf6ce6c773d085d273a33c4b",
+    "added_root_html_href": "./media/brand/oi-cube.svg",
+    "requires_product_rebuild_and_redeploy": true
+  },
+  "validation": [
+    {
+      "check": "Actual workflow parsed with Ruby YAML",
+      "passed": true
+    },
+    {
+      "check": "Quartz dependency step precedes public build",
+      "passed": true
+    },
+    {
+      "check": "The actual essay snapshot contains published-reading/2026-10-04",
+      "passed": true
+    },
+    {
+      "check": "Native icon live response is 200 image/svg+xml and exact local bytes",
+      "passed": true
+    },
+    {
+      "check": "git diff --check for two changed source files",
+      "passed": true
+    }
+  ],
+  "not_run": [
+    "No local dependency installation",
+    "No full root O:I gates",
+    "No product build or deployment by this lane",
+    "Native GitHub shell CI awaits parent commit and replay"
+  ]
+}

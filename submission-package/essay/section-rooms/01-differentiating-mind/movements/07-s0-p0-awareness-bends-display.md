@@ -13,14 +13,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, sta
 # §0 · #0 — Awareness Bends Toward Display
 
 <!-- reader-navigation -->
-Movement 07 of 48 · [This room](../ROOM.md) · [← Previous](../../00-integral-threshold/movements/06-s01-p5-return-zero.md) · [Next →](08-s0-p1-inner-instrument.md)
+Movement 07 of 48 · [This room](../ROOM-01-differentiating-mind.md) · [← Previous](../../00-integral-threshold/movements/06-s01-p5-return-zero.md) · [Next →](08-s0-p1-inner-instrument.md)
 <!-- /reader-navigation -->
 
 ## Claim
 The first differentiation is the reflexive bend by which luminous awareness takes its own manifestation as other enough to encounter.
 
 ## Warrant
-Kashmir Śaivism’s [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]] names luminosity and self-recognition as one non-dual dynamism. Their distinction arises within that activity, prior to any treatment of them as independent substances.
+Kashmir Śaivism’s [[section-rooms/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]] names luminosity and self-recognition as one non-dual dynamism. Their distinction arises within that activity, prior to any treatment of them as independent substances.
 
 [[symbolon/episteme/dossiers/bohm|Bohm's holomovement]] articulates the same process burden in a distinct lineage: the whole recurrently enfolds and unfolds, while apparently separate things are relatively stable explicate forms within that movement. The tattvas will specify the ordered differentiations that “implication” alone leaves general.
 

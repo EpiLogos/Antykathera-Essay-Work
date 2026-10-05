@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>O:I and the essay — look and feel</title>
+<style>
+  :root {
+    --ink: #1a1916;
+    --paper: #f4f0e8;
+    --paper-2: #ebe6dc;
+    --line: #d5cfc3;
+    --muted: #6e685e;
+    --link: #3d4f66;
+    --mark: #1a1916;
+    --night: #141311;
+    --night-2: #1c1b18;
+    --night-3: #26241f;
+    --night-line: #3a372f;
+    --night-text: #e6e0d4;
+    --night-muted: #a39b8c;
+    --night-link: #d7c4a3;
+    --gold: #b08958;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: #cfc8bb; color: var(--ink); }
+  body { font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif; }
+  .plate-label {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 11px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: #5c564c;
+    padding: 28px 32px 10px;
+  }
+  .frame {
+    margin: 0 24px 28px;
+    background: var(--paper);
+    border: 1px solid #b7b0a3;
+    min-height: 640px;
+    box-shadow: 0 18px 50px rgba(30, 24, 16, .12);
+  }
+
+  /* ——— public site ——— */
+  .site-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px 36px 18px;
+    border-bottom: 1px solid var(--line);
+  }
+  .brand { display: flex; align-items: center; gap: 14px; text-decoration: none; color: inherit; }
+  .brand svg { width: 92px; height: 36px; }
+  .brand small {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 11px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .site-nav { display: flex; gap: 28px; align-items: baseline; }
+  .site-nav a {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 13px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .site-nav a.is-here { border-bottom: 1px solid var(--ink); padding-bottom: 2px; }
+  .site-body { padding: 64px 12vw 80px; max-width: 980px; }
+  .eyebrow {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 11px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 14px;
+  }
+  h1 { font-weight: 500; font-size: 56px; line-height: .95; letter-spacing: -.02em; margin: 0 0 18px; }
+  .lede { font-size: 21px; line-height: 1.45; max-width: 38rem; margin: 0 0 42px; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .door {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: white;
+    border: 1px solid var(--line);
+    padding: 28px 26px 24px;
+    min-height: 220px;
+  }
+  .door span {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 11px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .door strong { display: block; font-size: 32px; font-weight: 500; margin: 18px 0 10px; }
+  .door p { margin: 0; font-size: 16px; line-height: 1.45; color: #3c3832; }
+  .coming {
+    margin-top: 28px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--muted);
+    max-width: 40rem;
+  }
+
+  /* ——— essay ——— */
+  .essay {
+    background: var(--night);
+    color: var(--night-text);
+    min-height: 860px;
+    display: grid;
+    grid-template-columns: 292px minmax(0, 1fr) 240px;
+    grid-template-rows: auto auto 1fr;
+  }
+  .essay-top {
+    grid-column: 1 / -1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 22px;
+    border-bottom: 1px solid var(--night-line);
+  }
+  .essay-top .brand svg { width: 72px; height: 28px; color: var(--night-text); }
+  .essay-top .who {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 12px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--night-muted);
+  }
+  .path {
+    grid-column: 1 / -1;
+    display: flex;
+    gap: 0;
+    align-items: center;
+    padding: 10px 22px;
+    border-bottom: 1px solid var(--night-line);
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 12px;
+    color: var(--night-muted);
+    overflow: auto;
+  }
+  .path a { color: var(--night-link); text-decoration: none; white-space: nowrap; }
+  .path .now { color: var(--night-text); }
+  .path i { font-style: normal; margin: 0 8px; color: #6d675c; }
+  .spine {
+    border-right: 1px solid var(--night-line);
+    display: grid;
+    grid-template-rows: auto 1fr;
+    min-height: 0;
+  }
+  .offices { padding: 16px 14px 8px; border-bottom: 1px solid var(--night-line); }
+  .offices h2, .files h2 {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 10px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--night-muted);
+    margin: 0 0 10px;
+  }
+  .offices button, .files a {
+    display: flex;
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: 0;
+    color: var(--night-text);
+    font: inherit;
+    font-size: 15px;
+    padding: 6px 8px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .offices button.child { padding-left: 26px; color: var(--night-muted); font-size: 14px; }
+  .offices button.on, .files a.on { background: var(--night-3); color: var(--night-text); }
+  .files { overflow: auto; padding: 14px; }
+  .files a { font-size: 14px; line-height: 1.35; padding: 7px 8px; }
+  .read { padding: 36px 48px 64px; max-width: 46rem; }
+  .read .crumbs {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 12px;
+    color: var(--night-muted);
+    margin-bottom: 18px;
+  }
+  .read h1 { font-size: 40px; font-weight: 500; letter-spacing: -.02em; margin: 0 0 8px; }
+  .read .meta {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 12px;
+    color: var(--night-muted);
+    margin-bottom: 22px;
+  }
+  .read p { font-size: 18px; line-height: 1.55; margin: 0 0 16px; }
+  .read a { color: var(--night-link); }
+  .graph {
+    border-left: 1px solid var(--night-line);
+    padding: 16px 14px;
+  }
+  .graph h2 {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 10px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--night-muted);
+    margin: 0 0 12px;
+  }
+  .graph svg { width: 100%; height: auto; }
+  .graph p {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    color: var(--night-muted);
+    margin: 10px 0 0;
+  }
+  .note {
+    margin: 0 24px 48px;
+    max-width: 70rem;
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #4a453c;
+  }
+</style>
+</head>
+<body>
+
+<p class="plate-label">Plate A — the public site. No menu. Library and Essay sit to the right. The six products are not the front door.</p>
+<div class="frame">
+  <header class="site-head">
+    <a class="brand" href="#site">
+      <svg viewBox="0 0 720 280" fill="none" stroke="currentColor" aria-hidden="true">
+        <g stroke-width="13" stroke-linecap="square">
+          <path d="M161 22c-35 28-28 69-47 91-8 9-17 14-31 17 14 3 23 8 31 17 19 22 12 63 47 91"/>
+          <path d="M559 22c35 28 28 69 47 91 8 9 17 14 31 17-14 3-23 8-31 17-19 22-12 63-47 91"/>
+        </g>
+        <circle cx="296" cy="140" r="82" stroke-width="13"/>
+        <g stroke-width="9">
+          <circle cx="435" cy="98" r="16"/><circle cx="435" cy="182" r="16"/>
+        </g>
+        <rect x="476" y="58" width="24" height="164" stroke-width="9"/>
+      </svg>
+      <small>Objective : Internality</small>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="#library">Library</a>
+      <a class="is-here" href="#essay">Essay</a>
+    </nav>
+  </header>
+  <main class="site-body">
+    <p class="eyebrow">O:I</p>
+    <h1>A world to act within.<br>A way to read it.</h1>
+    <p class="lede">The public face is two doors. The Library holds the expressions. The essay holds the written field, including what the six products are for. The instruments themselves are still being made.</p>
+    <div class="two">
+      <a class="door" href="#library">
+        <span>01</span>
+        <strong>Library</strong>
+        <p>The published expressions. Open one and read it. This is the visual record of the work so far.</p>
+      </a>
+      <a class="door" href="#essay">
+        <span>02</span>
+        <strong>Essay</strong>
+        <p>The written field: rooms, symbolon, and the manuscript. The six products are described here, as intent, not as finished software.</p>
+      </a>
+    </div>
+    <p class="coming">Central, Actuation, AIKit, Software Factory, Workcell, and Quaternal Logic are named inside the essay. Say what each is for. Do not offer them as things a visitor can install.</p>
+  </main>
+</div>
+
+<p class="plate-label">Plate B — the essay. Spine on the left, reading in the middle, the local graph on the right. A path along the top, not tabs.</p>
+<div class="frame essay">
+  <header class="essay-top">
+    <a class="brand" href="#site">
+      <svg viewBox="0 0 720 280" fill="none" stroke="currentColor" aria-hidden="true">
+        <g stroke-width="13" stroke-linecap="square">
+          <path d="M161 22c-35 28-28 69-47 91-8 9-17 14-31 17 14 3 23 8 31 17 19 22 12 63 47 91"/>
+          <path d="M559 22c35 28 28 69 47 91 8 9 17 14 31 17-14 3-23 8-31 17-19 22-12 63-47 91"/>
+        </g>
+        <circle cx="296" cy="140" r="82" stroke-width="13"/>
+        <g stroke-width="9"><circle cx="435" cy="98" r="16"/><circle cx="435" cy="182" r="16"/></g>
+        <rect x="476" y="58" width="24" height="164" stroke-width="9"/>
+      </svg>
+    </a>
+    <div class="who">The Return of Zero</div>
+  </header>
+  <nav class="path" aria-label="Where you have been">
+    <a href="#root">Reading root</a><i>→</i>
+    <a href="#rooms">Rooms</a><i>→</i>
+    <a href="#m">The question before the mechanism</a><i>→</i>
+    <span class="now">Manuscript</span>
+  </nav>
+  <aside class="spine">
+    <div class="offices" aria-label="The six">
+      <h2>The field</h2>
+      <button>Rooms</button>
+      <button class="on">Symbolon</button>
+      <button class="child">Matheme</button>
+      <button class="child">Mytheme</button>
+      <button class="child on">Episteme</button>
+      <button class="on">Manuscript</button>
+    </div>
+    <div class="files" aria-label="Files in Manuscript">
+      <h2>In this folder</h2>
+      <a class="on" href="#ms">The Return of Zero</a>
+      <a href="#note">How this manuscript is being written</a>
+    </div>
+  </aside>
+  <article class="read">
+    <div class="crumbs">Manuscript</div>
+    <h1>The Return of Zero</h1>
+    <p class="meta">The manuscript · written by hand, in progress</p>
+    <p>This is the long text. It is not finished. Frank is writing it by hand, over time. What you can read linearly today is the current body. What surrounds it is the field the essay stands in: the rooms, and the three parts of the symbolon.</p>
+    <p>The field itself is largely a demonstration. It shows the method and the intent. It will be refined. It is not a finished doctrine, and it should not speak in slogans.</p>
+    <p>If you are new, start with the rooms. Each room is one station. Six movements sit inside it. The manuscript is the continuous reading. The symbolon holds the figures, the formal work, and the sources.</p>
+    <p>The six products of O:I — Central, Actuation, AIKit, Software Factory, Workcell, Quaternal Logic — are described in this field as what they are for. The software is still to come.</p>
+  </article>
+  <aside class="graph">
+    <h2>From this page</h2>
+    <svg viewBox="0 0 200 220" aria-label="Pages linked from the manuscript">
+      <line x1="100" y1="36" x2="40" y2="110" stroke="#6d675c" stroke-width="1"/>
+      <line x1="100" y1="36" x2="160" y2="110" stroke="#6d675c" stroke-width="1"/>
+      <line x1="100" y1="36" x2="100" y2="168" stroke="#b08958" stroke-width="1.4"/>
+      <line x1="40" y1="110" x2="100" y2="168" stroke="#6d675c" stroke-width="1"/>
+      <circle cx="100" cy="36" r="7" fill="#e6e0d4"/>
+      <circle cx="40" cy="110" r="5" fill="none" stroke="#d7c4a3" stroke-width="1.4"/>
+      <circle cx="160" cy="110" r="5" fill="none" stroke="#d7c4a3" stroke-width="1.4"/>
+      <circle cx="100" cy="168" r="5" fill="none" stroke="#d7c4a3" stroke-width="1.4"/>
+      <text x="100" y="24" text-anchor="middle" fill="#e6e0d4" font-size="9" font-family="sans-serif">Manuscript</text>
+      <text x="28" y="128" fill="#a39b8c" font-size="9" font-family="sans-serif">Rooms</text>
+      <text x="128" y="128" fill="#a39b8c" font-size="9" font-family="sans-serif">Symbolon</text>
+      <text x="100" y="188" text-anchor="middle" fill="#a39b8c" font-size="9" font-family="sans-serif">This page’s sources</text>
+    </svg>
+    <p>Only the pages this one actually links. Click a node to open it. The whole vault is the list on the left, not this picture.</p>
+  </aside>
+</div>
+<p class="note">This file is a look-and-feel plate, not the live site. Open it in a browser. The reading copy is the tone for the maps: say what is here, what is unfinished, and where to go next. No slogans.</p>
+</body>
+</html>

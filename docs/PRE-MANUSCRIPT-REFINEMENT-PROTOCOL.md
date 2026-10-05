@@ -14,7 +14,7 @@ map: ../.wayfinder/maps/p2-enrichment-handoff.md
 
 This is the authorially commissioned continuation after T24. It refines the completed publication field so the whole essay can speak clearly in its native philosophical, linguistic, symbolic and mathe­matic language, and culminate in the six O:I products as six developed aspects of Objective Internality. It closes as a reviewable whole and common-base proposal, followed by Frank's existing T26 ratification and the complete writing of §5 for the upcoming submission.
 
-The [authorial minute](../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md) records the discussion and final correction which authorised this work. The [paired product reading](../working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md) and [relational Logos exploration](../working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md) are retained inputs. Read them, not merely this protocol's compression. Later explicit authorial corrections govern earlier assistant formulations.
+The [authorial minute](../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md) records the discussion and final correction which authorised this work. The [paired product reading](../submission-package/essay/quilt/pre-manuscript-refinement-inputs/MEF-PRODUCT-READING.md) and [relational Logos exploration](../submission-package/essay/quilt/pre-manuscript-refinement-inputs/RELATIONAL-LOGOS-EXPLORATION.md) are retained inputs. Read them, not merely this protocol's compression. Later explicit authorial corrections govern earlier assistant formulations.
 
 Use the existing [map](../.wayfinder/maps/p2-enrichment-handoff.md) and its R1–R6 tickets under T25. T18–T24 remain completed. This protocol is not a fresh census programme, a new parallel essay plan, a software implementation commission, or permission to compose the manuscript before T26. Its structural decisions are already accepted; the executor writes them into `the-return-of-zero-central-plan.md` before changing the granular field.
 
@@ -27,7 +27,7 @@ The present baseline is `main@31c93ab04bfa3c39bd514027125973b98cfc6bad`. Re-reso
 Recover this relation from the complete native theorem field and the A/C root, not from a newly invented definition. Required starting objects are:
 
 - `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`, its canonical SOURCE and designated supporting files, including the full eight determinations, both Spanda readings, inversion and the crossed-zero recognition sequence;
-- `submission-package/essay/symbolon/episteme/conjugate/AC.md`, both its ethical ruling and primitive field;
+- `submission-package/essay/section-rooms/arguments/conjugate/AC.md`, both its ethical ruling and primitive field;
 - A26 / A26′, C41, the Subject and mediation concepts, A34/C60 and their declared dependencies and returns;
 - the existing O:I/world/product records, located from their actual identities and links before selecting S homes or merging any content.
 
@@ -55,7 +55,7 @@ The evolution/mutation and co-presence of consciousness therefore form a whole-e
 
 ### Record architecture
 
-Develop **S and S0–S5** as the product-field family in Episteme, linked directly and reciprocally to the owning Objective Internality and O:I records. Commissioned target home: `submission-package/essay/symbolon/episteme/products/`, with `S-World-and-Life.md`, `S0-Central.md`, `S1-Actuation.md`, `S2-AIKit.md`, `S3-Software-Factory.md`, `S4-Workcell.md`, `S5-Quaternal-Logic.md`, and a non-counted index. Before materialisation, reconcile any existing canonical product subject into this one-home arrangement; retain its provenance and redirects, and do not create a second summary of the same office.
+Develop **S and S0–S5** as the product-field family in Episteme, linked directly and reciprocally to the owning Objective Internality and O:I records. Commissioned target home: `submission-package/essay/section-rooms/arguments/products/`, with `S-World-and-Life.md`, `S0-Central.md`, `S1-Actuation.md`, `S2-AIKit.md`, `S3-Software-Factory.md`, `S4-Workcell.md`, `S5-Quaternal-Logic.md`, and a non-counted index. Before materialisation, reconcile any existing canonical product subject into this one-home arrangement; retain its provenance and redirects, and do not create a second summary of the same office.
 
 Use stable `record_id: S` / `S0` … `S5`; declare `record_type: product-field` for S and `record_type: product` for the six children, with `register: episteme`. Record their parent/member relations, exact A/A′/C consumers, full assigned MEF pair, source/provenance, implementation standing and M37–M42 office. These are record types, not a fifth publication register. Update the actual schema/indexing tools only where necessary to recognise this admitted family; exercise their real commands.
 

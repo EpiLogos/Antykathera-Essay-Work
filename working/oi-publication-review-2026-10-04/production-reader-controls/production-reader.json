@@ -1,0 +1,233 @@
+{
+  "url": "https://oi.epi-logos.org",
+  "started_at": "2026-10-04T18:00:21.025906+00:00",
+  "expected_product_build": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "expected_reading_source": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "cases": [
+    {
+      "case": "production-1440-controls",
+      "kind": "controls",
+      "width": 1440,
+      "passed": true,
+      "dimensions": {
+        "viewport": 1440,
+        "document": 1440
+      },
+      "local_graph": {
+        "box": {
+          "x": 1206,
+          "y": 183,
+          "width": 213,
+          "height": 250
+        },
+        "colours": 38
+      },
+      "global_graph": {
+        "box": {
+          "x": 145,
+          "y": 188,
+          "width": 1152,
+          "height": 612
+        },
+        "colours": 47
+      },
+      "page_errors": [],
+      "js_errors": [],
+      "console_errors": [],
+      "http_errors": [],
+      "documents": [
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "case": "production-900-controls",
+      "kind": "controls",
+      "width": 900,
+      "passed": true,
+      "dimensions": {
+        "viewport": 900,
+        "document": 900
+      },
+      "local_graph": {
+        "box": {
+          "x": 522,
+          "y": 123,
+          "width": 357,
+          "height": 250
+        },
+        "colours": 46
+      },
+      "global_graph": {
+        "box": {
+          "x": 46,
+          "y": 188,
+          "width": 810,
+          "height": 612
+        },
+        "colours": 62
+      },
+      "page_errors": [],
+      "js_errors": [],
+      "console_errors": [],
+      "http_errors": [],
+      "documents": [
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "case": "production-390-controls",
+      "kind": "controls",
+      "width": 390,
+      "passed": true,
+      "dimensions": {
+        "viewport": 390,
+        "document": 390
+      },
+      "local_graph": {
+        "box": {
+          "x": 62,
+          "y": 123,
+          "width": 307,
+          "height": 250
+        },
+        "colours": 50
+      },
+      "global_graph": {
+        "box": {
+          "x": 20.5,
+          "y": 188,
+          "width": 351,
+          "height": 612
+        },
+        "colours": 181
+      },
+      "page_errors": [],
+      "js_errors": [],
+      "console_errors": [],
+      "http_errors": [],
+      "documents": [
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "case": "production-1440-routes-and-search",
+      "kind": "routes-and-search",
+      "width": 1440,
+      "passed": true,
+      "root_home": "/",
+      "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+      "native_search": true,
+      "search_states": [
+        {
+          "value": "",
+          "connected": true,
+          "layoutConnected": true,
+          "results": [
+            {
+              "connected": true,
+              "children": 0
+            }
+          ]
+        },
+        {
+          "value": "",
+          "connected": true,
+          "layoutConnected": true,
+          "results": [
+            {
+              "connected": true,
+              "children": 0
+            }
+          ]
+        }
+      ],
+      "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+      "foundation_backlinks": 14,
+      "first_backlink": "../../THE-RETURN-OF-ZERO",
+      "page_errors": [],
+      "js_errors": [],
+      "console_errors": [],
+      "http_errors": [],
+      "documents": [
+        {
+          "url": "https://oi.epi-logos.org/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+          "status": 200
+        },
+        {
+          "url": "https://oi.epi-logos.org/",
+          "status": 200
+        },
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "case": "production-900-routes-and-search",
+      "kind": "routes-and-search",
+      "width": 900,
+      "passed": true,
+      "root_home": "/",
+      "foundation": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+      "native_search": true,
+      "search_states": [
+        {
+          "value": "",
+          "connected": true,
+          "layoutConnected": true,
+          "results": [
+            {
+              "connected": true,
+              "children": 0
+            }
+          ]
+        },
+        {
+          "value": "",
+          "connected": true,
+          "layoutConnected": true,
+          "results": [
+            {
+              "connected": true,
+              "children": 0
+            }
+          ]
+        }
+      ],
+      "searched_record": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+      "foundation_backlinks": 14,
+      "first_backlink": "../../THE-RETURN-OF-ZERO",
+      "page_errors": [],
+      "js_errors": [],
+      "console_errors": [],
+      "http_errors": [],
+      "documents": [
+        {
+          "url": "https://oi.epi-logos.org/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+          "status": 200
+        },
+        {
+          "url": "https://oi.epi-logos.org/",
+          "status": 200
+        },
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ]
+    }
+  ],
+  "completed_at": "2026-10-04T18:02:50.653578+00:00",
+  "passed": 5,
+  "failed": 0
+}

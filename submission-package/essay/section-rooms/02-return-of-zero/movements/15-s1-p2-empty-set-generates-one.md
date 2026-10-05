@@ -14,7 +14,7 @@ tags: [epi-logos/antykathera-essay, argument-map/live, argument-map/section, arg
 # §1 · #2 — The Empty Set Generates One
 
 <!-- reader-navigation -->
-Movement 15 of 48 · [This room](../ROOM.md) · [← Previous](14-s1-p1-sunya-operational.md) · [Next →](16-s1-p3-crossed-zero.md)
+Movement 15 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous](14-s1-p1-sunya-operational.md) · [Next →](16-s1-p3-crossed-zero.md)
 <!-- /reader-navigation -->
 
 ## Movement thesis

@@ -16,7 +16,7 @@ The shorter chain `0/1 = 4+2 = 5→0 = 0/1` is the definitional statement (the 0
 
 ## The four-file system
 
-The register is organised by the Binary Explication four-file set (housed at [taylor-2026-binary-explication](../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md)) — "the four-file shape is itself the matheme": **File 1 the 0, File 2 the /, File 3 the 1, File 4 the 0/1 returned.** Each file's internal structure follows the matheme it is about; the folders below project that structure.
+The register is organised by the Binary Explication four-file set (housed at [taylor-2026-binary-explication](../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md)) — "the four-file shape is itself the matheme": **File 1 the 0, File 2 the /, File 3 the 1, File 4 the 0/1 returned.** Each file's internal structure follows the matheme it is about; the folders below project that structure.
 
 - [[symbolon/matheme/definition/README.md|Definition]] — the 0: what the matheme IS. The lived grammar earning 0/1; −/−; the copula; the harmonics and recount; the six determinations; the Catuṣkoṭi crossing; the immutable subject.
 - [[symbolon/matheme/process/README.md|Process]] — the /: what the matheme DOES. T1 geometry; the §1/0 phase-flip; T0 onto-logic; both Spanda equations; the ratio threshold; the consolidated QL positions.
@@ -30,7 +30,7 @@ The register is organised by the Binary Explication four-file set (housed at [ta
 
 ## Deep ontology law
 
-The four files live in their source house, not here. They are the deep ontology of the folders: too deep to propagate wholesale, and the essay should never try. The [core-theorems spine](../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) is the **curated extraction set** — the balance-keeper through which the files' insight floats up and conditions what is written. Deep material may inform any page; it enters the essay only through earned compression.
+The four files live in their source house, not here. They are the deep ontology of the folders: too deep to propagate wholesale, and the essay should never try. The [core-theorems spine](../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) is the **curated extraction set** — the balance-keeper through which the files' insight floats up and conditions what is written. Deep material may inform any page; it enters the essay only through earned compression.
 
 ## Domains (projection targets)
 

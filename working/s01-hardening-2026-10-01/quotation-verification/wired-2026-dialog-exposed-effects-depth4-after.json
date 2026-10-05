@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "wired-2026-dialog-exposed",
+    "title": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-exposed/wired-2026-dialog-exposed.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
+      "Citation and consulted object",
+      "Passages and excerpts",
+      "wired-2026-dialog-exposed-p001 — Current §0/1 support"
+    ],
+    "sha256": "c052001ed634d6b1a4976b7bf37cc9745e22c921033f2ec04ba73dfd3c81484a",
+    "record_type": "article",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

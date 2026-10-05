@@ -13,13 +13,13 @@ source_relation: "Extracted internal derivation"
 
 Experience is present before its terms receive mathematical signs. “I see x” supplies the initial expression. Its inputs are a knower, a determinate content, and the activity through which the content is known. The operation is to make that mediation explicit without adding a second experience beside the first.
 
-[Taylor's Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) begins from this act; his [core theorem](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) retains knower, means and known within one whole. [0/1](../../0-1.md) articulates their relation. The notation becomes usable by keeping the activity through which its terms first became distinguishable.
+[Taylor's Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) begins from this act; his [core theorem](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) retains knower, means and known within one whole. [0/1](../../0-1.md) articulates their relation. The notation becomes usable by keeping the activity through which its terms first became distinguishable.
 
 ## #1 — The sentence exposes its mediation
 
 Rewrite the expression as “I am aware of the seeing of x.” The seeing has become available as something of which there is awareness. The content *x* remains what is seen. The rewrite separates the act of seeing from the fact in which seeing appears.
 
-Repeating this operation with a thought, memory, intention, or self-image gives another determinate content. Each can enter an account; the awareness to which the account is given is presupposed by that account's occurrence. [Faithful definition](../../episteme/arguments/A01-Subject-God-and-Faithful-Definition.md) keeps the account answerable to what it names; the [immutable gap](../../episteme/arguments/A03-Immutable-Gap-Formal-Limit.md) preserves the difference between an available self-description and its present condition.
+Repeating this operation with a thought, memory, intention, or self-image gives another determinate content. Each can enter an account; the awareness to which the account is given is presupposed by that account's occurrence. [Faithful definition](../../../section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md) keeps the account answerable to what it names; the [immutable gap](../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md) preserves the difference between an available self-description and its present condition.
 
 ## #2 — Three minimal marks
 
@@ -55,4 +55,4 @@ The signs hold these structural offices through their transformations. Ordinary 
 
 The resulting notation lets the original experience be differentiated, inverted, counted, and returned without asking a self-description to become its own source. Its result is a transmissible relation whose application remains answerable to the act it formalises.
 
-The [eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) give this relation its qualitative body. Their [ordered traversal](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md) retains ground, question, force, pattern, personed context and horizon. The [witness](immutable-subject.md) can recognise the act while remaining irreducible to the description it has made.
+The [eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) give this relation its qualitative body. Their [ordered traversal](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md) retains ground, question, force, pattern, personed context and horizon. The [witness](immutable-subject.md) can recognise the act while remaining irreducible to the description it has made.

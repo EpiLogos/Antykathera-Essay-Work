@@ -1,0 +1,68 @@
+{
+  "edition_date": "2026-09-22",
+  "html_sha256": "8504be7b5394fd7318a25846bd772d18933b319df857ceac81c00f2f7e459fb5",
+  "markdown_sha256": "42e964ed7bdd5420b59743bbc69ccd96aae75c24d93e0834ed3bf06e40059549",
+  "complete_prose_equivalence": [
+    {
+      "section": "s01",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s0",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s1",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s2",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s3",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s4",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s5",
+      "complete_rendered_prose_matches_saved_markdown": true
+    },
+    {
+      "section": "s50",
+      "complete_rendered_prose_matches_saved_markdown": true
+    }
+  ],
+  "browser": "Chromium through Playwright, /usr/bin/chromium; exact HTML loaded with set_content",
+  "desktop_viewport": [
+    1440,
+    1100
+  ],
+  "mobile_viewport": [
+    390,
+    844
+  ],
+  "whole_section_switch": true,
+  "all_ten_reprise_controls": true,
+  "note_popover_and_escape": true,
+  "mobile_navigation": true,
+  "theme_switch": true,
+  "horizontal_page_overflow": false,
+  "display_math_horizontal_scrolling": true,
+  "javascript_errors": [],
+  "network_requests": [],
+  "math": {
+    "unique_expressions": 77,
+    "rendered_occurrences": 89,
+    "static_mathml_complete": true,
+    "every_expression_retains_TeX_annotation": true,
+    "unrendered_or_error_placeholders": 0
+  },
+  "visual_review": "Directly inspected final desktop Spanda and matrix/definition screenshots and mobile Spanda/preference screenshots: nested fractions and matrices render, prose is legible, no overlaps or page-wide overflow. Title/mobile layouts were also inspected in the preceding identical-layout preview.",
+  "standing": "Actual final-reader text and browser checks; not an independent philosophical or source-edition review.",
+  "anchor_navigation_moves_to_actual_section": true,
+  "print_opens_reprises_and_restores_view": true
+}

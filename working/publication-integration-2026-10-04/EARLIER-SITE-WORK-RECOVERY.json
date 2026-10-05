@@ -1,0 +1,182 @@
+{
+  "inspected_at": "2026-10-04T15:56:18.775398+00:00",
+  "old_readability_commit": "4ce422f7b7403316fa733c3580dd86a3cf4f67e3",
+  "inspected_publication_commit": "fc69a6f32fdcbfed5e4203f380b26d7a32ca0541",
+  "old_commit_is_ancestor": {
+    "main": true,
+    "publication/essay-field-2026-10-04": true
+  },
+  "recovered_plan": {
+    "git_object": "5cbd50eda28cdae3968ec56424614b6532680fbb",
+    "original_path": "site/ESSAY-READABILITY-PLAN-2026-09-25.md",
+    "retained_path": "RECOVERED-ESSAY-READABILITY-PLAN-2026-09-25.md",
+    "sha256": "788f07127b9e2c7f25a519454f67caf3727216da9da72ccd530ef30a4edc59e0",
+    "standing": "historical implementation plan; current original-hero instruction supersedes its Plate A home constraint"
+  },
+  "file_comparisons": [
+    {
+      "path": "site/vendor/quartz/quartz/styles/custom.scss",
+      "old_sha256": "10951cfa7cab5bf4db0fb9153ca44992b4a507b44596a3cc58869d7690c97dde",
+      "publication_sha256": "10951cfa7cab5bf4db0fb9153ca44992b4a507b44596a3cc58869d7690c97dde",
+      "bytes_identical": true
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/FadeToggles.tsx",
+      "old_sha256": "0589188d337842eab05807e421ec9971caa50722c2045b0223c5d8bcadb2b902",
+      "publication_sha256": "0589188d337842eab05807e421ec9971caa50722c2045b0223c5d8bcadb2b902",
+      "bytes_identical": true
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/Explorer.tsx",
+      "old_sha256": "77a9e44d9a8acfe24a654b56b16b422a68970b88081abc18a85b5f3f2ab1e7c1",
+      "publication_sha256": "77a9e44d9a8acfe24a654b56b16b422a68970b88081abc18a85b5f3f2ab1e7c1",
+      "bytes_identical": true
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/Graph.tsx",
+      "old_sha256": "1fe1deeedd79e39dce86e90df8723c186e4fef08940511dc55f0716e38bb0057",
+      "publication_sha256": "1fe1deeedd79e39dce86e90df8723c186e4fef08940511dc55f0716e38bb0057",
+      "bytes_identical": true
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/graph.inline.ts",
+      "old_sha256": "a2d3632f2870f1a3b9a0b208f5b0d5e124eb00813b0fe3a3afa580d854e22c01",
+      "publication_sha256": "a2d3632f2870f1a3b9a0b208f5b0d5e124eb00813b0fe3a3afa580d854e22c01",
+      "bytes_identical": true
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/PageList.tsx",
+      "old_sha256": "0e5e6440efe3c4acb93236c63c1f64cb89e832e80986a1d905fbd2bd0923084d",
+      "publication_sha256": "0e5e6440efe3c4acb93236c63c1f64cb89e832e80986a1d905fbd2bd0923084d",
+      "bytes_identical": true
+    },
+    {
+      "path": "site/vendor/quartz/quartz.layout.ts",
+      "old_sha256": "3d039381a16902852cbc9d0a75cbc1636d7977604c5164d9ebb2785fce07c1f3",
+      "publication_sha256": "a53c6dad33dd14fe947e5c30999f6fcb6afa87886178c8d084d1af60d2247b43",
+      "bytes_identical": false
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/index.ts",
+      "old_sha256": "4c2ef4caca7eb05cc222f6dcb952fe9fa41c618734d119098506d1f5907d3c2a",
+      "publication_sha256": "b507218d9fa3ae35a907b8e9e7dce42debc4ee8338cdb9391f8aee7dfe2d1f70",
+      "bytes_identical": false
+    }
+  ],
+  "findings": [
+    {
+      "feature": "Native Quartz, actual graph, folder tree, search and backlinks",
+      "standing": "retained",
+      "basis": "ffd06eaa introduced the native vendored publication; current native components remain mounted."
+    },
+    {
+      "feature": "Remove metadata and tag rows from pages and folder listings",
+      "standing": "retained",
+      "basis": "Both current layouts omit ContentMeta/TagList; PageList is byte-identical to 4ce422f7."
+    },
+    {
+      "feature": "Night skin, paragraph spacing, explorer hierarchy styling",
+      "standing": "retained",
+      "basis": "custom.scss is byte-identical to 4ce422f7 at the inspected publication commit."
+    },
+    {
+      "feature": "Fade left and right sidebars",
+      "standing": "incomplete in original commit",
+      "basis": "FadeToggles.tsx is byte-identical but never exported or mounted in original or inspected current layout. CSS assigns grid columns to .page; actual grid is #quartz-body. Controls are hidden below 800px."
+    },
+    {
+      "feature": "Humanise explorer labels and remove repeated station prefixes",
+      "standing": "never implemented in original commit",
+      "basis": "Original and inspected current layouts call plain Explorer(); native Explorer mapFn is a no-op."
+    },
+    {
+      "feature": "Hide graph tag nodes by default and offer namespace filter",
+      "standing": "never implemented in original commit",
+      "basis": "Original and inspected current Graph.tsx showTags stays true; no tag-filter markup or oi-graph-tags script. Only inert filter CSS exists."
+    },
+    {
+      "feature": "Real graph beside the reader at tablet width",
+      "standing": "not provided by inherited native layout",
+      "basis": "Between 800 and 1200px the right grid area is below the reading column, so a long page pushes it beyond initial view."
+    },
+    {
+      "feature": "Old Plate B React essay shell",
+      "standing": "retained unbuilt; intentionally superseded",
+      "basis": "dde7cb38 survives in source. Its LocalGraph was a linked list; ffd06eaa explicitly restored native Quartz instead."
+    },
+    {
+      "feature": "Two doors public home",
+      "standing": "rejected by current author instruction and restored",
+      "basis": "d68aef80 changed home separately; current restoration derives developed home from 45159b76."
+    }
+  ],
+  "old_test_scope": "Smoke diff tests metadata absence and line-height only, never sidebar clicks, explorer naming or graph filters.",
+  "updated_at": "2026-10-04T16:05:14.975489+00:00",
+  "saved_follow_on": {
+    "working_snapshot": "07f022921b46e876acad4ecc91a6ceb3b1188dc2",
+    "index_snapshot": "5cbd50eda28cdae3968ec56424614b6532680fbb",
+    "same_tree": true,
+    "preserved_ref": "refs/preserved/essay-reader-follow-on-20260926",
+    "files": [
+      {
+        "path": "site/vendor/quartz/quartz.layout.ts",
+        "saved_sha256": "64453a64b8c7a97010b39891b1ac22efa485a99fb5dfded183195dafccd376ba",
+        "baseline_sha256": "a53c6dad33dd14fe947e5c30999f6fcb6afa87886178c8d084d1af60d2247b43",
+        "saved_matches_published_baseline": false,
+        "retained_path": ".legacy-earlier-site-work/site/vendor/quartz/quartz.layout.ts"
+      },
+      {
+        "path": "site/vendor/quartz/quartz/components/index.ts",
+        "saved_sha256": "bc8d96ec85aa97a514f3439fa940ab096868ba1c60cf2615618f4c8097468c58",
+        "baseline_sha256": "b507218d9fa3ae35a907b8e9e7dce42debc4ee8338cdb9391f8aee7dfe2d1f70",
+        "saved_matches_published_baseline": false,
+        "retained_path": ".legacy-earlier-site-work/site/vendor/quartz/quartz/components/index.ts"
+      },
+      {
+        "path": "site/vendor/quartz/quartz/components/FadeToggles.tsx",
+        "saved_sha256": "0589188d337842eab05807e421ec9971caa50722c2045b0223c5d8bcadb2b902",
+        "baseline_sha256": "0589188d337842eab05807e421ec9971caa50722c2045b0223c5d8bcadb2b902",
+        "saved_matches_published_baseline": true,
+        "retained_path": ".legacy-earlier-site-work/site/vendor/quartz/quartz/components/FadeToggles.tsx"
+      },
+      {
+        "path": "site/vendor/quartz/quartz/components/Graph.tsx",
+        "saved_sha256": "e99f1bba683ec2b5bd235cc89a9354f03d1b2a03290bd8e441054931ff76a770",
+        "baseline_sha256": "1fe1deeedd79e39dce86e90df8723c186e4fef08940511dc55f0716e38bb0057",
+        "saved_matches_published_baseline": false,
+        "retained_path": ".legacy-earlier-site-work/site/vendor/quartz/quartz/components/Graph.tsx"
+      },
+      {
+        "path": "site/vendor/quartz/quartz/components/scripts/graph.inline.ts",
+        "saved_sha256": "a131f61857e99039c3e5162a983faffd5a127b7ea7938c00fa86adf14201de3c",
+        "baseline_sha256": "a2d3632f2870f1a3b9a0b208f5b0d5e124eb00813b0fe3a3afa580d854e22c01",
+        "saved_matches_published_baseline": false,
+        "retained_path": ".legacy-earlier-site-work/site/vendor/quartz/quartz/components/scripts/graph.inline.ts"
+      },
+      {
+        "path": "site/vendor/quartz/quartz/styles/custom.scss",
+        "saved_sha256": "10951cfa7cab5bf4db0fb9153ca44992b4a507b44596a3cc58869d7690c97dde",
+        "baseline_sha256": "10951cfa7cab5bf4db0fb9153ca44992b4a507b44596a3cc58869d7690c97dde",
+        "saved_matches_published_baseline": true,
+        "retained_path": ".legacy-earlier-site-work/site/vendor/quartz/quartz/styles/custom.scss"
+      },
+      {
+        "path": "site/tests/essay-host-smoke.py",
+        "saved_sha256": "bb3dbacfa7eb0fea3ddc77e15e28cc3bdf0e0d746276e93aacd8d8778078bbec",
+        "baseline_sha256": "c24b29bdc0a098735dc6fedcc37f47cbbddabe70ac155c9cc1703483803ce80d",
+        "saved_matches_published_baseline": false,
+        "retained_path": ".legacy-earlier-site-work/site/tests/essay-host-smoke.py"
+      }
+    ],
+    "patch_path": "RECOVERED-QUARTZ-FOLLOW-ON.patch",
+    "patch_sha256": "b927ffcf1df0b635d4d6be385f07c7a9eaeea521caf4ac1102cd8afa183b6f79",
+    "standing": "Exact saved source recovered; selected changes need adaptation and real functional replay before publication. No wholesale restore of this snapshot."
+  },
+  "finding_correction": "The published 4ce commit was incomplete. The later saved September 26 state contains mounted/exported toggles, explorer mapFn, local graph tags default-off and full global namespace filter. These actual follow-on changes were absent from the inspected publication baseline.",
+  "saved_test_scope": "The saved smoke tests check visible controls, display labels and filter state; they still do not click both rails or prove grid width changes / mobile access / actual filtered graph data.",
+  "older_home_saved_state": {
+    "commit": "1e748046126f4979729fbaf689a73396a000bb8b",
+    "comparison_basis": "45159b76",
+    "standing": "Developed content, skin and public entrance CSS are identical. Only ShellApp/ShellNav Library routing amendments differ; current restored home retains its tested genuine Library/Essay routes."
+  }
+}

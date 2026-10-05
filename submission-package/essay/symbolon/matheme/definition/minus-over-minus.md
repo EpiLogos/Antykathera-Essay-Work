@@ -13,7 +13,7 @@ source_relation: "Extracted internal derivation"
 
 Strip the assigned meanings of `0/1` back to the minimal inscription `−/−`. Its inputs are two marks of the same kind, a difference of placement, and the relating stroke. The marks have no independently assigned positive or negative values at this stage.
 
-The [experienced relation](the-matheme.md) remains active through this reduction. In [Taylor's Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), File 1 §0, removing the terms' names makes the [relating stroke](../../the-slash.md) inspectable as the means of their distinction.
+The [experienced relation](the-matheme.md) remains active through this reduction. In [Taylor's Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md), File 1 §0, removing the terms' names makes the [relating stroke](../../the-slash.md) inspectable as the means of their distinction.
 
 ## #1 — Placement differentiates
 
@@ -43,4 +43,4 @@ This transition earns the next formal development. It does not infer the truth o
 
 Bare distinction has become intentional relation and identification. In the short definitional chain `0/1 = 4+2 = 5→0 = 0/1`, counting unfolds this retained relation into its operative pair and four appearances.
 
-[Identification through difference](../../episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) holds the same across its distinct appearances. The [eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) unfold the relation's qualitative body through an [ordered traversal](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). The parent `−/−` remains outside the six interior determinations while giving their differentiations a common source.
+[Identification through difference](../../../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md) holds the same across its distinct appearances. The [eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) unfold the relation's qualitative body through an [ordered traversal](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). The parent `−/−` remains outside the six interior determinations while giving their differentiations a common source.

@@ -11,9 +11,9 @@ source_relation: "Explicit mathematical construction; argued native comparison"
 
 ## #0 — Distinguish the dynamical objects
 
-A state-space contains possible states; an evolution rule generates trajectories from initial conditions. An attractor is an invariant attracting set under the stated dynamics, and its basin consists of initial conditions tending toward it. [Daza and colleagues’ definition](../../episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md) retains the system-dependent scope of this relation.
+A state-space contains possible states; an evolution rule generates trajectories from initial conditions. An attractor is an invariant attracting set under the stated dynamics, and its basin consists of initial conditions tending toward it. [Daza and colleagues’ definition](../../episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/daza-et-al-2016-basin-entropy.md) retains the system-dependent scope of this relation.
 
-[Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) coordinates ordering field and lived trajectory as an Argued psychic and technical relation. The worked model below exhibits a basin change; it does not claim that every attractor is chaotic.
+[Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/taylor-2026-symbolon-dynamics.md) coordinates ordering field and lived trajectory as an Argued psychic and technical relation. The worked model below exhibits a basin change; it does not claim that every attractor is chaotic.
 
 ## #1 — Define a dissipative gradient system
 
@@ -37,7 +37,7 @@ This is sensitivity of the eventual basin assignment near a boundary. It is not 
 
 ## #4 — Return the mathematical distinction to the psychic field
 
-[Van Eenwyk’s psychological engagement](../../episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) compares complexes, symbolic transformation and attractor language. Exact clinical passages and copied encounter quotations retain their separate verification question. The native `X/x` relation gives formative capacity and its actual manifestation their prior office through which that psychological comparison is read.
+[Van Eenwyk’s psychological engagement](../../episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md) compares complexes, symbolic transformation and attractor language. Exact clinical passages and copied encounter quotations retain their separate verification question. The native `X/x` relation gives formative capacity and its actual manifestation their prior office through which that psychological comparison is read.
 
 An atlas gives local descriptions and transition maps; an attractor concerns long-term evolution. A psychic image can illuminate both only by stating the different operations. Likewise a technical J-space needs a representation, evolution and metric before basin terminology becomes measurable. Daza's basin definition alone is not a general bifurcation theorem or a theory of individuation.
 

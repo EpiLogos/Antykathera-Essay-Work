@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "senate-1977-project-mkultra-hearing",
+    "title": "Project MKULTRA, the CIA’s Program of Research in Behavioral Modification",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/united-states-senate/senate-1977-project-mkultra-hearing/senate-1977-project-mkultra-hearing.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Project MKULTRA, the CIA’s Program of Research in Behavioral Modification",
+      "Citation and consulted object",
+      "Passages and excerpts",
+      "senate-1977-project-mkultra-hearing-p001 — Current §0/1 support"
+    ],
+    "sha256": "25316db411d22f1f8b7c2437793d827f069561f11af135a0c6c3a784bd8c5b19",
+    "record_type": "document",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

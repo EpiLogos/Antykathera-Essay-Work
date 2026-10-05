@@ -13,7 +13,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, sta
 # §0 · #1 — The Inner Instrument
 
 <!-- reader-navigation -->
-Movement 08 of 48 · [This room](../ROOM.md) · [← Previous](07-s0-p0-awareness-bends-display.md) · [Next →](09-s0-p2-vikalpa-samkalpa.md)
+Movement 08 of 48 · [This room](../ROOM-01-differentiating-mind.md) · [← Previous](07-s0-p0-awareness-bends-display.md) · [Next →](09-s0-p2-vikalpa-samkalpa.md)
 <!-- /reader-navigation -->
 
 ## Claim
@@ -28,5 +28,5 @@ The technical comparison becomes exact at the level of office: determination, ap
 ## Anchor and transition
 **QL anchor:** objective functions occupy the marked side of `0/1`. **Image:** an instrument through which, not the musician who. Its operations become world-making in [[09-s0-p2-vikalpa-samkalpa|§0 · #2 — Vikalpa and Saṃkalpa]].
 
-The inner instrument **returns-to** [Encounter-in-Region](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) as a situated capacity to determine, appropriate and coordinate. Its finite horizon establishes which objects and alternatives can enter cognition. Recovering that horizon distinguishes the functioning instrument from the subject-pole it serves; the six-term language field supplies this authorial comparison without becoming a Sanskrit classification.
+The inner instrument **returns-to** [Encounter-in-Region](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md#encounter-in-region) as a situated capacity to determine, appropriate and coordinate. Its finite horizon establishes which objects and alternatives can enter cognition. Recovering that horizon distinguishes the functioning instrument from the subject-pole it serves; the six-term language field supplies this authorial comparison without becoming a Sanskrit classification.
 

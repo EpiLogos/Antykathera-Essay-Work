@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Name what is returning
 
-A frequency, an interval and a pitch class are different objects. The [musical derivation house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) and [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) carry their native relation. [Scholtz](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) fixes the pure and tempered tuning distinctions.
+A frequency, an interval and a pitch class are different objects. The [musical derivation house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) and [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) carry their native relation. [Scholtz](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md) fixes the pure and tempered tuning distinctions.
 
 Let `f>0`, choose reference `f₀`, and set `u=log₂(f/f₀)`. Multiplication of frequencies by 2 adds 1 to `u`. Quotienting `u` by integer shifts gives an octave-equivalence class in `ℝ/ℤ`.
 

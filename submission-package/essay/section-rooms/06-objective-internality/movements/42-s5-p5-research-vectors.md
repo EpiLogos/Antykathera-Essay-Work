@@ -15,7 +15,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #5 — Quaternal Logic — Transcendent Relation
 
 <!-- reader-navigation -->
-Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
+Movement 42 of 48 · [This room](../ROOM-06-objective-internality.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
 <!-- /reader-navigation -->
 
 ## Claim
@@ -48,4 +48,4 @@ The section now returns through its parent field. Central gave meaningful contin
 
 This is the product field’s Epi-Logos: philosophy reflected in technology strongly enough that actual technological encounter can answer back, refine the philosophical mapping and alter what is built next. The next station therefore begins not with another product but with the instrument returning into the World and Life whose means it has learned to recognise.
 
-[Quaternal Logic](../../../symbolon/episteme/products/S5-Quaternal-Logic.md) gives this movement its technical body within the wider [World and Life](../../../symbolon/episteme/products/S-World-and-Life.md) field. Its return is the achieved relation becoming ground for another relation without installing itself as the final exterior from which all scales are judged.
+[Quaternal Logic](../../arguments/products/S5-Quaternal-Logic.md) gives this movement its technical body within the wider [World and Life](../../arguments/products/S-World-and-Life.md) field. Its return is the achieved relation becoming ground for another relation without installing itself as the final exterior from which all scales are judged.

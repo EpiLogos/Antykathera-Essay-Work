@@ -1,0 +1,22 @@
+{
+  "standing": "Integrator applied the three verified late locator cards; quotation boundary and author prose retained. Supersedes the unapplied state of the worker manifest.",
+  "changes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md",
+      "preimage_sha256": "5b031b5f67ae0a594fb6233295917abe1c41965015686eabfe97e024dd21af66",
+      "postimage_sha256": "71ad3f6b60bac12ec1d81f57e60e3968bef28ba0d06d505fee471b99ce0fbdc0",
+      "passage_ids": [
+        "jung-1969-psychology-religion-cw11-p011",
+        "jung-1969-psychology-religion-cw11-p012"
+      ]
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md",
+      "preimage_sha256": "c2ec211fb0b2969db672eea6ddee1845928037cb5413d860bb5055f866bf3f9c",
+      "postimage_sha256": "6e5b24039d602bd0ac5ef0e0fd70737d6c0720c07131755c9159bf0c919621fd",
+      "passage_ids": [
+        "jung-cw9i-hull-routledge-second-edition-p003"
+      ]
+    }
+  ]
+}

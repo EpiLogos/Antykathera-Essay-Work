@@ -11,9 +11,9 @@ source_relation: "Explicit mathematical proof; argued native comparison"
 
 ## #0 — Start with a commutative monoid
 
-Let `(M,+,0)` be a commutative monoid. Group completion formally permits differences by constructing an abelian group `G(M)` and a monoid map `i:M→G(M)`. The [inherited question of loss](../../episteme/concepts/reference-notes/grothendieck-group-loss.md) is tested through the construction below: the particular monoid determines whether its distinct elements remain distinct after completion.
+Let `(M,+,0)` be a commutative monoid. Group completion formally permits differences by constructing an abelian group `G(M)` and a monoid map `i:M→G(M)`. The [inherited question of loss](../../../section-rooms/arguments/concepts/reference-notes/grothendieck-group-loss.md) is tested through the construction below: the particular monoid determines whether its distinct elements remain distinct after completion.
 
-The [native cancellation/appropriation distinction](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) asks how distinguishing and accounting retain the relation through which they act. The algebraic theorem gives an exact comparison by specifying which additions and distinctions the map preserves.
+The [native cancellation/appropriation distinction](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) asks how distinguishing and accounting retain the relation through which they act. The algebraic theorem gives an exact comparison by specifying which additions and distinctions the map preserves.
 
 ## #1 — Construct formal differences
 
@@ -45,4 +45,4 @@ The loss is now explicit: a nonzero idempotent cannot remain nonzero under a map
 
 The result distinguishes an injective extension from a collapsing one under one exact criterion. An account can now state what addition meant before subtraction was introduced and which distinctions survive the passage.
 
-[Dia](../dia-syn/dia.md) differentiates the terms to be mapped; [Syn](../dia-syn/syn.md) binds them through their stated operation. Their [two internally related logics](../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) receive the distinction between making subtraction available and losing an original distinction. [Translation](../mono-poly/translations.md) specifies the actual source monoid and receiving group, so that injectivity or collapse can be proved for their map. The inherited note retains its separate K-theory citation question; the explicit construction establishes the mathematical result used here.
+[Dia](../dia-syn/dia.md) differentiates the terms to be mapped; [Syn](../dia-syn/syn.md) binds them through their stated operation. Their [two internally related logics](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) receive the distinction between making subtraction available and losing an original distinction. [Translation](../mono-poly/translations.md) specifies the actual source monoid and receiving group, so that injectivity or collapse can be proved for their map. The inherited note retains its separate K-theory citation question; the explicit construction establishes the mathematical result used here.

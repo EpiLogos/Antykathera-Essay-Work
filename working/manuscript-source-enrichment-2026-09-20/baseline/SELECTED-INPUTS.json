@@ -1,0 +1,21 @@
+{
+  "standing": "Pinned eight-draft selection for private collation and report-first review; not authorial prose acceptance",
+  "date": "2026-09-19",
+  "canonical_base": "a9588088fb42c1a929568d627bf2339d86c9ee64",
+  "supplement": "13aeac61c4f4f73f1b9eb0ee65dc7ab015ee9024",
+  "selected": [
+    {"section":"s01","movements":"M01-M06","commit":"94cea9bf3064594555f46e3d2010d003a1752ad6","blob":"8d62eaf658201336010252b39fb43db3fa544e22","path":"working/manuscript-drafts/s01-integral-threshold.md","receipt":"working/manuscript-drafts/s01-integral-threshold.receipt.md","room":"00-integral-threshold"},
+    {"section":"s0","movements":"M07-M12","commit":"28da5ddaca7ea690b4334dc7c844184bdade4ab1","blob":"28a16ccd2407d17d3e611438d3a4a36b559c3d41","path":"working/manuscript-drafts/s0-differentiating-mind.md","receipt":"working/manuscript-drafts/s0-differentiating-mind-receipt.md","room":"01-differentiating-mind"},
+    {"section":"s1","movements":"M13-M18","commit":"8d6cde08b19783e5bf7efb1e90f6d08546fc772a","blob":"0da93e169848f9bf7deb706e3e2445162951d70b","path":"working/manuscript-drafts/s1-return-of-zero.md","receipt":"working/manuscript-drafts/s1-return-of-zero-receipt.md","room":"02-return-of-zero"},
+    {"section":"s2","movements":"M19-M24","commit":"81505d2f25b9b1827a91de405b0e944cb57d070a","blob":"088aa0962d4346f313903ab88d9386633f7d2d0d","path":"working/manuscript-drafts/s2-two-logics.md","receipt":"working/manuscript-drafts/s2-two-logics-source-run-review.md","room":"03-two-logics"},
+    {"section":"s3","movements":"M25-M30","commit":"b8f368326a341b68a4ad8bda3c808030d105cbf1","blob":"741228ed81f782dba0584616ef546b3db0a48be9","path":"working/manuscript-drafts/s3-mathematical-substrate.md","receipt":"working/manuscript-drafts/s3-mathematical-substrate-receipt.md","room":"04-mathematical-substrate"},
+    {"section":"s4","movements":"M31-M36","commit":"32a9b1adbd15c0e956f5689c448a7c5bdcf891e2","blob":"6f143b04e7bff6bedb0ffeef98b4f2d826932523","path":"working/manuscript-drafts/s4-psychoid-flowering.md","receipt":"working/manuscript-drafts/s4-psychoid-flowering-receipt.md","room":"05-psychoid-flowering"},
+    {"section":"s5","movements":"M37-M42","commit":"e3aee553f002cf9b57ff79f40ee963ad03c5416f","blob":"427c7d92e35e125145a06f1ed695ee27f7d372ff","path":"submission-package/essay/THE-RETURN-OF-ZERO.md","selection":"Populated section-s5-objective-internality only; stop before section-s50-instrument-returns","receipt":"working/writing-runs/gpt-6-astra-pro/2026-09-18-s5/REVIEW-RETURN.md","room":"06-objective-internality"},
+    {"section":"s50","movements":"M43-M48","commit":"cae66d6bc3acf034f3c4751561948e0260cbbccb","blob":"fb5dc736f233903fea6e21c459e0197b0bfd3370","path":"working/manuscript-drafts/s50-instrument-returns.md","receipt":"working/manuscript-drafts/s50-instrument-returns-receipt.md","room":"07-instrument-returns"}
+  ],
+  "nonselected_opening": "working/writing-runs/gpt-6-astra-pro/2026-09-18-full-manuscript/S01-MANUSCRIPT-DRAFT.md: retain as alternative provenance, not the selected opening",
+  "master_unchanged": true,
+  "source_branches_unchanged": true,
+  "reports_approved": false,
+  "rewrites_authorized_by_this_preparation": false
+}

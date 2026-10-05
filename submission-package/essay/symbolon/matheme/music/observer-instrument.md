@@ -17,11 +17,11 @@ source_ids:
 
 ## #0 — The score meets its sounding
 
-The [musical field](field.md) offers lens, mode, cluster and bass choices. A performance makes a particular selection audible in time. The [musical-epistemic return](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) brings the sounding back to the operation it was intended to perform.
+The [musical field](field.md) offers lens, mode, cluster and bass choices. A performance makes a particular selection audible in time. The [musical-epistemic return](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) brings the sounding back to the operation it was intended to perform.
 
 The intended sequence, the produced signal and its interpretation are three distinct inputs to that return. The sequence specifies notes, order, tuning, basis and lens. The signal carries whatever the instrument actually produced. The interpretation asks how those events enacted the selected relation. A correct symbolic sequence cannot certify its acoustic execution; a matching spectrum cannot alone certify what the player recognised.
 
-The [instrumental lineage](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) connects musical generation with capture, analysis and interpretation. A usable instrument must preserve the intended event and its actual signal through the conditions of comparison, so a discrepancy can alter subsequent analysis or performance.
+The [instrumental lineage](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) connects musical generation with capture, analysis and interpretation. A usable instrument must preserve the intended event and its actual signal through the conditions of comparison, so a discrepancy can alter subsequent analysis or performance.
 
 ## #1 — Four observer surfaces
 
@@ -75,7 +75,7 @@ The [protected-memory comparison](../formal-neighbours/README.md) has a separate
 
 ## #5→0 — The player recognises the circuit
 
-Cyclic performance and telic recognition offer two endings. Another cycle can carry the previous passage forward; recognition can also bring the playing to silence. Their [co-presence](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) retains both capacities. The exact whole-tone relation completes its chosen span: `16/9` reaches its octave through multiplication by `9/8`. A particular performance can achieve this return and retain the interval which completed it.
+Cyclic performance and telic recognition offer two endings. Another cycle can carry the previous passage forward; recognition can also bring the playing to silence. Their [co-presence](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) retains both capacities. The exact whole-tone relation completes its chosen span: `16/9` reaches its octave through multiplication by `9/8`. A particular performance can achieve this return and retain the interval which completed it.
 
 The music carries the full processually earned chain:
 
@@ -88,9 +88,9 @@ Chain primes mark inverse-phase positions. The instrument’s P′/L′ coordina
 
 The standing identity `0/1+1/0=1/1≡100%` gathers the native directed readings; it is not a real-number sum involving a defined value for division by zero. What the observer measures belongs among the differentiated contents of the circuit. The recognition to which the music returns concerns the player whose presence made the playing and its examination possible.
 
-[Articulated sound](../../episteme/arguments/A06-Vak.md) becomes answerable through its actual hearing and use; [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives that performance. Presence to experience makes playing and examination possible together. The relation now played and heard returns through the player, while the observer’s evidence retains its precise office within the inquiry.
+[Articulated sound](../../../section-rooms/arguments/A06-Vak.md) becomes answerable through its actual hearing and use; [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives that performance. Presence to experience makes playing and examination possible together. The relation now played and heard returns through the player, while the observer’s evidence retains its precise office within the inquiry.
 ## Source and implementation standing
 
-This is the housed candidate’s observer design. The [musical-v3 house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) **sources** the parallel instrumental lineage. File 4 and v3 are superseded in practice by the actual ql-mef package, whose current implementation has not been recovered here. The record develops the operations and their checkable consequences; no live instrument, recording or current observer run is claimed.
+This is the housed candidate’s observer design. The [musical-v3 house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) **sources** the parallel instrumental lineage. File 4 and v3 are superseded in practice by the actual ql-mef package, whose current implementation has not been recovered here. The record develops the operations and their checkable consequences; no live instrument, recording or current observer run is claimed.
 
 These are concrete discrepancies the design can expose. An implemented observer would still require verification against its actual capture path, analysis settings and output. This page supplies no such runtime receipt. Nor does the spectral layer by itself decide whether a player’s attention, understanding or relation to the work has changed.

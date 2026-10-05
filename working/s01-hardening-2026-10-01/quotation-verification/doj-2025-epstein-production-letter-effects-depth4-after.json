@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "doj-2025-epstein-production-letter",
+    "title": "December 19, 2025 Letter to Congress on Epstein Files Production",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/united-states-doj/doj-2025-epstein-production-letter/doj-2025-epstein-production-letter.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "December 19, 2025 Letter to Congress on Epstein Files Production",
+      "Citation and consulted object",
+      "Passages and excerpts",
+      "doj-2025-epstein-production-letter-p001 — Current §0/1 support"
+    ],
+    "sha256": "accfb26303697d97c210d74e38843cc71db9bdc664758debc69f86fbb915cf1e",
+    "record_type": "document",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

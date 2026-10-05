@@ -39,11 +39,24 @@ def audit(root):
   targets={a.resolve(source,k)[0] for k in reader.links(m['path'].read_text()) if a.resolve(source,k)[1]=='ok'}
   expected_next=str(movements[seq%48]['path'].relative_to(root))
   if expected_next not in targets:next_missing.append(seq)
-  legacy += [{'sequence':seq,'target':t} for t in targets if '/section-rooms/arguments/' in t]
+  legacy += [{'sequence':seq,'target':t} for t in targets if '/working/legacy/section-rooms-arguments/' in t]
+ def home2026(path):
+  # Paths recorded before the 2026-09-25 ratified migration translate to the
+  # canonical suite's home under section-rooms/arguments/; bytes are unchanged.
+  # The same migration renamed same-name room and register pages to
+  # `TYPE-<parent-slug>.md`; recorded names translate to the renamed carrier.
+  for old,new in (('submission-package/essay/symbolon/episteme/concepts/','submission-package/essay/section-rooms/arguments/concepts/'),('submission-package/essay/symbolon/episteme/conjugate/','submission-package/essay/section-rooms/arguments/conjugate/'),('submission-package/essay/symbolon/episteme/arguments/','submission-package/essay/section-rooms/arguments/'),('submission-package/essay/symbolon/episteme/lenses/baudrillard.md','submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/baudrillard-1976-symbolic-exchange-death.md'),('submission-package/essay/symbolon/episteme/lenses/foucault.md','submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/foucault-1976-history-sexuality-v1.md')):
+   if str(path).startswith(old):return new+str(path)[len(old):]
+  s=str(path);prefix,sep,base=s.rpartition('/')
+  if sep and base in {'ROOM.md','READING.md','HISTORY.md','WHOLE-FIELD.md','HISTORICAL-BRANCHES.md','DEVELOPMENT.md'}:
+   parent=prefix.rpartition('/')[2]
+   if parent:return prefix+'/'+base[:-3]+'-'+parent+'.md'
+  return path
  proofdir=root/'working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08'
  proof=json.loads((proofdir/'proof.json').read_text());denom=json.loads((proofdir/'all272-denominator-supplement.json').read_text())
  route_checks=[]
  for r in denom['actual_route_evidence'].values():
+  r['source']=home2026(r['source'])
   p=root/r['source']; targets={a.resolve(r['source'],k)[0] for k in reader.links(p.read_text()) if a.resolve(r['source'],k)[1]=='ok'}
   route_checks.append({'source':r['source'],'target':r['target'],'reader_route_present':r['target'] in targets,'prior_direct_evidence':bool(r.get('literal_paragraphs') or r.get('graph_edges'))})
  witnesses={}
@@ -57,7 +70,7 @@ def audit(root):
  visit(proof)
  changed=[];exact=equivalent=0
  for (path,text),row in witnesses.items():
-  current=(root/path).read_text()
+  current=(root/home2026(path)).read_text()
   if text in current:exact+=1
   elif plain(text) in plain(current):equivalent+=1
   else:changed.append({'path':path,'prior_text':text,'prior_start_line':row.get('start_line')})
@@ -67,8 +80,18 @@ def audit(root):
  protected=[]
  for path,digest in baseline.items():
   if not isinstance(digest,str):continue
-  if Path(path).name in {'NOTES.md','AUTHORIAL-TEXT.md','THE-RETURN-OF-ZERO.md','SCRATCH.md','READING.md','HISTORY.md'}:
-   p=root/path
+  nm=Path(path).name
+  if nm in {'NOTES.md','AUTHORIAL-TEXT.md','THE-RETURN-OF-ZERO.md','SCRATCH.md','READING.md','HISTORY.md','WHOLE-FIELD.md','HISTORICAL-BRANCHES.md','DEVELOPMENT.md'} or nm.endswith('-NOTES.md') or (nm.endswith('.md') and nm.startswith(('ROOM-','READING-','HISTORY-','WHOLE-FIELD-','HISTORICAL-BRANCHES-','DEVELOPMENT-'))):
+   p=root/home2026(path)
+   # The 2026-09-25 type-prefix rename moved protected surfaces to
+   # `TYPE-<parent-slug>.md`; translate recorded names the same way the
+   # NOTES.md -> <parent>-NOTES.md fallback below already does.
+   if not p.is_file() and nm in {'READING.md','HISTORY.md','WHOLE-FIELD.md','HISTORICAL-BRANCHES.md','DEVELOPMENT.md'}:
+    rp=p.with_name(p.parent.name+'-'+nm)
+    if rp.is_file():p=rp
+   if not p.is_file() and nm=='NOTES.md':
+    rp=p.with_name(p.parent.name+'-NOTES.md')
+    if rp.is_file():p=rp
    if not p.is_file() or hashlib.sha256(p.read_bytes()).hexdigest()!=digest:protected.append(path)
  return {'scope':__doc__.strip(),'census':report['counts'],'canonical_suite':{'count':len(canonical),'missing':sorted(expected-set(canonical)),'duplicate_ids':{k:v for k,v in ids.items() if v>1},'duplicate_homes':{k:v for k,v in homes.items() if v>1},'metadata_mismatches':wrong,'missing_sixfold_sections':thin},'movements':{'count':len(movements),'alignment':alignment,'missing_alignment':[r['sequence'] for r in alignment if not r['routes']],'missing_next_link':next_missing,'live_legacy_links':legacy},'preservation':{'changed_protected_since_T24_entry':protected},'prior_evidence':{'denominator_rows':len(denom['rows']),'consumer_instances':len(denom['consumer_instances']),'dispositions':dict(Counter(x['disposition'] for x in denom['consumer_instances'])),'checked_saved_routes':len(route_checks),'missing_reader_routes':[r for r in route_checks if r['prior_direct_evidence'] and not r['reader_route_present']],'saved_paragraphs':len(witnesses),'exact_paragraphs':exact,'same_text_after_link_normalisation':equivalent,'changed_witnesses_requiring_review':changed},'source_standing':dict(Counter(str(x.frontmatter.get('quote_status','undeclared')) for x in a.ws.artifacts.values() if x.artifact_type=='source-house'))}
 

@@ -1,0 +1,17 @@
+✔ publication keeps the six folders and drops quilt, NOTES, reference-notes, and JSON (650.176458ms)
+✔ the shell points at Relational Logos and does not paste it into site prose (24.800542ms)
+✔ site base is the path in front of an essay route (5.454416ms)
+✔ built essay.html boots from the site base and drops root-absolute asset tags (0.742791ms)
+✔ the publish step requires the Quartz publication, prunes the shell catalog, and publishes the Quartz not-found page (7.360666ms)
+✔ a missing Quartz publication, a shell stub, or a missing stamp fails the publish step (6.593291ms)
+✔ pages serves deep essay links from 404.html; vercel rewrites them and an existing file wins (213.009542ms)
+✔ a real cached Git source refreshes main and stages figures while withholding notes (1360.107833ms)
+✔ frontmatter keeps the last native source identity without touching prose (0.530792ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1706.216208

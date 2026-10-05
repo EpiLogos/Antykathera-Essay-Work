@@ -9,9 +9,9 @@ import yaml
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-THRESHOLD_READING = PROJECT / "submission-package/essay/section-rooms/00-integral-threshold/READING.md"
-ZERO_READING = PROJECT / "submission-package/essay/section-rooms/02-return-of-zero/READING.md"
-ZERO_ROOM = PROJECT / "submission-package/essay/section-rooms/02-return-of-zero/ROOM.md"
+THRESHOLD_READING = PROJECT / "submission-package/essay/section-rooms/00-integral-threshold/READING-00-integral-threshold.md"
+ZERO_READING = PROJECT / "submission-package/essay/section-rooms/02-return-of-zero/READING-02-return-of-zero.md"
+ZERO_ROOM = PROJECT / "submission-package/essay/section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md"
 MANUSCRIPT = PROJECT / "submission-package/essay/THE-RETURN-OF-ZERO.md"
 RAW_KAPLAN_NOTE = PROJECT / "working/sources-texts-references/The Nothing That Is - Robert Kaplan.md"
 
@@ -96,7 +96,7 @@ class LearningSurfaceContractTests(unittest.TestCase):
         self.assertIn("PDF pp. 435–436", body)
 
     def test_two_admitted_reading_routes_are_human_routes_with_resolvable_sources(self) -> None:
-        routes = sorted((PROJECT / "submission-package/essay/section-rooms").glob("*/READING.md"))
+        routes = sorted((PROJECT / "submission-package/essay/section-rooms").glob("*/READING-*.md"))
         self.assertEqual(routes, [THRESHOLD_READING, ZERO_READING])
         for path in routes:
             frontmatter, body = parse_markdown(path)
@@ -193,9 +193,9 @@ class LearningSurfaceContractTests(unittest.TestCase):
         room = ZERO_ROOM.read_text(encoding="utf-8")
         reading = ZERO_READING.read_text(encoding="utf-8")
         source = KAPLAN.read_text(encoding="utf-8")
-        self.assertIn("section-rooms/02-return-of-zero/ROOM.md", manuscript)
-        self.assertIn("[reading route](READING.md)", room)
-        self.assertIn("kaplan-1999-nothing-that-is/SOURCE.md", room)
+        self.assertIn("section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md", manuscript)
+        self.assertIn("[reading route](READING-02-return-of-zero.md)", room)
+        self.assertIn("kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is.md", room)
         self.assertIn("#historical-reading-spine", reading)
         self.assertIn("#mathematical-workbench", reading)
         self.assertIn("### Division by zero: run the ordinary-field collapse", source)

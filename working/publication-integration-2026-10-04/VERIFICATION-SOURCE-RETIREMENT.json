@@ -1,0 +1,8 @@
+{
+  "retired_at": "2026-10-04T18:09:46.499744+00:00",
+  "path": "/Users/admin/Central/Work/O-I/site/.publication-verification",
+  "validated_source": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "remote_main": "336e2141b1e10e1d5ec21968d3cbe0d157e85716",
+  "remaining": false,
+  "standing": "Bounded verification materialization retired after complete built, native CI and production proofs. Git source, raw reading inputs, receipts, native CI artifact, logs and screenshots remain retained; external warm dependencies were not removed."
+}

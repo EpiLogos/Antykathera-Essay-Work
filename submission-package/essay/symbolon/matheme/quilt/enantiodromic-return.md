@@ -11,7 +11,7 @@ source_relation: "Extracted internal quilting; native derivation and source-dist
 
 ## #0 — The reversal principle
 
-Naming the structure and inhabiting it are different operations. The Night pass of File 3 in the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) turns the Day's third-person IS toward first-person AM. Its source headings are `#0′` First Spanda, `#1′` Second Spanda, `#2′` Name, `#3′` Power, `#4′` Requilting, `#5′` Foundation Stone, and `5′→0′` Möbius Stitch.
+Naming the structure and inhabiting it are different operations. The Night pass of File 3 in the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) turns the Day's third-person IS toward first-person AM. Its source headings are `#0′` First Spanda, `#1′` Second Spanda, `#2′` Name, `#3′` Power, `#4′` Requilting, `#5′` Foundation Stone, and `5′→0′` Möbius Stitch.
 
 These primes are **Night-pass sequence addresses**. File 2 uses primes for **inverse-phase positions**. The two sequences retain these different offices throughout the traversal. The quilt's governing chain remains `0/1=4+2=5→0=0/1`; the complete process/music chain explicitly includes `1/0=4′+2′=5′→0′` before return.
 
@@ -62,4 +62,4 @@ Return to an actual act of noticing. There is an appearance, an awareness of it 
 
 The result is the opening `0/1` carrying the definition, process and quilt through which it has been recognised. The reader performs this turn within an actual life: the account is encountered through attention, memory, speech and action, and its recognised relation can shape the next act. Its first-person enactment occurs in that encounter rather than being supplied by a completed description. The distinction between named structure and lived recognition remains precisely what makes the return necessary.
 
-[Integral Zero](../../episteme/arguments/A36-Advent-of-Integral-Zero.md) retains the achieved determination within its condition; [self-identity](../../self-identity.md) keeps that identity answerable to its differentiation; [recognition](recognition.md) gathers the traversed relations so that another act can inherit them. The next movement is [music](../music/README.md): ratio given time, the achieved relation returned as an instrument that can actually be played.
+[Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) retains the achieved determination within its condition; [self-identity](../../self-identity.md) keeps that identity answerable to its differentiation; [recognition](recognition.md) gathers the traversed relations so that another act can inherit them. The next movement is [music](../music/README.md): ratio given time, the achieved relation returned as an instrument that can actually be played.

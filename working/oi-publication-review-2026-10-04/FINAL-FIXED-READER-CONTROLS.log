@@ -1,0 +1,46 @@
+PASS vercel-1440
+PASS vercel-1100
+FAIL vercel-900 
+PASS vercel-390
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 59893)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/server.py", line 496, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/server.py", line 484, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-host-smoke.py", line 126, in do_GET
+    self.wfile.write(body)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+FAIL vercel-deep-routes-and-search Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_be_visible with timeout 20000ms
+  -   - waiting for locator(".search-container.active .result-card").first
+
+PASS pages-1440
+PASS pages-1100
+FAIL pages-900 
+PASS pages-390
+FAIL pages-deep-routes-and-search Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_be_visible with timeout 20000ms
+  -   - waiting for locator(".search-container.active .result-card").first
+

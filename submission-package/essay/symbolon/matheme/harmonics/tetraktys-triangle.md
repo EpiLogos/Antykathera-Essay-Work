@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Keep the two constructions visible
 
-The [core spine, §III](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) places triangular counting and the 3–4–5 right triangle within its numerical unit. The [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) adds the two readings of 16/9. These are native mathematical carriers; their historical Pythagorean testimony requires its own source beyond the arithmetic.
+The [core spine, §III](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) places triangular counting and the 3–4–5 right triangle within its numerical unit. The [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) adds the two readings of 16/9. These are native mathematical carriers; their historical Pythagorean testimony requires its own source beyond the arithmetic.
 
 ## #1 — Construct triangular ten
 
@@ -48,4 +48,4 @@ The 3–4–5 triangle's area 6 and perimeter 12 also carry different dimensions
 
 The result contains triangular 10, right-triangle area 6, perimeter 12, the native structural `3+1+4+2=10` and the distinct factor-occurrence count 10, each with its construction. The native relation can move among them without changing what a number measures halfway through a derivation.
 
-[Perfect six](perfect-six.md) retains the divisor sum, while [complex orientation](../ql/complex-orientation.md) gives a rotation its separate coordinate operation. [The eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold qualitative offices together with their different counts; [the Spanda accounting](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) keeps the sum, ratio and factor-instance count available through the whole’s return. The figure is now available as a worked carrier rather than an unexplained numerical resemblance.
+[Perfect six](perfect-six.md) retains the divisor sum, while [complex orientation](../ql/complex-orientation.md) gives a rotation its separate coordinate operation. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold qualitative offices together with their different counts; [the Spanda accounting](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) keeps the sum, ratio and factor-instance count available through the whole’s return. The figure is now available as a worked carrier rather than an unexplained numerical resemblance.

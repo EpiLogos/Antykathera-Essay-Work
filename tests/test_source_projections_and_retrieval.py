@@ -59,7 +59,7 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
         self.assertNotIn("source-bank/quotes/", text)
         self.assertNotIn("_No main source declared._", text)
         projected_relations = re.findall(
-            r"^- \[.+?\]\([^)#]+/SOURCE\.md\)", text, re.MULTILINE
+            r"^- \[.+?\]\([^)#]+\.md\)", text, re.MULTILINE
         )
         canonical_relations = 0
         for source_house in iter_source_houses(PROJECT):
@@ -74,7 +74,7 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
 
     def test_every_passage_projection_fragment_resolves_to_the_canonical_house(self):
         ledger = (BANK / "PASSAGE-LEDGER.md").read_text(encoding="utf-8")
-        links = re.findall(r"\]\(([^)#]+/SOURCE\.md)#([^)]+)\)", ledger)
+        links = re.findall(r"\]\(([^)#]+\.md)#([^)]+)\)", ledger)
         self.assertTrue(links)
         for relative, fragment in links:
             source = BANK / relative
@@ -91,7 +91,7 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
             for row in context["passages"]
             if row["passage_id"] == "colebrooke-1817-brahmagupta-bhaskara-q001"
         )["canonical"]
-        self.assertTrue(passage["canonical_path"].endswith("/SOURCE.md"))
+        self.assertTrue(passage["canonical_path"].endswith(".md"))
         self.assertEqual("#colebrooke-1817-brahmagupta-bhaskara-q001", passage["anchor"])
         self.assertTrue(passage["locator"])
         self.assertEqual("quotation-ready.", passage["quotation_status"])

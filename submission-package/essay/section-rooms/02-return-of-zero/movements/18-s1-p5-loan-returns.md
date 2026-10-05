@@ -20,7 +20,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §1 · #5→0 — The Loan Returns
 
 <!-- reader-navigation -->
-Movement 18 of 48 · [This room](../ROOM.md) · [← Previous](17-s1-p4-zero-outside-math.md) · [Next →](../../03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md)
+Movement 18 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous](17-s1-p4-zero-outside-math.md) · [Next →](../../03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md)
 <!-- /reader-navigation -->
 
 ## Movement thesis
@@ -53,7 +53,7 @@ The recovered zero reveals why “binary logic” is ambiguous. The next station
 
 Continue to [[19-s2-p0-difference-cannot-be-escaped|§2 · #0 — Difference Cannot Be Escaped]].
 
-The loan’s return **returns-to** [Credere — renewed entrustment](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#credere-renewed-entrustment) through a determinate undertaking with a bearer and a consequence. Examining the account clarifies what is owed; renewed entrustment lets the relation proceed beyond what that examination can guarantee. The six-term whole carries place, articulation, rule and belonging through that passage, so return is neither erasure of the obligation nor confidence manufactured by its record.
+The loan’s return **returns-to** [Credere — renewed entrustment](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md#credere-renewed-entrustment) through a determinate undertaking with a bearer and a consequence. Examining the account clarifies what is owed; renewed entrustment lets the relation proceed beyond what that examination can guarantee. The six-term whole carries place, articulation, rule and belonging through that passage, so return is neither erasure of the obligation nor confidence manufactured by its record.
 
 The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.md#4--rotmans-meta-subject-is-a-distinct-interlocutor) compares this return with Rotman's semiotically produced observing role. The comparison sharpens the distinction between a formal observer-position and the essay's irreducible Subject while preserving zero's documentary reception as a field capable of revising the historical account. Mathematical exactness and philosophical return remain joined through relation rather than collapsed into one provenance story.
 

@@ -11,7 +11,7 @@ source_relation: "Extracted native derivation; worked construction and argued re
 
 ## #0 — The crossing has a subjectward face
 
-The input is experience whose apparent subject and apparent objects have already been articulated. The [core spine, §IX](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) recovers the slash through both effects. Its native sequence is
+The input is experience whose apparent subject and apparent objects have already been articulated. The [core spine, §IX](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) recovers the slash through both effects. Its native sequence is
 
 `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 → 0/1`.
 
@@ -25,7 +25,7 @@ A worked recognition can begin with “I am this description.” The description
 
 ## #2 — Make the slash visible
 
-`Ø/X` separates and relates the two effects. The medium can now be recognised *as* medium. The description remains meaningful and the world remains discriminated; their relation becomes available to examination. This is the local pivot that [diaphaneity](../../episteme/concepts/C09-Diaphaneity.md) carries: transparency of mediation changes the standing of what mediation presents.
+`Ø/X` separates and relates the two effects. The medium can now be recognised *as* medium. The description remains meaningful and the world remains discriminated; their relation becomes available to examination. This is the local pivot that [diaphaneity](../../../section-rooms/arguments/concepts/C09-Diaphaneity.md) carries: transparency of mediation changes the standing of what mediation presents.
 
 The recognition does not introduce a second observer behind the first. That would repeat the fusion at another level. It makes the activity of taking-as explicit within the present relation.
 
@@ -45,4 +45,4 @@ The further distinction is between quilting point and thread. A particular signi
 
 The result is `0/1`: recognised presence in relation to manifestation. Pure bracketing `0` and manifest `0/1` are distinguished, so the return does not undo the world it has made available. The description can still be used, now as the ground's articulation rather than its exhaustive replacement.
 
-This record returns-to [A10](../../episteme/arguments/A10-Advent-of-Zero.md), [A36](../../episteme/arguments/A36-Advent-of-Integral-Zero.md), and [Movement16](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md). [Laws of Form and Varela](../formal-neighbours/laws-of-form-varela.md) supply neighbouring calculi with their own signatures. Native recognition retains the short definition/quilt return; an inverse process traversal must explicitly carry the full chain and its source-local primes.
+This record returns-to [A10](../../../section-rooms/arguments/A10-Advent-of-Zero.md), [A36](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md), and [Movement16](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md). [Laws of Form and Varela](../formal-neighbours/laws-of-form-varela.md) supply neighbouring calculi with their own signatures. Native recognition retains the short definition/quilt return; an inverse process traversal must explicitly carry the full chain and its source-local primes.

@@ -1,0 +1,41 @@
+{
+  "root": {
+    "id": "jung-1977-mysterium-coniunctionis-cw14",
+    "title": "Jung — Mysterium Coniunctionis, CW 14 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1977-mysterium-coniunctionis-cw14/jung-1977-mysterium-coniunctionis-cw14.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — Mysterium Coniunctionis, CW 14 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-1977-mysterium-coniunctionis-cw14-p001 — Logos and Eros",
+      "jung-1977-mysterium-coniunctionis-cw14-p002 — The fifth from the four"
+    ],
+    "sha256": "56e04ffc8a320733c629894b278e792187cd7c6a3a08f29630c96c7b9a75b05b",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

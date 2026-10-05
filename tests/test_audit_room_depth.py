@@ -37,9 +37,6 @@ class CompactRoomAuditTests(unittest.TestCase):
             for relative in (
                 "submission-package/essay/section-rooms",
                 "submission-package/essay/symbolon/episteme/sources",
-                "submission-package/essay/symbolon/episteme/arguments",
-                "submission-package/essay/symbolon/episteme/concepts",
-                "submission-package/essay/symbolon/episteme/conjugate",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
@@ -55,7 +52,7 @@ class CompactRoomAuditTests(unittest.TestCase):
             shutil.copy2(BUILDER, tools / BUILDER.name)
             shutil.copy2(PROJECT / "tools/source_resolver.py", tools / "source_resolver.py")
 
-            room = copy / "submission-package/essay/section-rooms/02-return-of-zero/ROOM.md"
+            room = copy / "submission-package/essay/section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md"
             room.write_text(room.read_text(encoding="utf-8") + "\n> fabricated room quotation\n", encoding="utf-8")
             result = self.run_audit(copy, ok=False)
             self.assertNotEqual(result.returncode, 0)
@@ -68,9 +65,6 @@ class CompactRoomAuditTests(unittest.TestCase):
             for relative in (
                 "submission-package/essay/section-rooms",
                 "submission-package/essay/symbolon/episteme/sources",
-                "submission-package/essay/symbolon/episteme/arguments",
-                "submission-package/essay/symbolon/episteme/concepts",
-                "submission-package/essay/symbolon/episteme/conjugate",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
@@ -86,7 +80,7 @@ class CompactRoomAuditTests(unittest.TestCase):
             shutil.copy2(BUILDER, tools / BUILDER.name)
             shutil.copy2(PROJECT / "tools/source_resolver.py", tools / "source_resolver.py")
 
-            reading = copy / "submission-package/essay/section-rooms/00-integral-threshold/READING.md"
+            reading = copy / "submission-package/essay/section-rooms/00-integral-threshold/READING-00-integral-threshold.md"
             reading.write_text(
                 reading.read_text(encoding="utf-8").replace("**Exercise:**", "**Exercise removed:**", 1),
                 encoding="utf-8",

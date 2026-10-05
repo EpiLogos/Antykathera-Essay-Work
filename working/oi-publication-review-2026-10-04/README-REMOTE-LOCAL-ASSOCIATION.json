@@ -1,0 +1,77 @@
+{
+  "schema": "oi.publication-review.readme-association/v1",
+  "scope": "Exactly these six README blobs; does not assert local executable or entire checkout equals current remote main",
+  "vocabulary_refs": [
+    "[[P0]]",
+    "[[P5]]",
+    "[[Square B]]"
+  ],
+  "repositories": [
+    {
+      "repo": "EpiLogos/Central",
+      "main": "1dbca8bc456c35c3de4cd368120982c8fab4aafa",
+      "readme_blob": "8bf818d952414f87fa3a02792728832eac915968",
+      "size": 11907,
+      "local_root": "/Users/admin/Central/Work/Central",
+      "local_readme_blob": "8bf818d952414f87fa3a02792728832eac915968",
+      "working_readme_sha256": "d9a57b3c98e7981c0ed975f96cca25e6f31efc130f2c731f78e975d6fc8fecbe",
+      "local_readme_status": "",
+      "exact_remote_readme_match": true
+    },
+    {
+      "repo": "EpiLogos/Actuation",
+      "main": "7a685ad38bc723fd45cb60cc139d47f3d4de76b9",
+      "readme_blob": "413390e13da4df482bbecc4a53662485cee165f0",
+      "size": 22773,
+      "local_root": "/Users/admin/Central/Work/Actuation",
+      "local_readme_blob": "413390e13da4df482bbecc4a53662485cee165f0",
+      "working_readme_sha256": "c5babf960060d9d1b04525381a77339427fe5e6cdae3c7bafbb239dc52498e5c",
+      "local_readme_status": "",
+      "exact_remote_readme_match": true
+    },
+    {
+      "repo": "EpiLogos/ai-kit",
+      "main": "12ccb272f46a655fd95a7201d9468410a96990c7",
+      "readme_blob": "4fe28db0efed2596085e8193f219e48cd06e542e",
+      "size": 16635,
+      "local_root": "/Users/admin/Central/Work/ai-kit",
+      "local_readme_blob": "4fe28db0efed2596085e8193f219e48cd06e542e",
+      "working_readme_sha256": "df103015c156e4b353960e6d1d3cb3c580a9457d5a3580562f97acb1633a0a6c",
+      "local_readme_status": "",
+      "exact_remote_readme_match": true
+    },
+    {
+      "repo": "EpiLogos/Workcell",
+      "main": "c7261e23bc9306a7ce3481405db79dbee26dffe6",
+      "readme_blob": "5cedaccf873d5595278004d97c7644a74d7ce46e",
+      "size": 8795,
+      "local_root": "/Users/admin/Central/Work/Workcell",
+      "local_readme_blob": "5cedaccf873d5595278004d97c7644a74d7ce46e",
+      "working_readme_sha256": "d990a4ca7c55219fc10b2067b674a02cba0775ebed0f2af2d8392428c97df771",
+      "local_readme_status": "",
+      "exact_remote_readme_match": true
+    },
+    {
+      "repo": "EpiLogos/QL-MEF",
+      "main": "f9089b1ab22b9b34a6992c99ba157c6c1b71ae39",
+      "readme_blob": "2894689cc09723bce7837156a191b30ead900fb6",
+      "size": 15013,
+      "local_root": "/Users/admin/Central/Work/Quaternal-Logic",
+      "local_readme_blob": "2894689cc09723bce7837156a191b30ead900fb6",
+      "working_readme_sha256": "590c209d50d35b59ce831c634564ac090191a05b066e033908059f063db91772",
+      "local_readme_status": "",
+      "exact_remote_readme_match": true
+    },
+    {
+      "repo": "EpiLogos/Factory",
+      "main": "24ea8944b40c177362e59ef446b1a87658ac8af3",
+      "readme_blob": "ac3d59853a4f1ff36cb068dbcc0510728060a32b",
+      "size": 16788,
+      "local_root": "/Users/admin/Central/Work/Factory",
+      "local_readme_blob": "ac3d59853a4f1ff36cb068dbcc0510728060a32b",
+      "working_readme_sha256": "f0f890dee5ebb640862a0730e0a6cab459e546add3d6510eac5f5b4942efe84a",
+      "local_readme_status": "",
+      "exact_remote_readme_match": true
+    }
+  ]
+}

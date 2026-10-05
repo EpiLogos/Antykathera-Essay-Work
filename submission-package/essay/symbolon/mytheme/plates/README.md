@@ -15,3 +15,14 @@ Each plate keeps its working file, rendered asset and Markdown record together. 
 Formal diagrams belong in [Matheme diagrams](../../matheme/diagrams/README.md). Evidential visualisations belong in [Episteme figures](../../episteme/figures/README.md).
 
 Return to [Mytheme](../README.md).
+
+
+## Admitted records (2026-09-25 production pass)
+
+Each entry is a record+asset pair; the record declares proposition, invariant, proof boundary, anchored movements, caption and alt text.
+
+- [crossed-zero-stroke-does-not-fill](crossed-zero-stroke-does-not-fill.md) — 
+- [mechanism-gearing-non-closure](mechanism-gearing-non-closure.md) — 
+- [psychoid-field-one-seam](psychoid-field-one-seam.md) — 
+- [salem-sign-migration-field](salem-sign-migration-field.md) — 
+- [two-nets-indra-hephaestus](two-nets-indra-hephaestus.md) — 
