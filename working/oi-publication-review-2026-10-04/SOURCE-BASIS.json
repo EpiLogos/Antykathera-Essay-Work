@@ -1,0 +1,277 @@
+{
+  "schema": "oi.publication-review.source-basis/v1",
+  "observed_at_utc": "2026-10-04T12:58:40.185193+00:00",
+  "standing": "Source identifiers for bounded recon; presence in inventory does not claim complete capability validation",
+  "sources": [
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/README.md",
+      "relative_path": "README.md",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "c800ba1231abd60a48467e7b2d7c57c283413a8ccc2c7c71a74a2e7fbc7f6b2c",
+      "bytes": 23754,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/README.md",
+      "relative_path": "site/README.md",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "d365f7def38bb4c601d52e0a65eb4c23ba95a942ee79d4056136eeda814499de",
+      "bytes": 16655,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/content/public-site.md",
+      "relative_path": "site/content/public-site.md",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5",
+      "bytes": 46686,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/src/shell/content.ts",
+      "relative_path": "site/src/shell/content.ts",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "3c7e74aaddab4db095d274f254578259a80e563cb3d654701762e42cbbdd7838",
+      "bytes": 1571,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/src/shell/PublicApp.tsx",
+      "relative_path": "site/src/shell/PublicApp.tsx",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "07084fe26eda9d3ed36b31363ed4f3190adc6111b6aa9583192a89f45a4bb7cf",
+      "bytes": 1686,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/src/shell/ShellApp.tsx",
+      "relative_path": "site/src/shell/ShellApp.tsx",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "3ba3aeb2312a85a1eae3493cce6cb5825404781bafe1bfe13e442cd8635a5943",
+      "bytes": 1424,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/src/shell/ShellNav.tsx",
+      "relative_path": "site/src/shell/ShellNav.tsx",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "fafe5e486aa6a689bf912694fb06f13f45b25fecf9874972b17fa422da77239d",
+      "bytes": 674,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/vite.public.config.ts",
+      "relative_path": "site/vite.public.config.ts",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "4c6adaec60b82b3cf1f75e53e6ff2ac48171a989f837b4b2a203cb5c12270670",
+      "bytes": 1256,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/package.json",
+      "relative_path": "site/package.json",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "7cb2aaba3c651d955cb25b0824dbbe87979a5fea4d169956f8e7f94ce330e55a",
+      "bytes": 1826,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/build-library.mjs",
+      "relative_path": "site/build-library.mjs",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "fa3a9215e6ea1efeb1ff687ce708a216e622167cdb79d843240b86ed0cf66d1e",
+      "bytes": 7635,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/build-publications.mjs",
+      "relative_path": "site/build-publications.mjs",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "eb17d709a8b71527fa931a16164d646c43cfca34653760a3ad1428184c00ea72",
+      "bytes": 19006,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/prepare-public-assets.mjs",
+      "relative_path": "site/prepare-public-assets.mjs",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "ba396889a28884475239cb9e23d5080316d7fd6c661acc94369f762269f2ed39",
+      "bytes": 2872,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/.github/workflows/site.yml",
+      "relative_path": ".github/workflows/site.yml",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "b115aba822db492a11e087e98687a43c5c35a11427ee93a143122c4c15855ae0",
+      "bytes": 7208,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/site/write-vercel-deploy-config.mjs",
+      "relative_path": "site/write-vercel-deploy-config.mjs",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "b8ef5d6084fd5586d0dd9b23d1332777f0787699a0d5a939c815fb06926f017b",
+      "bytes": 914,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/docs/positions/FOUNDING-POSITIONS.md",
+      "relative_path": "docs/positions/FOUNDING-POSITIONS.md",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "f41ed11c377133a579d1284d2366167298050c955dedbc61fb5971e3d523e490",
+      "bytes": 48971,
+      "git_status": ""
+    },
+    {
+      "repository_local": "O-I",
+      "path": "/Users/admin/Central/Work/O-I/docs/experience/evidence/plural-flow-20260930/README.md",
+      "relative_path": "docs/experience/evidence/plural-flow-20260930/README.md",
+      "local_head": "5c74f16120e688b2969ea848e797d1062485ed77",
+      "sha256": "8088eff2f7d907c6aaba190751d124a630356846840d3a52d57dd023f1eb823f",
+      "bytes": 2712,
+      "git_status": ""
+    },
+    {
+      "repository_local": "Central",
+      "path": "/Users/admin/Central/Work/Central/README.md",
+      "relative_path": "README.md",
+      "local_head": "5e4510a6bd61d6e151c84d755f884b61b693db27",
+      "sha256": "d9a57b3c98e7981c0ed975f96cca25e6f31efc130f2c731f78e975d6fc8fecbe",
+      "bytes": 11907,
+      "git_status": ""
+    },
+    {
+      "repository_local": "Actuation",
+      "path": "/Users/admin/Central/Work/Actuation/README.md",
+      "relative_path": "README.md",
+      "local_head": "69bdc351cb355466b2575c70e22403f9b21fd480",
+      "sha256": "c5babf960060d9d1b04525381a77339427fe5e6cdae3c7bafbb239dc52498e5c",
+      "bytes": 22773,
+      "git_status": ""
+    },
+    {
+      "repository_local": "ai-kit",
+      "path": "/Users/admin/Central/Work/ai-kit/README.md",
+      "relative_path": "README.md",
+      "local_head": "8c6c48f03996807723336b963a5a6014da38ea5b",
+      "sha256": "df103015c156e4b353960e6d1d3cb3c580a9457d5a3580562f97acb1633a0a6c",
+      "bytes": 16635,
+      "git_status": ""
+    },
+    {
+      "repository_local": "Factory",
+      "path": "/Users/admin/Central/Work/Factory/README.md",
+      "relative_path": "README.md",
+      "local_head": "24ea8944b40c177362e59ef446b1a87658ac8af3",
+      "sha256": "f0f890dee5ebb640862a0730e0a6cab459e546add3d6510eac5f5b4942efe84a",
+      "bytes": 16788,
+      "git_status": ""
+    },
+    {
+      "repository_local": "Workcell",
+      "path": "/Users/admin/Central/Work/Workcell/README.md",
+      "relative_path": "README.md",
+      "local_head": "c7261e23bc9306a7ce3481405db79dbee26dffe6",
+      "sha256": "d990a4ca7c55219fc10b2067b674a02cba0775ebed0f2af2d8392428c97df771",
+      "bytes": 8795,
+      "git_status": ""
+    },
+    {
+      "repository_local": "Quaternal-Logic",
+      "path": "/Users/admin/Central/Work/Quaternal-Logic/README.md",
+      "relative_path": "README.md",
+      "local_head": "61344c687be668c9446d73c720866c966e676ccd",
+      "sha256": "590c209d50d35b59ce831c634564ac090191a05b066e033908059f063db91772",
+      "bytes": 15013,
+      "git_status": ""
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/README.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/README.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "a3715e7d585d41c5b98d068f760912e4fdeb3ebba7dc02dfc93ea736a81b5925",
+      "bytes": 3580,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S-World-and-Life.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S-World-and-Life.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "bde0c0dff46fc44cf5f113a3dd89120d8ed1be4f37abd5820831d3cfd4e84c44",
+      "bytes": 17010,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S0-Central.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S0-Central.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "a26b4051180e6d0c41e3431518cfe465431d97a410e52b7ec1243fb230867d25",
+      "bytes": 9421,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "6ce78e08e8d27c13a08199f7cebfb6626b826fbcff1f045fff1820c3da1e07e7",
+      "bytes": 37387,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S2-AIKit.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S2-AIKit.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "d7f350824d89a50c825ea51ac90cd0f0eb0057195224180e154ac376d8cbda40",
+      "bytes": 10427,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S3-Software-Factory.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S3-Software-Factory.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "0eaaabc6a099c3117696749f0a3f112a710b5656c56f1a12cc0e82ccae0a8eae",
+      "bytes": 12419,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S4-Workcell.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S4-Workcell.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "43c2b719a188dd82777948eb93ce1dd06c2ca3a14b8e6ee0758f97f81aa9a1ce",
+      "bytes": 9270,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    },
+    {
+      "repository_local": "essay_recovery_mirror",
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/products/S5-Quaternal-Logic.md",
+      "relative_path": "submission-package/essay/symbolon/episteme/products/S5-Quaternal-Logic.md",
+      "local_head": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+      "sha256": "150cc772e2cb1417380f5637656664022f8207f545cd79549dfbb82176148dbd",
+      "bytes": 9144,
+      "read_scope": "product index, governing S relation, each office introduction and technical/evidence boundary passages"
+    }
+  ]
+}

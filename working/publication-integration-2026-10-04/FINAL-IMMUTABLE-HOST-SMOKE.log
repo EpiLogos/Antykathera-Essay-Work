@@ -1,0 +1,15 @@
+PASS http://127.0.0.1:51402/essay
+PASS http://127.0.0.1:51402/essay/symbolon/matheme/README
+PASS http://127.0.0.1:51402/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold
+PASS http://127.0.0.1:51402/essay/section-rooms/arguments/A01-Subject-God-and-Faithful-Definition
+PASS http://127.0.0.1:51402/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding
+PASS http://127.0.0.1:51402/essay/THE-RETURN-OF-ZERO
+PASS http://127.0.0.1:51402/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism
+PASS http://127.0.0.1:51402/essay/section-rooms
+PASS http://127.0.0.1:51402/essay/not-a-real-page
+PASS http://127.0.0.1:51402/symbolon/matheme/README
+PASS http://127.0.0.1:51402/manuscript
+PASS http://127.0.0.1:51401/O-I/essay
+PASS http://127.0.0.1:51401/O-I/essay/not-a-real-page
+PASS pages non-essay 404 stays out of the essay
+PASS vercel / retains the original hero and developed home

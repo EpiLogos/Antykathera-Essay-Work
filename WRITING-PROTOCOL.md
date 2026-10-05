@@ -39,8 +39,8 @@ The authority order remains:
 1. `the-return-of-zero-central-plan.md` — sole structural authority;
 2. `return-of-zero-orienting-principles.md` — mandatory orientation, subordinate to the plan;
 3. live section, argument, concept, history, and traversal records — granular argument;
-4. canonical source-house `SOURCE.md` files — evidence and source authority;
-5. Frank-authored source-house `NOTES.md` files — readable, never agent-writable;
+4. canonical source-house `<source_id>.md` files — evidence and source authority;
+5. Frank-authored source-house `<source_id>-NOTES.md` files — readable, never agent-writable;
 6. `submission-package/essay/THE-RETURN-OF-ZERO.md` — sovereign manuscript;
 7. this protocol — workflow and publication-shape authority, never argument authority;
 8. generated rooms, indexes, ledgers, databases, and exports — locators or refractions only.
@@ -64,6 +64,7 @@ The repository has one ontological publication body and several sibling support 
 │       ├── README.md
 │       ├── THE-RETURN-OF-ZERO.md      # #5 the sovereign essay
 │       ├── section-rooms/             # #0 the rooms: canonical field via P1 (0) + movements (1)
+│       │   └── arguments/             # the canonical A/C suite (A, conjugate/, concepts/, products/)
 │       └── symbolon/                  # #1–#4 the field
 │           ├── README.md
 │           ├── 0-1.md                 # root relations (census pending)
@@ -83,10 +84,9 @@ The repository has one ontological publication body and several sibling support 
 │               ├── maps/
 │               ├── dossiers/
 │               ├── figures/
-│               ├── concepts/
 │               └── dialogues/
 ├── working/                           # non-publication development surfaces
-├── writing-guidance-tools/
+├── PROSE-STANDARD.md
 ├── tools/
 └── tests/
 ```
@@ -97,7 +97,7 @@ There is **no `symbolon/relations/` directory**. `0/1`, `1/0`, the slash, self-i
 
 The rooms and the essay sit **parallel to the symbolon root, not inside it**. The publication-level sixfold is the 4+2, and its offices are fixed:
 
-- `#0` — the rooms. Each room holds its six movements (`movements/`, the determinate `1`s) with the shared canonical field (36 A + 64 C + 36 A′ + A/C, the implicate `0`) through their authored `P1-CANONICAL-ALIGNMENT.md`. The records retain their single homes in `symbolon/episteme/arguments/`, `concepts/` and `conjugate/`; `section-rooms/arguments/` preserves the 21 historical carriers — a nested `0/1` at the heart of the book.
+- `#0` — the rooms. Each room holds its six movements (`movements/`, the determinate `1`s) with the shared canonical field (36 A + 64 C + 36 A′ + A/C, the implicate `0`) through their authored `P1-CANONICAL-ALIGNMENT.md`. Since Frank's ratified 2026-09-25 migration the records retain their single homes inside `section-rooms/arguments/` — the 36 Arguments at its root, with `conjugate/`, `concepts/` and `products/` beside them; the 21 historical carriers that previously stood there are frozen provenance under `working/legacy/section-rooms-arguments/` — a nested `0/1` at the heart of the book.
 - `#1` — **Symbolon**, the root relation and its inner nature.
 - `#2` — **Matheme**, the exact operations.
 - `#3` — **Mytheme**, the lived images.
@@ -209,7 +209,7 @@ Before model branches are cut, `main` must record:
 - the ratified quilt commit;
 - passing real workspace and publication tests;
 - the canonical packet version or content hashes;
-- the writing-guidance version;
+- the prose-standard version;
 - the publication-schema version;
 - the exact model list;
 - the fixed execution parameters available in the runtime;
@@ -308,107 +308,17 @@ No write wave begins on machinery alone. At the threshold of every write wave �
 
 The gate is contemplative, not administrative. A section drafted without shared presence to its purpose can pass every mechanical check and still miss what it was for. The gate is one exchange at a threshold; it is cheap and it is not waivable. A wave that begins without its minute fails verification (§17).
 
-## 10. Writing laws and rubric load order
+## 10. Prose standard
 
-No single-pass prose ships. The writing-guidance load contract applies to manuscript prose, depth records, captions, plate text, public source commentary, and submission copy.
+`PROSE-STANDARD.md` governs manuscript prose, depth records, captions, plate text, public source commentary and submission copy. It replaced the writing-guidance laws, rubric and calibration files on 2026-10-01; those are retired under `working/legacy/writing-guidance-tools-retired-2026-10-01/` and govern nothing.
 
-### Before drafting
+The standard's first fault is withheld affirmation. Claim strength is reviewed in both directions with the same precision: **a source boundary limits attribution; a proof boundary limits formal consequence; an implementation boundary limits observed technical achievement. None of these licenses weakening a native proposition whose own argument has been made.** `Derived` and `Argued` are positive public warrants. `Offered` belongs to a conjecture, design, research vector or implementation whose success genuinely remains unsettled; `Open` belongs to a question intentionally left unresolved. A reviewer flags overclaim only by naming the exact proposition and the warrant it exceeds, and must equally flag underclaim.
 
-Open:
-
-1. `writing-guidance-tools/references/WRITING-LAWS.md`;
-2. `writing-guidance-tools/references/WRITING-RUBRIC.md`;
-3. the canonical packet, exact sources, outline, and existing essay text.
-
-Keep closed:
-
-- `fault-calibration.md`;
-- `authentic-voice-reference.md`;
-- `writing-style-reference.md`.
-
-The draft begins from claim, warrant, dependency, register, and intended conclusion. Frank's examples do not generate the argument or pre-shape its surface voice.
-
-The seven laws remain active throughout:
-
-1. meaning before wording;
-2. actors in subjects and actions in verbs, with passives retained when their reason is real;
-3. give before use—operations and prerequisites before compressed identity;
-4. make terms answer to stable referents and announce register shifts;
-5. make difficulty earn itself and teach technical or foreign terms before they bear weight;
-6. cut dead work while preserving living complexity, recursion, ambiguity, and length the thought requires;
-7. let truth and achieved voice outrank mechanical compliance.
-
-These laws carry Orwell's opposition to stale figures, needless length, removable words, avoidable passives, and unnecessary jargon, while retaining his final priority of judgment over rule. They carry ASD-STE's controlled meaning, explicit action, gradual presentation, and terminological stability without importing a sentence cap, vocabulary whitelist, passive ban, or technical-manual plainness into philosophical prose.
-
-### During drafting
-
-The rubric is used as a semantic checkpoint, not a sentence generator. At each completed movement, ask:
-
-- G1: is the claim warranted at its stated strength — **neither stronger nor weaker than the canonical argument**?
-- G2: are actor and operation legible?
-- G3: have dependencies been given before compression?
-- G4: does each paragraph perform one governing movement?
-- G5: do terms retain their referents and registers?
-- G6: has each difficulty been taught and earned?
-- G7: does every negation answer a real position or boundary?
-- G8: do opening and transition receive and transform what precedes them?
-- G9: do compression and enumeration arrive only after work?
-- G10: is the prose continuous with the essay's achieved voice, including explainable exceptions?
-
-Checkpointing must not interrupt every sentence or reduce composition to fault avoidance. Complete the argumentative movement, then inspect it.
-
-### Claim-strength symmetry
-
-Review overclaim and underclaim with the same precision. **A source boundary limits attribution; a proof boundary limits formal consequence; an implementation boundary limits observed technical achievement. None of these licenses weakening a native proposition whose own argument has been made.** `Derived` and `Argued` are positive public warrants. `Offered` belongs to a conjecture, design, research vector or implementation whose success genuinely remains unsettled; `Open` belongs to a question intentionally left unresolved.
-
-A reviewer may flag **overclaim** only by naming the exact proposition asserted, the passage asserting it, and the warrant it exceeds. A reviewer must equally flag **underclaim** where caveat, status language, defensive negation or imagined objection makes the prose say less than the canonical argument. "This sounds strong," generic disciplinary caution, an imagined developer preference, or a phantom skeptical reader are not review grounds.
-
-For every weakening ask:
-
-1. What exact stronger or mistaken proposition would the reader otherwise reasonably infer?
-2. What actual passage, source boundary, rival view, venue condition or implementation state creates that risk?
-3. What necessary information would be lost if the qualification were deleted?
-
-If those questions have no concrete answer, remove or rewrite the qualification. Prefer **positive proposition → warrant/derivation → exact necessary boundary → consequence** over a passage organised around anticipated accusation.
-
-### Independent review
-
-Calibration files remain closed. The reviewer first reads the whole relevant section in context, states its governing claim and each paragraph's work, and then audits G1–G10 **in both directions of claim strength**. Faults are recorded without rewriting in this form:
-
-```text
-location · fault code/status · exact phrase · failure · repair direction
-```
-
-The reviewer uses F1–F10 precisely: copula fraud, reflexive antithesis, nouned abstraction, sequence inversion, tour-guide narration, imported erudition, ungenerous opening, machine cadence, listing under compression, and prefabricated language. Claim-strength faults additionally record `OVERCLAIM` or `UNDERCLAIM` and name the exact warrant or canonical proposition involved.
-
-The comparative and negation gate runs in the same independent pass. Every corrective negative or comparison answers four questions: who or what holds the first term; which exact operation separates the terms; why that difference matters here; and what information would be lost if the negative were deleted. Admissible forms are direct positive statement, source-bearing disagreement, operational distinction, and determinate or apophatic negation. Automated searches locate candidates only; they never establish faults or perform replacements.
-
-### Selective calibration
-
-Only after the independent fault ledger exists may the reviewer open:
-
-- the matching section of `fault-calibration.md` for a specific fault code;
-- the smallest relevant part of `authentic-voice-reference.md` for one named feature or edge in Frank's voice;
-- one relevant passage in `writing-style-reference.md` for a defined craft problem.
-
-The entire example corpus is never loaded by default. Calibration may confirm, reject, or refine a fault. It may not supply the essay's claim, create imported erudition, or license imitation of another author's surface manner.
-
-### Revision and release
-
-Repairs occur in this order:
-
-1. false, unsupported, or defensively weakened meaning;
-2. missing warrant and dependency;
-3. unstable term, status, or register;
-4. paragraph movement;
-5. sentence agency and operation;
-6. cadence and diction.
-
-Changed paragraphs are re-audited against all gates. Apparent violations may remain when their semantic or voice-bearing gain can be stated and a compliant version would lose it.
+Review is done by reading the passage in its section against the standard's thirteen faults and its account of the authorial hand. Searches may locate candidates; they never establish a fault or perform a replacement. Repair follows the standard's method: recover the canonical claim, mark the authorial sentences, rebuild what lets them down, recover buried points, then normalise mechanics.
 
 ## 11. Frank's writings, poems, and first-person material
 
-Frank-authored `[F]` blocks, the sovereign manuscript, poems, and Frank-authored `SCRATCH.md` or source-house `NOTES.md` remain sovereign. Agents do not rewrite poems, silently regularise them, complete fragments, or turn their diction into generic house style.
+Frank-authored `[F]` blocks, the sovereign manuscript, poems, and Frank-authored `SCRATCH.md` or source-house `<source_id>-NOTES.md` remain sovereign. Agents do not rewrite poems, silently regularise them, complete fragments, or turn their diction into generic house style.
 
 Each candidate use records:
 
@@ -484,7 +394,7 @@ Each version receives:
 1. a cold linear read of the whole essay;
 2. a station and seam audit;
 3. a source, quotation, attribution, status, **and claim-strength** audit;
-4. a G1–G10 and comparative-negation audit;
+4. a review against `PROSE-STANDARD.md`, in both directions of claim strength;
 5. a register and Symbolon audit;
 6. a depth-link, return-route, minigraph, visual, accessibility, and rights audit;
 7. a report of strengths, failures, unresolved debts, and deliberate exceptions.
@@ -495,7 +405,7 @@ Frank selects the primary version. Integration then occurs on:
 codex/written-edition-final
 ```
 
-That branch begins from the selected complete version. Material from another model branch is imported only as a bounded, named improvement with its own seam, source, rubric, and whole-work reread. Model versions are not blended paragraph by paragraph merely to preserve contributions.
+That branch begins from the selected complete version. Material from another model branch is imported only as a bounded, named improvement with its own seam, source, prose-standard review, and whole-work reread. Model versions are not blended paragraph by paragraph merely to preserve contributions.
 
 ## 16. Public Git and clean-release discipline
 
@@ -504,7 +414,7 @@ The public remote is created only after:
 - GitHub authentication is valid;
 - the repository owner and public name are confirmed;
 - source rights and Frank-private materials are audited;
-- source-house `NOTES.md`, raw copyrighted copies, frozen development provenance, temporary rooms, rejected model drafts, run reports, caches, and machine-local files are excluded;
+- source-house `<source_id>-NOTES.md`, raw copyrighted copies, frozen development provenance, temporary rooms, rejected model drafts, run reports, caches, and machine-local files are excluded;
 - the intended public tree passes link, asset, accessibility, and manifest tests;
 - Git history is known not to expose files excluded from the current tree.
 
@@ -518,7 +428,7 @@ The public repository contains only what a reader or reviewer needs:
 - the submission manifest and genuinely submitted companion or card systems;
 - minimal validation and publication tooling where it is part of the submitted work.
 
-It excludes internal quilts, working ledgers, source-house `NOTES.md`, calibration corpora, legacy archives, raw rights-unclear source files, generated caches, model-comparison reports, and rejected drafts.
+It excludes internal quilts, working ledgers, source-house `<source_id>-NOTES.md`, calibration corpora, legacy archives, raw rights-unclear source files, generated caches, model-comparison reports, and rejected drafts.
 
 ## 17. Verification gates
 
@@ -532,7 +442,7 @@ The work is ready for publication only when all of the following are true:
 - withholdings arrive where earned;
 - no evidence debt has softened or replaced the declared argument;
 - no review caveat, status word, or defensive negation has weakened a canonical claim without naming the exact boundary it protects;
-- the full rubric, claim-strength symmetry, and comparative-negation gates pass after the final revision.
+- the `PROSE-STANDARD.md` review, including claim-strength symmetry, passes after the final revision.
 
 ### Ontology and navigation
 
@@ -549,7 +459,7 @@ The work is ready for publication only when all of the following are true:
 - every quotation has a verified source, locator, and quotation status;
 - every historical attribution stays within what the source establishes;
 - every use of Frank's writing or poetry has exact provenance and permission;
-- no Frank-authored `NOTES.md` has been agent-modified;
+- no Frank-authored `<source_id>-NOTES.md` has been agent-modified;
 - every visual and media asset has its rights, caption, alt text, and non-claim boundary.
 
 ### Repository and release
@@ -567,13 +477,13 @@ As of 2026-08-05:
 
 - the ontology-led `symbolon/` field exists inside `submission-package/essay/`, with the rooms and the sovereign essay beside it as the publication `#0` and `#5`;
 - Symbolon has no `relations/` layer and no separate `INDEX.md`;
-- rooms and the essay sit parallel to the symbolon root as the publication 4+2; concept nodes and dialogue records have declared homes under `episteme/`;
+- rooms and the essay sit parallel to the symbolon root as the publication 4+2; concept nodes and dialogue records have declared homes under `episteme/` (the concept nodes moved to `section-rooms/arguments/concepts/` in the 2026-09-25 ratified migration);
 - Matheme, Mytheme, and Episteme have complete functional domain trees and record contracts;
 - OKF is a formatter/validator over the vault, not a generator; the writing protocol generates the files, and the generated `essay-okf` bundle is a retired, backwards artifact with no authority;
 - this protocol is the live publication and writing workflow;
 - the previous 2026-07-29 published-vault specification is retained only as design provenance;
-- the [current plain-English full flow](2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) gives the corrected argument in reader-facing form;
-- the [parallel harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) is the sole completed pre-propagation ledger;
+- the [current plain-English full flow](submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) gives the corrected argument in reader-facing form;
+- the [parallel harmonised quilt](submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) is the sole completed pre-propagation ledger;
 - the central plan and granular nodes remain canonical and have not yet received the quilt's prospective changes;
 - the GitHub remote is live and `main` is the shared preliminary state;
 - no model-writing branch should be cut from this pre-ratification base.

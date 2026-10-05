@@ -21,7 +21,7 @@ from source_resolver import resolve_source_house
 
 NOTES = resolve_source_house(
     PROJECT, "van-eenwyk-1997-archetypes-strange-attractors"
-).parent / "NOTES.md"
+).parent / "van-eenwyk-1997-archetypes-strange-attractors-NOTES.md"
 
 
 def run_json(command, *, cwd=PROJECT, env=None, input_data=None, check=True):
@@ -203,7 +203,7 @@ class HookBehaviourTests(unittest.TestCase):
             note = root / NOTES.relative_to(PROJECT)
             note.parent.mkdir(parents=True)
             shutil.copy2(NOTES, note)
-            source = note.with_name("SOURCE.md")
+            source = note.with_name("van-eenwyk-1997-archetypes-strange-attractors.md")
             source.write_text("canonical source\n", encoding="utf-8")
             env = self.hook_env(root, Path(tmp) / "state")
             event = {
@@ -268,7 +268,7 @@ class ProjectSkillDiscoveryTests(unittest.TestCase):
         self.assertNotIn("GPT-5.6 Luna", combined)
         self.assertNotIn("GPT-5.6 Terra", combined)
         self.assertNotIn("GPT-5.6 Sol", combined)
-        self.assertIn("NOTES.md", combined)
+        self.assertIn("-NOTES.md", combined)
         self.assertIn("master manuscript", combined.casefold())
         self.assertFalse((PROJECT / "agent-skills/luna-source-quote-swarm").exists())
         self.assertFalse((PROJECT / "agent-skills/sol-section-room-deepening").exists())

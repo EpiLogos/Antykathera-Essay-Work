@@ -13,7 +13,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §1 · #3 — The Crossed Zero
 
 <!-- reader-navigation -->
-Movement 16 of 48 · [This room](../ROOM.md) · [← Previous](15-s1-p2-empty-set-generates-one.md) · [Next →](17-s1-p4-zero-outside-math.md)
+Movement 16 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous](15-s1-p2-empty-set-generates-one.md) · [Next →](17-s1-p4-zero-outside-math.md)
 <!-- /reader-navigation -->
 
 ## Movement thesis
@@ -32,7 +32,7 @@ This is why **uncrossing the zero does not mean erasing the stroke**. Recognitio
 
 ## Formal and symbolic payload
 
-[The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) supplies the native authorial operation. Set theory has just given one exact representation in which zero and successor can be related. The crossed zero now leaves that local proof regime and enters the essay's Symbolon/Matheme field. Its force is **Offered** and must not be back-projected as a theorem of set theory.
+[The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) supplies the native authorial operation. Set theory has just given one exact representation in which zero and successor can be related. The crossed zero now leaves that local proof regime and enters the essay's Symbolon/Matheme field. Its force is **Offered** and must not be back-projected as a theorem of set theory.
 
 The figure carries three distinguishable terms even before all three are explicitly written:
 

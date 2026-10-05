@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "glyph": "WW",
+  "ascii": true,
+  "image": true,
+  "gpu": {
+    "positions": 248000,
+    "finite": true
+  },
+  "geometry": {
+    "restored": true,
+    "glyphDifferent": true,
+    "legacyNormalized": false,
+    "newNormalized": true,
+    "image": {
+      "width": 400,
+      "height": 75.9493637084961,
+      "ratio": 5.266666901058631
+    },
+    "ascii": {
+      "width": 400,
+      "height": 28.571428298950195,
+      "ratio": 14.000000133514405
+    },
+    "roundtripLayers": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  "entities": 1
+}

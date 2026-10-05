@@ -1,0 +1,5 @@
+{
+  "old": "candidates",
+  "retained_at": ".legacy-candidates",
+  "reason": "Preserved merge preimages were entering the canonical identity resolver. The native resolver already excludes .legacy provenance; canonical files and detector code are unchanged."
+}

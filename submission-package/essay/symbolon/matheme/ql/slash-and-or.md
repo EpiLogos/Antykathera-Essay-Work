@@ -11,7 +11,7 @@ source_relation: "Extracted internal derivation"
 
 ## #0 — Specify what the stroke does
 
-The inputs are two distinguishable terms and a field in which either can be selected. `/` carries two native operations: **OR** makes a determinate selection; **AND** retains the relation in which the alternatives belong together. The [slash root](../../the-slash.md) grounds their whole-bearing office. The [core theorem spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), §IV, sources the formal account.
+The inputs are two distinguishable terms and a field in which either can be selected. `/` carries two native operations: **OR** makes a determinate selection; **AND** retains the relation in which the alternatives belong together. The [slash root](../../the-slash.md) grounds their whole-bearing office. The [core theorem spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), §IV, sources the formal account.
 
 ## #1 — Selection requires alternatives
 
@@ -41,4 +41,4 @@ A division bar, a quotient by an equivalence relation, a Sheffer stroke, and the
 
 A result carrying its selection and relation can be reconsidered when its conditions change. The [Dia/Syn folder](../dia-syn/README.md) extends the productive and collapsed accountings of this operation.
 
-This record returns-to [A13](../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A18](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), and [Movement21, Sym-Ballein](../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md). Its formal result is the retained possibility of reading the determination through the relation it has made actual.
+This record returns-to [A13](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A18](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), and [Movement21, Sym-Ballein](../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md). Its formal result is the retained possibility of reading the determination through the relation it has made actual.

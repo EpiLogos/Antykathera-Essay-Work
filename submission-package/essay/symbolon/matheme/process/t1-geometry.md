@@ -17,7 +17,7 @@ source_ids:
 
 ## #0 — Two qualities make four composites
 
-The T1 pass separates the terms of `0/1` so their combinations can be counted and placed. `0` names the singular One, the capacity for negation; `1` names the polyvalent All, affirmation and manifestation. Their qualitative offices remain active while the pass forms two-character strings from them. [The Two Ones](../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md) retain the distinct One/All offices that supply these inputs.
+The T1 pass separates the terms of `0/1` so their combinations can be counted and placed. `0` names the singular One, the capacity for negation; `1` names the polyvalent All, affirmation and manifestation. Their qualitative offices remain active while the pass forms two-character strings from them. [The Two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) retain the distinct One/All offices that supply these inputs.
 
 With the alphabet `{0,1}`, concatenation gives `00`, `01`, `10`, `11`. Keeping both original single-character terms gives the six-member field:
 
@@ -28,7 +28,7 @@ $$
 
 The members remain strings at this stage. Thus `0` and `00` differ even though their base-two numerical readings both give zero. Likewise `1` and `01` have distinct structural offices while sharing a numerical value. QL calls the four composites the AND products and the retained singles the OR products. Those names specify this composition-and-retention operation; evaluating Boolean conjunction on each pair would give a different result.
 
-In the [Binary Explication's T1 section](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), singles and doubles acquire their geometry through this distinction. The singles carry the qualitative poles; the doubles carry four determinate relations between them. [The eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retain this local construction within the complete native field, where parent and return each bear the whole sixfold.
+In the [Binary Explication's T1 section](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md), singles and doubles acquire their geometry through this distinction. The singles carry the qualitative poles; the doubles carry four determinate relations between them. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retain this local construction within the complete native field, where parent and return each bear the whole sixfold.
 
 ## #1 — The count crosses the diameter
 
@@ -45,7 +45,7 @@ The source places the six as follows. Degrees are measured clockwise from North;
 
 The declared placement sends the ordered doubles through `N → E → W → S`. From North to East, the direction changes by 90°. From East to West it changes by 180°: `01 → 10` crosses the diameter. The final West-to-South step returns through 90° in the opposite rotational direction. The sequence therefore keeps the mixed pair's inversion visible instead of traversing four adjacent compass points.
 
-At the mixed pair, negation of affirmation `−+` becomes affirmation of negation `+−`. The numerical count advances by one while the assigned direction reverses across the centre. QL reads this as the phase-flip already operating inside the first pass. The local reversal prepares the later `5→0` turn, where the completed figure faces its condition. [The two logics of two](../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) distinguish the retained polarity from the single arithmetic result obtained by collapsing its terms.
+At the mixed pair, negation of affirmation `−+` becomes affirmation of negation `+−`. The numerical count advances by one while the assigned direction reverses across the centre. QL reads this as the phase-flip already operating inside the first pass. The local reversal prepares the later `5→0` turn, where the completed figure faces its condition. [The two logics of two](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) distinguish the retained polarity from the single arithmetic result obtained by collapsing its terms.
 
 The angle follows from the stated placement. Counting four binary composites supplies four addresses; the QL construction also supplies their arrangement. Keeping both inputs explicit makes the 180° result reproducible.
 
@@ -63,7 +63,7 @@ $$
 [0,1]/(0\sim1)\ \cong\ S^1.
 $$
 
-The gluing preserves a traversable interval while making its end return to its beginning. It changes the relation of the endpoints rather than adding a last point to an open list. In the T1 reading, `0/1` names this generative identification: source and completion can meet without erasing the traversal between them. [Identification through difference](../../episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) keeps the identified endpoints and their traversable difference together; this explicit construction figures that native relation.
+The gluing preserves a traversable interval while making its end return to its beginning. It changes the relation of the endpoints rather than adding a last point to an open list. In the T1 reading, `0/1` names this generative identification: source and completion can meet without erasing the traversal between them. [Identification through difference](../../../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md) keeps the identified endpoints and their traversable difference together; this explicit construction figures that native relation.
 
 The numeral zero here labels an interval endpoint, not the centre of its circular image. The centre is `(0,0)` in the surrounding plane and is not a point of `S¹`. QL's Centre/Circumference pair names the untraversed and traversed aspects of the whole operation. Keeping that native pair distinct from the quotient's endpoint labels lets the two readings meet at the actual operation of return.
 
@@ -79,7 +79,7 @@ This is the enumeration's gap. It is not the total angular distance of the prece
 
 To return from the fourth counted state to the first requires a successor relation closing the four-state cycle. In angular terms, 360° and 0° name the same direction modulo a full turn. The value `3` alone does not state that identification. QL places the recognition of the traversed whole alongside the count that reaches its last explicit value: `11` reads numerically as three, while `1/1` reads proportionally as one whole, or `100%`.
 
-This relation gives #4 its contextual office. The final explicit station can hold both the finite count and the proportion by which the counted field is recognised as complete. The four addresses remain distinct; recognition supplies their relation as one circuit. The [proportional continuation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) carries the counted field into its recognition as one circuit, which [the Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) operates through its distinct horizontal recognition and vertical accounting.
+This relation gives #4 its contextual office. The final explicit station can hold both the finite count and the proportion by which the counted field is recognised as complete. The four addresses remain distinct; recognition supplies their relation as one circuit. The [proportional continuation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) carries the counted field into its recognition as one circuit, which [the Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) operates through its distinct horizontal recognition and vertical accounting.
 
 ## #4 — The square gathers the crossed field
 
@@ -89,7 +89,7 @@ That boundary order differs from the binary traversal `N → E → W → S`. The
 
 The source writes the resulting squared-circle relation as `⃞ + 𐀏`: the cardinal square held within the circle, the four determinate addresses held by the whole's two qualitative aspects. The notation gathers the operations already performed—composition, placement, crossing, enclosure and return. Its `4:2` expresses their differentiated organisation.
 
-Three complementary pairs can now be recovered from the figure: Centre/Circumference `#0/#5`, North/South `#1/#4`, and East/West `#2/#3`. These complementary pairs read the same six through a different grouping; they do not replace the sequential first/second/third-person and recognition reading of `3:3`, which is also `3:1`. The first retains the whole's qualitative poles; the second spans the vertical cardinal axis; the third spans the diametric crossing. [The differential field](../../episteme/arguments/A16-Arche-Topos-as-Differential-Field.md) holds these different placements in one field. Its native contextual operation survives because none of the three relations has to take the place of the others.
+Three complementary pairs can now be recovered from the figure: Centre/Circumference `#0/#5`, North/South `#1/#4`, and East/West `#2/#3`. These complementary pairs read the same six through a different grouping; they do not replace the sequential first/second/third-person and recognition reading of `3:3`, which is also `3:1`. The first retains the whole's qualitative poles; the second spans the vertical cardinal axis; the third spans the diametric crossing. [The differential field](../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) holds these different placements in one field. Its native contextual operation survives because none of the three relations has to take the place of the others.
 
 ## #5→0 — The completed figure acquires direction
 

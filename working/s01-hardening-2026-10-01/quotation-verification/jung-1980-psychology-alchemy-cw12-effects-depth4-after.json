@@ -1,0 +1,41 @@
+{
+  "root": {
+    "id": "jung-1980-psychology-alchemy-cw12",
+    "title": "Jung — Psychology and Alchemy, CW 12 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1980-psychology-alchemy-cw12/jung-1980-psychology-alchemy-cw12.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — Psychology and Alchemy, CW 12 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-1980-psychology-alchemy-cw12-p001 — Religious paradox",
+      "jung-1980-psychology-alchemy-cw12-p002 — Four determinants and vacillation"
+    ],
+    "sha256": "ee689de53c61e1551bcb19dae195e9425614936d603a67891fcd5353a4958fbe",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

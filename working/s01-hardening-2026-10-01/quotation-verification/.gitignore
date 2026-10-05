@@ -1,0 +1,9 @@
+# Private navigation/extraction contexts, never part of the published source apparatus.
+*-selected-contexts.json
+*-targeted-pages-private.json
+*-paragraph-targets-private.json
+last-targets-private.json
+
+# Selected passage-navigation extracts remain local.
+cw11-page80-private.json
+cw11-page81-private.json

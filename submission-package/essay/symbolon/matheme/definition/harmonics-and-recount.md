@@ -22,7 +22,7 @@ The middle `=/≠` yields two appearances when read analytically: identity expos
 
 The count distinguishes **appearances** from **operations**. Counting only the visible poles would lose the relation that composes them; counting the operators as unrelated extra content would lose how the four arise from the two.
 
-The complete [6174 as QL: The Complete Mapping](../../episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/SOURCE.md) is retained as a deep source for this 4+2 field.
+The complete [6174 as QL: The Complete Mapping](../../episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md) is retained as a deep source for this 4+2 field.
 
 ## #2 — Hold the hinge as one
 
@@ -54,10 +54,10 @@ Each harmonic is a complete pairing because neither member performs the operatio
 
 The three harmonics give a local **3:3** reading: three terms paired with three operative/contextual marks. Holding their complete articulation in the brackets returns the count to the slash. This is the local `5→0` performed by the recount.
 
-The personed reading gives `3:3` its primary subject-account. First-, second- and third-person perspectives are followed by voiding their isolation, recognising their unity and returning that unity to `0/1`. These latter three are one recognition in three operations; hence `3:1`. The graphic recount and the personed count meet through the operation of holding differentiated terms in one act. [Process](../process/README.md) carries their traversal, and the [core theorem](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) retains the specific derivation of each count.
+The personed reading gives `3:3` its primary subject-account. First-, second- and third-person perspectives are followed by voiding their isolation, recognising their unity and returning that unity to `0/1`. These latter three are one recognition in three operations; hence `3:1`. The graphic recount and the personed count meet through the operation of holding differentiated terms in one act. [Process](../process/README.md) carries their traversal, and the [core theorem](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) retains the specific derivation of each count.
 
 ## #5→0 — The counted relation can be lived again
 
 The result is the same relation carrying an explicit account of its internal composition. The definitional circuit is `0/1 = 4+2 = 5→0 = 0/1`. The [six determinations](six-determinations.md) extend its qualitative body from conscious circumstance to differential horizon.
 
-In the [primordial Symbolon](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), the counted relation becomes a qualitative field. In [zero's change of role](../../../section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md), the end of the account becomes the threshold through which it can begin again. Counting has made the relation transmissible; the return lets its account enter another act of determination.
+In the [primordial Symbolon](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), the counted relation becomes a qualitative field. In [zero's change of role](../../../section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md), the end of the account becomes the threshold through which it can begin again. Counting has made the relation transmissible; the return lets its account enter another act of determination.

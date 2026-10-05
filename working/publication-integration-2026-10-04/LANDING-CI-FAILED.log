@@ -1,0 +1,469 @@
+landing	Run the complete native landing tier at the exact candidate	﻿2026-10-04T15:10:35.8932153Z ##[group]Run node gates/run.mjs landing --keep-going --json
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8932532Z [36;1mnode gates/run.mjs landing --keep-going --json[0m
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8989077Z shell: /usr/bin/bash -e {0}
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8989290Z env:
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8989528Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.14/x64
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8990056Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.14/x64/lib/pkgconfig
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8990405Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.14/x64
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8990715Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.14/x64
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8991017Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.14/x64
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8991326Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.14/x64/lib
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8991599Z   CARGO_HOME: /home/runner/.cargo
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8991813Z   CARGO_INCREMENTAL: 0
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8991998Z   CARGO_TERM_COLOR: always
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8992192Z   CACHE_ON_FAILURE: false
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:35.8992427Z ##[endgroup]
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:10:36.7844894Z gates: landing tier @ 22e76f8e4e7c
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:11:15.6806822Z ▶ guard-source-markers-and-syntax … ok (8.7s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:11:16.0297509Z ▶ rust-format-cli … ok (0.3s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:11:16.6790951Z ▶ rust-format-kernel … ok (0.6s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:11:47.9442554Z ▶ cli-hosted-contracts … ok (31.3s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:11:48.8418515Z ▶ suite-data-collation … ok (0.9s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:12:41.8389065Z ▶ kernel-test … ok (53.0s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:12:53.2771521Z ▶ kernel-clippy … ok (11.4s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:13:12.0091329Z ▶ cradle-tsc … ok (17.7s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:13:28.8952823Z ▶ cradle-node-suite … ok (16.3s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:13:32.9375096Z ▶ cradle-conformance … ok (3.4s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:13:33.6263191Z ▶ cradle-shell-presentation … ok (0.1s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:14:15.5720846Z ▶ native-formation-regressions … ok (41.4s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:14:45.4538372Z ▶ cradle-appearance … ok (29.3s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:15:05.8738431Z ▶ browser-search-overlay … ok (19.8s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:15:30.9408912Z ▶ browser-canvas-editor … ok (24.5s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:16:08.0774521Z ▶ browser-techne-lens-studio … ok (36.5s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:16:55.5307340Z ▶ cradle-production-build … ok (46.9s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:06.2159881Z ▶ site-contracts … ok (0.6s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3051721Z ▶ site-essay-builders … FAIL (0.3s)
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3055025Z   log: gates/receipts/logs/2026-10-04T151035/site-essay-builders.log
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3059528Z {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3059814Z  "schema": "oi.gate-run/v1",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3060197Z  "head": "22e76f8e4e7ce3be40865db9ad2544b080d6a4d7",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3060547Z  "dirty": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3060792Z  "tier": "landing",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3061054Z  "scope": "full",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3061379Z  "selected": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3061688Z   "guard-source-markers-and-syntax",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3062054Z   "rust-format-cli",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3062382Z   "rust-format-kernel",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3062700Z   "cli-hosted-contracts",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3063120Z   "suite-data-collation",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3063395Z   "kernel-test",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3063613Z   "kernel-clippy",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3063846Z   "cradle-tsc",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3064086Z   "cradle-node-suite",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3064342Z   "cradle-conformance",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3064636Z   "cradle-shell-presentation",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3065339Z   "native-formation-regressions",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3065648Z   "cradle-appearance",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3065918Z   "browser-search-overlay",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3066207Z   "browser-canvas-editor",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3066508Z   "browser-techne-lens-studio",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3066816Z   "cradle-production-build",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3067083Z   "site-contracts",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3067317Z   "site-essay-builders"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3067562Z  ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3067828Z  "started": "2026-10-04T15:10:35.985Z",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3068208Z  "finished": "2026-10-04T15:17:07.305Z",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3068430Z  "pass": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3068607Z  "failed_count": 1,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3068995Z  "flaked_count": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3069170Z  "gates": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3069389Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3069600Z    "name": "guard-source-markers-and-syntax",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3069836Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3070006Z    "duration_ms": 8746,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3070188Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3070362Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3070521Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3070692Z      "duration_ms": 8746
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3070878Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3071024Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3071177Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3071351Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3071545Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3071750Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3072195Z     "step": "Guard executable source — no unresolved markers, runner entry points parse"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3072532Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3072687Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3073231Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3073452Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3073704Z    "name": "rust-format-cli",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3073989Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3074157Z    "duration_ms": 349,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3074341Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3074504Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3074661Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3074831Z      "duration_ms": 349
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3075020Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3075166Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3075320Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3075493Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3075673Z     "workflow": "verify.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3075875Z     "job": "rust",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3076041Z     "step": "Format"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3076208Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3076356Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3076514Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3076661Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3076842Z    "name": "rust-format-kernel",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3077048Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3077216Z    "duration_ms": 649,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3077398Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3077559Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3077756Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3077927Z      "duration_ms": 649
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3078104Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3078249Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3078417Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3078601Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3078777Z     "workflow": "verify.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3078977Z     "job": "rust",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3079222Z     "step": "Format (same command family, kernel workspace)"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3079481Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3079630Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3079789Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3079935Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3080119Z    "name": "cli-hosted-contracts",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3080328Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3080492Z    "duration_ms": 31265,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3080680Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3080839Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3080989Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3081157Z      "duration_ms": 31265
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3081337Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3081483Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3081640Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3081811Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3082241Z     "workflow": "cli test targets (hosted_contracts reproduces the committed contribution registries from admitted sources)"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3082679Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3082823Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3083330Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3083475Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3083658Z    "name": "suite-data-collation",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3083867Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3084029Z    "duration_ms": 897,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3084211Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3084370Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3084526Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3084693Z      "duration_ms": 897
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3084869Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3085039Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3085201Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3085381Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3085560Z     "workflow": "verify.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3085765Z     "job": "suite-data",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3086168Z     "step": "Product capability collation matches carried sources"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3086440Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3086588Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3086747Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3086892Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3087048Z    "name": "kernel-test",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3087237Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3087408Z    "duration_ms": 52997,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3087591Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3087749Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3087901Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3088067Z      "duration_ms": 52997
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3088246Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3088389Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3088536Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3088709Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3088915Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3089117Z     "job": "kernel",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3089322Z     "step": "Test and lint cradle kernel"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3089539Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3089687Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3089837Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3089991Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3090149Z    "name": "kernel-clippy",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3090342Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3090504Z    "duration_ms": 11438,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3090687Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3090926Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3091136Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3091384Z      "duration_ms": 11438
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3091642Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3091859Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3092071Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3092328Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3092624Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3093051Z     "job": "kernel",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3093430Z     "step": "Test and lint cradle kernel (clippy -D warnings)"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3093824Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3094043Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3094280Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3094513Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3094735Z    "name": "cradle-tsc",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3094987Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3095224Z    "duration_ms": 17726,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3095445Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3095609Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3095764Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3095938Z      "duration_ms": 17726
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3096121Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3096267Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3096418Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3096601Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3096820Z     "workflow": "canvas-editor-context.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3097053Z     "job": "canvas",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3097270Z     "step": "Type and range/lifecycle contracts"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3097506Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3097660Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3097818Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3097964Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3098151Z    "name": "cradle-node-suite",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3098361Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3098536Z    "duration_ms": 16298,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3098728Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3098893Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3099046Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3099216Z      "duration_ms": 16298
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3099400Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3099549Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3099700Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3099878Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3100090Z     "workflow": "desktop-shell-recovery.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3100339Z     "job": "wider-suite",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3100716Z     "step": "Wider suite (tests/*.test.mjs)"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3100933Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3101081Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3101235Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3101384Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3101560Z    "name": "cradle-conformance",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3101762Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3101924Z    "duration_ms": 3442,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3102106Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3102264Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3102413Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3102580Z      "duration_ms": 3442
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3102754Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3103097Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3103250Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3103425Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3103732Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3103934Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3104213Z     "step": "Enforce desktop architecture conformance and bounded debt"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3104498Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3104647Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3104807Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3104955Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3105140Z    "name": "cradle-shell-presentation",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3105356Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3105518Z    "duration_ms": 89,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3105698Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3105857Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106003Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106171Z      "duration_ms": 89
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106340Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106487Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106639Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106810Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3106999Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3107196Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3107499Z     "step": "Enforce the shell presentation rules and deliberate source disclosure"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3107815Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3107960Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3108113Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3108261Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3108450Z    "name": "native-formation-regressions",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3108677Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3108839Z    "duration_ms": 41358,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109022Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109180Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109325Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109491Z      "duration_ms": 41358
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109667Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109813Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3109962Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3110133Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3110316Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3110511Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3110831Z     "step": "Prove native formation authoring and bounded particle candidate retention"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3111162Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3111317Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3111475Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3111633Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3111808Z    "name": "cradle-appearance",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3112007Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3112171Z    "duration_ms": 29274,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3112353Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3112512Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3112664Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3113002Z      "duration_ms": 29274
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3113213Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3113366Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3113525Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3113705Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3113900Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3114097Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3114394Z     "step": "Prove desktop appearance, source syntax and native prepaint policy"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3114691Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3114843Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3114994Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3115141Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3115319Z    "name": "browser-search-overlay",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3115540Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3115699Z    "duration_ms": 19830,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3115879Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3116039Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3116189Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3116356Z      "duration_ms": 19830
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3116527Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3116797Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3116948Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3117122Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3117308Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3117501Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3117764Z     "step": "Prove search component and literal query transport (D)"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3118029Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3118181Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3118330Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3118478Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3118654Z    "name": "browser-canvas-editor",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3118865Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3119025Z    "duration_ms": 24472,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3119201Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3119478Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3119625Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3119796Z      "duration_ms": 24472
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3119969Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3120113Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3120262Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3120429Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3120641Z     "workflow": "canvas-editor-context.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3120869Z     "job": "canvas",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3121117Z     "step": "Production editor selection and send interaction"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3121369Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3121521Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3121671Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3121815Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3122002Z    "name": "browser-techne-lens-studio",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3122219Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3122380Z    "duration_ms": 36538,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3122555Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3122717Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3123023Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3123202Z      "duration_ms": 36538
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3123386Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3123547Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3123703Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3123877Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3124103Z     "workflow": "techne-constructive-field.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3124351Z     "job": "source-runtime",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3124715Z     "step": "Prove entrance and actual relation drawing with disconnected-binding negatives"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3125048Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3125205Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3125361Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3125510Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3125692Z    "name": "cradle-production-build",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3125911Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3126076Z    "duration_ms": 46863,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3126255Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3126421Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3126569Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3126744Z      "duration_ms": 46863
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3126925Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3127077Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3127229Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3127409Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3127610Z     "workflow": "desktop.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3127810Z     "job": "cradle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3128060Z     "step": "Build cradle web bundle from the locked graph"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3128310Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3128465Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3128627Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3128777Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3128939Z    "name": "site-contracts",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3129131Z    "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3129300Z    "duration_ms": 603,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3129478Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3129642Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3129794Z      "exit": 0,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3129968Z      "duration_ms": 603
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3130144Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3130289Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3130447Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3130615Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3130800Z     "workflow": "site.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3130989Z     "job": "build",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3131290Z     "step": "Verify shared-field contracts, public content and browser adapters"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3131594Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3131748Z    "ok": true
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3131901Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3132051Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3132243Z    "name": "site-essay-builders",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3132455Z    "exit": 1,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3132749Z    "duration_ms": 309,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3133087Z    "attempts": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3133333Z     {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3133485Z      "exit": 1,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3133661Z      "duration_ms": 309
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3133834Z     }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3133981Z    ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3134137Z    "flaked": false,
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3134307Z    "provenance": {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3134488Z     "workflow": "site.yml",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3134677Z     "job": "build",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3134944Z     "step": "Verify the essay publication builders and host contract"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3135214Z    },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3135368Z    "ok": false
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3135528Z   }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3135788Z  ],
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3135947Z  "deferred_to_ci": [
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3136122Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3136315Z    "name": "ci-native-full-regression",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3136693Z    "why": "requires pinned owner checkouts and minutes-scale rust builds across products"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3137031Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3137178Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3137357Z    "name": "ci-embedded-builds",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3137654Z    "why": "locked embedded application and C++ material owner builds"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3137919Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3138070Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3138268Z    "name": "ci-cross-product-owner-contracts",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3138581Z    "why": "checks out exact owner repos at pinned revisions"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3138826Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3138977Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3139171Z    "name": "ci-continuous-work-campaigns",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3139513Z    "why": "builds five owner binaries and runs fail-closed campaign machinery"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3139814Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3139968Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3140152Z    "name": "ci-spacetimedb-live",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3140505Z    "why": "installs SpaceTimeDB CLI, publishes live databases, needs network services"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3140820Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3140975Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3141171Z    "name": "ci-techne-native-owners",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3141512Z    "why": "restores exact native owner binaries and runs against actual storage"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3141810Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3141957Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3142141Z    "name": "ci-development-field",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3142420Z    "why": "isolated owner checkouts at exact cut revisions"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3142669Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3142993Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3143197Z    "name": "ci-adoption-lifecycle",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3143494Z    "why": "multi-repo evidence packets, swiftc media checker"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3143745Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3143898Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3144100Z    "name": "ci-desktop-bundle-and-release",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3144429Z    "why": "multi-target release builds, Tauri app bundle packaging"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3144695Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3144846Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3145041Z    "name": "ci-site-public-deployment-gate",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3146459Z    "why": "BLOCKED 2026-09-27: the curated Return-of-Zero envelope's essay source_bindings drifted from its declared corpus revision — the delivery lead must re-reconcile the owner-approved envelope before this gate can pass. Named in campaign-evidence/2026-09-27-full-convergence/CONVERGENCE-RECORD.md; the admission gate was deliberately not weakened."
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3147530Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3147685Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3147897Z    "name": "ci-spacetimedb-explore-surface-unit",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3148419Z    "why": "needs the generated spacetimedb client bindings environment; excluded from the local site-contracts list for that reason"
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3162714Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3163115Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3163425Z    "name": "ci-readable-native-presentation",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3164363Z    "why": "Requires the current native walk bridge and provisioned Chromium/WebKit; executes node tests/presentation-readable-native.mjs with OI_KERNEL_BRIDGE and retains accessibility/browser evidence."
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3165174Z   },
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3165331Z   {
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3165533Z    "name": "ci-readable-native-owners",
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3166241Z    "why": "Builds pinned AIKit/Central and the current O-I native walk bridge, then exercises real native knowledge, Library, context and complete verso account readings against production components."
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3166825Z   }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3166974Z  ]
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3167123Z }
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3167207Z 
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3167510Z FAIL — 18/19 gates; receipt: gates/receipts/latest-landing.json
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3169030Z deferred to CI: ci-native-full-regression, ci-embedded-builds, ci-cross-product-owner-contracts, ci-continuous-work-campaigns, ci-spacetimedb-live, ci-techne-native-owners, ci-development-field, ci-adoption-lifecycle, ci-desktop-bundle-and-release, ci-site-public-deployment-gate, ci-spacetimedb-explore-surface-unit, ci-readable-native-presentation, ci-readable-native-owners
+landing	Run the complete native landing tier at the exact candidate	2026-10-04T15:17:07.3179188Z ##[error]Process completed with exit code 1.

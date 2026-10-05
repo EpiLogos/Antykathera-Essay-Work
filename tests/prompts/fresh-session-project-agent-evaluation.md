@@ -2,7 +2,7 @@
 
 Run this prompt in a brand-new Codex session whose working directory is the `Antykathera-Essay-Work` Git root.
 
-Do not edit the canonical corpus, generated projections, project instructions, skills, hooks, active ideas, or any `NOTES.md`. Temporary files under the system temporary directory are allowed. Do not read the harness specification until the final audit phase; this is a behavioural test of what the fresh session actually discovers.
+Do not edit the canonical corpus, generated projections, project instructions, skills, hooks, active ideas, or any `<source_id>-NOTES.md`. Temporary files under the system temporary directory are allowed. Do not read the harness specification until the final audit phase; this is a behavioural test of what the fresh session actually discovers.
 
 Work through the following journey and finish with one compact evaluation report.
 
@@ -36,7 +36,7 @@ Use the appropriate project-local source capability to retrieve `colebrooke-1817
 - source relation and use boundary;
 - canonical path.
 
-Then open the real Van Eenwyk 1997 source house and its sibling `NOTES.md`. Explain what authority each file has. Record the note file's SHA-256 before and after reading it and confirm whether it changed. Never write to the note.
+Then open the real Van Eenwyk 1997 source house and its sibling `van-eenwyk-1997-archetypes-strange-attractors-NOTES.md`. Explain what authority each file has. Record the note file's SHA-256 before and after reading it and confirm whether it changed. Never write to the note.
 
 ## 4. Canonical writing journey
 
@@ -72,7 +72,7 @@ Report:
 - what the session-start hook added that was not obtained from later manual reads;
 - whether open-ended discussion remained file-free;
 - whether exact quotation provenance remained joined to the quotation;
-- whether `NOTES.md` remained byte-identical;
+- whether the note file remained byte-identical;
 - whether the writing paragraph preserved the canonical claim without synthetic caveats;
 - hook-on versus hook-off results;
 - deterministic check results;

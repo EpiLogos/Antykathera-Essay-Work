@@ -13,7 +13,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, sta
 # §0/1 · #5→0 — The Return to Zero
 
 <!-- reader-navigation -->
-Movement 06 of 48 · [This room](../ROOM.md) · [← Previous](05-s01-p4-gebser-diaphaneity.md) · [Next →](../../01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md)
+Movement 06 of 48 · [This room](../ROOM-00-integral-threshold.md) · [← Previous](05-s01-p4-gebser-diaphaneity.md) · [Next →](../../01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md)
 <!-- /reader-navigation -->
 
 ## Claim

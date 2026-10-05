@@ -1,0 +1,30 @@
+PASS http://127.0.0.1:52242/essay
+PASS http://127.0.0.1:52242/essay/symbolon/matheme/README
+PASS http://127.0.0.1:52242/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold
+PASS http://127.0.0.1:52242/essay/section-rooms/arguments/A01-Subject-God-and-Faithful-Definition
+PASS http://127.0.0.1:52242/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding
+PASS http://127.0.0.1:52242/essay/THE-RETURN-OF-ZERO
+PASS http://127.0.0.1:52242/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism
+PASS http://127.0.0.1:52242/essay/section-rooms
+PASS http://127.0.0.1:52242/essay/not-a-real-page
+PASS http://127.0.0.1:52242/symbolon/matheme/README
+PASS http://127.0.0.1:52242/manuscript
+PASS http://127.0.0.1:52239/O-I/essay
+PASS http://127.0.0.1:52239/O-I/essay/not-a-real-page
+PASS pages non-essay 404 stays out of the essay
+FAIL restored-home Locator expected to have count '1'
+Actual value: 0 
+Call log:
+  - LocatorAssertions.to_have_count with timeout 5000ms
+  -   - waiting for get_by_role("heading", name="A world to act within. A way to understand it.", exact=True)
+  -     8 × locator resolved to 0 elements
+  -       - unexpected value "0"
+
+restored-home: Locator expected to have count '1'
+Actual value: 0 
+Call log:
+  - LocatorAssertions.to_have_count with timeout 5000ms
+  -   - waiting for get_by_role("heading", name="A world to act within. A way to understand it.", exact=True)
+  -     8 × locator resolved to 0 elements
+  -       - unexpected value "0"
+

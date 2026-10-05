@@ -3,9 +3,9 @@ title: "Intents — Matheme — exact operations"
 source_id: navigation-matheme
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.1"
+generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
+source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -19,7 +19,7 @@ Position #2. Entrance: [Matheme](../../../../matheme/README.md). This class is l
 - [computation](matheme--computation.md) — 6 pages
 - [definition](matheme--definition.md) — 8 pages
 - [dia-syn](matheme--dia-syn.md) — 4 pages
-- [diagrams](matheme--diagrams.md) — 1 pages
+- [diagrams](matheme--diagrams.md) — 8 pages
 - [formal-neighbours](matheme--formal-neighbours.md) — 18 pages
 - [harmonics](matheme--harmonics.md) — 9 pages
 - [mono-poly](matheme--mono-poly.md) — 4 pages

@@ -20,7 +20,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / "working/p2-enrichment/receipts/T20-T21-current-census-acceptance.json"
 OUTPUT = ROOT / "working/pre-manuscript-refinement-2026-09-10/T25-current-census-acceptance.json"
-PRODUCT_ROOT = ROOT / "submission-package/essay/symbolon/episteme/products"
+PRODUCT_ROOT = ROOT / "submission-package/essay/section-rooms/arguments/products"
 PRODUCTS = (
     ("S", "product-field", "S-World-and-Life.md"),
     ("S0", "product", "S0-Central.md"),
@@ -30,6 +30,32 @@ PRODUCTS = (
     ("S4", "product", "S4-Workcell.md"),
     ("S5", "product", "S5-Quaternal-Logic.md"),
 )
+
+# Homes ratified 2026-09-25 (central-plan amendment): the canonical A/C suite
+# migrated from symbolon/episteme/ into section-rooms/arguments/. Identities and
+# bytes are unchanged; only the canonical_home paths translate.
+HOME_TRANSLATION = (
+    ("submission-package/essay/symbolon/episteme/concepts/", "submission-package/essay/section-rooms/arguments/concepts/"),
+    ("submission-package/essay/symbolon/episteme/conjugate/", "submission-package/essay/section-rooms/arguments/conjugate/"),
+    ("submission-package/essay/symbolon/episteme/arguments/", "submission-package/essay/section-rooms/arguments/"),
+    # The two stray lens records retired 2026-09-25; their admitted readings
+    # live in their source houses (ticket 029), so the admitted home follows.
+    ("submission-package/essay/symbolon/episteme/lenses/baudrillard.md",
+     "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/baudrillard-1976-symbolic-exchange-death.md"),
+    ("submission-package/essay/symbolon/episteme/lenses/foucault.md",
+     "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/foucault-1976-history-sexuality-v1.md"),
+)
+
+
+def translate_home(home: str) -> str:
+    for old, new in HOME_TRANSLATION:
+        if home.startswith(old):
+            home = new + home[len(old):]
+            break
+    p = Path(home)
+    if home.startswith("submission-package/essay/symbolon/episteme/") and p.name in ("HISTORY.md", "DEVELOPMENT.md", "WHOLE-FIELD.md", "HISTORICAL-BRANCHES.md"):
+        home = str(p.with_name(p.stem + "-" + p.parent.name + ".md"))
+    return home
 
 
 def digest(path: Path) -> str:
@@ -51,7 +77,7 @@ def frontmatter(path: Path) -> dict:
 
 def build() -> dict:
     base = json.loads(BASE.read_text(encoding="utf-8"))
-    records = list(base["records"])
+    records = [{**row, "canonical_home": translate_home(row["canonical_home"])} for row in base["records"]]
     base_ids = {row["record_id"] for row in records}
     if len(records) != 281 or len(base_ids) != 281:
         raise ValueError("historical baseline is not the expected unique 281-record receipt")
@@ -100,7 +126,7 @@ def build() -> dict:
     return {
         "standing": (
             "T25 refinement admission: preserves the September-9 281-record accepted baseline "
-            "and admits exactly S/S0–S5 as seven new Episteme records. Receipt refreshed "
+            "and admits exactly S/S0–S5 as seven new Episteme records. Canonical homes follow the ratified 2026-09-25 migration to section-rooms/arguments. Receipt refreshed "
             "2026-09-20: every record's sha256 is taken from the actual bytes of its canonical "
             "home at build/check time. Semantic refinement and T26 authorial ratification "
             "remain distinct from this identity/home admission."

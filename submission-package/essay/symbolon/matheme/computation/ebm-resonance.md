@@ -11,9 +11,9 @@ source_relation: "Exact technical construction; argued native relation and offer
 
 ## #0 — Define the energy landscape
 
-An energy-based model assigns a scalar `E_θ(m,y)` to configurations, with observed context or representation `m`, candidate output `y` and parameters `θ`. Inference seeks `argmin_y E_θ(m,y)` over a declared feasible domain. [LeCun and colleagues’ technical construction](../../episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) distinguishes this compatibility energy, minimised in inference, from the loss through which its parameters are learned.
+An energy-based model assigns a scalar `E_θ(m,y)` to configurations, with observed context or representation `m`, candidate output `y` and parameters `θ`. Inference seeks `argmin_y E_θ(m,y)` over a declared feasible domain. [LeCun and colleagues’ technical construction](../../episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/lecun-et-al-2006-energy-based-learning.md) distinguishes this compatibility energy, minimised in inference, from the loss through which its parameters are learned.
 
-The [additive quilt's encounter proposal](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) carries a resistant result back to the representation or evaluator which made it intelligible. When the result exposes a failure there, the next inference must inherit the warranted revision. The [native process](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) joins achieved determination to the means through which it is returned; the proposed experiment asks how that relation can operate through an energy-based model.
+The [additive quilt's encounter proposal](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) carries a resistant result back to the representation or evaluator which made it intelligible. When the result exposes a failure there, the next inference must inherit the warranted revision. The [native process](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) joins achieved determination to the means through which it is returned; the proposed experiment asks how that relation can operate through an energy-based model.
 
 ## #1 — Work inference on a fixed landscape
 

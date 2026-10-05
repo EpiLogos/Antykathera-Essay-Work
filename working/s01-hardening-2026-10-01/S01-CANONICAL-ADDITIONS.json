@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-04",
+  "standing": "new native source/visual objects completed; no prose acceptance claimed",
+  "canonical_changes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/bengio/bengio-2003-neural-probabilistic-language-model/bengio-2003-neural-probabilistic-language-model.md",
+      "sha256": "89bc80528fe0bf4f456263a124f3b9e9185e9780e63c722c8558453c2515c72e",
+      "id": "bengio-2003-neural-probabilistic-language-model",
+      "standing": "citation-ready"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/bai/bai-2022-constitutional-ai/bai-2022-constitutional-ai.md",
+      "sha256": "78aae0b24e140c4357bd40df1d316405dbba29a03c3439d30ec3896d9ea25fc3",
+      "id": "bai-2022-constitutional-ai",
+      "standing": "citation-ready"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/chalmers/chalmers-1995-facing-up-consciousness/chalmers-1995-facing-up-consciousness.md",
+      "sha256": "8eac3486a9fc1f6eb2a8da6a2d120ff8e32a0922923727ce302e40e2d2db116b",
+      "id": "chalmers-1995-facing-up-consciousness",
+      "standing": "citation-ready"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/plato/plato-jowett-phaedrus/plato-jowett-phaedrus.md",
+      "sha256": "8d2fa1e5b1d9259c93747a4acf735667ce232f291702d177785bb7746782220d",
+      "id": "plato-jowett-phaedrus",
+      "standing": "citation-ready"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding.md",
+      "sha256": "1cd39aa151c3e3aa99d5e7f8c17ae04a10069e66f9e35770bfa2c711eb5af1ff",
+      "id": "diagram-torus-square-quotient-and-winding",
+      "standing": "construction verified; §0/1 placement proposed"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding.svg",
+      "sha256": "d0c2dbfa664208b535e50930218d929a05344af98fddc70f74255c6178b1ab00"
+    }
+  ],
+  "existing_canonical_files_modified": [],
+  "source_status": "four current paraphrases located in full-text source objects; no new quotations admitted",
+  "topology_locators_completed": [
+    "Hatcher p. 5: 4g sides, 2g loops",
+    "Hatcher p. 34, Example 1.13: two winding counts",
+    "Hatcher p. 77, Example 1.46: plane/lattice translation cover"
+  ],
+  "runtime_note": "stained-glass Expression has a local publication object and declared locator; successful receiving public route not verified"
+}

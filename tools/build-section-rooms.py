@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build eight compact Return of Zero section rooms from the live essay graph.
 
-The builder owns ROOM.md and its hidden provenance receipt.  It never writes
-the master manuscript, READING.md, SCRATCH.md, or VISUALS.md.  Rooms are
+The builder owns each room's `ROOM-<room-slug>.md` page and its hidden
+provenance receipt.  It never writes the master manuscript,
+`READING-<room-slug>.md`, `SCRATCH.md`, or `VISUALS.md`.  Rooms are
 waypoints into canonical nodes and source houses, not parallel essays.
 """
 
@@ -21,8 +22,19 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from source_resolver import build_source_index
 
 
-BUILDER_VERSION = "2.2.0"
-ROOM_FILE = "ROOM.md"
+BUILDER_VERSION = "2.3.0"
+
+
+def room_file(slug: str) -> str:
+    """The room page carries the type as prefix, qualified by the room slug."""
+    return f"ROOM-{slug}.md"
+
+
+def reading_file(slug: str) -> str:
+    """The protected learning route is named the same way, beside its room page."""
+    return f"READING-{slug}.md"
+
+
 MANUSCRIPT = "submission-package/essay/THE-RETURN-OF-ZERO.md"
 ROOM_ROOT = "submission-package/essay/section-rooms"
 STATIONS = ("§0/1", "§0", "§1", "§2", "§3", "§4", "§5", "§5→0")
@@ -36,15 +48,18 @@ class RoomSpec:
     manuscript_anchor: str
 
 
+# manuscript_anchor is the section anchor id the sovereign manuscript actually
+# declares (`<a id="section-s01"></a>` …); the builder mirrors the manuscript,
+# never the reverse.
 ROOMS = (
-    RoomSpec("§0/1", "00-integral-threshold", "The Integral Threshold — The Subject at the Formal Limit", "section-s01-integral-threshold"),
-    RoomSpec("§0", "01-differentiating-mind", "Differentiating Mind — Tattvic Descent and Objective Internality", "section-s0-differentiating-mind"),
-    RoomSpec("§1", "02-return-of-zero", "The Return of Zero — History, Empty Set, and Symbolic Linkage", "section-s1-return-of-zero"),
-    RoomSpec("§2", "03-two-logics", "Two Logics of Two — Dia-ballein and Sym-ballein", "section-s2-two-logics"),
-    RoomSpec("§3", "04-mathematical-substrate", "Mathematical Substrate — From 0/1 to the Arche-Topos", "section-s3-mathematical-substrate"),
-    RoomSpec("§4", "05-psychoid-flowering", "Psychoid Flowering — Jung, Pauli, Lacan, and Gebser", "section-s4-psychoid-flowering"),
-    RoomSpec("§5", "06-objective-internality", "Objective Internality and Agentic Research", "section-s5-objective-internality"),
-    RoomSpec("§5→0", "07-instrument-returns", "Epi-Logos and 4:2 Technē — The Instrument Returns", "section-s50-instrument-returns"),
+    RoomSpec("§0/1", "00-integral-threshold", "The Integral Threshold — The Subject at the Formal Limit", "section-s01"),
+    RoomSpec("§0", "01-differentiating-mind", "Differentiating Mind — Tattvic Descent and Objective Internality", "section-s0"),
+    RoomSpec("§1", "02-return-of-zero", "The Return of Zero — History, Empty Set, and Symbolic Linkage", "section-s1"),
+    RoomSpec("§2", "03-two-logics", "Two Logics of Two — Dia-ballein and Sym-ballein", "section-s2"),
+    RoomSpec("§3", "04-mathematical-substrate", "Mathematical Substrate — From 0/1 to the Arche-Topos", "section-s3"),
+    RoomSpec("§4", "05-psychoid-flowering", "Psychoid Flowering — Jung, Pauli, Lacan, and Gebser", "section-s4"),
+    RoomSpec("§5", "06-objective-internality", "Objective Internality and Agentic Research", "section-s5"),
+    RoomSpec("§5→0", "07-instrument-returns", "Epi-Logos and 4:2 Technē — The Instrument Returns", "section-s50"),
 )
 
 
@@ -238,7 +253,13 @@ def load_argument_relations(project: Path, movements: list[dict[str, Any]]) -> d
         movement_alias[str(movement["title"]).casefold()] = stem
     argument_alias: dict[str, dict[str, str]] = {}
     arguments: list[tuple[Path, dict[str, Any], str]] = []
-    for path in sorted((project / "submission-package/essay/section-rooms/arguments").glob("*.md")):
+    # `arguments/` houses the canonical A-suite (A01–A36 + README) since the
+    # 2026-09-25 migration; README is the suite's entrance, not an argument.
+    for path in sorted(
+        path
+        for path in (project / "submission-package/essay/section-rooms/arguments").glob("*.md")
+        if path.name != "README.md"
+    ):
         metadata, body = parse_frontmatter(read_text(path))
         item = {"path": path.relative_to(project).as_posix(), "title": str(metadata.get("title", path.stem))}
         for name in aliases(metadata, path):
@@ -288,9 +309,10 @@ def has_fragment(path: Path, fragment: str) -> bool:
 
 def validate_links(project: Path, room_dir: Path, text: str) -> None:
     errors: list[str] = []
+    page = room_dir / room_file(room_dir.name)
     for destination in re.findall(r"\[[^]]+\]\(([^)]+)\)", text):
         path_part, separator, fragment = destination.partition("#")
-        target = (room_dir / path_part).resolve() if path_part else room_dir / ROOM_FILE
+        target = (room_dir / path_part).resolve() if path_part else page
         try:
             target.relative_to(project)
         except ValueError:
@@ -302,7 +324,7 @@ def validate_links(project: Path, room_dir: Path, text: str) -> None:
         if separator and not has_fragment(target, fragment):
             errors.append(f"link fragment does not resolve: {destination}")
     if errors:
-        raise BuildError(f"{room_dir.name}/{ROOM_FILE} has invalid links:\n  - " + "\n  - ".join(errors))
+        raise BuildError(f"{room_dir.name}/{page.name} has invalid links:\n  - " + "\n  - ".join(errors))
 
 
 def movement_links(
@@ -413,16 +435,16 @@ def render_room(
     )
     if ordinal:
         before = ROOMS[ordinal - 1]
-        where.append("previous " + relative_link(room_dir, project / ROOM_ROOT / before.slug / "ROOM.md", before.station))
+        where.append("previous " + relative_link(room_dir, project / ROOM_ROOT / before.slug / room_file(before.slug), before.station))
     if ordinal + 1 < len(slugs):
         after = ROOMS[ordinal + 1]
-        where.append("next " + relative_link(room_dir, project / ROOM_ROOT / after.slug / "ROOM.md", after.station))
+        where.append("next " + relative_link(room_dir, project / ROOM_ROOT / after.slug / room_file(after.slug), after.station))
     lines.extend(["", "**Where you are:** " + " · ".join(where)])
-    reading = room_dir / "READING.md"
+    reading = room_dir / reading_file(spec.slug)
     scratch = room_dir / "SCRATCH.md"
     companions = []
     if reading.is_file():
-        companions.append("[reading route](READING.md)")
+        companions.append(f"[reading route]({reading.name})")
         inputs.append(reading)
     if scratch.is_file():
         companions.append("[section scratchpad](SCRATCH.md)")
@@ -480,7 +502,7 @@ def render_room(
     text = "\n".join(lines)
     word_count = len(re.findall(r"\b[^\s]+\b", re.sub(r"---.*?---", "", text, count=1, flags=re.DOTALL)))
     if not 500 <= word_count <= 900:
-        raise BuildError(f"{spec.slug}/{ROOM_FILE} has {word_count} words; required range is 500–900")
+        raise BuildError(f"{spec.slug}/{room_file(spec.slug)} has {word_count} words; required range is 500–900")
     validate_links(project, room_dir, text)
     return text, sorted(set(inputs))
 
@@ -523,7 +545,11 @@ def root_readme(
     root = project / ROOM_ROOT
     shelf_lines = "\n".join(
         f"- {relative_link(root, path, str(parse_frontmatter(read_text(path))[0].get('title', path.stem)))}"
-        for path in sorted((root / "arguments").glob("*.md"))
+        for path in sorted(
+            path
+            for path in (root / "arguments").glob("*.md")
+            if path.name != "README.md"
+        )
     )
     rows = []
     for index, spec in enumerate(ROOMS, start=1):
@@ -533,11 +559,11 @@ def root_readme(
             relative_link(root, Path(item["path"]), f"{int(item['sequence']):02d}") for item in movements
         )
         beside = []
-        if (room_dir / "READING.md").is_file():
-            beside.append(relative_link(root, room_dir / "READING.md", "reading route"))
+        if (room_dir / reading_file(spec.slug)).is_file():
+            beside.append(relative_link(root, room_dir / reading_file(spec.slug), "reading route"))
         beside.append(relative_link(root, room_dir / "P1-CANONICAL-ALIGNMENT.md", "canonical alignment"))
         rows.append(
-            f"| {spec.station} {spec.title.split(' — ')[0]} | {relative_link(root, room_dir / ROOM_FILE, 'ROOM')} | {cells} | "
+            f"| {spec.station} {spec.title.split(' — ')[0]} | {relative_link(root, room_dir / room_file(spec.slug), 'ROOM')} | {cells} | "
             + " · ".join(beside)
             + " |"
         )
@@ -546,17 +572,23 @@ def root_readme(
     # declared identity AIKit's corpus ingest sets it aside and every link into
     # it is disclosed as unresolved.
     return f"""---
-title: "Return of Zero — Section Rooms"
+title: "The Return of Zero — The Rooms"
 source_id: section-rooms-readme
 generated_by: "build-section-rooms.py v{BUILDER_VERSION}"
 ownership: generated
 ---
 
-# Return of Zero — Section Rooms
+# The Return of Zero — The Rooms
 
-**Where you are:** [Reading root](../README.md) › `#0` The rooms
+**Where you are:** [Reading root](../README.md) › the rooms
 
-The [manuscript](../THE-RETURN-OF-ZERO.md) awaits composition. The developed argument can be read through these eight rooms and their 48 movements. Each room holds six movements (the determinate `1`s), drawing on the shared canonical field (the implicate `0`): [36 Arguments](../symbolon/episteme/arguments/README.md), [64 Concepts](../symbolon/episteme/concepts/CANONICAL-INDEX.md), [36 conjugate arguments and their A/C root](../symbolon/episteme/conjugate/README.md). Each record keeps one home; the room's alignment brings its precise local operation into the movement.
+A **room** is one station on the path. There are eight rooms. Each holds six movements. Together they are the 48-step reading you can follow today.
+
+Open a room for the station's wager and its six waypoints. Open a movement for the local step. The [manuscript](../THE-RETURN-OF-ZERO.md) is the continuous prose Frank is writing by hand; these rooms are the field around it. Much of this field is generated. It shows method and intent. It is not finished doctrine, and it should not speak in slogans.
+
+If you are new, start at [§0/1 — The Integral Threshold](00-integral-threshold/{room_file("00-integral-threshold")}), or go straight to the first movement, [The Question Before the Mechanism](00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md). The [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md) keeps the full 01–48 order.
+
+Under the rooms sits a shared argument field: [Arguments](arguments/README.md), [Concepts](arguments/concepts/CANONICAL-INDEX.md), [conjugates](arguments/conjugate/README.md), and [products](arguments/products/README.md). Each record has one home; a room's alignment brings the local operation into the movement. You do not need that layer to begin.
 
 ## The eight rooms
 
@@ -564,17 +596,26 @@ The [manuscript](../THE-RETURN-OF-ZERO.md) awaits composition. The developed arg
 |---|---|---|---|
 {table}
 
-Movement numbers are the global traversal identities 01–48; their writing order is kept in the [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md). Each movement page carries its thesis, its derivation and source moves, its consequence and its audit boundary, and links the room's authored canonical alignment for its route to the Arguments and Concepts it stands on.
+Movement numbers are the global path identities 01–48. Writing order is in the [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md). Each movement page states its thesis, derivation, sources, consequence, and audit boundary, and points to the room's canonical alignment for its route into Arguments and Concepts.
 
-## The argument shelf
+## The canonical argument field
 
-`arguments/` holds 21 historical carriers retained for provenance. For the developed argument, enter the canonical field above. Each room's `P1-CANONICAL-ALIGNMENT.md` records the A/C operations admitted at each movement, including phase bounds and deferrals; the conjugate face is read through its named partner, without importing a later technical conclusion into the opening.
+This is the shared depth under the rooms — not the first door. `arguments/` holds the 36 Arguments listed below, the [conjugate arguments and the A/C root](arguments/conjugate/README.md), the [64 Concepts](arguments/concepts/README.md), and the [product field](arguments/products/README.md). Each room's `P1-CANONICAL-ALIGNMENT.md` records which of these a movement may draw on. Older carriers remain frozen under `working/legacy/section-rooms-arguments/`.
 
 {shelf_lines}
 
 ## What a room contains
 
-Each room contains generated `ROOM.md` and authored `P1-CANONICAL-ALIGNMENT.md`. The alignment preserves the six Movements' programme roles and their exact routes to canonical Arguments and Concepts; the builder does not rewrite it. A room may also contain `READING.md` when cross-source order genuinely teaches the section, `SCRATCH.md` for temporary writing, or `VISUALS.md` for an admitted visual argument. Full quotation, source teaching, bibliographic detail and worked examples belong in the linked `SOURCE.md` houses.
+Each room folder holds:
+
+- `ROOM-<room-slug>.md` — the station page (generated): where you are, the wager, the six movements.
+- `P1-CANONICAL-ALIGNMENT.md` — authored routes from movements to Arguments and Concepts; the builder does not rewrite it.
+- `movements/` — the six movement pages.
+- sometimes `READING-<room-slug>.md` — a cross-source reading order when that genuinely teaches the section.
+
+Full quotation, source teaching, and bibliographic detail live in the linked source houses, not in the room index.
+
+Rebuild (contributors):
 
 ```bash
 python3 tools/build-section-rooms.py --project-root .
@@ -632,9 +673,9 @@ def build(project: Path, check: bool, selected_rooms: list[str] | None) -> None:
         text, _inputs = render_room(project, spec, plans[spec.station], movements, all_movements, relations)
         room_dir = root / spec.slug
         if check:
-            compare(room_dir / ROOM_FILE, text, stale, project)
+            compare(room_dir / room_file(spec.slug), text, stale, project)
         else:
-            atomic_write(room_dir / ROOM_FILE, text)
+            atomic_write(room_dir / room_file(spec.slug), text)
     if stale:
         detail = "\n".join(f"  - {item}" for item in stale)
         raise BuildError(f"section rooms are stale or incomplete:\n{detail}")

@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Choose the divisor operation
 
-A positive integer is perfect when it equals the sum of its positive proper divisors. The [native counting unit](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) retains the two generating terms together with their four ordered self-relations. Positive divisibility first earns the particular property whose relation to that broader count can then become exact.
+A positive integer is perfect when it equals the sum of its positive proper divisors. The [native counting unit](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) retains the two generating terms together with their four ordered self-relations. Positive divisibility first earns the particular property whose relation to that broader count can then become exact.
 
 The inputs are the integer 6 and ordinary positive divisibility. “Proper” excludes 6 itself; zero and negative divisors are not included in this definition.
 
@@ -43,4 +43,4 @@ The [tetraktys and triangle](tetraktys-triangle.md) adds other exact counts and 
 
 The result is 6 with an exact earned property and a further sum/product coincidence. Its native role can now be read without turning every occurrence of six into the same theorem or treating “perfect” as a universal judgement of value.
 
-The [eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keep the six-position body within the full threshold-to-return traversal. The [Spanda ratio](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) and [binary of binary](../ql/binary-and-binary-of-binary.md) each earn their counts through their respective operations. The divisor sum becomes comparable through its exact property, with the other producing relations retained.
+The [eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keep the six-position body within the full threshold-to-return traversal. The [Spanda ratio](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) and [binary of binary](../ql/binary-and-binary-of-binary.md) each earn their counts through their respective operations. The divisor sum becomes comparable through its exact property, with the other producing relations retained.

@@ -179,18 +179,18 @@ Use actual source projections, navigation and room builders, okf-workspace docto
 - [Writing rubric](../../writing-guidance-tools/references/WRITING-RUBRIC.md)
 - [Comparison/negation gate](../../writing-guidance-tools/references/comparative-and-negation-gate.md)
 - [Central plan](../../the-return-of-zero-central-plan.md)
-- [Integral Threshold room](../../submission-package/essay/section-rooms/00-integral-threshold/ROOM.md)
+- [Integral Threshold room](../../submission-package/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 - [Authored room alignment](../../submission-package/essay/section-rooms/00-integral-threshold/P1-CANONICAL-ALIGNMENT.md)
-- [A/C whole](../../submission-package/essay/symbolon/episteme/conjugate/AC.md)
+- [A/C whole](../../submission-package/essay/section-rooms/arguments/conjugate/AC.md)
 - [Complete theorem](../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md)
 - [Definitional source](../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md)
 - [Copula](../../submission-package/essay/symbolon/matheme/definition/copula.md)
 - [Harmonics and recount](../../submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md)
 - [Formal-limit dossier](../../submission-package/essay/symbolon/episteme/dossiers/formal-limit.md)
 - [Direct P5 — Gebser](../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md)
-- [Arche-topos](../../submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)
-- [Deferential Intelligence](../../submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md)
-- [Compassion](../../submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)
+- [Arche-topos](../../submission-package/essay/section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md)
+- [Deferential Intelligence](../../submission-package/essay/section-rooms/arguments/A31-Deferential-Intelligence.md)
+- [Compassion](../../submission-package/essay/section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)
 
 The draft's 33 notes retain the additional exact source routes and current evidence standing. The map dispatches the reading; it is not a replacement for the complete source or drafted operation.
 

@@ -1,0 +1,97 @@
+{
+  "preservation_commit": "797e5d8f3cf5efcb00e6810bf8dffa4df4efe98c",
+  "protected_count": 17,
+  "protected_unchanged": true,
+  "manuscript_body_unchanged": false,
+  "rows": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/kripke-1981-naming-and-necessity-NOTES.md",
+      "unchanged": true,
+      "sha256": "8dc5a0cad0c263cd88df188216f0ba54af9b0a8d815d9d10442a344d25224d8b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/chung-yuan-chang-tao-a-new-way-of-thinking-2014-NOTES.md",
+      "unchanged": true,
+      "sha256": "e2a882c9bf459e62fcd7527447d758f4d91b6ed390f32766bb5017f5ac894f22"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness-NOTES.md",
+      "unchanged": true,
+      "sha256": "d8fe87fbb7d47b45dbf255fbaae689bedd11886ba1f4e7deaa242ff50d50e3ae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors-NOTES.md",
+      "unchanged": true,
+      "sha256": "4f9281b2f24321509458b7db508041ddef5fce66876f9f44266542436f429915"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness-NOTES.md",
+      "unchanged": true,
+      "sha256": "f0805a7dfba003c17b369646befca67c15dd533eb430ab212ce8c91fff0d5763"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/develop_sources.py",
+      "unchanged": true,
+      "sha256": "e067666958a248d4bb3ddf8217ee6e299685721c4a927da6179bd6832b5346e8"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/fatal-2008.html",
+      "unchanged": true,
+      "sha256": "3cef1174c8f19ba8ba6cac49496342241122920919967b546d14603519f0773c"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/fatal-2008.txt",
+      "unchanged": true,
+      "sha256": "6e7fd8361532fc78e0510a6154ffb5461f59ef5ce69c3c37cdf2fc996cc977b2"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/finish_receipts.py",
+      "unchanged": true,
+      "sha256": "f3d9bb9a2db8e640bab471f4db459e500dc1606fd8709bfe8f5723507693d2f3"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/forget-2007-scan.pdf",
+      "unchanged": true,
+      "sha256": "842cd2c8b465008ceecb8f541815ed0297879bc5bf4c6d8bd28a46e9e64bc961"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/forget-2007-scan.txt",
+      "unchanged": true,
+      "sha256": "d05b45553f86a803f44a70d4c55931e12aa2efda655a8e2540606362288fd10e"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/forget-2007.html",
+      "unchanged": true,
+      "sha256": "9296022541dac445bf25dcf0ced742c2f171a8ae29341d24fc7ee51b25e97108"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/forget-2007.txt",
+      "unchanged": true,
+      "sha256": "52878fe06a7ab8381fd5d0acfd32199c89eee3d52979f591ae5f8e8fa98325d1"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/retrieval.json",
+      "unchanged": true,
+      "sha256": "e67676d74937e81469063e6f6a73260b6db438ad442163f158d68d5366a8e48e"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/simulacra-glaser.pdf",
+      "unchanged": true,
+      "sha256": "922b0d02b9922a289de3100f5d6b05400b55e04d25bc51c254dee640d9c841b6"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/simulacra-glaser.txt",
+      "unchanged": true,
+      "sha256": "a5b72d210efe7c43f8c331b9fc8bcb4ff0c65440b29bb44bf21c9b4978cc096c"
+    },
+    {
+      "path": "working/_to_delete/2026-09-25-retire/p2-enrichment/raw/T21-baudrillard/simulacra-title-Im0.jpg",
+      "unchanged": true,
+      "sha256": "c2dd4f05dc1dca6d9f692ead5f6deb11ad56dc1d0163236c208ef4a4746caa23"
+    }
+  ],
+  "last_verified": "2026-10-04",
+  "manuscript_body_sha256": "11c322abbbb0a5c18e5b921c035cc0e1bfcb09d5ebf2db39ed103efcd751196f",
+  "manuscript_body_unchanged_by_this_lane": true,
+  "manuscript_concurrent_update": "CONCURRENT-MANUSCRIPT-PUBLICATION-HOLD.json"
+}

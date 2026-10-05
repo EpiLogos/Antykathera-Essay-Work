@@ -11,9 +11,9 @@ source_relation: "Explicit geometric construction; argued native return"
 
 ## #0 — Specify which space is completed
 
-Completion changes the representational object under an explicit rule. The [projective line](projective-line.md) adds one point to an affine line over a chosen field; the [Riemann sphere](riemann-sphere.md) gives the complex case its compact surface. The [NIST house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) warrants that complex completion, not every projective construction.
+Completion changes the representational object under an explicit rule. The [projective line](projective-line.md) adds one point to an affine line over a chosen field; the [Riemann sphere](riemann-sphere.md) gives the complex case its compact surface. The [NIST house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) warrants that complex completion, not every projective construction.
 
-The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) dimensional-reframing operation receives these as exact neighbours. Its native claim is kept distinct from the construction that carries it.
+The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) dimensional-reframing operation receives these as exact neighbours. Its native claim is kept distinct from the construction that carries it.
 
 ## #1 — Homogenise an affine plane
 
@@ -43,4 +43,4 @@ The native interpretation reads this as an account learning to state the limits 
 
 The result holds the affine failure and projective success together: the lines do not meet in the original plane, and their completed representatives meet at the named ideal point. Neither statement cancels the other because their spaces differ.
 
-[Dimensional reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) receives the parallel lines under both descriptions, so the enlarged relation does not overwrite their affine nonintersection. [The eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) place that changing representation within the native field; [translations](../mono-poly/translations.md) carry an achieved determination with the laws of its source and receiving space available. A subsequent comparison can therefore correct the chosen completion or translation without losing the construction already earned.
+[Dimensional reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) receives the parallel lines under both descriptions, so the enlarged relation does not overwrite their affine nonintersection. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) place that changing representation within the native field; [translations](../mono-poly/translations.md) carry an achieved determination with the laws of its source and receiving space available. A subsequent comparison can therefore correct the chosen completion or translation without losing the construction already earned.

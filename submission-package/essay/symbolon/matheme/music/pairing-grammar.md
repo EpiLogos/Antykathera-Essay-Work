@@ -16,11 +16,11 @@ source_ids:
 
 ## #0 — A palette becomes relation
 
-The [two chromatic substrates](chromatic-substrates.md) give a twelve-state field: six position-indices `k=0,…,5`, each on a bimba or pratibimba face. A pitch assignment makes those states sound; a pairing rule determines which states enter relation. The [musical pairing derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) distinguishes three families and one conjugating operator.
+The [two chromatic substrates](chromatic-substrates.md) give a twelve-state field: six position-indices `k=0,…,5`, each on a bimba or pratibimba face. A pitch assignment makes those states sound; a pairing rule determines which states enter relation. The [musical pairing derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) distinguishes three families and one conjugating operator.
 
 A pair `(i,j)` first specifies positions, with its written order available for melodic traversal. An interval follows only after a basis, face and direction have been selected. This lets one grammar operate in both substrate maps while producing different intervals.
 
-The three families are **A, Being; B, Becoming; C, Knowing/unKnowing**. They classify operations on pairs across the hexad. The [qualitative sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) first names Being/Becoming/Knowing as three successive dyads; the music grammar uses those names at a further level, for three ways of pairing the field. These two applications remain distinct.
+The three families are **A, Being; B, Becoming; C, Knowing/unKnowing**. They classify operations on pairs across the hexad. The [qualitative sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) first names Being/Becoming/Knowing as three successive dyads; the music grammar uses those names at a further level, for three ways of pairing the field. These two applications remain distinct.
 
 ## #1 — Adjacent articulation, mirror, crossing
 
@@ -137,7 +137,7 @@ $$
 
 Primes in this process chain mark inverse-phase positions; primes on the musical pairs mark the conjugate P′ face of File 3’s Night-pass projection. D acts in the latter office. Keeping the two uses explicit lets musical reflection conduct the full return without replacing one indexing system with the other.
 
-An [accountable interval](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains its selected pair, direction, tuning and transformation for inspection. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) returns through this retained difference. The exact pair operations can be sounded under their declared conditions; the resulting performance must keep the transformation distinguishable from the source pair.
+An [accountable interval](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains its selected pair, direction, tuning and transformation for inspection. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) returns through this retained difference. The exact pair operations can be sounded under their declared conditions; the resulting performance must keep the transformation distinguishable from the source pair.
 ## Source and implementation standing
 
 The matrices are the housed candidate’s grammar; the current ql-mef implementation remains unrecovered. The exact pair operations stand here, ready to be sounded under their declared conditions.

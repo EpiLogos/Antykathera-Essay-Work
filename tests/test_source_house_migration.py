@@ -35,7 +35,7 @@ class CanonicalSourceTests(unittest.TestCase):
             shutil.copytree(BANK, copied_bank)
             house = resolve_source_house(root, "kaplan-1999-nothing-that-is")
             self.assertIsNotNone(house)
-            note = house.parent / "NOTES.md"
+            note = house.parent / "kaplan-1999-nothing-that-is-NOTES.md"
             note.write_text(
                 "# Frank's notes\n\nA provisional quotation and an unfinished insight.\n",
                 encoding="utf-8",
@@ -87,7 +87,9 @@ class CanonicalSourceTests(unittest.TestCase):
 
     def test_all_projected_passages_resolve_once(self) -> None:
         ledger = (BANK / "PASSAGE-LEDGER.md").read_text(encoding="utf-8")
-        links = re.findall(r"\]\(([^)#]+/SOURCE\.md)#([^)]+)\)", ledger)
+        links = re.findall(r"\]\(([^)#]+\.md)#([^)]+)\)", ledger)
+        for relative, _ in links:
+            self.assertEqual(Path(relative).stem, Path(relative).parent.name, relative)
         self.assertTrue(links)
         seen: set[str] = set()
         for relative, passage_id in links:

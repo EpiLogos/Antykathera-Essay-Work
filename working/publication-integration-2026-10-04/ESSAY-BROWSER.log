@@ -1,0 +1,41 @@
+PASS http://127.0.0.1:61468/essay
+PASS http://127.0.0.1:61468/essay/symbolon/matheme/README
+PASS http://127.0.0.1:61468/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold
+PASS http://127.0.0.1:61468/essay/section-rooms/arguments/A01-Subject-God-and-Faithful-Definition
+PASS http://127.0.0.1:61468/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding
+PASS http://127.0.0.1:61468/essay/THE-RETURN-OF-ZERO
+PASS http://127.0.0.1:61468/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism
+PASS http://127.0.0.1:61468/essay/section-rooms
+PASS http://127.0.0.1:61468/essay/not-a-real-page
+PASS http://127.0.0.1:61468/symbolon/matheme/README
+PASS http://127.0.0.1:61468/manuscript
+PASS http://127.0.0.1:61467/O-I/essay
+PASS http://127.0.0.1:61467/O-I/essay/not-a-real-page
+PASS pages non-essay 404 stays out of the essay
+PASS vercel / retains the original hero and developed home
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 62254)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/server.py", line 496, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/server.py", line 484, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/Users/admin/Central/Work/O-I/site/tests/essay-host-smoke.py", line 126, in do_GET
+    self.wfile.write(body)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------

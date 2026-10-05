@@ -15,7 +15,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #1 — Actuation — Living Articulation
 
 <!-- reader-navigation -->
-Movement 38 of 48 · [This room](../ROOM.md) · [← Previous](37-s5-p0-math-moves-meaning.md) · [Next →](39-s5-p2-j-space.md)
+Movement 38 of 48 · [This room](../ROOM-06-objective-internality.md) · [← Previous](37-s5-p0-math-moves-meaning.md) · [Next →](39-s5-p2-j-space.md)
 <!-- /reader-navigation -->
 
 ## Claim
@@ -32,16 +32,16 @@ A model output is locally determined against alternatives; softmax retains a wei
 
 Relational Logos gives the event an articulate self-position within **self ↔ logos ↔ Other**. The source's claim, a person's report, an observation, the model's inference and the represented world have different offices even when their words arrive together. The initial open field becomes distinguishable material; its terms enter specific relations; thing, source, claimant, recipient and interpreting act become explicit; context then locates those perspectives within the whole situation. The final question is why this response is fitting for this person now. Each turn changes the meaning of what preceded it.
 
-The [full relational traversal](../../../symbolon/episteme/products/S1-Actuation.md#4--relational-logos-this-act-addresses-someone) carries A-logos, Pro-logos, Dia-logos, Logos and Epi-logos through the archaic, magical, mythical, mental-rational and integral correspondence, with QL/Epi's An-a-logos/supramental extension as whole-act return. The experiment tests whether their co-presence changes source attribution, the scope of assertions and the capacity to disagree within the actual encounter. Its `5→0` is enacted when the rubric works through the response's quality rather than becoming its subject, and the reply can change the conditions of the next act.
+The [full relational traversal](../../arguments/products/S1-Actuation.md#4--relational-logos-this-act-addresses-someone) carries A-logos, Pro-logos, Dia-logos, Logos and Epi-logos through the archaic, magical, mythical, mental-rational and integral correspondence, with QL/Epi's An-a-logos/supramental extension as whole-act return. The experiment tests whether their co-presence changes source attribution, the scope of assertions and the capacity to disagree within the actual encounter. Its `5→0` is enacted when the rubric works through the response's quality rather than becoming its subject, and the reply can change the conditions of the next act.
 
 The technical constitution follows the same movement: Agent/Agency and lineage; WorldBinding and composition; authority and delegation; determination and ActuationStream; realised execution; return, attribution, recognition and world-mutation. The act completes itself only when its consequence can reach the condition able to alter subsequent articulation.
 
 ## Tension / limit
 
-Functional articulation becomes philosophically consequential when its return reaches the conditions that generated the act. A model can retain alternatives, revisit sources, revise an evaluator or initiate a different action; a fluent explanation of change is not enough unless the relevant source, permission, gauge or commission actually changes. [Operational Parity](../../../symbolon/episteme/concepts/C45-Operational-Parity.md) therefore asks for the later act that inherited the difference.
+Functional articulation becomes philosophically consequential when its return reaches the conditions that generated the act. A model can retain alternatives, revisit sources, revise an evaluator or initiate a different action; a fluent explanation of change is not enough unless the relevant source, permission, gauge or commission actually changes. [Operational Parity](../../arguments/concepts/C45-Operational-Parity.md) therefore asks for the later act that inherited the difference.
 
 ## Return
 
 Actuation receives carried ground from Central and turns it into an event. The next movement asks what horizon of powers can be brought to bear in such an event: [AIKit — Potency](39-s5-p2-j-space.md).
 
-[Actuation](../../../symbolon/episteme/products/S1-Actuation.md) gives this movement its technical body within the wider [World and Life](../../../symbolon/episteme/products/S-World-and-Life.md) field. Living articulation is complete when carried ground becomes an event and returned consequence can alter the next articulation.
+[Actuation](../../arguments/products/S1-Actuation.md) gives this movement its technical body within the wider [World and Life](../../arguments/products/S-World-and-Life.md) field. Living articulation is complete when carried ground becomes an event and returned consequence can alter the next articulation.

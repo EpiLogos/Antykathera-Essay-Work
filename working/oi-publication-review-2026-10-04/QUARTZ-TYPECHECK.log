@@ -1,0 +1,9 @@
+Warm native ./node_modules/.bin/tsc --noEmit, 2026-10-04. Exit2.
+No diagnostic refers to the reader repair's owned files.
+quartz.config.ts(11,7): TS2322 QuartzConfig.configuration.analytics incompatible: {provider:null} is not Analytics.
+quartz.config.ts(18,7): TS2322 null is not a valid Analytics.provider.
+quartz/components/PageList.tsx(1,10): TS6133 FullSlug unused.
+quartz/components/PageList.tsx(3,10): TS6133 Date unused.
+quartz/plugins/emitters/ogImage.tsx(52,28): TS2345 Preact Element is not ReactNode; VNode lacks ReactPortal.children.
+quartz/util/jsx.tsx(7,7): TS2740 table-only map lacks required Components members (a, abbr, address, area and173more).
+quartz/util/jsx.tsx(10,8): TS2322 React TableHTMLAttributes cellPadding:string|number is incompatible with Preact Signalish<string|undefined>.

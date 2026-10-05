@@ -35,7 +35,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-BUILDER_VERSION = "1.1.1"
+BUILDER_VERSION = "1.2.0"
 BODY = "submission-package/essay/"
 NAV_ROOT = "submission-package/essay/symbolon/episteme/maps/navigation"
 READING_ROOT = "submission-package/essay/README.md"
@@ -79,15 +79,16 @@ CLASSES: list[tuple[str, str, str, str]] = [
     ("essay", "The sovereign essay", "#5", MANUSCRIPT),
     ("rooms", "The rooms — waypoints, alignments, reading routes", "#0", "submission-package/essay/section-rooms/README.md"),
     ("movements", "The 48 movements", "#0", "submission-package/essay/section-rooms/README.md"),
-    ("argument-shelf", "The historical argument shelf (01–21)", "#0", "submission-package/essay/section-rooms/README.md"),
     ("symbolon-root", "Symbolon — the twelvefold root", "#1", "submission-package/essay/symbolon/README.md"),
     ("matheme", "Matheme — exact operations", "#2", "submission-package/essay/symbolon/matheme/README.md"),
     ("mytheme", "Mytheme — whole lived images", "#3", "submission-package/essay/symbolon/mytheme/README.md"),
     ("episteme-root", "Episteme — the register root", "#4", "submission-package/essay/symbolon/episteme/README.md"),
-    ("episteme-arguments", "Episteme · Arguments A01–A36", "#4", "submission-package/essay/symbolon/episteme/arguments/README.md"),
-    ("episteme-conjugate", "Episteme · Conjugate arguments A01′–A36′", "#4", "submission-package/essay/symbolon/episteme/conjugate/README.md"),
-    ("episteme-concepts", "Episteme · Concepts C01–C64 and provenance", "#4", "submission-package/essay/symbolon/episteme/concepts/README.md"),
-    ("episteme-products", "Episteme · Product field S / S0–S5", "#4", "submission-package/essay/symbolon/episteme/products/README.md"),
+    # The canonical A/C suite and products migrated into the rooms (2026-09-25);
+    # the class keys keep their historical names so generated intent files stay stable.
+    ("episteme-arguments", "Arguments A01–A36", "#0", "submission-package/essay/section-rooms/arguments/README.md"),
+    ("episteme-conjugate", "Conjugate arguments A01′–A36′", "#0", "submission-package/essay/section-rooms/arguments/conjugate/README.md"),
+    ("episteme-concepts", "Concepts C01–C64 and provenance", "#0", "submission-package/essay/section-rooms/arguments/concepts/README.md"),
+    ("episteme-products", "Product field S / S0–S5", "#0", "submission-package/essay/section-rooms/arguments/products/README.md"),
     ("episteme-etymologies", "Episteme · Etymology whole-fields", "#4", "submission-package/essay/symbolon/episteme/etymologies/README.md"),
     ("episteme-histories", "Episteme · Histories", "#4", "submission-package/essay/symbolon/episteme/histories/README.md"),
     ("episteme-sources", "Episteme · Source houses", "#4", "submission-package/essay/symbolon/episteme/sources/README.md"),
@@ -97,14 +98,13 @@ CLASSES: list[tuple[str, str, str, str]] = [
     ("episteme-atlas", "Episteme · Atlas", "#4", "submission-package/essay/symbolon/episteme/atlas/README.md"),
     ("episteme-aphorisms", "Episteme · Aphorisms", "#4", "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md"),
     ("episteme-figures", "Episteme · Figures", "#4", "submission-package/essay/symbolon/episteme/figures/README.md"),
-    ("episteme-dialogues", "Episteme · Dialogues", "#4", "submission-package/essay/symbolon/episteme/dialogues/README.md"),
     ("quilt", "Supporting quilt ledgers (non-canonical)", "support", "submission-package/essay/quilt/ql-expression-grammar.md"),
 ]
 CLASS_INDEX = {key: (label, position, entrance) for key, label, position, entrance in CLASSES}
 SPLIT_ABOVE = 60  # classes with more pages than this split into sub-pages by the next path segment
 SPLIT_DEPTH = {  # how many path segments under the body identify a sub-page group
     "episteme-sources": 3,   # symbolon/episteme/sources/<domain>
-    "episteme-concepts": 3,  # symbolon/episteme/concepts/<C-page | reference-notes>
+    "episteme-concepts": 3,  # section-rooms/arguments/concepts/<C-page | reference-notes>
     "movements": 1,          # section-rooms/<room>
     "matheme": 2,            # symbolon/matheme/<domain>
 }
@@ -135,7 +135,10 @@ def nav_class(path: str) -> str | None:
         return "quilt"
     if parts[0] == "section-rooms":
         if len(parts) > 1 and parts[1] == "arguments":
-            return "argument-shelf"
+            suite = {"conjugate": "episteme-conjugate", "concepts": "episteme-concepts", "products": "episteme-products"}
+            if len(parts) > 2 and parts[2] in suite:
+                return suite[parts[2]]
+            return "episteme-arguments"  # A01–A36 and the suite README at the arguments root
         if "movements" in parts:
             return "movements"
         return "rooms"
@@ -152,12 +155,21 @@ def nav_class(path: str) -> str | None:
 
 
 def is_return_target(path: str) -> bool:
-    """A direct writing route, excluding historical carriers and incidental room files."""
-    return (
-        path == MANUSCRIPT
-        or (path.startswith(BODY + "section-rooms/") and ("/movements/" in path or path.endswith("/ROOM.md")))
-        or path.startswith(BODY + "symbolon/episteme/arguments/")
-        or path.startswith(BODY + "symbolon/episteme/conjugate/")
+    """A direct writing route, excluding incidental room files.
+
+    The canonical Arguments (arguments/ root) and their conjugates count, as
+    before the 2026-09-25 migration; concepts and products still do not.
+    """
+    if not path.startswith(BODY + "section-rooms/arguments/"):
+        if path == MANUSCRIPT:
+            return True
+        if path.startswith(BODY + "section-rooms/") and "/movements/" in path:
+            return True
+        name = path.rsplit("/", 1)[-1]
+        return path.startswith(BODY + "section-rooms/") and name.startswith("ROOM-") and name.endswith(".md")
+    return not (
+        path.startswith(BODY + "section-rooms/arguments/concepts/")
+        or path.startswith(BODY + "section-rooms/arguments/products/")
     )
 
 
@@ -622,7 +634,7 @@ class NavigationModel:
             "",
             f"Visible, independently resolved links reach {audit['reader_links']['reachable']} of {audit['reader_links']['pages']} pages. All {audit['reader_links']['admitted']} admitted records are checked: {audit['reader_links']['missing_admitted']} missing and {audit['reader_links']['unreachable_admitted']} unreachable.",
             "",
-            "This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. [Full reader findings](reader-audit.json) retain every location and unresolved destination.",
+            "This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. The workspace report `reader-audit.json` retains every location and unresolved destination; it is not part of the public reading edition.",
             "",
             f"Workspace lookup reaches {audit['reachable_from_root']} of {audit['pages']} pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.",
             "",

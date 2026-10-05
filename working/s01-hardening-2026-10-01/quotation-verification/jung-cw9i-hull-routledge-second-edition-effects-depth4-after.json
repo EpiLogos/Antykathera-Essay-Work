@@ -1,0 +1,41 @@
+{
+  "root": {
+    "id": "jung-cw9i-hull-routledge-second-edition",
+    "title": "Jung — The Archetypes and the Collective Unconscious, CW 9, part 1 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — The Archetypes and the Collective Unconscious, CW 9, part 1 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-cw9i-hull-routledge-second-edition-p001 — Archetype as formal possibility",
+      "jung-cw9i-hull-routledge-second-edition-p002 — Individuation and the whole"
+    ],
+    "sha256": "c2ec211fb0b2969db672eea6ddee1845928037cb5413d860bb5055f866bf3f9c",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

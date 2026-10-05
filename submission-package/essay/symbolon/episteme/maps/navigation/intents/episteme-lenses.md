@@ -3,9 +3,9 @@ title: "Intents — Episteme · Lenses"
 source_id: navigation-episteme-lenses
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.1"
+generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
+source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -16,26 +16,106 @@ source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870
 
 Position #4. Entrance: [Lenses](../../../lenses/README.md). Each entry names what the page **implicates** through its written relations and what **reaches** it. The relation word is the one the sentence around the link names; `unnamed` marks a link whose sentence names none. This is a mirror of the written graph, never its substitute.
 
-### [Baudrillard — Simulation and the Account’s Return](../../../lenses/baudrillard.md)
-
-`episteme` · `lens` · `Argued`
-
-**Implicates:** *grounds* → [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) · *defines* → [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md), [C55 — Reflective Field / Mirror That Moves First](../../../concepts/C55-Reflective-Field-Mirror-That-Moves-First.md) · *historicises* → [Baudrillard — Symbolic Exchange and Death (1976)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md#baudrillard-1976-symbolic-exchange-death-q002) · *sources* → [Baudrillard — Symbolic Exchange and Death (1976)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md#baudrillard-1976-symbolic-exchange-death-q003), [Baudrillard — Simulacra and Simulation (1981)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md#baudrillard-1981-simulacra-and-simulation-q002), [Baudrillard — Forget Foucault (1977)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md#baudrillard-1977-forget-foucault-q002), [Baudrillard — The Transparency of Evil (1990)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md#baudrillard-1990-transparency-evil-q001) · *qualifies* → [Baudrillard — Symbolic Exchange and Death (1976)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md#baudrillard-1976-symbolic-exchange-death-q001), [C38 — Bimba–Pratibimba / Bimba Map](../../../concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Baudrillard — Fatal Strategies (1983)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md#baudrillard-1983-fatal-strategies-q001) · *tests* → [A20 — Image / Valuation / Possession](../../../arguments/A20-Image-Valuation-Possession.md), [A24 — Arbitration and the Usurpation of Measure](../../../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) · *extends* → [Baudrillard — Forget Foucault (1977)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md#baudrillard-1977-forget-foucault-q003) · *compares* → [C33 — Image / Valuation](../../../concepts/C33-Image-Valuation.md) · *returns-to* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) · *unnamed* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source)
-
-**Reached from:** *sources* ← [Baudrillard — Symbolic Exchange and Death (1976)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md), [Baudrillard — Forget Foucault (1977)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md), [Baudrillard — Simulacra and Simulation (1981)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md), [Baudrillard — Fatal Strategies (1983)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md), [Baudrillard — The Transparency of Evil (1990)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md) · *unnamed* ← [A20 — Image / Valuation / Possession](../../../arguments/A20-Image-Valuation-Possession.md), [A24 — Arbitration and the Usurpation of Measure](../../../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md), [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md), [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md), [C33 — Image / Valuation](../../../concepts/C33-Image-Valuation.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [C55 — Reflective Field / Mirror That Moves First](../../../concepts/C55-Reflective-Field-Mirror-That-Moves-First.md), [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)
-
-### [Foucault — Knowledge, Power, and the Authority to Return](../../../lenses/foucault.md)
-
-`episteme` · `lens` · `Argued`
-
-**Implicates:** *sources* → [Jason Reza Jorjani — Prometheus and Atlas (2016)](../../../sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), [Foucault — The History of Sexuality, Volume 1 (1976)](../../../sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md), [Baudrillard — Forget Foucault (1977)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md#baudrillard-1977-forget-foucault-q002), [Taylor — Revision Notes on Trust and F-Blocks (2026)](../../../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md), [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md), [Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) · *returns-to* → [Whole Field — Fides / Topos / Logos / Nomos / Natio / Credere](../../../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#3--nomos-the-account-distributes-authority), [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD.md#delegated-labour-distributes-capacity-and-return) · *sources (declared)* → [Foucault — The History of Sexuality, Volume 1 (1976)](../../../sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](../../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), [Taylor — Revision Notes on Trust and F-Blocks (2026)](../../../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md), [Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md), [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) · *unnamed* → [A24 — Arbitration and the Usurpation of Measure](../../../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md), [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md), [A25 — Covenant / Mediating Office / Source Authority](../../../arguments/A25-Covenant-Mediating-Office-Source-Authority.md), [C29 — Mediating Office / Derivative Sovereignty](../../../concepts/C29-Mediating-Office-Derivative-Sovereignty.md), [C28 — Covenant / Primary Arbitration](../../../concepts/C28-Covenant-Primary-Arbitration.md), [A29 — Power / Delegated Labour / Return](../../../arguments/A29-Power-Delegated-Labour-Return.md), [C53 — Power / Delegated Labour](../../../concepts/C53-Power-Delegated-Labour.md), [Baudrillard — The Transparency of Evil (1990)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md#baudrillard-1990-transparency-evil-q001), [Whole Field — Arbitration / Hybris / Regard / Anamnesis](../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis)
-
-**Reached from:** *unnamed* ← [A24 — Arbitration and the Usurpation of Measure](../../../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md), [A25 — Covenant / Mediating Office / Source Authority](../../../arguments/A25-Covenant-Mediating-Office-Source-Authority.md), [A29 — Power / Delegated Labour / Return](../../../arguments/A29-Power-Delegated-Labour-Return.md), [C27 — Protected Account / Occupied Zero / Source-Claim](../../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md), [C28 — Covenant / Primary Arbitration](../../../concepts/C28-Covenant-Primary-Arbitration.md), [C29 — Mediating Office / Derivative Sovereignty](../../../concepts/C29-Mediating-Office-Derivative-Sovereignty.md), [C53 — Power / Delegated Labour](../../../concepts/C53-Power-Delegated-Labour.md), [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD.md), [Arbitration, Hybris, Regard and Anamnesis — Historical and Relational Branches](../../../etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES.md), [Whole Field — Arbitration / Hybris / Regard / Anamnesis](../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md), [Whole Field — Fides / Topos / Logos / Nomos / Natio / Credere](../../../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md), [Foucault — The History of Sexuality, Volume 1 (1976)](../../../sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md)
-
 ### [Lenses](../../../lenses/README.md)
 
 `episteme` · `register-domain`
 
-**Implicates:** *unnamed* → [Episteme](../../../README.md)
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md), [Baudrillard — Symbolic Exchange and Death (1976)](../../../sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/baudrillard-1976-symbolic-exchange-death.md#baudrillard-lens-reading), [Foucault — The History of Sexuality, Volume 1 (1976)](../../../sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/foucault-1976-history-sexuality-v1.md#foucault-lens-reading) · *unnamed* → [MEF Lens L0 — Quaternal](../../../lenses/L0-quaternal.md), [MEF Lens L0′ — Archetypal-Numerical](../../../lenses/L0-prime-archetypal-numerical.md), [MEF Lens L5 — Para Vāk](../../../lenses/L5-para-vak.md), [MEF Lens L5′ — Divine Logos](../../../lenses/L5-prime-divine-logos.md), [MEF Lens L1 — Causal](../../../lenses/L1-causal.md), [MEF Lens L1′ — Phenomenal](../../../lenses/L1-prime-phenomenal.md), [MEF Lens L4 — Phenomenological](../../../lenses/L4-phenomenological.md), [MEF Lens L4′ — Scientific](../../../lenses/L4-prime-scientific.md), [MEF Lens L2 — Logical](../../../lenses/L2-logical.md), [MEF Lens L2′ — Alchemical-Elemental](../../../lenses/L2-prime-alchemical-elemental.md), [MEF Lens L3 — Processual](../../../lenses/L3-processual.md), [MEF Lens L3′ — Chronological](../../../lenses/L3-prime-chronological.md) (+1 more)
 
-**Reached from:** *unnamed* ← [The Return of Zero — Reading Root](../../../../../README.md), [Episteme](../../../README.md)
+**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [Episteme](../../../README.md), [MEF Lens L0′ — Archetypal-Numerical](../../../lenses/L0-prime-archetypal-numerical.md), [MEF Lens L0 — Quaternal](../../../lenses/L0-quaternal.md), [MEF Lens L1 — Causal](../../../lenses/L1-causal.md), [MEF Lens L1′ — Phenomenal](../../../lenses/L1-prime-phenomenal.md), [MEF Lens L2 — Logical](../../../lenses/L2-logical.md), [MEF Lens L2′ — Alchemical-Elemental](../../../lenses/L2-prime-alchemical-elemental.md), [MEF Lens L3′ — Chronological](../../../lenses/L3-prime-chronological.md), [MEF Lens L3 — Processual](../../../lenses/L3-processual.md), [MEF Lens L4 — Phenomenological](../../../lenses/L4-phenomenological.md), [MEF Lens L4′ — Scientific](../../../lenses/L4-prime-scientific.md) (+2 more)
+
+### [MEF Lens L0 — Quaternal](../../../lenses/L0-quaternal.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L0′ — Archetypal-Numerical](../../../lenses/L0-prime-archetypal-numerical.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L0′ — Archetypal-Numerical](../../../lenses/L0-prime-archetypal-numerical.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L0′ — Archetypal-Numerical](../../../lenses/L0-prime-archetypal-numerical.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L0 — Quaternal](../../../lenses/L0-quaternal.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L0 — Quaternal](../../../lenses/L0-quaternal.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L1 — Causal](../../../lenses/L1-causal.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L1′ — Phenomenal](../../../lenses/L1-prime-phenomenal.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L1′ — Phenomenal](../../../lenses/L1-prime-phenomenal.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L1′ — Phenomenal](../../../lenses/L1-prime-phenomenal.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L1 — Causal](../../../lenses/L1-causal.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L1 — Causal](../../../lenses/L1-causal.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L2 — Logical](../../../lenses/L2-logical.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L2′ — Alchemical-Elemental](../../../lenses/L2-prime-alchemical-elemental.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L2′ — Alchemical-Elemental](../../../lenses/L2-prime-alchemical-elemental.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L2′ — Alchemical-Elemental](../../../lenses/L2-prime-alchemical-elemental.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L2 — Logical](../../../lenses/L2-logical.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L2 — Logical](../../../lenses/L2-logical.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L3 — Processual](../../../lenses/L3-processual.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L3′ — Chronological](../../../lenses/L3-prime-chronological.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L3′ — Chronological](../../../lenses/L3-prime-chronological.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L3′ — Chronological](../../../lenses/L3-prime-chronological.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L3 — Processual](../../../lenses/L3-processual.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L3 — Processual](../../../lenses/L3-processual.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L4 — Phenomenological](../../../lenses/L4-phenomenological.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L4′ — Scientific](../../../lenses/L4-prime-scientific.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L4′ — Scientific](../../../lenses/L4-prime-scientific.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L4′ — Scientific](../../../lenses/L4-prime-scientific.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L4 — Phenomenological](../../../lenses/L4-phenomenological.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L4 — Phenomenological](../../../lenses/L4-phenomenological.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L5 — Para Vāk](../../../lenses/L5-para-vak.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L5′ — Divine Logos](../../../lenses/L5-prime-divine-logos.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L5′ — Divine Logos](../../../lenses/L5-prime-divine-logos.md), [Lenses](../../../lenses/README.md)
+
+### [MEF Lens L5′ — Divine Logos](../../../lenses/L5-prime-divine-logos.md)
+
+`episteme` · `lens` · `Argued`
+
+**Implicates:** *sources* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *sources (declared)* → [Taylor — MEF Twelve Lenses Reference (2026)](../../../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md) · *unnamed* → [MEF Lens L5 — Para Vāk](../../../lenses/L5-para-vak.md), [C39 — Meta-Epistemic Framework](../../../../../section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md), [C38 — Bimba–Pratibimba / Bimba Map](../../../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Lenses](../../../lenses/README.md)
+
+**Reached from:** *unnamed* ← [MEF Lens L5 — Para Vāk](../../../lenses/L5-para-vak.md), [Lenses](../../../lenses/README.md)

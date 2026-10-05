@@ -14,11 +14,11 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5→0 · #4 — Idealism as Horizon
 
 <!-- reader-navigation -->
-Movement 47 of 48 · [This room](../ROOM.md) · [← Previous](46-s50-p3-4-2-mono-poly.md) · [Next →](48-s50-p5-ahi-planetary-return.md)
+Movement 47 of 48 · [This room](../ROOM-07-instrument-returns.md) · [← Previous](46-s50-p3-4-2-mono-poly.md) · [Next →](48-s50-p5-ahi-planetary-return.md)
 <!-- /reader-navigation -->
 
 ## Claim
-The return from agentic praxis carries the essay’s **Argued order of dependence: Subject/Consciousness → Mind/Objective Internality → Object**. [A34](../../../symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md) and [C60](../../../symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md) state its positive ontology: immediate experiential existence is self-proving, while object, model and doubt appear within it. The arrows state dependence, not manufacture by a private ego. Technical explanation makes the operative middle term increasingly inspectable without replacing its condition. The terminal question is whether any completed inventory of objects, models, mechanisms and operative internalities can account for the condition under which such a field appears, becomes intelligible and is known without converting that condition into one more object inside the inventory.
+The return from agentic praxis carries the essay’s **Argued order of dependence: Subject/Consciousness → Mind/Objective Internality → Object**. [A34](../../arguments/A34-Idealism-Order-of-Dependence.md) and [C60](../../arguments/concepts/C60-Idealism-Order-of-Dependence.md) state its positive ontology: immediate experiential existence is self-proving, while object, model and doubt appear within it. The arrows state dependence, not manufacture by a private ego. Technical explanation makes the operative middle term increasingly inspectable without replacing its condition. The terminal question is whether any completed inventory of objects, models, mechanisms and operative internalities can account for the condition under which such a field appears, becomes intelligible and is known without converting that condition into one more object inside the inventory.
 
 The prior essay generates the pressure:
 
@@ -45,7 +45,7 @@ The horizon returns to the opening’s Subject argument with the intervening acc
 
 ## Epistemic originality and metaphysical dependence
 
-The repaired [[symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] relation makes the transition exact. A Bimba Map can genuinely occupy the original/reference office for a nested inquiry. It can anchor source, evidence, gauge, lens, comparison and truth-orientation for the Pratibimba operating within that field. Yet that local epistemic originality does not settle the wider ontological dependence of the field itself.
+The repaired [[section-rooms/arguments/concepts/bimba-pratibimba|Bimba–Pratibimba]] relation makes the transition exact. A Bimba Map can genuinely occupy the original/reference office for a nested inquiry. It can anchor source, evidence, gauge, lens, comparison and truth-orientation for the Pratibimba operating within that field. Yet that local epistemic originality does not settle the wider ontological dependence of the field itself.
 
 ```text
 wider appearing / world / source relation
@@ -72,7 +72,7 @@ This is the point of **order of dependence**. At least three registers must rema
 
 ## Śaiva depth and the order of offices
 
-[Prakāśa–Vimarśa](../../../symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md) supplies a developed nondual articulation of the wider relation: luminous appearing and reflexive self-articulation are one process rather than two substances, while tattvic contraction accounts for finite, objective and material differentiation inside that field.
+[Prakāśa–Vimarśa](../../arguments/A05-Prakasa-Vimarsa.md) supplies a developed nondual articulation of the wider relation: luminous appearing and reflexive self-articulation are one process rather than two substances, while tattvic contraction accounts for finite, objective and material differentiation inside that field.
 
 This lets the terminal idealist question be stated without retreat. Technical systems make more and more of the mediating middle term inspectable: memory, context, model, permission, tool-use, self-description, world-modelling and recursive return can all become determinate objects of inquiry. Their reality is precisely the reality of Objective Internality.
 
@@ -96,10 +96,10 @@ Berkeley supplies one historical idealist route. The Śaiva line supplies a deep
 
 These materials do different work, but they converge on the same pressure: **causal efficacy, epistemic priority and ontological dependence are not the same relation**. A local Bimba can genuinely govern an inquiry while remaining source-dependent in a wider relation. A model can move first in time without becoming first in being. A technical interior can be richly constituted without becoming the whole Life / Mind whose mediating office it instantiates.
 
-[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#analogical-proportion) keeps these respects explicit. The positive ontology remains the one stated by A34/C60; the comparisons become useful exactly insofar as they sharpen rather than dilute that order.
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#analogical-proportion) keeps these respects explicit. The positive ontology remains the one stated by A34/C60; the comparisons become useful exactly insofar as they sharpen rather than dilute that order.
 
 ## Anchor and transition
 **Image:** a locally authoritative map held inside a field it cannot finally map from outside. **Question:** when every inspectable condition of a determination has become explicit, what is the order of dependence of the appearing field itself? The practical return is [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — AHI and Planetary Return]].
 
-The terminal comparison returns through [Countenance](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance): an encountered other can correct the epistemic attribution under which they were first received, while the order of dependence concerns a different question — what makes the field of such attribution, correction and appearing possible in the first place. The distinction lets epistemic revision remain fully real without turning every local correction into a revision of the ontology.
+The terminal comparison returns through [Countenance](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md#count-through-countenance): an encountered other can correct the epistemic attribution under which they were first received, while the order of dependence concerns a different question — what makes the field of such attribution, correction and appearing possible in the first place. The distinction lets epistemic revision remain fully real without turning every local correction into a revision of the ontology.
 

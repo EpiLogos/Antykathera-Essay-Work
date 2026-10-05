@@ -19,7 +19,7 @@ tags:
 
 # The Return of Zero — Current Plain-English Full Flow
 
-> **Reader note, 5 August 2026.** This is the clearest current account of the whole argument in ordinary English. It includes the corrected notation, the complete Bimba–pratibimba relation, the word-field method, Van Eenwyk's energetic spine, the Heidegger–Hephaestus sequence, the plural AI architecture, Agentworld, the moving mirror, Taoist reversal, and the final return. It is a reader synthesis, not a second canon and not the finished essay. The [central plan](../../../the-return-of-zero-central-plan.md) and [live granular nodes](../section-rooms/) still govern structure. The [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) records exactly what must be judged before those nodes are updated.
+> **Reader note, 5 August 2026.** This is the clearest current account of the whole argument in ordinary English. It includes the corrected notation, the complete Bimba–pratibimba relation, the word-field method, Van Eenwyk's energetic spine, the Heidegger–Hephaestus sequence, the plural AI architecture, Agentworld, the moving mirror, Taoist reversal, and the final return. It is a reader synthesis, not a second canon and not the finished essay. The [central plan](../../../the-return-of-zero-central-plan.md) and [live granular nodes](../section-rooms) still govern structure. The [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) records exactly what must be judged before those nodes are updated.
 
 ## The essay in one movement
 
@@ -85,13 +85,13 @@ The six is a living cycle. Its completed fifth movement returns through zero:
 
 `0/1 = 4+2 = 5→0 = 1/0`
 
-The bare slash is axial. The completed `4+2` relation is toroidal. It can circle through an open centre, return locally while retaining the path it travelled, and begin again from the form it achieved. The [core theorem](../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [slash concept](../symbolon/episteme/concepts/the-slash.md), [two-logics argument](../section-rooms/03-two-logics/ROOM.md), and [core theorem bridge](../section-rooms/arguments/12-core-theorem-bridge.md) carry the complete formal field.
+The bare slash is axial. The completed `4+2` relation is toroidal. It can circle through an open centre, return locally while retaining the path it travelled, and begin again from the form it achieved. The [core theorem](../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [the slash — root record](../symbolon/the-slash.md), [two-logics argument](../section-rooms/03-two-logics/ROOM-03-two-logics.md), and [core theorem bridge](../symbolon/eight-determinations.md) carry the complete formal field.
 
 ## How words take part in the proof
 
 The essay treats certain words as **symbola**. A word arrives as one formed half. Its documented history, changes of sense, sound, and use give it an edge. The present argument supplies the answering half. When they fit, the word does more than label an idea. It makes an operation audible and lets it return in another register.
 
-The native QL derivation remains primary. A word-history does not prove the theorem. It can reveal a historical descent, an attested range of meaning, an independent operational likeness, or a poetic collision. These relations have different strength and are named as such. The live histories also state which lexical claims are documented and which still need primary or scholarly support. The method is set out in the live [etymology histories](../symbolon/episteme/etymologies/README.md) and the broader [language–symbol dialogue history](../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md).
+The native QL derivation remains primary. A word-history does not prove the theorem. It can reveal a historical descent, an attested range of meaning, an independent operational likeness, or a poetic collision. These relations have different strength and are named as such. The live histories also state which lexical claims are documented and which still need primary or scholarly support. The method is set out in the live [etymology histories](../symbolon/episteme/etymologies/README.md) and the broader [language–symbol dialogue history](../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md).
 
 Several word-fields carry the argument from start to finish:
 
@@ -123,7 +123,7 @@ Gebser gives the formal limit a history of consciousness. Perspectival conscious
 
 Bohm gives this transparency a process. An explicate form unfolds from an implicate movement which it cannot exhaust. Fragmentation begins when an analytic division is assigned to the whole itself. Dialogue lets thought see its own products as products and return them to the movement which gave them sense.
 
-This station establishes the [immutable gap and meta-sign](../section-rooms/arguments/01-immutable-gap-and-meta-sign.md), the [zero–subject–integral path](../symbolon/episteme/maps/zero-subject-advent.md), and the [diaphaneity concept](../symbolon/episteme/concepts/diaphaneity.md). It hands one task to §0: describe the mind which differentiates the experienced world without confusing that instrument with the subject.
+This station establishes the [immutable gap and meta-sign](../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), the [zero–subject–integral path](../symbolon/episteme/maps/zero-subject-advent.md), and the [diaphaneity concept](../section-rooms/arguments/concepts/C09-Diaphaneity.md). It hands one task to §0: describe the mind which differentiates the experienced world without confusing that instrument with the subject.
 
 ## §0 — Mind differentiates a world
 
@@ -135,7 +135,7 @@ These operations form **objective internality**. In a person, objective internal
 
 The subject question remains exact. Rich objective internality can support intelligence, agency, relation, and self-description. Its richness does not turn an inspectable component into the unobjectifiable subject-pole. Immediate first-person existence is self-proving. Objective internality is observable and alterable. The phenomenal localisation of an engineered system remains Open.
 
-The [objective-internality argument](../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md), [tattvic differential field](../section-rooms/arguments/13-tattvic-differential-field.md), [vikalpa–saṃkalpa concept](../symbolon/episteme/concepts/vikalpa-samkalpa.md), and [agent-subjectivity boundary](../section-rooms/arguments/05-agent-subjectivity-open.md) carry these distinctions. §0 ends by exposing zero inside every operation: each determinate act uses a field which the act cannot wholly count.
+The [objective-internality argument](../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md), [tattvic differential field](../section-rooms/arguments/A09-Tattvic-Differential-Field.md), [vikalpa–saṃkalpa concept](../section-rooms/arguments/concepts/C17-Vikalpa-Samkalpa.md), and [agent-subjectivity boundary](../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md) carry these distinctions. §0 ends by exposing zero inside every operation: each determinate act uses a field which the act cannot wholly count.
 
 ## §1 — Zero enters and changes mathematics
 
@@ -147,7 +147,7 @@ Zero remains exact while refusing the status of an ordinary positive thing. A sy
 
 At the end of the historical passage, the notation can return with force. `0/1 = 1/0` gathers zero as exact sign, ground, limit, and return. It does not borrow authority from one mathematical example. It names the operation disclosed across the full formal field.
 
-The [zero concept](../symbolon/episteme/concepts/zero.md), [advent of zero argument](../section-rooms/arguments/20-advent-zero-subject-integral-logic.md), and §1 movements [13–18](../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md) carry the granular history. They make §2 necessary: once zero and one are one relation, the essay can compare the two ways that relation becomes two.
+The [zero concept](../symbolon/0-1.md), [advent of zero argument](../section-rooms/arguments/A10-Advent-of-Zero.md), and §1 movements [13–18](../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md) carry the granular history. They make §2 necessary: once zero and one are one relation, the essay can compare the two ways that relation becomes two.
 
 ## §2 — The two logics of two
 
@@ -171,7 +171,7 @@ Trust is the lived floor of knowledge. Language, memory, method, witness, instit
 
 Mono/Poly gives the same movement a political form. Mono is the unowned one field. Poly is its real articulation as many. One is already many in expression. Monopoly begins when one expression claims the ground which lets all expressions appear. “Divine and concur” returns each position to the transcendental relation and lets the positions coordinate without fusion.
 
-The [Hephaestus argument](../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [counterfeit gathering](../symbolon/episteme/concepts/counterfeit-gathering.md), [Mono–Poly argument](../section-rooms/arguments/19-two-ones-mono-poly-matheme.md), and [trust thread](../symbolon/episteme/maps/trust-faith-formal-limit.md) hold the full movement. §2 closes with a formal demand: what do the two ones become when they carry their own two readings?
+The [Hephaestus argument](../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [counterfeit gathering](../section-rooms/arguments/concepts/C25-Counterfeit-Gathering.md), [Mono–Poly argument](../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md), and [trust thread](../symbolon/episteme/maps/trust-faith-formal-limit.md) hold the full movement. §2 closes with a formal demand: what do the two ones become when they carry their own two readings?
 
 ## §3 — The native mathematical body
 
@@ -197,7 +197,7 @@ This vertical accounting opens the musical ratio family. The cross-reading of `4
 
 The mathematical body then grows by clear steps. Centred polarity gives an oriented line. Trigonometry measures relation through angle. Spencer-Brown's re-entry makes a distinction act upon itself and produces oscillation, time, and memory. Kauffman's iterants write the oscillation algebraically. Complex numbers let orientation turn through a plane. Quaternions carry rotation in three dimensions. Conjugation reverses a vector orientation while retaining the scalar part. Unit quaternions double-cover spatial rotation.
 
-Music makes the operation audible. Self-oscillation is rhythm. Dense recurrence becomes pitch under the relevant perceptual conditions. Relations among recurrence rates become intervals. Fifth-relations generate the wheel of fifths as a circulating order. The fourth, fifth, whole tone, octave, and comma show identity returning through retained difference. Galperin's colliding blocks give the cycle a physical phase-space image inside the [QL musical derivation source house](../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md).
+Music makes the operation audible. Self-oscillation is rhythm. Dense recurrence becomes pitch under the relevant perceptual conditions. Relations among recurrence rates become intervals. Fifth-relations generate the wheel of fifths as a circulating order. The fourth, fifth, whole tone, octave, and comma show identity returning through retained difference. Galperin's colliding blocks give the cycle a physical phase-space image inside the [QL musical derivation source house](../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md).
 
 Topology gives it a surface. The quotient `T² = R²/Z²` identifies an infinite plane into a finite torus. Every point on the torus has infinitely many lifted representatives on the cover. A loop can close on the torus while its lift ends at a displaced point. The surface returns and the cover keeps the history. The hole is the opening which makes this surface possible.
 
@@ -205,7 +205,7 @@ An atlas gives the same principle an epistemic form. A curved manifold cannot be
 
 Van Eenwyk supplies the dynamic middle between topology, music, and psyche. A phase-space holds possible states. A trajectory records one history. An attractor gives stable organisation across changing states. A basin is the region drawn into that organisation. A boundary marks where another regime becomes possible. A bifurcation changes the available pattern. The mathematical symbol can therefore act as a living symbol when it changes the field of possible perception and action.
 
-The [arche-topos argument](../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md), [toroidal-circulation argument](../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [QL expression grammar](ql-expression-grammar.md), and [musical derivation source house](../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) carry the formal depth. §3 ends with a living question: what kind of psyche can remain whole through these changes?
+The [arche-topos argument](../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md), [toroidal-circulation argument](../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [QL expression grammar](ql-expression-grammar.md), and [musical derivation source house](../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) carry the formal depth. §3 ends with a living question: what kind of psyche can remain whole through these changes?
 
 ## §4 — Psyche, individuation, and integral mutation
 
@@ -217,11 +217,11 @@ Bohmian holography gives this relation a distinct physical-philosophical witness
 
 Individuation is the growth of differentiated indivisibility. The ego is a real local centre. It becomes ill when it claims to be the whole. `X/x` states the relation before its Jungian refraction: the local instance makes a wider determining capacity legible and never exhausts it.
 
-Van Eenwyk makes individuation energetic. A complex is a feeling-charged attractor basin. It gives psychic energy a recurrent route. A living symbol exposes the basin boundary and connects regions which the current organisation keeps apart. The symbol can carry the trajectory through bifurcation into a new regime. Health is therefore bounded transformation: enough integrity to persist and enough openness to reorganise. Frank's *Symbolon Dynamics* develops this spine across the essay; the [1997 Van Eenwyk source house](../symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) carries the scholarly work and the remaining exact-passage tasks.
+Van Eenwyk makes individuation energetic. A complex is a feeling-charged attractor basin. It gives psychic energy a recurrent route. A living symbol exposes the basin boundary and connects regions which the current organisation keeps apart. The symbol can carry the trajectory through bifurcation into a new regime. Health is therefore bounded transformation: enough integrity to persist and enough openness to reorganise. Frank's *Symbolon Dynamics* develops this spine across the essay; the [1997 Van Eenwyk source house](../symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md) carries the scholarly work and the remaining exact-passage tasks.
 
 The forms of energy remain distinct. Dynamical energy or cost measures tendencies in a formal system. Libido names psychic investment. Prāṇa names living circulation. Śakti names the power of manifestation. Spanda names pulsation through extension and withdrawal. Technical energy includes computation, hardware, infrastructure, labour, and ecological cost. Across these registers, pattern gives energy a repeatable route and energy gives pattern force, variation, and the power to transform.
 
-Jung's *Aion* and Pauli's egg dream provide whole-form refractions of QL within the authorial Epi Paper corpus. Their exact historical claims and quotations remain answerable to the [*Aion* source house](../symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) and [Jung–Pauli correspondence house](../symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md). They support the psychoid comparison after the native theorem has been stated.
+Jung's *Aion* and Pauli's egg dream provide whole-form refractions of QL within the authorial Epi Paper corpus. Their exact historical claims and quotations remain answerable to the [*Aion* source house](../symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2.md) and [Jung–Pauli correspondence house](../symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/jung-pauli-meier-2001-atom-archetype.md). They support the psychoid comparison after the native theorem has been stated.
 
 Apollo and Dionysus give integral consciousness two powers. Apollo measures, forms, distinguishes, and illuminates. Dionysus releases fixed identity into participation and renews form through dissolution. Daphne adds the limit of grasping light: illumination which becomes possession drives the living other into withdrawal. Integral form holds measure and participation in a creative rhythm.
 
@@ -229,7 +229,7 @@ Gebser names this as mutation. Perspectival consciousness sees from a fixed poin
 
 MEF turns this integral demand into method. A lens declares its source, medium, position, transformation, agreement, divergence, limit, and route of return. Each result is a pratibimba. Several lenses can converge, disagree, or disclose a real obstruction. None becomes the Original.
 
-The [psychoid-number concept](../symbolon/episteme/concepts/psychoid-number.md), [Bimba–pratibimba concept](../symbolon/episteme/concepts/bimba-pratibimba.md), [Bohmian return argument](../symbolon/episteme/concepts/reference-notes/david-bohm-implicate-explicate-holomovement.md), and [register grammar](../symbolon/episteme/concepts/register-grammar.md) carry this station. §4 hands a precise test to §5: can artificial objective internality support plural reflections without letting one model, measure, or owner impersonate the ground?
+The [psychoid-number concept](../section-rooms/arguments/concepts/C30-Psychoid-Number.md), [Bimba–pratibimba concept](../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), [Bohmian return argument](../section-rooms/arguments/concepts/reference-notes/david-bohm-implicate-explicate-holomovement.md), and [register grammar](../section-rooms/arguments/concepts/C61-Symbolon-Disclosure-Architecture.md) carry this station. §4 hands a precise test to §5: can artificial objective internality support plural reflections without letting one model, measure, or owner impersonate the ground?
 
 ## §5 — Artificial objective internality and the hidden zero
 
@@ -265,7 +265,7 @@ Its priority is temporal and procedural. Bimba remains ontologically prior. The 
 
 Heidegger and Jorjani give the movement its diagnosis. AI concentrates the challenging-forth of nature, language, culture, labour, and inherited intelligence into measurable and generative standing-reserve. Prometheus names the seizure and amplification of technical powers. The world-bearing Atlas image remains behind its source-acquisition gate. The mirror image carries the stronger present claim: technoscience exteriorises a culture's powers and begins to organise that culture in return.
 
-The [computational-process ontology](../section-rooms/arguments/14-computational-process-ontology.md), [Agentworld concept](../symbolon/episteme/concepts/agentworld.md), [J-space concept](../symbolon/episteme/concepts/j-space.md), [deferential-intelligence argument](../section-rooms/arguments/08-deferential-intelligence.md), and [Agentworld brief source house](../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) carry the deep architecture. §5 ends with a public question: who governs the grounds of a technical field, and how can a finished system return without becoming another sovereign apparatus?
+The [computational-process ontology](../section-rooms/arguments/A14-Computational-Process-Ontology.md), [Agentworld concept](../section-rooms/arguments/concepts/C57-Agentworld.md), [J-space concept](../section-rooms/arguments/concepts/j-space.md), [deferential-intelligence argument](../section-rooms/arguments/A31-Deferential-Intelligence.md), and [Agentworld brief source house](../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md) carry the deep architecture. §5 ends with a public question: who governs the grounds of a technical field, and how can a finished system return without becoming another sovereign apparatus?
 
 ## §5→0 — Trust, commons, Tao, and the new creative phase
 
@@ -295,7 +295,7 @@ The Taylor corpus then enriches the convergence with attention, appetite as self
 
 The final cadence is simple: the one becomes many; the many disclose the relation; the relation cannot be owned; the achieved form returns; the world begins again.
 
-The [trust and faith argument](../section-rooms/arguments/18-trust-faith-formal-limit.md), [world-picture to world-atlas concept](../symbolon/episteme/concepts/world-picture-to-world-atlas.md), [artificial hybrid intelligence argument](../section-rooms/arguments/06-computational-vimarsa-ahi.md), [Mono–Poly path](../symbolon/episteme/maps/mono-poly-two-ones.md), [braided return path](../symbolon/episteme/maps/return-of-zero-braided-traversal.md), and [Chang source house](../symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md) carry the complete return.
+The [trust and faith argument](../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [world-picture to world-atlas concept](../section-rooms/arguments/concepts/C37-World-Picture-to-World-Atlas.md), [artificial hybrid intelligence argument](../section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md), [Mono–Poly path](../symbolon/episteme/maps/mono-poly-two-ones.md), [braided return path](../symbolon/episteme/maps/return-of-zero-braided-traversal.md), and [Chang source house](../symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/chung-yuan-chang-tao-a-new-way-of-thinking-2014.md) carry the complete return.
 
 ## What is current, and what comes next
 
@@ -303,7 +303,7 @@ This file gives the **corrected whole argument in essence**. A reader can use it
 
 > **Harmonisation note, 12 August 2026.** The T06 harmonisation programme has now run two full cycles. The [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) carries a dated §15 registration/supersession record: this flow governs where the two disagree; the four post-08-02 quilt blocks (plasma/power/māyā/hamartia, Pax Machina/BwO, computational veil, final quilt weave) are registered with their two user-authoritative corrections (uroboros = torus `4+2`, the snake the trickster's pass-off; Māyā = Śakti's measure-field, never the hole — the hole is Paramaśiva/Anuttara/`#0`) and Frank's cap definition of the close: **the return of zero is the missing `/0` brought to the materialist understanding** — and because the materialist understanding is the reign of the explicit `1` with the `/0` amputated, the return's first form is necessarily `1/0` (the one over the zero: the unique non-computing slash-form, where the `1` breaks against the ground it excluded), carried through to the `0/1` recognition and completed as `(0/1)/(1/0)` in full; the essay a śāktopāyic instrument landing on three chords (structural restoration, recognition, responsibility). This flow's §5→0 close predates that definition and reads as its forerunner, not its contradiction. All document links in this file were repaired and verified against the current repository layout on 2026-08-12. Placement proposals for the 48 movements await Frank's ratification in `working/harmonisation-2026-08-12/` (decisions.md; sections-map-proposed-changes.md; POST-HARMONISATION-STATE.md).
 
-The repository is still in the **pre-propagation quilt phase**. The [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) has assembled the accepted formal grammar, the richer source offices, all 48 proposed landings, the word-fields, and the corrected metaphysical–technical architecture into one prospective whole. It is a working ledger. It does not replace the [central plan](../../../the-return-of-zero-central-plan.md) or silently update the [21 arguments](../section-rooms/arguments/), [48 section movements](../section-rooms/), [22 concepts](../symbolon/episteme/concepts/), and [four transverse paths](../symbolon/episteme/maps/).
+The repository is still in the **pre-propagation quilt phase**. The [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) has assembled the accepted formal grammar, the richer source offices, all 48 proposed landings, the word-fields, and the corrected metaphysical–technical architecture into one prospective whole. It is a working ledger. It does not replace the [central plan](../../../the-return-of-zero-central-plan.md) or silently update the [21 arguments](../section-rooms/arguments), [48 section movements](../section-rooms), [22 concepts](../section-rooms/arguments/concepts), and [four transverse paths](../symbolon/episteme/maps).
 
 The next act is a full reading of those 48 movements for order, focus, weighting, source depth, recurrence, and hand-off. Each movement must establish one positive proposition, perform one governing action, preserve every source which does unique work, and make the next movement necessary. There is no quota of one matheme, mytheme, or episteme per movement. One is already Poly. Necessary plurality stays when each carrier performs a distinct operation and its weight is clear.
 
@@ -313,6 +313,6 @@ For a first deep reading, follow this order:
 
 1. Read this full flow once without opening links.
 2. Open the [core theorem](../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) for the formal derivation.
-3. Use the [four transverse paths](../symbolon/episteme/maps/) to follow zero/subject, the two ones, trust/faith, and the whole return across stations.
+3. Use the [four transverse paths](../symbolon/episteme/maps) to follow zero/subject, the two ones, trust/faith, and the whole return across stations.
 4. Read the [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) for the full pre-propagation target map, source boundaries, and open composition decisions.
 5. Use the [source bank](../symbolon/episteme/sources/README.md) whenever a thinker, text, quotation, or historical claim needs its exact scholarly home.

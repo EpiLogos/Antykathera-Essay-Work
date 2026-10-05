@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Specify a medium and its equation
 
-The [audible and visible bridge](../../episteme/concepts/reference-notes/cymatics-standing-waves.md) gives a material wave both sounded and patterned expression under specified conditions. The [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) places four proposed nodal anchors beside eight articulating positions. No acquired primary experiment establishes that correspondence; the standing wave below is a separately worked mathematical construction.
+The [audible and visible bridge](../../../section-rooms/arguments/concepts/reference-notes/cymatics-standing-waves.md) gives a material wave both sounded and patterned expression under specified conditions. The [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) places four proposed nodal anchors beside eight articulating positions. No acquired primary experiment establishes that correspondence; the standing wave below is a separately worked mathematical construction.
 
 Assume an ideal uniform stretched string of length `L>0`, fixed at both ends, with transverse displacement `u(x,t)` satisfying the linear wave equation `u_tt=c²u_xx`, where `c>0`. These assumptions name the medium model and boundary conditions.
 
@@ -43,6 +43,6 @@ A discriminating test varies the proposed anchors while holding forcing and medi
 
 ## #5→0 — Return the visible pattern through its conditions
 
-The result is a derived standing wave under explicit assumptions and a separate testable proposal for audible/visible coordination. Sound, light and consciousness have not been identified as one physical quantity. The native [ratio field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) can be rendered in more than one modality while each rendering retains its causal account.
+The result is a derived standing wave under explicit assumptions and a separate testable proposal for audible/visible coordination. Sound, light and consciousness have not been identified as one physical quantity. The native [ratio field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) can be rendered in more than one modality while each rendering retains its causal account.
 
 [Musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) keeps the visible pattern answerable to its medium, mode and forcing. [Music’s observer and instrument](../music/observer-instrument.md) lets the measured response return to the specified arrangement rather than taking the intended picture as its own confirmation. The physical source debt is specific to the experimental claims; it does not weaken the worked wave-equation construction or silently certify the proposed 8+4 correspondence.

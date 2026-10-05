@@ -1,0 +1,53 @@
+{
+  "schema": "return-of-zero.publish-selection/v1",
+  "standing": "locked-exclusion-contract",
+  "date": "2026-09-24",
+  "vault_root": "submission-package/essay",
+  "index_file": "README.md",
+  "description": "Obsidian Publish publishes this vault in place. Canonical publication records are included; the named support/provenance surfaces below are excluded even though they share the vault root.",
+  "site_options": {
+    "index_file": "README.md",
+    "show_navigation": true,
+    "show_graph": true,
+    "show_outline": true,
+    "show_search": true,
+    "show_backlinks": true,
+    "show_hover_preview": true,
+    "show_theme_toggle": true,
+    "sliding_window": true
+  },
+  "include": {
+    "default": "all markdown under the vault root that is not matched by exclude"
+  },
+  "exclude": [
+    {
+      "pattern": "quilt/**",
+      "reason": "internal quilts and pre-propagation ledgers — supporting, not public publication body"
+    },
+    {
+      "pattern": "section-rooms/arguments/concepts/reference-notes/**",
+      "reason": "quilt-pending reference-notes shelf — provenance, not public depth"
+    },
+    {
+      "pattern": "**/*-NOTES.md",
+      "reason": "Frank-authored source-house encounter notes — readable in-repo, never public"
+    },
+    {
+      "pattern": "**/NOTES.md",
+      "reason": "legacy Notes filename guard; renamed houses use <source_id>-NOTES.md"
+    },
+    {
+      "pattern": "symbolon/episteme/maps/navigation/**/*.json",
+      "reason": "generated navigation audit JSON — machine mirror, not a reader page"
+    }
+  ],
+  "operator_binding": {
+    "headless_setup": "cd submission-package/essay && ob publish-setup --site \"<site>\"",
+    "headless_site_options": "ob publish-site-options --index-file README.md --show-navigation true --show-graph true --show-outline true --show-search true --show-backlinks true --show-hover-preview true --show-theme-toggle true --sliding-window true",
+    "note": "Apply exclude patterns through the Publish path filters or equivalent headless flags so the locked surfaces never leave the private vault."
+  },
+  "authority": [
+    "WRITING-PROTOCOL.md §16 Public Git and clean-release discipline",
+    "working/manuscript-source-enrichment-2026-09-20/assembly/OBSIDIAN-PUBLISH-WALKTHROUGH.md"
+  ]
+}

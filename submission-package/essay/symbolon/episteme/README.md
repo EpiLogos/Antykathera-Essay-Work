@@ -17,9 +17,9 @@ This register preserves the difference between the essay's position and what a s
 
 ## The canonical semantic field
 
-- [Arguments A01–A36](arguments/README.md) — the canonical semantic Argument identities. Historical Argument `01–21` carriers remain provenance on the [rooms' argument shelf](../../section-rooms/README.md#the-argument-shelf), and global Movement `01–48` remains the sovereign traversal numbering.
-- [Conjugate arguments A01′–A36′](conjugate/README.md) — the technological face of each Argument, with the dual-form root `A/C`.
-- [Concepts C01–C64](concepts/CANONICAL-INDEX.md) — the canonical reusable semantic distinctions; the [concept register](concepts/README.md) also keeps the developed pre-T09 pages and the recovered reference shelf as provenance.
+- [Arguments A01–A36](../../section-rooms/arguments/README.md) — the canonical semantic Argument identities. Historical Argument `01–21` carriers remain provenance on the [rooms' argument shelf](../../section-rooms/README.md#the-argument-shelf), and global Movement `01–48` remains the sovereign traversal numbering.
+- [Conjugate arguments A01′–A36′](../../section-rooms/arguments/conjugate/README.md) — the technological face of each Argument, with the dual-form root `A/C`.
+- [Concepts C01–C64](../../section-rooms/arguments/concepts/CANONICAL-INDEX.md) — the canonical reusable semantic distinctions; the [concept register](../../section-rooms/arguments/concepts/README.md) also keeps the developed pre-T09 pages and the recovered reference shelf as provenance.
 - [A ↔ C ↔ E Reciprocity](etymologies/T09-A-C-E-RECIPROCITY-INDEX.md) — six mature Etymology whole-fields routed by exact consumed operation and evidence register.
 - [Relational Form Growth](etymologies/RELATIONAL-FORM-GROWTH.md) — `N / N′ → N+N′` relational generation kept distinct from `N → N×N` distributive recursion.
 
@@ -34,7 +34,7 @@ This register preserves the difference between the essay's position and what a s
 - [Dossiers](dossiers/README.md) — sustained comparative treatments of one pressure across several sources or fields.
 - [Figures](figures/README.md) — timelines, tables, genealogies and evidential visualisations that make a warranted relation inspectable.
 - [Aphorisms](aphorisms/investigation-and-faith.md) — the one admitted aphorism, *Investigation and Faith*, retained whole.
-- [Dialogues](dialogues/README.md) — records of the work's own formation through dialogue; provenance of thinking, never evidence on its own.
+- Dialogues — records of the work's own formation through dialogue; provenance of thinking, never evidence on its own.
 
 ## Record form
 

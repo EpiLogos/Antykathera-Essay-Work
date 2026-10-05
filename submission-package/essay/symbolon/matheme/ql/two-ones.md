@@ -11,7 +11,7 @@ source_relation: "Extracted internal derivation; Argued numerical reading"
 
 ## #0 — One and All are assigned different offices
 
-The native assignment is `0 = One`, `1 = All`. One names singular source; All names its polyvalent articulation. The [Mono–Poly manuscript](../../episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) sources their asymmetry. [A11](../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md) grounds this assignment before the whole/many account of A12.
+The native assignment is `0 = One`, `1 = All`. One names singular source; All names its polyvalent articulation. The [Mono–Poly manuscript](../../episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/taylor-2026-mono-poly-two-ones.md) sources their asymmetry. [A11](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) grounds this assignment before the whole/many account of A12.
 
 The mathematical task is to identify the numerical floor and its precise relation to the native operation. The philosophical One is not defined as the empty set by this comparison.
 
@@ -49,4 +49,4 @@ The two terms give four ordered pairings. Keeping both the terms and those pairi
 
 The result separates numerical construction, starting convention, and native relational office while showing why their encounter matters. The zero that enables a count and the one that holds a predecessor supply definite operations for the essay to work with.
 
-This record returns-to [A11](../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md) and [Movement15, The Empty Set Generates One](../../../section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md). The [root 0/1](../../0-1.md) gathers the relation that the numerical floor helps make legible.
+This record returns-to [A11](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) and [Movement15, The Empty Set Generates One](../../../section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md). The [root 0/1](../../0-1.md) gathers the relation that the numerical floor helps make legible.

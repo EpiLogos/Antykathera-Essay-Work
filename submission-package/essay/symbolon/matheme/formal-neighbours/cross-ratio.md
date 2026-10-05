@@ -15,7 +15,7 @@ For four distinct finite complex points, define
 
 `λ(z₁,z₂;z₃,z₄)=((z₁−z₃)(z₂−z₄))/((z₁−z₄)(z₂−z₃))`.
 
-The order and convention are explicit because other conventions permute this value. [Bilinear invariance](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) states the transformation class under which the cross-ratio remains unchanged. The [native ratio-of-ratios](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) holds the whole relation in its two obverse orientations; its distinct signature supplies the comparison developed below.
+The order and convention are explicit because other conventions permute this value. [Bilinear invariance](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) states the transformation class under which the cross-ratio remains unchanged. The [native ratio-of-ratios](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) holds the whole relation in its two obverse orientations; its distinct signature supplies the comparison developed below.
 
 ## #1 — State the transformation
 

@@ -11,9 +11,9 @@ source_relation: "Extracted internal quilting; exact constructions and source-di
 
 ## #0 — The psychoid threshold
 
-In the third quilt of the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), naming and numbering articulate a distinction together. Its six terms form an authorial operational circuit: VALUE→MEASURE→RATIO→EQUATION→PRODUCT→SOLVE. The [native sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) carries ground, definition, force, pattern, context and realisation beneath this linguistic enactment.
+In the third quilt of the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md), naming and numbering articulate a distinction together. Its six terms form an authorial operational circuit: VALUE→MEASURE→RATIO→EQUATION→PRODUCT→SOLVE. The [native sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) carries ground, definition, force, pattern, context and realisation beneath this linguistic enactment.
 
-The input is something that matters before it has been fully specified. The operation progressively marks, relates, equates and produces a determination, then releases its claim to finality. Historical word descent and this present relational construction have separate standing under the [homology/analogy field](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md).
+The input is something that matters before it has been fully specified. The operation progressively marks, relates, equates and produces a determination, then releases its claim to finality. Historical word descent and this present relational construction have separate standing under the [homology/analogy field](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md).
 
 ## #1 — Place the six acts
 
@@ -50,4 +50,4 @@ The psychoid claim concerns the formative relation through which meaning and num
 
 The result is the same determination carried with a return route: value can enter measure and product without being exhausted by either. The quilt retains its short chain, `0/1=4+2=5→0=0/1`. Its Night-pass primes belong to the later [enantiodromic return](enantiodromic-return.md), not File 2's inverse-phase positions.
 
-[Whole and many](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md) retain the differentiated result within the relation that made it possible. [The returning loan](../../../section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md) releases its possession so that an achieved determination can enter another encounter. The [psychological turn](psychology.md) takes up the one who values, marks, gathers and releases, while the distinct historical root claims retain their stated evidential limits.
+[Whole and many](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) retain the differentiated result within the relation that made it possible. [The returning loan](../../../section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md) releases its possession so that an achieved determination can enter another encounter. The [psychological turn](psychology.md) takes up the one who values, marks, gathers and releases, while the distinct historical root claims retain their stated evidential limits.

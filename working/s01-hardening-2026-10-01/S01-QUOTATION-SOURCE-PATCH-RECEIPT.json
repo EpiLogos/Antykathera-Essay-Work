@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-04",
+  "scope": "released source apparatus only; authorial prose and NOTES preserved",
+  "changes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1976-psychological-types-cw6/jung-1976-psychological-types-cw6.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "b34a1f647fa252c801f59a43a0ed139393ceb1dea7f3e8222f9dc55a8859a055"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1975-structure-dynamics-psyche-cw8/jung-1975-structure-dynamics-psyche-cw8.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "40125f8272e10e3df5fbc3dfeec07e625df5b9d18028518842ef5dad09c1cdfc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "c2ec211fb0b2969db672eea6ddee1845928037cb5413d860bb5055f866bf3f9c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1980-psychology-alchemy-cw12/jung-1980-psychology-alchemy-cw12.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "ee689de53c61e1551bcb19dae195e9425614936d603a67891fcd5353a4958fbe"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1983-alchemical-studies-cw13/jung-1983-alchemical-studies-cw13.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "1bb6b4817ea02675da41295c87bd8835c39302f2388ee414f11032d7d6fe1761"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1977-mysterium-coniunctionis-cw14/jung-1977-mysterium-coniunctionis-cw14.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "56e04ffc8a320733c629894b278e792187cd7c6a3a08f29630c96c7b9a75b05b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1971-spirit-man-art-literature-cw15/jung-1971-spirit-man-art-literature-cw15.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "70f13f348fb5b6800443a5b76b35b65534706180a8d66ce884aa85d4bb6bb86d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1976-symbolic-life-cw18/jung-1976-symbolic-life-cw18.md",
+      "operation": "create-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "3755cea2e96576350f987c8c5ad370e98b35ae4d22191be4f13704606aad2cc6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md",
+      "operation": "append-locator-cards",
+      "preimage_sha256": "a63cc2c85e85881e0d2468798f90b5900cf95103c8e2077ddcccf28b4debe1a5",
+      "postimage_sha256": "5b031b5f67ae0a594fb6233295917abe1c41965015686eabfe97e024dd21af66"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2.md",
+      "operation": "append-locator-cards",
+      "preimage_sha256": "ba20777ba3c2cb2f2118509f42a4b9468664a5c2e224269883e2ea75c6c4309f",
+      "postimage_sha256": "e7692778bed873b3610ad323f88fe436fae6523ee6941f1649e3567c9259c883"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-exposed/wired-2026-dialog-exposed.md",
+      "operation": "create-documentary-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "c052001ed634d6b1a4976b7bf37cc9745e22c921033f2ec04ba73dfd3c81484a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-rankings/wired-2026-dialog-rankings.md",
+      "operation": "create-documentary-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "0c82559b3c348e3bbbfa9565329bc3bf04f17ae274520de4860934ceee99e085"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/kinzer/kinzer-2026-mkultra-house-testimony/kinzer-2026-mkultra-house-testimony.md",
+      "operation": "create-documentary-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "57816840b7eecf0272f709e0ea4ae631947ef2909482e50af11d8fd74dbff6a5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/united-states-senate/senate-1977-project-mkultra-hearing/senate-1977-project-mkultra-hearing.md",
+      "operation": "create-documentary-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "25316db411d22f1f8b7c2437793d827f069561f11af135a0c6c3a784bd8c5b19"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/united-states-doj/doj-2025-epstein-production-letter/doj-2025-epstein-production-letter.md",
+      "operation": "create-documentary-source-house",
+      "preimage_sha256": null,
+      "postimage_sha256": "accfb26303697d97c210d74e38843cc71db9bdc664758debc69f86fbb915cf1e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/bai/bai-2022-constitutional-ai/bai-2022-constitutional-ai.md",
+      "operation": "add-q002-access-provenance",
+      "postimage_sha256": "692f2abd3a00e11de0db6fca845323990e3c4c806ecaa021977caae33d2f31e3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/bengio/bengio-2003-neural-probabilistic-language-model/bengio-2003-neural-probabilistic-language-model.md",
+      "operation": "add-q002-access-provenance",
+      "postimage_sha256": "2c475421e03f6a8373f5549f1581284e6d709aac07e2d5d3997751332f5be2f4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/chalmers/chalmers-1995-facing-up-consciousness/chalmers-1995-facing-up-consciousness.md",
+      "operation": "add-q002-access-provenance",
+      "postimage_sha256": "049261ebcfcc4399af48eb071cb77f40c56ce4878c11442c6f6fe1c6f50645b3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/plato/plato-jowett-phaedrus/plato-jowett-phaedrus.md",
+      "operation": "add-q002-access-provenance",
+      "postimage_sha256": "b5f89835ad7a19333bc7f5cccec8329b7b668473e4d8f019ef1165d3e7c8213b"
+    }
+  ],
+  "protected_authorial_inputs": {
+    "working/s01-hardening-2026-10-01/M01-REWRITE.md": "a55d712973e2193ae98c725c4af031e979363a6347281b5129a943ec33a44209",
+    "working/s01-hardening-2026-10-01/M04-REWRITE.md": "30f48f1fb88a795019f92346b82e7a8a16d125dce0a813ca46a27dfa2c8a8b5a",
+    "working/s01-hardening-2026-10-01/M03-REWRITE.md": "bc62b14bf1f05581657dd9602246618ab72df1646a4fa5a70ecd59d9bdb7010e",
+    "working/s01-hardening-2026-10-01/M06-REWRITE.md": "2975e34afee75df6de63eeb9d2f6f6bd07fc7daae6c3bead3656bc3a462d9e81",
+    "working/s01-hardening-2026-10-01/M05-REWRITE.md": "c853dc15ceeb367041f6e11abe2f363c28069562f7e0d29bb243c64a3636791b",
+    "working/s01-hardening-2026-10-01/M02-REWRITE.md": "1532be9d6c5a23b897516cf7c8a3abf6b68a1a29748a933bd3b80e228c76685c",
+    "working/s01-hardening-2026-10-01/500-word-essay-abstract": "2e240a8714c9980cfe9ba9158edcb449f73eeacce49476627035c808b4c03bd7"
+  },
+  "books_status": "real carrier/paragraph locations recovered; rights provenance unregistered, no new quotation admitted",
+  "generated_projections": "parent owns one source/room/navigation rebuild after final hashes"
+}

@@ -1,0 +1,288 @@
+
+> oi-site@0.1.0 build:public
+> npm run build:library && npm run build:essay-quartz && tsc -p tsconfig.public.json && vite build --config vite.public.config.ts && node write-vercel-deploy-config.mjs
+
+
+> oi-site@0.1.0 build:library
+> node build-library.mjs && node build-publications.mjs && node build-essay-browser.mjs && node prepare-public-assets.mjs
+
+Library: 10 native site editions, 55 exact Scenes; sha256:f68a9fe565705a2de1c83b4b40144649d7f1bcb3cb0c76cf225de95dc6aca3d4
+Native Library: 0 public subjects; 0 revisioned publications. No live subscription.
+Essay browser: 874 pages from 44e4da181e97 → public/essay-shell
+{
+  Rooms: 239,
+  Symbolon: 14,
+  Matheme: 93,
+  Mytheme: 148,
+  Episteme: 378,
+  Manuscript: 1
+}
+Public assets: 14 declared edition files; approved editorial media. Development demo datasets excluded.
+
+> oi-site@0.1.0 build:essay-quartz
+> node build-essay-quartz.mjs
+
+
+ Quartz v4.5.2  
+
+Cleaned output directory `/Users/admin/Central/Work/O-I/site/.public-edition/essay` in 14ms
+Found 874 input files from `content` in 46ms
+Parsing input files using 4 threads
+
+Warning: content/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/agentworld.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/anthropomorphization.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY-apportionment-and-economy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/apoha.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/bimba-pratibimba.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES-arbitration-hybris-regard-anamnesis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/00-integral-threshold/READING-00-integral-threshold.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/centaur-societies.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY-arbitration-hybris-regard-anamnesis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/compassion-as-sensitivity-to-origins.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/counterfeit-gathering.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/diaphaneity.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/earth-taste-wisdom/HISTORY-earth-taste-wisdom.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/dimensional-reframing-at-zero-and-infinity.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/encounter-region-name-count/HISTORICAL-BRANCHES-encounter-region-name-count.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/fusion-as-syns-shadow.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/02-return-of-zero/READING-02-return-of-zero.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY-encounter-region-name-count.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/index.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/mathematical-artistic-image-register.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/HISTORY-genesis-paradigm-project-epilogos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/03-two-logics/ROOM-03-two-logics.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/parasociety.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/planetary-computation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES-homology-and-analogy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/prompt-thrownness.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/homology-and-analogy/HISTORY-homology-and-analogy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/psychoid-number.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/register-grammar.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/simulation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-symbol-account-and-trust.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/the-slash.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/vikalpa-samkalpa.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/06-objective-internality/ROOM-06-objective-internality.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY-symbol-account-and-trust.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/world-picture-to-world-atlas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/analytic-philosophy/chalmers/chalmers-1995-facing-up-consciousness/chalmers-1995-facing-up-consciousness.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/arguments/concepts/zero.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES-trust-place-logos-nomos-natio-credere.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY-trust-place-logos-nomos-natio-credere.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/encounters-and-transmissions/myth/HISTORY-myth.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT-language-law-nation-centralisation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT-ancient-philosophy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT-indian-philosophy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY-indian-philosophy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/classical-premodern-philosophy/plato/plato-jowett-phaedrus/plato-jowett-phaedrus.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/computer-science-ml/bai/bai-2022-constitutional-ai/bai-2022-constitutional-ai.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY-mathematics.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/computer-science-ml/bengio/bengio-2003-neural-probabilistic-language-model/bengio-2003-neural-probabilistic-language-model.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-process-systems-science.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/HISTORY-process-systems-science.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/psychology/HISTORY-psychology.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/political-theory-institutions/kinzer/kinzer-2026-mkultra-house-testimony/kinzer-2026-mkultra-house-testimony.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/political-theory-institutions/united-states-doj/doj-2025-epstein-production-letter/doj-2025-epstein-production-letter.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/political-theory-institutions/united-states-senate/senate-1977-project-mkultra-hearing/senate-1977-project-mkultra-hearing.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-exposed/wired-2026-dialog-exposed.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-rankings/wired-2026-dialog-rankings.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1971-spirit-man-art-literature-cw15/jung-1971-spirit-man-art-literature-cw15.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1975-structure-dynamics-psyche-cw8/jung-1975-structure-dynamics-psyche-cw8.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1976-psychological-types-cw6/jung-1976-psychological-types-cw6.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1976-symbolic-life-cw18/jung-1976-symbolic-life-cw18.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1977-mysterium-coniunctionis-cw14/jung-1977-mysterium-coniunctionis-cw14.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1980-psychology-alchemy-cw12/jung-1980-psychology-alchemy-cw12.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-1983-alchemical-studies-cw13/jung-1983-alchemical-studies-cw13.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/symbolon/episteme/sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md isn't yet tracked by git, dates will be inaccurate
+Parsed 874 Markdown files in 39s
+Filtered out 0 files in 5ms
+Emitting files
+Emitted 2175 files to `/Users/admin/Central/Work/O-I/site/.public-edition/essay` in 4s
+Done processing 874 files in 43s
+(node:92070) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:92070) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:92070) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:92070) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:92070) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "−" (8722) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "−" (8722) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "−" (8722) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "Ø" (216) [unknownSymbol]
+Quartz essay publication: 874 published pages + 16 visual assets from https://github.com/EpiLogos/Antykathera-Essay-Work.git@44e4da181 at .public-edition/essay. Frontmatter deduped in 79 files (Notion import duplicate source_id).
+vite v5.4.21 building for production...
+transforming...
+✓ 145 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/library.html                        0.62 kB │ gzip:   0.38 kB
+dist/build.html                          0.74 kB │ gzip:   0.41 kB
+dist/research.html                       0.74 kB │ gzip:   0.42 kB
+dist/products.html                       0.76 kB │ gzip:   0.43 kB
+dist/oi.html                             0.76 kB │ gzip:   0.43 kB
+dist/shell.html                          0.79 kB │ gzip:   0.47 kB
+dist/index.html                          0.79 kB │ gzip:   0.48 kB
+dist/shared-field.html                   0.79 kB │ gzip:   0.44 kB
+dist/assets/main-HiB4qHtd.css           47.06 kB │ gzip:  10.05 kB
+dist/assets/main-DFHOPj5T.js             0.03 kB │ gzip:   0.05 kB
+dist/assets/NativeStage-DkH07EHc.js      5.68 kB │ gzip:   2.29 kB
+dist/assets/main-COig66Ro.js           514.36 kB │ gzip: 173.94 kB
+dist/assets/native-player-Bn6cIjyx.js  839.97 kB │ gzip: 225.09 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 3.90s
+Deploy config restored: dist/.vercel/project.json (oi-epi-logos), dist/vercel.json.

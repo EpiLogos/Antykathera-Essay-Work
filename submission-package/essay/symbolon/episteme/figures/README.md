@@ -15,3 +15,13 @@ Each figure identifies its data or source records, construction method, omission
 Formal derivations belong in [Matheme diagrams](../../matheme/diagrams/README.md). Composed imaginal arguments belong in [Mytheme plates](../../mytheme/plates/README.md).
 
 Return to [Episteme](../README.md).
+
+
+## Admitted records (2026-09-25 production pass)
+
+Each entry is a record+asset pair; the record declares proposition, invariant, proof boundary, anchored movements, caption and alt text.
+
+- [ac-suite-field-shape](ac-suite-field-shape.md) — 
+- [bimba-pratibimba-relational-office](bimba-pratibimba-relational-office.md) — 
+- [objective-internality-paired-disclosures](objective-internality-paired-disclosures.md) — 
+- [vak-register-layering](vak-register-layering.md) — 

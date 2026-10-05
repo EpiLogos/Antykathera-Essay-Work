@@ -17,7 +17,7 @@ source_ids:
 
 ## #0 — One palette, two traversals
 
-The [foundational ratios](foundational-ratios.md) supply two generators: `9/8`, the whole-tone, and `3/2`, the fifth. Their [musical projection](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) orders the same twelve pitch classes in two ways. The chromatic basis advances through whole-tone adjacency; the fifths basis advances through harmonic fifth-motion. Their different orders change how the same-position conjugate relation sounds.
+The [foundational ratios](foundational-ratios.md) supply two generators: `9/8`, the whole-tone, and `3/2`, the fifth. Their [musical projection](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) orders the same twelve pitch classes in two ways. The chromatic basis advances through whole-tone adjacency; the fifths basis advances through harmonic fifth-motion. Their different orders change how the same-position conjugate relation sounds.
 
 The matrices below use twelve-tone equal temperament and octave equivalence. Write pitch class as `p∈ℤ₁₂`, with `C=0`, `C♯=1`, and so on. Addition is modulo twelve. For an actual starting frequency `f₀`, an equal-tempered displacement of `n` semitones gives `f₀·2^(n/12)` before octave reduction.
 
@@ -111,9 +111,9 @@ The source assigns the same contents to the six position-indices in both bases:
 
 These are Taylor’s QL assignments. Their stadial column belongs to his synthesis; it does not establish a historical claim that Gebser supplied this entire six-row musical mapping. Each position carries both Name and Power, with their emphasis changing through the face traversed. The note is its location under a specified basis and anchor.
 
-E makes the dependency concrete. In the chromatic matrix E occupies `k=2`, Word/Sacrifice; in the fifths matrix it occupies `k=4`, Son/Love. Changing basis changes which note carries a position while preserving that position’s defined contents. [Formative articulation](../../episteme/arguments/A06-Vak.md) relates the operation which makes a sign available to its achieved expression; the musical assignment gives that relation a particular coordinate grammar.
+E makes the dependency concrete. In the chromatic matrix E occupies `k=2`, Word/Sacrifice; in the fifths matrix it occupies `k=4`, Son/Love. Changing basis changes which note carries a position while preserving that position’s defined contents. [Formative articulation](../../../section-rooms/arguments/A06-Vak.md) relates the operation which makes a sign available to its achieved expression; the musical assignment gives that relation a particular coordinate grammar.
 
-The [parallel musical matrices](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) retain six positions with two faces each. A changed projection can alter the pitches assigned to those offices; its account must retain the basis, anchor and face through which a particular tone became available.
+The [parallel musical matrices](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) retain six positions with two faces each. A changed projection can alter the pitches assigned to those offices; its account must retain the basis, anchor and face through which a particular tone became available.
 
 ## #5→0 — Closure retains its tuning account
 
@@ -127,7 +127,7 @@ $$
 =\frac{531441}{524288}.
 $$
 
-Thus reducing octave register alone does not turn the pure generators into these finite cycles. Tempering changes their frequency ratios to obtain the exact pitch-class closure. [Accountable reckoning](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) keeps that operation and its criterion available in the result. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives a return whose retained difference remains explicit.
+Thus reducing octave register alone does not turn the pure generators into these finite cycles. Tempering changes their frequency ratios to obtain the exact pitch-class closure. [Accountable reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) keeps that operation and its criterion available in the result. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives a return whose retained difference remains explicit.
 
 The music register carries the full circuit:
 
@@ -141,4 +141,4 @@ The chain's primes denote File 2's inverse-phase positions. In the matrices abov
 The two bases supply a palette and a conjugate operation to the [pairing grammar](README.md): a selected pair acquires its interval through the stated basis, face and direction. Returning to the [foundational ratios](foundational-ratios.md) keeps the tuning and coordinate choices explicit. The same substrate can be traversed in two orders because the account preserves what each order changes and what its return retains.
 ## Source and implementation standing
 
-The [musical-v3 house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) **sources** the parallel candidate system. File 4 and v3 are superseded in practice by the actual ql-mef package. Its current implementation remains unrecovered here; these matrices identify the housed candidate precisely rather than certifying the package's present mappings.
+The [musical-v3 house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) **sources** the parallel candidate system. File 4 and v3 are superseded in practice by the actual ql-mef package. Its current implementation remains unrecovered here; these matrices identify the housed candidate precisely rather than certifying the package's present mappings.

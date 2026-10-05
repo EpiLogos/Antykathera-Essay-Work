@@ -1,0 +1,81 @@
+{
+  "frames": 489,
+  "frequency": {
+    "entries": 12,
+    "estimatedBytes": 32615174,
+    "maxEntries": 128,
+    "maxEstimatedBytes": 33554432,
+    "hits": 49,
+    "misses": 49,
+    "evictions": 37,
+    "oversized": 0
+  },
+  "glyphs": {
+    "entries": 15,
+    "estimatedBytes": 32456106,
+    "maxEntries": 128,
+    "maxEstimatedBytes": 33554432,
+    "hits": 198,
+    "misses": 198,
+    "evictions": 183,
+    "oversized": 0
+  },
+  "cleared": {
+    "entries": 0,
+    "estimatedBytes": 0,
+    "maxEntries": 128,
+    "maxEstimatedBytes": 33554432,
+    "hits": 198,
+    "misses": 198,
+    "evictions": 183,
+    "oversized": 0
+  },
+  "count": {
+    "entries": 128,
+    "estimatedBytes": 10260474,
+    "maxEntries": 128,
+    "maxEstimatedBytes": 33554432,
+    "hits": 629,
+    "misses": 343,
+    "evictions": 200,
+    "oversized": 0
+  },
+  "recentHit": true,
+  "frequencyChanged": true,
+  "replayed": true,
+  "regenerated": true,
+  "cymatic3D": {
+    "exact": true,
+    "regenerated": true
+  },
+  "fallbackGlyph": {
+    "exact": true,
+    "regenerated": true
+  },
+  "authoredAfterFrequency": true,
+  "authoredAfterGlyphs": true,
+  "authoredAfterCount": true,
+  "volumeCleared": {
+    "entries": 0,
+    "estimatedBytes": 0,
+    "maxEntries": 128,
+    "maxEstimatedBytes": 33554432,
+    "hits": 631,
+    "misses": 343,
+    "evictions": 200,
+    "oversized": 0
+  },
+  "solid": true,
+  "disposed": {
+    "entries": 0,
+    "estimatedBytes": 0,
+    "maxEntries": 128,
+    "maxEstimatedBytes": 33554432,
+    "hits": 632,
+    "misses": 344,
+    "evictions": 200,
+    "oversized": 0
+  },
+  "peakEstimatedBytes": 33550672,
+  "peakEntries": 128
+}

@@ -11,7 +11,7 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — Two questions about one movement
 
-A synchronic reading holds a configuration together; a diachronic reading follows its formation and transformation. [Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) makes this landscape/trajectory pair operative within objective internality. [C50](../../episteme/concepts/C50-Dia-Syn.md) distinguishes it from the logical cut/gather pair.
+A synchronic reading holds a configuration together; a diachronic reading follows its formation and transformation. [Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/taylor-2026-symbolon-dynamics.md) makes this landscape/trajectory pair operative within objective internality. [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md) distinguishes it from the logical cut/gather pair.
 
 The input is a field with states and possible transitions. A current state is not its entire history, and a succession of states does not by itself state the field's rules.
 
@@ -46,4 +46,4 @@ Likewise synchronicity concerns recognised meaning across events with distinct c
 
 The result joins two records: what configuration permitted the movement, and what movement actually occurred. A return can then ask whether the field stayed fixed, which conditions changed, and which future transitions the achieved history now enables.
 
-This record returns-to [A13](../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [C50](../../episteme/concepts/C50-Dia-Syn.md), and [X/x](../ql/x-x.md). [Dia](dia.md) and [Syn](syn.md) operate across both temporalities. The process chain's inverse-phase primes and the quilt's Night-pass primes remain source-local address systems; succession alone gives no licence to collapse them.
+This record returns-to [A13](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md), and [`X/x`](../ql/x-x.md). [Dia](dia.md) and [Syn](syn.md) operate across both temporalities. The process chain's inverse-phase primes and the quilt's Night-pass primes remain source-local address systems; succession alone gives no licence to collapse them.

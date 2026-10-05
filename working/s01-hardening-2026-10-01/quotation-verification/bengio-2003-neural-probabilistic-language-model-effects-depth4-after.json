@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "bengio-2003-neural-probabilistic-language-model",
+    "title": "Bengio et al. — A Neural Probabilistic Language Model (2003)",
+    "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/bengio/bengio-2003-neural-probabilistic-language-model/bengio-2003-neural-probabilistic-language-model.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Bengio et al. — A Neural Probabilistic Language Model (2003)",
+      "Bibliographic identity and Chicago 18 forms",
+      "q001 — Learned word positions and generalisation",
+      "q002 — The historical scope",
+      "Rights and acquisition"
+    ],
+    "sha256": "2c475421e03f6a8373f5549f1581284e6d709aac07e2d5d3997751332f5be2f4",
+    "record_type": "journal-article",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

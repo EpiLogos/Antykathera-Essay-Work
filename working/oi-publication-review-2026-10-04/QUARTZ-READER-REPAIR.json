@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-04",
+  "standing": "Recovered saved reader follow-on is repaired, tested, live, and merged through PR582; shared concurrent authoring inputs preserved.",
+  "historical_basis": {
+    "committed_readability": "4ce422f7b7403316fa733c3580dd86a3cf4f67e3",
+    "saved_follow_on": "5cbd50eda28cdae3968ec56424614b6532680fbb",
+    "equivalent_working_snapshot": "07f022921b46e876acad4ecc91a6ceb3b1188dc2",
+    "preserved_ref": "refs/preserved/essay-reader-follow-on-20260926"
+  },
+  "retained": [
+    "restored O:I hero and authored home",
+    "native Quartz source and all published field bodies",
+    "metadata suppression and night skin",
+    "real search/explorer/graph/backlinks/TOC",
+    "recovered namespace filter and Explorer naming",
+    "current anchor and breadcrumb routes"
+  ],
+  "repair": [
+    "dual desktop controls and responsive native modal drawers",
+    "actual grid tracks; readable article and overflow containment",
+    "graph redraw on opening and viewport resize; dispose native canvases",
+    "nested overlay Escape/focus; closed Search cannot steal focus",
+    "plain opening routes with exact full title rendered once",
+    "native renderer preserves explicitly authored slash-containing link labels",
+    "dispose native Search lifecycle callbacks and asynchronous result/preview ownership across SPA navigation; shared index population",
+    "native Search overlay above fixed toolbar; toolbar outside Search preview clone scope",
+    "phone Explorer follows its drawer heading and Search rather than inherited negative order"
+  ],
+  "owned_files": [
+    {
+      "path": "site/vendor/quartz/quartz.layout.ts",
+      "sha256": "68cb71f02c5f2d2acadd03af8cd9df4612d7aafe4a62b9814d2158982c7994e0",
+      "bytes": 2115
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/index.ts",
+      "sha256": "854caf3104dc7502bc6854aaddd643bffbb505a1b38dd1554fe42178cdc34e80",
+      "bytes": 1369
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/FadeToggles.tsx",
+      "sha256": "c3d07eee9abf5fda2523d7eb9929a16a7fb8cf5404e44bc1ff1e33fba71fd9d3",
+      "bytes": 980
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/renderPage.tsx",
+      "sha256": "5401f3c8cad32f5ec08cd73518bb99696fc66e5b9fbe5c9c16cbd3d36e549b0f",
+      "bytes": 9999
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/Graph.tsx",
+      "sha256": "4caaebd7de349a678f648e9f5b32a58c10ae8913c6e696d7f17d98b2b94fe7d1",
+      "bytes": 4178
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/EssayAnchor.tsx",
+      "sha256": "0e2f83c5d4bae329b40b280ef8278464d9c70371794a5879fa9d5787112ba789",
+      "bytes": 1111
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/essay-panels.inline.ts",
+      "sha256": "52b308d4cc720d3969c613def817d229b318dcf54a07eee3b4221fe1fd2f4bde",
+      "bytes": 5778
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/graph.inline.ts",
+      "sha256": "24d10d345fffe6eeedfbeb7bf8efd4c121e3e102c1066d325c66c6b6a4bdfd68",
+      "bytes": 23665
+    },
+    {
+      "path": "site/vendor/quartz/quartz/components/scripts/search.inline.ts",
+      "sha256": "f00a7e14304c4803dea1f9ba694e09fa2a3876c25cb1c5b3e140221b2827ec36",
+      "bytes": 19632
+    },
+    {
+      "path": "site/vendor/quartz/quartz/styles/custom.scss",
+      "sha256": "7c04501c1fda8b4aa9645fd437094b0015fb7db2cbecb5c80a07e36f6dbfbfbe",
+      "bytes": 9735
+    },
+    {
+      "path": "site/tests/essay-reader-controls.py",
+      "sha256": "7250bb8626bf5765172191be7695c40b024f10192b97ef84e83dc19d955e431c",
+      "bytes": 15653
+    },
+    {
+      "repository": "Antykathera-Essay-Work",
+      "path": "submission-package/essay/README.md",
+      "sha256": "0177fe34df476d8e2a504f5f5f129e7d12cc3940fd121437370cd35a3063a665",
+      "bytes": 14872
+    },
+    {
+      "path": "site/vendor/quartz/quartz/plugins/transformers/links.ts",
+      "sha256": "ea29b2c2138a96a7d2d93fbd3142515419aad095a8cfa895b9b4df8b29657b41",
+      "bytes": 6181
+    }
+  ],
+  "verification": {
+    "syntax_entries": "pass",
+    "sass": "pass",
+    "browser": {
+      "passed": 12,
+      "failed": 0,
+      "exit_code": 0,
+      "engine": "installed Chromium1243; actual softwareWebGL via ANGLE/SwiftShader",
+      "evidence": "final-search-fixed-reader-controls/reader-controls.json",
+      "log": "FINAL-SEARCH-FIXED-READER-CONTROLS.log",
+      "hosts": [
+        "Vercelroot",
+        "Pages/O-I"
+      ],
+      "controls_widths": [
+        1440,
+        1100,
+        900,
+        390
+      ],
+      "repeated_search_widths": [
+        900,
+        1440
+      ],
+      "all_page_error_arrays_empty": true,
+      "screenshots_visually_reviewed": [
+        "vercel-1440-entrance.png",
+        "vercel-900-entrance.png",
+        "vercel-1100-connections.png",
+        "vercel-390-pages.png",
+        "vercel-1440-deep-routes-and-search-repeated-search.png",
+        "pages-390-entrance.png",
+        "pages-390-connections.png"
+      ]
+    },
+    "native_quartz_typecheck": "no diagnostics in owned reader paths; existing unrelated diagnostics retained in QUARTZ-TYPECHECK.log",
+    "focused_preliminary_replay": "Real desktop graph/pointer/Escape passed before incorrect empty-root backlink expectation; exact failure retained in reader-debug/reader-controls.json. This shared-dist replay is not final exact-source evidence.",
+    "search_diagnosis": "SEARCH-LIFECYCLE-DIAGNOSIS.json and REPEAT-SEARCH-TRACE.json",
+    "production": {
+      "url": "https://oi.epi-logos.org",
+      "passed": 5,
+      "failed": 0,
+      "exit_code": 0,
+      "controls_widths": [
+        1440,
+        900,
+        390
+      ],
+      "repeated_search_widths": [
+        1440,
+        900
+      ],
+      "all_document_responses_200": true,
+      "http_errors": 0,
+      "console_errors": 0,
+      "javascript_errors": 0,
+      "evidence": "production-reader-controls/production-reader.json",
+      "log": "PRODUCTION-READER-REPLAY.log",
+      "screenshots_visually_reviewed": [
+        "production-1440-controls-entrance.png",
+        "production-900-controls-connections.png",
+        "production-390-controls-entrance.png",
+        "production-900-routes-and-search-repeated-search.png"
+      ],
+      "deployment_confirmation": "Parent confirmed successful deployment of validated73a06f0e dist to existing oi-epi-logos production project before replay; source-byte verification belongs to parent receipt."
+    },
+    "predecessors": "Original functional failures and focused traces retained; no discarded checks or changed repeated query.900 namespace persistence assertion uses canonical textContent, matching actual stored identifier rather than CSS uppercase display.",
+    "parent_native_proofs": {
+      "reported_host_smoke_passed": 15,
+      "reported_exact_source_landing_gates_passed": 19,
+      "reported_reading_input_hashes_matched": 890,
+      "reported_protected_inputs_matched": 17,
+      "reported_native_library_source_commits_verified": 10,
+      "owner": "parent /root; native receipts in working/publication-integration-2026-10-04"
+    }
+  },
+  "protected": {
+    "manuscript": "untouched by this lane",
+    "movement_bodies": "untouched by this lane",
+    "restored_home": "untouched in this reader repair"
+  },
+  "publication_owner": "parent /root",
+  "foreign_edits": "Parent discovered concurrent home/prose edits in shared source; this lane did not make or overwrite them. Final verification uses clean reader-only materialization from the published baseline.",
+  "product_build_commit": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "reading_source": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "visual_findings": [
+    "Actual right graph available at top of Connections drawer at1100/390; contents remains visible on phone.",
+    "Pages drawer starts with heading/Close, title and Search, then actual tree; inherited mobile negative order removed.",
+    "Root full title appears once; raw authored title and\u00a70/1 labels remain intact.",
+    "Repeated Search previews contain native reading content and no cloned fixed toolbar.",
+    "Both panels can close without widening prose beyond54rem; narrow article remains fully readable without horizontal overflow."
+  ],
+  "measured_live_result": {
+    "900": {
+      "old_graph_y": 7049,
+      "drawer_graph_y": 123,
+      "viewport": 900,
+      "document_width": 900
+    },
+    "390": {
+      "old_graph_y": 9177,
+      "drawer_graph_y": 123,
+      "viewport": 390,
+      "document_width": 390
+    }
+  },
+  "parent_publication": {
+    "validated_source": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+    "main": "336e2141b1e10e1d5ec21968d3cbe0d157e85716",
+    "merged_pr": "https://github.com/EpiLogos/O-I/pull/582",
+    "main_tree_matches_validated_source": true,
+    "native_landing_gates_passed": 19,
+    "unchanged_host_cases_passed": 15,
+    "site_ci_reader_cases_passed": 12,
+    "exact_live_file_matches": 22,
+    "source_return": "../publication-integration-2026-10-04/PUBLICATION-RETURN.md",
+    "secondary_pages_workflow": "https://github.com/EpiLogos/O-I/actions/runs/37223054413",
+    "secondary_pages_standing": "normal main publication in progress at final parent handoff",
+    "temporary_verification_materialization": "retired after source and proof retained"
+  }
+}

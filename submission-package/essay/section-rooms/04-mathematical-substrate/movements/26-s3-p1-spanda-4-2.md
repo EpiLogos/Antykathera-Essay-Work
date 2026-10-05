@@ -15,12 +15,12 @@ tags: [epi-logos/antykathera-essay, argument-map/live, argument-map/section, arg
 # §3 · #1 — The Spanda Equations and 4+2
 
 <!-- reader-navigation -->
-Movement 26 of 48 · [This room](../ROOM.md) · [← Previous](25-s3-p0-eight-determinations.md) · [Next →](27-s3-p2-mark-reentry-complex.md)
+Movement 26 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← Previous](25-s3-p0-eight-determinations.md) · [Next →](27-s3-p2-mark-reentry-complex.md)
 <!-- /reader-navigation -->
 
 ## Movement thesis
 
-[The Spanda equations](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) are the native generative kernel of QL. **They must be read in the declared QL register rather than silently as ordinary field arithmetic.** In particular, `0/0` and `1/0` are symbolic orientations in the authorial calculus, and the later composition of `0/1` with `1/0` is not evaluation of ordinary fractions.
+[The Spanda equations](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) are the native generative kernel of QL. **They must be read in the declared QL register rather than silently as ordinary field arithmetic.** In particular, `0/0` and `1/0` are symbolic orientations in the authorial calculus, and the later composition of `0/1` with `1/0` is not evaluation of ordinary fractions.
 
 The first carries the horizontal pulse from ground through distinction to integrated return:
 
@@ -157,7 +157,7 @@ The first Spanda is the return-reading (`3:3`) of the second Spanda's base-frame
 
 [the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **qualifies** the narrative use of the sixfold count: its administered number figures a completed assignment which conceals its governing relation. That authored return preserves the difference between the native `4:2` derivation, the harmonic carrier developed here and a television designation. Neither the episode's numbering nor its narrative success supplies mathematical or musical proof.
 
-[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the cross-reading by retaining the actual operation at each step. The finite pair `64` and `36` has sum `100`; comparing the same terms proportionally yields `64/36=16/9`; dividing their sum by four would instead give `25`. The change from decomposition to ratio is therefore part of the authored operation, not an algebraic consequence hidden by notation. The exact completion `16/9 × 9/8 = 2` then supplies a genuine musical ratio relation whose philosophical interpretation remains separately argued.
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the cross-reading by retaining the actual operation at each step. The finite pair `64` and `36` has sum `100`; comparing the same terms proportionally yields `64/36=16/9`; dividing their sum by four would instead give `25`. The change from decomposition to ratio is therefore part of the authored operation, not an algebraic consequence hidden by notation. The exact completion `16/9 × 9/8 = 2` then supplies a genuine musical ratio relation whose philosophical interpretation remains separately argued.
 
 ## Transition
 

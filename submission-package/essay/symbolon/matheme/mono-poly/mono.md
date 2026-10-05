@@ -11,9 +11,9 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — Recover the common subject
 
-The equation is the single subject carried by the four Binary Explication files. Definition derives its terms, process unfolds its directions, quilt lets the operation recur through distinct materials, and music gives the ratio body time and vibration. The [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) and [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) govern this field of notations.
+The equation is the single subject carried by the four Binary Explication files. Definition derives its terms, process unfolds its directions, quilt lets the operation recur through distinct materials, and music gives the ratio body time and vibration. The [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) and [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) govern this field of notations.
 
-Mono names what each notation is a notation *of*: `0/1` and its self-articulation. [A12](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md) states whole-first as structural dependence. No notation creates all the conditions under which it can signify.
+Mono names what each notation is a notation *of*: `0/1` and its self-articulation. [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) states whole-first as structural dependence. No notation creates all the conditions under which it can signify.
 
 ## #1 — Keep unity relational
 
@@ -45,4 +45,4 @@ The failure named monoisation occurs when a local representation claims the sour
 
 The result is one field whose unity remains active in distinct expressions. [Poly](poly.md) inventories the offices rather than reducing them to synonyms; [translations](translations.md) establish local correspondences and their limits. File 2's inverse-phase primes remain distinct from File 3's Night-pass primes even within the one circuit.
 
-This record returns-to [A12](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [C50](../../episteme/concepts/C50-Dia-Syn.md), and the [root Mono/Poly](../../mono-poly.md). The whole can be made locally available through an exact notation without being possessed by it.
+This record returns-to [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md), and the [root Mono/Poly](../../mono-poly.md). The whole can be made locally available through an exact notation without being possessed by it.

@@ -15,7 +15,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #4 — Workcell — Situated Existence
 
 <!-- reader-navigation -->
-Movement 41 of 48 · [This room](../ROOM.md) · [← Previous](40-s5-p3-preference-hidden-zero.md) · [Next →](42-s5-p5-research-vectors.md)
+Movement 41 of 48 · [This room](../ROOM-06-objective-internality.md) · [← Previous](40-s5-p3-preference-hidden-zero.md) · [Next →](42-s5-p5-research-vectors.md)
 <!-- /reader-navigation -->
 
 ## Claim
@@ -46,4 +46,4 @@ Gebser’s positive psychic-fact office also survives this movement. Situated ex
 
 Workcell establishes the actual here from which every act proceeds. The final movement asks how each local here, act, capacity, transformation and ground remains related to larger wholes without losing its differentiation: [Quaternal Logic — Transcendent Relation](42-s5-p5-research-vectors.md).
 
-[Workcell](../../../symbolon/episteme/products/S4-Workcell.md) gives this movement its technical body within the wider [World and Life](../../../symbolon/episteme/products/S-World-and-Life.md) field. Situated existence is the point at which intention meets a world it did not wholly author and has to carry the answer of material consequence back into the next act.
+[Workcell](../../arguments/products/S4-Workcell.md) gives this movement its technical body within the wider [World and Life](../../arguments/products/S-World-and-Life.md) field. Situated existence is the point at which intention meets a world it did not wholly author and has to carry the answer of material consequence back into the next act.

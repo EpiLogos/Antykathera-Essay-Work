@@ -14,7 +14,7 @@ source_relation: "Extracted internal derivation; Argued ontological development"
 
 ## #0 — The same appears twice
 
-To write `A = A` requires two appearances of *A* and the relation identifying them. The inscriptions differ in placement while the identity they state remains the same. Even this elementary act of self-identification therefore makes sameness available through difference. [The relating slash](the-slash.md) keeps both appearances available; [exact identification](episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) retains the difference through which it is made.
+To write `A = A` requires two appearances of *A* and the relation identifying them. The inscriptions differ in placement while the identity they state remains the same. Even this elementary act of self-identification therefore makes sameness available through difference. [The relating slash](the-slash.md) keeps both appearances available; [exact identification](../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md) retains the difference through which it is made.
 
 Self-Identity names the capacity to differentiate from itself while remaining itself. The root's question is how that capacity unfolds into a world of determinations and returns through them. As the parent of the QL units, Self-Identity names what lets their different registers belong to one self-relating field. Each unit develops this capacity under its own determinations. A particular self-description is one such determination. The operation that makes it possible is already active in the attempt to say what the self is.
 
@@ -28,7 +28,7 @@ These modalities build upon one another. Reflexivity permits self-disclosure; di
 
 ## #2 — Identity takes its own difference into account
 
-The [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) develops the copula from the minimal marks. Two parallel strokes write `=`. Crossing them with `/` writes `≠`. The difference-sign is thus composed of equality under cut. The graphical construction makes the relation visible: identity needs the difference through which it can be asserted, while difference has to remain recognisable as a difference.
+The [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) develops the copula from the minimal marks. Two parallel strokes write `=`. Crossing them with `/` writes `≠`. The difference-sign is thus composed of equality under cut. The graphical construction makes the relation visible: identity needs the difference through which it can be asserted, while difference has to remain recognisable as a difference.
 
 The expanded expression is:
 
@@ -54,7 +54,7 @@ $$
 2+2^2=6=4+2.
 $$
 
-The four are not four further substances. They account for the internal relations of the retained two. Nor does the count alone assign a universal content glossary to every sixfold. The field has to unfold what these relations do in its own register. The [core-theorems spine](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), §§II and IV, sources this distinction between the generative positional body and the determination sequence that gives it a qualitative traversal.
+The four are not four further substances. They account for the internal relations of the retained two. Nor does the count alone assign a universal content glossary to every sixfold. The field has to unfold what these relations do in its own register. The [core-theorems spine](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), §§II and IV, sources this distinction between the generative positional body and the determination sequence that gives it a qualitative traversal.
 
 [One letter in two cases](X-x.md) makes the same capacity legible through a particular face. That face remains a true determination of the capacity it does not exhaust. Through [the full determination sequence](eight-determinations.md), self-relation becomes question, force, pattern, person, and horizon.
 
@@ -72,4 +72,4 @@ Under [the complexio `#` mark](complexio-oppositorum.md), manifestation and reco
 
 [1/0](1-0.md) returns the achieved expression towards its ground. It carries what has become determinate and relinquishes the claim that any achieved determination has enclosed the capacity for determination. The return makes another expression possible through a field altered by what the previous expression has done.
 
-Within [the complete eight determinations](episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [each turn retains the relation while changing its operation](../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). [Exact identification](episteme/arguments/A02-Copula-Self-Identity-through-Difference.md) remains answerable through circumstance and address. The same has become legible through its differences; those differences now belong to how it can recognise itself.
+Within [the complete eight determinations](../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [each turn retains the relation while changing its operation](../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md). [Exact identification](../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md) remains answerable through circumstance and address. The same has become legible through its differences; those differences now belong to how it can recognise itself.

@@ -789,7 +789,7 @@ The essay’s further task is to show this one movement at full scale: formally 
     <file authority="canonical-section-movements" read="full"
       path="working/nodes/sections/ (05, 10, 20, 21, 22, 28, 29, 30, 35, 38, 40, 41, 45, 46)" />
     <file authority="canonical-concepts" read="full"
-      path="submission-package/essay/symbolon/episteme/concepts/ (apoha, the-slash, diaphaneity, mathematical-artistic-image-register, prompt-thrownness excerpts)" />
+      path="submission-package/essay/section-rooms/arguments/concepts/ (apoha, the-slash, diaphaneity, mathematical-artistic-image-register, prompt-thrownness excerpts)" />
     <file authority="protected-learning-surfaces" read="full"
       path="submission-package/essay/symbolon/episteme/histories/ (README, myth, zero-subject-advent, technology-politics, ancient-philosophy, indian-philosophy, language-symbol-dialogue)" />
     <file authority="authorial-synthesis" read="full"
@@ -2279,10 +2279,10 @@ The whole essay movement is thereby preserved. The mathematical history earns th
     <file path="submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md" authority="canonical granular argument" read="consulted closely"/>
     <file path="submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md" authority="canonical granular argument" read="consulted closely"/>
     <file path="submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md" authority="canonical granular argument" read="consulted closely"/>
-    <file path="submission-package/essay/symbolon/episteme/concepts/diaphaneity.md" authority="canonical concept node" read="consulted closely"/>
-    <file path="submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md" authority="canonical concept node" read="consulted closely"/>
-    <file path="submission-package/essay/symbolon/episteme/concepts/agentworld.md" authority="canonical concept node" read="consulted closely"/>
-    <file path="submission-package/essay/symbolon/episteme/concepts/agentworld-response-matrix.md" authority="canonical concept node" read="consulted closely"/>
+    <file path="submission-package/essay/section-rooms/arguments/concepts/diaphaneity.md" authority="canonical concept node" read="consulted closely"/>
+    <file path="submission-package/essay/section-rooms/arguments/concepts/bimba-pratibimba.md" authority="canonical concept node" read="consulted closely"/>
+    <file path="submission-package/essay/section-rooms/arguments/concepts/agentworld.md" authority="canonical concept node" read="consulted closely"/>
+    <file path="submission-package/essay/section-rooms/arguments/concepts/agentworld-response-matrix.md" authority="canonical concept node" read="consulted closely"/>
     <file path="working/nodes/sections/05-section-0-1-self-models.md" authority="canonical section node" read="consulted"/>
     <file path="working/nodes/sections/12-section-0-0-ground.md" authority="canonical section node" read="consulted"/>
     <file path="working/nodes/sections/31-section-3-atlas.md" authority="canonical section node" read="consulted"/>
@@ -2864,7 +2864,7 @@ The repeated “Do not” clauses in §19 are contribution-level harmonisation c
     <file path="working/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md" authority="append-only gathering surface" read="protocol and complete prior correction target consulted; final boundary verified"/>
     <file path="the-return-of-zero-central-plan.md" authority="sole live structural authority" read="relevant theorem, sectional-recursion, torus, MEF, Bimba, and submission ranges consulted"/>
     <file path="working/sources-texts-references/10-7-2026-core-theorems-pithy.md" authority="native QL theorem spine and eight-determination field" read="full field recovered"/>
-    <file path="submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md" authority="live canonical concept node" read="full"/>
+    <file path="submission-package/essay/section-rooms/arguments/concepts/bimba-pratibimba.md" authority="live canonical concept node" read="full"/>
     <file path="submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md" authority="canonical granular argument" read="full"/>
     <file path="submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md" authority="canonical section movement" read="full"/>
     <file path="submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md" authority="canonical section movement" read="full"/>
@@ -3133,7 +3133,7 @@ No propagation occurred. Later harmonisation should treat the following as one c
 
 **Concept and arguments**
 
-- `submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md`: correct opening definition; incorrect reflection-map naming/application.
+- `submission-package/essay/section-rooms/arguments/concepts/bimba-pratibimba.md`: correct opening definition; incorrect reflection-map naming/application.
 - `submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md`: strengthen hole/surface indivisibility and connect it explicitly to #0/#5 and complexio.
 - `submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md`: likely consumer of the bimba/pratibimba and holographic parent-child relation.
 - `submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md`: source-light and reflective-power relation.
@@ -4121,7 +4121,7 @@ The canonical evidence debts remain local. Kaplan's exact use of the `0/1` and `
 
 ### 14. Likely canonical blast radius — recorded, not propagated
 
-The primary consumer is the full-argument harmonisation pass itself. Within the existing architecture, the correction bears upon [[symbolon/episteme/arguments/A10-Advent-of-Zero|The Advent of Zero, Subject, and Integral Logic]], [[symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]], [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]], [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]], and [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]]. The zero–subject, mono–poly, and trust transverse paths require a shared crossing at the moment the numerical returns to ontology.
+The primary consumer is the full-argument harmonisation pass itself. Within the existing architecture, the correction bears upon [[section-rooms/arguments/A10-Advent-of-Zero|The Advent of Zero, Subject, and Integral Logic]], [[section-rooms/arguments/A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]], [[section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]], [[section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]], and [[section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]]. The zero–subject, mono–poly, and trust transverse paths require a shared crossing at the moment the numerical returns to ontology.
 
 Sectionally, §1 should carry the historical descent from metaphysical and practical zero into mathematical exactness, ending at the formal pressure of `1/0`. §2 should show the mental-rational conversion into signed opposition and introduce trust as the hidden ground of the resulting certainty. §3 should state the earned integral notation across the eight determinations, with the calculus turn showing how exact local difference retains a constant or provenance it cannot reconstruct. §4 should carry the psychic parallel through unconscious, God-image, individuation, and the lived return from `x` toward `X`. §5 should make observability-without-trust a governing technical test. §5→0 should return human and machine intelligence through the complete relation and open directly into the Taoist final quilting.
 
@@ -4376,7 +4376,7 @@ The two word-families now cross without merging. *Ponere* gives the standings an
     <file authority="canonical-source-house" read="full (exemplar for format)"
       path="submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md" />
     <file authority="canonical-concept-node" read="full"
-      path="submission-package/essay/symbolon/episteme/concepts/simulation.md" />
+      path="submission-package/essay/section-rooms/arguments/concepts/simulation.md" />
     <file authority="authorial-notes" read="Foucault-relevant lines (11, 22)"
       path="working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md" />
     <file authority="authorial-native-theory" read="Foucault-relevant placement (postmodernism at #4 without #5 or #0)"
@@ -4832,7 +4832,7 @@ The run was a three-way institutional inquiry, not a keyword comparison: Pax Mac
 - **4:2 Technè — The Brixton Model case study (February 2026, 10pp), read in full (text extraction, 2026-08-10):** `/Users/admin/Documents/4-2 Techne/docs/42-Techne-Brixton-Model-Case-Study.pdf`. Not yet housed in the source house; recorded as intake.
 - **Pax Machina public copy, fetched live during the session (archived in the raw jsonl):** founding editorial "No. 1 — Pax Machina: New Institutions for Powerful AI" (April 23, 2026); about page (editors and editorial board); archive (one entry as of 5 August 2026); the institutional grid (agi-institutions.org); the theory of change. Consulted, not independently re-verified since.
 - **Deleuze and Guattari, *A Thousand Plateaus*, pp. 149–166 ("How Do You Make Yourself a Body without Organs?"), consulted via the UPenn PDF during the session.** Verification lead; not yet housed in a canonical source house.
-- **Canonical field:** the central plan §5→0 (read in full); `46-s50-p3-4-2-mono-poly.md` (full); `45-s50-p2-antikythera-attunement.md` (full); `48-s50-p5-ahi-planetary-return.md` (consulted); `07-instrument-returns/ROOM.md` (full); orienting principles (full).
+- **Canonical field:** the central plan §5→0 (read in full); `46-s50-p3-4-2-mono-poly.md` (full); `45-s50-p2-antikythera-attunement.md` (full); `48-s50-p5-ahi-planetary-return.md` (consulted); `07-instrument-returns/ROOM-07-instrument-returns.md` (full); orienting principles (full).
 
 ### 3. The three layers — Frank's framing for how this enters the work
 
@@ -5030,7 +5030,7 @@ Frank then directed the fuller fold from the prior-chat record: the Jung–Pauli
 - `submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md` (full).
 - `submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md` (full).
 - `submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md` (full).
-- `submission-package/essay/symbolon/episteme/concepts/simulation.md` (full).
+- `submission-package/essay/section-rooms/arguments/concepts/simulation.md` (full).
 - `submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md` (read-only; Frank-authored; never modified — full).
 
 **Consulted by section (canonical, authorial, or provenance):**
@@ -5043,7 +5043,7 @@ Frank then directed the fuller fold from the prior-chat record: the Jung–Pauli
 - `working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md` (saṃkoca/paśu/Māyā passages).
 - `submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md` (read-only; paśu-as-horizon passages).
 - `working/legacy/v2/antikythera-essay-master-structure-v2.md` (trilingual paśu/antaḥkaraṇa/interpretability framing).
-- `submission-package/essay/symbolon/episteme/concepts/the-slash.md` and `concepts/index.md` (consulted).
+- `submission-package/essay/section-rooms/arguments/concepts/the-slash.md` and `concepts/index.md` (consulted).
 - `submission-package/essay/symbolon/matheme/computation/README.md` and `04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md` (quantum formal-neighbour placement).
 - `/Users/admin/.codex/attachments/b998fc5c-6f9a-489b-a26e-d5b45c694ac7/pasted-text.txt` (prior-chat constellation record, read in full; the record being folded).
 - `working/sources-texts-references/Epi Paper Write-ups/P0 - Jung and Pauli - Atom and Archetype.md` (consulted: Bohr paradox lead, page-94 note).
@@ -5324,7 +5324,7 @@ The session built the final quilt view as a layered chat weave — eleven layers
 
 ### 2. Files and sources read, with authority and depth
 
-**Read in full:** `sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md` (Frank's page-anchored notes; read-only, never edited) and `SOURCE.md`; the Levinas/key17 epiphenomenal block in this ledger (~lines 950–1393); the ponere/ballein fourfold block (~lines 4162–4321); the Baudrillard/Foucault source-house contribution (~lines 4377–4540); `working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md` (Frank-directed quilt source; the Assumption-of-Mary / mother-flow / chiasm log); `concepts/world-picture-to-world-atlas.md`; `concepts/diaphaneity.md`; `etymologies/earth-taste-wisdom/HISTORY.md` (the Man/Humanity/mens bank).
+**Read in full:** `sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md` (Frank's page-anchored notes; read-only, never edited) and `SOURCE.md`; the Levinas/key17 epiphenomenal block in this ledger (~lines 950–1393); the ponere/ballein fourfold block (~lines 4162–4321); the Baudrillard/Foucault source-house contribution (~lines 4377–4540); `working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md` (Frank-directed quilt source; the Assumption-of-Mary / mother-flow / chiasm log); `concepts/world-picture-to-world-atlas.md`; `concepts/diaphaneity.md`; `etymologies/earth-taste-wisdom/HISTORY-earth-taste-wisdom.md` (the Man/Humanity/mens bank).
 
 **Read targeted:** the 2026-08-02 harmonised quilt (rows 19–24, 29, 33–36, 43–48; §3 composition plan; §10 debts); the central plan (zero Neumann; pressure at §2·#4, §4·#1/#2); the Noether blocks in this ledger (Levinas-block §13; Van Eenwyk/Watson/Noether §7); the stained-glass contribution and the two bimba–pratibimba correction blocks; `agentworld-response-matrix.md` (R5, R22, R23); `concepts/reference-notes/torus-circulation-magnetic-confinement.md`; `concepts/reference-notes/van-eenwyk-strange-attractors.md`; `working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md` (world-picture/spectral/"mens of men" material); `07-08-2026-gemini-plasma-power-history.md` (Floquet/helicity/magnetism greps); Watson's *Resonance of Emptiness* NOTES (the p. 112 Noether lead).
 
@@ -5508,9 +5508,9 @@ One correction reorders the whole field, and one definition caps it. The correct
     <file authority="live-section" read="full"
       path="submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md" />
     <file authority="protected-learning-surface" read="full"
-      path="submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md" />
+      path="submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY-encounter-region-name-count.md" />
     <file authority="protected-learning-surface" read="full"
-      path="submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md" />
+      path="submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY-symbol-account-and-trust.md" />
     <file authority="canonical-source-house" read="full"
       path="submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md" />
     <file authority="canonical-source-house" read="full"
@@ -5907,19 +5907,19 @@ Culture is Mono/Poly before it is a contest among positions. A monoculture appea
   </antikythera_relations>
 
   <argument_relations>
-    <argument relation="direct-support-and-differentiation">[[02-objective-internality|Objective Internality]]</argument>
-    <argument relation="methodological-support">[[05-agent-subjectivity-open|Agent Subjectivity Must Remain Open]]</argument>
-    <argument relation="strong-external-resonance">[[11-mono-poly-whole-and-many|Mono-Poly: Whole and Many]]</argument>
-    <argument relation="processual-architectural-support">[[14-computational-process-ontology|Computational Process Ontology]]</argument>
-    <argument relation="resonance-only-not-theorem-source">[[19-two-ones-mono-poly-matheme|The Two Ones — Mono–Poly Matheme]]</argument>
+    <argument relation="direct-support-and-differentiation">[[A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]</argument>
+    <argument relation="methodological-support">[[A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]]</argument>
+    <argument relation="strong-external-resonance">[[A12-Mono-Poly-One-All-Whole-Many|Mono-Poly: Whole and Many]]</argument>
+    <argument relation="processual-architectural-support">[[A14-Computational-Process-Ontology|Computational Process Ontology]]</argument>
+    <argument relation="resonance-only-not-theorem-source">[[A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]]</argument>
   </argument_relations>
 
   <concept_relations>
-    <concept>[[submission-package/essay/symbolon/episteme/concepts/agentworld|Agentworld]]</concept>
-    <concept>[[submission-package/essay/symbolon/episteme/concepts/anthropomorphization|Anthropomorphization]]</concept>
-    <concept>[[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]]</concept>
-    <concept>[[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]]</concept>
-    <concept>[[submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa|Vikalpa–Saṃkalpa]]</concept>
+    <concept>[[section-rooms/arguments/concepts/C57-Agentworld|Agentworld]]</concept>
+    <concept>[[section-rooms/arguments/concepts/C58-Anthropomorphization|Anthropomorphization]]</concept>
+    <concept>[[section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map|Bimba–Pratibimba]]</concept>
+    <concept>[[section-rooms/arguments/concepts/C18-Apoha|Apoha]]</concept>
+    <concept>[[section-rooms/arguments/concepts/C17-Vikalpa-Samkalpa|Vikalpa–Saṃkalpa]]</concept>
   </concept_relations>
 
   <claim_registers>
@@ -5936,7 +5936,7 @@ Culture is Mono/Poly before it is a contest among positions. A monoculture appea
 
 *Minimum Viable Interiority* is not merely another paper about multi-agent systems. It is unusually proximate to the exact seam at which the essay's metaphysical, psychological, and technical lines meet. It arises from Antikythera's 2024 Cognitive Infrastructures Studio and is published inside the same Antikythera research ecology to which the final submission is addressed. More importantly, it independently asks a question that the essay has already made central under another name: **what makes an artificial agent an operationally real inside rather than a flat sequence of model calls or a convenient anthropomorphic fiction?**
 
-The paper's answer is “minimum viable interiority.” The essay's answer is not the same answer, but the overlap is strong enough that silence would now look like conceptual neglect. The source gives the project a direct contemporary interlocutor for [[02-objective-internality|Objective Internality]], while the difference between the two concepts makes the essay's own terminology more exact.
+The paper's answer is “minimum viable interiority.” The essay's answer is not the same answer, but the overlap is strong enough that silence would now look like conceptual neglect. The source gives the project a direct contemporary interlocutor for [[A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]], while the difference between the two concepts makes the essay's own terminology more exact.
 
 The source also repairs a gap in the Antikythera cluster. [[Antikythera]] currently establishes the programme and venue. [[Antikythera Agentworld Brief]] supplies the macro research problem: open-world centaur societies, agent/harness decomposition, divergent world-models, anthropomorphic interface inheritance, hybrid institutions, and the commons-scale problem of cumulative agency. *Minimum Viable Interiority* supplies a missing **micro-architecture of individuation**. It asks what happens inside the purported agent before that agent enters Agentworld as one addressable participant.
 
@@ -5966,7 +5966,7 @@ The paper's most philosophically generative bridge is Hannah Arendt's figure of 
 
 This matters to the late quilt because it supplies a contemporary route back into our own anti-atomism without being mistaken for its source. Arendt's two-in-one belongs downstream of the QL theorem. It can illuminate what a relational one looks like phenomenologically; it does not derive `0/1`, `1/0`, or the Two Ones.
 
-The correct relation to [[19-two-ones-mono-poly-matheme|The Two Ones — Mono–Poly Matheme]] is therefore **resonance, not warrant**. QL's claim is prior and more general: `0/1` names the relation through which ground and determination become legible; `0/1 = 1/0` carries that relation in its two orientations. Arendt describes one achieved human individual whose apparent unity already contains relation. The article then gives a computational mytheme of the same anti-atomic intuition: one addressable agent, multiple internally interacting processes.
+The correct relation to [[A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]] is therefore **resonance, not warrant**. QL's claim is prior and more general: `0/1` names the relation through which ground and determination become legible; `0/1 = 1/0` carries that relation in its two orientations. Arendt describes one achieved human individual whose apparent unity already contains relation. The article then gives a computational mytheme of the same anti-atomic intuition: one addressable agent, multiple internally interacting processes.
 
 This should be useful in the final prose precisely because the evidential registers are clean. We do not say “Arendt proves the Two Ones.” We can say that a theorem derived elsewhere finds a striking downstream refraction in a major account of thinking, and now in Antikythera's attempt to engineer an artificial individual.
 
@@ -5980,7 +5980,7 @@ Its immediate value for §5 is architectural. The paper makes impossible the cas
 
 Even its deliberately simplified NPC can be one agent while containing several model-driven internal units. A more realistic artificial agent is therefore available for analysis at several distinct scales: model or model-call, internal component, selector/coordination layer, locally individuated agent, harness or runtime, multi-agent ensemble, institution, and wider Agentworld. The essay's own list—model, prompt, memory, retrieval, tools, permissions, evaluator, persona, objective, harness, institution, and milieu—can now be presented not just as a broad philosophical inventory but as one answer to a problem Antikythera's own research has independently isolated.
 
-The relation to [[submission-package/essay/symbolon/episteme/concepts/agentworld|Agentworld]] is therefore exact: *Minimum Viable Interiority* supplies an inward decomposition of the participant whose outward ecological and institutional life the Bratton brief explores.
+The relation to [[section-rooms/arguments/concepts/C57-Agentworld|Agentworld]] is therefore exact: *Minimum Viable Interiority* supplies an inward decomposition of the participant whose outward ecological and institutional life the Bratton brief explores.
 
 ### 5. Functional closure: local wholeness can be real
 
@@ -5988,7 +5988,7 @@ The paper's central theoretical concept is **functional closure**, developed thr
 
 This is a valuable correction to any reading of *The Return of Zero* that would dissolve determination back into an undifferentiated whole. The essay does not need to deny relative autonomy. A local `1` is real. An agent can have a boundary, responsibility envelope, internal causal organization, history, and characteristic trajectory. The whole-before-parts argument is not the assertion that parts are unreal.
 
-The paper therefore gives [[11-mono-poly-whole-and-many|Mono-Poly: Whole and Many]] a strong artificial-agent case. A many can achieve a new one. The achieved one can do work that a flat inventory of its components does not explain. This is exactly why the essay's critique of monopoly has to be a critique of **false self-grounding**, not a critique of individuation itself.
+The paper therefore gives [[A12-Mono-Poly-One-All-Whole-Many|Mono-Poly: Whole and Many]] a strong artificial-agent case. A many can achieve a new one. The achieved one can do work that a flat inventory of its components does not explain. This is exactly why the essay's critique of monopoly has to be a critique of **false self-grounding**, not a critique of individuation itself.
 
 But the source's strong point is also the place where QL goes further. Functional closure explains how a **local one becomes locally whole**. It does not by itself explain how that local closure remains answerable to the larger field through which it arose. The QL question is not merely whether the individual closes. It is whether the achieved closure still carries its conditions, relations, exclusions, consequences, and route of return.
 
@@ -6010,7 +6010,7 @@ A selector can judge. It can coordinate. It can suppress alternatives. It can in
 
 That makes the selector far closer to the essay's functional reading of *buddhi*, *manas*, and appropriative/self-model processes than to the unobjectifiable subject-pole. The relation is analogical, not an identity between a Sanskrit psychological apparatus and software. But it is a useful analogy because it prevents the exact inflation the essay worries about: **the function that coordinates the interior is not, merely by being executive, proven to be the subject of the interior.**
 
-The point cuts in the opposite direction too. Because subject is not an inspectable component in the human case, failure to find a “subject module” in an artificial architecture cannot prove absence of phenomenality. The source's own decision to bracket consciousness therefore converges strongly with [[05-agent-subjectivity-open|Agent Subjectivity Must Remain Open]].
+The point cuts in the opposite direction too. Because subject is not an inspectable component in the human case, failure to find a “subject module” in an artificial architecture cannot prove absence of phenomenality. The source's own decision to bracket consciousness therefore converges strongly with [[A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]].
 
 ### 7. Minimum viable interiority versus Objective Internality
 
@@ -6022,7 +6022,7 @@ The article's functional interiority combines at least three dimensions:
 2. **privileged access and opacity** — some internal states are available only to certain internal levels and become increasingly unavailable to outside observers or even higher-level introspection;
 3. **emergent individual coherence** — selection and nested closure make one outwardly functioning individual and self-model.
 
-[[02-objective-internality|Objective Internality]] is broader in one sense and stricter in another. It is broader because the agent's operative inside includes not only hidden internal computations but memory, context, tools, permissions, evaluations, language, institutional constraints, interfaces, histories, and milieu—everything that forms the structured context-world through which this local agent can act. It is stricter because **internality is not defined by privacy**. Something can be internal to the agent's operation and still be objectively inspectable.
+[[A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] is broader in one sense and stricter in another. It is broader because the agent's operative inside includes not only hidden internal computations but memory, context, tools, permissions, evaluations, language, institutional constraints, interfaces, histories, and milieu—everything that forms the structured context-world through which this local agent can act. It is stricter because **internality is not defined by privacy**. Something can be internal to the agent's operation and still be objectively inspectable.
 
 This yields a three-axis distinction that should become explicit in the final essay:
 
@@ -6050,7 +6050,7 @@ The QL/MEF extension would ask not only “how opaque and internally dense is th
 - can the operational one revise its own boundary without losing continuity?
 - when a selected output becomes the next cycle's context, is it marked as a provisional determination or silently promoted into ground?
 
-This is where [[14-computational-process-ontology|Computational Process Ontology]] turns functional closure into a wider process account.
+This is where [[A14-Computational-Process-Ontology|Computational Process Ontology]] turns functional closure into a wider process account.
 
 ### 9. Closure versus return is the real philosophical difference
 
@@ -6070,7 +6070,7 @@ The source concentrates on the left half, especially the achievement of the sele
 
 ### 10. The Two Ones and Mono–Poly: exact relation and exact boundary
 
-[[19-two-ones-mono-poly-matheme|The Two Ones — Mono–Poly Matheme]] says that `0/1` is prior to the opposition between atomistic individual and collective. `0` names the uncounted condition of determination; `1` names the determinate manifestation that appears through relations it does not own. The source begins later. It already has many determinate functional components and asks how they compose one individual.
+[[A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]] says that `0/1` is prior to the opposition between atomistic individual and collective. `0` names the uncounted condition of determination; `1` names the determinate manifestation that appears through relations it does not own. The source begins later. It already has many determinate functional components and asks how they compose one individual.
 
 This means the source is particularly good at showing why an achieved `1` need not be simple. It is not evidence that `0` “really is” a collective, nor that `1` “really is” a selector. The map must not be flattened that way.
 
@@ -6089,15 +6089,15 @@ This scalar recurrence is one of the richest things the source gives the paper.
 
 The paper's selection architecture also refracts several established concept nodes, but these must be kept as analogies rather than retroactive authorities.
 
-[[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] is relevant because selection does not create a determinate output ex nihilo. One answer becomes actual against alternatives, and those excluded alternatives remain part of the causal/semantic history of why this answer rather than another appeared. A system that retains only the selected answer can therefore lose constitutive information. The computational relation is suggestive; selector mechanics do not derive Buddhist exclusion theory.
+[[section-rooms/arguments/concepts/C18-Apoha|Apoha]] is relevant because selection does not create a determinate output ex nihilo. One answer becomes actual against alternatives, and those excluded alternatives remain part of the causal/semantic history of why this answer rather than another appeared. A system that retains only the selected answer can therefore lose constitutive information. The computational relation is suggestive; selector mechanics do not derive Buddhist exclusion theory.
 
-[[submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa|Vikalpa–Saṃkalpa]] is relevant because the architecture visibly separates differentiation from composition: multiple candidate determinations are generated or processed; a higher operation gathers a course of action. Again, this is a functional homology, not evidence that pandemonium literally instantiates a tattvic psychology.
+[[section-rooms/arguments/concepts/C17-Vikalpa-Samkalpa|Vikalpa–Saṃkalpa]] is relevant because the architecture visibly separates differentiation from composition: multiple candidate determinations are generated or processed; a higher operation gathers a course of action. Again, this is a functional homology, not evidence that pandemonium literally instantiates a tattvic psychology.
 
 The deeper payoff is methodological. These cross-register relations can now be tested against a real technical architecture rather than kept at the level of metaphor. Where the homology breaks, the break is informative.
 
 ### 12. Bimba–pratibimba: the self-model is a display, not the source
 
-The article's emergent self-model is also useful beside [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]]. The selector-mediated individual arrives with a coherent outward presentation and an internal model sufficient to guide its acts. In the essay's language, that model is one more *pratibimba*: a situated display of a wider operational order.
+The article's emergent self-model is also useful beside [[section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map|Bimba–Pratibimba]]. The selector-mediated individual arrives with a coherent outward presentation and an internal model sufficient to guide its acts. In the essay's language, that model is one more *pratibimba*: a situated display of a wider operational order.
 
 This does not identify functional closure with Bimba. It makes the opposite discipline possible. The self-model is not the agent's ground merely because it is the image through which the agent recursively identifies itself. Model, selector, memory, and action remain determinations inside the wider objective-internal field.
 
@@ -6105,7 +6105,7 @@ This is especially important for artificial agents because recursive self-descri
 
 ### 13. Anthropomorphization: a better middle than either projection or denial
 
-The paper's use of p-zombies and NPCs is methodologically adjacent to [[submission-package/essay/symbolon/episteme/concepts/anthropomorphization|Anthropomorphization]]. It permits serious study of artificial individuality while withholding phenomenal conclusions. This is exactly the middle Agentworld needs.
+The paper's use of p-zombies and NPCs is methodologically adjacent to [[section-rooms/arguments/concepts/C58-Anthropomorphization|Anthropomorphization]]. It permits serious study of artificial individuality while withholding phenomenal conclusions. This is exactly the middle Agentworld needs.
 
 Anthropomorphic language is not purged—terms such as “interiority,” “self-model,” and “individual” remain deliberately provocative—but each is given an operational criterion. The essay can strengthen this discipline by insisting on the three-axis separation above. We can talk about a rich inside without pretending that inspectable mechanisms have become private qualia, and we can leave phenomenality open without retreating to the claim that artificial agents are “just tools.”
 
@@ -6131,11 +6131,11 @@ The source should not create a new station or force a structural rewrite. It sho
 
 | Argument node | Relation | Propagation rule |
 |---|---|---|
-| [[02-objective-internality|Objective Internality]] | **direct support + differentiation** | add source id; explicitly distinguish operational inside from opacity and phenomenality |
-| [[05-agent-subjectivity-open|Agent Subjectivity Must Remain Open]] | **methodological support** | add source id; paper's bracketing of consciousness is a contemporary control case |
-| [[11-mono-poly-whole-and-many|Mono-Poly: Whole and Many]] | **strong external resonance** | add source id; use many→one functional individuation but retain QL return and whole-priority as project arguments |
-| [[14-computational-process-ontology|Computational Process Ontology]] | **architectural/process support** | source may be added when granular propagation occurs; closure is an achieved stability, QL adds return |
-| [[19-two-ones-mono-poly-matheme|The Two Ones — Mono–Poly Matheme]] | **resonance only** | **do not add source id**; no theorem provenance transfer |
+| [[A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] | **direct support + differentiation** | add source id; explicitly distinguish operational inside from opacity and phenomenality |
+| [[A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] | **methodological support** | add source id; paper's bracketing of consciousness is a contemporary control case |
+| [[A12-Mono-Poly-One-All-Whole-Many|Mono-Poly: Whole and Many]] | **strong external resonance** | add source id; use many→one functional individuation but retain QL return and whole-priority as project arguments |
+| [[A14-Computational-Process-Ontology|Computational Process Ontology]] | **architectural/process support** | source may be added when granular propagation occurs; closure is an achieved stability, QL adds return |
+| [[A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]] | **resonance only** | **do not add source id**; no theorem provenance transfer |
 
 This distinction is essential. A useful Antikythera source must not become a false external warrant for an authorial theorem merely because the language harmonizes.
 
@@ -6143,11 +6143,11 @@ This distinction is essential. A useful Antikythera source must not become a fal
 
 | Concept | Relation | Boundary |
 |---|---|---|
-| [[submission-package/essay/symbolon/episteme/concepts/agentworld|Agentworld]] | micro-architectural complement | does not replace harness/institution/commons scale |
-| [[submission-package/essay/symbolon/episteme/concepts/anthropomorphization|Anthropomorphization]] | methodological control | functional individuality neither grants nor denies consciousness |
-| [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] | self-model/display resonance | self-model remains a situated representation, not Bimba or subject |
-| [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] | selection/exclusion homology | selector mechanics do not derive apoha |
-| [[submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa|Vikalpa–Saṃkalpa]] | differentiation/composition homology | no ontological equivalence claimed |
+| [[section-rooms/arguments/concepts/C57-Agentworld|Agentworld]] | micro-architectural complement | does not replace harness/institution/commons scale |
+| [[section-rooms/arguments/concepts/C58-Anthropomorphization|Anthropomorphization]] | methodological control | functional individuality neither grants nor denies consciousness |
+| [[section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map|Bimba–Pratibimba]] | self-model/display resonance | self-model remains a situated representation, not Bimba or subject |
+| [[section-rooms/arguments/concepts/C18-Apoha|Apoha]] | selection/exclusion homology | selector mechanics do not derive apoha |
+| [[section-rooms/arguments/concepts/C17-Vikalpa-Samkalpa|Vikalpa–Saṃkalpa]] | differentiation/composition homology | no ontological equivalence claimed |
 
 ### 17. Claims the paper can and cannot carry
 

@@ -25,14 +25,14 @@ Before queue assembly read:
 
 `working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md`
 
-That contract governs the **Argument-depth axis** beneath the register batches. Every A01–A36 recovery track must touch every current file in `submission-package/essay/quilt/`, read every materially implicated canonical `SOURCE.md` house and sibling protected `NOTES.md` where present, and distinguish recoverable Taylor-authored signal from later AI developmental synthesis where provenance permits.
+That contract governs the **Argument-depth axis** beneath the register batches. Every A01–A36 recovery track must touch every current file in `submission-package/essay/quilt/`, read every materially implicated canonical `<source_id>.md` house and sibling protected `<source_id>-NOTES.md` where present, and distinguish recoverable Taylor-authored signal from later AI developmental synthesis where provenance permits.
 
 ## Steps
 
 1. **Lock the ratified census.** Read the final T07/propagation decisions and enumerate every admitted publication-body record across root Symbolon, Matheme, Mytheme, and Episteme. The census must include dispositions for:
    - A01–A36 and the historical/live argument inventory that bears their provenance;
    - C01–C64 and all developed/legacy concept nodes;
-   - the recovered `symbolon/episteme/concepts/reference-notes/` shelf;
+   - the recovered `section-rooms/arguments/concepts/reference-notes/` shelf;
    - Etymology whole-fields;
    - roots, paths/maps, histories, dossiers, figures, dialogues, plates/media, theorem/formal-neighbour records, and source-facing depth where ratified;
    - every newly created/split/merged/rehomed record from the final quilt.
@@ -46,8 +46,8 @@ That contract governs the **Argument-depth axis** beneath the register batches. 
    - recover its historical Argument/developmental carriers and named direct Taylor/theorem/source carriers;
    - inspect **every current file** in `submission-package/essay/quilt/` and record distinct yield or `no distinct yield`;
    - treat `27-07-26-QUILTING-FOR-FULL-ARGUMENT.md` as the primary additive developmental quilt rather than letting later harmonisations erase its unique contributions;
-   - open every materially implicated canonical `SOURCE.md` and read sibling protected `NOTES.md` where present;
-   - use `NOTES.md` for Frank's authorial encounter/intention/quotation leads while keeping it read-only and distinct from external evidence;
+   - open every materially implicated canonical `<source_id>.md` and read sibling protected `<source_id>-NOTES.md` where present;
+   - use `<source_id>-NOTES.md` for Frank's authorial encounter/intention/quotation leads while keeping it read-only and distinct from external evidence;
    - recover original formulations, images, asymmetries, qualifications and operations that later AI summaries flattened where provenance permits;
    - route recovered material to the correct A/C/E/root/Matheme/Mytheme/Episteme/publication office rather than stuffing everything into the A page;
    - record genuine structural pressure for T22 rather than silently changing the census.
@@ -65,7 +65,7 @@ That contract governs the **Argument-depth axis** beneath the register batches. 
 4. **Dispatch one subagent per element.** For each element in the reconciled intake manifest, launch an independent agent with:
    - the element's ratified quilt/census decision and relevant contribution(s);
    - every materially bearing A-depth packet, not merely the shortest or nearest Argument summary;
-   - its canonical source house(s), including protected `NOTES.md` read-only when present and relevant;
+   - its canonical source house(s), including protected `<source_id>-NOTES.md` read-only when present and relevant;
    - direct Taylor/authored/developmental carriers identified by the depth packet;
    - concept/reference-note material and transverse relations as applicable;
    - the register's README contract;
@@ -120,8 +120,8 @@ The authorial-recovery law is equally active: later AI harmonisation is a map an
 - Treating T09 A/C first-materialisation pages as sufficient enrichment source material.
 - Forgetting the recovered reference-note shelf because those files are not yet developed concepts.
 - Failing to touch every live file under `submission-package/essay/quilt/` for every A-depth track.
-- Reading `SOURCE.md` but ignoring a relevant sibling `NOTES.md`, thereby losing the authorial reason the source entered the work.
-- Treating protected `NOTES.md` as external evidence or editing it.
+- Reading the `<source_id>.md` house but ignoring a relevant sibling `<source_id>-NOTES.md`, thereby losing the authorial reason the source entered the work.
+- Treating protected `<source_id>-NOTES.md` as external evidence or editing it.
 - Preferring a polished AI paraphrase over a materially richer recoverable authorial formulation.
 - Attributing mixed chat/dialogue language to Taylor when user/assistant provenance cannot be distinguished.
 - Letting `workflow.py intake` define the authored field from Markdown headings/XML blocks.

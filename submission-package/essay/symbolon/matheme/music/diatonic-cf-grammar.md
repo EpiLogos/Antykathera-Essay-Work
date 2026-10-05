@@ -17,9 +17,9 @@ source_ids:
 
 ## #0 — A configuration selects its tones
 
-The [lens anchors](lens-anchors.md) determine where the field is heard from; a context-frame, **CF**, configures relations within that field. The [musical frame sequence](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) makes a seven-step selection which gives the diatonic scale its musical body.
+The [lens anchors](lens-anchors.md) determine where the field is heard from; a context-frame, **CF**, configures relations within that field. The [musical frame sequence](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) makes a seven-step selection which gives the diatonic scale its musical body.
 
-The [seven frames](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md), §I-4, have distinct operations. Their number is not a count of seven QL positions: CF5 enters a nested sixfold, CF6 bridges its return, and CF7 closes the encompassing passage. The selected musical position is also distinct from the position inside a frame’s notation.
+The [seven frames](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md), §I-4, have distinct operations. Their number is not a count of seven QL positions: CF5 enters a nested sixfold, CF6 bridges its return, and CF7 closes the encompassing passage. The selected musical position is also distinct from the position inside a frame’s notation.
 
 | CF | Native expression | Configurational operation |
 |---|---|---|
@@ -80,7 +80,7 @@ $$
 
 The seven successive ratios are consequently `9/8,9/8,256/243,9/8,9/8,9/8,256/243`. Their product is exactly two. The tempered pitch-class selection above has the same ordered interval types under different frequency values; its semitones are `2^(1/12)`, not the pure leimma.
 
-The two small steps perform different positional crossings. E→F keeps position 2 and exchanges its face. B→C in the next octave changes `5′→0`: both position and face change. Taylor coordinates these crossings with Klein return, whose [orientation-reversing construction](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) supplies the topological office. The note sequence establishes the face changes; a double-cover claim requires that additional construction. Write the closing C as “C in the next octave” here: musical register return must not be confused with conjugate pitch C♯ at position `0′`.
+The two small steps perform different positional crossings. E→F keeps position 2 and exchanges its face. B→C in the next octave changes `5′→0`: both position and face change. Taylor coordinates these crossings with Klein return, whose [orientation-reversing construction](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) supplies the topological office. The note sequence establishes the face changes; a double-cover claim requires that additional construction. Write the closing C as “C in the next octave” here: musical register return must not be confused with conjugate pitch C♯ at position `0′`.
 
 ## #3 — Parallel minor and modal rotation
 
@@ -144,7 +144,7 @@ $$
 
 The chain’s primes mark inverse-phase positions. Primes on the selected musical positions mark File 3’s conjugate Night face. An octave repeat is a further distinction of sounding register. These offices allow the complete return to remain readable.
 
-[Accountable musical reckoning](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) exposes the criterion of each exact selection. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives its interval return. The CF grammar gives the achieved field several ways to become home: a lens retains a mode of knowing while a changed grounding changes how its selected relations can be heard.
+[Accountable musical reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) exposes the criterion of each exact selection. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives its interval return. The CF grammar gives the achieved field several ways to become home: a lens retains a mode of knowing while a changed grounding changes how its selected relations can be heard.
 ## Source and implementation standing
 
 The authorial epistemic interpretation remains attached to the actual configuration; its current ql-mef implementation remains unrecovered, so these are the housed candidate’s selections with the stated corrections.

@@ -25,7 +25,7 @@ $$
 
 The signs here retain their native QL offices. The plus gathers the two traversals; `1/1` names the whole recognised through them. Ordinary division by zero supplies no numerical value for the second term. The identity states the relation which the following finite arithmetic will articulate, rather than a sum evaluated in the ordinary real-number field.
 
-The [musical-epistemic derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) takes the conscious circumstance through process and articulated meaning into a ratio-body. The [native self-accounting](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) generates proportions which can then be worked as exact intervals. The whole retains the acts through which its components become comparable.
+The [musical-epistemic derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) takes the conscious circumstance through process and articulated meaning into a ratio-body. The [native self-accounting](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) generates proportions which can then be worked as exact intervals. The whole retains the acts through which its components become comparable.
 
 ## #1 — The whole accounts for its components
 
@@ -47,7 +47,7 @@ $$
 
 The shared factor four is removed from numerator and denominator. The sum remains one hundred while the proportion becomes sixteen to nine. The prime-factor reading then retains four binary factors above and two ternary factors below. QL reads their distinct offices as **4:2**, the four explicate relations and two implicate poles of the sixfold. Reading the same ratio as a squared fourth will give the musical span its two successive passes.
 
-[Accountable ratio](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) distinguishes partition from comparison. The sum counts the whole’s two components; the quotient compares them. Keeping this change of operation visible makes the account exact.
+[Accountable ratio](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) distinguishes partition from comparison. The sum counts the whole’s two components; the quotient compares them. Keeping this change of operation visible makes the account exact.
 
 ## #2 — The cross-comparison gives direction
 
@@ -122,13 +122,13 @@ $$
 \frac43\cdot\frac98\cdot\frac43=\frac21.
 $$
 
-The [parallel musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) works this same finite kernel. Unity is partitioned, the parts are reduced and compared, their directional spans are composed, and the completing interval is retained. A sounding realisation must preserve which tuning carries those exact relations.
+The [parallel musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) works this same finite kernel. Unity is partitioned, the parts are reduced and compared, their directional spans are composed, and the completing interval is retained. A sounding realisation must preserve which tuning carries those exact relations.
 
 Pure ratios also keep their own object apart from a twelve-tone equal-tempered pitch-class projection. Six pure `9/8` steps give `531441/262144`, which exceeds `2`; they do not close an octave. An equal-tempered whole tone uses `2^(1/6)` and closes after six steps. The ratio kernel therefore reaches its octave through the worked fourth–whole-tone–fourth relation, preserving the difference that a chromatic projection must account for under its own tuning rule.
 
 ## #5→0 — The ratio returns through its difference
 
-[Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) carries the totality to octave return through the `9/8` interval. Removing that factor would leave `16/9`, so the difference performs completion. The [differential field](../../episteme/arguments/A16-Arche-Topos-as-Differential-Field.md) coordinates this retained difference with a topological opening while preserving their different mathematical operations.
+[Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) carries the totality to octave return through the `9/8` interval. Removing that factor would leave `16/9`, so the difference performs completion. The [differential field](../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) coordinates this retained difference with a topological opening while preserving their different mathematical operations.
 
 Music carries the full processually earned chain:
 
@@ -139,7 +139,7 @@ $$
 
 In this process reading, the primes name the inverse-phase positions. File 3 also uses primes for the Night-pass sequence, the Power face; that is a distinct indexing office. The full musical circuit retains both traversals. The shorter definitional chain belongs to the 0-side vantage carried by definition and quilt.
 
-[Renewed circulation and recognition](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) give performance two endings. The interval can lead into another passage; the player can also recognise the relation and come to silence. The exact octave is achieved through retained difference, and the achieved relation returns to the conscious circumstance from which its reckoning began.
+[Renewed circulation and recognition](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) give performance two endings. The interval can lead into another passage; the player can also recognise the relation and come to silence. The exact octave is achieved through retained difference, and the achieved relation returns to the conscious circumstance from which its reckoning began.
 ## Source and implementation standing
 
-The [musical-v3 source house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) **sources** the parallel development. This record projects the exact kernel retained by the curated spine. File 4 and v3 are superseded in practice by the actual ql-mef package; its current implementation has not been recovered for this projection. That source-locality debt concerns current implementation details, while the printed ratio operations remain fully checkable here.
+The [musical-v3 source house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) **sources** the parallel development. This record projects the exact kernel retained by the curated spine. File 4 and v3 are superseded in practice by the actual ql-mef package; its current implementation has not been recovered for this projection. That source-locality debt concerns current implementation details, while the printed ratio operations remain fully checkable here.

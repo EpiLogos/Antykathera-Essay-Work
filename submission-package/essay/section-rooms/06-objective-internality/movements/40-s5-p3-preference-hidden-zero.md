@@ -15,7 +15,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #3 — Software Factory — Transformation
 
 <!-- reader-navigation -->
-Movement 40 of 48 · [This room](../ROOM.md) · [← Previous](39-s5-p2-j-space.md) · [Next →](41-s5-p4-bimba-energy-fields.md)
+Movement 40 of 48 · [This room](../ROOM-06-objective-internality.md) · [← Previous](39-s5-p2-j-space.md) · [Next →](41-s5-p4-bimba-energy-fields.md)
 <!-- /reader-navigation -->
 
 ## Claim
@@ -42,4 +42,4 @@ A/C gives this movement its technical body through Project and Run identity; Art
 
 Transformation precipitates a new condition, but every transformation occurs somewhere and meets material resistance. The next movement therefore turns to [Workcell — Situated Existence](41-s5-p4-bimba-energy-fields.md).
 
-[Software Factory](../../../symbolon/episteme/products/S3-Software-Factory.md) gives this movement its technical body within the wider [World and Life](../../../symbolon/episteme/products/S-World-and-Life.md) field. Transformation becomes developmental when evidence and encounter can alter the condition from which the next project begins.
+[Software Factory](../../arguments/products/S3-Software-Factory.md) gives this movement its technical body within the wider [World and Life](../../arguments/products/S-World-and-Life.md) field. Transformation becomes developmental when evidence and encounter can alter the condition from which the next project begins.

@@ -1,0 +1,193 @@
+{
+  "standing": "controlled production-component/handler evidence; native store independently tested in Rust; not installed/provider/human proof",
+  "checks": [
+    "formatting changes only second passage and preserves frontmatter",
+    "undo restores exact source",
+    "split keeps one editor",
+    "ordinary add has no modal",
+    "selection expression uses the same native Resolve request unchanged",
+    "native Explain is reachable without disclosing additional source bodies",
+    "queued exact second occurrence",
+    "Unicode range retained",
+    "prepared selection has a retained source cue",
+    "admission refusal keeps exact native prepared selection",
+    "admission refusal retains the instruction",
+    "stale selection blocked before native dispatch",
+    "actual shared session send includes structured context",
+    "successful submission clears preparation",
+    "successful submission clears source cue",
+    "disconnected handler produces no prepared item",
+    "hidden source editor is retained",
+    "Markdown table is rendered by production preview",
+    "presentation switch is lossless",
+    "preparation without Agent is native Project-scoped",
+    "switching companion during native read does not retarget or mutate context",
+    "switched scope does not keep prepared highlights",
+    "rich authored Flow entries are not flattened to text",
+    "Flow notes and their replies retain their own rich bodies",
+    "duplicate reply/note anchors require review instead of choosing first",
+    "Journal remains a distinct rich collection",
+    "Flow preview cannot activate scripts, handlers, SVG or remote tracking media",
+    "Flow new-entry range is a revision-carrying unsaved observation, not raw HTML offsets",
+    "Flow draft retains a view-only cue",
+    "ordinary rendered Flow selection keeps the second entry identity",
+    "rendered Flow selection opens no modal",
+    "Flow save preserves document identity, existing entries and template bytes",
+    "Flow save retains all notes, media, Journal and unknown payload bytes",
+    "Flow native save roundtrips the new entry",
+    "no page errors"
+  ],
+  "errors": [],
+  "calls": [
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "prompt-context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "prompt-context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    },
+    {
+      "op": "encounter",
+      "action": "context",
+      "project": "demo"
+    }
+  ]
+}

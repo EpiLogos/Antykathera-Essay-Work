@@ -50,7 +50,7 @@ Attica's current human-amplified core includes Poseidon's sea/well as the archai
 
 The *Hypostasis* record is deliberately more conservative: the source whole is recovered, while its proposed Hybris/frame/technical-governance comparisons remain `human-amplified: no` pending Frank's encounter.
 
-This story-first law lets amplification expand the Mytheme world without atomising it. See [Mytheme Whole-Story Amplification Law](../../../../../working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md) and [Native 020](../../../../../working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md).
+This story-first law lets amplification expand the Mytheme world without atomising it. See [Mytheme Whole-Story Amplification Law] and [Native 020].
 
 Myth figures liveability, enclosure, transformation, conflict, inheritance, return or failure; it does not prove a Matheme. Episteme carries source variants and scholarly history; Matheme carries exact formal relations; the Myth page preserves the image-world from which either later abstraction may take one operation.
 

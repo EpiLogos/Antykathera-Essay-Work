@@ -11,7 +11,7 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — Gather terms that remain distinct
 
-Syn names the operation that composes while retaining source, inverse reading and affected context. Its input is already differentiated: the broken token's halves must remain two, and their fracture must remain available, for refitting to disclose belonging. [C50](../../episteme/concepts/C50-Dia-Syn.md) owns this full-strength gathering office; the [core spine, §IV](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) derives its binary self-relation.
+Syn names the operation that composes while retaining source, inverse reading and affected context. Its input is already differentiated: the broken token's halves must remain two, and their fracture must remain available, for refitting to disclose belonging. [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md) owns this full-strength gathering office; the [core spine, §IV](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) derives its binary self-relation.
 
 The root relation is [Mono/Poly](../../mono-poly.md). Syn is an operation of retaining and returning its differentiation, not another name for the entire ontological relation.
 
@@ -43,4 +43,4 @@ The pending claim that full gathering *is* the eros of logos is named in C50 as 
 
 The output is a relation whose terms can still be retrieved, differentiated and addressed. Return can consequently discover a wrong conversion, changed condition or newly affected participant without pretending the original operation never happened. The achieved difference becomes material for a renewed distinction.
 
-This record returns-to [A13](../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A12](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md), and [C50](../../episteme/concepts/C50-Dia-Syn.md). Its companion [Dia](dia.md) supplies the cut required by any genuine gathering; [chronic](chronic.md) keeps the present configuration and its passage through time independently readable.
+This record returns-to [A13](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), and [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md). Its companion [Dia](dia.md) supplies the cut required by any genuine gathering; [chronic](chronic.md) keeps the present configuration and its passage through time independently readable.

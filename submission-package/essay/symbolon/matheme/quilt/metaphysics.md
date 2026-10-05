@@ -11,7 +11,7 @@ source_relation: "Extracted internal quilting; exact construction and source-dis
 
 ## #0 — Prakāśa-Vimarśa
 
-Luminous awareness and its self-apprehending power enter the [metaphysical quilt](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) as a relation, whose [tattvic movement, §X](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) gives ground, inward differentiation, directed manifestation, separating measure, bounded knowing and recognition their distinct offices. The sixfold is QL’s compression of that movement; the numerical correspondences below retain their separate warrant.
+Luminous awareness and its self-apprehending power enter the [metaphysical quilt](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) as a relation, whose [tattvic movement, §X](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) gives ground, inward differentiation, directed manifestation, separating measure, bounded knowing and recognition their distinct offices. The sixfold is QL’s compression of that movement; the numerical correspondences below retain their separate warrant.
 
 The native operation relates awareness and manifestation without turning either into a self-sufficient substance. `0/1` and `1/0` give the subjectward and objectward readings. Their relational identity is not ordinary scalar equality, and reflective awareness is not reduced to one detached object among its contents.
 
@@ -40,7 +40,7 @@ The return makes those determinations legible as the field's own articulations. 
 
 The authorial quilt reads the three upāyas through three harmonics: āṇavopāya through individual effort/Being, śāktopāya through means and thought/Becoming, śāmbhavopāya through direct recognition/Knowing-unKnowing. The harmonic placement is the declared QL mapping; the traditions' practices retain their own sources and cannot be generated from the positional labels.
 
-The native witness argument is exact in its stated register: an experienced or asserted cessation cannot, by that act, remove the presupposed position of appearing. The [immutable-subject projection](../definition/immutable-subject.md) works its fact/content distinction. The [Spandakārikā house](../../episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md) has no acquired passage for the exact Kṣemarāja wording, so no direct quotation is promoted here. The internal argument survives that attribution debt.
+The native witness argument is exact in its stated register: an experienced or asserted cessation cannot, by that act, remove the presupposed position of appearing. The [immutable-subject projection](../definition/immutable-subject.md) works its fact/content distinction. The [Spandakārikā house](../../episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/spandakarika-dyczkowski-1992-stanzas-vibration.md) has no acquired passage for the exact Kṣemarāja wording, so no direct quotation is promoted here. The internal argument survives that attribution debt.
 
 ## #4 — Hold the Lacanian encounter and the numerical boundary
 
@@ -52,4 +52,4 @@ Likewise `36=6²` is exact arithmetic, while the identification of the thirty-si
 
 The result is differentiated manifestation returned through its source-relation. The quilt keeps `0/1=4+2=5→0=0/1`; the later Night pass has its own prime meanings. The metaphysical vibration names manifestation without displacement of its ground; physical string vibration has a separate mechanical description and is a named refraction.
 
-[The eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retain the whole knowing relation through each local operation. [Integral Zero](../../episteme/arguments/A36-Advent-of-Integral-Zero.md) returns the achieved determination through its still-active condition; [recognition](recognition.md) gathers that differentiated field without consuming its distinctions. The complete tattvic field remains the depth beneath this sixfold compression.
+[The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retain the whole knowing relation through each local operation. [Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) returns the achieved determination through its still-active condition; [recognition](recognition.md) gathers that differentiated field without consuming its distinctions. The complete tattvic field remains the depth beneath this sixfold compression.

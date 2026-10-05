@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources--biblical-studies
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.1"
+generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870"
+source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -17,31 +17,31 @@ source_digest: "abca20d53077a7527bf050c88177882b0448c96ae7407aa5502476034eff2870
 Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md). Each entry names what the page **implicates** through its written relations and what **reaches** it. The relation word is the one the sentence around the link names; `unnamed` marks a link whose sentence names none. This is a mirror of the written graph, never its substitute.
 Group: `biblical-studies` · back to [Episteme · Source houses](episteme-sources.md).
 
-### [Brown–Driver–Briggs — Hebrew lexicon, SPR entries (Bible Hub)](../../../sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md)
+### [Brown–Driver–Briggs — Hebrew lexicon, SPR entries (Bible Hub)](../../../sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/bdb-hebrew-english-lexicon-online.md)
 
 `lexicon`
 
-**Implicates:** *compares* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)
+**Implicates:** *compares* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md)
 
-**Reached from:** *sources* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-symbol-account-and-trust.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [Ephesians — SBL-hosted reverse-interlinear witness](../../../sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md)
+### [Ephesians — SBL-hosted reverse-interlinear witness](../../../sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/ephesians-sbl-reverse-interlinear.md)
 
 `scriptural-text`
 
-**Implicates:** *sources* → [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *qualifies* → [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD.md)
+**Implicates:** *sources* → [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md) · *qualifies* → [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy.md)
 
-**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages](../../../sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md)
+### [Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages](../../../sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/hebrew-bible-mechon-mamre-jps1917.md)
 
 `primary-text-translation`
 
-**Implicates:** *compares* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)
+**Implicates:** *compares* → [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md)
 
-**Reached from:** *sources* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Historical branches — Symbol, Account and Trust](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-symbol-account-and-trust.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [Hypostasis of the Archons — Bentley Layton online translation](../../../sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md)
+### [Hypostasis of the Archons — Bentley Layton online translation](../../../sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/hypostasis-archons-layton.md)
 
 `primary-text-translation`
 
@@ -49,10 +49,18 @@ Group: `biblical-studies` · back to [Episteme · Source houses](episteme-source
 
 **Reached from:** *sources* ← [The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above](../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
-### [The Book of Job — KJV, eBible eng-kjv2006 digital witness (2026-08-19)](../../../sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md)
+### [The Book of Job — KJV, eBible eng-kjv2006 digital witness (2026-08-19)](../../../sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/biblical-job-kjv-ebible-eng-kjv2006.md)
 
 `biblical-book`
 
-**Implicates:** *unnamed* → [Jung — Psychology and Religion: West and East, CW 11 (1969)](../../../sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md)
+**Implicates:** *unnamed* → [Jung — Psychology and Religion: West and East, CW 11 (1969)](../../../sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md)
 
 **Reached from:** *sources* ← [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md), [Avatar · image · mask · idol](../../../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) · *sources (declared)* ← [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md)
+
+### [The Gospel according to St. John — KJV, eBible eng-kjv2006 digital witness](../../../sources/biblical-studies/anonymous/biblical-john-kjv-ebible-eng-kjv2006/biblical-john-kjv-ebible-eng-kjv2006.md)
+
+`biblical-book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
