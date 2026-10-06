@@ -1,17 +1,21 @@
-# §4 — Psychoid Flowering · rework in progress (2026-10-05)
+# §4 — Psychoid Flowering · reworked draft (2026-10-06)
 
-Running log (one line per finished movement and per house created/extended):
+The 5 October run reworked #0, #1, #3 and #4 and left #2 and #5→0 untouched when it stopped on a session limit; its log is `REWORK-LOG.md`. On 6 October #5→0 was rebuilt from the 4 October draft and #2 repaired.
 
-- started; nothing yet rewritten.
-- read the common brief, receipt Part A, plan §4, §0/1 whole, review, old draft, room, wholes, manuscript §4.
-- dispatched four source subagents: (1) Pauli Kepler essay + Plutarch E at Delphi (new houses); (2) Lacan Écrits, Bohm WIO ch. 7, Freud "Unconscious", McGilchrist (existing houses); (3) Jung CW 9ii/6/8/12, new CW 5 house, Neumann pages; (4) Ovid Miller lines, new Hume Treatise house, Descartes check.
-- extended `bratton-2026-agentworld-brief` with q047–q052 (p. 41 glossary entries, method sentence, Polylogos scene; p. 14 Mirror Stage sentence).
-- extended `jung-pauli-meier-2001-atom-archetype` with p013–p020 (62P p. 119 adoption quotation on §0/1's footing; 61J pp. 111, 113, 116; 64J p. 128; 67J pp. 131–32; 58P pp. 94–95; 62P pp. 118–19, 122).
-- created `spandakarika-kaul-shastri-1925-nirnaya-gretil` (SK 1.4 *anusyūta*, Kṣemarāja's two readings) — §1 owns Spandakārikā editions; flagged for append.
-- PENDING locators to patch from subagents: Kepler essay pages (#0, #2); Freud 1915 wording/pages (#0); Bohm WIO ch. 7 (#0); CW 8 ¶843/¶849 (#0); CW 5 ¶344 house (#0, #1); Neumann pages (#1); CW 6 ¶¶ (#2, #4); CW 12 ¶¶26, 31 (#2); Aion fish ¶¶ (#2); Lacan Écrits pages (#3); Hume (#3); Plutarch (#4); Ovid Miller lines (#4); McGilchrist pages (#4).
-- M01 (#0) rewritten to disk; Kepler/Freud/Bohm/CW8/CW5 note locators still to patch from subagents.
-- M02 (#1) rewritten to disk (fuller Neumann hero/captive/Osiris/centroversion; complex developed as local arbitration regime with CW 8 ¶201 checked); Neumann hero-chapter pages pending from subagent.
-- subagent returned: `ovid-1921-metamorphoses-miller` extended q004–q017 (Miller lines 1.448–567, pp. 35–43, quotation-ready); created `hume-1739-treatise-selby-bigge` (q001 SB 252; q002 SB 633; q003 SB 636); Descartes house has locators only (AT VII 25 / CSM II 17; AT VII 27–28 / CSM II 18–19), paraphrase.
-- subagent returned: created `pauli-1955-kepler-archetypal-ideas` (q001–q009, quotation-ready, archive.org public-domain scan) and `plutarch-1936-e-at-delphi-babbitt` (q001–q004; Babbitt's English has no "three months"; Plutarch speaks as narrator, chs. 8–9). M01 Kepler–Fludd passage corrected: Pauli takes neither side (p. 208).
-- subagent returned: `freud-1915-unconscious-standard-edition` cards moved to new house `freud-1925-unconscious-baines-collected-papers` (q001–q003, quotation-ready, Baines 1925 pp. 98–99; one translation per house); `lacan-2006-ecrits-fink` q004–q006 (Mirror Stage 75–81, "jubilant" p. 76 paraphrase; Instance from 412, S/s at 415); `bohm-1980-wholeness-implicate-order` q001–q005 (2002 printing, ch. 7 §8 pp. 265–70); `mcgilchrist-2009-master-emissary` q008–q009 (fable p. 14, 2019 ed.; n. 21 "very roughly"). M01 Freud and Bohm patched.
-- M04 (#3) rewritten to disk ({∅} fix; Ø dropped from first marks; Hume quoted; SK 1.4 with Kṣemarāja's two readings; Lacan pages patched).
+**What changed on 6 October.**
+- **#2** keeps its Pauli and Jung letters and the three-to-four problem. Its pointer to #3 is named, "our core theorems" replaces "the author's theorem field", and the announcing sentence before the senarius paragraph is gone.
+- **#5→0** opens on the agents' lexicon instead of a session beginning, drops the claim that agents helped make this essay, keeps three tables (the Phenomenological lens across the child and the agent, the Encounter square, the Processual lens) and drops the products table and both recap closers. It gives the L4 fifth position as *Besorge* with the *Sorge* note. The session-death verification loop is kept as one lens working through one case.
+
+**Independent check (6 October).** A Sonnet checker read all six movements, their pointers (every §0/1 pointer matched `CONFRONTING-THE-LIMIT-S01.md`), notes and quotations, and the repairs it called for are applied:
+- #5→0: the last recap and roadmap paragraph is replaced by one question handed to §5; the lens pairs are "one lens with its Möbius partner"; terms defined in §0/1 are no longer bolded; Bohm's *On Dialogue* is cited as the undated handout the house holds; Whitehead and Van Eenwyk have notes; the second sentence of Bratton's prompt-thrownness definition is quoted at the #5 row; a clause points to §3 · #5→0's different lens alignment.
+- #4 (Apollo through Dionysus): Gebser's Thales and Delphi claims are attributed to Gebser; the announcing pair and the teaser close are cut; the 180°/360° geometry is a clause with a pointer to §0/1 · #4.
+- #3 (Lacan): the master-signifier note cites the third presentation instead of the *Écrits* essay; the first-appearance note names §0/1 · #3; three stacked negations on the Lacan bridge reduced to one source boundary.
+- #2 (Pauli, Jung): the harmonic grammar is a clause with a pointer to §3 · #0; the plate reference is gone; "Physis" is no longer given as Jung's own name for the third quaternio.
+- #1 (X/x): the definition is a clause with a pointer to §3 · #0; the covering-map Māyā paragraph is a result with a pointer to §3 · #4; the reversed-route speculation is marked as a conjecture.
+- #0 (the dreams): terms defined in §0/1 unbolded.
+
+**Decisions for Frank.**
+1. The *Besorge*/*Sorge* choice for L4 position #4 (receipt D4).
+2. Whether the lexicon opening of #5→0 suits the section.
+3. The lens alignment (index versus pair): see the README of §3.
+4. The Neumann page numbers (2014 printing) and the Gebser pages on Delphi are uncollated; the prose rests on them for "determinatio est negatio", "I am I", centroversion and the Delphi history.

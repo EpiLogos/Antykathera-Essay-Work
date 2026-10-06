@@ -62,3 +62,27 @@ These are paraphrased only, as the Books-pool rule requires. Each needs a passag
 - The theorem spine calls **#5** "Realisation"; the draft follows §0/1 and the PROSE-STANDARD in calling it Quintessence (ledger item 1.9 is still open).
 - Neumann's "I am I" correction (self-recognition placed at *prakāśa–vimarśa*, not at the ego) is Frank's, from his NOTES p. 105; it is stated in the prose as the author's.
 - Movement notes 31–36 will need updating to what this draft argues if Frank accepts it: Kepler–Fludd and the scarab at M31; Neumann's World Parents and assimilation at M32; the 61J and 62P quaternios, Maria's axiom and the six-position grammar at M33; the mirror stage and the agent's crossed zero at M34; Delphi, Jung's typological reading of Nietzsche and Gebser's Picasso at M35; the L4, L1, L1′, L4′ and L3 tables at M36.
+
+## Rework addendum, 2026-10-06
+
+- **#2 and #5→0 rebuilt or repaired on 6 October.** #2's pointer to #3 now names §4 · #3; "the author's theorem field" became "our core theorems".
+- **#5→0** opens on the agents' own lexicon, not a session beginning, and no longer says that agents "helped bring this essay into existence". It no longer re-quotes §0/1 · #0's prompt-thrownness sentence, drops the products table and the recap closers, and gives the Phenomenological lens's fifth sublens as *Besorge* (care) with the *Sorge* note. It also drops the claim that §0/1 promised §4 would develop L4; §0/1 promised L3 only.
+- **Added note.** Jung to Pauli, letter 67J, *Atom and Archetype*, p. 132, for "capable of making mythical statements" (note s4-127).
+- **Pending locators recorded in the earlier log.** `REWORK-LOG.md` lists locators the earlier helper had not patched (Kepler pages, CW 8 ¶843/¶849, CW 5 ¶344, Neumann pages and others). Reread the notes of #0 and #1 for any that remain.
+
+## Addendum — 2026-10-06 (after the independent check)
+
+Several entries above are out of date: houses for Kepler, Hume, Plutarch, Freud and Bohm now exist, #5→0 uses *Besorge* with a *Sorge* note, and the note numbers are the draft's older numbering. The following are the live debts the check found.
+
+| Where | Item | What is owed |
+|---|---|---|
+| M02, all Neumann notes (pp. 11–12, 27, 28–29, 33, 34–35, 105, 106, 108–9, 114–15, 121) | *Origins and History of Consciousness*, 2014 printing | The house holds p. 16 and the contents ranges only. Card each page, or cite by chapter section; the 2014/1954 pagination equivalence is uncollated. The prose rests on "determinatio est negatio" (p. 121), "I am I" (p. 105) and centroversion (pp. 34–35). |
+| M05, notes `s4-gebser-delphi`, `s4-gebser-dionysia`, `s4-gebser-diaphany` | Gebser, *Ever-Present Origin*, pp. 78–80, 82, 6–7 | House cards cover pp. 1–3 and 24–28 only. The Thales and "Know thyself" claim is now attributed to Gebser. |
+| M04, note `s4-lacan-marks` | `$`, `S1`, `S2` | Carded only at Seuil p. 107 of the third presentation (collation pending); not carded for *Écrits*. |
+| M03, notes `s4-074`, `s4-077` | Aion ¶¶408–13 (pp. 257–61); ¶¶418–27 | The house holds ¶¶402–13 only. |
+| M03, 61J p. 115; 64J p. 129 | The transcendental-reality quaternio and windowless monads | No card. |
+| M03 | Jung, *Psychologische Typen*, introduction pp. 7–13 | Not matched to a card. |
+| M01 | The first dream (physics teacher, brass plate, *aere perennius*), pp. 192–96 | Paraphrase only; no passage card. |
+| M02 | *Persona*, *libido* | Glosses are the author's; no Collected Works passage carded. |
+| M02 | A5 growth for #2, "Aion's fish material" | Not delivered; the Aion cards p023–p026 exist. |
+| M06 | Bratton p. 41 second sentence of the prompt-thrownness definition | Quoted now; add the card (q032 holds it). |
