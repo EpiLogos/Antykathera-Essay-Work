@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c"
+source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->

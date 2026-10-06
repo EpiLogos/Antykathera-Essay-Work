@@ -1,5 +1,5 @@
 {
-  "source_digest": "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c",
+  "source_digest": "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d",
   "builder_version": "1.2.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -8,6 +8,7 @@
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 265,
+      "missing-path": 1,
       "missing-vault-path": 111,
       "missing-fragment": 2,
       "ambiguous-filename": 8
@@ -28,7 +29,7 @@
   },
   "max_depth": 4,
   "relation_totals": {
-    "unnamed": 8259,
+    "unnamed": 8260,
     "sources": 1362,
     "sources (declared)": 782,
     "consumed-by (declared)": 299,
@@ -69,9 +70,9 @@
     },
     "essay": {
       "pages": 1,
-      "links": 12,
+      "links": 13,
       "named": 1,
-      "unnamed": 11,
+      "unnamed": 12,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -675,19 +676,6 @@
         "the-return-of-zero-central-plan.md": 80
       }
     },
-    "working/_to_delete": {
-      "count": 32,
-      "targets": {
-        "working/_to_delete/2026-09-25-retire/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-DECISIONS.md": 20,
-        "working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/CURRENT-GROUND-AND-CORPUS-MANIFEST.md": 3,
-        "working/_to_delete/2026-09-25-retire/harmonisation-2026-08-18-objective-internality-capstone/OBJECTIVE-INTERNALITY-48-MOVEMENT-TRAVERSAL.md": 3,
-        "working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/AUTHORIAL-RETURN-INTAKE.md": 2,
-        "working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/APHORISM-AND-PITHY-FORMULATION-LEDGER.md": 1,
-        "working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/NATIVE-026-POST-SECTION-CONFORMANCE-REVIEW.md": 1,
-        "working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 1,
-        "working/_to_delete/2026-09-25-retire/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-SECTIONS-AND-FIELD-MAP.md": 1
-      }
-    },
     "working/s01-hardening-2026-10-01": {
       "count": 31,
       "targets": {
@@ -764,18 +752,19 @@
       "§2 ·": 14,
       "§3 ·": 12,
       "§4 ·": 12,
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-DECISIONS": 11,
+      "CAPSTONE-DECISIONS": 9,
       "Colebrooke — Brahmagupta and Bhāskara": 8,
       "Dyczkowski — Doctrine of Vibration": 7,
       "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit": 6,
       "Pind — Dignāga on Anyāpoha": 5,
       "The Copula Derivation Chain": 4,
       "submission-package/essay/section-rooms/arguments/02-objective-internality": 3,
-      "submission-package/essay/section-rooms/arguments/08-deferential-intelligence": 3,
-      "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE": 3,
-      "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE": 3
+      "submission-package/essay/section-rooms/arguments/08-deferential-intelligence": 3
     },
     "essay": {
-      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1
+      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
+      "symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg": 1
     },
     "movements": {
       "../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
@@ -786,8 +775,8 @@
       "../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
       "../../../symbolon/matheme/topology/images/tokamak-chamber-and-magnetic-fields-schematic.jpg": 1,
       "../../../symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
-      "../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg": 1,
-      "../../../symbolon/matheme/topology/images/mercator-atlas-1595-frontispiece.jpg": 1,
+      "../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg": 1,
+      "../../../symbolon/matheme/topology/images/stomatapoll-2012-two-coordinate-charts-and-transition-maps.svg": 1,
       "../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/images/giordano-psyche-discovering-the-sleeping-cupid.jpg": 1,
       "../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg": 1
     },
@@ -803,16 +792,17 @@
       "bare wikilinks": 1
     },
     "episteme-etymologies": {
-      "images/owen-1848-vertebrate-archetype-plate.jpg": 1,
+      "images/owen-1843-glossary-analogue-and-homologue.jpg": 1,
       "images/exchequer-tally-1739-diagram.jpg": 1
     },
     "episteme-histories": {
       "images/barbari-portrait-of-luca-pacioli.jpg": 1,
+      "images/leonardo-1509-vigintisex-basium-planum-vacuum.jpg": 1,
       "images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
       "images/liber-abbaci-florence-ms-f124r.jpg": 1,
       "images/ybc-7289-babylonian-tablet.jpg": 1,
-      "images/hoernle-1887-bakhshali-numerals.png": 1,
       "images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg": 1,
+      "images/colebrooke-1817-lilavati-section-iv-cipher.jpg": 1,
       "images/durer-1525-draughtsman-drawing-a-lute.jpg": 1
     },
     "episteme-sources": {
@@ -828,15 +818,17 @@
       "Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music": 1
     },
     "matheme": {
+      "images/qupybara-2024-bloch-sphere-angles.svg": 1,
       "images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
-      "images/mercator-atlas-1595-frontispiece.jpg": 1,
+      "images/freeth-2021-fig1-antikythera-inscriptions-and-reconstructed-plates.jpg": 1,
+      "images/stomatapoll-2012-two-coordinate-charts-and-transition-maps.svg": 1,
       "images/glass-klein-bottle.jpg": 1,
       "images/tokamak-chamber-and-magnetic-fields-schematic.jpg": 1
     },
     "mytheme": {
       "images/chrysopoeia-of-cleopatra-ouroboros.jpg": 1,
-      "images/signorelli-sermon-and-deeds-of-the-antichrist.jpg": 1,
       "images/abercius-stele-fragment-museo-pio-cristiano.jpg": 1,
+      "images/bayer-1603-uranometria-pisces.jpg": 1,
       "images/blake-job-plate-13-lord-answering-out-of-the-whirlwind.jpg": 1,
       "images/blake-job-plate-15-behemoth-and-leviathan.jpg": 1,
       "images/portmeirion-village.jpg": 1,
@@ -845,7 +837,7 @@
       "images/freeth-2021-cosmos-display-computer-model.jpg": 1,
       "images/skenfrith-cope-st-bridgets-church.jpg": 1,
       "images/skenfrith-cope-detail-winged-figures.jpg": 1,
-      "images/chartres-north-rose-window.jpg": 1
+      "images/viollet-le-duc-1868-vitrail-cartoon-and-lead-lines.png": 1
     }
   },
   "unnamed_samples": {

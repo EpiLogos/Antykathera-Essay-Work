@@ -5,6 +5,13 @@ record_type: matheme
 register: matheme
 claim_status: Derived
 source_relation: "Explicit mathematical construction; argued native comparison"
+figures:
+  - asset: "images/qupybara-2024-bloch-sphere-angles.svg"
+    asset_format: "image/svg+xml"
+    rights: "CC0-1.0"
+    rights_note: "Diagram by Qupybara, dedicated to the public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Yet_another_Bloch_sphere.svg"
+    credit: "Qupybara, Yet another Bloch sphere, SVG diagram, 7 July 2024. CC0 1.0."
 ---
 
 # A Pure Qubit and the Bloch Sphere
@@ -26,6 +33,12 @@ with `0≤θ≤π` and `φ` modulo `2π`. At the poles the azimuth is irrelevant
 `r=(sinθ cosφ,sinθ sinφ,cosθ)`.
 
 The squared components sum to 1. Thus the pure states form a sphere, with computational basis states at opposite poles. The poles are a coordinate choice, and they make no identification of the native zero and one with physical substances.
+
+![A sphere drawn in perspective with x, y and z axes: the label ket zero at the top pole and ket one at the bottom pole, plus and minus on the x axis, plus i and minus i on the y axis, and a point joined to the centre by a line that makes an angle theta with the vertical axis; a shaded triangle beneath it meets the equatorial disc at an angle phi from the x axis.](images/qupybara-2024-bloch-sphere-angles.svg)
+
+> The Bloch sphere. The basis states `|0⟩` and `|1⟩` sit at the poles, `|+⟩`, `|−⟩`, `|+i⟩` and `|−i⟩` on the equator, and a pure state is the point fixed by the polar angle `θ` and the azimuth `φ`. This is the parametrisation of the record, `cos(θ/2)|0⟩+e^{iφ}sin(θ/2)|1⟩`, drawn.
+>
+> Credit: Qupybara, *Yet another Bloch sphere*, SVG diagram, 7 July 2024. CC0 1.0.
 
 ## #2 — Work phase and probability separately
 

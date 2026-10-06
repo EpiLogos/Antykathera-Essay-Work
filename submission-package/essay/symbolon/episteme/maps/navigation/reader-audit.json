@@ -7,6 +7,7 @@
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 265,
+      "missing-path": 1,
       "missing-vault-path": 111,
       "missing-fragment": 2,
       "ambiguous-filename": 8
@@ -1332,7 +1333,7 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
       "sha256": "bc795764e7f7df04c08cc895e02bc0f12ba41ae35e921546bc107bee67a77cdb",
       "exists": true,
-      "current_sha256": "1605e1dbe2af1fc483382573164f9d3718ff2e00b21401e3e4fb3dc2e391826b",
+      "current_sha256": "99977816c826847053affa0409dba5417c5298850024a29d4e1b69f5b1a01b5d",
       "changed_since_acceptance": true,
       "reader_depth": 3
     },
@@ -1486,7 +1487,7 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
       "sha256": "736c1cdea22c70c0954bb98a2f64ec49c8bccca210cdbfc411a0acdc9491eab3",
       "exists": true,
-      "current_sha256": "9b831c4a1b88ec64937e64d90019c175faf0b317fa28dde19919e376284b3a92",
+      "current_sha256": "ae4fb994a7448f62d8214c700bdc674b9d7ebfee8b2df00ff3e14eea57a8baf8",
       "changed_since_acceptance": true,
       "reader_depth": 3
     },
@@ -1640,7 +1641,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
       "sha256": "d7b0f41d486379495edc24f6246c0a910f60abb372e149624afa003eef24f083",
       "exists": true,
-      "current_sha256": "48ecd09ffc07bbac3fb0f656f3cf319490aba504f2fa0cc7bd66e682a76a922c",
+      "current_sha256": "c35e6df9152cf693fc4d09db95ecffcd2b82c41d466cef249656fec7c00195bb",
       "changed_since_acceptance": true,
       "reader_depth": 1
     },
@@ -1717,7 +1718,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
       "sha256": "93fa34e4a0fb540ae0b966ba427a9402ca6f84ff3e432b6b6146f3e49c4a8f87",
       "exists": true,
-      "current_sha256": "33b90cfecf36ea2f0dc3eb9429989e9d8726fd297b1ba6f0a423457d177aff50",
+      "current_sha256": "568851160e212b4da91635a28138ea3b0aa170c5f30ea8e75f24be10b74cf193",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1750,7 +1751,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md",
       "sha256": "9c410adca67ab2af32cb2852b3b5e46da6a8c495e41a11acdd2898f15e4e70b1",
       "exists": true,
-      "current_sha256": "a956625602b8d06d2c09e5a031951018f7c1e5e3d0987748956166cd6df4d104",
+      "current_sha256": "bcc4e0ad6b729fed81acf4e3c7acb2cc945bfade4b13b8012fcc9d77aa8d8cdd",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1827,7 +1828,7 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md",
       "sha256": "57e3dddec592502dd44037462e45f7b79f04be09d3f2135cbf85acb6e5c64521",
       "exists": true,
-      "current_sha256": "637f7340682311662b146ce12f0c4fd44d5e01984f3a4c214f5af4e8a55a4634",
+      "current_sha256": "1371dbe4bfec6d3ff1e143f505a91ebcbaa9b737a3dcfe7f81487d02dee84839",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -2124,7 +2125,7 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
       "sha256": "2764da7d6d196475cb99b9e633d0f61d95bdfa5aaa41b38a0389d6404bfb38f5",
       "exists": true,
-      "current_sha256": "ae73e0b63627e37b791b6b5d8faa622b83569b9e012c8489ca44909774f0aed7",
+      "current_sha256": "24a48dcadf119669857ffbba3590954f95c66d66b12b99608b73586bc3d0355a",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -2476,7 +2477,7 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
       "sha256": "f8964cb76f10df03c8ad306a5cd75920a6fc431ae7219601353d394d9ded1329",
       "exists": true,
-      "current_sha256": "80bddb89957a32ca487e0915e925d88884704bd27f45c7acb4512684fdbfe954",
+      "current_sha256": "08d0f6081c0304af7d1ea10208070c5393690490c554b66b6d2191c17d9a7662",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -2487,7 +2488,7 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
       "sha256": "97125a7ee0ad3119414958e6c5163c18961374b22f70fdea9aa5f83ca83b5811",
       "exists": true,
-      "current_sha256": "916618666297b0cdcda17442f91447ef82ab32f0c34a93b7f16693d7da195a48",
+      "current_sha256": "d3a7d23fad44ba077a6e26186c807ceb438c7c75d856bd436ece9399e3a1bace",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -3059,7 +3060,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
       "sha256": "6a16cafdce944d8d100d744c567517e030aadb114c52c05642b22230860445b9",
       "exists": true,
-      "current_sha256": "627e341389947292cff0ed4445d43e18ef2895a1d8793070262a4175e3a2e9c2",
+      "current_sha256": "c90a152599d982cd6aed399b6364c92ae025c3388948bedadc0010723268bec7",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -3265,6 +3266,16 @@
       "line": 5941,
       "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md",
       "status": "title-or-alias-only"
+    },
+    {
+      "source": "submission-package/essay/quilt/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
+      "kind": "markdown",
+      "href": "../../../../working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/APHORISM-AND-PITHY-FORMULATION-LEDGER.md#1-ratified-complete-aphoristic-form",
+      "start": 481,
+      "end": 656,
+      "line": 14,
+      "target": null,
+      "status": "missing-path"
     },
     {
       "source": "submission-package/essay/section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
@@ -7115,7 +7126,7 @@
       "start": 65306,
       "end": 65422,
       "line": 362,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Franki Taylor — Internal Corpus Argument Candidates.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Franki Taylor — Internal Corpus Argument Candidates.md",
       "status": "outside-body"
     },
     {
@@ -7125,7 +7136,7 @@
       "start": 145438,
       "end": 145554,
       "line": 738,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Franki Taylor — Internal Corpus Argument Candidates.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Franki Taylor — Internal Corpus Argument Candidates.md",
       "status": "outside-body"
     },
     {
@@ -7135,7 +7146,7 @@
       "start": 1044,
       "end": 1087,
       "line": 22,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7145,7 +7156,7 @@
       "start": 6451,
       "end": 6525,
       "line": 88,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7155,7 +7166,7 @@
       "start": 45334,
       "end": 45377,
       "line": 306,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7165,7 +7176,7 @@
       "start": 46508,
       "end": 46582,
       "line": 315,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7175,7 +7186,7 @@
       "start": 625,
       "end": 668,
       "line": 22,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7185,7 +7196,7 @@
       "start": 4104,
       "end": 4181,
       "line": 24,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7195,17 +7206,7 @@
       "start": 7377,
       "end": 7464,
       "line": 55,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/09-7-2026-antykathera-csm-lecture-notes.md",
-      "status": "outside-body"
-    },
-    {
-      "source": "submission-package/essay/quilt/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
-      "kind": "markdown",
-      "href": "../../../../working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/APHORISM-AND-PITHY-FORMULATION-LEDGER.md#1-ratified-complete-aphoristic-form",
-      "start": 481,
-      "end": 656,
-      "line": 14,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/APHORISM-AND-PITHY-FORMULATION-LEDGER.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/09-7-2026-antykathera-csm-lecture-notes.md",
       "status": "outside-body"
     },
     {
@@ -7215,7 +7216,7 @@
       "start": 632,
       "end": 675,
       "line": 16,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7225,7 +7226,7 @@
       "start": 4818,
       "end": 4908,
       "line": 37,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
     {
@@ -7235,7 +7236,7 @@
       "start": 13828,
       "end": 13996,
       "line": 96,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/The Self Proving Self_ Exposition.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/The Self Proving Self_ Exposition.md",
       "status": "outside-body"
     },
     {
@@ -7245,7 +7246,7 @@
       "start": 3938,
       "end": 4025,
       "line": 34,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
     {
@@ -7255,7 +7256,7 @@
       "start": 2669,
       "end": 2771,
       "line": 30,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P3 - Beyond Para-Trisika.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P3 - Beyond Para-Trisika.md",
       "status": "outside-body"
     },
     {
@@ -7265,7 +7266,7 @@
       "start": 7320,
       "end": 7497,
       "line": 50,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction.md",
       "status": "outside-body"
     },
     {
@@ -7275,7 +7276,7 @@
       "start": 8411,
       "end": 8535,
       "line": 57,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
       "status": "outside-body"
     },
     {
@@ -7285,7 +7286,7 @@
       "start": 13619,
       "end": 13731,
       "line": 89,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
       "status": "outside-body"
     },
     {
@@ -7295,7 +7296,7 @@
       "start": 13922,
       "end": 13999,
       "line": 89,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7305,7 +7306,7 @@
       "start": 15205,
       "end": 15317,
       "line": 81,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
       "status": "outside-body"
     },
     {
@@ -7315,7 +7316,7 @@
       "start": 15665,
       "end": 15742,
       "line": 81,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7325,7 +7326,7 @@
       "start": 13431,
       "end": 13477,
       "line": 76,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7335,7 +7336,7 @@
       "start": 2800,
       "end": 2919,
       "line": 31,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md",
       "status": "outside-body"
     },
     {
@@ -7345,7 +7346,7 @@
       "start": 11049,
       "end": 11220,
       "line": 71,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/The Self Proving Self_ Exposition.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/The Self Proving Self_ Exposition.md",
       "status": "outside-body"
     },
     {
@@ -7355,7 +7356,7 @@
       "start": 1590,
       "end": 1657,
       "line": 21,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/QL-Essay-Rewrite.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/QL-Essay-Rewrite.md",
       "status": "outside-body"
     },
     {
@@ -7365,7 +7366,7 @@
       "start": 2111,
       "end": 2297,
       "line": 23,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition.md",
       "status": "outside-body"
     },
     {
@@ -7375,7 +7376,7 @@
       "start": 3316,
       "end": 3406,
       "line": 30,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
     {
@@ -7385,7 +7386,7 @@
       "start": 2769,
       "end": 2944,
       "line": 40,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
       "status": "outside-body"
     },
     {
@@ -7395,7 +7396,7 @@
       "start": 4383,
       "end": 4490,
       "line": 61,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7405,7 +7406,7 @@
       "start": 7622,
       "end": 7782,
       "line": 85,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
       "status": "outside-body"
     },
     {
@@ -7415,7 +7416,7 @@
       "start": 9003,
       "end": 9172,
       "line": 93,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
       "status": "outside-body"
     },
     {
@@ -7425,7 +7426,7 @@
       "start": 2530,
       "end": 2705,
       "line": 28,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
       "status": "outside-body"
     },
     {
@@ -7435,7 +7436,7 @@
       "start": 1975,
       "end": 2113,
       "line": 21,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
       "status": "outside-body"
     },
     {
@@ -7445,7 +7446,7 @@
       "start": 2699,
       "end": 2805,
       "line": 22,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md",
       "status": "outside-body"
     },
     {
@@ -7455,7 +7456,7 @@
       "start": 2445,
       "end": 2553,
       "line": 22,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
       "status": "outside-body"
     },
     {
@@ -7465,7 +7466,7 @@
       "start": 3461,
       "end": 3559,
       "line": 39,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7475,7 +7476,7 @@
       "start": 3664,
       "end": 3763,
       "line": 41,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7485,7 +7486,7 @@
       "start": 4694,
       "end": 4793,
       "line": 43,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7495,7 +7496,7 @@
       "start": 6294,
       "end": 6393,
       "line": 45,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7505,7 +7506,7 @@
       "start": 2419,
       "end": 2513,
       "line": 38,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7515,7 +7516,7 @@
       "start": 3464,
       "end": 3559,
       "line": 40,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7525,7 +7526,7 @@
       "start": 3820,
       "end": 3915,
       "line": 42,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7535,7 +7536,7 @@
       "start": 4346,
       "end": 4441,
       "line": 42,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7545,17 +7546,17 @@
       "start": 6910,
       "end": 6986,
       "line": 55,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
       "source": "submission-package/essay/section-rooms/arguments/concepts/index.md",
       "kind": "markdown",
       "href": "../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/canon/topological-runtime-modes.md#lemniscatic-recursive-contextual-fold",
-      "start": 7862,
-      "end": 8030,
+      "start": 7883,
+      "end": 8051,
       "line": 63,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/canon/topological-runtime-modes.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/canon/topological-runtime-modes.md",
       "status": "outside-body"
     },
     {
@@ -7565,7 +7566,7 @@
       "start": 2366,
       "end": 2464,
       "line": 43,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7575,7 +7576,7 @@
       "start": 3308,
       "end": 3407,
       "line": 45,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7585,7 +7586,7 @@
       "start": 5396,
       "end": 5445,
       "line": 50,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7595,7 +7596,7 @@
       "start": 5873,
       "end": 6000,
       "line": 45,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
       "status": "outside-body"
     },
     {
@@ -7605,7 +7606,7 @@
       "start": 2466,
       "end": 2609,
       "line": 24,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
       "status": "outside-body"
     },
     {
@@ -7615,7 +7616,7 @@
       "start": 2047,
       "end": 2127,
       "line": 25,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7625,7 +7626,7 @@
       "start": 2588,
       "end": 2668,
       "line": 29,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7635,7 +7636,7 @@
       "start": 1536,
       "end": 1616,
       "line": 23,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7645,7 +7646,7 @@
       "start": 989,
       "end": 1069,
       "line": 22,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7655,7 +7656,7 @@
       "start": 1737,
       "end": 1817,
       "line": 23,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7665,7 +7666,7 @@
       "start": 6788,
       "end": 6868,
       "line": 39,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "target": "/private/tmp/merged/working/antykathera-resources/Antikythera Agentworld Brief.md",
       "status": "outside-body"
     },
     {
@@ -7675,7 +7676,7 @@
       "start": 12310,
       "end": 12414,
       "line": 63,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md",
+      "target": "/private/tmp/merged/working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md",
       "status": "outside-body"
     },
     {
@@ -7685,7 +7686,7 @@
       "start": 11535,
       "end": 11639,
       "line": 71,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md",
+      "target": "/private/tmp/merged/working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md",
       "status": "outside-body"
     },
     {
@@ -7695,7 +7696,7 @@
       "start": 2626,
       "end": 2769,
       "line": 29,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
       "status": "outside-body"
     },
     {
@@ -7705,7 +7706,7 @@
       "start": 10094,
       "end": 10237,
       "line": 55,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
       "status": "outside-body"
     },
     {
@@ -7715,7 +7716,7 @@
       "start": 33186,
       "end": 33276,
       "line": 218,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
     {
@@ -7725,7 +7726,7 @@
       "start": 2910,
       "end": 2999,
       "line": 32,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7735,7 +7736,7 @@
       "start": 1319,
       "end": 1436,
       "line": 23,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/methods/source-grounding.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/methods/source-grounding.md",
       "status": "outside-body"
     },
     {
@@ -7745,7 +7746,7 @@
       "start": 2835,
       "end": 2924,
       "line": 90,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -7755,7 +7756,7 @@
       "start": 5476,
       "end": 5562,
       "line": 49,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md",
+      "target": "/private/tmp/merged/working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md",
       "status": "outside-body"
     },
     {
@@ -7765,7 +7766,7 @@
       "start": 5778,
       "end": 5891,
       "line": 49,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7775,7 +7776,7 @@
       "start": 5947,
       "end": 6001,
       "line": 49,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/.wayfinder/maps/t20-t21-world-registers.md",
+      "target": "/private/tmp/merged/.wayfinder/maps/t20-t21-world-registers.md",
       "status": "outside-body"
     },
     {
@@ -7785,7 +7786,7 @@
       "start": 19047,
       "end": 19147,
       "line": 91,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md",
+      "target": "/private/tmp/merged/working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md",
       "status": "outside-body"
     },
     {
@@ -7795,7 +7796,7 @@
       "start": 3148,
       "end": 3197,
       "line": 33,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7805,7 +7806,7 @@
       "start": 7703,
       "end": 7752,
       "line": 63,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7815,7 +7816,7 @@
       "start": 4270,
       "end": 4319,
       "line": 39,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7825,7 +7826,7 @@
       "start": 2390,
       "end": 2439,
       "line": 32,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7835,7 +7836,7 @@
       "start": 10557,
       "end": 10606,
       "line": 117,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -7845,7 +7846,7 @@
       "start": 16229,
       "end": 16321,
       "line": 126,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/receipts/T20-valentinian-source-acquisition.md",
+      "target": "/private/tmp/merged/working/p2-enrichment/receipts/T20-valentinian-source-acquisition.md",
       "status": "outside-body"
     },
     {
@@ -7855,7 +7856,7 @@
       "start": 3527,
       "end": 3642,
       "line": 86,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/source-extraction-core-theorems.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/source-extraction-core-theorems.md",
       "status": "outside-body"
     },
     {
@@ -7865,7 +7866,7 @@
       "start": 6344,
       "end": 6486,
       "line": 98,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md",
       "status": "outside-body"
     },
     {
@@ -7875,7 +7876,7 @@
       "start": 12094,
       "end": 12188,
       "line": 137,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md",
+      "target": "/private/tmp/merged/docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md",
       "status": "outside-body"
     },
     {
@@ -7885,7 +7886,7 @@
       "start": 12883,
       "end": 13025,
       "line": 138,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md",
       "status": "outside-body"
     },
     {
@@ -7895,7 +7896,7 @@
       "start": 13152,
       "end": 13256,
       "line": 143,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/QL-Essay-Rewrite.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/QL-Essay-Rewrite.md",
       "status": "outside-body"
     },
     {
@@ -7905,7 +7906,7 @@
       "start": 13592,
       "end": 13719,
       "line": 143,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/QL-Essay-Rewrite.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/QL-Essay-Rewrite.md",
       "status": "outside-body"
     },
     {
@@ -7915,7 +7916,7 @@
       "start": 14102,
       "end": 14233,
       "line": 145,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/QL-Essay-Rewrite.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/QL-Essay-Rewrite.md",
       "status": "outside-body"
     },
     {
@@ -7925,7 +7926,7 @@
       "start": 15790,
       "end": 15894,
       "line": 159,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/QL-Essay-Rewrite.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/QL-Essay-Rewrite.md",
       "status": "outside-body"
     },
     {
@@ -7935,7 +7936,7 @@
       "start": 20470,
       "end": 20574,
       "line": 195,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/QL-Essay-Rewrite.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/QL-Essay-Rewrite.md",
       "status": "outside-body"
     },
     {
@@ -7945,7 +7946,7 @@
       "start": 2890,
       "end": 2961,
       "line": 58,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -7955,7 +7956,7 @@
       "start": 2583,
       "end": 2654,
       "line": 58,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M03-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M03-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -7965,7 +7966,7 @@
       "start": 3276,
       "end": 3347,
       "line": 59,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -7975,7 +7976,7 @@
       "start": 2527,
       "end": 2598,
       "line": 59,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M03-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M03-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -7985,7 +7986,7 @@
       "start": 2693,
       "end": 2764,
       "line": 60,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M03-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M03-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -7995,7 +7996,7 @@
       "start": 12470,
       "end": 12541,
       "line": 174,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M02-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M02-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8005,7 +8006,7 @@
       "start": 13689,
       "end": 13760,
       "line": 191,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M02-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M02-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8015,7 +8016,7 @@
       "start": 15868,
       "end": 15939,
       "line": 212,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8025,7 +8026,7 @@
       "start": 17028,
       "end": 17099,
       "line": 229,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8035,7 +8036,7 @@
       "start": 18520,
       "end": 18591,
       "line": 248,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8045,7 +8046,7 @@
       "start": 19850,
       "end": 19921,
       "line": 265,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8055,7 +8056,7 @@
       "start": 3672,
       "end": 3743,
       "line": 67,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8065,7 +8066,7 @@
       "start": 4061,
       "end": 4132,
       "line": 68,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8075,7 +8076,7 @@
       "start": 5246,
       "end": 5317,
       "line": 85,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8085,7 +8086,7 @@
       "start": 3684,
       "end": 3755,
       "line": 69,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8095,7 +8096,7 @@
       "start": 4886,
       "end": 4957,
       "line": 86,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8105,7 +8106,7 @@
       "start": 3888,
       "end": 3959,
       "line": 68,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8115,7 +8116,7 @@
       "start": 3697,
       "end": 3768,
       "line": 68,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8125,7 +8126,7 @@
       "start": 4875,
       "end": 4946,
       "line": 85,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8135,7 +8136,7 @@
       "start": 12424,
       "end": 12495,
       "line": 160,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M03-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M03-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8145,7 +8146,7 @@
       "start": 13604,
       "end": 13675,
       "line": 177,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8155,7 +8156,7 @@
       "start": 14802,
       "end": 14873,
       "line": 194,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8165,7 +8166,7 @@
       "start": 16036,
       "end": 16107,
       "line": 211,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8175,7 +8176,7 @@
       "start": 17170,
       "end": 17241,
       "line": 228,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8185,7 +8186,7 @@
       "start": 18323,
       "end": 18394,
       "line": 245,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8195,7 +8196,7 @@
       "start": 3931,
       "end": 4002,
       "line": 70,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8205,7 +8206,7 @@
       "start": 5094,
       "end": 5165,
       "line": 87,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8215,7 +8216,7 @@
       "start": 3934,
       "end": 4005,
       "line": 69,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8225,7 +8226,7 @@
       "start": 4309,
       "end": 4380,
       "line": 70,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M06-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M06-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8235,7 +8236,7 @@
       "start": 5516,
       "end": 5587,
       "line": 87,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M04-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M04-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8245,7 +8246,7 @@
       "start": 6844,
       "end": 6915,
       "line": 104,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/s01-hardening-2026-10-01/M05-REWRITE.md",
+      "target": "/private/tmp/merged/working/s01-hardening-2026-10-01/M05-REWRITE.md",
       "status": "outside-body"
     },
     {
@@ -8255,7 +8256,7 @@
       "start": 2243,
       "end": 2332,
       "line": 30,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -8265,17 +8266,17 @@
       "start": 6120,
       "end": 6282,
       "line": 66,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/binary-explication-complete-plan.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/binary-explication-complete-plan.md",
       "status": "outside-body"
     },
     {
       "source": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
       "kind": "markdown",
       "href": "../../../../epi-logos/resources/mef-12-lenses-sublens-reference.md",
-      "start": 9293,
-      "end": 9359,
+      "start": 9376,
+      "end": 9442,
       "line": 104,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md",
+      "target": "/private/tmp/merged/submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md",
       "status": "outside-body"
     },
     {
@@ -8285,7 +8286,7 @@
       "start": 1381,
       "end": 1461,
       "line": 21,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -8295,7 +8296,7 @@
       "start": 941,
       "end": 1021,
       "line": 22,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
     {
@@ -8305,7 +8306,7 @@
       "start": 10375,
       "end": 10488,
       "line": 104,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -8315,7 +8316,7 @@
       "start": 10544,
       "end": 10598,
       "line": 104,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/.wayfinder/maps/t20-t21-world-registers.md",
+      "target": "/private/tmp/merged/.wayfinder/maps/t20-t21-world-registers.md",
       "status": "outside-body"
     },
     {
@@ -8325,7 +8326,7 @@
       "start": 5773,
       "end": 5861,
       "line": 64,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
     {
@@ -8335,7 +8336,7 @@
       "start": 19599,
       "end": 19654,
       "line": 116,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -8345,7 +8346,7 @@
       "start": 1596,
       "end": 1681,
       "line": 19,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/the-meal-video-essay-outline.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/the-meal-video-essay-outline.md",
       "status": "outside-body"
     },
     {
@@ -8355,7 +8356,7 @@
       "start": 3304,
       "end": 3432,
       "line": 36,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md",
       "status": "outside-body"
     },
     {
@@ -8365,27 +8366,27 @@
       "start": 4340,
       "end": 4456,
       "line": 48,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md",
       "status": "outside-body"
     },
     {
       "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
       "kind": "markdown",
       "href": "../../../../../../../working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
-      "start": 9370,
-      "end": 9458,
+      "start": 10010,
+      "end": 10098,
       "line": 78,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
     {
       "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
       "kind": "markdown",
       "href": "../../../../../../../the-return-of-zero-central-plan.md",
-      "start": 3159,
-      "end": 3214,
-      "line": 36,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "start": 4241,
+      "end": 4296,
+      "line": 42,
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -8395,7 +8396,7 @@
       "start": 17959,
       "end": 18014,
       "line": 107,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
+      "target": "/private/tmp/merged/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
     {
@@ -8405,7 +8406,7 @@
       "start": 1519,
       "end": 1640,
       "line": 23,
-      "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/self-identity.md",
+      "target": "/private/tmp/merged/working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/self-identity.md",
       "status": "outside-body"
     }
   ],

@@ -16,12 +16,12 @@ figures:
     rights_note: "Photograph by Fabrizio Garrisi; attribution and share-alike apply to the photograph. The inscription is ancient."
     source_url: "https://commons.wikimedia.org/wiki/File:Cippo_di_Abercio,_fine_II_-_inizi_III_sec._-FG3.jpg"
     credit: "Fabrizio Garrisi, Cippo di Abercio, fine II–inizi III sec., photograph, 10 June 2022; Museo Pio Cristiano, Vatican Museums. CC BY-SA 4.0."
-  - asset: "images/signorelli-sermon-and-deeds-of-the-antichrist.jpg"
+  - asset: "images/bayer-1603-uranometria-pisces.jpg"
     asset_format: "image/jpeg"
     rights: "public-domain"
-    rights_note: "Fresco of 1499–1502; the Commons reproduction is marked public domain."
-    source_url: "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_-_Sermon_and_Deeds_of_the_Antichrist_-_WGA21202.jpg"
-    credit: "Luca Signorelli, Sermon and Deeds of the Antichrist, 1499–1502, fresco, San Brizio Chapel, Orvieto Cathedral. Public domain; reproduction from the Web Gallery of Art via Wikimedia Commons."
+    rights_note: "Engraved plate of 1603. The e-rara (ETH-Bibliothek) digitisation is tagged CC BY 4.0 on Wikimedia Commons, so credit to the digitising library is given."
+    source_url: "https://commons.wikimedia.org/wiki/File:Pisces_Uranometria.jpg"
+    credit: "Johann Bayer, Uranometria (Augsburg: Christoph Mang, 1603), plate Pisces; digitisation by e-rara, ETH-Bibliothek Zürich, via Wikimedia Commons. Underlying work public domain; digitisation tagged CC BY 4.0."
 ---
 
 # Jung's *Aion* — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow
@@ -50,12 +50,6 @@ Christ now enters as a culturally effective symbol of the Self. In the image of 
 
 Antichrist belongs to this ensuing drama. A contrary excluded from the representation of totality remains active and acquires a compensatory historical figure. So the Christian aeon bears an opposition within its own field of meaning: its dominant image and the counter-image answer one another. This is Jung's psychological interpretation of the God-image, with a distinct burden from Christian doctrinal judgment. Recognising an evil factor as real does not confer goodness on an evil act. Jung's conclusion returns to the human suffering which a verbal reconciliation of good and evil leaves undiminished.
 
-![A crowded fresco beneath a painted arch: in the foreground Antichrist, robed like Christ, preaches from a raised stone with a small devil whispering at his ear; a crowd of onlookers fills the square, bodies lie on the ground at the lower left, and a classical temple stands on a rise behind, with an angel descending from the clouds.](images/signorelli-sermon-and-deeds-of-the-antichrist.jpg)
-
-> Luca Signorelli's fresco *Sermon and Deeds of the Antichrist* (Orvieto Cathedral, 1499–1502) shows the contrary figure in the form his Christian culture gave him: robed as Christ, preaching to a crowd, with a devil speaking in his ear. Jung's evidence lies in texts; the fresco is added here as the pictorial form of the figure the book reads as the excluded contrary of the Christian aeon.
->
-> Credit: Luca Signorelli, *Sermon and Deeds of the Antichrist*, 1499–1502, fresco, San Brizio Chapel, Orvieto Cathedral. Public domain; reproduction from the Web Gallery of Art via Wikimedia Commons.
-
 ## #2 — The fishes give the age its temporal image
 
 Jung opens the fish inquiry by noting that Christian interpretation gives Christ and the devil several shared animal symbols. A symbol can carry more than one valuation. Christian fish have their own baptismal, eucharistic and epigraphic settings: the baptised live as little fishes, and the travelling believer of the Abercius inscription is fed a fish offered with bread and wine. Jung sets these alongside older Near Eastern fish traditions and then asks why the image became especially active around Christianity. He proposes astrology as a second source of its activation. Within that proposal the broad distribution of fish imagery and the specific Christian uses stay distinguishable. (Ch. VI, §§127–128; pp. 72–74.)
@@ -67,6 +61,12 @@ Jung opens the fish inquiry by noting that Christian interpretation gives Christ
 > Credit: Fabrizio Garrisi, *Cippo di Abercio, fine II–inizi III sec.*, photograph, 10 June 2022; Museo Pio Cristiano, Vatican Museums. CC BY-SA 4.0.
 
 Pisces lets the double figure acquire duration. Jung assembles planetary conjunctions, Jewish messianic calculations, medieval expectations and the precessional movement of the spring-point. His own notes sometimes correct the astronomy reported by his historical authorities. His calculations, their transmission and the expectations placed on them are parts of his inquiry; an inherited forecast is not an independently confirmed causal law of history. A constellational image makes the contrary tendencies of an age visible together, while the age lives them successively. (Ch. VI, §§128–137; pp. 74–82.)
+
+![A copper-engraved star chart: two fishes drawn on a gridded sheet, one upright at upper left with its head at the top and one lying nearly level at right, joined by a long knotted ribbon that loops down the sheet; a ruled band runs across the middle, crossed by two straight diagonal lines, and stars are marked with letters along the fishes and across the chart.](images/bayer-1603-uranometria-pisces.jpg)
+
+> The constellation Pisces in Johann Bayer's *Uranometria* of 1603, the first printed atlas of the whole sky. Two fishes are drawn tied together by a long cord, and each of their stars carries one of Bayer's letters. This is the figure the record means when it says that Pisces lets the double figure acquire duration, the sign of the age that Jung reads against the Christian fish. It is an early modern drawing of the sign; the plate shows the figure and not Jung's calculations, which are in the record's text.
+>
+> Credit: Johann Bayer, *Uranometria* (Augsburg: Christoph Mang, 1603), plate Pisces; digitisation by e-rara, ETH-Bibliothek Zürich, via Wikimedia Commons. Underlying work public domain; digitisation tagged CC BY 4.0.
 
 This doubled life also takes narrative form in Jung's report of the *Pistis Sophia*. A spirit resembling the child Jesus arrives at Mary's house and asks for his brother. Mary, uncertain whether it is a tempting phantom, binds it to a bed and goes to find Jesus and Joseph in the vineyard. On their return the double is released; the two embrace and become one. Jung interprets the meeting through a nature rising from below and a spirit descending from above. Here doubling leads to reunion. It cannot be given the same antagonistic office as Christ/Antichrist merely because two figures appear. (Ch. VI, §§131–133; pp. 78–81; Jung's mediated reading of that work.)
 

@@ -12,6 +12,12 @@ figures:
     rights_note: "Painting of about 1495; the Commons reproduction is marked public domain."
     source_url: "https://commons.wikimedia.org/wiki/File:Pacioli.jpg"
     credit: "Attributed to Jacopo de' Barbari, Portrait of Luca Pacioli and an Unknown Young Man, about 1495, oil on panel, Museo e Real Bosco di Capodimonte, Naples. Public domain; reproduction from Wikimedia Commons."
+  - asset: "images/leonardo-1509-vigintisex-basium-planum-vacuum.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Woodcut of 1509; the Commons reproduction from the Internet Archive is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:De_divina_proportione_-_Vigintisex_Basium_Planum_Vacuum.jpg"
+    credit: "Leonardo da Vinci, Vigintisex basium planum vacuum, woodcut illustration in Luca Pacioli, De divina proportione (Venice: Paganino Paganini, 1509); reproduction from the Internet Archive via Wikimedia Commons. Public domain."
 ---
 
 # Language, Law, Nation, and Centralisation — The Historical Tree of Topos, Logos, Nomos, Natio
@@ -95,6 +101,12 @@ Pacioli and Leonardo give the branch its mathematical hinge. Double-entry practi
 > The portrait of Luca Pacioli attributed to Jacopo de' Barbari (about 1495). The friar who printed double-entry accounting in the 1494 *Summa* is drawn at a slate marked with Euclid's name, a book at his hand and a glass solid hanging beside him. The picture joins the two practices the history ties together: the geometry of proportion and the commercial reckoning that gave it a use.
 >
 > Credit: Attributed to Jacopo de' Barbari, *Portrait of Luca Pacioli and an Unknown Young Man*, about 1495, oil on panel, Museo e Real Bosco di Capodimonte, Naples. Public domain; reproduction from Wikimedia Commons.
+
+![A woodcut of a solid with twenty-six faces drawn as an open frame: square and triangular openings bounded by flat bars shaded with fine hatching, seen from above and to one side, with the bars of the far faces showing through the near ones.](images/leonardo-1509-vigintisex-basium-planum-vacuum.jpg)
+
+> Leonardo's woodcut of the solid with twenty-six faces, the rhombicuboctahedron that hangs in glass beside Pacioli in the portrait above, from the 1509 printed edition of *De divina proportione*. It is drawn as an open frame, so that the faces behind show through the faces in front. The history names this work as the place where Pacioli's treatment of proportion and Leonardo's illustrations meet, and this is one of those illustrations. The picture shows the geometry and not the book's argument about proportion.
+>
+> Credit: Leonardo da Vinci, *Vigintisex basium planum vacuum*, woodcut illustration in Luca Pacioli, *De divina proportione* (Venice: Paganino Paganini, 1509); reproduction from the Internet Archive via Wikimedia Commons. Public domain.
 
 The project's phrase for this is **the undivided hinge of mathesis**. A related research hypothesis is the **differential occultation of qualitative mathesis**: not the disappearance of mathematics, but the unequal institutional futures of calculative and symbolic/qualitative mathematical practices.
 

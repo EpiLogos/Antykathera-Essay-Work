@@ -55,7 +55,7 @@ The [Mirror That Moves First whole](../../../symbolon/mytheme/worlds/frank-taylo
 
 The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** a harness in which the map-making operation remains inspectable with the map. Local originals, their situated readings, transitions and unresolved disagreement keep distinct offices. A changed source or encountered resistance must reach [a permission, criterion or subsequent act](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#account-re-enters-source-field) for the proposed return to operate.
 
-<!-- see-figure:ortelius-typus-orbis-terrarum-1572 -->*See also Image 11, [Ortelius, Typus Orbis Terrarum](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md).*<!-- /see-figure:ortelius-typus-orbis-terrarum-1572 -->
+<!-- see-figure:spilsbury-1766-europe-dissected-map-jigsaw -->*See also Image 11, [Spilsbury, Europe divided into its kingdoms](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md).*<!-- /see-figure:spilsbury-1766-europe-dissected-map-jigsaw -->
 
 ## Anchor and transition
 **QL anchor:** nested `0/1` units with explicit return. **Technical image:** an inspectable epistemic field and harness rather than a hidden superagent. The fitting mytheme arrives in [[45-s50-p2-antikythera-attunement|§5→0 · #2 — Antikythera as Attunement Instrument]].
