@@ -18,6 +18,31 @@ movement_ids:
   - 35-s4-p4-gebser-apollo-dionysus
   - 44-s50-p1-ql-mef-bimba-harness
   - 48-s50-p5-ahi-planetary-return
+figures:
+  - asset: "images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC0-1.0"
+    rights_note: "Photograph and annotation by Sarah Welch, dedicated to the public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:0121521_Chaturbhuj_Temple,_Gwalior_Fort,_Madhya_Pradesh_37_(where_is_zero_in_this_Hindu_inscription).jpg"
+    credit: "Sarah Welch, Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh (inscription of 876 CE), photograph with annotation, 15 December 2021. CC0 1.0."
+  - asset: "images/hoernle-1887-bakhshali-numerals.png"
+    asset_format: "image/png"
+    rights: "public-domain"
+    rights_note: "Chart published in 1887; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Bakhshali_numerals_1.png"
+    credit: "A. F. Rudolf Hoernle, \"On the Bakhshali Manuscript,\" 1887, p. 9, numeral chart. Public domain; reproduction from Wikimedia Commons."
+  - asset: "images/ybc-7289-babylonian-tablet.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC0-1.0"
+    rights_note: "Yale Peabody Museum open-access photograph; public domain dedication."
+    source_url: "https://commons.wikimedia.org/wiki/File:YBC-7289-OBV-REV.jpg"
+    credit: "Yale Babylonian Collection, tablet YBC 7289 (YPM BC 021354); photograph by A. Urcia, Yale Peabody Museum of Natural History, 2019. CC0 1.0."
+  - asset: "images/durer-1525-draughtsman-drawing-a-lute.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC0-1.0"
+    rights_note: "Rijksmuseum open-access image; public domain dedication."
+    source_url: "https://commons.wikimedia.org/wiki/File:Tekenaar_tekent_een_luit,_RP-P-OB-1491.jpg"
+    credit: "Albrecht Dürer, Man Drawing a Lute, 1525, woodcut, from Underweysung der Messung; Rijksmuseum, Amsterdam (RP-P-OB-1491). CC0 1.0."
 ---
 
 # Zero, Subject, and the Advent of Integral Logic
@@ -30,9 +55,33 @@ The history carried here begins when absence stops functioning only as a lack an
 
 [Colebrooke's Brahmagupta and Bhāskara carrier](../../../sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara.md) and [Dutta's reconstruction](../../../sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/dutta-2023-zero-divided-numbers-india.md) give the crucial mathematical detail. *Śūnya* becomes an arithmetic participant; zero-denominator expressions force restrictions on cancellation and cross-multiplication; the exceptional case reveals the laws of the field within which it is being read. The history therefore reaches the Return of Zero argument at [§1 · #4](../../../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md): zero's mathematical life contains a point at which mathematics has to state, transform, or refuse the world it has constructed.
 
+![Two photographs of the same small round clay tablet on black, obverse above and reverse below: the upper face carries a square with two diagonals and tiny wedge-shaped numerals; the lower face bears more incised wedge writing; colour and scale bars appear at left.](images/ybc-7289-babylonian-tablet.jpg)
+
+> Yale tablet YBC 7289, an Old Babylonian school tablet from the early second millennium BCE, obverse and reverse. It carries a square with its diagonals and an approximation of the square root of 2 in sexagesimal numerals. It shows what Kaplan's itinerary starts from: a numeration in which the value of a sign depends on its place, so that an empty place first has to be kept before it can be marked.
+>
+> Credit: Yale Babylonian Collection, tablet YBC 7289 (YPM BC 021354); photograph by A. Urcia, Yale Peabody Museum of Natural History, 2019. CC0 1.0.
+
+![A single row of numeral forms on white, labelled beneath with the values 1 to 9 and 0; the nine digits are curved and angular hooked signs, some shown in two variant forms, and the last sign, for zero, is a plain dot.](images/hoernle-1887-bakhshali-numerals.png)
+
+> The numerals of the Bakhshali manuscript as Hoernle tabulated them in 1887: forms for 1 to 9 and a dot for zero. The dot marks the place where a digit would stand. The manuscript's date is disputed and this chart leaves it open; it shows the placeholder in an Indian computational text, a step before the operator that Brahmagupta and Bhāskara make of *śūnya*.
+>
+> Credit: A. F. Rudolf Hoernle, "On the Bakhshali Manuscript," 1887, p. 9, numeral chart. Public domain; reproduction from Wikimedia Commons.
+
+![A photograph of a stone slab inscribed with many rows of small Devanagari characters; a blue circle on the lower right marks one numeral, joined by an arrow to an enlarged inset labelled 270 at upper right.](images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg)
+
+> The inscription of 876 CE in the Chaturbhuj Temple at Gwalior Fort. The uploader's blue circle and arrow mark the numeral 270, in which the zero is written as a small circle; the inscription records the dimensions of a garden. It is an early securely dated written zero in India, the numeral form on which Brahmagupta's operations of the following centuries work.
+>
+> Credit: Sarah Welch, *Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh* (inscription of 876 CE), photograph with annotation, 15 December 2021. CC0 1.0.
+
 ## The subject enters the rational scene
 
 [Gebser](../../../sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/gebser-1985-ever-present-origin.md) gives the visible historical scene. Renaissance perspective generates objectified depth-space, sectorial seeing, and an increasingly distinct ego-world. The achievement gives the mental-rational its power of analysis and technical command. It also hides the conditions of seeing behind the perspective that has rendered them. [§0/1 · #4](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) uses this optical history to formulate the subject-problem: the seeing condition cannot be placed inside the scene without a further act of seeing.
+
+![A woodcut of an interior: a man at left stretches a cord from a lute lying on a table to a point on the wall behind it; at right a seated draughtsman peers through a sight at a frame of fine threads and plots points on a sheet of paper hinged to it.](images/durer-1525-draughtsman-drawing-a-lute.jpg)
+
+> Albrecht Dürer's woodcut of a draughtsman drawing a lute (1525), from his book on measurement. A cord from the lute passes through a frame to a fixed point, and each point it marks on the frame is transferred to the sheet. This is perspective as an apparatus: one eye-point, one plane, and the lute reduced to what that position can record. Gebser's account of the perspectival world rests on this operation.
+>
+> Credit: Albrecht Dürer, *Man Drawing a Lute*, 1525, woodcut, from *Underweysung der Messung*; Rijksmuseum, Amsterdam (RP-P-OB-1491). CC0 1.0.
 
 The QL crossed-zero clarifies the operation without retrospectively assigning it to Gebser. `Ø` names the subject-pole when the slash of differentiation has fused with the apparent ego; `X` names the object-world that the same slash has rendered determinate. The modern subject/object relation is therefore a historical achievement of articulation and an occlusion of the relation which produces its terms. In dia-ballein the internally active zero becomes an external midpoint of `+1` and `−1`, then the cancellation which appears when those terms are treated as self-grounding opposites.
 

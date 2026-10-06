@@ -8,6 +8,13 @@ source_relation: "Extracted opening exchange; Paraphrased series and selected wr
 world_register: british-television
 production_period: "1967–68 original ITV series"
 human_amplification: relation-local
+figures:
+  - asset: "images/portmeirion-village.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-SA-2.0"
+    rights_note: "Photograph by Dr Neil Clifton (Geograph); attribution and share-alike apply to the photograph."
+    source_url: "https://commons.wikimedia.org/wiki/File:Portmeirion_Village_-_geograph.org.uk_-_4597922.jpg"
+    credit: "Dr Neil Clifton, Portmeirion Village, photograph, 30 July 2015 (geograph.org.uk 4597922). CC BY-SA 2.0."
 ---
 
 # The Prisoner — Number Six, the changing Two, and the question of One
@@ -125,6 +132,12 @@ Six leaves the Village with others. The last movement retains the Butler, Forty-
 The [hidden evaluator](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) makes the return question exact: whose criterion produced this score, with which inputs and authority? Repeating the subject's score reproduces Two's deflection. A [sovereign commons](../../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) gives governed participants a route to contest the operation of counting and obtain warranted retention or revision. A [planetary return](../../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) carries the achieved coordination back to sources, other centres and consequence. The same question remains consequential at the larger scale.
 
 British television names this whole's cultural and production setting. The 1967–68 dates locate its original transmission; Portmeirion in Wales is the principal physical setting for the Village exteriors, while the fiction withholds the Village's secure political location. These are separate relations. [BFI's production account](https://www.bfi.org.uk/features/prisoner-patrick-mcgoohan-50) **sources** the location distinction. The shared relation of differentiation, personed worldhood and return can meet this world without converting twentieth-century production into a mythic geography or treating a finale's repetition as proof of a particular topology.
+
+![A photograph of a small piazza at Portmeirion: a pink-washed building with a pale blue arcaded door at left, a tall white house with a tiled roof and a small lantern tower at right, palm trees, a clipped lawn and a stone urn on a plinth, with a dark stone plinth at the left edge.](images/portmeirion-village.jpg)
+
+> Portmeirion on the coast of North Wales, the principal physical setting for the Village exteriors of *The Prisoner*. The fiction withholds the Village's place; the photograph shows the real settlement as it stands in the 2010s.
+>
+> Credit: Dr Neil Clifton, *Portmeirion Village*, photograph, 30 July 2015 (geograph.org.uk 4597922). CC BY-SA 2.0.
 
 ### Source and amplification standing
 

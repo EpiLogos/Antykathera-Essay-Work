@@ -20,6 +20,14 @@ Movement 16 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous]
 
 `Ø` is the first occlusion in the essay's native recognition-matheme: **the mediating stroke is present, but fused into the zero it crosses**. The sign therefore does more than place a mark inside an empty circle. It images a relation whose middle has not yet been recognised as middle.
 
+<!-- figure:crossed-zero-stroke-does-not-fill -->
+
+![Two panels on a paper-coloured ground. Each panel holds a large circle crossed by a bold diagonal stroke. In the left panel, circle and stroke are the same dark ink, captioned "as finished character — the mediating stroke fused with the zero it crosses, the operation no longer seen", with the notation 0 → Ø. In the right panel the identical circle is crossed by the same stroke in deep red; three leader lines label the circle's interior "zero-space — the subject-pole not exhausted as object", the red stroke "the mediating stroke — legible as mediation, nothing is erased", and a small dark square beyond the stroke's upper end "the determinate mark". Below, a monospace line reads 0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↩ 0/1, captioned as the recognition series inscribed as horizon, and the motto "uncrossing is not erasing — the stroke becomes legible as mediation".](../../../symbolon/mytheme/plates/crossed-zero-stroke-does-not-fill.svg)
+
+*Plate 2 — The crossed zero.* The crossed zero `Ø` fuses the mediating stroke into the zero it crosses: one figure, read twice. On the left the stroke has succeeded so thoroughly that it disappears, and a finished character stands where a relation was. On the right the identical geometry is articulated into its three terms — the zero-space that is not exhausted as an object, the mediating stroke, the determinate mark the mediation makes available. Uncrossing is not erasing: nothing is removed, and the stroke becomes legible as mediation. The recognition series below is inscribed as horizon; the plate performs the first occlusion and its recognition, and no further step. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/mytheme/plates/crossed-zero-stroke-does-not-fill.md)
+
+<!-- /figure:crossed-zero-stroke-does-not-fill -->
+
 The movement is:
 
 $$

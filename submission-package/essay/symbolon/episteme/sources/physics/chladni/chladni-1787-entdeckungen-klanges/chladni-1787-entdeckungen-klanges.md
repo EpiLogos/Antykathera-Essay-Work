@@ -19,6 +19,13 @@ schema_version: 1
 passage_surface: '#passages'
 consumed_by_sections: ["§3"]
 consumed_by_arguments: []
+figures:
+  - asset: "images/chladni-1787-title-page.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Printed title page of 1787; the Commons reproduction is marked public domain. The consulted source copy is the Getty Research Institute copy on the Internet Archive."
+    source_url: "https://commons.wikimedia.org/wiki/File:Chladni-1.jpg"
+    credit: "Ernst Florens Friedrich Chladni, Entdeckungen über die Theorie des Klanges (Leipzig: Weidmanns Erben und Reich, 1787), title page; copy in the Niels Bohr Library & Archives, American Institute of Physics. Public domain; reproduction from Wikimedia Commons."
 ---
 
 # Ernst Chladni — *Entdeckungen über die Theorie des Klanges* (1787)
@@ -26,6 +33,12 @@ consumed_by_arguments: []
 ## Bibliographic identity
 
 Leipzig: Weidmanns Erben und Reich, 1787. Digitised from the Getty Research Institute copy on the Internet Archive (https://archive.org/details/entdeckungenuber00chla) and by the Max Planck Institute for the History of Science (ECHO). Metadata verified by a delegated search, agent, 2026-10-05; plates not yet located.
+
+![A photograph of a worn cream title page set in black-letter type: the title Entdeckungen über die Theorie des Klanges, the author's name Ernst Florens Friedrich Chladni, a note that the book has eleven copper plates, and the imprint, Leipzig, Weidmanns Erben und Reich, 1787.](images/chladni-1787-title-page.jpg)
+
+> The title page of a 1787 copy of Chladni's *Entdeckungen über die Theorie des Klanges*, announcing eleven copper plates. The plates carry the sand figures the matheme record on standing waves refers to.
+>
+> Credit: Ernst Florens Friedrich Chladni, *Entdeckungen über die Theorie des Klanges* (Leipzig: Weidmanns Erben und Reich, 1787), title page; copy in the Niels Bohr Library & Archives, American Institute of Physics. Public domain; reproduction from Wikimedia Commons.
 
 ## Chicago 18 forms
 

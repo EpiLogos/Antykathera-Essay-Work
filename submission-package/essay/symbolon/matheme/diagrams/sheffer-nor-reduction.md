@@ -18,6 +18,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, register/matheme, domain/
 
 # NOR Functional Completeness and the Seam
 
+<!-- figure:sheffer-nor-reduction -->
+
+![Upper zone: a card defining NOR as p down-arrow q equals not (p or q), branching by arrows into three reduction cards — negation, disjunction, conjunction — which converge on a card saying every Boolean truth function of finitely many inputs is reachable by truth-table selection. A bold red horizontal seam labelled "functional completeness holds within a defined field of truth values" separates this from a lower zone containing one outlined card with 0/1 and the statement that the native slash relates a determination to its unobjectifiable condition, which is not another Boolean input.](sheffer-nor-reduction.svg)
+
+One connective generates every Boolean truth function — negation, disjunction, conjunction, and truth-table selection — and the seam states what the generation does not give: `0/1` relates a determination to its unobjectifiable condition, which is not another Boolean input. **Status: Derived** (displayed reductions, checkable directly); the lower zone is a declared boundary. Source of record: the essay's `§1 · #2` display, from the Kaplan NOR scene (`kaplan-1999-nothing-that-is`, locator lead; no quotation consumed).
+
+<!-- /figure:sheffer-nor-reduction -->
+
 ## Proposition
 
 One connective generates the whole Boolean field, and the generation stops exactly at a stated seam: functional completeness holds within a defined field of truth values, while the native slash relates a determination to its unobjectifiable condition — "which is not another Boolean input". The diagram performs the seam, not only the reduction.
@@ -76,3 +84,14 @@ Original work, created for the essay. No scraped, downloaded or licensed third-p
 ## Anchored movements
 
 This diagram performs its operation at: [[section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one]], [[section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math]].
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M15), after the paragraph beginning “Functional completeness concerns this defined field”.
+- Figure in [§1 · #2 — The Empty Set Generates One](../../../section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md), after the paragraph beginning “The construction does **not ratify** the essay's metaphysics”.
+- Cross-reference in [§1 · #4 — Zero Keeps One Foot Outside Mathematics](../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md), after the paragraph beginning “Assume in a field that”.
+<!-- /embedded-at -->

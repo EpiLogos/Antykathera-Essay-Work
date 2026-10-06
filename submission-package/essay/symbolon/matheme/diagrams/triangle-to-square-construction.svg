@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">From the triangle to the square: the acquisition order N, E, W, S</title>
+<desc id="d">Three panels on one unit circle with stations N at the top, E at the right, W at the left and S at the bottom, centre O. First, a radius from O to N. Second, the triangle N, E, W: interior angles sum to 180 degrees, area one, stations acquired in the order N, E, W; the move from E to W crosses the diameter. Third, adding S and joining N, E, S, W gives the square: angle sum 360 degrees, area two; the former edge E to W is now an interior diagonal shared by the complementary triangles N-E-W and S-E-W.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#211d18"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a2f2b"/></marker><marker id="ahm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6f6659"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e3a59"/></marker></defs>
+<rect x="0" y="0" width="1100" height="800" fill="#f5f0e6"/>
+<text x="550" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">DIAGRAM · FROM THE TRIANGLE TO THE SQUARE</text>
+<text x="550" y="94" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">what bounded the figure now articulates its interior</text>
+<text x="160" y="176" font-size="18" fill="#211d18" text-anchor="middle" font-style="italic">1 · the first radius</text>
+<circle cx="160" cy="330" r="96" fill="none" stroke="#b9ae9c" stroke-width="1.6"/>
+<circle cx="160" cy="330" r="4" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="168" y="352" font-size="15" fill="#6f6659" text-anchor="start">O</text>
+<text x="550" y="176" font-size="18" fill="#211d18" text-anchor="middle" font-style="italic">2 · the triangle</text>
+<circle cx="550" cy="330" r="96" fill="none" stroke="#b9ae9c" stroke-width="1.6"/>
+<circle cx="550" cy="330" r="4" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="558" y="352" font-size="15" fill="#6f6659" text-anchor="start">O</text>
+<text x="920" y="176" font-size="18" fill="#211d18" text-anchor="middle" font-style="italic">3 · the square</text>
+<circle cx="920" cy="330" r="96" fill="none" stroke="#b9ae9c" stroke-width="1.6"/>
+<circle cx="920" cy="330" r="4" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="928" y="352" font-size="15" fill="#6f6659" text-anchor="start">O</text>
+<line x1="160" y1="330" x2="160" y2="234" stroke="#211d18" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="160" cy="234" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="160" y="208" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">N (1)</text>
+<text x="160" y="506" font-size="15.5" fill="#6f6659" text-anchor="middle">one radius fixes a centre and a direction</text>
+<polygon points="550,234 646,330 454,330" fill="#e7dcc4" fill-opacity="0.9" stroke="#211d18" stroke-width="2.6" stroke-linejoin="round"/>
+<line x1="550" y1="330" x2="646" y2="330" stroke="#6f6659" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="550" y1="330" x2="454" y2="330" stroke="#6f6659" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="460" y1="348" x2="640" y2="348" stroke="#8a2f2b" stroke-width="0" stroke-linecap="butt"/>
+<circle cx="550" cy="234" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="550" y="208" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">N (1)</text>
+<circle cx="646" cy="330" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="670" y="336" font-size="17" fill="#211d18" text-anchor="start" font-family="'Courier New', Courier, monospace">E (2)</text>
+<circle cx="454" cy="330" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="430" y="336" font-size="17" fill="#211d18" text-anchor="end" font-family="'Courier New', Courier, monospace">W (3)</text>
+<text x="550" y="494" font-size="15.5" fill="#8a2f2b" text-anchor="middle">E → W crosses the diameter;</text>
+<text x="550" y="514" font-size="15.5" fill="#8a2f2b" text-anchor="middle">it is not the next quarter-turn</text>
+<polygon points="920,234 1016,330 824,330" fill="#e7dcc4" fill-opacity="0.95" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="920,426 1016,330 824,330" fill="#ecc9c2" fill-opacity="0.95" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="920,234 1016,330 920,426 824,330" fill="none" stroke="#211d18" stroke-width="2.6" stroke-linejoin="round"/>
+<line x1="824" y1="330" x2="1016" y2="330" stroke="#8a2f2b" stroke-width="2.6" stroke-linecap="butt" stroke-dasharray="8 5"/>
+<circle cx="920" cy="234" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="920" y="208" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">N (1)</text>
+<circle cx="1016" cy="330" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="1040" y="336" font-size="17" fill="#211d18" text-anchor="start" font-family="'Courier New', Courier, monospace">E (2)</text>
+<circle cx="824" cy="330" r="7" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="800" y="336" font-size="17" fill="#211d18" text-anchor="end" font-family="'Courier New', Courier, monospace">W (3)</text>
+<circle cx="920" cy="426" r="7" fill="#8a2f2b" stroke="#8a2f2b" stroke-width="1.5"/>
+<text x="920" y="460" font-size="17" fill="#8a2f2b" text-anchor="middle" font-family="'Courier New', Courier, monospace">S (4)</text>
+<text x="920" y="494" font-size="15.5" fill="#8a2f2b" text-anchor="middle">E–W, once a bounding edge,</text>
+<text x="920" y="514" font-size="15.5" fill="#8a2f2b" text-anchor="middle">is now a shared interior diagonal</text>
+<line x1="60" y1="576" x2="1040" y2="576" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<text x="160" y="600" font-size="17" fill="#211d18" text-anchor="middle">a radius, no area</text>
+<text x="160" y="624" font-size="17" fill="#211d18" text-anchor="middle">orientation only</text>
+<text x="550" y="600" font-size="17" fill="#211d18" text-anchor="middle">interior angles: 180°</text>
+<text x="550" y="624" font-size="17" fill="#211d18" text-anchor="middle">area: 1</text>
+<text x="550" y="648" font-size="17" fill="#211d18" text-anchor="middle">acquired order: N, E, W</text>
+<text x="920" y="600" font-size="17" fill="#211d18" text-anchor="middle">interior angles: 360°</text>
+<text x="920" y="624" font-size="17" fill="#211d18" text-anchor="middle">area: 2</text>
+<text x="920" y="648" font-size="17" fill="#211d18" text-anchor="middle">two complementary triangles</text>
+<text x="920" y="672" font-size="17" fill="#211d18" text-anchor="middle">N–E–W and S–E–W</text>
+<text x="550" y="730" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">Side count, angle sum, area and order of acquisition are different descriptions of one construction; the gain is the changed office of E–W.</text>
+<text x="550" y="756" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">The angle sum makes the recontextualisation visible; it does not prove the account of the Subject.</text>
+</svg>

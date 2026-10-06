@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
+source_digest: "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -78,9 +78,9 @@ Position support. Entrance: [QL Expression Grammar](../../../../../quilt/ql-expr
 
 ### [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality](../../../../../CONFRONTING-THE-LIMIT-S01.md)
 
-**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md)
+**Implicates:** *sources* → [Saul A. Kripke — Naming and Necessity (1980)](../../../sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/kripke-1981-naming-and-necessity.md) · *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [A Pair of Dice, Counted Three Ways](../../../../matheme/diagrams/dice-pair-ordered-and-unordered-counts.md), [The square quotient and the returning path](../../../../matheme/diagrams/torus-square-quotient-and-winding.md), [Zero, Subject, and the Advent of Integral Logic](../../../histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md)
+**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [A Pair of Dice, Counted Three Ways](../../../../matheme/diagrams/dice-pair-ordered-and-unordered-counts.md), [The square quotient and the returning path](../../../../matheme/diagrams/torus-square-quotient-and-winding.md)
 
 ### [Covenant, Arbitration, and Mediating Offices — King · Priest · Politician](../../../../../quilt/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md)
 

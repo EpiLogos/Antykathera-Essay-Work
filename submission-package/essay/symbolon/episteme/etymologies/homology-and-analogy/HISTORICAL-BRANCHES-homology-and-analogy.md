@@ -6,6 +6,13 @@ register: episteme
 claim_status: Argued
 source_relation: "Paraphrased lexical and historical witnesses; Argued authorial relational development"
 status: T21-developed-reviewed
+figures:
+  - asset: "images/owen-1848-vertebrate-archetype-plate.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Wellcome Collection digitisation under CC BY 4.0; the plate is of 1848."
+    source_url: "https://commons.wikimedia.org/wiki/File:Sir_Richard_Owen,_On_the_archetype_and_homologies..._Wellcome_L0029109.jpg"
+    credit: "Richard Owen, On the Archetype and Homologies of the Vertebrate Skeleton (London: John Van Voorst, 1848), plate II; Wellcome Collection (L0029109). CC BY 4.0."
 ---
 
 # Homologia / Analogia — Historical and Relational Branches
@@ -55,6 +62,12 @@ Knowing through a manifestation and that manifestation's dependence upon its sou
 <a id="e5-biology"></a>
 
 Owen's 1843 *Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals* gives the pair an anatomical office. An [analogue](../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md#owen-1843-comparative-anatomy-q001) serves a shared function across different animals; a [homologue](../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md#owen-1843-comparative-anatomy-q002) is the corresponding organ despite variation in form and function. The glossary entries are printed pp.374 and 379, PDF pages 376 and 381 in the selected Darwin Online scan. Function can remain alike where organs differ; an organ can correspond where function changes. The scan's opening title names William White Cooper's notes, revised by Owen, under Lectures on Comparative Anatomy. Both bounded paraphrases are admitted; image-level quotation transcription remains separate.
+
+![A large engraved plate of anatomical drawings: at left a standing human skeleton beside a numbered key of bone names; to its right, in descending rows, the skeletons of a fish, a reptile and a four-legged mammal, all drawn side-on with matching numbers on corresponding bones, and small separate diagrams of vertebrae between them.](images/owen-1848-vertebrate-archetype-plate.jpg)
+
+> A plate from Richard Owen's *On the Archetype and Homologies of the Vertebrate Skeleton* (1848): human, fish, reptile and quadruped skeletons drawn to a single numbered key, so that the same bone carries the same number through each form. It is the picture that Owen's homology makes possible, and it is later than the 1843 lectures this record cites.
+>
+> Credit: Richard Owen, *On the Archetype and Homologies of the Vertebrate Skeleton* (London: John Van Voorst, 1848), plate II; Wellcome Collection (L0029109). CC BY 4.0.
 
 Owen's definitions establish anatomical correspondence and functional likeness through different criteria. A later evolutionary account adds a common-descent question: how did differently formed organs arise from shared ancestry? Its dated source remains to be supplied before that later criterion is attributed historically. The protected history's modern-biological shorthand consequently describes a later disciplinary distinction, rather than wording silently added to Owen's 1843 definitions.
 

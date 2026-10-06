@@ -13,6 +13,14 @@ created: 2026-09-25
 
 # Figure — Bimba / Pratibimba: the Relational Office
 
+<!-- figure:bimba-pratibimba-relational-office -->
+
+![Two-panel diagram. Left panel, "the ontological pair": a box "Bimba — the Original" above a box "pratibimba — the situated display", joined by a downward arrow "displays — display without severance, dependence without diminishment"; a dashed upward arrow notes that in time the reflection may lead the next event, a solid downward arrow that in being it depends on what it reflects; a sub-panel shows QL position #0 carrying (0/1)/(1/0) unfolding 4+2 and position #5 carrying (1/0)/(0/1) unfolding 4′+2′. Right panel, "the recursive local office": a dashed Context Frame contains a Bimba Map box (local original, reference field) and a situated-readings box; the wider source above grounds the map; the map orients the readings; a return loop lets readings revise the local original; a dashed arrow shows the map remaining pratibimba toward the wider source. A status band marks the mirror Derived, the doctrinal exegesis Argued from unverified passages, and the Bimba Map design Offered.](bimba-pratibimba-relational-office.svg)
+
+Bimba names the original/reference office; pratibimba the situated display that genuinely shows its original while remaining ontologically dependent on it — even when, in time, the reflection leads. Because the offices are relational, an achieved image inside a declared Context Frame can be the local Bimba of an inquiry (the Bimba Map: provisional world-objects, sources, gauge, exclusions, governance made first-class) while remaining pratibimba toward wider sources, with return able to revise the local original itself; causal efficacy never promotes the projected `1` into its source-office. *Status: Derived (QL mirror) / Argued (offices) / Offered (Bimba Map design). Source of record: C38 — Bimba–Pratibimba / Bimba Map, with the retained carrier `bimba-pratibimba.md`.*
+
+<!-- /figure:bimba-pratibimba-relational-office -->
+
 **Asset:** [bimba-pratibimba-relational-office.svg](./bimba-pratibimba-relational-office.svg)
 
 ## Proposition
@@ -63,9 +71,9 @@ Bimba names the original/reference office; pratibimba the situated display that 
 
 Two-panel diagram. Left panel, "the ontological pair": a box "Bimba — the Original" above a box "pratibimba — the situated display", joined by a downward arrow "displays — display without severance, dependence without diminishment"; a dashed upward arrow notes that in time the reflection may lead the next event, a solid downward arrow that in being it depends on what it reflects; a sub-panel shows QL position #0 carrying (0/1)/(1/0) unfolding 4+2 and position #5 carrying (1/0)/(0/1) unfolding 4′+2′. Right panel, "the recursive local office": a dashed Context Frame contains a Bimba Map box (local original, reference field) and a situated-readings box; the wider source above grounds the map; the map orients the readings; a return loop lets readings revise the local original; a dashed arrow shows the map remaining pratibimba toward the wider source. A status band marks the mirror Derived, the doctrinal exegesis Argued from unverified passages, and the Bimba Map design Offered.
 
-## Proposed essay blocks (wiring)
+## Proposed essay blocks (wiring at landing)
 
-Embedding is not this ticket. Proposed consumers, to be wired by their owners:
+Proposed consumers at landing (the placements made in the 2026-10-05 wiring pass are listed under Embedded at):
 
 1. [C38](../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md) §#2–#3 — beside the projective/paradigmatic return and the Context Frame office.
 2. [`concepts/bimba-pratibimba.md`](../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md) — replacing or formalising its plain-text office schema (the figure is constructed from that schema).
@@ -75,3 +83,14 @@ Embedding is not this ticket. Proposed consumers, to be wired by their owners:
 ## Rights
 
 Original own-work, hand-authored SVG constructed from declared canonical records. No scraped, licensed or third-party artwork. The QL tokens are the essay's own authorial notation; the Sanskrit terms are common philosophical vocabulary carried by the declared records; no quotation is performed by this figure.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M44), after the paragraph beginning “Consider a community archive preparing an account of a disputed event.”.
+- Figure in [§5→0 · #1 — QL, MEF, Bimba, and Harness](../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md), after the paragraph beginning “The recursive Bimba/Pratibimba relation is part of that nest”.
+- Figure in [C38 — Bimba–Pratibimba / Bimba Map](../../../section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md), after the paragraph beginning “Recursive locality nevertheless gives a real reference offic”.
+<!-- /embedded-at -->

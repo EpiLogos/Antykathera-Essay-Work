@@ -5,7 +5,7 @@ record_type: diagram-record
 register: matheme
 domain: diagrams
 asset: torus-square-quotient-and-winding.svg
-status: "construction verified; §0/1 placement proposed"
+status: "construction verified; embedded in §0/1 M02, pending the author's section acceptance"
 claim_status: "Derived (quotient and winding facts); Argued (M02's 4+2 coordination)"
 source_relation: "Paraphrased topology; original geometric construction"
 essay_blocks:
@@ -17,6 +17,14 @@ created: "2026-10-04"
 ---
 
 # The square quotient and the returning path
+
+<!-- figure:torus-square-quotient-and-winding -->
+
+![Left: a square with both horizontal edge arrows pointing right, both vertical edge arrows pointing up, and all four corners marked as one quotient point. Right: a lattice with a path from zero-zero to one-zero; those endpoints are distinct in the plane and identical on the torus, with winding one-zero retained.](torus-square-quotient-and-winding.svg)
+
+Four boundary occurrences become two generating loops when opposite square edges are identified. A path from $(0,0)$ to $(1,0)$ returns to its quotient basepoint and retains its winding. The `4+2` comparison counts edges and generators as distinct offices of the same construction.
+
+<!-- /figure:torus-square-quotient-and-winding -->
 
 ## Proposition, inputs and construction
 
@@ -32,11 +40,11 @@ The manuscript counts four edge occurrences and two generating loops together as
 
 ## Placement and return
 
-The proposed placement in the current M02 rewrite is after the paragraph beginning “Four boundary-occurrences, two generating relations”, before the general-$g$ display. The existing [M02 movement](../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md) names the local philosophical burden; [torus, cover and winding](../topology/torus-cover-winding.md) develops the topology. Final manuscript embedding awaits the author's section acceptance.
+The proposed placement in the current M02 rewrite is after the paragraph beginning “Four boundary-occurrences, two generating relations”, before the general-$g$ display. The existing [M02 movement](../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md) names the local philosophical burden; [torus, cover and winding](../topology/torus-cover-winding.md) develops the topology. It is embedded in the manuscript and in the M02 movement note as of 2026-10-05; the author's section acceptance remains pending.
 
 ## Asset
 
-![A square with paired opposite arrows and a lattice path whose endpoints become one quotient point, retaining a horizontal winding.](torus-square-quotient-and-winding.svg)
+`torus-square-quotient-and-winding.svg`, rendered at the head of this record.
 
 ## Caption
 
@@ -51,3 +59,14 @@ Left: a square with both horizontal edge arrows pointing right, both vertical ed
 This is a locator and construction diagram, not a replacement for the quotient or fundamental-group proof. The pictured quotient is orientable; no Möbius-band edge identification is drawn. The manuscript's Möbius return has its QL office in M02. Higher-genus surfaces and the whole arche-topos derivation remain in their own records.
 
 Original hand-authored SVG, 2026-10-04. No third-party artwork, scanned pages or external fonts. Mathematical construction checked against the named primary object; admission to accepted prose remains proposed.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M02), after the paragraph beginning “The two implicate offices find their topological expression”.
+- Submission section, [CONFRONTING-THE-LIMIT-S01](../../../CONFRONTING-THE-LIMIT-S01.md), same paragraph.
+- Figure in [§0/1 · #1 — Define the Subject Without Making It an Object](../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md), after the paragraph beginning “The later essay will name these offices more directly”.
+<!-- /embedded-at -->

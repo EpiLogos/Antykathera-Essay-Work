@@ -6,6 +6,19 @@ register: mytheme
 claim_status: Argued
 source_relation: "Paraphrased Ovidian telling; Argued from Taylor's authored interpretation"
 source_ids: [ovid-1921-metamorphoses-miller, taylor-2026-core-theorems-pithy, taylor-2026-definition-god-draft3]
+figures:
+  - asset: "images/bernini-apollo-and-daphne-borghese.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-2.0"
+    rights_note: "Photograph by Sonse (Flickr, via Wikimedia Commons); attribution required. The sculpture is of 1622–25."
+    source_url: "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_by_Bernini,_Galleria_Borghese_(31563085387).jpg"
+    credit: "Gian Lorenzo Bernini, Apollo and Daphne, 1622–25, marble, Galleria Borghese, Rome; photograph by Sonse, 15 November 2018. CC BY 2.0."
+  - asset: "images/pollaiuolo-apollo-and-daphne-national-gallery.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Painting of the late fifteenth century; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Pollaiolo,_Piero_del_-_Apollo_and_Daphne.jpg"
+    credit: "Piero del Pollaiuolo, Apollo and Daphne, about 1470–80, oil on poplar, National Gallery, London. Public domain; reproduction from Wikimedia Commons."
 ---
 
 # Apollo · Eros/Cupid · Daphne · Peneus
@@ -56,7 +69,19 @@ Her strength spent, Daphne sees Peneus's waters. She asks her father for help an
 
 Transformation answers immediately and bodily. Heaviness seizes her limbs. Bark encloses her soft body; hair becomes foliage and arms become branches. Feet that had just run so quickly fasten into sluggish roots. A crown of leaves takes the place of her head, and her radiance remains in the changed form. Each conversion alters a capacity the chase had used or threatened: feet lose flight, arms lose their human reach, and the body that Apollo pursued becomes inaccessible as that body. “withdrawal” takes bodily form here: rescue changes the very capacities through which Daphne lived and fled.
 
+![Photograph of Bernini's white marble group in a gallery with a painted ceiling: Apollo strides forward with a cloak flying behind him, one hand reaching for Daphne, whose fingers have become leafy twigs and whose legs are sheathed in bark rising from a rooted base.](images/bernini-apollo-and-daphne-borghese.jpg)
+
+> Bernini's marble *Apollo and Daphne* (1622–25) takes the instant the record narrates at the end of the chase: Apollo's hand has closed on her, bark is rising over the body, the toes root and the fingers put out laurel. The sculpture holds both bodies at once in the passage from one form to the other.
+>
+> Credit: Gian Lorenzo Bernini, *Apollo and Daphne*, 1622–25, marble, Galleria Borghese, Rome; photograph by Sonse, 15 November 2018. CC BY 2.0.
+
 Apollo still loves her. With his hand against the trunk he feels a heart beating under the fresh bark. He embraces branches as if they were limbs and kisses the tree. Miller's sentence at 1.556 is exact: **“But even the wood shrank from his kisses.”** The Latin witness likewise makes the wood flee the kisses. The changed form still gives resistance a bodily expression.
+
+![A narrow painting of a landscape under a pale sky: in the foreground Apollo, in a red and blue tunic, clasps Daphne, who stands in a dark gown with her arms already turning into branches; two laurel trees spread their dark foliage above the pair and a river valley recedes behind.](images/pollaiuolo-apollo-and-daphne-national-gallery.jpg)
+
+> Piero del Pollaiuolo's *Apollo and Daphne* (about 1470–80) paints the metamorphosis with the god's hands still on her while her arms and hair pass into laurel. A river valley opens behind the pair; Peneus, the father she calls on, is a river.
+>
+> Credit: Piero del Pollaiuolo, *Apollo and Daphne*, about 1470–80, oil on poplar, National Gallery, London. Public domain; reproduction from Wikimedia Commons.
 
 The transformation frustrates the pursuit at the cost of Daphne's former mode of life, while Apollo carries his attachment into the tree. The beating heart and recoil keep life and resistance present within the changed body.
 

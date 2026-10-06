@@ -13,6 +13,14 @@ created: 2026-09-25
 
 # Figure — The Canonical A/C Suite and Its Traversal by the Rooms
 
+<!-- figure:ac-suite-field-shape -->
+
+![A concentric diagram. At the centre, a disc labelled "A/C — the dual-form root; A face, the ruling; C face, the primitive field; the prime creates a face, not a second node". Around it, one split band: 36 Arguments A01–A36 on the left half and 36 conjugate faces A01′–A36′ on the right half. Around that, a ring labelled 64 Concepts C01–C64. On the outside, eight segments named §0/1 The Integral Threshold (M01–06), §0 Differentiating Mind (M07–12), §1 The Return of Zero (M13–18), §2 Two Logics of Two (M19–24), §3 Mathematical Substrate (M25–30), §4 Psychoid Flowering (M31–36), §5 Objective Internality (M37–42) and §5→0 Epi-Logos · 4:2 Technē (M43–48). Eight short arrows point inward, indicating that each movement reaches the suite through its room's P1-CANONICAL-ALIGNMENT route. A dashed annex box records the product family S plus S0–S5, seven records not counted in the 137; a status band gives the census as verified 2026-09-25.](ac-suite-field-shape.svg)
+
+The canonical A/C suite as one field: 36 Arguments and their 36 conjugate faces as two faces of one ring, 64 Concepts as the enclosing ring, and the A/C root at the centre — 137 records in one home under the rooms. The outer segments are the eight rooms holding the 48 movements, and the inward arrows are the discipline that makes the field navigable rather than mined: each movement reaches the suite only through its room's `P1-CANONICAL-ALIGNMENT` route. The seven product records are shown as the declared annex — developing the C face's product rows, admitted separately, 144 shared records once materialised. *Status: Derived (census verified 2026-09-25) / Argued (suite standing, T26 ratification pending). Source of record: the A/C root's declared field.*
+
+<!-- /figure:ac-suite-field-shape -->
+
 **Asset:** [ac-suite-field-shape.svg](./ac-suite-field-shape.svg)
 
 ## Proposition
@@ -62,9 +70,9 @@ The canonical A/C suite as one field: 36 Arguments and their 36 conjugate faces 
 
 A concentric diagram. At the centre, a disc labelled "A/C — the dual-form root; A face, the ruling; C face, the primitive field; the prime creates a face, not a second node". Around it, one split band: 36 Arguments A01–A36 on the left half and 36 conjugate faces A01′–A36′ on the right half. Around that, a ring labelled 64 Concepts C01–C64. On the outside, eight segments named §0/1 The Integral Threshold (M01–06), §0 Differentiating Mind (M07–12), §1 The Return of Zero (M13–18), §2 Two Logics of Two (M19–24), §3 Mathematical Substrate (M25–30), §4 Psychoid Flowering (M31–36), §5 Objective Internality (M37–42) and §5→0 Epi-Logos · 4:2 Technē (M43–48). Eight short arrows point inward, indicating that each movement reaches the suite through its room's P1-CANONICAL-ALIGNMENT route. A dashed annex box records the product family S plus S0–S5, seven records not counted in the 137; a status band gives the census as verified 2026-09-25.
 
-## Proposed essay blocks (wiring)
+## Proposed essay blocks (wiring at landing)
 
-Embedding is not this ticket. Proposed consumers, to be wired by their owners:
+Proposed consumers at landing (the placements made in the 2026-10-05 wiring pass are listed under Embedded at):
 
 1. [Arguments field README](../../../section-rooms/arguments/README.md) — beside the field census (canonical surface).
 2. [Rooms README](../../../section-rooms/README.md) — beside "The canonical argument field" paragraph; note this surface is generated (`build-section-rooms.py`), so wiring goes through the builder's source.
@@ -74,3 +82,12 @@ Embedding is not this ticket. Proposed consumers, to be wired by their owners:
 ## Rights
 
 Original own-work, hand-authored SVG constructed from declared canonical records and a directory census. No scraped, licensed or third-party artwork; no quotation performed.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Figure in [Canonical Arguments A01–A36](../../../section-rooms/arguments/README.md), after the paragraph beginning “Read an argument through its own sixfold first.”.
+<!-- /embedded-at -->

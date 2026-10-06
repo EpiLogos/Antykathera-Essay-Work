@@ -36,6 +36,14 @@ tags: [epi-logos/antikythera-essay, argument-map/plate, register/mytheme, statio
 
 # Plate — The Sign and Its Witnesses: the Salem Manuscript Field
 
+<!-- figure:salem-sign-migration-field -->
+
+![A horizontal dotted path on a paper ground passes through four arched frames labelled "Babylonian place-holding", "Indian numerical development", "Arabic transmission" and "European adoption"; each frame contains a small solid disc. After the fourth frame the path forks. The upper branch reaches a solid arched frame labelled "apparatus — Gerbert" containing three questions in typewriter type — "numeral form?", "calculating apparatus?", "positional use?" — captioned "distinct predicates · chronology open". The lower branch reaches a dashed arched frame labelled "codex — Salem" whose interior is empty, captioned "no verified shelfmark · folio · Latin collation"; beside it a small drawn book is labelled "Cantor 1865 · ZfMP 10, 1–16 — the edition pointer", joined to the frame by a dotted line. A legend states that the disc is the plate's own token and no historical numeral form is depicted. Base inscription: "recognising a shape does not settle either operation or transmission — the empty frame is drawn empty: the pointer is recovered; the manuscript is not yet verified."](salem-sign-migration-field.svg)
+
+A sign migrates; its witnesses do not migrate with it. The disc — this plate's own token, standing for no historical numeral form — passes through the named worlds of reception, and the Latin route forks into two recoveries the dossier keeps distinct: an apparatus whose chronology remains open, and a codex whose only recovered object is an 1865 edition pointer beside an unfilled place. The empty frame is drawn empty: no shelfmark, folio or collation has been verified, and no remembered line is substituted for the missing work. Recognising a shape does not settle either operation or transmission; the history of zero keeps a zero of its own, held as absence rather than filled as presence.
+
+<!-- /figure:salem-sign-migration-field -->
+
 ## Proposition
 
 A sign migrates; its witnesses do not migrate with it. Zero converges distinct inventions —
@@ -128,10 +136,20 @@ not yet verified."
 - Cantor 1865 edition pointer — named in the dossier as a locator lead with an access
   challenge; the plate carries the pointer's existence, not its content.
 
-## Wiring (embedding NOT performed by this ticket)
+## Wiring (candidates at landing; placements listed under Embedded at)
 
 - Candidate embedding: manuscript §1 at "A sign migrates between worlds", or the
   zero-reception dossier's § #3 where the two recoveries are compared.
 - Room route: `section-rooms/02-return-of-zero/` M13 movement page.
 - A facsimile-based Salem plate must wait for the dossier's source task; any such plate is a
   new record, not an edit of this one.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M13), after the paragraph beginning “Fibonacci's *Liber Abaci* makes that undertaking visible”.
+- Figure in [§1 · #0 — A Sign Migrates Between Worlds](../../../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md), after the paragraph beginning “Babylonian place-holding, Indian numerical development, Arab”.
+<!-- /embedded-at -->

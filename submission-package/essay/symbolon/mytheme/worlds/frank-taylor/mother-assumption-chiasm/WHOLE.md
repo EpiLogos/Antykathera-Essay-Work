@@ -12,6 +12,19 @@ source_ids:
   - jung-1978-aion-cw9-2
   - taylor-2026-definition-god-draft3
   - neumann-1954-origins-history-consciousness
+figures:
+  - asset: "images/skenfrith-cope-st-bridgets-church.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-SA-2.0"
+    rights_note: "Photograph by Fabian Musto (Geograph); attribution and share-alike apply to the photograph."
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Skenfrith_Cope_-_geograph.org.uk_-_5945604.jpg"
+    credit: "Fabian Musto, The Skenfrith Cope, photograph, 29 August 2018 (geograph.org.uk 5945604). CC BY-SA 2.0."
+  - asset: "images/skenfrith-cope-detail-winged-figures.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-SA-2.0"
+    rights_note: "Photograph by Jeremy Bolwell (Geograph); attribution and share-alike apply to the photograph."
+    source_url: "https://commons.wikimedia.org/wiki/File:Detail_of_the_Skenfrith_Cope_-_geograph.org.uk_-_3356940.jpg"
+    credit: "Jeremy Bolwell, Detail of the Skenfrith Cope, photograph, 3 March 2013 (geograph.org.uk 3356940). CC BY-SA 2.0."
 ---
 
 # Mother, Assumption and chiasm
@@ -21,6 +34,14 @@ source_ids:
 <a id="mother-encounter"></a>
 
 The Mother flow begins with a body received, a body bearing another, and the receiving body itself returned. Taylor's encounter with the cope at St Bridget's in Skenfrith brings this movement into a particular gathering of images: Mary being lifted, figures perceived as rabbits beside her, six-winged seraphic forms, wheels, and eagles with two heads. His recollection of Jung's Assumption discussion meets a native relation already established in his work: the three recognised as one, whose recognition has its own threefold articulation. The image becomes a place to work through that relation in embodiment.
+
+![A photograph inside a whitewashed church: a deep red velvet cope, a semicircular vestment, hangs open in a wide wooden-framed glass case on the wall, with small embroidered stars and figures scattered across it; a noticeboard stands at right.](images/skenfrith-cope-st-bridgets-church.jpg)
+
+![A close photograph of crimson velvet worked in gold and silver thread: a central winged figure with rays spreading from its body and outstretched wings, and at left a smaller spread-winged form, among small fleur-de-lis motifs.](images/skenfrith-cope-detail-winged-figures.jpg)
+
+> The Skenfrith Cope displayed in St Bridget's Church, Skenfrith, the object of Taylor's visit. The record's identification of its figures (Mary lifted, rabbits beside her, six-winged forms, wheels, two-headed eagles) comes from his encounter and remains answerable to the vestment. The photographs let the reader look at it.
+>
+> Credit: Fabian Musto, *The Skenfrith Cope*, photograph, 29 August 2018 (geograph.org.uk 5945604). CC BY-SA 2.0. Jeremy Bolwell, *Detail of the Skenfrith Cope*, photograph, 3 March 2013 (geograph.org.uk 3356940). CC BY-SA 2.0.
 
 In the [Skenfrith dialogue](../../../../episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/taylor-2026-skenfrith-cope-jung-ql.md), Taylor’s corrections change how the images are read. His opening observation initiates the inquiry; the assistant proposes relations; Taylor rejects pairings which lose his notation’s established operations. The [complete local conversation](../../../../../../../working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md) keeps these differences consequential. An identification of the embroidered figure answers to the object, while the interpretation of Taylor’s notation answers to his correction.
 

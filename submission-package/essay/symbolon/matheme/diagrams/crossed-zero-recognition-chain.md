@@ -21,6 +21,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, register/matheme, domain/
 
 # The Crossed-Zero Recognition Chain
 
+<!-- figure:crossed-zero-recognition-chain -->
+
+![A left-to-right chain of six boxed signs — 0, Ø, X, Ø/X, (0/Ø)/(1/X), 1 — each with its office named beneath it, joined by forward arrows. From 1 a curved red arrow sweeps down to a seventh box, 0/1, labelled as recognition returning through another appearing-act. A closing band states that this Ø is neither the empty-set sign nor Lacan's barred subject.](crossed-zero-recognition-chain.svg)
+
+The crossed-zero recognition chain: each sign a local determination of one relation — the unobjectifiable condition, its occlusion under a formed self-image, the deposited object-world, the bar legible as mediation, the meta-relation holding both sides and their inverse readings, achieved recognition returning through another appearing-act to `0/1`. Native theorem-field determinations; nothing is cancelled under ordinary arithmetic. **Status: Argued** (native sequence, Derived within the declared theorem field). Source of record: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md|Core Theorems — Pithy]], the crossed-zero recognition sequence.
+
+<!-- /figure:crossed-zero-recognition-chain -->
+
 ## Proposition
 
 The crossed-zero sequence performs, as one visible traversal, the change of office by which a sign first occludes and then discloses mediation. Each stage is a local determination of one relation — not a sequence of objects, and not cancellable under ordinary arithmetic:
@@ -80,3 +88,13 @@ A left-to-right chain of six boxed signs — `0`, `Ø`, `X`, `Ø/X`, `(0/Ø)/(1/
 ## Rights
 
 Original work, created for the essay. No scraped, downloaded or licensed third-party image material.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M34), after the paragraph beginning “`0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 → 0/1`.”.
+- Figure in [§4 · #3 — Lacan, Matheme, and Mytheme](../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), after the paragraph beginning “- `0` is the unobjectifiable *kartṛ*-pole”.
+<!-- /embedded-at -->

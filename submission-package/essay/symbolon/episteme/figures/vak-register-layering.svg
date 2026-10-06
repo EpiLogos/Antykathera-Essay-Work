@@ -15,9 +15,9 @@
   <text x="390" y="72" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#6b6156">Ratified 2026-09-07 (central plan, mythic rule and Amendment 2026-09-07) — straight order, no permutation</text>
 
   <!-- descent rail -->
-  <text x="52" y="140" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#8a7f70" transform="rotate(-90 52 140)">prior to determination</text>
+  <text x="38" y="240" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#8a7f70" transform="rotate(-90 38 240)">prior to determination</text>
   <line x1="52" y1="170" x2="52" y2="856" stroke="#c9bfae" stroke-width="1.5" marker-end="url(#arrow)"/>
-  <text x="52" y="826" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#8a7f70" transform="rotate(-90 52 826)">instituted, audible form</text>
+  <text x="38" y="740" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#8a7f70" transform="rotate(-90 38 740)">instituted, audible form</text>
 
   <!-- band 1: Symbolon / para -->
   <rect x="110" y="112" width="610" height="158" rx="8" fill="#f3ece0" stroke="#a89a83" stroke-width="1.5"/>

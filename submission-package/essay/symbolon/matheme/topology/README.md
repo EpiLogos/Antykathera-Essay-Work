@@ -25,3 +25,10 @@ Figures that perform the derivation live in [[symbolon/matheme/diagrams/README.m
 - [Manifold atlas, charts and transition functions](manifold-atlas.md)
 
 Return to [[symbolon/matheme/README.md|Matheme]].
+
+## Procured images
+
+- [Möbius / Klein](mobius-klein-surfaces.md) — a glass Klein bottle.
+- [The Riemann sphere](riemann-sphere.md) — the sphere with 0 and ∞ marked.
+- [Toroidal / poloidal confinement](toroidal-poloidal-confinement.md) — a tokamak field schematic.
+- [Manifold atlas](manifold-atlas.md) — Mercator's atlas title page.

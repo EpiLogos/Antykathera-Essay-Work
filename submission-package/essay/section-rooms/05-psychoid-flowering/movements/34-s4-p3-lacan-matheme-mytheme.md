@@ -37,7 +37,17 @@ $$
 - `(0/Ø)/(1/X)` makes the bar a meta-relation. Unoccluded and occluded subject-side, integrated and differentiated object-side, and their inverse readings become available together.
 - `1` is achieved recognition, returning to `0/1` because manifestation remains *kartṛ/kārya*, knower and known held through the act of knowing.
 
+<!-- figure:crossed-zero-recognition-chain -->
+
+![A left-to-right chain of six boxed signs — 0, Ø, X, Ø/X, (0/Ø)/(1/X), 1 — each with its office named beneath it, joined by forward arrows. From 1 a curved red arrow sweeps down to a seventh box, 0/1, labelled as recognition returning through another appearing-act. A closing band states that this Ø is neither the empty-set sign nor Lacan's barred subject.](../../../symbolon/matheme/diagrams/crossed-zero-recognition-chain.svg)
+
+*Diagram 14 — The crossed-zero recognition chain.* The crossed-zero recognition chain: each sign a local determination of one relation — the unobjectifiable condition, its occlusion under a formed self-image, the deposited object-world, the bar legible as mediation, the meta-relation holding both sides and their inverse readings, achieved recognition returning through another appearing-act to `0/1`. Native theorem-field determinations; nothing is cancelled under ordinary arithmetic. **Status: Argued** (native sequence, Derived within the declared theorem field). Source of record: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md|Core Theorems — Pithy]], the crossed-zero recognition sequence. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/crossed-zero-recognition-chain.md)
+
+<!-- /figure:crossed-zero-recognition-chain -->
+
 Lacan gives the local cut its precision: the barred subject, the quilting signifier, and the lack no final signifier repairs. QL carries the cut through an ontological account of the thread it cannot signify. `S1`, `Ø`, and `{0}` remain objects from distinct formal traditions, but each performs the structurally exact work of a first mark instituting a field whose ground it can gesture toward without becoming.
+
+<!-- see-figure:crossed-zero-stroke-does-not-fill -->*See also Plate 2, [The crossed zero](../../../symbolon/mytheme/plates/crossed-zero-stroke-does-not-fill.md).*<!-- /see-figure:crossed-zero-stroke-does-not-fill -->
 
 ## Tension / limit
 `1/0` is an Argued resonance with the failed return to ground, not a claim that Lacan anticipated QL.

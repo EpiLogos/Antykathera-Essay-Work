@@ -54,6 +54,22 @@ The [Apollo–Dionysus–Daphne whole](../../../symbolon/mytheme/worlds/frank-ta
 
 The Daphne relation **returns-to** [the complete Apollo–Eros–Daphne–Peneus whole](../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md#apollo-appropriation-after-withdrawal): Cupid’s contrary arrows, Peneus’s permission and rescue, bodily transformation, recoil and seeming assent remain together with the laurel’s public afterlife. [A20](../../arguments/A20-Image-Valuation-Possession.md) receives symbolic appropriation after withdrawal and returns it to [Symbol / Account / Trust](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#whole-mytheme-returns). The separate Apollo–Dionysus philosophical relation keeps its own sources; Dionysus is not inserted into Ovid’s cast.
 
+<!-- figure:bernini-apollo-and-daphne-borghese -->
+
+![Photograph of Bernini's white marble group in a gallery with a painted ceiling: Apollo strides forward with a cloak flying behind him, one hand reaching for Daphne, whose fingers have become leafy twigs and whose legs are sheathed in bark rising from a rooted base.](../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg)
+
+*Image 12 — Bernini, Apollo and Daphne.* Bernini's marble *Apollo and Daphne* (1622–25) takes the instant the record narrates at the end of the chase: Apollo's hand has closed on her, bark is rising over the body, the toes root and the fingers put out laurel. The sculpture holds both bodies at once in the passage from one form to the other. Credit: Gian Lorenzo Bernini, *Apollo and Daphne*, 1622–25, marble, Galleria Borghese, Rome; photograph by Sonse, 15 November 2018. CC BY 2.0. [Record](../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md)
+
+<!-- /figure:bernini-apollo-and-daphne-borghese -->
+
+<!-- figure:pollaiuolo-apollo-and-daphne-national-gallery -->
+
+![A narrow painting of a landscape under a pale sky: in the foreground Apollo, in a red and blue tunic, clasps Daphne, who stands in a dark gown with her arms already turning into branches; two laurel trees spread their dark foliage above the pair and a river valley recedes behind.](../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/pollaiuolo-apollo-and-daphne-national-gallery.jpg)
+
+*Image 13 — Pollaiuolo, Apollo and Daphne.* Piero del Pollaiuolo's *Apollo and Daphne* (about 1470–80) paints the metamorphosis with the god's hands still on her while her arms and hair pass into laurel. A river valley opens behind the pair; Peneus, the father she calls on, is a river. Credit: Piero del Pollaiuolo, *Apollo and Daphne*, about 1470–80, oil on poplar, National Gallery, London. Public domain; reproduction from Wikimedia Commons. [Record](../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md)
+
+<!-- /figure:pollaiuolo-apollo-and-daphne-national-gallery -->
+
 The Apollo–Dionysus passage **returns-to** [Con-text-through-Diaphaneity → Regard](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md#con-text-through-diaphaneity) through a view that can recognise its own ordering and participation. Regard lets encountered difference alter the criterion of seeing while preserving the power of articulated perspective. The image and Gebser’s historical structures keep their respective offices; the generated relation supplies the operational return without merging their histories.
 
 The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md#4--aesthetic-reciprocity-becomes-a-perspective-capable-of-return) **historicises** the different offices of Nietzsche, Gebser and Taylor’s composed whole. Regard lets another centre change the criterion of seeing while preserving articulation; the separate Ovid telling retains its own cast and aftermath.

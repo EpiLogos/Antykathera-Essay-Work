@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
+source_digest: "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `harmonics` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — QL Musical Derivation v3 (2026)](../../../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [Cymatics and Standing Waves](../../../../../section-rooms/arguments/concepts/reference-notes/cymatics-standing-waves.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md)
 
-**Reached from:** *unnamed* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Harmonics](../../../../matheme/harmonics/README.md)
+**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Harmonics](../../../../matheme/harmonics/README.md)
 
 ### [Harmonics](../../../../matheme/harmonics/README.md)
 

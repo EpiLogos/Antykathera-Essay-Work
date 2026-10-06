@@ -48,6 +48,14 @@ These records gather formal, imaginal and epistemic developments without duplica
 
 The four registers carry the Vāk layering — one descent of speech, held architecturally as `#1`–`#4`: **Symbolon = parā** (the whole unsayable form), **Matheme = paśyantī** (the visionary operative logic, more primordial than the mytheme), **Mytheme = madhyamā** (the formed visual and narrative operations built through that logic), **Episteme = vaikharī** (the inspected, documented utterance). The four register-foundations are the Binary Explication four-file system — definition, process, quilt, music: the 0, the /, the 1, the 0/1 returned ([taylor-2026-binary-explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md)) — nested-aligned to the registers and housed in Matheme's source layer.
 
+<!-- figure:vak-register-layering -->
+
+![A vertical diagram of four stacked bands connected by downward arrows labelled "descent", ordered top to bottom as Symbolon/parā, Matheme/paśyantī, Mytheme/madhyamā, Episteme/vaikharī. Each band pairs the register office (holds the relation; visionary operative logic; lived visual and narrative operations; instituted knowledge, history and warrant) with the speech-level office (Supreme Word prior to determination; formative seeing speech; mental articulation; explicit utterance). A guard note states the refused Matheme/Mytheme permutation, and a status band marks the mapping as Argued.](episteme/figures/vak-register-layering.svg)
+
+*Figure 3 — The Vāk layering of the registers.* The straight Vāk layering of the four registers: Symbolon is the relation itself (parā), Matheme its visionary operative logic (paśyantī), Mytheme the formed lived operations built through that logic (madhyamā), and Episteme the instituted, addressable articulation (vaikharī). The order is descent, and the pairing of register and level is fixed. *Status: Argued. Source of record: the central plan's mythic rule and A06 — Vāk.* *Original work for this essay; no third-party imagery.* [Record](episteme/figures/vak-register-layering.md)
+
+<!-- /figure:vak-register-layering -->
+
 ### [[symbolon/matheme/README.md|Matheme]]
 
 Matheme makes the relation transmissible through notation, derivation, construction and formal comparison — and is its own subject: the full equation `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. Organised by the four-file system (definition, process, quilt, music), the two logic folders (Dia/Syn, Mono/Poly), and the domain projections (QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams).

@@ -7,6 +7,13 @@ claim_status: Argued
 source_setting: hellenic
 human_amplification: relation-local
 source_relation: "Paraphrased tellings; Argued from the authored QL carriers; separately qualified historical witnesses"
+figures:
+  - asset: "images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Painting of 1601; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Joachem_Wtewael_-_Venus_en_Mars_verrast_door_Vulcanus.jpg"
+    credit: "Joachim Wtewael, Mars and Venus Surprised by Vulcan, 1601, oil on copper, Mauritshuis, The Hague. Public domain; reproduction from Wikimedia Commons."
 ---
 
 # Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation
@@ -24,6 +31,12 @@ Ares was watching too. When he saw Hephaestus depart, he came to the house and t
 Helios had continued his watch and brought Hephaestus word a second time. The craftsman turned back before reaching Lemnos. At his own doorway, grief became a summons: Zeus and the other gods must come and see what had happened. He complained that Aphrodite preferred Ares' beauty and strength to her lame husband. His own parents, he said, were responsible for the body in which he had been born. His craft had now made the lovers' advantage useless. They would remain where they were until Aphrodite's father returned the gifts Hephaestus had paid for the marriage.
 
 Poseidon, Hermes and Apollo came. The goddesses stayed in their houses for shame; the male gods stood in the gateway and laughed at the ingenious capture. One god, speaking to another, drew the lesson that the slow had caught the swift. Ares, the fastest of them, owed the adulterer's fine to the lame craftsman who had outwitted him. This judgment belongs to the watching gods. Hephaestus' own demand had named the return of his marriage gifts.
+
+![An oil painting in crowded Mannerist style: Mars and Venus lie entangled on a canopied bed at lower right; Vulcan, seen from behind and half-naked, stands at lower left with his tools; cupids tumble about the bed and a group of gods in clouds looks down from the upper left.](images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg)
+
+> Joachim Wtewael's *Mars and Venus Surprised by Vulcan* (1601) stages the exposure the record narrates from *Odyssey* 8: the lovers held on their bed, the craftsman who made the apparatus, and the divine spectators looking on from above. The picture shows the display, the maker of the apparatus and the divine spectators; Poseidon's undertaking to answer for Ares, on which the record turns, lies outside the frame.
+>
+> Credit: Joachim Wtewael, *Mars and Venus Surprised by Vulcan*, 1601, oil on copper, Mauritshuis, The Hague. Public domain; reproduction from Wikimedia Commons.
 
 Apollo then asked Hermes whether he would accept those bonds in exchange for lying beside Aphrodite. Hermes answered that he would welcome three times as many bonds, with all the gods and goddesses looking on, if he could share her bed. The gods laughed again. The display which had made the lovers helpless had given the spectators another occasion for desire.
 

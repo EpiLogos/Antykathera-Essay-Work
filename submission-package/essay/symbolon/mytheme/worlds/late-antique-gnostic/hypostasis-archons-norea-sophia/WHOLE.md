@@ -9,6 +9,13 @@ claim_status: Offered
 source_relation: "Paraphrased primary telling; relation-local candidate amplification"
 human_amplification: relation-local
 source_readiness: Layton-online-whole-read-canonical-source-admitted-Coptic-collation-pending
+figures:
+  - asset: "images/nag-hammadi-codex-ii-folio-32.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Fourth-century manuscript; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Nag_Hammadi_Codex_II.jpg"
+    credit: "Nag Hammadi Codex II, folio 32, fourth century; photograph reproduced on Wikimedia Commons from biblical-data.org. Public domain."
 ---
 
 # The *Hypostasis of the Archons* — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above
@@ -31,6 +38,12 @@ Scholarly description of the tractate gives the essential cosmological distincti
 The whole narrative then moves through creation, human formation, domination, resistance and revelation rather than presenting one static map.
 
 The surviving work is a late-antique Coptic tractate in Nag Hammadi Codex II,4. Manuscript provenance in Egypt, proposed composition, narrated cosmography and modern reception have separate offices. Stephen E. Robinson's [Coptic Encyclopedia account, CE 1261a–1262a](https://ccdl.claremont.edu/digital/api/collection/cce/id/1001/download) places a Greek composition before AD 350 and notes Jewish or Jewish-Christian connections. That dating is a scholarly attribution; no exact city of composition is established here. The heavens, abyss, garden and ark belong to narrated space. Taylor's contemporary reception belongs to a different historical moment from the ancient story.
+
+![A photograph of a single papyrus leaf, cream-coloured and torn at the edges, covered in dense lines of Coptic script; a decorated line of dashes and a title in larger letters stand between two blocks of text near the upper middle.](images/nag-hammadi-codex-ii-folio-32.jpg)
+
+> Folio 32 of Nag Hammadi Codex II, a fourth-century Coptic papyrus codex. The leaf carries the end of the *Apocryphon of John* and the beginning of the *Gospel of Thomas*. The *Hypostasis of the Archons*, the fourth tractate of the same codex, follows later in the book. The page shows the codex the record's tractate survives in.
+>
+> Credit: Nag Hammadi Codex II, folio 32, fourth century; photograph reproduced on Wikimedia Commons from biblical-data.org. Public domain.
 
 The disclosure changes the reader's understanding of the earlier coercion. Human formation and Norea's crisis precede Eleleth's retrospective account of the rulers' origins. The late speech makes their local power intelligible through a source they had claimed to exhaust; promised liberation remains a later event.
 

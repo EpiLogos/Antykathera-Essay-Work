@@ -32,6 +32,16 @@ Zero is retained as the axis of tension and connection between the signed ones. 
 
 Cancellation and appropriation are further operations. Replacing the relating stroke with addition gives `(-1)+(+1)=0`: the signed ones cancel. Subtraction gives `(-1)-(+1)=-2`, or `(+1)-(-1)=+2` in the inverse orientation: one pole takes the relation's full span as its own magnitude. Polarity, cancelled zero and appropriated span therefore remain distinct results. The measurable polarity already holds an axial relation; its collapse changes what the account retains.
 
+<!-- figure:dia-ballein-signed-operations -->
+
+![A horizontal axis through a common zero carries the pole minus one at the left and plus one at the right, written (minus one) over (plus one): held polarity. Below, three operations on the same two signed units. Their sum, minus one plus plus one, is zero: the two meet at the common zero and give a net value. The difference taken from minus one, plus one minus minus one, is plus two: an arrow across the whole span from left to right. The difference taken from plus one, minus one minus plus one, is minus two: the same span in the opposite orientation. A red band states the error of appropriation: promoting a result into authority over the relation that made it possible.](../../../symbolon/matheme/diagrams/dia-ballein-signed-operations.svg)
+
+*Diagram 4 — Dia-ballein: one polar axis, three operations.* One polar axis, `(−1)/(+1)`, under three operations. The sum `(−1)+(+1)=0` meets the poles at the common zero and gives a net value; the differences `(+1)−(−1)=+2` and `(−1)−(+1)=−2` give the whole span in opposite orientations. Each result is exact, and none removes the relation it was computed from. Appropriation begins where a result is taken as authority over that relation. **Status: Derived** (the signed computations) **/ Argued** (the readings). Source of record: the essay's display in `§2 · #1`; [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy|Core Theorems — Pithy]], §II and §IV. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/dia-ballein-signed-operations.md)
+
+<!-- /figure:dia-ballein-signed-operations -->
+
+<!-- see-figure:syn-ballein-retained-relation -->*See also Diagram 5, [Syn-ballein: the retained relation](../../../symbolon/matheme/diagrams/syn-ballein-retained-relation.md).*<!-- /see-figure:syn-ballein-retained-relation -->
+
 The shadow appears when the cut becomes the false fundamental. Subject and object, self and other, human and machine are then treated as self-grounding terms, and the activity that made them distinguishable disappears. The mental-rational achievement retains its analytic force. The zero–subject braid follows the further integral work by which the constituting relation becomes available within that achievement.
 
 The devil is the literalist of the minus sign: he reads zero as cancellation where Logos reads it as return.
@@ -65,6 +75,14 @@ Desmet identifies the affective preparation of that transfer: social isolation, 
 This is not a theory in which an irrational crowd simply explains power away. Iakovou's qualification has to hold: mass psychology cannot replace institutions, parties, offices, coercion, and the material organisation of authority. The full circuit is sharper. A population is atomised; its unbound affect is supplied with a target; the left/right line is intensified into an exhaustive political reality; and the institution or empire presents itself as the sole mediator, protector, or saviour of the field it has helped to sever. Division occurs below; pseudo-unity is installed above. Empire/subject, institution/citizen, and rich/poor are thus not dissolved into a vague commonality, but rendered newly contestable as unequal relations whose ground has been monopolised.
 
 [the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-administered-world) **figures** the political operation of a cut whose governing frame cannot be returned upon: distinctions between numbered inhabitants organise participation, while Number Two's changing occupants administer a relation that Six cannot contest by taking a place within it. The native power of distinction remains productive; the counterfeit lies in severing its return to the source and consequences of the classification.
+
+<!-- figure:portmeirion-village -->
+
+![A photograph of a small piazza at Portmeirion: a pink-washed building with a pale blue arcaded door at left, a tall white house with a tiled roof and a small lantern tower at right, palm trees, a clipped lawn and a stone urn on a plinth, with a dark stone plinth at the left edge.](../../../symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg)
+
+*Image 6 — Portmeirion, the setting of the Village.* Portmeirion on the coast of North Wales, the principal physical setting for the Village exteriors of *The Prisoner*. The fiction withholds the Village's place; the photograph shows the real settlement as it stands in the 2010s. Credit: Dr Neil Clifton, *Portmeirion Village*, photograph, 30 July 2015 (geograph.org.uk 4597922). CC BY-SA 2.0. [Record](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md)
+
+<!-- /figure:portmeirion-village -->
 
 [Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#operations) **qualifies** the passage from exact signed arithmetic into political and technical conduct. Cancellation, directed appropriation and a retained polar relation have different results; the comparison asks which operation a classification or institution actually performs with its selected and excluded terms. The equations preserve their Derived scope, while the claim about a particular regime requires its own evidence of offices, power and consequence. A common answer cannot establish retained relation if the affected terms cannot return upon the criterion that counted them.
 

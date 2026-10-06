@@ -11,6 +11,14 @@ Each argument develops one operation through its claim, grounds, consequences an
 
 Read an argument through its own sixfold first. Its conjugate follows the same operation into technological practice; its Concepts open the distinctions on which it depends. The pairing below lets you cross between the two faces without losing either. The [A/C root](conjugate/AC.md) holds their common field.
 
+<!-- figure:ac-suite-field-shape -->
+
+![A concentric diagram. At the centre, a disc labelled "A/C — the dual-form root; A face, the ruling; C face, the primitive field; the prime creates a face, not a second node". Around it, one split band: 36 Arguments A01–A36 on the left half and 36 conjugate faces A01′–A36′ on the right half. Around that, a ring labelled 64 Concepts C01–C64. On the outside, eight segments named §0/1 The Integral Threshold (M01–06), §0 Differentiating Mind (M07–12), §1 The Return of Zero (M13–18), §2 Two Logics of Two (M19–24), §3 Mathematical Substrate (M25–30), §4 Psychoid Flowering (M31–36), §5 Objective Internality (M37–42) and §5→0 Epi-Logos · 4:2 Technē (M43–48). Eight short arrows point inward, indicating that each movement reaches the suite through its room's P1-CANONICAL-ALIGNMENT route. A dashed annex box records the product family S plus S0–S5, seven records not counted in the 137; a status band gives the census as verified 2026-09-25.](../../symbolon/episteme/figures/ac-suite-field-shape.svg)
+
+*Figure 4 — The A/C suite and its rooms.* The canonical A/C suite as one field: 36 Arguments and their 36 conjugate faces as two faces of one ring, 64 Concepts as the enclosing ring, and the A/C root at the centre — 137 records in one home under the rooms. The outer segments are the eight rooms holding the 48 movements, and the inward arrows are the discipline that makes the field navigable rather than mined: each movement reaches the suite only through its room's `P1-CANONICAL-ALIGNMENT` route. The seven product records are shown as the declared annex — developing the C face's product rows, admitted separately, 144 shared records once materialised. *Status: Derived (census verified 2026-09-25) / Argued (suite standing, T26 ratification pending). Source of record: the A/C root's declared field.* *Original work for this essay; no third-party imagery.* [Record](../../symbolon/episteme/figures/ac-suite-field-shape.md)
+
+<!-- /figure:ac-suite-field-shape -->
+
 ## Arguments and their conjugate faces
 
 | Argument | Technological face |

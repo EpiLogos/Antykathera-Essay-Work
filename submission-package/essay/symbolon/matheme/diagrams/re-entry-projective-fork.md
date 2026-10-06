@@ -20,6 +20,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, register/matheme, domain/
 
 # Re-entry and the Projective Fork
 
+<!-- figure:re-entry-projective-fork -->
+
+![Two panels divided by a dashed red line labelled "comparative adjacency — not equivalence". Left: a circle split by a bold vertical stroke, an arrow curving from outside back into the form labelled "the mark re-enters its own form"; below, the iterant display with shift eta and the result i squared equals minus one, described as alternation plus temporal shift. Right: two cards, one for the point (0:1) with chart u giving zero and (1:0) blocked, one for (1:0) with chart v giving zero and (0:1) blocked, joined by crossing arrows; beneath them the overlap rule v equals one over u, with the note that this zero is not a multiplicative inverse of zero.](re-entry-projective-fork.svg)
+
+Paired panel in comparative adjacency: the mark re-entering its own form, with alternation plus temporal shift giving $i^2=-1$; beside it, the projective fork `[0:1] ↔ [1:0]`, where each chart supplies the coordinate the other blocks, under the overlap rule $v=1/u$. The panels perform one operation each; the dashed divider is the claim that adjacency is not equivalence. **Status: Derived** (iterant algebra; chart constructions) **/ Argued** (temporal reading; the adjacency). Source of record: the movements' own displays — `§3 · #2` and `§3 · #3`.
+
+<!-- /figure:re-entry-projective-fork -->
+
 ## Proposition
 
 Two formal neighbours of the native fork, placed as **comparative adjacency and nothing more**: on one side, the mark that re-enters its own form carrying its prior crossing as memory, made algebraic by the iterants where alternation plus temporal shift yields $i^2=-1$; on the other, the projective fork where the coordinate each chart blocks the other supplies — `[0:1]` and `[1:0]` as one projective point under two charts, joined by $v=1/u$. The dividing line in the asset is part of the argument: adjacency asserts no equivalence.
@@ -75,3 +83,14 @@ Original work, created for the essay. No scraped, downloaded or licensed third-p
 ## Anchored movements
 
 This diagram performs its operation at: [[section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex]], [[section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing]].
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M28), after the paragraph beginning “A failed coordinate need not mean a failed object.”.
+- Figure in [§3 · #3 — Projective Completion and Dimensional Reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), after the paragraph beginning “Mathematics repeatedly encounters obstructions”.
+- Cross-reference in [§3 · #2 — Mark, Re-entry, and Complex Orientation](../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md), after the paragraph beginning “The essay’s Argued temporal reading treats a re-entering mar”.
+<!-- /embedded-at -->

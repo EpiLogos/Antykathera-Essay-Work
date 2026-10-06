@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
+source_digest: "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -18,34 +18,34 @@ Generated findings about the written navigation of the publication body. A findi
 
 ## Reader links and workspace lookup
 
-Visible, independently resolved links reach 1144 of 1172 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
+Visible, independently resolved links reach 1152 of 1180 pages. All 288 admitted records are checked: 0 missing and 0 unreachable.
 
 This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. The workspace report `reader-audit.json` retains every location and unresolved destination; it is not part of the public reading edition.
 
-Workspace lookup reaches 1147 of 1172 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
+Workspace lookup reaches 1155 of 1180 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
 
 | Depth (clicks) | Pages |
 |---|---|
 | 0 | 1 |
 | 1 | 64 |
-| 2 | 786 |
-| 3 | 224 |
-| 4 | 72 |
+| 2 | 817 |
+| 3 | 202 |
+| 4 | 71 |
 
 ## By class
 
 | Class | Pages | Links | Named | Unnamed | Orphans | No return | Unreachable |
 |---|---|---|---|---|---|---|---|
-| The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
-| The rooms — waypoints, alignments, reading routes | 20 | 873 | 88 | 785 | 0 | 0 | 0 |
-| The 48 movements | 48 | 421 | 147 | 274 | 0 | 0 | 0 |
-| Symbolon — the twelvefold root | 14 | 186 | 65 | 121 | 0 | 2 | 0 |
-| Matheme — exact operations | 101 | 857 | 233 | 624 | 0 | 16 | 0 |
-| Mytheme — whole lived images | 148 | 968 | 246 | 722 | 0 | 118 | 0 |
+| The sovereign essay | 1 | 51 | 9 | 42 | 0 | 0 | 0 |
+| The rooms — waypoints, alignments, reading routes | 20 | 875 | 89 | 786 | 0 | 0 | 0 |
+| The 48 movements | 48 | 477 | 157 | 320 | 0 | 0 | 0 |
+| Symbolon — the twelvefold root | 14 | 188 | 66 | 122 | 0 | 2 | 0 |
+| Matheme — exact operations | 109 | 906 | 242 | 664 | 0 | 13 | 0 |
+| Mytheme — whole lived images | 148 | 988 | 246 | 742 | 0 | 118 | 0 |
 | Episteme — the register root | 1 | 23 | 4 | 19 | 0 | 0 | 0 |
-| Arguments A01–A36 | 37 | 1045 | 113 | 932 | 0 | 0 | 0 |
+| Arguments A01–A36 | 37 | 1047 | 114 | 933 | 0 | 0 | 0 |
 | Conjugate arguments A01′–A36′ | 38 | 539 | 59 | 480 | 0 | 0 | 0 |
-| Concepts C01–C64 and provenance | 179 | 1479 | 192 | 1287 | 0 | 64 | 0 |
+| Concepts C01–C64 and provenance | 179 | 1481 | 193 | 1288 | 0 | 64 | 0 |
 | Product field S / S0–S5 | 8 | 79 | 13 | 66 | 0 | 2 | 0 |
 | Episteme · Etymology whole-fields | 25 | 586 | 102 | 484 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 652 | 324 | 328 | 0 | 3 | 0 |
@@ -55,8 +55,8 @@ Workspace lookup reaches 1147 of 1172 pages. The tables below describe that larg
 | Episteme · Maps and curated paths | 5 | 129 | 7 | 122 | 0 | 1 | 0 |
 | Episteme · Atlas | 1 | 30 | 1 | 29 | 0 | 1 | 0 |
 | Episteme · Aphorisms | 26 | 64 | 1 | 63 | 1 | 25 | 25 |
-| Episteme · Figures | 5 | 38 | 0 | 38 | 0 | 1 | 0 |
-| Supporting quilt ledgers (non-canonical) | 80 | 692 | 59 | 633 | 0 | 44 | 0 |
+| Episteme · Figures | 5 | 41 | 0 | 41 | 0 | 1 | 0 |
+| Supporting quilt ledgers (non-canonical) | 80 | 696 | 60 | 636 | 0 | 44 | 0 |
 
 ## Curated paths
 
@@ -90,9 +90,15 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 ## Unresolved targets
 
 - **Supporting quilt ledgers (non-canonical):** `§2 ·` (14); `§3 ·` (12); `§4 ·` (12); `Colebrooke — Brahmagupta and Bhāskara` (8); `Dyczkowski — Doctrine of Vibration` (7); `submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit` (6); `Pind — Dignāga on Anyāpoha` (5); `The Copula Derivation Chain` (4); `submission-package/essay/section-rooms/arguments/02-objective-internality` (3); `submission-package/essay/section-rooms/arguments/08-deferential-intelligence` (3); `submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE` (3); `submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE` (3)
+- **The sovereign essay:** `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1); `symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/mathematics/images/liber-abbaci-florence-ms-f124r.jpg` (1); `symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg` (1); `symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg` (1); `symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg` (1); `symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg` (1); `symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg` (1); `symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/pollaiuolo-apollo-and-daphne-national-gallery.jpg` (1)
+- **The 48 movements:** `../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1); `../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg` (1); `../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg` (1); `../../../symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg` (1); `../../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg` (1); `../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg` (1); `../../../symbolon/matheme/topology/images/tokamak-chamber-and-magnetic-fields-schematic.jpg` (1); `../../../symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg` (1); `../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg` (1); `../../../symbolon/matheme/topology/images/mercator-atlas-1595-frontispiece.jpg` (1); `../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/images/giordano-psyche-discovering-the-sleeping-cupid.jpg` (1); `../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg` (1)
 - **Concepts C01–C64 and provenance:** `Mono-Poly Trust` (4); `Hephaestus and the Net` (1); `Return of Zero — Scholarly Source Bank Protocol` (1); `Return of Zero Source Bank Index` (1); `Source Consumption Matrix` (1); `Legacy Reference-Node Deprecation Manifest` (1)
 - **Conjugate arguments A01′–A36′:** `bare wikilinks` (1)
-- **Episteme · Source houses:** `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein` (2); `Antykathera-Essay-Work/submission-package/epi-logos/resources/essay-okf/arguments/19-two-ones-mono-poly-matheme` (1); `Antykathera-Essay-Work/submission-package/epi-logos/resources/essay-okf/arguments/03-two-logics-and-sym-ballein` (1); `Dreamcode` (1); `Antykathera Essay Work` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/19-two-ones-mono-poly-matheme` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music` (1)
+- **Episteme · Etymology whole-fields:** `images/owen-1848-vertebrate-archetype-plate.jpg` (1); `images/exchequer-tally-1739-diagram.jpg` (1)
+- **Episteme · Histories:** `images/barbari-portrait-of-luca-pacioli.jpg` (1); `images/gaffurio-1492-pythagoras-and-the-ratios.jpg` (1); `images/liber-abbaci-florence-ms-f124r.jpg` (1); `images/ybc-7289-babylonian-tablet.jpg` (1); `images/hoernle-1887-bakhshali-numerals.png` (1); `images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg` (1); `images/durer-1525-draughtsman-drawing-a-lute.jpg` (1)
+- **Episteme · Source houses:** `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein` (2); `Antykathera-Essay-Work/submission-package/epi-logos/resources/essay-okf/arguments/19-two-ones-mono-poly-matheme` (1); `Antykathera-Essay-Work/submission-package/epi-logos/resources/essay-okf/arguments/03-two-logics-and-sym-ballein` (1); `Dreamcode` (1); `Antykathera Essay Work` (1); `images/chladni-1787-title-page.jpg` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/19-two-ones-mono-poly-matheme` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic` (1); `Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music` (1)
+- **Matheme — exact operations:** `images/chladni-1787-tab-viii-square-plate-figures.jpg` (1); `images/mercator-atlas-1595-frontispiece.jpg` (1); `images/glass-klein-bottle.jpg` (1); `images/tokamak-chamber-and-magnetic-fields-schematic.jpg` (1)
+- **Mytheme — whole lived images:** `images/chrysopoeia-of-cleopatra-ouroboros.jpg` (1); `images/signorelli-sermon-and-deeds-of-the-antichrist.jpg` (1); `images/abercius-stele-fragment-museo-pio-cristiano.jpg` (1); `images/blake-job-plate-13-lord-answering-out-of-the-whirlwind.jpg` (1); `images/blake-job-plate-15-behemoth-and-leviathan.jpg` (1); `images/portmeirion-village.jpg` (1); `images/dew-on-spider-web.jpg` (1); `images/antikythera-fragment-a-front.jpg` (1); `images/freeth-2021-cosmos-display-computer-model.jpg` (1); `images/skenfrith-cope-st-bridgets-church.jpg` (1); `images/skenfrith-cope-detail-winged-figures.jpg` (1); `images/chartres-north-rose-window.jpg` (1)
 
 ## Orphans — no written inbound relation
 
@@ -361,9 +367,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Definition — the 0](../../../matheme/definition/README.md)
 - [Dia/Syn — the two logics of two](../../../matheme/dia-syn/README.md)
 - [Matheme Diagrams](../../../matheme/diagrams/README.md)
-- [The Crossed-Zero Recognition Chain](../../../matheme/diagrams/crossed-zero-recognition-chain.md)
-- [The QL Unit as Concentric Mandala — the Eight Determinations](../../../matheme/diagrams/ql-unit-mandala-eight-determinations.md)
-- [The Vertical Accounting — 100% to the 4+2 Base Frame](../../../matheme/diagrams/spanda-4-2-attunement-stack.md)
 - [Formal Neighbours](../../../matheme/formal-neighbours/README.md)
 - [Harmonics](../../../matheme/harmonics/README.md)
 - [Music — the 0/1 returned](../../../matheme/music/README.md)
@@ -523,13 +526,13 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 
 - **Supporting quilt ledgers (non-canonical):** `*[Section room] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · [Whole manuscript] (THE-RETURN-OF-ZERO.md)*`
 - **Supporting quilt ledgers (non-canonical):** `*[Section room] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · [Whole manuscript] (THE-RETURN-OF-ZERO.md)*`
-- **Supporting quilt ledgers (non-canonical):** `/ [[symbolon/episteme/etymologies/encounter-region-name-count/HISTORY-encounter-region-name-count]] / Living protected learning surface`
+- **Supporting quilt ledgers (non-canonical):** `![A six-by-six grid of die A against die B holds the thirty-six ordered states of the pair. The six doubles lie on the diagonal; the thirty other cells fold acr`
 - **The rooms — waypoints, alignments, reading routes:** `[§0/1 — The Integral Threshold] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) is the opening section being completed for the essay submissi`
 - **The rooms — waypoints, alignments, reading routes:** `- **Read the opening section.** Begin with [The Question Before the Mechanism] (section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism`
 - **The rooms — waypoints, alignments, reading routes:** `- **Read the submitted foundation.** [§0/1 — The Integral Threshold] (CONFRONTING-THE-LIMIT-S01.md) is the finished foundation of *Confronting the Limit*, submit`
 - **The sovereign essay:** `*[Section room] (section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)*`
-- **The sovereign essay:** `*[Section room] (section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md)*`
-- **The sovereign essay:** `*[Section room] (section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md)*`
+- **The sovereign essay:** `![A six-by-six grid of die A against die B holds the thirty-six ordered states of the pair. The six doubles lie on the diagonal; the thirty other cells fold acr`
+- **The sovereign essay:** `![Left: a square with both horizontal edge arrows pointing right, both vertical edge arrows pointing up, and all four corners marked as one quotient point. Righ`
 - **The 48 movements:** `Movement 01 of 48 · [This room] (../ROOM-00-integral-threshold.md) · [Reading entrance] (../../../README.md) · [Next →] (02-s01-p1-define-subject.md)`
 - **The 48 movements:** `Movement 01 of 48 · [This room] (../ROOM-00-integral-threshold.md) · [Reading entrance] (../../../README.md) · [Next →] (02-s01-p1-define-subject.md)`
 - **The 48 movements:** `Movement 01 of 48 · [This room] (../ROOM-00-integral-threshold.md) · [Reading entrance] (../../../README.md) · [Next →] (02-s01-p1-define-subject.md)`

@@ -14,3 +14,7 @@ The shared field articulates relation, opposition, differentiation, separation a
 - [Uroboros, circulation and trickster](uroboros-trickster/WHOLE.md) **grounds** head/tail, hunger, opening, self-eating, assimilation and the return that retains its hole.
 
 The [situated worlds](../worlds/README.md) retain their complete tellings and their independent sources. [Geography](../atlas/geography/README.md) follows source, narrated and reception settings; [temporality](../atlas/temporality/README.md) follows sequence, transmission and reception. Neither route treats the shared archetypal field as a common geographical origin or an empirical schedule through which every culture must pass. [The Mytheme root](../README.md) **defines** whole-first development and relation-local human amplification.
+
+## Procured images
+
+- [Uroboros, circulation and trickster](uroboros-trickster/WHOLE.md) — the ouroboros of the *Chrysopoeia of Cleopatra*.

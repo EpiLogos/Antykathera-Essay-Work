@@ -36,6 +36,14 @@ tags: [epi-logos/antikythera-essay, argument-map/plate, register/mytheme, statio
 
 # Plate — The Psychoid Field: Two Descriptions Across One Seam
 
+<!-- figure:psychoid-field-one-seam -->
+
+![A single rectangular field on a paper ground, divided across its middle by a red dashed line captioned "one field — the seam is not a wall". Above the seam, two overlapping circles drawn in indigo are labelled "psychic description — image, meaning, significance". Below the seam, the same two overlapping circles drawn in black with small crosshair marks at their centres and tick marks at their intersections are labelled "physical description — event, measure, position". Fine dotted vertical lines join the upper and lower patterns across the seam, captioned "the same pattern — neither description reduces to the other". Base inscription: "two descriptions retained across one seam — the field precedes the division whose sides later disclose it differently."](psychoid-field-one-seam.svg)
+
+The psychoid field: two descriptions retained across one seam. The same pattern appears in the psychic register — image, meaning, significance — and in the physical register — event, measure, position; the geometry is identical because what the descriptions describe is one appearing. The dashed seam is not a wall and not a bridge: it is the field's own unmastered middle, prior to the division whose two sides later disclose it differently. Neither description reduces to the other, and no causal mechanism between particular events is depicted or claimed. No anthropomorphic agent appears: an artifact's scores and preferences belong to this field as conditioned measures, not as a psyche on a screen.
+
+<!-- /figure:psychoid-field-one-seam -->
+
 ## Proposition
 
 Before psyche and matter can be compared they must become distinguishable within one field
@@ -122,10 +130,20 @@ later disclose it differently."
 - `taylor-2026-advent-zero-subject` — the native authorial derivation behind the field.
 - The plate uses the essay's own terms; the visual contains no external text.
 
-## Wiring (embedding NOT performed by this ticket)
+## Wiring (candidates at landing; placements listed under Embedded at)
 
 - Candidate embedding: manuscript §4 opening, beside the paragraph stating the psychoid
   relation's place before the psyche/matter comparison.
 - Room route: `section-rooms/05-psychoid-flowering/` M31 movement page.
 - The brief's softmax / preference-gauge diagram is left open for `matheme/diagrams/` or
   `episteme/figures/`; see the ticket report.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M31), after the paragraph beginning “The psychoid relation established through the Arche-Topos now has to b”.
+- Figure in [§4 · #0 — The Psychoid Problem](../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), after the paragraph beginning “**QL anchor:** two descriptions retained across one seam.”.
+<!-- /embedded-at -->

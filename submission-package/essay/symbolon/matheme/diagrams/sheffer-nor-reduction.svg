@@ -54,7 +54,7 @@
 
   <!-- the seam -->
   <line x1="40" y1="386" x2="940" y2="386" stroke="#8a2a2a" stroke-width="2.4"/>
-  <rect x="300" y="372" width="380" height="28" fill="#ffffff"/>
+  <rect x="150" y="372" width="680" height="28" fill="#ffffff"/>
   <text class="lab acc" x="490" y="391" font-size="14" text-anchor="middle" font-weight="bold">the seam &#8212; functional completeness holds within a defined field of truth values</text>
 
   <!-- lower zone -->

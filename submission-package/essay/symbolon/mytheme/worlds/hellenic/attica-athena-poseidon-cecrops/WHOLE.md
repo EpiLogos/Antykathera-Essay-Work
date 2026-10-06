@@ -13,6 +13,25 @@ time: "Mythic Cecropian reign; ancient material and literary witnesses; Taylor 2
 development_status: writer-complete-source-foldback-complete-scoped-T22-checked-parent-integration-pending
 human_amplification: relation-local
 source_readiness: selected-digital-witnesses-canonically-admitted-print-critical-collation-separate
+figures:
+  - asset: "images/carrey-1674-west-pediment-parthenon-north.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Drawings of 1674; the Commons reproductions are marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Fronton_ouest_nord.jpg"
+    credit: "Jacques Carrey (attributed), Temple de Minerve, à Athènes, drawings of the west pediment of the Parthenon, 1674, made for the Marquis de Nointel; Bibliothèque nationale de France. Public domain; reproduction from Wikimedia Commons."
+  - asset: "images/carrey-1674-west-pediment-parthenon-south.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Drawings of 1674; the Commons reproductions are marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Fronton_ouest_sud.jpg"
+    credit: "Jacques Carrey (attributed), second sheet of the same drawing, south half, 1674; Bibliothèque nationale de France. Public domain."
+  - asset: "images/erechtheion-porch-of-the-caryatids.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Photograph by Coolcaesar; attribution required. The building is of the late fifth century BCE."
+    source_url: "https://commons.wikimedia.org/wiki/File:Porch_of_the_Caryatids,_Erechtheion,_Acropolis_of_Athens,_From_Southeast.jpg"
+    credit: "Coolcaesar, Porch of the Caryatids, Erechtheion, Acropolis of Athens, From Southeast, photograph, 23 November 2025. CC BY 4.0."
 ---
 
 # Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim
@@ -81,9 +100,23 @@ In [Augustine's *City of God* 18.9](../../../../episteme/sources/religion-theolo
 
 The west pediment gives the contest a monumental civic image in which local kings, heroes and river-personifications surround the two divine claimants. In the [Acropolis Museum's description of Poseidon, Ακρ. 885](../../../../episteme/sources/classical-philology/acropolis-museum/acropolis-museum-west-pediment-poseidon/acropolis-museum-west-pediment-poseidon.md#acropolis-museum-west-pediment-poseidon-q001), the sculpture dates to 437–432 BCE. Its reconstructed trident action has two possible readings: withdrawal after creating the spring, or striking to flood the city. The museum interprets the local heroes as judges; that reading of the sculptural field differs from Pseudo-Apollodorus’s tribunal. Surviving monument, reconstructed scene and literary narrative remain different witnesses.
 
+![A drawing in red chalk on cream paper of the left half of a temple pediment above part of an entablature and columns; a crowd of small sculpted figures, including a chariot with horses, fills the sloping triangular field.](images/carrey-1674-west-pediment-parthenon-north.jpg)
+
+![A second red-chalk drawing on cream paper, of the other half of the same pediment: a long low sloping triangle with a smaller group of sculpted figures along its base.](images/carrey-1674-west-pediment-parthenon-south.jpg)
+
+> Jacques Carrey's drawings of the Parthenon's west pediment, made in 1674, in two halves (north above, south below). They record the sculpted contest of Athena and Poseidon thirteen years before a Venetian shell destroyed much of the building. Where the record's pediment is cited from the Acropolis Museum's description of Poseidon, these drawings are the earlier witness to the composition around him.
+>
+> Credit: Jacques Carrey (attributed), *Temple de Minerve, à Athènes*, drawings of the west pediment of the Parthenon, 1674, made for the Marquis de Nointel; Bibliothèque nationale de France. Public domain; reproduction from Wikimedia Commons. Jacques Carrey (attributed), second sheet of the same drawing, south half, 1674; Bibliothèque nationale de France. Public domain.
+
 ### The sanctuary remembers both claims
 
 In the [Acropolis Museum's account of the Erechtheion](../../../../episteme/sources/classical-philology/acropolis-museum/acropolis-museum-erechtheion/acropolis-museum-erechtheion.md#acropolis-museum-erechtheion-q001), the eastern room was dedicated to Athena, while the lower western room accommodated shrines including **Poseidon-Erechtheus**. The complex also incorporated the sacred signs associated with the contest: Athena's olive, Poseidon's trident marks in the bedrock, and the spring of salty water associated with his strike.
+
+![A photograph of the Erechtheion's south porch on the Acropolis under a blue sky: six marble maidens in long robes stand on a low wall and carry the porch roof, with the pale limestone wall of the temple rising at right.](images/erechtheion-porch-of-the-caryatids.jpg)
+
+> The Erechtheion's south porch on the Acropolis, from the southeast. The building, dedicated in its eastern room to Athena and in its western rooms to cults that included Poseidon-Erechtheus, kept the signs of the contest in its precinct, the olive and the marks of the trident among them. The record reads this as a later material memory of the whole contest.
+>
+> Credit: Coolcaesar, *Porch of the Caryatids, Erechtheion, Acropolis of Athens, From Southeast*, photograph, 23 November 2025. CC BY 4.0.
 
 This does not belong to the narrative sequence as another mythic episode. It is a later material memory of the whole contest. The victorious civic form retains the counter-claim inside its sacred architecture.
 

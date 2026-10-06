@@ -18,6 +18,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, register/matheme, domain/
 
 # An Atlas of Two Charts on the Unit Circle
 
+<!-- figure:atlas-two-chart-circle -->
+
+![Left: the unit circle with its north pole and south pole drawn as small open circles and marked as omitted, one from each chart, and the sample point P at three fifths, four fifths marked in red with its two coordinate values. Right: two chart cards — u equals x over one minus y, valid away from the north pole; v equals x over one plus y, valid away from the south pole — joined by double arrows over the overlap rule uv equals one, v equals one over u. Below, a motion-test card: du dt equals two at P gives dv dt equals minus two ninths, yet both inverse height formulas give the same height speed, six twenty-fifths. A closing band states that no single global chart exists and agreement is earned by the transition rule, not declared.](atlas-two-chart-circle.svg)
+
+An atlas of two charts on the unit circle: `u = x/(1−y)` valid away from the north pole, `v = x/(1+y)` valid away from the south pole, joined by `uv = 1`, `v = 1/u`; at `P = (3/5,4/5)` the coordinates `u = 3`, `v = 1/3` disagree as a rule-governed translation, and a motion with `du/dt = 2` recovers the same `dy/dt = 6/25` through either inverse. No global chart exists; the excluded pole of each chart remains available through the other. **Status: Derived** (constructions and motion test, recomputed). Source of record: the essay's atlas display in `§3 · #3`; the jigsaw/atlas whole as internal provenance of the framing.
+
+<!-- /figure:atlas-two-chart-circle -->
+
 ## Proposition
 
 A usable atlas is more than a collection of viewpoints: two charts,
@@ -81,3 +89,13 @@ Original work, created for the essay. No scraped, downloaded or licensed third-p
 ## Anchored movements
 
 This diagram performs its operation at: [[section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing]].
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M28), after the paragraph beginning “Both descriptions give `dy/dt=6/25`.”.
+- Figure in [§3 · #3 — Projective Completion and Dimensional Reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), after the paragraph beginning “The complex projective line `CP¹` is biholomorphic”.
+<!-- /embedded-at -->

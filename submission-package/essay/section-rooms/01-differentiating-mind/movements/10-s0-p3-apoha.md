@@ -43,6 +43,14 @@ The [[symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewe
 
 The [Indra’s jewel-net whole](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **compares** the selected jewel’s constitutive field with this movement’s account of determination. Its recursive inclusion joins the authored braid only with apoha’s semantic exclusion, conditioned occurrence and saṃkalpa’s world-building still distinguishable. The complete contemplation supplies the positive image before the later two-net encounter.
 
+<!-- figure:dew-on-spider-web -->
+
+![A close photograph of a thin spider's web strung with many round dew drops against a grey background; the two largest drops hold small, inverted images of the surroundings, and the smaller drops catch glints of colour.](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg)
+
+*Image 2 — The optical fact of the jewel net.* A web hung with dew. Each drop holds a small image of its surroundings and of the drops near it, which is the optical fact the jewel-net simile borrows. The drops stay separate while their images enter one another, and the record, following its source, marks exactly that as the point where the likeness ends. It is a modern photograph, not an illustration of the contemplation. Credit: Luc Viatour, *Dew on spider web*, photograph, 15 September 2007. CC BY-SA 3.0. [Record](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md)
+
+<!-- /figure:dew-on-spider-web -->
+
 ## Anchor and transition
 
 The determinate term **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md#name-through-count) with the contrast through which it applies. Recovering the materially constitutive non-selection makes the chosen name answerable without cancelling its positive reach. Apoha’s semantic operation and the native count remain distinct: neither a shared word for exclusion nor an inventory of every absent possibility establishes their relation.

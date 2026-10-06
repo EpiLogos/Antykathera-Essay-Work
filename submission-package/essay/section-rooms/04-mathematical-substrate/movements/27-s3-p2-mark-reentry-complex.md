@@ -23,6 +23,8 @@ Movement 27 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← P
 
 The essay’s Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md#varela-1975-calculus-self-reference-q001). His [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md#varela-1975-calculus-self-reference-q002) leave frequency characterisation for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) must specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing. Varela’s calculus does not itself complete that authorial chain.
 
+<!-- see-figure:re-entry-projective-fork -->*See also Diagram 10, [Re-entry and the projective fork](../../../symbolon/matheme/diagrams/re-entry-projective-fork.md).*<!-- /see-figure:re-entry-projective-fork -->
+
 ## Iterant derivation
 
 [[symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/kauffman-2014-iterants-fermions-dirac-arxiv|Kauffman’s iterants]] make the temporal seam algebraic. Take the alternating process

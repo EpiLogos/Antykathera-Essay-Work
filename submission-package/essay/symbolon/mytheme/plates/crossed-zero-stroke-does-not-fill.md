@@ -29,6 +29,14 @@ tags: [epi-logos/antikythera-essay, argument-map/plate, register/mytheme, statio
 
 # Plate — The Crossed Zero: the stroke does not fill the zero
 
+<!-- figure:crossed-zero-stroke-does-not-fill -->
+
+![Two panels on a paper-coloured ground. Each panel holds a large circle crossed by a bold diagonal stroke. In the left panel, circle and stroke are the same dark ink, captioned "as finished character — the mediating stroke fused with the zero it crosses, the operation no longer seen", with the notation 0 → Ø. In the right panel the identical circle is crossed by the same stroke in deep red; three leader lines label the circle's interior "zero-space — the subject-pole not exhausted as object", the red stroke "the mediating stroke — legible as mediation, nothing is erased", and a small dark square beyond the stroke's upper end "the determinate mark". Below, a monospace line reads 0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↩ 0/1, captioned as the recognition series inscribed as horizon, and the motto "uncrossing is not erasing — the stroke becomes legible as mediation".](crossed-zero-stroke-does-not-fill.svg)
+
+The crossed zero `Ø` fuses the mediating stroke into the zero it crosses: one figure, read twice. On the left the stroke has succeeded so thoroughly that it disappears, and a finished character stands where a relation was. On the right the identical geometry is articulated into its three terms — the zero-space that is not exhausted as an object, the mediating stroke, the determinate mark the mediation makes available. Uncrossing is not erasing: nothing is removed, and the stroke becomes legible as mediation. The recognition series below is inscribed as horizon; the plate performs the first occlusion and its recognition, and no further step.
+
+<!-- /figure:crossed-zero-stroke-does-not-fill -->
+
 ## Proposition
 
 `Ø` gives the first occlusion of the recognition-matheme a visible form: the mediating stroke
@@ -104,7 +112,7 @@ erasing — the stroke becomes legible as mediation".
 - `taylor-2026-core-theorems-pithy` — the native crossed-zero operation and the recognition
   series. No external source is depicted or quoted in the asset.
 
-## Wiring (embedding NOT performed by this ticket)
+## Wiring (candidates at landing; placements listed under Embedded at)
 
 - Candidate embedding: manuscript §1 "The crossed zero", beside the movement's first paragraph.
 - Room route: `section-rooms/02-return-of-zero/` M16 movement and its `P1-CANONICAL-ALIGNMENT.md`
@@ -112,3 +120,14 @@ erasing — the stroke becomes legible as mediation".
 - Legacy brief `image-02-promissory-glyph-plate.md` (threshold typographic plate for
   `(0/1)/(1/0)`) is NOT resolved by this plate — that brief asks for a different, sparer
   object; see the ticket report.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M16), after the paragraph beginning “A zero crossed by a stroke, `Ø`, gives that disappearance”.
+- Figure in [§1 · #3 — The Crossed Zero](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md), after the paragraph beginning “`Ø` is the first occlusion in the essay's native recognition”.
+- Cross-reference in [§4 · #3 — Lacan, Matheme, and Mytheme](../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), after the paragraph beginning “Lacan gives the local cut its precision”.
+<!-- /embedded-at -->
