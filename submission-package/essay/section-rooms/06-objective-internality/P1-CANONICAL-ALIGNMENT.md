@@ -17,7 +17,7 @@ source_id: 06-objective-internality-p1-canonical-alignment
 5. **M41 — Workcell — situated existence** — being somewhere, thrownness, encounter, resistance and availability to others.
 6. **M42 — Quaternal Logic — Transcendent Relation** — differentiation and co-internality through containing wholes.
 
-[S — World and Life](../arguments/products/S-World-and-Life.md) is the parent composition, not a seventh subsection. Subjective Immediacy remains the knower, Objective Internality the means, World the known, and Life / Mind the whole relation.
+[S — World and Life](../arguments/products/S-World-and-Life.md) is the parent composition, not a seventh subsection. Subjective Immediacy remains the knower, Objective Internality the means, World the known, and I-Consciousness the whole relation, with Objective Internality as Life / Mind.
 
 <!-- figure:objective-internality-paired-disclosures -->
 

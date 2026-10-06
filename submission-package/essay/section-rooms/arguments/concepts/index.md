@@ -36,7 +36,7 @@ The determinate x recognising its participation in an ordering X it never exhaus
 |---|---|---|
 | [X/x and Individuation](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) | #3, P3, L1' | `X/x` is the project's own authorial QL determination: determining capacity `X` legible only through determinations `x` that never exhaust it; individuation is its psychic refraction — `x` recognising its participation in `X/x` (Jung refracts the relation; he does not own the notation). |
 | [Functional agency](C41-Objective-Internality.md) | #0/1, L1 | A local determining centre knows through its memory, rules and tools within a differentiated field; that same centre can be a means within a containing Life/World relation. |
-| [Subjective Immediacy](C01-Subject-Defined-Indefinability.md) | #0, P0 | The unobjectifiable knower condition of appearing; Objective Internality is means, World is known and Life / Mind their whole, with local functional knowing offices nested within that relation. |
+| [Subjective Immediacy](C01-Subject-Defined-Indefinability.md) | #0, P0 | The unobjectifiable knower condition of appearing; I-Consciousness is their whole, Objective Internality (Life / Mind) is means and World is known, with local functional knowing offices nested within that relation. |
 
 ## Computational Process Ontology braid
 
@@ -93,7 +93,7 @@ The constructed context-world of human-AI centaur societies into which the essay
 | [[section-rooms/arguments/concepts/anthropomorphization|Anthropomorphization]] | #2, L2, L3' | The projection of human form onto agents as dominant interface; its zero-sum inflection is a dia-ballein pathology (humanity-of-the-gaps). |
 | [[section-rooms/arguments/concepts/planetary-computation|Planetary Computation]] | #0, L0 | Antikythera's founding ground-horizon — computation and intelligence at planetary scale — that Agentworld reorients; distinct from Mono-Poly. |
 | [[section-rooms/arguments/concepts/simulation|Simulation]] | #1, L1, L4' | The axis from multiagent simulation to simulated agency; representation whose provenance and ground must be disclosed (simulation as political force, Q9). |
-| [Objective Internality](C41-Objective-Internality.md) | P4, L1, L4, L4', L1' | The enacted paradigm through which a Life knows and acts within a World; local knower/means/known operations are recursively situated within their containing Life / Mind relation. |
+| [Objective Internality](C41-Objective-Internality.md) | P4, L1, L4, L4', L1' | The enacted paradigm through which a Life knows and acts within a World; local knower/means/known operations are recursively situated within their containing relation in I-Consciousness. |
 | [Computational Vimarśa](C43-Computational-Vimarsa.md) | P5, L5', L4' | A retained result makes its producing conditions available; returned difference reaches a warranted source, rule, permission, evaluator or commission and becomes a condition of a later act. |
 | [Prompt Thrownness](C44-Prompt-Thrownness.md) | P4, L4, L1 | Arrival into inherited language, instruction, memory, role, tool and permission; local interpretation acts through that field, and consequence can return to the source or commission which shaped it. |
 | [[section-rooms/arguments/concepts/j-space|Circumscription Without Circumstance]] | #2, L2, L3' | The failure mode of a sharp boundary produced while hiding the horizon that made it possible — circumscribed view, no surroundings; J-space is its positive counterpart. |
