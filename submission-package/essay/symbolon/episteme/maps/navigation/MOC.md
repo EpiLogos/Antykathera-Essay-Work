@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "e92a0928cb7ae8f601d11747774d01a5134b101b7efb3732d33e93a8d506580c"
+source_digest: "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -20,7 +20,7 @@ This map is generated from the relations authors wrote into the publication body
 
 | Position | Class | Pages | Written relations out | Named | Entrance | Intents |
 |---|---|---|---|---|---|---|
-| #5 | The sovereign essay | 1 | 51 | 18% | [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
+| #5 | The sovereign essay | 1 | 12 | 8% | [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 875 | 10% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
 | #0 | The 48 movements | 48 | 479 | 33% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 188 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
@@ -53,8 +53,8 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 8290 |
-| sources | 1368 |
+| unnamed | 8259 |
+| sources | 1362 |
 | sources (declared) | 782 |
 | consumed-by (declared) | 299 |
 | returns-to | 263 |
@@ -65,7 +65,7 @@ This map is generated from the relations authors wrote into the publication body
 | compares | 114 |
 | qualifies | 106 |
 | historicises | 74 |
-| figures | 55 |
+| figures | 53 |
 | derives | 53 |
 | tests | 34 |
 | embodies | 14 |

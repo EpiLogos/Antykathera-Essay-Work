@@ -1,5 +1,5 @@
 {
-  "source_digest": "e92a0928cb7ae8f601d11747774d01a5134b101b7efb3732d33e93a8d506580c",
+  "source_digest": "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c",
   "builder_version": "1.2.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -9,7 +9,7 @@
       "directory-link": 6,
       "title-or-alias-only": 265,
       "missing-vault-path": 111,
-      "missing-fragment": 1,
+      "missing-fragment": 2,
       "ambiguous-filename": 8
     },
     "admitted": 288,
@@ -22,14 +22,14 @@
   "depth_histogram": {
     "0": 1,
     "1": 64,
-    "2": 817,
-    "3": 202,
+    "2": 803,
+    "3": 216,
     "4": 71
   },
   "max_depth": 4,
   "relation_totals": {
-    "unnamed": 8290,
-    "sources": 1368,
+    "unnamed": 8259,
+    "sources": 1362,
     "sources (declared)": 782,
     "consumed-by (declared)": 299,
     "returns-to": 263,
@@ -40,7 +40,7 @@
     "compares": 114,
     "qualifies": 106,
     "historicises": 74,
-    "figures": 55,
+    "figures": 53,
     "derives": 53,
     "tests": 34,
     "embodies": 14,
@@ -69,9 +69,9 @@
     },
     "essay": {
       "pages": 1,
-      "links": 51,
-      "named": 9,
-      "unnamed": 42,
+      "links": 12,
+      "named": 1,
+      "unnamed": 11,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -775,18 +775,7 @@
       "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE": 3
     },
     "essay": {
-      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
-      "symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/mathematics/images/liber-abbaci-florence-ms-f124r.jpg": 1,
-      "symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg": 1,
-      "symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
-      "symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
-      "symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg": 1,
-      "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg": 1,
-      "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/pollaiuolo-apollo-and-daphne-national-gallery.jpg": 1
+      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1
     },
     "movements": {
       "../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,

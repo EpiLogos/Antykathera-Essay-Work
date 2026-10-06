@@ -8,7 +8,7 @@
       "directory-link": 6,
       "title-or-alias-only": 265,
       "missing-vault-path": 111,
-      "missing-fragment": 1,
+      "missing-fragment": 2,
       "ambiguous-filename": 8
     },
     "admitted": 288,
@@ -1246,7 +1246,7 @@
       "exists": true,
       "current_sha256": "f9e2cc6f2ef2163238bdfb22c8fc49b20b5d31bac3e4f9a777747f2eb324c5ce",
       "changed_since_acceptance": true,
-      "reader_depth": 2
+      "reader_depth": 3
     },
     {
       "record_id": "matheme-torus-cover-winding",
@@ -5755,6 +5755,16 @@
       "line": 140,
       "target": "submission-package/essay/section-rooms/arguments/A14-Computational-Process-Ontology.md",
       "status": "title-or-alias-only"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/figures/objective-internality-paired-disclosures.md",
+      "kind": "markdown",
+      "href": "../../../THE-RETURN-OF-ZERO.md#s5-m37-central",
+      "start": 10514,
+      "end": 10559,
+      "line": 100,
+      "target": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+      "status": "missing-fragment"
     },
     {
       "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md",

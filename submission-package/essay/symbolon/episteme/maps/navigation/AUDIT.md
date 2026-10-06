@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "e92a0928cb7ae8f601d11747774d01a5134b101b7efb3732d33e93a8d506580c"
+source_digest: "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -28,15 +28,15 @@ Workspace lookup reaches 1155 of 1180 pages. The tables below describe that larg
 |---|---|
 | 0 | 1 |
 | 1 | 64 |
-| 2 | 817 |
-| 3 | 202 |
+| 2 | 803 |
+| 3 | 216 |
 | 4 | 71 |
 
 ## By class
 
 | Class | Pages | Links | Named | Unnamed | Orphans | No return | Unreachable |
 |---|---|---|---|---|---|---|---|
-| The sovereign essay | 1 | 51 | 9 | 42 | 0 | 0 | 0 |
+| The sovereign essay | 1 | 12 | 1 | 11 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 875 | 89 | 786 | 0 | 0 | 0 |
 | The 48 movements | 48 | 479 | 160 | 319 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 188 | 66 | 122 | 0 | 2 | 0 |
@@ -90,7 +90,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 ## Unresolved targets
 
 - **Supporting quilt ledgers (non-canonical):** `§2 ·` (14); `§3 ·` (12); `§4 ·` (12); `Colebrooke — Brahmagupta and Bhāskara` (8); `Dyczkowski — Doctrine of Vibration` (7); `submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit` (6); `Pind — Dignāga on Anyāpoha` (5); `The Copula Derivation Chain` (4); `submission-package/essay/section-rooms/arguments/02-objective-internality` (3); `submission-package/essay/section-rooms/arguments/08-deferential-intelligence` (3); `submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE` (3); `submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE` (3)
-- **The sovereign essay:** `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1); `symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/mathematics/images/liber-abbaci-florence-ms-f124r.jpg` (1); `symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg` (1); `symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg` (1); `symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg` (1); `symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg` (1); `symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg` (1); `symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg` (1); `symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/pollaiuolo-apollo-and-daphne-national-gallery.jpg` (1)
+- **The sovereign essay:** `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1)
 - **The 48 movements:** `../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1); `../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg` (1); `../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg` (1); `../../../symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg` (1); `../../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg` (1); `../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg` (1); `../../../symbolon/matheme/topology/images/tokamak-chamber-and-magnetic-fields-schematic.jpg` (1); `../../../symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg` (1); `../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg` (1); `../../../symbolon/matheme/topology/images/mercator-atlas-1595-frontispiece.jpg` (1); `../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/images/giordano-psyche-discovering-the-sleeping-cupid.jpg` (1); `../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg` (1)
 - **Concepts C01–C64 and provenance:** `Mono-Poly Trust` (4); `Hephaestus and the Net` (1); `Return of Zero — Scholarly Source Bank Protocol` (1); `Return of Zero Source Bank Index` (1); `Source Consumption Matrix` (1); `Legacy Reference-Node Deprecation Manifest` (1)
 - **Conjugate arguments A01′–A36′:** `bare wikilinks` (1)

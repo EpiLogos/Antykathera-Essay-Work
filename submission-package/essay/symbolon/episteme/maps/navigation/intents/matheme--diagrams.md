@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "e92a0928cb7ae8f601d11747774d01a5134b101b7efb3732d33e93a8d506580c"
+source_digest: "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Hatcher — Algebraic Topology (2002)](../../../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/hatcher-2002-algebraic-topology.md) · *unnamed* → [The square quotient and the returning path](../../../../matheme/diagrams/torus-square-quotient-and-winding.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M29)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [A Shift the Observations Cannot See, a Rescaling They Can](../../../../matheme/diagrams/softmax-shift-and-rescale.md)
 
@@ -39,7 +39,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Rafailov et al. — Direct Preference Optimization (2023)](../../../sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/rafailov-et-al-2023-dpo.md), [Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)](../../../sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/bradley-terry-1952-paired-comparisons.md) · *unnamed* → [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M38)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [An Atlas of Two Charts on the Unit Circle](../../../../matheme/diagrams/atlas-two-chart-circle.md)
 
@@ -47,7 +47,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *unnamed* → [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M28)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [Dia-Ballein: One Polar Axis, Three Operations](../../../../matheme/diagrams/dia-ballein-signed-operations.md)
 
@@ -55,7 +55,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M20), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [From the Triangle to the Square](../../../../matheme/diagrams/triangle-to-square-construction.md)
 
@@ -63,7 +63,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M25)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
@@ -79,7 +79,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *unnamed* → [§1 · #2 — The Empty Set Generates One](../../../../../section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md), [§1 · #4 — Zero Keeps One Foot Outside Mathematics](../../../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M15)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§1 · #2 — The Empty Set Generates One](../../../../../section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md), [§1 · #4 — Zero Keeps One Foot Outside Mathematics](../../../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§1 · #2 — The Empty Set Generates One](../../../../../section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md), [§1 · #4 — Zero Keeps One Foot Outside Mathematics](../../../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [Re-entry and the Projective Fork](../../../../matheme/diagrams/re-entry-projective-fork.md)
 
@@ -87,7 +87,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *unnamed* → [§3 · #2 — Mark, Re-entry, and Complex Orientation](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md), [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M28)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #2 — Mark, Re-entry, and Complex Orientation](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md), [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #2 — Mark, Re-entry, and Complex Orientation](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md), [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [Syn-Ballein: The Retained Relation](../../../../matheme/diagrams/syn-ballein-retained-relation.md)
 
@@ -95,7 +95,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M21), [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [The Crossed-Zero Recognition Chain](../../../../matheme/diagrams/crossed-zero-recognition-chain.md)
 
@@ -103,7 +103,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M34), [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [The QL Unit as Concentric Mandala — the Eight Determinations](../../../../matheme/diagrams/ql-unit-mandala-eight-determinations.md)
 
@@ -111,7 +111,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M25), [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [The square quotient and the returning path](../../../../matheme/diagrams/torus-square-quotient-and-winding.md)
 
@@ -127,7 +127,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *unnamed* → [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M26), [§3 · #1 — The Spanda Equations and 4+2](../../../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #1 — The Spanda Equations and 4+2](../../../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #1 — The Spanda Equations and 4+2](../../../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [Twelve Fifths, Seven Octaves, One Comma](../../../../matheme/diagrams/pythagorean-comma-fifths-and-octaves.md)
 
@@ -135,7 +135,7 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Scholtz — Algorithms for Mapping Diatonic Keyboard Tunings and Temperaments (1998)](../../../sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md) · *unnamed* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M29)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
 
 ### [What the Derivative Cannot Recover](../../../../matheme/diagrams/calculus-constant-family.md)
 
@@ -143,4 +143,4 @@ Group: `diagrams` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *sources* → [Strang and Herman — Calculus Volume 1 (OpenStax, 2016)](../../../sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/strang-herman-2016-openstax-calculus-v1.md) · *unnamed* → [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md#M25)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)
+**Reached from:** *unnamed* ← [§3 · #0 — Eight Determinations](../../../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), [Matheme Diagrams](../../../../matheme/diagrams/README.md)

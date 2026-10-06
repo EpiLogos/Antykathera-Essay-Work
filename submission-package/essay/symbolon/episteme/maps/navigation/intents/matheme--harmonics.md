@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "e92a0928cb7ae8f601d11747774d01a5134b101b7efb3732d33e93a8d506580c"
+source_digest: "8e69be9b5de2c9a5d7759488e2ca8433f17550c2b32a33d51af984bee565fb6c"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `harmonics` · back to [Matheme — exact operations](matheme.md).
 
 **Implicates:** *grounds* → [Observer, Instrument, and the Musical-Epistemic Return](../../../../matheme/music/observer-instrument.md) · *sources* → [Cymatics and Standing Waves](../../../../../section-rooms/arguments/concepts/reference-notes/cymatics-standing-waves.md), [Taylor — QL Musical Derivation v3 (2026)](../../../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md), [Taylor — Core Theorems Pithy (2026)](../../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) · *returns-to* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md)
 
-**Reached from:** *unnamed* ← [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../THE-RETURN-OF-ZERO.md), [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Harmonics](../../../../matheme/harmonics/README.md)
+**Reached from:** *unnamed* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Harmonics](../../../../matheme/harmonics/README.md)
 
 ### [Harmonics](../../../../matheme/harmonics/README.md)
 
