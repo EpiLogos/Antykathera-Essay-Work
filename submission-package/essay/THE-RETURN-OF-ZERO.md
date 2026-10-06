@@ -2009,17 +2009,17 @@ This gives the earlier limit a positive form. A determinate act can finish witho
 
 A jigsaw begins with a useful promise. The picture on the lid gives the pieces a common destination: this patch belongs to that sky, this edge completes that building. Turning a piece, trying a fit and rejecting a false join make increasingly exact sense under the promised whole. The finished picture is an achievement. Without that initial orientation, the later discovery would have little to disturb.[^s3-jigsaw]
 
+<!-- figure:spilsbury-1766-europe-dissected-map-jigsaw -->
+
+![A hand-coloured map of Europe cut into jigsaw pieces along its borders and coasts and fitted together on a board; several pieces are missing and show the dark board beneath, in the North Sea and the German lands, the English Channel and the western Mediterranean; a title cartouche at lower right reads Europe divided into its kingdoms, 1766.](symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg)
+
+*Image 11 — Spilsbury, Europe divided into its kingdoms.* John Spilsbury's dissected map of 1766, believed to be the first purpose-made jigsaw puzzle: a printed map pasted on board and cut along the borders of countries. The picture exists first and every piece is cut out of it, so each piece's place is fixed by the whole, which is the lid-picture the jigsaw starts from. The set is incomplete, with several pieces missing. The jigsaw of the passage is the essay's authored image and not this puzzle; the object shows the arrangement the passage then takes apart. Credit: John Spilsbury, *Europe divided into its kingdoms, etc.*, 1766, hand-coloured map on board, dissected; British Library, Maps.188.v.12. CC0 1.0 (British Library). [Record](symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md)
+
+<!-- /figure:spilsbury-1766-europe-dissected-map-jigsaw -->
+
 Now the picture's maker enters the world it depicts. A road continues beyond the edge; the building looks different from the other side; a feature hidden by one viewpoint appears from another. At first the answer seems to be more pieces. But pieces added under the old criterion keep extending the same projection. What is missing is not simply another patch of scenery. It is an account of how the picture was made: from where, over what domain, with which omissions, and through which rules another view can meet it.
 
 The pieces begin to change office. They become local charts, each exact over an admitted domain, rather than fragments guaranteed to complete one final view. Their joins must now say how one passes into another. A road's continuation, a change of scale and an occluded face make different demands upon that passage. An honest join may preserve a disagreement or a gap where the translation has not been earned. The lid remains useful as one projection within the atlas. Its local success no longer gives it authority to decide in advance what the traveller can encounter.
-
-<!-- figure:ortelius-typus-orbis-terrarum-1572 -->
-
-![A hand-coloured oval world map in a decorated frame under the title Typus Orbis Terrarum, with the Americas at left, Europe, Africa and Asia at right and a speculative southern continent along the bottom, surrounded by clouds and a Latin motto.](symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg)
-
-*Image 11 — Ortelius, Typus Orbis Terrarum.* Abraham Ortelius's *Typus Orbis Terrarum* in a 1572 printing, the world map that opened his *Theatrum Orbis Terrarum*, the first printed atlas. A single projection draws the whole world on one oval, and the volume that follows it gives each region its own sheet. The book is the historical form of the movement the jigsaw describes: from one box-lid picture to charts that carry their own limits. Credit: Abraham Ortelius, *Typus Orbis Terrarum*, 1572 printing, hand-coloured engraving, from the *Theatrum Orbis Terrarum* (Antwerp). Public domain; reproduction from Wikimedia Commons. [Record](symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md)
-
-<!-- /figure:ortelius-typus-orbis-terrarum-1572 -->
 
 Returning to the building does not undo the journey. The original façade is still recognisable, but it now belongs with the route around it and the previously unseen side. The torus supplied an exact formal witness to one aspect of such return: the surface-address can recur while the lifted path retains a displacement. The journey in the image carries more—revised expectation, another person's account, perhaps a reason to choose a different route. Its whole action reveals how a criterion is preserved by having its authority relocated. The mathematical example does not exhaust that action; it makes one of its relations sharply legible.
 

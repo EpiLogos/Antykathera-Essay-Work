@@ -7,12 +7,12 @@ claim_status: Derived
 source_relation: Argued from
 source_ids: [hatcher-2002-algebraic-topology, nist-dlmf-2026-complex-variable, taylor-2026-core-theorems-pithy, taylor-2026-symbolon-dynamics, taylor-2026-mef-twelve-lenses, taylor-2026-binary-explication]
 figures:
-  - asset: "images/mercator-atlas-1595-frontispiece.jpg"
-    asset_format: "image/jpeg"
-    rights: "public-domain"
-    rights_note: "Printed title page of 1595; the Commons reproduction is marked public domain."
-    source_url: "https://commons.wikimedia.org/wiki/File:Mercator_Atlas_1595_page_5_main_frontispiece.jpg"
-    credit: "Gerardus Mercator, Atlas sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura (Duisburg, 1595), frontispiece. Public domain; reproduction from Wikimedia Commons."
+  - asset: "images/stomatapoll-2012-two-coordinate-charts-and-transition-maps.svg"
+    asset_format: "image/svg+xml"
+    rights: "CC-BY-SA-3.0"
+    rights_note: "Diagram by Stomatapoll (own work); attribution and share-alike apply to the diagram."
+    source_url: "https://commons.wikimedia.org/wiki/File:Two_coordinate_charts_on_a_manifold.svg"
+    credit: "Stomatapoll, Two coordinate charts on a manifold, SVG diagram, 8 December 2012. CC BY-SA 3.0."
 ---
 # Manifold atlas, charts and transition functions
 
@@ -20,11 +20,11 @@ figures:
 
 An atlas makes one space accessible through coordinates whose changes are themselves specified. Let \(M\) be a Hausdorff, second-countable topological space locally homeomorphic to \(\mathbb R^n\). A chart \((U,\phi)\) consists of an open subset \(U\subset M\) and a homeomorphism \(\phi:U\to\phi(U)\), where \(\phi(U)\) is open in \(\mathbb R^n\). An atlas is a family of such charts whose domains cover \(M\). The domain belongs to the manifold; its coordinate image belongs to Euclidean space. Moving between these two is already an operation with an inverse.
 
-![A coloured engraved title page in the form of an arched architectural frame with twisted columns and an armillary sphere on top; inside, a bearded seated Atlas studies a globe held on his knee; a plaque beneath carries the Latin title in capitals.](images/mercator-atlas-1595-frontispiece.jpg)
+![A diagram of a manifold drawn as a closed irregular curve at the top, with two overlapping regions inside it, one green and one violet, sharing a cyan overlap; a dotted arrow runs down from each region to a flat copy of it beside its own pair of coordinate axes, and a pair of dotted arrows between the two flat copies joins their cyan overlaps in both directions.](images/stomatapoll-2012-two-coordinate-charts-and-transition-maps.svg)
 
-> The title page of Gerardus Mercator's *Atlas sive Cosmographicae Meditationes* (1595), which gave the name atlas to a book of maps. The mathematical atlas takes its vocabulary, chart and atlas, from this cartography: a world covered by sheets, each flat and bounded, with the means to pass from one to the next. The record's construction replaces the printed sheets with homeomorphisms and transition functions.
+> Two coordinate charts on a manifold. Each region of the space is carried by its own chart onto a piece of the plane, and on the overlap, drawn in cyan, the two flat copies are joined by transition maps in both directions. The record's definition has these parts: charts that cover the space, an overlap, and coordinate changes with inverses. Neither chart covers the whole space. The words chart and atlas come from cartography, and this diagram shows the mathematical form of the printed atlas.
 >
-> Credit: Gerardus Mercator, *Atlas sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura* (Duisburg, 1595), frontispiece. Public domain; reproduction from Wikimedia Commons.
+> Credit: Stomatapoll, *Two coordinate charts on a manifold*, SVG diagram, 8 December 2012. CC BY-SA 3.0.
 
 For a smooth manifold, the coordinate changes on overlaps must be smooth with smooth inverses. Compatibility makes differentiation independent of the chosen compatible chart. A maximal smooth atlas contains every chart compatible with this structure; maximality specifies which changes are admitted. It makes no claim that all possible objects or processes on the manifold are known.
 

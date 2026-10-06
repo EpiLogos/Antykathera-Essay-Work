@@ -7,12 +7,12 @@ claim_status: Argued
 source_relation: "Paraphrased lexical and historical witnesses; Argued authorial relational development"
 status: T21-developed-reviewed
 figures:
-  - asset: "images/owen-1848-vertebrate-archetype-plate.jpg"
+  - asset: "images/owen-1843-glossary-analogue-and-homologue.jpg"
     asset_format: "image/jpeg"
-    rights: "CC-BY-4.0"
-    rights_note: "Wellcome Collection digitisation under CC BY 4.0; the plate is of 1848."
-    source_url: "https://commons.wikimedia.org/wiki/File:Sir_Richard_Owen,_On_the_archetype_and_homologies..._Wellcome_L0029109.jpg"
-    credit: "Richard Owen, On the Archetype and Homologies of the Vertebrate Skeleton (London: John Van Voorst, 1848), plate II; Wellcome Collection (L0029109). CC BY 4.0."
+    rights: "public-domain"
+    rights_note: "Printed pages of an 1843 book; the Internet Archive scan is of a public-domain work. The image is a crop of one entry from each of two pages."
+    source_url: "https://archive.org/details/lecturesoncompar00owen"
+    credit: "Richard Owen, Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals, delivered at the Royal College of Surgeons in 1843, notes by William White Cooper, revised by Owen (London: Longman, Brown, Green, and Longmans, 1843), Glossary, pp. 374 (Analogue) and 379 (Homologue); Internet Archive copy. Public domain; entries cropped from two pages."
 ---
 
 # Homologia / Analogia — Historical and Relational Branches
@@ -63,11 +63,11 @@ Knowing through a manifestation and that manifestation's dependence upon its sou
 
 Owen's 1843 *Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals* gives the pair an anatomical office. An [analogue](../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md#owen-1843-comparative-anatomy-q001) serves a shared function across different animals; a [homologue](../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md#owen-1843-comparative-anatomy-q002) is the corresponding organ despite variation in form and function. The glossary entries are printed pp.374 and 379, PDF pages 376 and 381 in the selected Darwin Online scan. Function can remain alike where organs differ; an organ can correspond where function changes. The scan's opening title names William White Cooper's notes, revised by Owen, under Lectures on Comparative Anatomy. Both bounded paraphrases are admitted; image-level quotation transcription remains separate.
 
-![A large engraved plate of anatomical drawings: at left a standing human skeleton beside a numbered key of bone names; to its right, in descending rows, the skeletons of a fish, a reptile and a four-legged mammal, all drawn side-on with matching numbers on corresponding bones, and small separate diagrams of vertebrae between them.](images/owen-1848-vertebrate-archetype-plate.jpg)
+![Two cropped strips of a printed glossary, one above the other: the first, from a page headed 374 Glossary, is the entry Analogue, a part or organ in one animal with the same function as another part or organ in a different animal, followed by a cross-reference to Homologue; the second, from a page headed Glossary 379, is the entry Homologue, the same organ in different animals under every variety of form and function.](images/owen-1843-glossary-analogue-and-homologue.jpg)
 
-> A plate from Richard Owen's *On the Archetype and Homologies of the Vertebrate Skeleton* (1848): human, fish, reptile and quadruped skeletons drawn to a single numbered key, so that the same bone carries the same number through each form. It is the picture that Owen's homology makes possible, and it is later than the 1843 lectures this record cites.
+> The two glossary entries of Owen's 1843 lectures that the record cites: Analogue on p. 374 and Homologue on p. 379, cropped from the two pages. An analogue is a part with the same function in a different animal; a homologue is the same organ in different animals under every variety of form and function. This is the wording of the definitions the record paraphrases, in the book it cites, and it shows the pair stated by function and by organ. This copy is the Internet Archive scan of the 1843 edition, not the Darwin Online scan the source house records; the printed pages agree.
 >
-> Credit: Richard Owen, *On the Archetype and Homologies of the Vertebrate Skeleton* (London: John Van Voorst, 1848), plate II; Wellcome Collection (L0029109). CC BY 4.0.
+> Credit: Richard Owen, *Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals, delivered at the Royal College of Surgeons in 1843* (London: Longman, Brown, Green, and Longmans, 1843), Glossary, pp. 374 and 379; Internet Archive copy. Public domain; entries cropped from two pages.
 
 Owen's definitions establish anatomical correspondence and functional likeness through different criteria. A later evolutionary account adds a common-descent question: how did differently formed organs arise from shared ancestry? Its dated source remains to be supplied before that later criterion is attributed historically. The protected history's modern-biological shorthand consequently describes a later disciplinary distinction, rather than wording silently added to Owen's 1843 definitions.
 

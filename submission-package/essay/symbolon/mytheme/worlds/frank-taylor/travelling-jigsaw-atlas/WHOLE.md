@@ -14,12 +14,12 @@ figures:
     rights_note: "NASA photograph; no third-party rights noted. NASA is acknowledged as source and implies no endorsement."
     source_url: "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg"
     credit: "NASA, Apollo 17 crew, The Blue Marble, AS17-148-22727, 7 December 1972. Public domain (NASA)."
-  - asset: "images/ortelius-typus-orbis-terrarum-1572.jpg"
+  - asset: "images/spilsbury-1766-europe-dissected-map-jigsaw.jpg"
     asset_format: "image/jpeg"
-    rights: "public-domain"
-    rights_note: "Sixteenth-century printed map; the Commons reproduction is marked public domain."
-    source_url: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
-    credit: "Abraham Ortelius, Typus Orbis Terrarum, 1572 printing, hand-coloured engraving, from the Theatrum Orbis Terrarum (Antwerp). Public domain; reproduction from Wikimedia Commons."
+    rights: "CC0-1.0"
+    rights_note: "British Library digitisation released under CC0 (public domain dedication); the map is of 1766."
+    source_url: "https://commons.wikimedia.org/wiki/File:Spilsbury_jigsaw_-_John_Spilsbury,_1766_-_BL.jpg"
+    credit: "John Spilsbury, Europe divided into its kingdoms, etc., 1766, hand-coloured map on board, dissected; British Library, Maps.188.v.12. CC0 1.0 (British Library)."
 ---
 
 # The travelling jigsaw
@@ -30,6 +30,12 @@ figures:
 The puzzle begins with its destination already visible. A picture on the box shows what the pieces will become. The maker sets out the edges, builds the frame and sorts the remaining pieces by the marks which promise a place within it. Each successful fit confirms a small part of the anticipated whole. The work is exact, patient and productive: a local fragment acquires a legible relation to its neighbours.
 
 Yet the finished picture has entered the work before the first piece is placed. It supplies the criterion by which every later placement will be judged. The maker can hesitate over a patch of colour while remaining entirely certain what counts as completion. The lid decides which differences belong together, which edge is outside and which apparent anomaly is merely a piece still awaiting its correct position.
+
+![A hand-coloured map of Europe cut into jigsaw pieces along its borders and coasts and fitted together on a board; several pieces are missing and show the dark board beneath, in the North Sea and the German lands, the English Channel and the western Mediterranean; a title cartouche at lower right reads Europe divided into its kingdoms, 1766.](images/spilsbury-1766-europe-dissected-map-jigsaw.jpg)
+
+> John Spilsbury's dissected map of 1766, believed to be the first purpose-made jigsaw puzzle: a printed map pasted on board and cut along the borders of countries. The picture exists first and every piece is cut out of it, so each piece's place is fixed by the whole, which is the arrangement of the box-lid. The record's travelling image is authored and is not a historical puzzle; this object shows the arrangement the record starts from. The set is incomplete, with several pieces missing.
+>
+> Credit: John Spilsbury, *Europe divided into its kingdoms, etc.*, 1766, hand-coloured map on board, dissected; British Library, Maps.188.v.12. CC0 1.0 (British Library).
 
 Frank Taylor’s travelling image begins from this arrangement. It is an authored image of inquiry rather than the record of a historical puzzle. In the [governing development](../../../../../../../the-return-of-zero-central-plan.md), the given box-lid yields to an atlas. In Taylor’s [reconstruction](../../../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), the same puzzle’s existing achievements enter another relation to the world. Initially that world is approached as though all its possible appearances had already been cut into pieces by a maker whose picture requires only assembly.
 
@@ -43,12 +49,6 @@ The puzzle travels into the world it claims to depict. Its maker encounters a tu
 At first the completed assembly can absorb the difficulty as an imperfection in the traveller’s knowledge. Another piece will arrive, another detail will be filled. But an additional piece is still being judged under the same criterion. The change comes when the maker begins to record how a view was made: from where, across which region, under what projection, with which omissions and with what possibility of passing to another view.
 
 The pieces now acquire a different office. They become local charts. Their edges mark limits of usable description; neighbouring charts can overlap rather than merely meet along a cut. Within an overlap, the maker must be able to explain how a position described here appears there. A difference between two reports can then disclose a change of coordinates, a difference in what is being measured, or a disagreement which the available translation does not resolve. The seam becomes an operative relation.
-
-![A hand-coloured oval world map in a decorated frame under the title Typus Orbis Terrarum, with the Americas at left, Europe, Africa and Asia at right and a speculative southern continent along the bottom, surrounded by clouds and a Latin motto.](images/ortelius-typus-orbis-terrarum-1572.jpg)
-
-> Abraham Ortelius's *Typus Orbis Terrarum* in a 1572 printing, the world map that opened his *Theatrum Orbis Terrarum*, the first printed atlas. A single projection draws the whole world on one oval, and the volume that follows it gives each region its own sheet. The book is the historical form of the movement the record describes: from one box-lid picture to charts that carry their own limits.
->
-> Credit: Abraham Ortelius, *Typus Orbis Terrarum*, 1572 printing, hand-coloured engraving, from the *Theatrum Orbis Terrarum* (Antwerp). Public domain; reproduction from Wikimedia Commons.
 
 The box-lid loses its power to predetermine every fit, but picturing continues. A local view can become more accurate as its limits become better known. The regulating whole is carried by the domain, its coverage and the rules of transition. An atlas can be worked through: one enters a chart, crosses through an overlap, learns what changed and returns with the route available. Its unity is realised through these crossings rather than installed as an image which every piece must reproduce.
 
