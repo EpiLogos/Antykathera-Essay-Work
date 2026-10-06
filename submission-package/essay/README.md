@@ -20,7 +20,7 @@ A system can give an exact answer while concealing the conditions that made its 
 - **Follow the longer essay.** The [manuscript](THE-RETURN-OF-ZERO.md) offers continuous prose. Frank is composing it over time; the wider sections remain in development. The [eight section rooms](section-rooms/README.md) let you enter each part and see its supporting work.
 - **Explore the support.** Open the [source index](symbolon/episteme/sources/SOURCE-INDEX.md) for references, or the [reading paths](symbolon/episteme/maps/README.md) to follow a question across sections. Links within a passage lead to the argument, image or source it uses.
 
-Use **Pages** to browse the collection or search it. **Connections** opens the graph of links around the page, its contents and the pages that link back to it. Both controls stay at the top while you read. **Reading home** returns here; **§0/1 · The foundation** returns to the opening room.
+The panel on the left browses the collection and searches it. The panel on the right holds the **Graph** of links around the page, which you can click, drag and zoom, with **On this page** and the pages that link back to it; drag its left edge to give it more room. **Library** opens the Expressions. The title at the top returns here, and the path under each page shows where you are.
 
 ## How the collection is organised
 
