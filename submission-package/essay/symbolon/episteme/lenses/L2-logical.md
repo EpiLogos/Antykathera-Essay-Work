@@ -25,7 +25,7 @@ Grounds on the articulation-cut: Word (the speaking) over Sacrifice (the silence
 
 The six inner sublenses, each tagged with its rotated `Name[note]` / `Power[note]` (chromatic-basis note-tags):
 
-- **L2.0 — Tetralemmaic ground** (`Word[E]` / `Sacrifice[F]`) — pre-logical superposition; the question-space before any corner is occupied.
+- **L2.0 — Aporia** (`Word[E]` / `Sacrifice[F]`) — pre-logical superposition; the question-space before any corner is occupied.
 
 - **L2.1 — IS** (`Logos[F♯]` / `Decision[G]`) — cataphatic affirmation; verified fact, the proportionate commitment to being.
 

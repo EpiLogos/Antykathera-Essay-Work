@@ -33,9 +33,9 @@ The six inner sublenses, each tagged with its rotated `Name[note]` / `Power[note
 
 - **L0.3 — Whom/Which/When** (`Logos[F♯]` / `Decision[G]`) — the pattern-identifying question; what *kind* of thing. The triad, mediation between particulars.
 
-- **L0.4 — Where/Why-fo(u)r** (`Son[G♯]` / `Love[A]`) — the contextual question; the "four" naming the lemniscate where questioning asks about its own conditions.
+- **L0.4 — When / Where?** (`Son[G♯]` / `Love[A]`) — the contextual question; the lemniscate where questioning asks about its own conditions.
 
-- **L0.5 — Why-so/Why-not** (`Image[A♯]` / `Work[B]`) — the integrative question; Aristotle's *pros hen* focal-meaning, analogia. The question that questions questioning and returns to ground transformed.
+- **L0.5 — Why-for?** (`Image[A♯]` / `Work[B]`) — the integrative question; Aristotle's *pros hen* focal-meaning, analogia. The question that questions questioning and returns to ground transformed.
 
 
 ## Derivation at this index
