@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -47,7 +47,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md)
+**Reached from:** *sources (declared)* ← [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md) · *unnamed* ← [§0 Room — Differentiating Mind — Tattvic Descent and Objective Internality](../../../../../section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md)
 
 ### [Canan and Pring — Strategic Lawsuits against Public Participation (Social Problems, 1988)](../../../sources/political-theory-institutions/pring-canan/canan-pring-1988-social-problems/canan-pring-1988-social-problems.md)
 
@@ -79,7 +79,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [Epstein Files Transparency Act (Pub. L. 119-38)](../../../sources/political-theory-institutions/united-states-congress/us-congress-2025-epstein-files-transparency-act/us-congress-2025-epstein-files-transparency-act.md), [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Department of Justice Publishes 3.5 Million Responsive Pages in Compliance with the Epstein Files Transparency Act](../../../sources/political-theory-institutions/united-states-doj/doj-2026-epstein-35-million-pages/doj-2026-epstein-35-million-pages.md)
 
@@ -95,7 +95,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [December 19, 2025 Letter to Congress on Epstein Files Production](../../../sources/political-theory-institutions/united-states-doj/doj-2025-epstein-production-letter/doj-2025-epstein-production-letter.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [December 19, 2025 Letter to Congress on Epstein Files Production](../../../sources/political-theory-institutions/united-states-doj/doj-2025-epstein-production-letter/doj-2025-epstein-production-letter.md)
 
 ### [Fanon — Peau noire, masques blancs (1952; French electronic edition 2011)](../../../sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/fanon-1952-peau-noire-masques-blancs.md)
 
@@ -127,7 +127,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Grégoire — L’unité de langue (4 June 1794)](../../../sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/gregoire-1794-unite-de-langue.md)
 
@@ -143,7 +143,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md)
+**Reached from:** *sources* ← [§0 Room — Differentiating Mind — Tattvic Descent and Objective Internality](../../../../../section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md) · *sources (declared)* ← [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md)
 
 ### [Hobbes — Leviathan (1651)](../../../sources/political-theory-institutions/hobbes/hobbes-1651-leviathan/hobbes-1651-leviathan.md)
 
@@ -151,7 +151,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members](../../../sources/political-theory-institutions/wired/wired-2026-dialog-rankings/wired-2026-dialog-rankings.md)
 
@@ -159,7 +159,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Iakovou — On the Misuse of the Concept of Totalitarianism](../../../sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/iakovou-2022-misuse-totalitarianism.md)
 
@@ -191,7 +191,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](../../../sources/political-theory-institutions/wired/wired-2026-dialog-exposed/wired-2026-dialog-exposed.md)
 
@@ -199,7 +199,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Mata v. Avianca, Inc. — Opinion and Order on Sanctions (2023)](../../../sources/political-theory-institutions/united-states-courts/mata-2023-avianca-sanctions-opinion/mata-2023-avianca-sanctions-opinion.md)
 
@@ -207,7 +207,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md), [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§0 Room — Differentiating Mind — Tattvic Descent and Objective Internality](../../../../../section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [McGeehan — Pfizer to Leave City That Won Land-Use Case (New York Times, 2009)](../../../sources/political-theory-institutions/mcgeehan/mcgeehan-2009-pfizer-to-leave-new-london/mcgeehan-2009-pfizer-to-leave-new-london.md)
 
@@ -239,7 +239,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md) · *unnamed* ← [§0 Room — Differentiating Mind — Tattvic Descent and Objective Internality](../../../../../section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Nationaal Archief — Octrooi voor de VOC (1602)](../../../sources/political-theory-institutions/nationaal-archief/nationaal-archief-voc-octrooi-1602/nationaal-archief-voc-octrooi-1602.md)
 
@@ -247,7 +247,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [NHS England — NHS Federated Data Platform Explained (web page)](../../../sources/political-theory-institutions/nhs-england/nhs-england-fdp-explained/nhs-england-fdp-explained.md)
 
@@ -263,7 +263,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [NHS England — NHS Federated Data Platform Explained (web page)](../../../sources/political-theory-institutions/nhs-england/nhs-england-fdp-explained/nhs-england-fdp-explained.md), [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [NHS England — NHS Federated Data Platform Explained (web page)](../../../sources/political-theory-institutions/nhs-england/nhs-england-fdp-explained/nhs-england-fdp-explained.md)
+**Reached from:** *sources* ← [§5 Room — Objective Internality and Agentic Research](../../../../../section-rooms/06-objective-internality/ROOM-06-objective-internality.md) · *sources (declared)* ← [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [NHS England — NHS Federated Data Platform Explained (web page)](../../../sources/political-theory-institutions/nhs-england/nhs-england-fdp-explained/nhs-england-fdp-explained.md)
 
 ### [Ostrom — Beyond Markets and States (Nobel Lecture, 2009/2010)](../../../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/ostrom-2009-beyond-markets-states-nobel-lecture.md)
 
@@ -287,7 +287,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§5 Room — Objective Internality and Agentic Research](../../../../../section-rooms/06-objective-internality/ROOM-06-objective-internality.md) · *sources (declared)* ← [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Penney — Construction of 500 apartments at Fort Trumbull still a go (The Day, 2024)](../../../sources/political-theory-institutions/penney/penney-2024-fort-trumbull-500-apartments/penney-2024-fort-trumbull-500-apartments.md)
 
@@ -311,7 +311,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0 · #2 — Vikalpa and Saṃkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md) · *unnamed* ← [§0 Room — Differentiating Mind — Tattvic Descent and Objective Internality](../../../../../section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Pring and Canan — SLAPPs: Getting Sued for Speaking Out (1996)](../../../sources/political-theory-institutions/pring-canan/pring-canan-1996-slapps/pring-canan-1996-slapps.md)
 
@@ -327,7 +327,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Torbay — The Work of Donald Ewen Cameron: From Psychic Driving to MK Ultra (2023)](../../../sources/psychology/torbay/torbay-2023-cameron-psychic-driving-mkultra/torbay-2023-cameron-psychic-driving-mkultra.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Torbay — The Work of Donald Ewen Cameron: From Psychic Driving to MK Ultra (2023)](../../../sources/psychology/torbay/torbay-2023-cameron-psychic-driving-mkultra/torbay-2023-cameron-psychic-driving-mkultra.md)
 
 ### [Sevcik — 9 years after SCOTUS’ Kelo ruling, houses seized under eminent domain remain undeveloped (UPI, 2014)](../../../sources/political-theory-institutions/sevcik/sevcik-2014-kelo-undeveloped/sevcik-2014-kelo-undeveloped.md)
 
@@ -367,7 +367,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [The Reich Citizenship Law (15 September 1935) and First Regulation (14 November 1935)](../../../sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/reich-1935-citizenship-law-first-regulation.md)
 
@@ -407,7 +407,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Wolin — Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism (2008)](../../../sources/political-theory-institutions/wolin/wolin-2008-democracy-incorporated/wolin-2008-democracy-incorporated.md)
 
@@ -415,7 +415,7 @@ Group: `political-theory-institutions` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [World Inequality Lab — World Inequality Report 2026](../../../sources/political-theory-institutions/world-inequality-lab/world-inequality-lab-2026-world-inequality-report/world-inequality-lab-2026-world-inequality-report.md)
 

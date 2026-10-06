@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `literature` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Goethe — Selected Poems: Permanence in Change (Nims, 1983)](../../../sources/literature/goethe/goethe-1983-selected-poems-nims/goethe-1983-selected-poems-nims.md)
 

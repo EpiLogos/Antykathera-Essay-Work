@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *consumed-by (declared)* → [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md) · *unnamed* → [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md)
 
-**Reached from:** *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Psychoid Number](../../../../../section-rooms/arguments/concepts/psychoid-number.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *extends* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md) · *compares* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [Plate — The Psychoid Field: Two Descriptions Across One Seam](../../../../mytheme/plates/psychoid-field-one-seam.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Psychoid Number](../../../../../section-rooms/arguments/concepts/psychoid-number.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *extends* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md) · *compares* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [Plate — The Psychoid Field: Two Descriptions Across One Seam](../../../../mytheme/plates/psychoid-field-one-seam.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Bohm — A Suggested Interpretation of the Quantum Theory in Terms of "Hidden" Variables, I and II (1952)](../../../sources/physics/bohm/bohm-1952-hidden-variables-i-ii/bohm-1952-hidden-variables-i-ii.md)
 
@@ -31,7 +31,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Bohr — The Quantum Postulate and the Recent Development of Atomic Theory (Nature, 1928)](../../../sources/physics/bohr/bohr-1928-quantum-postulate-como/bohr-1928-quantum-postulate-como.md)
 
@@ -55,7 +55,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md) · *sources (declared)* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Ernst Chladni — Entdeckungen über die Theorie des Klanges (1787)](../../../sources/physics/chladni/chladni-1787-entdeckungen-klanges/chladni-1787-entdeckungen-klanges.md)
 
@@ -63,7 +63,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md) · *sources (declared)* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Heisenberg — Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik (1927)](../../../sources/physics/heisenberg/heisenberg-1927-anschaulicher-inhalt/heisenberg-1927-anschaulicher-inhalt.md)
 
@@ -95,7 +95,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md) · *sources (declared)* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Moebs, Ling and Sanny — University Physics Volume 1 (OpenStax, 2016)](../../../sources/physics/moebs/moebs-ling-sanny-2016-university-physics-v1/moebs-ling-sanny-2016-university-physics-v1.md)
 
@@ -103,7 +103,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§3 · #4 — Topology and Musical Resolution](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) · *unnamed* ← [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Nielsen and Chuang — Quantum Computation and Quantum Information (10th anniversary ed., 2010)](../../../sources/physics/nielsen/nielsen-chuang-2010-quantum-computation/nielsen-chuang-2010-quantum-computation.md)
 
@@ -111,7 +111,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§3 · #3 — Projective Completion and Dimensional Reframing](../../../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) · *unnamed* ← [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Pauli — The Influence of Archetypal Ideas on the Scientific Theories of Kepler (Silz trans., 1955)](../../../sources/physics/pauli/pauli-1955-kepler-archetypal-ideas/pauli-1955-kepler-archetypal-ideas.md)
 
@@ -119,7 +119,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md) · *unnamed* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Pauli — Writings on Physics and Philosophy (Springer, 1994)](../../../sources/physics/pauli/pauli-1994-writings-physics-philosophy/pauli-1994-writings-physics-philosophy.md)
 
@@ -127,7 +127,7 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Pauli — Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren (1925)](../../../sources/physics/pauli/pauli-1925-abschluss-elektronengruppen/pauli-1925-abschluss-elektronengruppen.md)
 
@@ -135,4 +135,4 @@ Group: `physics` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)

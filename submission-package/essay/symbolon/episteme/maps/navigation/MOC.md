@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -21,8 +21,8 @@ This map is generated from the relations authors wrote into the publication body
 | Position | Class | Pages | Written relations out | Named | Entrance | Intents |
 |---|---|---|---|---|---|---|
 | #5 | The sovereign essay | 1 | 13 | 8% | [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
-| #0 | The rooms — waypoints, alignments, reading routes | 20 | 875 | 10% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
-| #0 | The 48 movements | 48 | 479 | 33% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
+| #0 | The rooms — waypoints, alignments, reading routes | 20 | 1074 | 19% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
+| #0 | The 48 movements | 48 | 505 | 45% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 188 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 109 | 911 | 55% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 148 | 1008 | 49% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
@@ -53,22 +53,22 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 8260 |
-| sources | 1362 |
-| sources (declared) | 782 |
+| unnamed | 8303 |
+| sources | 1487 |
+| sources (declared) | 1033 |
 | consumed-by (declared) | 299 |
 | returns-to | 263 |
-| grounds | 214 |
-| defines | 169 |
-| extends | 153 |
+| grounds | 235 |
+| defines | 177 |
+| extends | 158 |
 | returns-to (declared) | 125 |
-| compares | 114 |
-| qualifies | 106 |
-| historicises | 74 |
-| figures | 53 |
-| derives | 53 |
-| tests | 34 |
-| embodies | 14 |
+| compares | 115 |
+| qualifies | 112 |
+| historicises | 77 |
+| derives | 60 |
+| figures | 54 |
+| tests | 38 |
+| embodies | 15 |
 | sources (declared passage) | 12 |
 | companion notes (declared) | 10 |
 | presages | 8 |

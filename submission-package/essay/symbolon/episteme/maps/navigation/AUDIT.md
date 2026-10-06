@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -37,8 +37,8 @@ Workspace lookup reaches 1155 of 1180 pages. The tables below describe that larg
 | Class | Pages | Links | Named | Unnamed | Orphans | No return | Unreachable |
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 13 | 1 | 12 | 0 | 0 | 0 |
-| The rooms — waypoints, alignments, reading routes | 20 | 875 | 89 | 786 | 0 | 0 | 0 |
-| The 48 movements | 48 | 479 | 160 | 319 | 0 | 0 | 0 |
+| The rooms — waypoints, alignments, reading routes | 20 | 1074 | 204 | 870 | 0 | 0 | 0 |
+| The 48 movements | 48 | 505 | 227 | 278 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 188 | 66 | 122 | 0 | 2 | 0 |
 | Matheme — exact operations | 109 | 911 | 502 | 409 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 148 | 1008 | 496 | 512 | 0 | 118 | 0 |
@@ -75,6 +75,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 |---|---|---|
 | `working/sources-texts-references` | 122 | `working/sources-texts-references/QL-Essay-Rewrite.md` (49); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (22); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (13) |
 | `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
+| `working/_to_delete` | 32 | `working/_to_delete/2026-09-25-retire/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-DECISIONS.md` (20); `working/_to_delete/2026-09-25-retire/final-argument-quilt-2026-08-23-signal-and-review/CURRENT-GROUND-AND-CORPUS-MANIFEST.md` (3); `working/_to_delete/2026-09-25-retire/harmonisation-2026-08-18-objective-internality-capstone/OBJECTIVE-INTERNALITY-48-MOVEMENT-TRAVERSAL.md` (3) |
 | `working/s01-hardening-2026-10-01` | 31 | `working/s01-hardening-2026-10-01/M05-REWRITE.md` (10); `working/s01-hardening-2026-10-01/M04-REWRITE.md` (8); `working/s01-hardening-2026-10-01/M06-REWRITE.md` (7) |
 | `working/antykathera-resources` | 14 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (13); `working/antykathera-resources/antykathera-site-copy.md` (1) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
@@ -88,7 +89,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 
 ## Unresolved targets
 
-- **Supporting quilt ledgers (non-canonical):** `§2 ·` (14); `§3 ·` (12); `§4 ·` (12); `working/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-DECISIONS` (11); `CAPSTONE-DECISIONS` (9); `Colebrooke — Brahmagupta and Bhāskara` (8); `Dyczkowski — Doctrine of Vibration` (7); `submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit` (6); `Pind — Dignāga on Anyāpoha` (5); `The Copula Derivation Chain` (4); `submission-package/essay/section-rooms/arguments/02-objective-internality` (3); `submission-package/essay/section-rooms/arguments/08-deferential-intelligence` (3)
+- **Supporting quilt ledgers (non-canonical):** `§2 ·` (14); `§3 ·` (12); `§4 ·` (12); `Colebrooke — Brahmagupta and Bhāskara` (8); `Dyczkowski — Doctrine of Vibration` (7); `submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit` (6); `Pind — Dignāga on Anyāpoha` (5); `The Copula Derivation Chain` (4); `submission-package/essay/section-rooms/arguments/02-objective-internality` (3); `submission-package/essay/section-rooms/arguments/08-deferential-intelligence` (3); `submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE` (3); `submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE` (3)
 - **The sovereign essay:** `symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1); `symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg` (1)
 - **The 48 movements:** `../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg` (1); `../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg` (1); `../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg` (1); `../../../symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg` (1); `../../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg` (1); `../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg` (1); `../../../symbolon/matheme/topology/images/tokamak-chamber-and-magnetic-fields-schematic.jpg` (1); `../../../symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg` (1); `../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg` (1); `../../../symbolon/matheme/topology/images/stomatapoll-2012-two-coordinate-charts-and-transition-maps.svg` (1); `../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/images/giordano-psyche-discovering-the-sleeping-cupid.jpg` (1); `../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg` (1)
 - **Concepts C01–C64 and provenance:** `Mono-Poly Trust` (4); `Hephaestus and the Net` (1); `Return of Zero — Scholarly Source Bank Protocol` (1); `Return of Zero Source Bank Index` (1); `Source Consumption Matrix` (1); `Legacy Reference-Node Deprecation Manifest` (1)

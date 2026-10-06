@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,7 +23,7 @@ Group: `history-philosophy-of-science` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Frank, Gleiser, and Thompson — The Blind Spot (2024)](../../../sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/frank-gleiser-thompson-2024-blind-spot.md)
 
@@ -31,7 +31,7 @@ Group: `history-philosophy-of-science` · back to [Episteme · Source houses](ep
 
 **Implicates:** *consumed-by (declared)* → [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A31 — Deferential Intelligence](../../../../../section-rooms/arguments/A31-Deferential-Intelligence.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md)
 
-**Reached from:** *sources* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING-00-integral-threshold.md), [§0/1 · #1 — Define the Subject Without Making It an Object](../../../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md), [§0/1 · #3 — The Formal-Limit Genealogy](../../../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-process-systems-science.md), [Process, Systems, and Science — From Substance to Participating Field](../../../histories/traditions-and-disciplines/process-systems-science/HISTORY-process-systems-science.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *compares* ← [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *sources (declared)* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING-00-integral-threshold.md), [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *unnamed* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING-00-integral-threshold.md), [§0/1 · #3 — The Formal-Limit Genealogy](../../../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md), [Process, Systems and Science — Historical Branches and Their Returns](../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-process-systems-science.md), [Process, Systems, and Science — From Substance to Participating Field](../../../histories/traditions-and-disciplines/process-systems-science/HISTORY-process-systems-science.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *compares* ← [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *sources (declared)* ← [§0/1 Reading Route — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/READING-00-integral-threshold.md), [§0/1 · #3 — The Formal-Limit Genealogy](../../../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md), [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Formal Limit — Source-Specific Limits and Their Consequences](../../../dossiers/formal-limit.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md)
 
@@ -55,7 +55,7 @@ Group: `history-philosophy-of-science` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Kekulé — Benzolfest Address (1890)](../../../sources/history-philosophy-of-science/kekule/kekule-1890-benzolfest-address/kekule-1890-benzolfest-address.md)
 
@@ -79,7 +79,7 @@ Group: `history-philosophy-of-science` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Nothaft — Medieval Europe's Satanic Ciphers (2020)](../../../sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/nothaft-2020-satanic-ciphers.md)
 
@@ -87,7 +87,7 @@ Group: `history-philosophy-of-science` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Nothaft Satanic Ciphers](../../../../../section-rooms/arguments/concepts/reference-notes/nothaft-satanic-ciphers.md)
 
-**Reached from:** *sources* ← [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md), [Mathematics — From the Empty Place to Recursive Return](../../../histories/traditions-and-disciplines/mathematics/HISTORY-mathematics.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§1 Room — The Return of Zero — History, Empty Set, and Symbolic Linkage](../../../../../section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md), [Zero Reception — The Sign and the Practice That Receives It](../../../dossiers/zero-reception.md), [Mathematics — Changed Permissions and Retained Conditions](../../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md), [Mathematics — From the Empty Place to Recursive Return](../../../histories/traditions-and-disciplines/mathematics/HISTORY-mathematics.md) · *qualifies* ← [§1 · #0 — A Sign Migrates Between Worlds](../../../../../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md) · *sources (declared)* ← [§1 · #0 — A Sign Migrates Between Worlds](../../../../../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Owen — Lectures on Comparative Anatomy (1843)](../../../sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md)
 
@@ -103,7 +103,7 @@ Group: `history-philosophy-of-science` · back to [Episteme · Source houses](ep
 
 **Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
 
-**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Tesla — My Inventions (Electrical Experimenter, 1919)](../../../sources/history-philosophy-of-science/tesla/tesla-1919-my-inventions/tesla-1919-my-inventions.md)
 

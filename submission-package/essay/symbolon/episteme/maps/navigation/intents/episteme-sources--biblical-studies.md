@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d"
+source_digest: "ae29dbb5d2d0eea5201563e9b89483f801163aff5130b747134b2b2841a6d1d5"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -31,7 +31,7 @@ Group: `biblical-studies` · back to [Episteme · Source houses](episteme-source
 
 **Implicates:** *sources* → [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md) · *qualifies* → [Whole Field — Apportionment / Economy](../../../etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy.md)
 
-**Reached from:** *sources* ← [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Apportionment / Economy — Historical Branches](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md) · *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages](../../../sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/hebrew-bible-mechon-mamre-jps1917.md)
 
@@ -55,7 +55,7 @@ Group: `biblical-studies` · back to [Episteme · Source houses](episteme-source
 
 **Implicates:** *unnamed* → [Jung — Psychology and Religion: West and East, CW 11 (1969)](../../../sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md)
 
-**Reached from:** *sources* ← [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md), [Avatar · image · mask · idol](../../../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) · *sources (declared)* ← [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md)
+**Reached from:** *sources* ← [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md), [Avatar · image · mask · idol](../../../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) · *sources (declared)* ← [§5→0 · #4 — Idealism as Horizon](../../../../../section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md) · *unnamed* ← [§5→0 Room — Epi-Logos and 4:2 Technē — The Instrument Returns](../../../../../section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md)
 
 ### [The Gospel according to St. John — KJV, eBible eng-kjv2006 digital witness](../../../sources/biblical-studies/anonymous/biblical-john-kjv-ebible-eng-kjv2006/biblical-john-kjv-ebible-eng-kjv2006.md)
 
