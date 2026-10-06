@@ -44,7 +44,7 @@ Uncrossing the zero therefore means leaving the stroke in place and letting it b
 
 The figure carries three terms even before all three are written: the zero-space, or subject-pole, which cannot be exhausted as an object; the mediating stroke through which determination occurs; and the determinate world or mark that the mediation makes available. The error of `Ø` lies in mediation becoming invisible through its own success. "I see the world" contracts into an apparent `I / world` opposition because the seeing has disappeared into the first term, and §0 already gave that hidden middle a positive anatomy, to which the crossed zero adds a compact sign for its occlusion.
 
-## The gap is constitutive
+## The gap is constitutive, not a reserve of unexplained functions
 
 The crossed zero changes the meaning of the gap. Once the slash is recognised as mediation, the gap between ground and mark is no dark interval waiting for one more object to fill it. Empirical gaps can close, mechanisms can become inspectable, and capacities can migrate across substrates without touching the distinction at issue, and what becomes clearer is the **means**: how a determination is produced, inherited, revised and returned.
 
