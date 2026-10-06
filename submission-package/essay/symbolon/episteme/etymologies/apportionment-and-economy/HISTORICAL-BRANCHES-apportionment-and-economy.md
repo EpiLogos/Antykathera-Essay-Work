@@ -21,7 +21,7 @@ Taylor's [earlier lexical inquiry](HISTORY-apportionment-and-economy.md) opens t
 <a id="e6-names"></a>
 ### The name and the numbered share
 
-[LSJ’s νέμω entry](../../sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/lsj-1940-greek-english-lexicon.md#lsj-1940-greek-english-lexicon-q009) attests distributing portions, assigning honour or privilege and, in the middle voice, holding something as one’s portion. Meat, property and land supply different examples. Giving and possessing a share are related acts in this semantic field, and the selected uses give no fixed chronology from pastoral life to every later law.
+[LSJ’s νέμω entry](../../sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/lsj-1940-greek-english-lexicon.md#lsj-1940-greek-english-lexicon-q009) attests distributing portions, assigning honour or privilege and, in the middle voice, holding something as one’s portion. Meat, property and land supply different examples. Giving and possessing a share are related acts in this semantic field, and the selected uses give no fixed chronology from pastoral life to every later law. The same verb covers giving a share and holding one, and that double range is what lets the field put the distributor and the holder into one relation and ask whether the holder can answer back to the one who distributes.
 
 [Νόμος is related to νέμω in LSJ](../../sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/lsj-1940-greek-english-lexicon.md#lsj-1940-greek-english-lexicon-q003), with customary-practice and law senses. Differently accented νομός remains a separate entry. The lexical connection makes pasture one source of the word's range, and it leaves the origin of the state open.
 

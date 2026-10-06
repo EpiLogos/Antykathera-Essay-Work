@@ -338,3 +338,134 @@ changed: four of seven negation-dense paragraphs (the 名 office, the name-as-ad
 ### AREA 5 SUMMARY
 195 files in list; changed 133; left unchanged 62 (24 verbatim site-copy aphorism blocks + site-content-passages; 12 lens extracts; 4 figure records; 6 history companions + histories README; 7 etymology WHOLE/HISTORICAL/SOURCE-ROUTES files in voice; 5 matheme diagram records, computation README, diagrams README; trust-faith path).
 Words 214,263 → 218,688. Checked after writing: frontmatter byte-identical in every changed file; every `](…)`, `[[…]]` target and `<a id>` / `^id` anchor in the list unchanged (set comparison against HEAD); figure and embedded-at comment blocks unchanged; no odd `$$`.
+
+## STAGE 2 (full-reading pass requested by coordinator)
+
+### histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 5135 → ~5300
+changed: #0 ¶3 was a run of the six arbitration relations named in sequence with no case; rebuilt through the 1539 ordinance (criterion, frame, crisis, hybris, regard, reconciliation, with apportionment asking who bears the cost of the form). Branch XII: added the signed-arithmetic reading of classification (the classifier's `+2` is the classified person's `−2`; `(−1)/(+1)` keeps both poles answerable), marked Argued, grounded in A13 #1 and matheme/dia-syn/dia.md; rebuilt the nouned "Execution distributes…" paragraph; Ostrom boundary stated positively. Chronology and attribution (1209/1229/1271, 1539 arts. 110–111, 1794, 1861/1868, 1935, 1946, 2000, 2020, 2023), the Lunel letter, Manzoni, Wales/Ireland/Scotland, Hebrew revival and Mandate paragraphs read whole and left: dated, carrier-bound and in voice.
+enriched from: A13, matheme/dia-syn/dia.md, arbitration and apportionment WHOLE-FIELD pages
+for Frank: the "twelve branches" are all in HISTORY; Minervois Biscione and "differential occultation of qualitative mathesis" are marked unestablished in the page and left so.
+
+### histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 3514 → ~3700
+changed: #0 ¶4 (six relations listed as a run of bare statements) rebuilt with a case for each (Number Six, the score, Poseidon's surety); Homeric section: added the signed-arithmetic amplification (spectators' `+2` as the lovers' `−2`; Hermes's cancellation `(−1)+(+1)=0`), Argued, with a link to the whole telling and the **figures** relation word; crowd section: added A13's reading of the Le Bon/Jung/Desmet/Iakovou sequence (the public's `+2` as the scapegoat's `−2`), Argued; the Agentworld mirror paragraph untangled; #5→0 "Finite power…" paragraph rebuilt; one disclosure/regard paragraph made positive. Dates, editions and carrier limits (1895, 1938/1954/1955, 1952, 2017, 2022, 2023, PyTorch 2.9, February 2026 report with its "six/seven layers" discrepancy) read whole and left.
+enriched from: matheme/dia-syn/dia.md, A13 #3, WHOLE.md of the Ares–Aphrodite telling (calibrated)
+for Frank: none
+
+### histories/encounters-and-transmissions/myth/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 3560 → ~3640
+changed: #1 gained the signed-arithmetic amplification (arrested polarity `(−1)/(+1)`, spectators' `+2` as the lovers' `−2`, Hermes's `(−1)+(+1)=0`), Argued, with the song kept as the narration it is; quaternity, mirror and Antikythera paragraphs untangled (negations → statements). Hesiod/Homer/Burkert/Brown/Phillips/Detienne–Vernant/Huayan/Nietzsche/Gebser/Jorjani sections read whole; chronology and attribution carriers (Mackenzie's allusion to Od. 21 vs. the Book 8 song; Dolmage-mediated Detienne–Vernant; the unrecovered Jorjani chapters) left as written, nothing added.
+for Frank: none
+
+### histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 2876 → ~3020
+changed: every section ended with one to five one-line paragraphs of the form "X remains Y. This operation returns-to [movement]" (list-like, announcing). Merged each group into one paragraph in which the sentence says what result the movement receives (relation word kept, every link target kept). #2: added the signed-arithmetic form of the cut-accounting contrast (`(−1)/(+1)` keeps the zero through which each sign has its sense; `(−1)+(+1)=0` cancels it), grounded in A13 and dia.md, so the "bar, exclusion, slash" comparison says what is compared. Negation-first sentences about Wittgenstein, Spinoza, SEED and the Adleman/Vanderwees p. 225 passage stated positively. Chronology (PSV, Tractatus 1922, PI 1953 §§43, 197–202, 241–242, Lacan 6 Jan 1972, Brockwood 18 May 1975, Rotman 1987, SEED 1992/1996/1999, Transformer 2017) and attribution carriers read whole and unchanged. Note "Q27's direct comparison" (#0) is an opaque record pointer; left (address, not prose) — for Frank if you want it resolved.
+for Frank: "Q27" in #0 ¶5 has no visible referent on the page.
+
+### histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 2843 → ~2900
+changed: added the matheme reading of the Śiva–Śakti–object triad (`0`, `/`, `1`; `0/1` and `1/0` as orientations), marked Taylor's, Argued, with Dyczkowski's exposition credited only for the triad; four negation-first sentences (Śrīharṣa, Jung carriers, Logos culmination, Sanskrit etymology) restated positively. Chronology and attribution read whole and left: Colebrooke 1817 and Wilson 1837, Singh 1988, Dyczkowski 1989/2000 reprint, the transcript's pp. 60–68, 69–75, 78–81 stopping in p. 81, Jizang/Dōgen as East Asian reception in Priest, kārikās XIX, XXIII, XXIV, XXVII, XXIX. The page was already in voice; the rest stays.
+enriched from: dossiers/indian-philosophy.md (triad), core theorems spine (pramātṛ/pramāṇa/prameya)
+for Frank: none
+
+### histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 2758 → ~2830
+changed: #0 and #4 amplified through the matheme: the strung bow as the held polarity `(−1)/(+1)` and the slackened string as cancellation `(−1)+(+1)=0` (B51); the two gatherings with cancellation and appropriation in both chiralities (`+2`/`−2`), all marked Taylor's reading, Argued, grounded in A13/dia.md and the calibrated bow–lyre treatment of the Ares–Aphrodite whole. Three negation-first sentences stated positively. Chronology and attributions read whole and left: B51 via Hippolytus with palintropos/palintonos (Mackenzie 2021), Metaphysics IV.2 1003a33–b19, I.1, I.3, IV.3, EN V.3–5, Politics I.8–10, Freeth 2006/2021, Kaplan pp. 14–27, Spinoza letter 2 June 1674, Nietzsche §§1 and 21, Heidegger 1951/1975, Detienne–Vernant 1974/1978.
+for Frank: none
+
+### histories/traditions-and-disciplines/psychology/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 2560 → ~2640
+changed: the closing "Source and implementation standing" repeated #2's A21 paragraph word for word and #4's Van Eenwyk paragraph; each now says only what the standing section adds (the provenance debt), with the arguments left where they are made; missing blank line before the standing heading restored. Desmet paragraph gained A13's signed-arithmetic reading of the crowd sequence (the public's `+2` as the excluded figure's `−2`, Argued). Eight negation-first sentences (Le Bon, Neumann, becoming undivided, Gebser, persona/collective) stated positively. Jung/Aion (§§1–5, 13–19, 43–49, 402–413, 1979 paperback vs 1978 hardcover), Pauli egg (four days apart, mid-March, no year), Lacan 6 Jan 1972 at Sainte-Anne, Price pp. 80–81 and 86, Darmon 1992, Atmanspacher 2020, Courtney 2019, Daza 2016, Gebser pp. 11–21, 24–28, 470–86 and Agentworld pp. 13–14, 35–36, 53 read whole and unchanged.
+for Frank: none
+
+### histories/traditions-and-disciplines/mathematics/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 2480 → ~2570
+changed: #1 gained the two offices of zero in the signed arithmetic (terminus of `(−1)+(+1)`, axis of `(−1)/(+1)`; spine §IV: "both lines pass through a zero"), Argued, Taylor's; five negation-first sentences restated. Re-verified the mathematics on the page: `6·0=17·0`; mediant of 1/2 and 2/3 is 3/5; NOR constructions; D=diag(1,−1), η swap: η²=I, ηD=−Dη, (Dη)²=−I; loop (0,0)→(2,1); 531441/524288; 16/9·9/8=2. Chronology and attribution read whole and unchanged: Brahmagupta XVIII.31, 34 (p. 339), Bhāskara I.14, I.16 (pp. 137–138), Colebrooke 1817, Kaplan pp. 90–115 and 203–215, Nothaft 2020, Sheffer 1913, Russell 1908, Gödel 1931, Kauffman 2014 pp. 27–28, Freeth 2006/2021.
+for Frank: none
+
+### histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 2089 → ~2250
+changed: #0 ¶3 and #1 ¶3 rebuilt positively (negation-first); #1 gains the two offices of zero (admission = terminus of `(−1)+(+1)`; return restores `(−1)/(+1)` answerable); #2 gains the `+2`/`−2` reading of the Ø/X split (representing centre appropriates at +2, world-as-object at −2), Argued; Heidegger/Gebser, Freud 1915, Neumann and #5→0 negations restated. Chronology and attributions unchanged (Gebser pp. 11–21, Jung §§746–757, Freud 1915 SE 14, Neumann 1954, Colebrooke pp. 137–138, 339).
+for Frank: the Ø/X `±2` reading is mine, built from A13 and the spine; strike it if the chirality of the split should be the other way (centre at −2).
+
+### histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-… — stage 2 DONE (read whole)
+words: 1583 → ~1640
+changed: ten negation-first or announcing sentences restated positively (route/influence, Cusa image, Whitehead objective immortality, Bergson/Whitehead units, Spencer-Brown/Varela, energy-based learning, first-person appearing, Bohm dialogue, mirror vocation); #4 gains the live loop `(−1)/(+1)` against the hardened `+2`/`−2` script, Argued. Chronology and attributions read whole and unchanged (Pogson 1913 carrier, Whitehead 1978 corrected carrier, Varela 1975, LeCun 2006 prepublication, Freeth 2006).
+for Frank: none
+
+### etymologies/encounter-region-name-count/WHOLE-FIELD-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 4370 → ~4650
+changed: #3 count paragraph given its case (electoral roll / census / flood households) and the signed reading of a count as the cut `(−1)/(+1)` (cancellation when excluded drop out; appropriation `+2`/`−2` when counted are taken as the whole), Argued; link text "sym-ballein" → "syn-ballein" (target unchanged) with `(0/1)/(1/0)` named; #4 reciprocal paragraph names the refusal of address as `+2`/`−2` and countenance as return to clean oscillation; Number Six paragraph rebuilt from the prisoner WHOLE's own finding (Village runs Encounter-in-Region and Name-through-Count, withholds the other two) and read as appropriation/cancellation; one scenery negation restated.
+for Frank: the electoral-roll/flood case is mine (an illustration, not from a source); strike or swap for a case you prefer.
+
+### etymologies/encounter-region-name-count/HISTORICAL-BRANCHES-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 2051 → ~2200
+changed: the four con-histories paragraph now says what the divergence of descents makes possible (the comparison must say what each action does inside a relation, which is the work of the six terms); pruning branch gains the signed reading (pruned side = `−1` of the count's cut; forgetting it = cancellation), Argued. Every "not collated here" boundary, locator, and dictionary attribution kept.
+for Frank: none
+
+### etymologies/homology-and-analogy/WHOLE-FIELD-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 3597 → ~3860
+changed: #0 gains the paragraph the field lacked, what the attested LSJ senses of ὁμολογία (account, assent, compact in surrender) and ἀναλογία (mathematical proportion widening to correspondence) make possible: the field puts "who holds the crossing" and "in what respect" to every case; #1 Dia/Syn paragraph carries the notation in situ, with the surrender compact as appropriation in both chiralities (`+2`/`−2`) and the test of a homology as survival of being read from the `−2` end, Argued; #2 proportional analogy gains `16/9 × 9/8 = 2`; #4 dia-ballein paragraph gets full signed forms, syn-ballein link text corrected from "Sym-ballein" with `(0/1)/(1/0)`; one timeless-doctrine sentence restated. No morphology claim added (the file's own boundary on "homou/same + logos" kept).
+for Frank: #4 "Returns through the developed consumers" (about 25 link-led paragraphs, lines ~118–152) still reads as a run of single-move paragraphs; I tightened the dia/syn pair only. It wants your decision on whether it is a ledger to be left as such or merged into five or six reasoning paragraphs.
+
+### etymologies/homology-and-analogy/HISTORICAL-BRANCHES-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 2231 → ~2330
+changed: Owen's analogue/homologue pair given what it makes possible (same work vs persisting part; analogy claim stops at shared work); two negation-led sentences restated. Locators (Owen pp. 374, 379, PDF 376, 381; LSJ q007/q008; Ross 1003a33–1003b19; Plato Symp. 187b, Theaet. 164c; Arist. Top. 110a33, NE 1131a31) unchanged.
+for Frank: none
+(correction to the homology-and-analogy WHOLE-FIELD entry above, stage 2: the "Returns through the developed consumers" run was then merged, not left for Frank. Its 18 single-move paragraphs became five grouped paragraphs (logics; mathematical returns; containing-relation transformations; order of dependence; imaginal wholes), each opening on the one proposition its members share; every sentence and link kept, only the grouping changed. Remove that for-Frank item.)
+
+### etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 2265 → ~2300
+changed: found in voice (lexical senses lead each section and each says what the word makes possible: Genesis as `0`, Paradigm as `/` that reveals by withholding, Project as the thrown-forth `1`, Epi-Logos as the achieved relation answerable to its own achievement). One repair: the Paradox section's "`±2`" now gives the cancellation `(−1)+(+1)=0` and both chiralities of appropriation, `+2` for the pole that takes the span and `−2` for the pole it is taken from, as a duality hardened into opposition.
+for Frank: none
+
+### etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md — stage 2 read whole, stays
+words: 527 unchanged. An index shelf where enumeration is itself the point (fault 8's carve-out); each route states the office it licenses and the office that stays authorial. Nothing to rebuild.
+
+### etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 3615 → ~3900
+changed: Nomos usurpation-of-measure gains the signed reading (criterion-holder `+2`, challenger `−2`; cancellation when the challenge is scored away), Argued; Grégoire's 1794 remedy read as cancellation by the rule of one language that appropriates the span (capital French `+2`, regional idioms `−2`) with `(−1)/(+1)` as the retained alternative, Argued; Homer surety paragraph gains the calibrated Ares–Aphrodite–Hephaestus–Poseidon WHOLE as a **figures** link and its arithmetic (gods `+2`, lovers `−2`, Apollo/Hermes cancellation, Poseidon as the first act to restore a bearer); natio negation restated as attested senses; the nine single-move "Returns through the developed consumers" paragraphs merged into three grouped paragraphs (mathematical movements; instrument-situated accounts; accounts offered to another person), every link kept. Quotations (“Arbitration is what happens…”, “Fides is prior to arbitration…”) exact and unmoved.
+for Frank: the Grégoire signed reading is mine and goes beyond what the 1794 excerpt itself says (it reads the remedy, not his intent); strike if you want the signed arithmetic kept off a named historical person.
+
+### etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES-… — stage 2 DONE (read whole; was unchanged in stage 1)
+words: 2394 → ~2480
+changed: natio gets what its attested run (birth, stock, kind, people) makes possible for neo-nativity; nomos gets what the verb's distribution of portions makes possible. Twelve branches and documentary sequence read whole: chronology (1209, 1229, 1271, 1494, 1509, 1539, 1794, 1847, 1868, 1913) and attributions unchanged and consistent with the development page.
+for Frank: none
+
+### etymologies/symbol-account-and-trust/WHOLE-FIELD-… — stage 2 DONE (read whole; was sampled in stage 1)
+words: 5096 → ~5380
+changed: the matching-token paragraph gains the signed reading (two halves as `(−1)/(+1)` with the break as the place of the zero; gluing = cancellation; one party demanding obedience from the holder of the other half = appropriation `+2`/`−2`), Argued, with the note that the Greek witnesses say nothing of it; the whole-mytheme returns gain, from each telling's own Argued reading, Apollo `+2`/Daphne `−2`, the net `+2`/`−2` until Poseidon's undertaking, Psyche's cancelling blade and legal ending, and the friends' appropriation and Job's demand for a held polarity. Quotations (“The hole is the false cognate…” is in the companion) and every anchor kept. The rest of the file was read whole and is in voice: each section puts the attested sense first and states what it makes possible.
+for Frank: none
+
+### etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-… — stage 2 DONE (read whole; was sampled in stage 1)
+words: 4451 → ~4520
+changed: Analects 13.15 paragraph gains the signed reading of an uncontradictable ruler (`+2` for the office, `−2` for those who act under his word; `(−1)/(+1)` for opposable counsel), explicitly Taylor's and not the Analects'. All dates and locators read and unchanged (LSJ σύμβολον I.1/I.3/I.5; Herodotus 6.86, Medea 608–615, Symposium 191d; Bank of England tally 1694; Kārikās 3, 4–6, 18, 64–68; 2 Kings 8:1–6, 12:5–17, 22:3–20; Analects 13.3, 13.15; Qur'an 17:12–15, 7:180; Bukhārī 7392, d. 870; Reri EA75044,4 305–30 BCE).
+for Frank: none
+
+### etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-… — stage 2 DONE (read whole; was sampled in stage 1)
+words: 4139 → ~4260
+changed: the ratified hybris theorem ("the local determination occupies the place of its own determining condition", exact and unmoved) gains its signed reading: polarity `(−1)/(+1)`, usurpation as appropriation `+2` and the person scored away at `−2`, and why a complaint entered as one more score changes nothing, Argued; the relational-growth "not twelve merged nouns…" negation restated positively. The rest read whole and in voice (each generated relation is stated with its operation, then its consumers).
+for Frank: none
+
+### etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES-… — stage 2 DONE (read whole; was sampled in stage 1)
+words: 2202 → ~2280
+changed: *arbiter*'s range (beholder and decider) made to carry the field's question, whether the deciding office can forget the particular it began from, Argued. Locators (Plautus Bacch. 3.6.41, Od. 8.344–66, Phaedo 72e/92d, Philebus 34c, Dyczkowski pp. 71–75, Van Eenwyk pp. 65–73, Ostrom pp. 422–423, Lingis pp. 50, 197–98) and the three-sentence Taylor formula (bold) unchanged.
+for Frank: none
+
+### etymologies/apportionment-and-economy/WHOLE-FIELD-… — stage 2 DONE (read whole; was sampled in stage 1)
+words: 2818 → ~2930
+changed: the measure section's hybris sentence and the delegated-labour return paragraph gain the signed readings (office at `+2`/measured at `−2`; commissioner takes the product at `+2`, performer carries the cost at `−2`, a return route restores `(−1)/(+1)`), Argued, drawn from A24/A29 as the page already cites them. The file otherwise read whole and in voice.
+for Frank: none
+
+### etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-… — stage 2 DONE (read whole; was sampled in stage 1)
+words: 1639 → ~1690
+changed: νέμω's double range (to distribute, to hold as one's portion) made to say what it makes possible: distributor and holder in one relation, and whether the holder can answer back. Aristotle, Irenaeus, Ephesians and Ostrom locators read and unchanged.
+for Frank: none
+
+### etymologies/README.md — stage 2 read whole, LEFT (protected)
+Frontmatter declares `ownership: protected-learning-surface`; the page is also Frank's authored voice (its opening paragraph and the four-register table are his formulations). Untouched.
+for Frank: its routing table still names the link text "Sym-Ballein" for A13 and §2 #2 (lines in the "Where the field enters the present histories" table); under your 2026-10-03 spelling ruling these labels want "Syn-Ballein". The targets are unaffected.
+
+### histories/README.md — stage 2 left (protected)
+Frontmatter `ownership: protected-learning-surface`; not read for edit and not touched.
