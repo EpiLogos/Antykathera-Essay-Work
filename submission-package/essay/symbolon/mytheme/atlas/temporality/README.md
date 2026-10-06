@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # Succession, transmission and reception
 
-Narrative succession, a work’s historical production, its surviving witness, and its subsequent reception retain different temporal addresses. This route does not turn Neumann’s shared archetypal articulation into one empirical timetable for every people. [Geographical relations](../geography/README.md) remains a separate entrance.
+Narrative succession, a work's historical production, its surviving witness and its later reception each have their own temporal address, and this route keeps them apart. Neumann's shared archetypal articulation is read as a structure and not as one empirical timetable for every people. [Geographical relations](../geography/README.md) is a separate entrance.
 
 ## Hellenic tellings
 
@@ -83,7 +83,4 @@ The 2026 developmental and poetic field retains its own dated provenance. Intern
 - [Taylor — Poetry and Authored Images](../../worlds/frank-taylor/taylor-authored-images/WHOLE.md) — **received-in** the distinct source and authorial times recorded in this whole.
 - [The travelling jigsaw — from box-lid to atlas](../../worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md) — **received-in** the distinct source and authorial times recorded in this whole.
 
-The shared articulation [Neumann images and plate relations](../../archetypal-ground/neumann-images/WHOLE.md) **grounds** relation and return; its source’s historical developmental account and Taylor’s native QL operation retain their separate standing.
-
-The shared articulation [Uroboros, circulation and trickster](../../archetypal-ground/uroboros-trickster/WHOLE.md) **grounds** relation and return; its source’s historical developmental account and Taylor’s native QL operation retain their separate standing.
-
+The shared articulations of [Neumann images and plate relations](../../archetypal-ground/neumann-images/WHOLE.md) and of [Uroboros, circulation and trickster](../../archetypal-ground/uroboros-trickster/WHOLE.md) each **grounds** relation and return. Each source's historical developmental account and Taylor's native QL operation keep their separate standing.

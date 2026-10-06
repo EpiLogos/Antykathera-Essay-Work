@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # Situated worlds and geographical relations
 
-Source/production setting, narrated setting and reception setting answer different questions. Each route below returns to its whole, where the telling, source house and relation-local interpretation remain available. Shared archetypal structuration is reached through [the archetypal ground](../../archetypal-ground/README.md); temporal sequence through [temporality](../temporality/README.md).
+The source or production setting, the narrated setting and the reception setting of a telling answer different questions. Each route below returns to its whole, where the telling, the source house and the relation-local interpretation stay available. Shared archetypal structuration is reached through [the archetypal ground](../../archetypal-ground/README.md); temporal sequence through [temporality](../temporality/README.md).
 
 ## Hellenic tellings
 
@@ -83,7 +83,4 @@ These are Taylor’s compositions and interpretive wholes; their independent sou
 - [Taylor — Poetry and Authored Images](../../worlds/frank-taylor/taylor-authored-images/WHOLE.md) — **attested-in** its own telling and source/reception distinctions.
 - [The travelling jigsaw — from box-lid to atlas](../../worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md) — **attested-in** its own telling and source/reception distinctions.
 
-The shared articulation [Neumann images and plate relations](../../archetypal-ground/neumann-images/WHOLE.md) **grounds** cross-world reading without assigning these tellings a common geographical origin.
-
-The shared articulation [Uroboros, circulation and trickster](../../archetypal-ground/uroboros-trickster/WHOLE.md) **grounds** cross-world reading without assigning these tellings a common geographical origin.
-
+The shared articulations of [Neumann images and plate relations](../../archetypal-ground/neumann-images/WHOLE.md) and of [Uroboros, circulation and trickster](../../archetypal-ground/uroboros-trickster/WHOLE.md) each **grounds** cross-world reading, and neither assigns these tellings a common geographical origin.

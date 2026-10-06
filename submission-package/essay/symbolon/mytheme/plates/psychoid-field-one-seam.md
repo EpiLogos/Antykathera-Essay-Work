@@ -46,34 +46,15 @@ The psychoid field: two descriptions retained across one seam. The same pattern 
 
 ## Proposition
 
-Before psyche and matter can be compared they must become distinguishable within one field
-of appearing and relation — a field prior to their division in the order of dependence. The
-plate shows that field as one continuous ground carrying a single pattern on both sides of a
-dashed seam: read upward, the pattern is psychic description (image, meaning, significance);
-read downward, it is physical description (event, measure, position). The seam is the field's
-own unmastered middle — not a wall separating two substances, not a bridge reducing one to
-the other.
+Before psyche and matter can be compared they have to become distinguishable within one field of appearing and relation, a field prior to their division in the order of dependence. The plate shows that field as one continuous ground carrying a single pattern on both sides of a dashed seam. Read upward, the pattern is psychic description (image, meaning, significance), and read downward it is physical description (event, measure, position). The seam is the field's own unmastered middle: it is a place where the two descriptions meet without either becoming the other, and it is neither a wall between two substances nor a bridge that reduces one to the other. The plate lays the mythemic image of one pattern seen twice beside the mathemic notion of a derived differential field and the epistemic Jung–Pauli record, and each layer keeps its own office.
 
 ## Invariant
 
-The pattern's geometry is identical in the two registers: same two overlapping circles, same
-radius, same separation, mirrored across the seam. Only the description changes — indigo
-circles with no apparatus above; ink circles with centre crosshairs and intersection ticks
-below. Three dotted correspondence lines join the pattern across the seam, asserting that
-what the two descriptions describe is one appearing, while the dashed seam and the unequal
-labelling assert that neither description reduces to the other. Every element of difference
-in the plate belongs to description; every element of identity belongs to the field.
+The pattern's geometry is identical in the two registers: the same two overlapping circles, the same radius and the same separation, mirrored across the seam. Only the description changes, with indigo circles and no apparatus above and ink circles with centre crosshairs and intersection ticks below. Three dotted correspondence lines join the pattern across the seam to say that what the two descriptions describe is one appearing, while the dashed seam and the unequal labelling say that neither description reduces to the other. Every difference in the plate belongs to description, and every identity belongs to the field.
 
 ## Proof boundary
 
-The plate carries Movement 31's Argued identification of the derived differential field as
-psychoid, and nothing stronger. It shows no causal mechanism between a psychic event and a
-physical event, states nothing about artificial phenomenal localisation, and does not
-represent the Jung–Pauli conjecture as established by resemblance. The lower register's
-measurement marks declare description, not data — no measurement is depicted. The context
-sentence about conditioned measures (a score participating in the field without being a
-psyche) belongs to Movement 40's Argued claim and is not visualised here beyond the
-plate's refusal of anthropomorphic imagery.
+The plate carries Movement 31's Argued identification of the derived differential field as psychoid. It shows no causal mechanism between a psychic event and a physical event and says nothing about artificial phenomenal localisation. Resemblance in the drawing does not establish the Jung–Pauli conjecture. The measurement marks in the lower register declare a description, and no measurement is depicted. The point about conditioned measures, that a score takes part in the field without being a psyche, belongs to Movement 40's Argued claim, and the plate meets it only by refusing anthropomorphic imagery.
 
 ## Composition and reading order
 

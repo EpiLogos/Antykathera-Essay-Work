@@ -46,33 +46,15 @@ Gearing as non-closure. Meshed trains of different counts carry proportions betw
 
 ## Proposition
 
-Gearing gives differentiated movement a transmissible body, and the emblem performs the
-operation by which that body stays honest: meshed trains of different counts carry
-proportions between motions without making them one motion; spiral groove and follower make
-successive turns distinguishable within one circular motion; and the instrument's frame is
-drawn open at the top because the sky it coordinates is not enclosed by the arrangement.
-Attunement names this achieved relation between finite capacity and a wider order — not
-possession of it, and not closure over it.
+Gearing carries differentiated movement from one wheel to another, and the emblem shows the operation that keeps that carrying honest. Meshed trains of different counts carry proportions between motions without making them one motion. A spiral groove and its follower make successive turns distinguishable within one circular motion. The frame is drawn open at the top because the sky the instrument coordinates is not enclosed by the arrangement. Attunement is the name for this achieved relation between finite capacity and a wider order: the instrument stands in the relation and neither possesses the order nor closes over it. The plate lays the mythemic image of an open frame beside the mathemic ratios the gears carry and the epistemic record of Movement 45, and each layer keeps its own office.
 
 ## Invariant
 
-The differences the arrangement coordinates are never cancelled in the image: three wheels
-of visibly different counts (16, 26, 40 teeth in the emblem's own arithmetic) remain three
-motions; the pointer's sweep remains a reading traced on a dial, not the sky; and the frame's
-open top keeps the star field continuous with the space beyond the drawn boundary. The
-sight-line from the reader's mark to the dial crosses the frame's interior — the reading
-joins the instrument to a situation — while no line in the composition encloses the stars.
+The differences the arrangement coordinates are never cancelled in the image. Three wheels of visibly different counts (16, 26 and 40 teeth in the emblem's own arithmetic) remain three motions, the pointer's sweep remains a reading traced on a dial and not the sky, and the open top of the frame keeps the star field continuous with the space beyond the drawn boundary. The sight-line from the reader's mark to the dial crosses the frame's interior, so the reading joins the instrument to a situation, and no line in the composition encloses the stars.
 
 ## Proof boundary
 
-This is an authored emblem, not a reconstruction. It depicts no surviving fragment, no
-gear-train ratios of the ancient device, no Metonic or Saros count, and no feature of the
-2021 front-display proposal; the tooth counts 16/26/40 are the plate's own and carry no
-astronomical claim. The 2006 and 2021 studies stand behind the emblem as paraphrased
-background with distinct warrants, and the plate asserts none of their findings. The
-mechanism neither proves QL nor images the eight determinations as machine parts. What the
-plate carries is Movement 45's Offered operation: exactness without possession, and a
-coherent reconstruction remaining one proposed answer to damaged evidence.
+The plate is an authored emblem and makes no reconstruction. It depicts no surviving fragment, no gear-train ratios of the ancient device, no Metonic or Saros count and no feature of the 2021 front-display proposal, and its tooth counts of 16, 26 and 40 are its own and carry no astronomical claim. The 2006 and 2021 studies stand behind the emblem as paraphrased background, each with its own warrant, and the plate asserts none of their findings. The mechanism is a figure for the Offered operation of Movement 45, exactness without possession, in which a coherent reconstruction stays one proposed answer to damaged evidence. Its parts are not machine analogues of the eight determinations, and the emblem does not prove QL.
 
 ## Composition and reading order
 

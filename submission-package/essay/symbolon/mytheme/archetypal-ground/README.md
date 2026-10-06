@@ -8,13 +8,13 @@ authority: non-governing navigation
 
 # Shared archetypal structuration
 
-The shared field articulates relation, opposition, differentiation, separation and interplay across the situated Mythemes. Neumann’s genesis and world-parent account retains its own source and historical interpretation. Taylor’s native eight-determination recapitulation gives its authored QL/Mytheme operation, including the toroidal opening and the trickster’s circle/sphere substitution. Each whole keeps the precise standing of that relation.
+The situated Mythemes share a field in which relation, opposition, differentiation, separation and interplay are articulated. Neumann's account of genesis and the world parents keeps its own source and historical interpretation. Taylor's native eight-determination recapitulation supplies the authored QL and Mytheme operation, including the toroidal opening and the trickster's substitution of circle or sphere for that opening. Each whole keeps the standing of the relation it carries.
 
-- [Neumann — images and plate relations](neumann-images/WHOLE.md) **grounds** the shared genesis/world-parent articulation and the authorial paper, mark, distinction and return.
-- [Uroboros, circulation and trickster](uroboros-trickster/WHOLE.md) **grounds** head/tail, hunger, opening, self-eating, assimilation and the return that retains its hole.
+- [Neumann — images and plate relations](neumann-images/WHOLE.md) **grounds** the shared genesis and world-parent articulation, with the authorial sequence of paper, mark, distinction and return.
+- [Uroboros, circulation and trickster](uroboros-trickster/WHOLE.md) **grounds** head and tail, hunger, opening, self-eating, assimilation, and the return that keeps its hole.
 
-The [situated worlds](../worlds/README.md) retain their complete tellings and their independent sources. [Geography](../atlas/geography/README.md) follows source, narrated and reception settings; [temporality](../atlas/temporality/README.md) follows sequence, transmission and reception. Neither route treats the shared archetypal field as a common geographical origin or an empirical schedule through which every culture must pass. [The Mytheme root](../README.md) **defines** whole-first development and relation-local human amplification.
+The [situated worlds](../worlds/README.md) keep their complete tellings and their independent sources. [Geography](../atlas/geography/README.md) follows source, narrated and reception settings, and [temporality](../atlas/temporality/README.md) follows sequence, transmission and reception. The shared archetypal field is a structure the wholes are read through, and it is neither a common geographical origin nor an empirical schedule through which every culture passes. [The Mytheme root](../README.md) **defines** whole-first development and relation-local human amplification.
 
 ## Procured images
 
-- [Uroboros, circulation and trickster](uroboros-trickster/WHOLE.md) — the ouroboros of the *Chrysopoeia of Cleopatra*.
+- [Uroboros, circulation and trickster](uroboros-trickster/WHOLE.md): the ouroboros of the *Chrysopoeia of Cleopatra*.

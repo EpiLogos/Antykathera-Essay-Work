@@ -46,35 +46,15 @@ A sign migrates; its witnesses do not migrate with it. The disc — this plate's
 
 ## Proposition
 
-A sign migrates; its witnesses do not migrate with it. Zero converges distinct inventions —
-blank place, placeholder, numeral, arithmetic element, origin, empty set, sign of nothing —
-and its power comes from crossing scripts, calculating practices and civilisations. But the
-recoverable chain of that crossing is uneven: at the Latin end, the reception forks into two
-recoveries the dossier keeps distinct — an apparatus route whose chronology remains open, and
-a codex route whose only recovered object is an 1865 edition pointer around an unfilled
-place. The plate performs the discipline of that emptiness: the empty frame is drawn empty.
+A sign migrates, and its witnesses do not migrate with it. Zero converges distinct inventions (blank place, placeholder, numeral, arithmetic element, origin, empty set, sign of nothing), and its power comes from crossing scripts, calculating practices and civilisations. The recoverable chain of that crossing is uneven. At the Latin end the reception forks into two recoveries that the dossier keeps distinct: an apparatus route whose chronology stays open, and a codex route whose only recovered object is an 1865 edition pointer around an unfilled place. The plate draws that emptiness as empty: the frame where nothing is recovered holds nothing. It lays the mythemic image of a migrating sign beside the epistemic dossier of what is and is not recovered, and the mathemic operations of zero stay in the movement it serves.
 
 ## Invariant
 
-The migrating sign is drawn as one featureless disc — the plate's own declared token, not a
-historical glyph — and it appears at the four named stations of the migration. At the fork,
-the disc disappears from the composition: the Gerbert frame holds only the three distinct
-predicates as open questions (numeral form? calculating apparatus? positional use?), and the
-Salem frame holds nothing at all. What IS recovered is drawn as recovered and nothing more:
-a small closed book labelled with the edition pointer (Cantor 1865, *ZfMP* 10, 1–16),
-connected to the codex frame by a dotted line of attribution, not of identification. The
-composition's rule — recovered objects solid, unrecovered objects absent — is held without
-exception.
+The migrating sign is one featureless disc, which is the plate's own declared token and no historical glyph, and it appears at the four named stations of the migration. At the fork the disc leaves the composition. The Gerbert frame holds only the three distinct predicates as open questions (numeral form? calculating apparatus? positional use?), and the Salem frame holds nothing at all. What is recovered is drawn as recovered and no more: a small closed book labelled with the edition pointer (Cantor 1865, *ZfMP* 10, 1–16), joined to the codex frame by a dotted line of attribution and not of identification. The rule is that recovered objects are solid and unrecovered objects are absent, and it holds without exception.
 
 ## Proof boundary
 
-The plate makes no historical claim beyond Movement 13's Derived account and the dossier's
-recorded state. It depicts no manuscript, no folio, no numeral form from any tradition, and
-no remembered Latin line — the dossier's rule that no remembered short line is substituted
-is honoured by leaving the frame empty. The station labels name broad reception worlds, not
-dated events, and their order asserts no straight-line transmission. If the dossier's source
-task later completes (shelfmark, folio, collation), this plate must be revised or retired
-before any facsimile enters the vault.
+The plate makes no historical claim beyond Movement 13's Derived account and the dossier's recorded state. It depicts no manuscript, no folio, no numeral form from any tradition and no remembered Latin line, and it honours the dossier's rule that no remembered short line is substituted by leaving the frame empty. The station labels name broad reception worlds and not dated events, and their order asserts no straight-line transmission. If the dossier's source task later completes with shelfmark, folio and collation, the plate has to be revised or retired before any facsimile enters the vault.
 
 ## Composition and reading order
 

@@ -39,30 +39,15 @@ The crossed zero `Ø` fuses the mediating stroke into the zero it crosses: one f
 
 ## Proposition
 
-`Ø` gives the first occlusion of the recognition-matheme a visible form: the mediating stroke
-has succeeded so thoroughly that it fuses with the zero it crosses, and a finished character
-stands where a relation was. The plate holds the two states of one figure side by side —
-fused, then articulated — to show that uncrossing is not erasing: nothing is removed when the
-stroke becomes legible as mediation.
+The plate makes the first occlusion of the recognition-matheme visible. The mediating stroke has succeeded so thoroughly that it fuses with the zero it crosses, and a finished character stands where a relation was. Placing the two states of one figure side by side, fused and then articulated, shows that uncrossing is not erasing: nothing is removed when the stroke becomes legible as mediation. In laminar terms the plate lays the mythemic image (a figure read twice) beside the mathemic operation `0 → Ø` and the epistemic record of Movement 16, and each layer keeps its own office.
 
 ## Invariant
 
-The geometry is identical across the two panels: same circle (r = 160), same stroke at the
-same angle and weight. Only legibility changes. On the left, stroke and circle share one ink
-and one reading; on the right, the same stroke is rendered in the accent colour and labelled
-as the distinct mediator between the zero-space (subject-pole) and the determinate mark placed
-beyond its upper end. The three-term anatomy of Movement 16 — zero-space, mediating stroke,
-determinate world-mark — is present in both panels; the right panel only names it.
+The geometry is identical across the two panels: the same circle (r = 160) and the same stroke at the same angle and weight. Only legibility changes. On the left, stroke and circle share one ink and one reading. On the right, the same stroke is rendered in the accent colour and labelled as the distinct mediator between the zero-space (the subject-pole) and the determinate mark placed beyond its upper end. The three-term anatomy of Movement 16, zero-space, mediating stroke and determinate world-mark, is present in both panels, and the right panel names it.
 
 ## Proof boundary
 
-The plate carries Movement 16's operation and stops there. It does not depict the later
-recognition series as traversed: `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↩ 0/1` is inscribed as
-horizon text, not staged. The crossed zero is a native authorial symbolic operation — not a
-set-theoretic identity, not $\varnothing$, not Lacan's barred subject — and the plate must not
-be read as deriving the operation from any of those neighbours. No claim is made here that the
-stroke "produces" the subject; the plate shows an occlusion and its recognition, not a
-genesis.
+The plate carries Movement 16's operation and stops there. The later recognition series, `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↩ 0/1`, is inscribed as horizon text and is not staged. The crossed zero is a native authorial symbolic operation, distinct from the empty set $\varnothing$ and from Lacan's barred subject, and the plate does not derive it from either neighbour. It shows an occlusion and its recognition, which is a different thing from the genesis of a subject, so it makes no claim that the stroke produces the subject.
 
 ## Composition and reading order
 
