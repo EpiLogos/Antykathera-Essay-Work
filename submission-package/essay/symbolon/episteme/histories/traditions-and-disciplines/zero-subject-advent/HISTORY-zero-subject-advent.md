@@ -25,12 +25,12 @@ figures:
     rights_note: "Photograph and annotation by Sarah Welch, dedicated to the public domain."
     source_url: "https://commons.wikimedia.org/wiki/File:0121521_Chaturbhuj_Temple,_Gwalior_Fort,_Madhya_Pradesh_37_(where_is_zero_in_this_Hindu_inscription).jpg"
     credit: "Sarah Welch, Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh (inscription of 876 CE), photograph with annotation, 15 December 2021. CC0 1.0."
-  - asset: "images/hoernle-1887-bakhshali-numerals.png"
-    asset_format: "image/png"
+  - asset: "images/colebrooke-1817-lilavati-section-iv-cipher.jpg"
+    asset_format: "image/jpeg"
     rights: "public-domain"
-    rights_note: "Chart published in 1887; the Commons reproduction is marked public domain."
-    source_url: "https://commons.wikimedia.org/wiki/File:Bakhshali_numerals_1.png"
-    credit: "A. F. Rudolf Hoernle, \"On the Bakhshali Manuscript,\" 1887, p. 9, numeral chart. Public domain; reproduction from Wikimedia Commons."
+    rights_note: "Printed page of an 1817 book; the Internet Archive scan is of a public-domain work and the image is cropped to the page."
+    source_url: "https://archive.org/details/algebrawitharith00brahuoft/page/n114"
+    credit: "Brahmagupta and Bhāskara II, Algebra, with Arithmetic and Mensuration, from the Sanscrit of Brahmegupta and Bháscara, trans. Henry Thomas Colebrooke (London: John Murray, 1817), Līlāvatī, section IV, \"Cipher,\" verses 44–45 (the leaf folioed 19 in the Līlāvatī part; Internet Archive scan, PDF p. 115). Public domain."
   - asset: "images/ybc-7289-babylonian-tablet.jpg"
     asset_format: "image/jpeg"
     rights: "CC0-1.0"
@@ -61,17 +61,17 @@ The history carried here begins when absence stops functioning only as a lack an
 >
 > Credit: Yale Babylonian Collection, tablet YBC 7289 (YPM BC 021354); photograph by A. Urcia, Yale Peabody Museum of Natural History, 2019. CC0 1.0.
 
-![A single row of numeral forms on white, labelled beneath with the values 1 to 9 and 0; the nine digits are curved and angular hooked signs, some shown in two variant forms, and the last sign, for zero, is a plain dot.](images/hoernle-1887-bakhshali-numerals.png)
-
-> The numerals of the Bakhshali manuscript as Hoernle tabulated them in 1887: forms for 1 to 9 and a dot for zero. The dot marks the place where a digit would stand. The manuscript's date is disputed and this chart leaves it open; it shows the placeholder in an Indian computational text, a step before the operator that Brahmagupta and Bhāskara make of *śūnya*.
->
-> Credit: A. F. Rudolf Hoernle, "On the Bakhshali Manuscript," 1887, p. 9, numeral chart. Public domain; reproduction from Wikimedia Commons.
-
 ![A photograph of a stone slab inscribed with many rows of small Devanagari characters; a blue circle on the lower right marks one numeral, joined by an arrow to an enlarged inset labelled 270 at upper right.](images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg)
 
 > The inscription of 876 CE in the Chaturbhuj Temple at Gwalior Fort. The uploader's blue circle and arrow mark the numeral 270, in which the zero is written as a small circle; the inscription records the dimensions of a garden. It is an early securely dated written zero in India, the numeral form on which Brahmagupta's operations of the following centuries work.
 >
 > Credit: Sarah Welch, *Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh* (inscription of 876 CE), photograph with annotation, 15 December 2021. CC0 1.0.
+
+![A page of an early nineteenth-century printed book headed Section IV, Cipher: two numbered rules in large type, a numbered example below them, and a block of footnotes in small type at the foot; a faint reversed show-through of the facing page's text lies behind the printed lines.](images/colebrooke-1817-lilavati-section-iv-cipher.jpg)
+
+> The page of Colebrooke's 1817 translation of Bhāskara's *Līlāvatī* that gives the rules for cipher, which is zero. Cipher added to a quantity leaves the sum equal to that quantity; the product of cipher is nought, but it is kept as a multiple of cipher if a further operation follows; a definite quantity divided by cipher is the submultiple of nought. The footnotes gloss *śūnya* as vacuum or ethereal space and *khahara* as a fraction with cipher for its denominator. It shows what the paragraph above names: zero as a term that arithmetic has to handle, and the zero denominator kept as a written expression. The English is Colebrooke's, and the Sanskrit it renders is not shown.
+>
+> Credit: Brahmagupta and Bhāskara II, *Algebra, with Arithmetic and Mensuration, from the Sanscrit of Brahmegupta and Bháscara*, trans. Henry Thomas Colebrooke (London: John Murray, 1817), *Līlāvatī*, section IV, "Cipher," verses 44–45 (the leaf folioed 19 in the Līlāvatī part; Internet Archive scan, PDF p. 115). Public domain.
 
 ## The subject enters the rational scene
 

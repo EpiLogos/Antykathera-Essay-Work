@@ -5,6 +5,13 @@ record_type: matheme
 register: matheme
 claim_status: Argued
 source_relation: "Exact cycle arithmetic; source-constrained astronomical and mechanism witness"
+figures:
+  - asset: "images/freeth-2021-fig1-antikythera-inscriptions-and-reconstructed-plates.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Figure from an open-access Scientific Reports article, licensed CC BY 4.0 on Wikimedia Commons; credit to the authors required."
+    source_url: "https://commons.wikimedia.org/wiki/File:41598_2021_84310_Fig1_HTML.png"
+    credit: "Tony Freeth, David Higgon, Aris Dacanalis, Lindsay MacDonald, Myrto Georgakopoulou and Adam Wojcik, \"A Model of the Cosmos in the Ancient Greek Antikythera Mechanism,\" Scientific Reports 11 (2021): 5821, fig. 1. CC BY 4.0."
 ---
 
 # Metonic Cycle and Antikythera: Maintained Fit
@@ -36,6 +43,12 @@ A lunar phase match alone does not establish the nodal geometry needed for an ec
 ## #4 — Read the mechanism through surviving evidence
 
 Freeth and colleagues' 2021 reconstruction coordinates nine outputs in its proposed front display: Moon, Nodes, Mercury, Venus, Sun, Mars, Jupiter, Saturn and Date. Their [display and conclusion passages](../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md#passages) retain the model's dependence on surviving inscriptions and fragments. Lost evidence limits the reconstruction: a fitting model remains different from a replica of the original.
+
+![A composite figure. Top row: four views of a computer-rendered brass instrument in a wooden case, left to right a front cover labelled Planet Cycles, the front plate with a ringed dial and the labels Star Events above and below, the back plate with two dials labelled Month Names, Eclipse Characteristics and Eclipse Glyphs, and a back cover labelled Cosmos Description, Calendar Structure and Moon-Sun Cycles. Bottom row: two grey X-ray tomography images of small inscribed fragments, one with the sections for Mercury, Venus, Mars, Jupiter and Saturn outlined and the other with some Greek words picked out in red, each with a centimetre scale.](images/freeth-2021-fig1-antikythera-inscriptions-and-reconstructed-plates.jpg)
+
+> Figure 1 of Freeth and colleagues (2021). Panel a shows the reconstructed covers and plates with the inscriptions each carries; the back plate bears the Metonic Calendar with its month names, and the Saros eclipse dial below it. Panels b and c are X-ray tomography images of the inscribed cover fragments from which the planet cycles and the description of the cosmos were read. It is the evidence the record's last section relies on, the surviving inscriptions together with the model fitted to them, and it is not a photograph of the original. The `235:19` count is the arithmetic behind the Metonic dial, and the figure does not compute it.
+>
+> Credit: Tony Freeth, David Higgon, Aris Dacanalis, Lindsay MacDonald, Myrto Georgakopoulou and Adam Wojcik, "A Model of the Cosmos in the Ancient Greek Antikythera Mechanism," *Scientific Reports* 11 (2021): 5821, fig. 1. CC BY 4.0.
 
 The Metonic count specifies the relation 235:19. A particular gear train further requires tooth counts, linkages and a kinematic arrangement; variable lunar motion requires its own account of the mechanism which produces that variation. The 2021 front-display proposal has a selected multi-output arrangement supported by surviving evidence. Its display and conclusion passages retain that scope while these more particular mechanical questions concern further parts of the reconstruction.
 
