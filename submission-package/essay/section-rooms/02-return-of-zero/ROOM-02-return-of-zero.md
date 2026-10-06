@@ -32,7 +32,7 @@ Differentiation structurally retains a zero, and mathematics supplies exact form
 
 **Incoming pressure:** [§0 #5→0 · Objective Internality](../01-differentiating-mind/movements/12-s0-p5-objective-internality.md)
 
-**Earned position (Derived):** A sign for no counted thing changes what is counted.
+**Earned position (Derived):** Zero converges several historically distinct inventions (the blank place, placeholder, numeral, arithmetic element, origin, empty set and sign of nothing), and a sign for no counted thing changes what is counted.
 
 **Carry-forward:** A place held open is still only a place.
 
