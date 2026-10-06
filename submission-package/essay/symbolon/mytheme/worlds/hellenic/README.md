@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # Hellenic tellings
 
-Homeric song and the Attic civic foundation remain distinct witnesses. Ares departs for Thrace and Aphrodite for Paphos; Attica retains the Athenian Acropolis and the competing signs. Narrated divine and Cecropian events are distinct from surviving literary/material witnesses and Taylor’s reception.
+The Homeric song of Ares and Aphrodite and the Attic civic foundation are distinct witnesses. In the song Ares departs for Thrace and Aphrodite for Paphos, and in Attica the Athenian Acropolis keeps the competing signs. The narrated divine and Cecropian events, the surviving literary and material witnesses and Taylor’s reception are three different things.
 
 The [geographical route](../../atlas/geography/README.md) and [temporal route](../../atlas/temporality/README.md) **returns-to** these same wholes.
 

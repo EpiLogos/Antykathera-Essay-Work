@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # Late-antique Gnostic worlds
 
-The Hypostasis tractate and Irenaeus’s hostile report of Valentinian teaching are independent carriers. Codex transmission and the reporter’s historical location remain distinct from Pleroma, heavens and the embodied cosmos. Cosmological succession is read within each telling. Surviving manuscripts, reported teachings and modern translations are separate witnesses.
+The Hypostasis tractate and Irenaeus’s hostile report of Valentinian teaching are independent carriers. Codex transmission and the reporter’s historical location are one matter, and the Pleroma, the heavens and the embodied cosmos another, and each telling’s cosmological succession is read within that telling. Surviving manuscripts, reported teachings and modern translations are separate witnesses.
 
 The [geographical route](../../atlas/geography/README.md) and [temporal route](../../atlas/temporality/README.md) **returns-to** these same wholes.
 
