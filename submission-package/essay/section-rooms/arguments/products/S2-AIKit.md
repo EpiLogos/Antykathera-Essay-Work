@@ -31,7 +31,7 @@ refinement_status: T25 reconstituted; independent R5 review and T26 ratification
 
 ## #0 — The horizon of what a Life can bring to bear
 
-**AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity in this sense is not an inventory of tools. A capacity may exist yet be unavailable here; available yet irrelevant; relevant yet forbidden; permitted yet unselected; selected yet unable to become operative. The product’s technical distinctions matter because they expose these different modal relations rather than compressing them into one Boolean notion of “has capability.”
+**AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity in this sense exceeds an inventory of tools. A capacity may exist yet be unavailable here; available yet irrelevant; relevant yet forbidden; permitted yet unselected; selected yet unable to become operative. The product’s technical distinctions matter because they expose these different modal relations rather than compressing them into one Boolean notion of “has capability.”
 
 For a human the same structure appears as skill, language, memory, attention, bodily ability, social access, permission, opportunity and confidence. For an artificial actor it appears through models, skills, methods, tools, context sources, interfaces, communication channels and execution possibilities. In each case potency concerns not only *what is there* but *what can become active from here*.
 
@@ -47,7 +47,7 @@ Each determination answers a question within a stated scope. **IS** affirms the 
 
 The tetralemmaic ground prevents one state from pretending to exhaust possibility. A tool can exist globally and be absent from this session. A source can be reachable but not authoritative. Two skills can both be relevant without being interchangeable. A question can exceed the present capability grammar altogether. The distinctions `exists ≠ available ≠ relevant ≠ permitted ≠ selected ≠ operative` therefore concern different relations of one capacity to a Life and situation; they are not names for the five tetralemmaic determinations.
 
-The positive force of refusal also lives here. `IS-NOT` is not failure by default. A denied capability can preserve another participant’s authority, a safety boundary, a source’s terms or the integrity of a project. A potency field that counts only successful activation has already confused power with use.
+The positive force of refusal also lives here, since `IS-NOT` can be a success. A denied capability can preserve another participant’s authority, a safety boundary, a source’s terms or the integrity of a project. A potency field that counts only successful activation has already confused power with use.
 
 ## #2 — L3′ Chronological: powers arise, mature, recede and return
 
@@ -63,11 +63,11 @@ This temporal reading also guards against treating novelty as pure addition. Dev
 
 AIKit's local sixfold begins from profile, scope, resource and binding; takes form as context, source, surface and projection; gathers capability, skill, method and procedure as potency; resolves and generates through dependencies, impacts and knowledge routes; becomes situated in harness composition, session-space and world-inhabitation; and returns through trust, familiarity, fitness observation, usage signal and semantic revision. The six turns articulate one horizon of potency rather than functioning as public matrix addresses.
 
-This sequence makes one philosophical distinction especially clear: **possession is not disclosure**. A Life may contain a capacity that its present situation does not disclose as relevant. Conversely, a context can make an apparent capacity salient before its fitness is known. AIKit’s work is to make the relation among capacity, context and actual use explicit enough to be judged rather than assumed.
+This sequence makes one philosophical distinction especially clear, that possession and disclosure come apart. A Life may contain a capacity that its present situation does not disclose as relevant. Conversely, a context can make an apparent capacity salient before its fitness is known. AIKit’s work is to make the relation among capacity, context and actual use explicit enough to be judged rather than assumed.
 
 A source-reading tool gives a constructed instance of the whole movement. It exists in the wider repertoire but enters this situation only when the needed interface is available. The commission makes it relevant; the source's access conditions determine permission; the actor selects it among available methods. Selection still leaves activation to be tested: a missing dependency can prevent the read. That resistance returns to the horizon. Another permitted method may become fitting, or preparation may make the selected method usable in the next act. The capacity has persisted throughout, while its availability, selection and fitness have changed. The Logical lens distinguishes these relations at each moment; the Chronological lens receives their emergence, maturity, withdrawal and transformed return through time.
 
-A profile is therefore not the Life’s essence. A scope is not a metaphysical boundary. A resolved context is one situated disclosure of what matters here. Context resolution has succeeded only when it preserves enough provenance to answer why these capacities, sources and methods entered the present field rather than another.
+A profile is a situated description of a Life and leaves its essence undescribed, a scope is a working boundary and no metaphysical one, and a resolved context is one situated disclosure of what matters here. Context resolution has succeeded only when it preserves enough provenance to answer why these capacities, sources and methods entered the present field rather than another.
 
 ## #4 — Potency, trust and entrusted power
 
@@ -79,8 +79,8 @@ Here the distinction between power and possession becomes ethical. A Life can ha
 
 ## #5→0 — The horizon returns changed
 
-The most important event in a capability system is not activation but **returned fitness**. What happened when this power was brought to bear? What resistance appeared? What proved irrelevant? Which permission mattered? Which absence became significant? What should now become easier, harder, dormant or newly possible?
+The event that matters most in a capability system is returned fitness, and activation matters less. What happened when this power was brought to bear? What resistance appeared? What proved irrelevant? Which permission mattered? Which absence became significant? What should now become easier, harder, dormant or newly possible?
 
 A capability horizon becomes intelligent when encounter can reorganise it. This is the return from use to possibility. The field no longer says merely, “these are the things available”; it says, “this is what this Life can now fittingly bring to bear, given what has happened.”
 
-AIKit therefore returns to [S — World and Life](S-World-and-Life.md) as Objective Internality’s aspect of **potency**. It receives meaningful ground from Central; enters actuality through Actuation; becomes developmental material in Factory; depends on Workcell’s concrete situation; and is articulated by QL’s relational distinctions. None of these neighbours can be collapsed into capacity itself.
+AIKit therefore returns to [S — World and Life](S-World-and-Life.md) as Objective Internality’s aspect of **potency**. It receives meaningful ground from Central; enters actuality through Actuation; becomes developmental material in Factory; depends on Workcell’s concrete situation; and is articulated by QL’s relational distinctions. Each neighbour keeps its own office, and none of them is capacity itself.

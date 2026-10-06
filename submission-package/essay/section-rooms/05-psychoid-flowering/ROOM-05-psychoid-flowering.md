@@ -90,9 +90,9 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Incoming pressure:** [§4 #4 · Apollo Through Dionysus](movements/35-s4-p4-gebser-apollo-dionysus.md)
 
-**Earned position (Argued):** MEF makes each account a declared refraction—source, lens, transformation, agreement, divergence, limit, and return—while Prompt Thrownness turns agent disclosure into an encounter-axis test.
+**Earned position (Argued):** MEF treats every account as a declared refraction: it names its source, its lens, the transformation it performs, where it agrees and diverges with other accounts, its limit, and the route by which it returns.
 
-**Why this move:** At L4 an agent finds itself thrown into prompt, language, history, and permissions; L1 identifies operative causes; L1′ differentiates apprehension; L4′ tests behavioural continuity, drift, session-death, and artifact-mediated return.
+**Why this move:** The human case comes first.
 
 **Carry-forward:** spectroscopy of one QL light through multiple lenses.
 

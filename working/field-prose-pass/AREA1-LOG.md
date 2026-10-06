@@ -559,3 +559,234 @@ words: 156 → 156
 changed: Canon: the whole relation is I-Consciousness and the means is Life / Mind (the index said 'Life / Mind the whole'). Index table and reading rule are directory content and were left as is.
 enriched from: BRIEF canon
 for Frank: none
+
+### section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md  — DONE (stage 2)
+words: 1026 → 1251
+changed: stage 2: read whole and rebuilt. Argument now runs human case (the dark room, thrownness) → agent case (Bratton's glossary, the structural parity and its caution) → the encounter-axis test (L4/L1/L1′/L4′) → the QL/MEF determination and Van Eenwyk's basins → Bohm–Krishnamurti as human-scale precedent → the six lens-pairs as a table → the paradigm's six offices → disclosure vs consequential return. Stage-1 text had the pairs as a run-on sentence and an aphoristic bolded line (fault 10); both rebuilt.
+enriched from: C44 Prompt-Thrownness; plan §4·#5→0; manuscript M01 bedside
+for Frank: none
+
+### section-rooms/arguments/products/S2-AIKit.md  — DONE (stage 2, light)
+words: 1457 → 1473
+changed: stage 2: read whole. In voice and in order (horizon, the logical lens with the exists/available/relevant/permitted/selected/operative chain, the chronological pair, scope and context, trust and entrusted power, returned fitness) and the source-reading-tool case carries the whole movement; six negation / aphorism lines recast ('possession is not disclosure' bolded, 'profile is not the essence', 'the most important event is not activation but returned fitness').
+enriched from: own page; plan §5·#2
+for Frank: none
+
+### section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md  — DONE (stage 2)
+words: 468 → 684
+changed: stage 2: read whole and rebuilt. The warrant now opens on the plain case (the source-reading tool moving through exists, available, relevant, permitted, selected, operative, from S2 #3), then derives the two lenses from it; J-space defined by its carriers and 'circumscription without circumstance' restored from plan §5·#1; Hephaestus's second power (loosing the bonds on Poseidon's pledge) added as a marked Argued amplification of 'the power not to enact'. Stage-1 text asserted the chain in a clause and never showed it.
+enriched from: S2-AIKit; plan §5·#1 and #2; WHOLE of the Ares–Aphrodite relation (ares-guarantee-release)
+for Frank: none
+
+### section-rooms/arguments/products/S4-Workcell.md  — DONE (stage 2, light)
+words: 1223 → 1223
+changed: stage 2: read whole. The page is in voice and in order (a Life is somewhere; thrownness; the aperture of encounter; demand and offer; availability to others; material evidence returning); eight negation or aphoristic lines recast ('not an accessory', 'not simply an obstacle', 'not merely logging', 'thought is not nowhere').
+enriched from: own page; plan §5·#4
+for Frank: none
+
+### section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md  — DONE (stage 2)
+words: 588 → 734
+changed: stage 2: read whole and rebuilt. The warrant opens on the plain case (the same code on two hosts living in different practical worlds, from S4), then the lens pair, the A/C order in which actuality answers intention, the division of the old Bimba/energy material by office (meta remark about 'the old material' removed), and an Argued amplification: the Village of The Prisoner as the negative Workcell (everything reachable, nothing consented to), read through the signed arithmetic (administration's +2, inhabitant's -2). New link to the Prisoner whole (#prisoner-administered-world) with relation word 'figures'.
+enriched from: S4-Workcell; WHOLE of The Prisoner, anchor prisoner-administered-world (read in this session)
+for Frank: none
+
+### section-rooms/arguments/products/S5-Quaternal-Logic.md  — DONE (stage 2, light)
+words: 1230 → 1227
+changed: stage 2: read whole. Voice and order are right (relation exceeding the present determination, Para Vak as articulation from the unconditioned, archetypal number, dia and syn each with their operations, the local sixfold, co-internality); eleven 'is not X; it is Y' constructions inverted into the positive proposition with its boundary as a clause.
+enriched from: own page; plan §5·#5→0
+for Frank: none
+
+### section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md  — DONE (stage 2)
+words: 769 → 1062
+changed: stage 2: read whole and rebuilt. Opens on the plain case (the nesting of sentence, claim, programme, institution), shows the pair as a table read in order, writes both logics in situ with the Self/Other case (appropriation charged from both ends, cancellation as 'nothing owing', syn as each read through the relation), keeps the six experiments as tests with the possibility of a contrary result, and adds Indra's jewel-net as a marked Argued amplification (new link, relation word 'embodies'). Stage-1 text had assertions of the pair and the rule without a case.
+enriched from: plan §5·#5→0 and §5→0·#1; A12 and Indra whole (anchor indra-native-relation); S5
+for Frank: none
+
+### section-rooms/arguments/A04-Diaphaneity-Contextual-Transparency.md  — DONE (stage 2)
+words: 2312 → 2397
+changed: stage 2: read whole; #0–#4 are in voice and kept. The #5→0 route (a run of nine 'In X, …' paragraphs, each restating the same return) rebuilt: the three images of a view disclosing itself (Maya's window, the stained glass, the Necker cube) now each add what the others lack, with the Necker flip read as the oscillation of a held polarity (-1)/(+1) and the held pair as (0/1)/(1/0) (Argued amplification from A13); Regard, the Blue Marble, the two Neumann images, the technical case and the product consequences follow. The functional-knower template is replaced here by the case of a report checked against a source, saying what diaphaneity alone adds (the deciding of what counts as data enters the verdict) and pointing to A26 for the nesting. All link targets kept.
+enriched from: A13; A26; WHOLE records for Necker/Maya/jigsaw (page text)
+for Frank: none
+
+### section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md  — DONE (stage 2)
+words: 1804 → 1822
+changed: stage 2: read whole. #0–#4 are in voice and kept. The #5→0 route (eleven images, each a separate 'In X…' paragraph, with the poems listed by number) rebuilt into four moves: Rotman's role vs the ontological condition; four poems each isolating an operation (the All's finality released; cancellation then retention of the pair, the same two roads; the playful projection of the pair; the three forgotten conditions); three poems at the limit of what can be said; and the six images of a local place carrying the field it opens (tessera, Indra's net, wheel, Goethe, paper, uroboros), with the sources' limits stated once at the end. Every link target kept.
+enriched from: own page; poems' own summaries on this page
+for Frank: none
+
+### section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md  — DONE (stage 2)
+words: 1732 → 1748
+changed: stage 2: read whole. #0–#4 in voice (native derivation, kept). #5→0 recast: eight stacked cases each ending on a 'remains/retains' tag now state the case and what it adds; the four historical branches become one list under one lead sentence; octave vs tempering states why the two answers differ; closing para ordered case-then-operation. Every link target kept.
+enriched from: own page; Aristotle's three criteria stated from the page's own link text (inference that naming the transaction chooses a criterion is mine, Argued)
+for Frank: none
+
+### section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md  — DONE (stage 2)
+words: 1618 → 1633
+changed: stage 2: read whole. #0–#4 are dense, derived and in voice (kept). #5→0 recast: the refrain of 'retains its own office / distinct warrants' replaced by what each construction supplies and where it stops; Antikythera merged with the ancient instrument; jigsaw and stained glass grouped; closing sentence put positively. Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md  — DONE (stage 2; read whole, three sentences)
+words: 1885 → 1889
+changed: stage 2: read whole. The mathematics (quotient, lift, winding class, flows, covers, Spanda, tokamak, #5→0 with the uroboros) is exact, case-led and in voice; three sentences recast (retain-tagged phrases made concrete). Otherwise stays.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A20-Image-Valuation-Possession.md  — DONE (stage 2)
+words: 1945 → 1932
+changed: stage 2: read whole. #0–#4 in voice (kept). #5→0 was seventeen stacked 'In X…' paragraphs each tagged 'retains its distinct…'; regrouped into five moves (a profile producing its confirmation; three images supplied before the person answers: Māyā, Village, Fanon; the Hypostasis rulers; five images that capture the judging capacity and what restores it; Neumann/uroboros; Job; the travelling account; avatar-image-mask-idol and counterfeit provenance). Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A21-Individuation-Recognition.md  — DONE (stage 2)
+words: 1540 → 1595
+changed: stage 2: read whole. #0–#4 in voice (kept). #5→0 was fifteen separate 'In X…' paragraphs each closing on a retains/remains tag; regrouped: life-in-place cases (Māyā, Apollo/Daphne, meal, Mother, Job), Neumann/uroboros, Prisoner, cultural and Agentworld individuation with the Other, then the four source comparisons (CW11, Aion, psychology, Śaiva) kept together so each source's office is stated once. Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A22-World-Picture-to-World-Atlas.md  — DONE (stage 2)
+words: 1601 → 1639
+changed: stage 2: read whole. #0–#4 in voice (kept). #5→0 was ten 'In X…' paragraphs closing on retain/remain tags; regrouped into six moves (historical comparison with Bohm; two images of the viewer's place; two images of travel changing the traveller; account and project returning through paradigm; uroboros; world ≠ world-model with Agentworld, deference, parity). Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md  — DONE (stage 2)
+words: 1582 → 1606
+changed: stage 2: read whole. #0–#4 in voice (kept). #5→0: thirteen separate cases regrouped into five (token across an interval: Arabic Names, tessera; investigation and faith with the formal-limit dossier; received dependence: Indra, mother-child; who carries an undertaking: Poseidon, Neumann; Bratton's scoped trust with deference and faithful definition; Job and the Village). Hard-case endings made direct; every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md  — DONE (stage 2; two passages)
+words: 1778 → 1809
+changed: stage 2: read whole. #0–#4 and most of #5→0 (Baudrillard, Foucault, 1935 law, black sun, Prisoner, Job, entrustment) are case-led and in voice, kept. Recast the Māyā paragraph that restated the table as a string of terms into one act of seeing, and tightened the anamnesis sentence.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A25-Covenant-Mediating-Office-Source-Authority.md  — DONE (stage 2)
+words: 1901 → 1953
+changed: stage 2: read whole. #0–#3 in voice (kept). #4: the delegated-software-agency paragraph (evaluator as local judging centre, apparatus as means, self-model inspection) made plain without changing its claims. #5→0: seventeen separate paragraphs regrouped into seven (Foucault; two mediation comparisons; Arbitration-in-Crisis with entrustment; two bearers; Job and Prisoner as answerable and unanswerable office; the return summary with answerable arbitration; A30/A35/Technē). Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A27-Self-and-Other-Unity-without-Possession.md  — DONE (stage 2)
+words: 1915 → 1899
+changed: stage 2: read whole. The file's argument was sound but its prose was one-sentence-per-line staccato with 'is not X; it is Y' inversions and aphorism lines. Rebuilt every section in connected paragraphs, keeping the bold key sentences, the headings, the equation, the AM/IS, copula and God/Shadow/Friend/Alien lists as lists, and every link. #0 gained a constructed case (a model of a colleague good enough to predict her answer) in place of the generic 'a detailed model'; #5→0 cases joined into one paragraph and each given what it shows.
+enriched from: constructed illustration (colleague model) is mine, marked as such by its form; no corpus claim
+for Frank: constructed colleague illustration in #0 — Frank may prefer a corpus case
+
+### section-rooms/arguments/A28-Authored-Ground-Positional-Delegation.md  — DONE (stage 2; one passage; template occurrence)
+words: 1447 → 1455
+changed: stage 2: read whole. Case-led throughout (investigator, research commission, the Village, avatar-image-mask-idol) and in voice; kept. One passage recast: the investigator paragraph in #2 stated the functional knower / means / known template as labels; it now says what the local judgment finds and what the commissioner can take as object.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A29-Power-Delegated-Labour-Return.md  — DONE (stage 2)
+words: 2055 → 2070
+changed: stage 2: read whole. #0–#4 in voice (kept). #5→0 regrouped from seventeen paragraphs to eight: composed capacity; recording as work with DPO and Ostrom; taijitu and black sun; healthy Power with the habitat sequence; answerable office with its four images (jewel, meal, mirror, maternal body); the six products; the tools of ordinariness with the return summary and Agentworld; Job with the Village. Cryptic DPO sentence given its question. Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A31-Deferential-Intelligence.md  — DONE (stage 2)
+words: 1604 → 1625
+changed: stage 2: read whole. Same staccato register as A27: one-sentence lines, parallel anaphora lists (Origin says…, A contrary source can…), 'not X but Y' closers. Rebuilt every section into connected paragraphs; kept the headings, the bold key sentences (model-revising encounter; the governing question; the acceptance test), both equations, the five-depth ladder and the Regard chain, and the six product links (now one sentence each in one paragraph). Every link target kept.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md  — DONE (stage 2)
+words: 2459 → 2483
+changed: stage 2: read whole. #0–#3 in voice (kept). #4: the technical judging centre paragraph (functional knower template) replaced with a navigation-agent case. #5→0: seventeen separate paragraphs regrouped into eight (Baudrillard with process; Bohm; three images of the image taking the source's place: Māyā, habitat sequence, counterfeit provenance; symbol/account/trust with cultivation; the six offices with compassion and Integral Zero; Job with the Prisoner; three instruments of finite attunement; the mirror's complete movement). Every link target kept. The file has no counterpressure heading (stage 1 note stands; no heading added).
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md  — read whole (unchanged)
+words: 1634 → 1634
+changed: stage 2: read whole, every section including #5→0. Case and test led throughout (the source-aware system, the pre-action disclosure comparison, representation without return versus with it, the Hebrew SPR order, the Jung–Pauli receiving burden); no repeated template, no list of tagged cases. Genuinely in voice; stays unchanged.
+enriched from: n/a
+for Frank: none
+
+### section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md  — DONE (stage 2)
+words: 1750 → 1798
+changed: stage 2: read whole. #0–#4 in voice (kept). #5→0 had visible defects: a broken sentence on attention (semicolon chain ending 'the language history qualifies…'), two link texts starting lowercase, a link label followed by a colon, and 'the cope' with no object. Repaired and regrouped: three histories (language-law-nation, language-selection with the technical distinction named from its own source page, ancient philosophy); six images in one paragraph with each given its own sentence of what it shows (Māyā, Indra, Meal, Mirror, Mother with 'the Skenfrith cope', Neumann); paradigm; reader's office with Integral Zero; Job; apportionment with Con-text. Every link target kept.
+enriched from: own page; the attention distinction from DEVELOPMENT-language-symbol-dialogue #language-selection; Skenfrith cope from the Mother WHOLE
+for Frank: none
+
+### section-rooms/arguments/A36-Advent-of-Integral-Zero.md  — DONE (stage 2; one passage; template occurrence)
+words: 1982 → 1977
+changed: stage 2: read whole. #0–#3 and #5→0 are case-led (the two Indian co-presences, the Name/Power pairs, the winding and the octave, Māyā, Indra, mirror, Goethe, Job) and in voice; kept. #4: the planetary comparison agent paragraph restated the functional knower / means / known template as labels; recast to what the agent can discriminate and what the commissioner can take as means. One small sentence in #5→0.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/products/S0-Central.md  — DONE (stage 2; four sentences)
+words: 1301 → 1297
+changed: stage 2: read whole, every section. Definitional product page, case-bearing where it needs one (the inherited instruction whose author has vanished; the correction left in a note), no repeated template. Four straw-negation sentences recast positively; otherwise in voice and stays.
+enriched from: own page
+for Frank: none
+
+### section-rooms/arguments/products/S1-Actuation.md  — DONE (stage 2)
+words: 4611 → 4559
+changed: stage 2: read whole, every section. In voice and case-led (the model-and-report case, the 'experiment succeeded' sentence, the Odyssey surety); the page is long by necessity. Repairs: the knower/means/known paragraph pair reduced to one case (a model asked whether a report's claim holds) with the nesting pointed to A26 (new link, relation 'grounds'); the three overlapping weighted-combination vs selected-index passages merged into one (link target language-selection now once instead of twice, the target stays); the one-paragraph Hephaestus/Poseidon passage split into three paragraphs; a glued paragraph separated. Quoted QCT and Odyssey wording kept verbatim.
+enriched from: A26 for the nesting
+for Frank: none
+
+### section-rooms/arguments/A05-Prakasa-Vimarsa.md  — DONE (stage 2; template occurrence)
+words: 1867 → 1852
+changed: stage 2 (template): the source-checking agent case in #4 now states what its means and its judged object are in plain terms and points the nesting to A26; the second paragraph no longer restates 'inspecting that centre'. A26 keeps the one full statement (route planner).
+enriched from: A26
+for Frank: none
+
+### section-rooms/arguments/A08-Apoha-Constitutive-Exclusion.md  — DONE (stage 2; template occurrence)
+words: 1724 → 1698
+changed: stage 2 (template): the classifier case keeps its requirements, records, rule and alternatives as the means and fitness as what it judges; the first-person sentence removed (A26 holds it); new link to A26 with relation 'grounds'.
+enriched from: A26
+for Frank: none
+
+### section-rooms/arguments/A09-Tattvic-Differential-Field.md  — DONE (stage 2; template occurrence)
+words: 2020 → 1987
+changed: stage 2 (template): the judging-agent case now names pramāṇa and prameya once in parentheses and drops the labelled functional-knower sentence and the inspection sentence; A26 link already present.
+enriched from: A26
+for Frank: none
+
+### section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md  — DONE (stage 2; template occurrence)
+words: 2015 → 1991
+changed: stage 2 (template): the disputed-institutional-judgment case now says what the agent works from and compares, with the nesting pointed to A26 (new link, 'grounds'); the closing inspection sentence removed.
+enriched from: A26
+for Frank: none
+
+### section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md  — DONE (stage 2; one paragraph)
+words: 3703 → 3670
+changed: stage 2 (template found while grepping): the technical paragraph's functional-knower/means/known labels and the inspection sentence replaced by what the agent works through and what it finds; the human-encounter sentence kept.
+enriched from: A26
+for Frank: none
+
+### section-rooms/arguments/A14-Computational-Process-Ontology.md  — DONE (stage 2; one sentence)
+words: 1715 → 1685
+changed: stage 2 (template found while grepping): the judgment-field paragraph's labelled offices reduced to what the agent works through; nesting within I-Consciousness kept in one clause.
+enriched from: A26
+for Frank: none
+
+### section-rooms/arguments/A34-Idealism-Order-of-Dependence.md  — DONE (stage 2; one passage)
+words: 1892 → 1876
+changed: stage 2 (template found while grepping): the forecasting-agent sentence pair recast to what the agent works on and what the operator's inquiry takes as means.
+enriched from: A26
+for Frank: none
+
+### section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md  — read whole (unchanged but one link label)
+words: 1331 → 1331
+changed: stage 2: read whole, every section and the see-figure block. In voice: opens on the institutional relation, the Offered architecture is marked as Offered, the two failure modes are shown as chains, the Hephaestus surety criterion is concrete and carries the quoted Odyssey line, and the three closing returns-to paragraphs each state a point. Only change: a link label starting lowercase ('the Prisoner whole') capitalised. Stays.
+enriched from: n/a
+for Frank: none
+
+### stage 2 — surfaces missing from the eight notes (log only, no headings added)
+
+Reread whole: 13, 16, 25, 31, 32, 36, 46, 47. Surfaces measured by `python3 tools/okf-workspace.py doctor` (heading keywords: proposition = claim/thesis/proposition; warrant = warrant/derivation/structural/payload/…; counterpressure = tension/limit/boundary/proof/discipline/remainder/…; transition = a heading containing transition/return/release/anchor, or a link to the next movement).
+
+- 13 (s1-p0 sign-migrates): has thesis, warrant (Derivation and source moves; Argumentative consequence), counterpressure (Audit boundary). No heading named transition; the doctor passes it through the link to movement 14. No surface lacking by the tool.
+- 16 (s1-p3 crossed-zero): lacks the counterpressure surface (no heading reading tension / limit / boundary / proof / discipline / remainder). Headings: Movement thesis, Formal and symbolic payload, The gap is constitutive, Symbol and formal neighbour, Transition.
+- 25 (s3-p0 eight-determinations): lacks the warrant surface and the counterpressure surface (doctor reports it as a thin-section debt). Headings: Movement thesis, The internal grammar of the six, Calculus, QL placement, Perspective becomes context, Four joints carried forward, Transition.
+- 31 (s4-p0 psychoid-problem): has Claim, Warrant, Tension / limit. No heading named transition; passes through the link to movement 32.
+- 32 (s4-p1 jung-individuation): lacks the counterpressure surface. Headings: Claim, Warrant, Anchor and transition.
+- 36 (s4-p5 mef-prompt-thrownness): lacks the counterpressure surface. Headings: Claim, Warrant, Anchor and transition.
+- 46 (s50-p3 4-2-mono-poly): has Claim, Warrant, Tension / limit. No heading named transition; passes through the link to movement 47.
+- 47 (s50-p4 idealism-horizon): lacks the counterpressure surface. Headings include Epistemic originality and metaphysical dependence (warrant), Śaiva depth, Agentworld refraction, The horizon held by distinct warrants, Anchor and transition.
+
+Net by the tool: 16, 25, 32, 36, 47 fail a surface on main (the same five that failed before this pass); 13, 31, 46 pass. No new heading was added, as instructed.
