@@ -8,6 +8,7 @@ position: "#3"
 sequence: 16
 claim_status: Offered
 evidence_status: symbolic-formal
+source_ids: [lacan-1993-seminar-iii-psychoses, alkhwarizmi-1857-algoritmi-de-numero-indorum, taylor-2026-core-theorems-pithy]
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/return-zero, argument-map/symbolic, station/s1, position/p3]
 ---
 # §1 · #3 — The Crossed Zero
@@ -18,7 +19,7 @@ Movement 16 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous]
 
 ## Movement thesis
 
-`Ø` is the first occlusion in the essay's native recognition-matheme: **the mediating stroke is present and fused into the zero it crosses**. The sign therefore does more than place a mark inside an empty circle. It images a relation whose middle has not yet been recognised as middle, and the person who lives it experiences the formed interpretation as the one who interprets, the eye mistaking a sky for its gaze.
+`Ø` is the first occlusion in the essay's native recognition-matheme: **the mediating stroke is present and fused into the zero it crosses**. Typographic history shows the structure in a form small enough to hold. Someone reading a router password cannot tell the zero from the letter O, because the typeface draws both as the same oval; programmers on coding sheets and the designers of early terminals struck the zero through with a diagonal stroke so that no one could read it as a letter; Danish and Norwegian write the vowel Ø; mathematics writes the empty set ∅, a sign Weil proposed to Bourbaki in 1939 because he alone knew the Norwegian alphabet; engineering writes a diameter ⌀. In each case a stroke crosses an empty figure and makes it determinate, a *this* rather than a *that*, and the stroke fills nothing: it marks the zero as one kind of thing among others, so that it can be counted, typed, read and told apart.
 
 <!-- figure:crossed-zero-stroke-does-not-fill -->
 
@@ -28,34 +29,28 @@ Movement 16 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous]
 
 <!-- /figure:crossed-zero-stroke-does-not-fill -->
 
-The movement is:
+The movement reads:
 
 $$
 0 \longrightarrow Ø
 $$
 
-At `0` the unobjectifiable condition has only been indicated. At `Ø` determination has occurred and the act of determination is not yet differentiated from the subject-pole, so the figure can be misread as a determinate "I" that owns or produces the world: the slash that mediates appearing has collapsed into the zero, and the zero appears as a thing.
-
-Uncrossing the zero therefore means leaving the stroke in place and letting it become legible *as mediation*, since erasing it would erase the means through which recognition occurs. The later native sequence distinguishes the world the stroke has helped disclose, the instrument through which disclosure occurs, and the relations on both sides before returning to `0/1`. M16 carries only the first decisive pressure, and the full recognition-matheme keeps its later office.
+In `0/1` the zero is the unobjectifiable pole of knowing, the one is the determinate world, and the slash is the activity through which the one appears to the zero. In `Ø` the slash has collapsed into the zero, which is dia-ballein's cancellation of the `0/`: the stroke through which the one appears is summed into the zero it served, so that a relation vanishes into a thing. Something is still seen, recognised, wanted and defended, so the means is still at work, but it has fused with the subject-pole and the whole figure appears as one determinate thing, a self, where it should appear as a relation. Whoever lives it experiences the formed interpretation as the one who interprets, the eye mistaking a sky for its gaze. Without the stroke the password could not be typed, so the gain is real; the cost arrives when the marked figure is taken for what it marks. The reading is **Offered** and rests on the native operation in the core theorems: [The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **sources** it, and the typographic facts are documentary.
 
 ## Formal and symbolic payload
 
-[The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) supplies the native authorial operation. Set theory has just given one exact representation in which zero and successor are related, and the crossed zero leaves that local proof regime and enters the essay's Symbolon/Matheme field, where its force is **Offered**.
+Uncrossing the zero means leaving the stroke in place and letting it become legible as mediation, because erasing it would erase the means through which recognition occurs. §0/1 · #4 pictured the same crossing in the eye at the apex of Alberti's pyramid: in a perspectival picture the vanishing point holds nothing at the far end of every line and the eye holds the whole scene at the near end, two zeros, and the picture works by letting the second be forgotten.
 
-The figure carries three terms even before all three are written: the zero-space, or subject-pole, which cannot be exhausted as an object; the mediating stroke through which determination occurs; and the determinate world or mark that the mediation makes available. The error of `Ø` lies in mediation becoming invisible through its own success. "I see the world" contracts into an apparent `I / world` opposition because the seeing has disappeared into the first term, and §0 already gave that hidden middle a positive anatomy, to which the crossed zero adds a compact sign for its occlusion.
+Set theory has just given one exact representation in which zero and successor are related, and the crossed zero leaves that local proof regime for the essay's Symbolon/Matheme field. The one as singleton, $1=\{\varnothing\}$, has a counterpart in language, Lacan's master signifier. It fixes a chain of meaning in place, the *point de capiton* or quilting point of §0/1 · #3, and a field's first signifier cannot draw its authority from another signifier already inside the field, any more than the first one of von Neumann's sequence can draw its content from a number already counted; each institutes the count by cutting into a no-thing it never exhausts. Singleton and master signifier perform one structural function in two registers, a determinate mark that binds a field to a ground it cannot contain, and each can fail as `Ø` fails: a master signifier fails when "God" or "the nation" or "my identity" is taken to be the source of the meanings it holds together, and a quilting point that knows itself provisional holds without that claim. Our core theorems state the difference in a sentence the manuscript keeps as it stands: the slide is real because the threader does not slide. Meaning slides beneath the signifier, and what the sliding does not reach is the one for whom it slides, who is never one more link. A `1` with its `0/` struck off, asked to serve as its own ground, appropriates the sense of a whole field for one link and slides like every other; a `1` that remains `0/1`, doubly oriented and joined to the ground it carries, can hold as long as it is needed and be released when a better holding is found. Lacan's Seminar XVII has no house yet, so this comparison stays at the level of the function.
 
 ## The gap is constitutive, not a reserve of unexplained functions
 
-The crossed zero changes the meaning of the gap. Once the slash is recognised as mediation, the gap between ground and mark is no dark interval waiting for one more object to fill it. Empirical gaps can close, mechanisms can become inspectable, and capacities can migrate across substrates without touching the distinction at issue, and what becomes clearer is the **means**: how a determination is produced, inherited, revised and returned.
+Once the zero is crossed, the gap §0/1 opened passes easily for a residue. God of the gaps and humanity of the gaps make one error, each identifying a subject with whatever capacities are not yet explained; once the slash fuses into the zero, the means of knowing appears as the knower, and every explanation of the means looks like a step toward explaining the knower. Empirical gaps close, mechanisms become inspectable and capacities migrate from organisms to machines without touching the distinction between the knowing and what it knows, and what grows clearer as they do is the **means**: how a determination is produced, inherited, revised and returned. What knows was never the last unexplained function in the inventory; it seemed so because the zero had been crossed. §0/1 gave the immutable gap its formal shape through Gödel's sentences, and the gap relocates with every enlargement of the stroke, because no stroke fills the circle it crosses.
 
-This reverses both the God-of-the-gaps and the humanity-of-the-gaps strategies. Neither divinity nor humanity needs to occupy an unexplained remainder in the inventory of functions, because the Subject was never the final unmeasured function. It is the knower-pole, and treating it as an object is the category error the crossed-zero traversal teaches the reader to recognise.
+## Tension / limit
 
-## Symbol and formal neighbour
-
-Set theory supplies the immediately preceding formal neighbour, in which zero and successor are related, and the crossed zero changes register and gives mediation an imaginal body. Later Lacanian material gives another comparison when the signifying bar and quilting point enter the argument.
-
-Recognition is incomplete at `Ø`. The world-side `X`, the visible medium `Ø/X`, the relation of relations `(0/Ø)/(1/X)` and the affirmed `1` must still be traversed before the return to `0/1`, and the sign matters as one arrested moment inside that larger movement.
+At this first appearance `Ø` has one job: it shows representation crossing a zero-space it cannot fill, and occlusion begins only when the crossed figure is read as a filled one. The further steps belong to the recognition series (the world-side `X`, the visible medium `Ø/X`, the relation of relations `(0/Ø)/(1/X)` and the affirmed `1`, before the return to `0/1`) and belongs to §4 · #3, where Lacan's barred subject and the philosophers who each took one side of the crossing give every step its psychic body; the plate inscribes the series as horizon and performs only the first occlusion and its recognition. Empty set ∅, graphic zero and unobjectifiable Subject are three different things, and the comparison runs through a shared structure of crossing and determination alone. Carriers still open: Cajori, cited by the slashed-zero article for the older mathematical appearance, is not read; Weil's page and Seminar XVII have no page or house; the code points are standard. Plan §1 · #3 describes `Ø` as a visual `0/1` held without collapse, whereas the manuscript, like the plate's left panel, reads it as the fused occlusion and keeps the uncrossed reading for the recognition that follows.
 
 ## Transition
 
-The stroke has become a problem in its own right. When a determinate `1` returns toward zero, ordinary arithmetic makes the formal boundary explicit, since what happens to `1/0` depends on the containing mathematical structure. See [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]].
+The stroke is now a problem in its own right: the means of determination, without which nothing could be counted, read, typed or known, and which tends to present itself as what it serves. Mathematics has a precise form for the problem, and it appears when the determinate one tries to return to the zero it crosses by dividing by it. [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]] follows that return.
