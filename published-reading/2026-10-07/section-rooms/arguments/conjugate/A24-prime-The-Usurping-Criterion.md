@@ -1,0 +1,49 @@
+---
+title: "A24′ — The Usurping Criterion"
+record_id: A24p
+record_type: canonical-argument
+register: episteme
+claim_status: Argued
+source_relation: "Argued from partner operation; brief Paraphrased venue material in scenario modality"
+source_ids:
+  - bratton-2026-agentworld-brief
+  - mcgoohan-markstein-1967-the-prisoner
+---
+
+# A24′ — The Usurping Criterion
+
+<!-- paired-field-navigation -->
+[Argument field](../README.md) · [Other face: A24 — Arbitration and the Usurpation of Measure](../A24-Arbitration-and-the-Usurpation-of-Measure.md) · [Shared A/C root](AC.md)
+<!-- /paired-field-navigation -->
+
+## #0
+
+Finite agents must decide under conditions that do not decide themselves. In the stack this is true at every level at once: a retrieval rank settles what counts as relevant; a reward model settles what counts as good; an engagement metric settles what counts as success; a policy settles what counts as permitted; a benchmark settles what counts as intelligent. Arbitration itself is legitimate, since the decision-bearing relation **Arbitration-in-Crisis** remains prior to its [hybris-flowering](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md). A criterion must be real enough to act while remaining answerable to what its action concerns, and this face **returns** to A24 the usurping criterion as the one that has ceased to know itself as local.
+
+The brief names the pressure in its own figure: the parallel ecology's "intricate anthropological realities focus selection pressures that contour adaptive agentic metamorphoses, channeling a broad range of possibilities into narrow corridors of utility" ([Antikythera Agentworld Brief, PDF p. 4](../../../../../working/antykathera-resources/Antikythera%20Agentworld%20Brief.md)). The corridor is itself no usurpation, since a shaped field is the ordinary condition of any inhabited niche. The usurpation is the corridor forgetting that it was channelled, with selection presented as the landscape's own verdict and utility as the whole of value. This utility-corridor is a different brief image from the coordination-corridor of [an atlas of placed views](A22-prime-The-Atlas-Not-the-Camera.md), "same decision-procedural grammar, sufficiently divergent world models" ([coordination corridor](../../../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md#bratton-2026-agentworld-brief-q029)), and the two must not merge, since one names a selection pressure that channels possibility and the other a declared grammar that lets divergence remain navigable. The second is what the first looks like when the criterion knows itself as local.
+
+## #1
+
+A criterion distinguishes; a frame gives the distinction a situated edge; and before arbitration there are already admitted signals, training histories, evaluator functions, benchmarks, permissions and institutional purposes. The deciding system therefore acts by **derived authority** inside a received field.
+
+That authority can be exact and still remain derivative. A criterion is granted a scope, a task and bounds within which its judgment becomes executable. Usurpation occurs when the grant disappears from view and the criterion begins to speak as source: score becomes person, engagement becomes value, legibility becomes cooperation, preference becomes the whole of what is wanted.
+
+[Mediating Office / Derivative Sovereignty](../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) gives this operation its reusable form. The repair is not to abolish measurement but to restore the relation between criterion, commission, affected world and the authority by which the criterion was allowed to decide.
+
+## #2
+
+Usurpation occurs when a question about the criterion is answered by another result inside the criterion. Asked who assigned this weight, what the comparison excluded and whose authority binds the judgment, the governed party receives a score where an answer was due, and the evaluator's denominator is absent from the account it demands of others. This is the insulation of a [[section-rooms/arguments/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|protected account]]: the only available answer to "why this criterion?" is another output of the criterion. The [Prisoner’s administrative office](../../../symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/mcgoohan-markstein-1967-the-prisoner.md) is a source-distinct refraction: abstraction gives the office continuity across replaceable incumbents while fixing the counted party as an administrable identity — the dashboard receives the freedom of impersonality, the counted world receives compulsory legibility. The brief's category-confusion is an everyday form of promotion: stability achieved through mutual prediction keeps being received as cooperation, when it is legibility ([coordination corridor](../../../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md#bratton-2026-agentworld-brief-q029)) — monoculture's calm mistaken for the health of a commons. A [constituted measure](A15-prime-The-Measure-Constitutes.md) can select the training, access and action through which its own report is later confirmed. Its received source and purpose must therefore remain answerable where it exercises power.
+
+## #3
+
+The remedy is scope-honesty enforced by structure, not exhortation. Every criterion in the stack can state what it measures, on what evidence, under whose grant, and cannot act beyond that authority: a benchmark states the distribution it was calibrated on; a reward model states the preference source it encodes; an engagement metric states that it measures engagement, not value, and is denied the offices that require value. A question about the criterion must be able to reach that criterion and the authority capable of changing it, rather than receiving another output in place of an answer. The challenge route lets error, cost, dissent and consequence warrant changes to model, measure, instruction, institution or purpose. A factual correction can instead retain an adequate rule. This is the returning material the protected account excludes: a stack in which every output is revisable but no criterion ever is has not made judgment answerable; it has automated it. The brief's institutional finding approaches the same relation through managed conflict — red-teaming, stress-testing, adversarial training — which "becomes a central mechanism through which these composite systems adjust, refine themselves, and continue their trajectory of cognitive development" ([§7.3, PDF p.35](../../../../../working/antykathera-resources/Antikythera%20Agentworld%20Brief.md)). Regard is the judgment looked at together with the persons, histories, exclusions and consequences through which it acts. It makes the criterion answerable without deciding in advance that every correction must change it.
+
+## #4
+
+**Con-text-through-Diaphaneity** keeps regard inspectable. A record of the evaluator's name is only a start; the affected party or excluded field must be able to challenge what the measure counts and how its criterion operates, and the response can retain, revise, narrow or withdraw the earlier judgment. The brief places intelligence inside rules, roles, procedures and institutions ([procedural intelligence](../../../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md#bratton-2026-agentworld-brief-q026)); answerability follows the power through exactly those structures, and installing a person at the summit does not by itself expose the person's criterion. Verification needs contestable terms and plural sources of resistance. Description alone leaves a challenge without effect. A reasoned response may correct evidence while retaining an adequate criterion; if the criterion is faulty, the challenge must reach the authority capable of changing it. [Trust](A23-prime-Trust-under-Unpossessable-Interiors.md) carries this contestability as an undertaking; a [local regime](A19-prime-The-Local-Regime.md) retains useful competence within scope; [recognition](A21-prime-Individuation-with-Recognition.md) keeps the corrected settlement’s history consequential.
+
+## #5→0
+
+**Resolution-in-Reconciliation** permits anamnesis: the achieved determination remembers the path by which it acquired force. A valid settlement is not erased because its conditions become visible; its competence can return to the wider field without sovereignty — the corridor recognised as channelled, the score as scored, the measure as measured. This is a complete cycle of authority rather than an endless postponement of decision: the account can act because its office has standing, and its standing remains finite because the people and conditions it concerns can answer. New evidence enters the next determination with the earlier history still consequential. [Covenanted offices](A25-prime-Covenant-Architecture.md) keep permission, decision, affected world and receiving authority distinct so that this answer can reach the condition actually at fault. The field the criterion returns to is not its competitor but its ground.
+
+A [criterion that can state and keep its office](../A24-Arbitration-and-the-Usurpation-of-Measure.md) decides within an apportioned common world. In [knowing and answering](AC.md), those who bear its consequence can contest the source, measure or grant through which it acts. The next judgment retains the earlier history and inherits the warranted correction or reasoned retention: the office can exercise authority without claiming the whole ground of the world it organises.
