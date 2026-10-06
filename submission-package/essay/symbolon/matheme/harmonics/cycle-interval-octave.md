@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Name what is returning
 
-A frequency, an interval and a pitch class are different objects. The [musical derivation house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) and [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) carry their native relation. [Scholtz](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md) fixes the pure and tempered tuning distinctions.
+A frequency, an interval and a pitch class are three different objects, and a cycle returns each of them differently. The [musical derivation house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) and the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) **source** the native relation among them, and [Scholtz](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md) **sources** the distinction between pure and tempered tuning.
 
 Let `f>0`, choose reference `f₀`, and set `u=log₂(f/f₀)`. Multiplication of frequencies by 2 adds 1 to `u`. Quotienting `u` by integer shifts gives an octave-equivalence class in `ℝ/ℤ`.
 
@@ -35,12 +35,12 @@ On the chromatic even orbit, the closing step A♯→C is two semitones modulo 1
 
 ## #4 — Distinguish pure iteration from the cyclic model
 
-Pure fifth iteration multiplies by 3/2, whose twelvefold product differs from seven octaves by the [comma](pythagorean-comma.md). Pure 9/8 iteration likewise overshoots one octave after six tones. Thus the finite pitch-class orbit is a selected tempered identification, not an unadjusted equality among pure frequencies.
+Pure fifth iteration multiplies by 3/2, and its twelvefold product differs from seven octaves by the [comma](pythagorean-comma.md). Pure 9/8 iteration likewise overshoots one octave after six tones. The finite pitch-class orbit is therefore a selected tempered identification, and it asserts no equality among pure frequencies.
 
-The source's rhythm-to-pitch relation concerns temporal organisation becoming audible as tonal experience. It is not exhausted by an octave quotient, and no universal perceptual threshold is established here. Waveform, presentation and listener conditions require their own empirical account.
+The source's relation of rhythm to pitch concerns temporal organisation becoming audible as tonal experience, which an octave quotient does not exhaust. Waveform, presentation and listener conditions would each need their own empirical account before any perceptual threshold could be named.
 
 ## #5→0 — Return class with displacement retained
 
-The result records both what returned and what moved: class can repeat while frequency rises, a formal pattern can recur while the particular traversal remains different. This is the exact musical carrier for the native account of return with retained difference.
+The result records both what returned and what moved: the class repeats while the frequency rises, and a formal pattern recurs while the particular traversal differs. This is the exact musical carrier of the native account of return with retained difference.
 
-This record returns-to [Movement29](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), [topological quilt](../quilt/topology.md) and [whole-tone return](whole-tone-return.md). The full process/music chain states its inverse phase explicitly; a cyclic residue alone does not provide that entire native traversal.
+This record **returns-to** [Movement29](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), the [topological quilt](../quilt/topology.md) and [whole-tone return](whole-tone-return.md). The full process/music chain states its inverse phase explicitly, which a cyclic residue cannot supply, so the native traversal is wider than the cycle shown here.

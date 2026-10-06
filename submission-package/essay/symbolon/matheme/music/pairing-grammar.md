@@ -20,7 +20,7 @@ The [two chromatic substrates](chromatic-substrates.md) give a twelve-state fiel
 
 A pair `(i,j)` first specifies positions, with its written order available for melodic traversal. An interval follows only after a basis, face and direction have been selected. This lets one grammar operate in both substrate maps while producing different intervals.
 
-The three families are **A, Being; B, Becoming; C, Knowing/unKnowing**. They classify operations on pairs across the hexad. The [qualitative sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) first names Being/Becoming/Knowing as three successive dyads; the music grammar uses those names at a further level, for three ways of pairing the field. These two applications remain distinct.
+The three families are **A, Being; B, Becoming; C, Knowing/unKnowing**, and they classify operations on pairs across the hexad. The [qualitative sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) first names Being, Becoming and Knowing as three successive dyads, and the music grammar uses the same names at a further level, for three ways of pairing the field. The two applications are different, and each is exact in its own place.
 
 ## #1 — Adjacent articulation, mirror, crossing
 
@@ -124,9 +124,9 @@ The three B-squares also carry an exact Klein-four operation. Mirror `m(k,ε)=(5
 
 ## #5→0 — Invariance carries the return
 
-D-both preserves every within-face family interval because it shifts both endpoints by the same amount: one semitone in the chromatic map, six in the fifths map. Subtracting the shifted pitch classes cancels that common shift. The same proof applies to a common transposition of the anchor. Pairing is consequently invariant under these operations even though changing basis changes its interval realisations.
+D-both preserves every within-face family interval because it shifts both endpoints by the same amount, one semitone in the chromatic map and six in the fifths map, and subtracting the shifted pitch classes cancels the shift. The same proof covers a common transposition of the anchor. Pairing is therefore invariant under these operations, even though a change of basis changes its interval realisations.
 
-This is the grammar’s operative universality: A, B and C select positions, while the chosen projection supplies their pitches. A scale restriction or modal reading must still state which of those positions it retains. The family definitions remain available without implying that every pair is simultaneously present in every selected scale.
+That is the grammar's operative universality: A, B and C select positions, and the chosen projection supplies their pitches. A scale restriction or modal reading still has to say which of the positions it keeps, since a pair belongs to the family definitions and need not sound in every selected scale.
 
 The musical circuit retains both directed traversals:
 
@@ -135,9 +135,9 @@ $$
 =4'+2'=(5'\rightarrow0')=\frac01.
 $$
 
-Primes in this process chain mark inverse-phase positions; primes on the musical pairs mark the conjugate P′ face of File 3’s Night-pass projection. D acts in the latter office. Keeping the two uses explicit lets musical reflection conduct the full return without replacing one indexing system with the other.
+Primes in this process chain mark inverse-phase positions, and primes on the musical pairs mark the conjugate P′ face of File 3’s Night-pass projection, which is the office D acts in. With the two uses kept apart, musical reflection can conduct the full return without one indexing system replacing the other.
 
-An [accountable interval](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains its selected pair, direction, tuning and transformation for inspection. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) returns through this retained difference. The exact pair operations can be sounded under their declared conditions; the resulting performance must keep the transformation distinguishable from the source pair.
+An [accountable interval](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the keeping of the selected pair, direction, tuning and transformation open to inspection, and [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) **returns-to** this page through the retained difference. The exact pair operations can be sounded under their declared conditions, and the performance keeps the transformation distinguishable from the source pair.
 ## Source and implementation standing
 
 The matrices are the housed candidate’s grammar; the current ql-mef implementation remains unrecovered. The exact pair operations stand here, ready to be sounded under their declared conditions.

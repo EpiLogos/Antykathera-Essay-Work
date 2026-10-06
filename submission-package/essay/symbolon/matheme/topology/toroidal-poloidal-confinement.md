@@ -18,7 +18,7 @@ figures:
 
 ## #0
 
-Toroidal confinement gives circulation a material task: sustain a hot plasma in a bounded region while controlling its relation to the vessel. The [housed ITER account](../../episteme/sources/physics/iter/iter-what-is-tokamak/iter-what-is-tokamak.md#iter-what-is-tokamak-q001) establishes the doughnut-shaped vacuum chamber, charged plasma and magnetic apparatus. The [native core, VIII](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) takes that apparatus as a physical neighbour of return through differentiated winding. The mathematical surface and the engineered plasma retain different proof obligations.
+Toroidal confinement gives circulation a material task: to sustain a hot plasma in a bounded region while controlling its relation to the vessel. The [housed ITER account](../../episteme/sources/physics/iter/iter-what-is-tokamak/iter-what-is-tokamak.md#iter-what-is-tokamak-q001) **sources** the doughnut-shaped vacuum chamber, the charged plasma and the magnetic apparatus. The [native core, VIII](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) takes that apparatus as a physical neighbour of return through differentiated winding. The mathematical surface and the engineered plasma carry different proof obligations.
 
 ![A labelled colour schematic of a doughnut-shaped tokamak: blue D-shaped toroidal field coils ring a pink toroidal plasma, with grey outer poloidal coils and a green central solenoid; arrows and labels name the toroidal magnetic field, the poloidal magnetic field, the resulting helical field and the plasma current.](images/tokamak-chamber-and-magnetic-fields-schematic.jpg)
 
@@ -26,24 +26,24 @@ Toroidal confinement gives circulation a material task: sustain a hot plasma in 
 >
 > Credit: R. A. Pitts, R. J. Buttery and S. D. Pinches, "Fusion: the way ahead," *Physics World* 19, no. 3 (2006): 20. CC BY 4.0.
 
-Toroidal and poloidal directions compose under the geometric and field assumptions stated below. In the institutional tokamak account, their coupled magnetic fields guide a plasma around the containing toroidal arrangement. That physical coupling gives QL a bounded comparison: distinguish the directed movements, then recover the conditions through which they work together. [Toroidal circulation](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) receives a precise physical case of coupled movement, while [the differential field](../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) retains the relation within which that case becomes legible.
+Toroidal and poloidal directions compose under the geometric and field assumptions stated below. In the institutional tokamak account, their coupled magnetic fields guide a plasma around the containing toroidal arrangement. That physical coupling gives QL a bounded comparison: distinguish the directed movements, then recover the conditions through which they work together. [Toroidal circulation](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) **returns-to** this page for a precise physical case of coupled movement, and [the differential field](../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) **grounds** the relation within which that case becomes legible.
 
 ## #1
 
-Use a circular torus of major radius \(R\) and minor radius \(r\), with \(R>r>0\):
+Use a circular torus of major radius $R$ and minor radius $r$, with $R>r>0$:
 
-\[
+$$
 X(\theta,\phi)=((R+r\cos\theta)\cos\phi,
 (R+r\cos\theta)\sin\phi,r\sin\theta).
-\]
+$$
 
-Both angles are modulo \(2\pi\). Varying \(\phi\) at fixed \(\theta\) goes toroidally around the central axis, the long direction. Varying \(\theta\) at fixed \(\phi\) goes poloidally around the tube's cross-section, the short direction. The coordinate tangents are orthogonal and have lengths
+Both angles are modulo $2\pi$. Varying $\phi$ at fixed $\theta$ goes toroidally around the central axis, the long direction. Varying $\theta$ at fixed $\phi$ goes poloidally around the tube's cross-section, the short direction. The coordinate tangents are orthogonal and have lengths
 
-\[
+$$
 |X_\theta|=r,\qquad |X_\phi|=R+r\cos\theta.
-\]
+$$
 
-Write their unit vectors as \(e_\theta\) and \(e_\phi\). The angular and physical components therefore carry different scale factors. A toroidal angular step on the outer side traverses more physical distance than the same angular step on the inner side.
+Write their unit vectors as $e_\theta$ and $e_\phi$. The angular and physical components therefore carry different scale factors. A toroidal angular step on the outer side traverses more physical distance than the same angular step on the inner side.
 
 These are two independent directions on a surface. The plasma occupies a volume, and a magnetic configuration can contain a family of surfaces within it. This chosen circular surface is a geometric model; it does not reproduce an entire vessel, a shaped plasma boundary or an experimentally reconstructed equilibrium. The [torus quotient and winding construction](torus-cover-winding.md) proves the integer displacement retained by a lifted loop; [Hatcher's selected covering constructions](../../episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/hatcher-2002-algebraic-topology.md) supply the corresponding mathematical reference.
 
@@ -51,27 +51,27 @@ These are two independent directions on a surface. The plasma occupies a volume,
 
 On the model surface, take a nonzero tangent field
 
-\[
+$$
 B=B_\theta e_\theta+B_\phi e_\phi.
-\]
+$$
 
-A field line is a curve whose tangent is parallel to \(B\); its curve parameter need not be physical time. Where \(B_\phi\ne0\), its angular slope follows from the metric factors:
+A field line is a curve whose tangent is parallel to $B$; its curve parameter need not be physical time. Where $B_\phi\ne0$, its angular slope follows from the metric factors:
 
-\[
+$$
 \frac{d\theta}{d\phi}
 =\frac{B_\theta/r}{B_\phi/(R+r\cos\theta)}
 =\frac{R+r\cos\theta}{r}\frac{B_\theta}{B_\phi}.
-\]
+$$
 
-Thus the ratio of physical components is not by itself the angular winding ratio. To specify the simple helical curve \(\theta=\phi/2\), choose the direction ratio
+Thus the ratio of physical components is not by itself the angular winding ratio. To specify the simple helical curve $\theta=\phi/2$, choose the direction ratio
 
-\[
+$$
 \frac{B_\theta}{B_\phi}=\frac{r}{2(R+r\cos\theta)}.
-\]
+$$
 
-For \(R=3\) and \(r=1\) in a common length unit, this ratio is \(1/8\) at \(\theta=0\) and \(1/4\) at \(\theta=\pi\). Both yield \(d\theta/d\phi=1/2\). From zero angles, the curve closes after \(\phi=4\pi\), \(\theta=2\pi\): two toroidal turns and one poloidal turn. After only one toroidal turn it is on the opposite side of the tube's cross-section.
+For $R=3$ and $r=1$ in a common length unit, this ratio is $1/8$ at $\theta=0$ and $1/4$ at $\theta=\pi$. Both yield $d\theta/d\phi=1/2$. From zero angles, the curve closes after $\phi=4\pi$, $\theta=2\pi$: two toroidal turns and one poloidal turn. After only one toroidal turn it is on the opposite side of the tube's cross-section.
 
-This constructs a line direction and its winding. It does not solve Maxwell's equations and plasma force balance for a three-dimensional field. In a constant-angular-slope model, rational slope gives a closed line and irrational slope gives dense winding on that surface. Neither condition alone measures confinement quality. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) receives the exact conversion between physical components, local angular scale and completed winding.
+This constructs a line direction and its winding, and the construction stops short of Maxwell's equations and plasma force balance for a three-dimensional field. In a constant-angular-slope model a rational slope gives a closed line and an irrational slope gives dense winding on that surface, and neither condition alone measures confinement quality. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the exact conversion between physical components, local angular scale and completed winding.
 
 ## #3
 
@@ -85,18 +85,18 @@ These two primary resources were recovered directly for this page. They have not
 
 A field line describes magnetic direction. A charged particle has additional motion. In the idealised nonrelativistic case of a uniform magnetic field with no electric field, the Lorentz equation is
 
-\[
+$$
 m\dot v=Q\,v\times B.
-\]
+$$
 
-Its perpendicular component turns with cyclotron-frequency magnitude \(|Q|B/m\); its parallel component remains constant. For perpendicular speed \(v_\perp\), the orbit radius is \(\rho=mv_\perp/(|Q|B)\). The resulting particle helix around a field line is distinct from the field line's toroidal/poloidal helix around the machine. A guiding-centre approximation requires the orbit scale to be small compared with the scale on which the field changes. The uniform-field calculation supplies no general trajectory solution in a toroidal plasma.
+Its perpendicular component turns with cyclotron-frequency magnitude $|Q|B/m$; its parallel component remains constant. For perpendicular speed $v_\perp$, the orbit radius is $\rho=mv_\perp/(|Q|B)$. The resulting particle helix around a field line is distinct from the field line's toroidal/poloidal helix around the machine. A guiding-centre approximation requires the orbit scale to be small compared with the scale on which the field changes. The uniform-field calculation supplies no general trajectory solution in a toroidal plasma.
 
 The same equation yields
 
-\[
+$$
 \frac{d}{dt}\left(\frac12m|v|^2\right)
 =Q\,v\cdot(v\times B)=0.
-\]
+$$
 
 This is conservation of a particle's kinetic energy under the stated magnetic-only force law. Its reason is the perpendicular force, not the genus of a surrounding surface. Heating, collisions, electric fields, nonuniformity, transport and collective plasma behaviour require additional terms or models. A closed toroidal chamber removes the simple ends of a straight tube; it does not eliminate particle or energy losses.
 
@@ -104,8 +104,8 @@ Physical confinement consequently needs measurements of the actual field, plasma
 
 ## #5→0
 
-The earned relation is movement sustained through differentiated directions, with the conditions of its return made explicit. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) place that relation within the native field. The [core source](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) grounds the prior quotient, independent windings and circulation; the physical case shows one engineering use of that available geometry. Its force survives without a claim that the torus is universally optimal or that topological return entails metaphysical conservation.
+The earned relation is movement sustained through differentiated directions, with the conditions of its return made explicit. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) **ground** that relation in the native field. The [core source](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **derives** the prior quotient, the independent windings and the circulation, and the physical case shows one engineering use of that available geometry. Its force holds without any claim that the torus is universally optimal or that topological return entails metaphysical conservation.
 
-The [Matheme Two Locks](../README.md) keep the larger record forms intact. Definition/Quilt carry `0/1 = 4+2 = 5→0 = 0/1`; Process/Music carry `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. The [Binary source house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) retains their provenance. File 2's inverse-phase primes and File 3's Night sequence have their own offices; the two magnetic directions neither replace those sequences nor mechanically enact them.
+The [Matheme Two Locks](../README.md) keep the larger record forms intact. Definition/Quilt carry `0/1 = 4+2 = 5→0 = 0/1`; Process/Music carry `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. The [Binary source house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) **sources** their provenance. File 2's inverse-phase primes and File 3's Night sequence have their own offices, and the two magnetic directions are two separate things from those sequences.
 
-[The arche-topos](../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md) holds this material witness together with its distinct geometric and physical conditions. [Antikythera attunement](../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) carries its bounded instrumental relation onward: a made arrangement coordinates processes whose powers it does not create from nothing. The final return is therefore to the apparatus and its conditions—field, current, geometry, plasma, measurement and correction—through which this particular circulation can be sustained.
+[The arche-topos](../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md) holds this material witness together with its distinct geometric and physical conditions. [Antikythera attunement](../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) **extends** its bounded instrumental relation: a made arrangement coordinates processes whose powers it does not create from nothing. The final return is therefore to the apparatus and its conditions of field, current, geometry, plasma, measurement and correction, through which this particular circulation can be sustained.

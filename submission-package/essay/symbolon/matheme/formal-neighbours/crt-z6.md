@@ -15,7 +15,7 @@ Let `ℤ/nℤ` denote integer residue classes modulo `n`. Define
 
 `φ:ℤ/6ℤ→ℤ/2ℤ×ℤ/3ℤ`, `φ([k]₆)=([k]₂,[k]₃)`.
 
-This [Chinese-remainder construction](../../../section-rooms/arguments/concepts/reference-notes/chinese-remainder-theorem-z6.md) gives an exact finite counterpart to the [native binary/ternary account](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md). Its relation is earned through the explicit map and proof below; historical quotation retains its separate source question.
+This [Chinese-remainder construction](../../../section-rooms/arguments/concepts/reference-notes/chinese-remainder-theorem-z6.md) **compares** as an exact finite counterpart of the [native binary/ternary account](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), and the explicit map and proof below earn the comparison. A historical quotation of the theorem would need its own source.
 
 ## #1 — Enumerate all six images
 
@@ -40,16 +40,16 @@ For example, the pair `(1,2)` gives `3+8=11≡5 mod6`. The pair `(0,1)` gives 4.
 
 Reduction modulo 2 and modulo 3 each preserves integer addition and multiplication. Consequently `φ(k+l)=φ(k)+φ(l)` and `φ(kl)=φ(k)φ(l)`, with componentwise operations in the product. The map also preserves 1, making it a ring isomorphism.
 
-Coprimality matters. With moduli 2 and 4, a residue's mod 2 value is forced by its mod 4 value; the pair `(1 mod2,0 mod4)` is impossible. Independence of the two coordinates in the present construction depends on `gcd(2,3)=1`.
+Coprimality carries the result. With moduli 2 and 4, a residue's mod 2 value is forced by its mod 4 value, so the pair `(1 mod2,0 mod4)` cannot occur. The two coordinates are independent in the present construction because `gcd(2,3)=1`.
 
 ## #4 — Retain the algebraic boundary
 
 `ℤ/6ℤ` is not a field: the nonzero classes 2 and 3 multiply to 0. Under `φ`, they become `(0,2)` and `(1,0)`, whose componentwise product is `(0,0)`. This exposes the product's zero-divisor structure directly.
 
-The native sixfold can receive this as an exact binary/ternary decomposition. The isomorphism does not independently assign personhood, harmonic meaning or QL positions to the residues. Those assignments require their declared maps. Its content is stronger and narrower: six residues form the exact product ring of the coprime two- and three-residue systems.
+The native sixfold can receive this as an exact binary/ternary decomposition. What the isomorphism says is that six residues form exactly the product ring of the coprime two-residue and three-residue systems. Assigning personhood, harmonic meaning or QL positions to the residues is a further step and needs its declared maps.
 
 ## #5→0 — Return the pair to one address
 
-The result permits passage both ways without loss: one mod 6 address becomes two independent residues, and `3a+4b` recovers it. This gives [translations](../mono-poly/translations.md) a concrete bijective example alongside maps that discard information.
+Passage runs both ways without loss: one mod 6 address becomes two independent residues, and `3a+4b` recovers the address. [Translations](../mono-poly/translations.md) thereby gain a concrete bijective example beside the maps that discard information.
 
-The [native sixfold](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retains its qualitative assignments through the declared coordinate mapping. [Perfect six](../harmonics/perfect-six.md) gathers the proper divisors `1+2+3=6`, while [the Spanda relation](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) has its own binary/ternary and ratio offices. The coprime product ring preserves its operations through these comparative returns.
+The [native sixfold](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keeps its qualitative assignments through the declared coordinate mapping. [Perfect six](../harmonics/perfect-six.md) **compares** another route to the same number, the proper divisors `1+2+3=6`, and [the Spanda relation](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) carries its own binary/ternary and ratio offices. In each comparison the coprime product ring preserves its addition and multiplication.

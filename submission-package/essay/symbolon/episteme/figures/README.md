@@ -8,9 +8,9 @@ domain: figures
 
 # Figures
 
-Figures contains evidential visualisations: timelines, genealogies, source-comparison tables, argument matrices, relation graphs and technical schematics whose primary work is to make knowledge and warrant inspectable.
+Figures holds evidential visualisations, namely timelines, genealogies, source-comparison tables, argument matrices, relation graphs and technical schematics, whose primary work is to make knowledge and warrant inspectable.
 
-Each figure identifies its data or source records, construction method, omissions, status, essay blocks, caption, alt text and rights. Visual arrangement cannot imply a relation absent from the declared evidence. The editable source and rendered asset remain together with the governing Markdown record.
+Each figure identifies its data or source records, its construction method, its omissions, its status, its essay blocks, its caption, its alt text and its rights. Its visual arrangement implies only the relations the declared evidence contains, and the editable source and the rendered asset stay together with the governing Markdown record.
 
 Formal derivations belong in [Matheme diagrams](../../matheme/diagrams/README.md). Composed imaginal arguments belong in [Mytheme plates](../../mytheme/plates/README.md).
 

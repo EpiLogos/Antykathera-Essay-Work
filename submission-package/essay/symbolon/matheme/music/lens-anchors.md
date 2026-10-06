@@ -17,11 +17,11 @@ source_ids:
 
 ## #0 — The field is heard from somewhere
 
-The [chromatic substrates](chromatic-substrates.md) map the same twelve position-and-face states into pitch classes. The [pairing grammar](pairing-grammar.md) preserves relations through a common change of anchor. A lens gives that anchor an epistemic office: it selects the mode through which the field becomes available to inquiry.
+The [chromatic substrates](chromatic-substrates.md) map the same twelve position-and-face states into pitch classes. The [pairing grammar](pairing-grammar.md) preserves relations through a common change of anchor. A lens gives that anchor an epistemic office, since it selects the mode through which the field becomes available to inquiry.
 
-The [epistemic anchor](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) retains a stable lens identity, an assigned position and a tradition-bearing mode. The [complete Day/Night lens sequence](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md), §I-3, distinguishes the twelve offices through which the same field can be questioned, interpreted, tested and articulated.
+The [epistemic anchor](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) **defines** a lens by a stable identity, an assigned position and a tradition-bearing mode. The [complete Day/Night lens sequence](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md), §I-3, sets out the twelve offices through which the same field can be questioned, interpreted, tested and articulated.
 
-Taylor’s QL/MEF assignments give each lens a declared mode. Its tradition-bearing name relates that mode to a philosophical operation; it does not assign the philosopher authorship of the musical map. The exact matrix and the philosopher’s own historical account retain different objects and warrants.
+Taylor’s QL/MEF assignments give each lens a declared mode, and the tradition-bearing name relates that mode to a philosophical operation. The philosopher is not thereby the author of the musical map. The exact matrix and the philosopher’s own historical account are different objects with different warrants.
 
 ## #1 — Twelve lens identities and two anchor maps
 
@@ -107,7 +107,7 @@ Thus L0 returns to L5′, L1 to L4′ and L2 to L3′; the reverse moves return 
 
 Independent continuous phase cycles can generate a torus, while a Klein construction requires the appropriate orientation-reversing identification. Their [distinct topological returns](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) coordinate the field’s circulation and conjugate return. A finite pair of six-class collections supplies neither continuous surface nor gluing rule by itself. The lens table preserves the address and return operations which the broader topological reading coordinates; it does not substitute twelve labels for that construction.
 
-The shift of epistemic ground remains operative through this distinction. A causal account can return through the Scientific lens to have its proposed operation tested; the Phenomenological lens can return through the Phenomenal lens to discriminate how experience is apprehended. The named relations identify work to perform, not merely intervals to hear.
+The shift of epistemic ground stays operative through this distinction. A causal account can return through the Scientific lens to have its proposed operation tested, and the Phenomenological lens can return through the Phenomenal lens to discriminate how experience is apprehended. These named relations identify work to perform, and they also name intervals to hear.
 
 ## #5→0 — The anchor returns with its account
 
@@ -120,9 +120,9 @@ $$
 
 Primes in this process chain denote inverse-phase positions. Primes in the lens table denote the Night lenses assigned to the P′ face; the Night-pass sequence is the distinct use carried by File 3. Keeping those offices explicit lets one glyph conduct the relation without merging the indices.
 
-The map retains a lens identity together with its basis, anchor and sounding selection. Changing the reference makes the same tones differently available; changing the lens also undertakes a particular mode of inquiry. A comparison must retain both changes to show what its new perspective can disclose.
+The map keeps a lens identity together with its basis, anchor and sounding selection. Changing the reference makes the same tones differently available, and changing the lens also undertakes a different mode of inquiry, so a comparison has to carry both changes to show what its new perspective discloses.
 
-[Accountable musical knowing](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) keeps lens, basis, anchor and selected sounding field visible in its result. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) makes that relation audible. The anchor makes a field available from somewhere; its return includes the mode through which that availability became knowledge.
+[Accountable musical knowing](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the keeping of lens, basis, anchor and selected sounding field in the result, and [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) makes the relation audible. The anchor makes a field available from somewhere, and its return includes the mode through which that availability became knowledge.
 ## Source and implementation standing
 
 The map is the housed candidate’s declared system. File 4 and v3 are superseded in practice by the actual ql-mef package, whose current lens mappings have not been recovered for this projection. The present record supplies exact IDs, anchors, coordinate operations and a partition which can be checked independently of that runtime debt.

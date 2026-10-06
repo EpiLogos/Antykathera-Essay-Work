@@ -45,8 +45,8 @@ The seam. Recognition, whether of two orientations or of two halves, goes throug
 
 ## Proof boundary
 
-- **Argued:** the native reading. It carries no derivation from arithmetic.
-- **Derived:** ordinary arithmetic assigns `0/1` a value and `1/0` none. The figure claims no numerical object that completes the mark.
+- **Argued:** the native reading, which is drawn from the theorem field, with no derivation from arithmetic behind it.
+- **Derived:** ordinary arithmetic assigns `0/1` a value and `1/0` none, and the figure offers no numerical object to complete the mark.
 - **Bounded by the movement:** the fit of a genuine token proves a relation between the pieces and says nothing of the goodness of what their use authorises.
 - **Naming:** the figure uses the reader-facing name *syn-ballein* (PROSE-STANDARD, 2026-10-03). The M21 note and the manuscript passage still read “sym-ballein”.
 

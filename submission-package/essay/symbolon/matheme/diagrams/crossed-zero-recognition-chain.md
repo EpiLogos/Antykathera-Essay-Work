@@ -31,11 +31,11 @@ The crossed-zero recognition chain: each sign a local determination of one relat
 
 ## Proposition
 
-The crossed-zero sequence performs, as one visible traversal, the change of office by which a sign first occludes and then discloses mediation. Each stage is a local determination of one relation — not a sequence of objects, and not cancellable under ordinary arithmetic:
+The crossed-zero sequence shows in one traversal how a sign changes office: it first occludes mediation, because the means of self-relating sits in the subject's place, and then discloses it, once the bar between subject and object is legible as the means. Each stage is a local determination of one relation, so the sequence is no row of objects, and nothing in it cancels under ordinary arithmetic:
 
 $$0\rightarrow Ø\rightarrow X\rightarrow Ø/X\rightarrow (0/Ø)/(1/X)\rightarrow 1 \quad\curvearrowright\quad 0/1$$
 
-The diagram carries the seven offices exactly as the anchoring movement names them, and draws the return as a distinct operation (`↷`, the curved arrow): recognition returns through another appearing-act rather than superseding determinate life.
+The diagram carries the seven offices as the anchoring movement names them, and it draws the return as an operation of its own (`↷`, the curved arrow). Recognition returns through another appearing-act, and determinate life stays in place beneath it.
 
 ## Inputs
 
@@ -51,7 +51,7 @@ The native signs with their declared offices, read from the anchor movement and 
 
 ## Transformations
 
-The arrows are the native determinations declared in the theorem field: occlusion, deposition of a world, the bar legible as *pramāṇa*, the parenthesised meta-relation, achieved recognition, and the return-switch. None is an arithmetic operation; the diagram draws them as directed edges and one curved return, and asserts no operation it does not name.
+The arrows are the native determinations declared in the theorem field: occlusion, deposition of a world, the bar legible as *pramāṇa*, the parenthesised meta-relation, achieved recognition and the return-switch. None is an arithmetic operation. The diagram draws them as directed edges with one curved return, and each edge carries only the operation its label names.
 
 ## Invariant
 
@@ -66,7 +66,7 @@ Through every arrow: the terms remain local determinations in the native theorem
 ## Essay blocks
 
 - **Primary:** `05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md` — *§4 · #3 — Lacan, Matheme, and Mytheme*. This movement states the chain, names each office, and fixes the tension/limit the diagram must keep visible. The diagram performs this movement's operation: the sequence made inspectable as one traversal.
-- **Guard:** `02-return-of-zero/movements/16-s1-p3-crossed-zero.md` — *§1 · #3 — The Crossed Zero*. M16 deliberately carries **only** the first pressure `0 → Ø` and withholds `Ø/X`, `(0/Ø)/(1/X)` and the return as "still to be earned". The full chain therefore must not be wired at or before M16; doing so would falsify the essay's staging.
+- **Guard:** `02-return-of-zero/movements/16-s1-p3-crossed-zero.md` — *§1 · #3 — The Crossed Zero*. M16 deliberately carries **only** the first pressure `0 → Ø` and withholds `Ø/X`, `(0/Ø)/(1/X)` and the return as "still to be earned". The full chain therefore enters after M16, since wiring it at or before M16 would break the essay's staging of what is earned when.
 
 ## Asset
 

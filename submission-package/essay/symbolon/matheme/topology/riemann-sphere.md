@@ -18,9 +18,9 @@ figures:
 
 ## #0 — Add one point to the complex plane
 
-The [NIST source house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) states the extended complex plane `Ĉ=ℂ∪{∞}`. Its topology is the one-point compactification: neighbourhoods of ∞ contain the complement of a sufficiently large compact region of the plane. The [projective line](projective-line.md) identifies it with `ℂP¹`.
+The [NIST source house](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) **sources** the extended complex plane `Ĉ=ℂ∪{∞}`. Its topology is the one-point compactification, in which neighbourhoods of ∞ contain the complement of a sufficiently large compact region of the plane, and the [projective line](projective-line.md) **grounds** its identification with `ℂP¹`.
 
-The input here is the complex plane, not the real affine line or the integer lattice quotient that produces a torus.
+The input here is the complex plane, and the real affine line and the integer lattice quotient that produces a torus are different inputs.
 
 ## #1 — Construct the sphere explicitly
 
@@ -46,16 +46,16 @@ At ∞ the second coordinate is 0. The point has not become a finite value in th
 
 The map `z↦1/z` extends to the sphere by exchanging 0 and ∞. In the homogeneous description this is just `[x:y]↦[y:x]`, so there is no undefined zero pair. Its square is the identity.
 
-Binary expressions such as `0/0` or ∞−∞ do not thereby gain unique values. The successful extension of one transformation is not an unrestricted extension of every field operation. [Cross-ratio](../formal-neighbours/cross-ratio.md) states the related invariant under its own transformation conditions.
+Binary expressions such as `0/0` or ∞−∞ gain no unique values from this. One transformation extends successfully, and the field operations as a whole do not extend with it. [Cross-ratio](../formal-neighbours/cross-ratio.md) **compares** as the related invariant under its own transformation conditions.
 
 ## #4 — Distinguish the sphere from the torus
 
-The [torus cover](torus-cover-winding.md) identifies lattice translates of the plane; the Riemann sphere adds one point to the complex plane. They are different constructions. The torus has two independent fundamental-group generators; the sphere is simply connected.
+The [torus cover](torus-cover-winding.md) identifies lattice translates of the plane, and the Riemann sphere adds one point to the complex plane, so the two are different constructions. The torus has two independent fundamental-group generators, and the sphere is simply connected.
 
-Simply connected does not mean motionless or devoid of dynamics. For example, rotating the sphere about an axis gives an explicit continuous motion. The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) sphere/torus imagery therefore uses a stated topological contrast, not a theorem that a sphere cannot carry movement, structure or a viable consciousness.
+Simply connected leaves room for motion and dynamics, and rotating the sphere about an axis is an explicit continuous motion. The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) imagery of sphere and torus rests on the stated topological contrast, and carries no theorem that a sphere cannot hold movement, structure or a viable consciousness.
 
 ## #5→0 — Return through the second coordinate
 
-The result is a representable infinity point and a precise transition between two local descriptions. A chart's failure to contain a point becomes a reason to change chart, with the original coordinate's restriction retained.
+The result is a representable infinity point and a precise transition between two local descriptions. When a chart fails to contain a point, that failure is a reason to change chart, and the original coordinate's restriction stays on record.
 
-[Dimensional reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) receives infinity as a point of this completed complex object, with a finite coordinate in the second chart. [Projective completion](projective-completion.md) keeps this one-point addition distinct from the ideal line of a real projective plane; [the manifold atlas](manifold-atlas.md) makes domain, inverse and overlap consequential to a change of coordinates. The native comparison can carry the achieved representation into a later determination while retaining the object and transition which make it valid.
+[Dimensional reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) **returns-to** infinity as a point of this completed complex object, with a finite coordinate in the second chart. [Projective completion](projective-completion.md) **compares** the one-point addition with the ideal line of a real projective plane, and [the manifold atlas](manifold-atlas.md) **extends** the lesson that domain, inverse and overlap decide what a change of coordinates means. The native comparison can carry the achieved representation into a later determination with the object and the transition that make it valid.

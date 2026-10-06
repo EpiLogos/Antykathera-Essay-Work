@@ -15,7 +15,7 @@ For four distinct finite complex points, define
 
 `λ(z₁,z₂;z₃,z₄)=((z₁−z₃)(z₂−z₄))/((z₁−z₄)(z₂−z₃))`.
 
-The order and convention are explicit because other conventions permute this value. [Bilinear invariance](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) states the transformation class under which the cross-ratio remains unchanged. The [native ratio-of-ratios](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) holds the whole relation in its two obverse orientations; its distinct signature supplies the comparison developed below.
+The order and convention are explicit because other conventions permute this value. [Bilinear invariance](../../episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md) **sources** the transformation class under which the cross-ratio stays unchanged. The [native ratio-of-ratios](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) holds the whole relation in its two obverse orientations, and the comparison developed below sets the two signatures side by side.
 
 ## #1 — State the transformation
 
@@ -29,7 +29,7 @@ This follows by expanding the two numerators. The nonzero determinant prevents t
 
 Substitute the difference identity into the four factors of λ. Two factors of Δ occur in the numerator and two in the denominator. Each factor `cz_i+d` also occurs once on both sides. All cancel, leaving the original λ.
 
-The result extends to the sphere using homogeneous coordinates or the corresponding limits at ∞. Its validity is tied to the stated fractional-linear map. It is not invariance under every nonlinear transformation of the plane.
+The result extends to the sphere through homogeneous coordinates or the corresponding limits at ∞. It holds for the stated fractional-linear maps, and a nonlinear transformation of the plane in general does not preserve it.
 
 ## #3 — Work a quadruple and a permutation
 
@@ -41,12 +41,12 @@ For a counterexample outside the transformation class, square the four real inpu
 
 ## #4 — Preserve the native comparison's boundary
 
-The exact object is an ordered projective invariant. Its ratio-of-ratios form resembles the native `(0/1)/(1/0)` only at a stated comparative level: its entries are differences of distinct points with controlled denominators, while the native stroke deliberately retains arithmetic's defined/undefined seam.
+The exact object is an ordered projective invariant. Its ratio-of-ratios form matches the native `(0/1)/(1/0)` at one stated level, that of nested ratios whose parts stand in an exact relation. Its entries are differences of distinct points with controlled denominators, whereas the native stroke deliberately keeps arithmetic's defined/undefined seam, so the two ratios of ratios differ in what they relate.
 
-An attempted identification would have to map the objects and preserve the operations. Visual similarity of nested fractions does not supply that map. [Complex orientation](../ql/complex-orientation.md) gives another invariant under a different group—modulus under rotations—so its preservation law also remains distinct.
+An identification of the two would have to map the objects and preserve the operations, and the look of nested fractions supplies no such map. [Complex orientation](../ql/complex-orientation.md) gives another invariant under a different group, the modulus under rotations, and its preservation law is likewise its own.
 
 ## #5→0 — Return the invariant through its group
 
-The result is a quantity that survives a specified transformation while retaining ordered relational information. Returning the map, determinant condition and quadruple makes the invariance checkable and its failure outside scope equally exact.
+The result is a quantity that survives a specified transformation and keeps its ordered relational information. Giving the map, the determinant condition and the quadruple makes the invariance checkable, and makes its failure outside that class equally exact.
 
-[Projective reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) carries the invariant with its specific transformations. The [projective line](../topology/projective-line.md) retains its containing-space construction, while [translation](../mono-poly/translations.md) specifies any correspondence of these mathematical objects with the native relation. The map and its preserved operation give that comparison its measure.
+[Projective reframing](../../../section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md) **extends** the invariant with its specific transformations. The [projective line](../topology/projective-line.md) **grounds** the containing-space construction, and [translation](../mono-poly/translations.md) **compares** these mathematical objects with the native relation by stating which operations correspond. The map and the operation it preserves are the measure of that comparison.

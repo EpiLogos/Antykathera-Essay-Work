@@ -30,7 +30,7 @@ Paired panel in comparative adjacency: the mark re-entering its own form, with a
 
 ## Proposition
 
-Two formal neighbours of the native fork, placed as **comparative adjacency and nothing more**: on one side, the mark that re-enters its own form carrying its prior crossing as memory, made algebraic by the iterants where alternation plus temporal shift yields $i^2=-1$; on the other, the projective fork where the coordinate each chart blocks the other supplies — `[0:1]` and `[1:0]` as one projective point under two charts, joined by $v=1/u$. The dividing line in the asset is part of the argument: adjacency asserts no equivalence.
+Two formal neighbours of the native fork are placed in **comparative adjacency**. On one side, the mark that re-enters its own form carrying its prior crossing as memory, made algebraic by the iterants where alternation plus temporal shift yields $i^2=-1$; on the other, the projective fork, where the coordinate that each chart blocks is supplied by the other, so that `[0:1]` and `[1:0]` are one projective point under two charts joined by $v=1/u$. The dividing line in the asset is part of the argument, because adjacency compares the panels and asserts no equivalence between them.
 
 ## Inputs
 
@@ -51,7 +51,7 @@ Two formal neighbours of the native fork, placed as **comparative adjacency and 
 
 - **Derived:** the iterant algebra (anticommutation, $(D\eta)^2=-I$) and the projective chart constructions, both worked in their movements.
 - **Argued:** the essay's temporal reading — the re-entering mark carrying its prior crossing as memory — and Varela's frequency-to-retention task left open; the adjacency itself, which performs a comparison and not a reduction.
-- **Not asserted:** any equivalence between the panels, or with the native `0/1` and `1/0`; the projective point is not an evaluated quotient; adjoining a projective point does not make an extended plane a field with an inverse for zero.
+- **Equivalence unasserted:** the panels are not equivalent to one another or to the native `0/1` and `1/0`. The projective point is no evaluated quotient, and adjoining a projective point leaves the extended plane without a field inverse for zero.
 
 ## Essay blocks
 

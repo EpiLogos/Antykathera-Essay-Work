@@ -8,7 +8,7 @@ record_id: T09
 
 **Scope:** non-section canonical field only. Movement IDs are consumers, not rewritten here.
 
-This index makes the mature Etymology whole-fields navigable back into the canonical Argument and Concept fields. It supplements the detailed per-page routes; it does not replace their prose or historical `HISTORY.md` evidence. The September 15 T25 refinement adds the paradigmatic compression field as a seventh mature route without changing the A/C/S shared-record census.
+This index makes the mature Etymology whole-fields navigable back into the canonical Argument and Concept fields. It supplements the detailed per-page routes, and their prose and the historical `HISTORY.md` evidence stay where they are. The September 15 T25 refinement adds the paradigmatic compression field as a seventh mature route, and the A/C/S shared-record census is unchanged.
 
 | Etymology whole-field | Exact canonical operations | Primary Argument consumers | Primary Concept consumers | Return |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ A argument  ↔  C concept
    ↺ return question to E whole-field and source evidence
 ```
 
-This is reciprocal routing, not proof by etymology. Arguments and Concepts consume operations from the whole relational field and return to it with newly discriminated questions; historical warrant remains located in the Etymology `HISTORY.md` and source carriers.
+This is reciprocal routing, and etymology proves nothing by it. Arguments and Concepts consume operations from the whole relational field and return to it with newly discriminated questions, and the historical warrant stays in the Etymology `HISTORY.md` and the source carriers.
 
 ### Routing note — 2026-09-07 reharmonisation
 
@@ -44,4 +44,4 @@ A35's title-component *Epi-Logos as Vocation* routes its vocation register to **
 
 ### Routing note — 2026-09-15 paradigmatic refinement
 
-The new [Genesis / Paradigm / Project / Epi-Logos whole](genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md) becomes the **higher compression route** for the essay's paradigmatic frame. It does not supersede the six older whole-fields. Each older field retains the specific lexical/historical operation it owns; the new field relates their returned operations through source, mediation, determination and reflexive return. Its whole archaeology and [source routes](genesis-paradigm-project-epilogos/SOURCE-ROUTES.md) must be read before a consumer treats “paradigm” or “project” as explanatory shorthand.
+The new [Genesis / Paradigm / Project / Epi-Logos whole](genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md) is the **higher compression route** for the essay's paradigmatic frame, and the six older whole-fields stand beside it. Each older field keeps the specific lexical and historical operation it owns, and the new field relates their returned operations through source, mediation, determination and reflexive return. A consumer reads its whole archaeology and its [source routes](genesis-paradigm-project-epilogos/SOURCE-ROUTES.md) before treating “paradigm” or “project” as explanatory shorthand.

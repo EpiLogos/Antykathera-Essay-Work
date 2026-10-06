@@ -8,9 +8,9 @@ domain: topology
 
 # Topology
 
-Topology carries the spaces and transformations through which a return can preserve difference. Its principal objects include re-entry, oriented and non-orientable circulation, torus and covering space, Möbius return, Klein double-cover, winding, displacement and the arche-topos.
+Topology carries the spaces and transformations through which a return can keep its difference. Its principal objects are re-entry, oriented and non-orientable circulation, the torus and covering space, Möbius return, the Klein double-cover, winding, displacement and the arche-topos.
 
-A topology record states the mathematical object, the transformation performed, the invariant retained and the exact QL operation it refracts. Local return with global displacement, for example, requires a specified loop and covering relation; the image of a torus alone establishes nothing.
+A topology record states the mathematical object, the transformation performed, the invariant retained and the exact QL operation it refracts. Local return with global displacement, for example, needs a specified loop and a covering relation, and the image of a torus alone establishes none of it.
 
 Figures that perform the derivation live in [[symbolon/matheme/diagrams/README.md|Diagrams]]. Historical and scholarly sources live in [[symbolon/episteme/sources/README.md|Episteme sources]].
 

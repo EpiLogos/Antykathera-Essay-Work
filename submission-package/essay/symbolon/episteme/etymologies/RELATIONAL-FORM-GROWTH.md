@@ -10,7 +10,7 @@ source_id: relational-form-growth
 
 ## Fullness
 
-**Fullness = maximum earned articulation with recursive return.** It is not compulsory morphology, maximal word count, or a requirement that every field become sixfold. A relational field is full when its actual conjugacies, branches, historical warrants and returns have been articulated as far as the evidence earns, and when achieved forms can return as participants in further generation.
+**Fullness = maximum earned articulation with recursive return.** A relational field is full when its actual conjugacies, branches, historical warrants and returns have been articulated as far as the evidence earns, and when achieved forms can return as participants in further generation. Fullness is measured by what the evidence earns, so a field need not take any one morphology, reach a word count or become sixfold.
 
 ## Conjugate generation
 
@@ -20,7 +20,7 @@ Where genuine conjugacy exists:
 N / N′ → N+N′
 ```
 
-`N+N′` means the **N generated relational determinations between conjugate forms**. It does not mean concatenation, compromise, semantic merging or ordinary arithmetic addition.
+`N+N′` means the **N generated relational determinations between conjugate forms**: what the conjugacy produces between the two forms, as distinct from their concatenation, a compromise between them, a merging of their senses or an arithmetic sum.
 
 The Arbitration field is the worked case:
 
@@ -36,7 +36,7 @@ Its six relations are Continuity-in-Indeterminacy, Criterion-through-Distinction
 N → N×N
 ```
 
-This operation distributes a form through relations among its own determinations. It is not the same as conjugate generation. Likewise `3:3` and `4:2` are **orienting readings**, not identities with either `N / N′ → N+N′` or `N → N×N`.
+This operation distributes a form through relations among its own determinations, and conjugate generation is a different operation. The readings `3:3` and `4:2` **orient** the work and are identities with neither `N / N′ → N+N′` nor `N → N×N`.
 
 ## Archaeological growth morphology
 
@@ -56,7 +56,7 @@ FRUIT / ACHIEVED WHOLE
 SEED / NEW RELATIONAL PARTICIPANT
 ```
 
-This is **descriptive/generative**, not a compulsory page template. Some fields begin with a documented root; others begin with a conceptual coordinate. Some produce many historical leaves; others become philosophically important through operational homology without common descent. The evidence register must remain visible at every transition.
+This morphology is **descriptive and generative**, and no page is required to follow it as a template. Some fields begin with a documented root and others with a conceptual coordinate. Some produce many historical leaves, and others become philosophically important through operational homology without common descent. The evidence register stays visible at every transition.
 
 ## Recursive return
 
@@ -72,4 +72,4 @@ Every load-bearing A/C Etymology relation must now specify:
 4. **what the operation changes in the consumer**;
 5. **return route**.
 
-A bare word-link is insufficient. A root does not prove an Argument. A phonic resemblance remains poetic/phonic re-entry unless independently established as philology.
+A bare word-link is insufficient, because a root proves no Argument, and a phonic resemblance stays poetic/phonic re-entry until philology independently establishes more.

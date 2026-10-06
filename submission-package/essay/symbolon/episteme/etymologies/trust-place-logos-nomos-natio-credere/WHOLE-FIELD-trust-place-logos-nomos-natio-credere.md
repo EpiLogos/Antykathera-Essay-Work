@@ -10,9 +10,9 @@ source_relation: "Paraphrased lexical and historical witnesses; Argued authorial
 # Whole Field — Fides / Topos / Logos / Nomos / Natio / Credere
 
 <a id="field-discipline"></a>
-This constellation holds six distinct operations together: trust, position, articulated account, ordering rule, inherited belonging and entrusting/belief. Latin *fides*, Greek *topos*, Greek *logos*, Greek *nomos*, Latin *natio* and Latin *credere* retain their separate lexical histories. Their sequence is the essay's relational construction. It is not a proposed common etymology or a universal chronology of civilisation.
+This constellation holds six distinct operations together: trust, position, articulated account, ordering rule, inherited belonging and entrusting/belief. Latin *fides*, Greek *topos*, Greek *logos*, Greek *nomos*, Latin *natio* and Latin *credere* retain their separate lexical histories. Their sequence is the essay's relational construction, and it proposes neither a common etymology nor a universal chronology of civilisation.
 
-Taylor's [inherited sixfold](HISTORY-trust-place-logos-nomos-natio-credere.md) relates prior reliance, emplacement, articulation, order, belonging and renewed entrustment. The [different historical branches](HISTORICAL-BRANCHES-trust-place-logos-nomos-natio-credere.md) give each word its own descent, attested senses and uses. A word's historical use and the philosophical relation generated through it have different warrants. Their relation lets inherited language become newly articulate while its particular histories remain recoverable.
+Taylor's [inherited sixfold](HISTORY-trust-place-logos-nomos-natio-credere.md) relates prior reliance, emplacement, articulation, order, belonging and renewed entrustment. The [different historical branches](HISTORICAL-BRANCHES-trust-place-logos-nomos-natio-credere.md) give each word its own descent, attested senses and uses. A word's historical use and the philosophical relation generated through it have different warrants. Taken together they let inherited language become newly articulate, with each word's particular history still recoverable.
 
 <a id="relational-offices"></a>
 ## #0 — Fides: reliance before the account

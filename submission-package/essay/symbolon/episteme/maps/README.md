@@ -12,7 +12,7 @@ domain: maps
 
 Maps carries the declared structure of the work: the essay sequence, argument dependencies, concept consumers, source relations and transverse paths. Each edge names its operation — derives, grounds, defines, historicises, sources, qualifies, tests, figures, embodies, extends, compares, presages or returns-to.
 
-Maps are built from canonical declarations. Shared words, tags and folder adjacency never create an edge. A map supplies orientation and effect tracing; it does not become authority over the proposition carried by its nodes.
+Maps are built from canonical declarations, and an edge exists only where a page declares one, since shared words, tags and folder adjacency create none. A map gives orientation and traces effects, and the proposition each node carries remains that node's own.
 
 ## The curated paths
 
@@ -29,6 +29,6 @@ The three transverse threads are also declared in the frontmatter of the movemen
 
 ## The generated navigation layer
 
-[`navigation/`](navigation/MOC.md) holds the projections generated from the relations authors wrote into pages: the [Map of Content](navigation/MOC.md), the per-class intents pages (what each page implicates and what reaches it), and the [navigation audit](navigation/AUDIT.md). They are rebuilt by `tools/build-navigation.py`, checked for freshness at session close, and carry no authority; page-level minigraphs are bounded views of this same relation set, accompanied by the same routes in prose.
+[`navigation/`](navigation/MOC.md) holds the projections generated from the relations authors wrote into pages: the [Map of Content](navigation/MOC.md), the per-class intents pages (what each page implicates and what reaches it), and the [navigation audit](navigation/AUDIT.md). `tools/build-navigation.py` rebuilds them, a check at session close confirms they are fresh, and they carry no authority of their own. Page-level minigraphs are bounded views of the same relation set, and the same routes are given in prose beside them.
 
 Return to [Episteme](../README.md).

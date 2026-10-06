@@ -28,19 +28,19 @@ An atlas of two charts on the unit circle: `u = x/(1−y)` valid away from the n
 
 ## Proposition
 
-A usable atlas is more than a collection of viewpoints: two charts,
+A usable atlas is more than a collection of viewpoints. Two charts,
 
 $$u=\frac{x}{1-y} \quad (\text{away from } N), \qquad v=\frac{x}{1+y} \quad (\text{away from } S),$$
 
-each exact over an admitted domain, are made one atlas by the transition rule
+each exact over an admitted domain, become one atlas through the transition rule
 
 $$uv=\frac{x^2}{1-y^2}=1,\qquad v=\frac1u,$$
 
-and the translation does real work: at $P=(3/5,4/5)$, $u=3$ and $v=1/3$ disagree rule-governed, while a motion with $du/dt=2$ at $P$ gives $dv/dt=-2/9$ and yet
+and the translation does real work. At $P=(3/5,4/5)$ the two charts give two different numbers for one point, $u=3$ and $v=1/3$, and the rule $v=1/u$ carries each into the other. A motion with $du/dt=2$ at $P$ gives $dv/dt=-2/9$ in the second chart, and both inverse routes recover the same height speed:
 
-$$y=\frac{u^2-1}{u^2+1}=\frac{1-v^2}{1+v^2},\qquad \frac{dy}{dt}=\frac{6}{25} \text{ by either route}$$
+$$y=\frac{u^2-1}{u^2+1}=\frac{1-v^2}{1+v^2},\qquad \frac{dy}{dt}=\frac{6}{25} \text{ by either route.}$$
 
-— differently written motions answering to one moving object. The closing band carries the display's own limit: no single global chart exists.
+Two differently written motions therefore answer to one moving object. The closing band of the display states its own limit: no single global chart exists, and the agreement between charts is earned by the transition rule and never declared.
 
 ## Inputs
 
@@ -57,12 +57,12 @@ The point present (`P`, the same circle point under two disagreeing coordinates)
 ## Proof boundary
 
 - **Derived:** the chart constructions, the overlap rule and the motion test — recomputed in the essay and checkable directly.
-- **Scoped by the display itself:** the compactness claim concerns a single global chart onto an open Euclidean domain; it does not forbid displaying a whole surface or drawing a diagram of one. This record and asset are lawful precisely under that scoping: the drawing shows the atlas structure; it does not pretend to be a global chart.
-- **Not claimed:** chart compatibility supplies no law of motion — the velocity is supplied separately; agreement cannot be supplied by declaring all perspectives valid.
+- **Scoped by the display itself:** the compactness claim concerns a single global chart onto an open Euclidean domain, and it leaves us free to display a whole surface or to draw a diagram of one. The drawing here shows the atlas structure and offers itself as no global chart.
+- **Carried separately:** chart compatibility yields no law of motion, so the velocity is supplied as data. Agreement among the charts comes from the transition rule, and declaring every perspective valid would produce none.
 
 ## Essay blocks
 
-- `04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md` — *§3 · #3 — Projective Completion and Dimensional Reframing* ("The horizon becomes a coordinate"). The atlas passage lives in this movement's span of the manuscript, between the projective charts and M29's quotient return; the diagram performs its operation — pieces becoming local charts whose joins say how one passes into another — and keeps the honest join visible as a rule rather than a sentiment.
+- `04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md` — *§3 · #3 — Projective Completion and Dimensional Reframing* ("The horizon becomes a coordinate"). The atlas passage sits in this movement's span of the manuscript, between the projective charts and M29's quotient return. The diagram performs its operation there, since pieces become local charts and their joins say how one passes into another, and it keeps the join visible as a rule and never as a sentiment.
 - Framing provenance (not consumed as public warrant): the travelling-jigsaw/atlas world, whose "Mathematical witness" this display recomputes.
 
 ## Asset

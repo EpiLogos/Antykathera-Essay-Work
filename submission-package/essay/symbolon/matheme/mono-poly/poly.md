@@ -11,7 +11,7 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — Inventory offices rather than synonyms
 
-The input is the actual field of notations developed by the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) and curated in the [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md). Poly is their real plurality within [Mono's](mono.md) common subject. Each sign must retain the signature that gives it its work.
+The input is the actual field of notations that the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) develops and the [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) curates. Poly is their real plurality inside [Mono's](mono.md) common subject, and each sign keeps the signature that gives it its work.
 
 ## #1 — Separate the native address systems
 
@@ -40,12 +40,12 @@ For example, counting six positions and counting six orbit members establishes e
 
 ## #4 — Preserve plurality under common use
 
-[Translations](translations.md) distinguishes derivation, construction and argued recognition. This allows one field to carry mathematical, musical and psychic exactness without appointing a preferred notation to erase their differences. A psychic `X/x` refraction, a real-variable equation and a pitch variation do not have identical proof conditions.
+[Translations](translations.md) distinguishes derivation, construction and argued recognition, and that lets one field carry mathematical, musical and psychic exactness with no preferred notation erasing the others' differences. A psychic `X/x` refraction, a real-variable equation and a pitch variation have different proof conditions.
 
-The four-file locks give another concrete distinction: definition/quilt carry the short return, process/music the full inverse circuit. The inventory records both. It does not add a ninth determination or identify the eight-turn traversal with every structure in QL.
+The four-file locks give another concrete distinction, since definition and quilt carry the short return and process and music carry the full inverse circuit, and the inventory records both. The eight-turn traversal is one structure in QL among others, so the inventory adds no ninth determination.
 
 ## #5→0 — Make each notation retrievable
 
-The result is a usable plurality: a reader can ask what a sign does, which rule licenses it, and which source-local office it occupies. A translation can preserve one relation while leaving another unexpressed; the excluded relation remains available for return.
+The result is a usable plurality in which a reader can ask what a sign does, which rule licenses it, and which source-local office it occupies. A translation can preserve one relation and leave another unexpressed, and the unexpressed relation stays available for return.
 
-This record returns-to [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md), and [Syn](../dia-syn/syn.md). The many are actual articulations of the whole, and their differences are material to its legibility.
+This record **returns-to** [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md) and [Syn](../dia-syn/syn.md). The many are actual articulations of the whole, and their differences are what make it legible.

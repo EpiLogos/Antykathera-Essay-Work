@@ -13,7 +13,7 @@ source_relation: "Extracted internal quilting; native derivation and source-dist
 
 Naming the structure and inhabiting it are different operations. The Night pass of File 3 in the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) turns the Day's third-person IS toward first-person AM. Its source headings are `#0′` First Spanda, `#1′` Second Spanda, `#2′` Name, `#3′` Power, `#4′` Requilting, `#5′` Foundation Stone, and `5′→0′` Möbius Stitch.
 
-These primes are **Night-pass sequence addresses**. File 2 uses primes for **inverse-phase positions**. The two sequences retain these different offices throughout the traversal. The quilt's governing chain remains `0/1=4+2=5→0=0/1`; the complete process/music chain explicitly includes `1/0=4′+2′=5′→0′` before return.
+These primes are **Night-pass sequence addresses**, and File 2 uses primes for **inverse-phase positions**, so the two sequences have different offices throughout the traversal. The quilt's governing chain is `0/1=4+2=5→0=0/1`, and the complete process/music chain adds `1/0=4′+2′=5′→0′` before the return.
 
 ## #1 — Genesis and base frame re-enter
 
@@ -46,7 +46,7 @@ Night `#4′` rereads intelligence through gathering, minding, knowing and seein
 
 A worked return starts with “my conclusion.” Measure, comparison, equation and production have made the conclusion determinate. Returning it discloses its source, excluded alternatives and affected context. SOLVE releases the claim that possession supplies its warrant. The conclusion can remain exact while its authority is traced through the field that produced it.
 
-The source places Whiteheadian concrescence, dialectical mediation and solve/coagula beside this movement. Each is a named philosophical refraction. Its polemic against a triad that absorbs all context is a native diagnosis of a specified operation; it is not a sufficient historical account of Hegel as “thesis–antithesis–synthesis.” The preserved demand is that gathering retain its terms and context rather than consume them into a completed local account.
+The source places Whiteheadian concrescence, dialectical mediation and solve/coagula beside this movement, each as a named philosophical refraction. Its polemic against a triad that absorbs all context is a native diagnosis of a specified operation, and as a history of Hegel it needs more than “thesis–antithesis–synthesis” gives it. The demand that survives is that gathering keep its terms and its context, so that neither is consumed into a completed local account.
 
 ## #4 — Place the blind spots and the Foundation Stone
 
@@ -58,8 +58,8 @@ The Foundation Stone retains formal limit, topological circulation and performed
 
 ## #5→0 — The Möbius Stitch
 
-Return to an actual act of noticing. There is an appearance, an awareness of it and the distinction through which each is legible. The circuit has made the operation available; it has not manufactured the subject by adding a theory to the contents. AM now carries the first-person enactment of the relation displayed as IS.
+Return to an actual act of noticing. There is an appearance, an awareness of it and the distinction through which each is legible. The circuit has made the operation available, and it has added no subject to the contents by laying a theory over them. AM now carries the first-person enactment of the relation that IS displayed.
 
-The result is the opening `0/1` carrying the definition, process and quilt through which it has been recognised. The reader performs this turn within an actual life: the account is encountered through attention, memory, speech and action, and its recognised relation can shape the next act. Its first-person enactment occurs in that encounter rather than being supplied by a completed description. The distinction between named structure and lived recognition remains precisely what makes the return necessary.
+The result is the opening `0/1` carrying the definition, the process and the quilt through which it has been recognised. The turn is performed in an actual life, where the account is met through attention, memory, speech and action and its recognised relation can shape the next act. The first-person enactment happens in that meeting, and a completed description cannot supply it. The difference between named structure and lived recognition is exactly what makes the return necessary.
 
-[Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) retains the achieved determination within its condition; [self-identity](../../self-identity.md) keeps that identity answerable to its differentiation; [recognition](recognition.md) gathers the traversed relations so that another act can inherit them. The next movement is [music](../music/README.md): ratio given time, the achieved relation returned as an instrument that can actually be played.
+[Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) **grounds** the keeping of the achieved determination within its condition, [self-identity](../../self-identity.md) keeps that identity answerable to its differentiation, and [recognition](recognition.md) **extends** the gathering of the traversed relations so that another act can inherit them. The next movement is [music](../music/README.md), which gives ratio its time and returns the achieved relation as an instrument that can actually be played.

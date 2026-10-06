@@ -27,7 +27,7 @@ The eight determinations as the canonical concentric mandala: centre `0/1`, the 
 
 ## Proposition
 
-The canonical QL-unit layout, its geometry derived rather than invented: the centre is the `0/1` threshold carrying the ground–mark relation and empty of object; the four explicate stations `#1`–`#4` stand at the compass positions with their determinations and constructions; the enclosing ring carries `∞/dx` as horizon; the parent relation `/ = −/−` and the return-switch `1/0` frame the whole — frame, never content. The concentric form is itself a refraction of the arche-topos (the torus's flat projection: four quarters + centre + enclosing ground = `4+2`), not decoration.
+This is the canonical QL-unit layout, with its geometry derived from the source table. The centre is the `0/1` threshold, which carries the ground–mark relation and is empty of object. The four explicate stations `#1`–`#4` stand at the compass positions with their determinations and constructions, and the enclosing ring carries `∞/dx` as horizon. The parent relation `/ = −/−` and the return-switch `1/0` frame the whole as frame and never as content. The concentric form refracts the arche-topos, being the torus's flat projection of four quarters, a centre and an enclosing ground, which is `4+2`.
 
 $$/\,=\,-/- \;\;\triangleright\;\; 0/1 \rightarrow \text{?}/! \rightarrow -/+ \rightarrow X/x \rightarrow \text{AM}/\text{IS} \rightarrow \infty/dx \;\;\triangleright\;\; 1/0$$
 
@@ -45,9 +45,9 @@ Each station's "what remains invariant through the change" guard is carried by t
 
 ## Proof boundary
 
-- **Derived within the theorem field:** the eight-turn traversal and its order; the concordance of determinations rests on their ordered operations, not on the surface appeal of paired terms — which is why the asset draws the sequence and folds and nothing else.
+- **Derived within the theorem field:** the eight-turn traversal and its order. The concordance of the determinations rests on their ordered operations and owes nothing to the surface appeal of paired terms, which is why the asset draws the sequence and the folds and adds nothing else.
 - **Argued:** the cross-register names (Jungian `4+2`, perspectival angles, the calculus analogy) — marked in the asset's status line as names that witness, not sources.
-- **Omission declared:** the complementary folds (Essence `0+5`, Constitution `1+4`, Text-Texture `2+3`) are real in the source but are not drawn; the figure's proposition is the canonical traversal layout, which the forward grouping carries. Detaching the binaries or reading the stations as serial replacements destroys the traversal — the asset's centre is deliberately empty of object so no badge takes the ground–mark relation's place.
+- **Omission declared:** the complementary folds (Essence `0+5`, Constitution `1+4`, Text-Texture `2+3`) are in the source and are left undrawn, since the figure's proposition is the canonical traversal layout, which the forward grouping carries. The binaries have to stay attached and the stations are no serial replacements of one another, or the traversal is lost, and the asset's centre is deliberately empty of object so that no badge takes the place of the ground–mark relation.
 
 ## Essay blocks
 

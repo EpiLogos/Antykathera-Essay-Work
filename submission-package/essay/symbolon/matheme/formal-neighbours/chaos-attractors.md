@@ -11,9 +11,9 @@ source_relation: "Explicit mathematical construction; argued native comparison"
 
 ## #0 — Distinguish the dynamical objects
 
-A state-space contains possible states; an evolution rule generates trajectories from initial conditions. An attractor is an invariant attracting set under the stated dynamics, and its basin consists of initial conditions tending toward it. [Daza and colleagues’ definition](../../episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/daza-et-al-2016-basin-entropy.md) retains the system-dependent scope of this relation.
+A state-space contains possible states; an evolution rule generates trajectories from initial conditions. An attractor is an invariant attracting set under the stated dynamics, and its basin consists of initial conditions tending toward it. [Daza and colleagues’ definition](../../episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/daza-et-al-2016-basin-entropy.md) **sources** these terms and ties them to the system whose dynamics are stated.
 
-[Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/taylor-2026-symbolon-dynamics.md) coordinates ordering field and lived trajectory as an Argued psychic and technical relation. The worked model below exhibits a basin change; it does not claim that every attractor is chaotic.
+[Symbolon Dynamics](../../episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/taylor-2026-symbolon-dynamics.md) **compares** the ordering field with the lived trajectory as an Argued psychic and technical relation. The worked model below shows a basin change, and its attractors are simple equilibria; chaotic attractors are a further case that the model does not contain.
 
 ## #1 — Define a dissipative gradient system
 
@@ -21,7 +21,7 @@ On the real line, let `x′=μx−x³`, with real parameter `μ`. It is the nega
 
 `dV/dt=V′(x)x′=−(μx−x³)²≤0`.
 
-The potential grows without bound for large `|x|`, and trajectories are driven inward there. This gives an explicit bounded long-term system. Its energy-likeV is a defined mathematical potential, not an identified physical, psychic or moral energy.
+The potential grows without bound for large `|x|`, and trajectories are driven inward there. This gives an explicit bounded long-term system. The potential `V` is a defined mathematical function, and it stands for no physical, psychic or moral energy.
 
 ## #2 — Solve the equilibria and their stability
 
@@ -33,16 +33,16 @@ At `μ=0`, `x′=−x³` still attracts toward 0, but the linear derivative test
 
 For `μ=1`, positive initial conditions tend to +1 and negative initial conditions to −1. The invariant point 0 separates the basins. Initial conditions `+ε` and `−ε` can be arbitrarily close while tending to different attractors.
 
-This is sensitivity of the eventual basin assignment near a boundary. It is not chaotic sensitive dependence within a strange attractor: this one-dimensional gradient example has simple equilibrium destinations. The distinction prevents “chaos” from becoming a generic name for any divergence or transformation.
+This is sensitivity of the eventual basin assignment near a boundary. Chaotic sensitive dependence within a strange attractor is a different phenomenon, because this one-dimensional gradient example has simple equilibrium destinations, and keeping the two apart stops “chaos” from becoming a generic name for any divergence or transformation.
 
 ## #4 — Return the mathematical distinction to the psychic field
 
-[Van Eenwyk’s psychological engagement](../../episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md) compares complexes, symbolic transformation and attractor language. Exact clinical passages and copied encounter quotations retain their separate verification question. The native `X/x` relation gives formative capacity and its actual manifestation their prior office through which that psychological comparison is read.
+[Van Eenwyk’s psychological engagement](../../episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md) **compares** complexes and symbolic transformation with attractor language. Its clinical passages and copied encounter quotations still wait on their own verification. The native `X/x` relation supplies the reading in which that comparison is made: a formative capacity and its actual manifestation, with the capacity wider than any one manifestation.
 
-An atlas gives local descriptions and transition maps; an attractor concerns long-term evolution. A psychic image can illuminate both only by stating the different operations. Likewise a technical J-space needs a representation, evolution and metric before basin terminology becomes measurable. Daza's basin definition alone is not a general bifurcation theorem or a theory of individuation.
+An atlas gives local descriptions and transition maps, while an attractor concerns long-term evolution, so a psychic image can illuminate both only if each operation is stated separately. A technical J-space likewise needs a representation, an evolution rule and a metric before basin terminology becomes measurable. Daza's basin definition is a definition, and a general bifurcation theorem or a theory of individuation would be something more.
 
 ## #5→0 — Return a changed field with its trajectory
 
-The result records a parameter, an evolution rule, two attracting states and a boundary whose change is explicitly derived. A new trajectory can be understood within the changed field rather than being mistaken for a novel instance of an unchanged rule.
+The result records a parameter, an evolution rule, two attracting states and a boundary whose change is derived explicitly. A new trajectory can then be understood inside the changed field, and it is no new instance of an unchanged rule.
 
-[Chronic return](../dia-syn/chronic.md) carries the changed conditions into the next occurrence; [determining capacity and its instance](../ql/x-x.md) retain the relation through which a different trajectory becomes possible. The [research programme](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) receives the particular model with baseline, perturbation and failure conditions still required for any technical or psychic correspondence. Its exact basin change supplies the mathematical comparison rather than an already measured relation among those further fields.
+[Chronic return](../dia-syn/chronic.md) **extends** the changed conditions into the next occurrence, and [determining capacity and its instance](../ql/x-x.md) hold the relation through which a different trajectory becomes possible. The [research programme](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) **returns-to** this model for its baseline, perturbation and failure conditions, which any technical or psychic correspondence still has to supply. The exact basin change provides the mathematical comparison, and no relation among those further fields has been measured yet.

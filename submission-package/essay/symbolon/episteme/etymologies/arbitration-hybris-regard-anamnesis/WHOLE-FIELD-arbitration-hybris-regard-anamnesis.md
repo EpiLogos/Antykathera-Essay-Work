@@ -33,7 +33,7 @@ Arbitration gives a finite judgment consequence; regard returns it to the relati
 
 ## Evidence discipline
 
-The field does **not** claim that *arbitration*, *hybris*, *regard* and *anamnesis* descend from one root. Historical derivation and attested senses belong to registers **1 Philological descent** and **2 Attested semantic field** and must be warranted term by term in the historical/source branch. The conjugate generation below is register **3 Operational homology / authorial relational construction**. Any later sound-play is register **4 Poetic / phonic re-entry** and may never borrow philological warrant.
+*Arbitration*, *hybris*, *regard* and *anamnesis* are four words with four histories, and the field claims no common root for them. Their historical derivation and attested senses belong to registers **1 Philological descent** and **2 Attested semantic field**, and each is warranted term by term in the historical/source branch. The conjugate generation below is register **3 Operational homology / authorial relational construction**. Any later sound-play is register **4 Poetic / phonic re-entry** and carries no philological warrant.
 
 ## Conjugate field
 
@@ -48,7 +48,7 @@ Con-text                           Diaphaneity
 Resolution                         Reconciliation
 ```
 
-The two sixfolds are not lists to be merged. They are conjugate determinations whose relation generates a third articulated field:
+The two sixfolds are conjugate determinations, and their relation generates a third articulated field, so the two lists stay separate and the third is what their conjugacy produces:
 
 ```text
 Continuity-in-Indeterminacy
@@ -70,7 +70,7 @@ Resolution-in-Reconciliation
 → Anamnesis / Recognition / Return
 ```
 
-The left-hand expression on each pair is the **generated relation**. The right-hand term is a **semantic flowering** or operation that becomes available there. These offices must never be collapsed. In particular, `Arbitration-in-Crisis` is not a decorative way of spelling *hybris*. It names a decision-bearing relation between finite arbitration and the indeterminacy/crisis that calls for decision; *hybris* flowers when the deciding office forgets that crisis and treats its local measure as source measure.
+The left-hand expression on each pair is the **generated relation**. The right-hand term is a **semantic flowering** or operation that becomes available there. These two offices stay apart. `Arbitration-in-Crisis` names a decision-bearing relation between finite arbitration and the indeterminacy and crisis that call for decision, and it is another thing than a decorative spelling of *hybris*; *hybris* flowers when the deciding office forgets that crisis and treats its local measure as source measure.
 
 Likewise, `Con-text-through-Diaphaneity` is the generated relation; *Regard* is the operation in which the context and Other can become visible through the determination instead of remaining hidden behind it. `Resolution-in-Reconciliation` is generated before *anamnesis/recognition/return* flowers as recollective re-situation of an achieved settlement.
 
@@ -83,7 +83,7 @@ Likewise, `Con-text-through-Diaphaneity` is the generated relation; *Regard* is 
 
 A judgment enters a field already carrying relationships, purposes and consequences. Its conditions remain active through the act of judging, including conditions its criterion cannot yet state. Continuity therefore exceeds the repetition of a previous result. It allows this determination and a later correction to belong to one history without making the earlier account the measure of everything that can follow.
 
-Origin / unmeasurable flowers here as the continuing source relation of finite measure. [Native self-reference](../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) keeps finite measure related to its unexhausted condition. It is not an inference from a Latin or Greek root, and a missing lexical citation does not suspend it. At the same time, an unspecified origin cannot take over the concrete work of showing which witness, rule, inheritance or permission made an actual decision possible. The whole lets those histories become determinate without exhausting origin in their inventory.
+Origin / unmeasurable flowers here as the continuing source relation of finite measure. [Native self-reference](../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) keeps finite measure related to its unexhausted condition. It rests on native self-reference and draws nothing from a Latin or Greek root, so a missing lexical citation leaves it standing. An unspecified origin, for its part, cannot do the concrete work of showing which witness, rule, inheritance or permission made an actual decision possible. The whole lets those histories become determinate, and origin is not exhausted by their inventory.
 
 <a id="criterion-through-distinction"></a>
 
@@ -99,7 +99,7 @@ The affected field matters before a verdict. Who selected the alternatives, whic
 
 The criterion receives a situated edge. A question has a frame; some witnesses become legible within it, and others fall outside the account. Delineation is therefore distinct from the criterion itself. A system can use a consistent standard over a field whose boundaries already exclude the evidence that would expose its inadequacy.
 
-[Context and Context Frame](../../../../section-rooms/arguments/concepts/C08-Context-Context-Frame.md) distinguish the continuing world from the conditions selected to proceed. The frame selects conditions sufficient to proceed; the world includes conditions the selection has not captured. [Contextual transparency](../../../../section-rooms/arguments/A04-Diaphaneity-Contextual-Transparency.md) and [diaphaneity](../../../../section-rooms/arguments/concepts/C09-Diaphaneity.md) make the inverse reading available: the view discloses a world and also the placement of the viewer. This is the register-3 operation that prepares Regard. It does not turn a contextual frame into an observer outside all frames.
+[Context and Context Frame](../../../../section-rooms/arguments/concepts/C08-Context-Context-Frame.md) distinguish the continuing world from the conditions selected to proceed. The frame selects conditions sufficient to proceed; the world includes conditions the selection has not captured. [Contextual transparency](../../../../section-rooms/arguments/A04-Diaphaneity-Contextual-Transparency.md) and [diaphaneity](../../../../section-rooms/arguments/concepts/C09-Diaphaneity.md) make the inverse reading available: the view discloses a world and also the placement of the viewer. This register-3 operation prepares Regard, and a contextual frame stays inside the frames it discloses, with no observer standing outside all of them.
 
 <a id="arbitration-in-crisis"></a>
 
@@ -133,7 +133,7 @@ A settlement becomes recollective when its achievement returns with its history,
 
 [Individuation](../../../../section-rooms/arguments/A21-Individuation-Recognition.md), [recognition](../../../../section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition.md) and [differentiated life](../../../../section-rooms/arguments/concepts/C34-Individuation.md) retain the distinction between remembering an object and changing the relation through which a formation knows its source. Greek anamnesis, Śaiva recognition and Jungian individuation have separate histories. The authorial known→unknown→known movement recovered through [Van Eenwyk's protected encounter](../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md) and [Symbolon Dynamics](../../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/taylor-2026-symbolon-dynamics.md) receives a changed interpreter, not a pristine beginning or a larger complex promoted to sovereign. The copied note quotations remain leads; the native `X/x` relation remains Taylor's.
 
-[Epistemic cultivation](../../../../section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md) and [its inherited capacity](../../../../section-rooms/arguments/concepts/C46-Epistemic-Cultivation.md) make the second circuit consequential. The next inquiry must be able to do something different because of what the prior encounter disclosed: admit the excluded witness, revise a category, change a permission, alter a gauge or recommission the task. Keeping a log without changing its use does not complete this return. [Devotion to whole and particular aperture](../../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/taylor-2026-definition-god-draft3.md) sustains the local work through its correction and release into use. The generated return carries that obligation through the actual encounter; demonstrating a proposed technical experiment requires its separately named execution evidence.
+[Epistemic cultivation](../../../../section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md) and [its inherited capacity](../../../../section-rooms/arguments/concepts/C46-Epistemic-Cultivation.md) make the second circuit consequential. The next inquiry must be able to do something different because of what the prior encounter disclosed: admit the excluded witness, revise a category, change a permission, alter a gauge or recommission the task. A log kept without any change in its use leaves this return incomplete. [Devotion to whole and particular aperture](../../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/taylor-2026-definition-god-draft3.md) sustains the local work through its correction and release into use. The generated return carries that obligation through the actual encounter; demonstrating a proposed technical experiment requires its separately named execution evidence.
 
 Within [psychic differentiation and symbolic transformation](../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md), an achieved settlement retains the life and history through which it became possible. Jung’s ego and Self keep different scopes; Neumann’s differentiated centre retains each telling’s geography and time; symbolic transformation changes the interpreter who receives the next image. Resolution-in-Reconciliation carries that changed history rather than restoring an untouched beginning. At register 3, the institutional comparison also returns a limit on transfer: psychic recognition alone neither redistributes coercive power nor supplies an effective appeal, and institutional reform alone does not establish changed affective investment.
 

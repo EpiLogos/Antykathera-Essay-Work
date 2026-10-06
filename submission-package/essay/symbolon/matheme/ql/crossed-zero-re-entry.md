@@ -11,11 +11,11 @@ source_relation: "Extracted native derivation; worked construction and argued re
 
 ## #0 — The crossing has a subjectward face
 
-The input is experience whose apparent subject and apparent objects have already been articulated. The [core spine, §IX](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) recovers the slash through both effects. Its native sequence is
+The input is experience whose apparent subject and apparent objects have already been articulated. The [core spine, §IX](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **derives** the slash through both of these effects, in the native sequence
 
 `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 → 0/1`.
 
-Here `0` is unobjectifiable presence, `Ø` the medium's identification of itself as subject, and `X` the cut object-field. This local `X` names the field of crossings; [X/x](x-x.md) gives determining capacity its own register. The distinction lets the same graphic field retain its different operations.
+Here `0` is unobjectifiable presence, `Ø` the medium's identification of itself as subject, and `X` the cut object-field. This local `X` names the field of crossings, whereas [X/x](x-x.md) **defines** determining capacity in its own register, so one graphic letter carries two operations and each stays in its own place.
 
 ## #1 — Read the fused mark
 
@@ -43,6 +43,6 @@ The further distinction is between quilting point and thread. A particular signi
 
 ## #5→0 — Return as manifest relation
 
-The result is `0/1`: recognised presence in relation to manifestation. Pure bracketing `0` and manifest `0/1` are distinguished, so the return does not undo the world it has made available. The description can still be used, now as the ground's articulation rather than its exhaustive replacement.
+The result is `0/1`, recognised presence in relation to manifestation. Pure bracketing `0` and manifest `0/1` are different, so the return leaves the world it has made available in place, and the description can still be used, now as the ground's articulation and no longer as its exhaustive replacement.
 
-This record returns-to [A10](../../../section-rooms/arguments/A10-Advent-of-Zero.md), [A36](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md), and [Movement16](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md). [Laws of Form and Varela](../formal-neighbours/laws-of-form-varela.md) supply neighbouring calculi with their own signatures. Native recognition retains the short definition/quilt return; an inverse process traversal must explicitly carry the full chain and its source-local primes.
+This record **returns-to** [A10](../../../section-rooms/arguments/A10-Advent-of-Zero.md), [A36](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) and [Movement16](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md). [Laws of Form and Varela](../formal-neighbours/laws-of-form-varela.md) **compares** as neighbouring calculi with their own signatures. Native recognition keeps the short definition/quilt return, and an inverse process traversal carries the full chain and its source-local primes explicitly.

@@ -46,7 +46,7 @@ The octave, as the identification that makes the circle, and the exact value of 
 ## Proof boundary
 
 - **Derived:** all ratios, cents and the angle `0.01955 × 360° ≈ 7.04°`.
-- **Not claimed:** any aesthetic or practical consequence of tempering. The movement's question, which relationship a tuning serves and what adjustment it makes audible, stays with the movement.
+- **Left to the movement:** the aesthetic and practical consequences of tempering, that is, which relationship a tuning serves and what adjustment it makes audible. The arithmetic here settles only the numbers.
 - **Scale:** the full-scale bars differ by 0.3 per cent; the magnified ruler is drawn to a stated scale.
 
 ## Essay blocks

@@ -11,7 +11,7 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Keep the two constructions visible
 
-The [core spine, §III](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) places triangular counting and the 3–4–5 right triangle within its numerical unit. The [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) adds the two readings of 16/9. These are native mathematical carriers; their historical Pythagorean testimony requires its own source beyond the arithmetic.
+The [core spine, §III](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **defines** the numerical unit in which triangular counting and the 3–4–5 right triangle both sit, and the [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) adds the two readings of 16/9. These are native mathematical carriers. Their historical Pythagorean testimony is a different matter and needs its own source.
 
 ## #1 — Construct triangular ten
 
@@ -42,10 +42,10 @@ A separate worked count takes the factor occurrences across the two representati
 
 The numerator satisfies `4²=2⁴=16`. The denominator does not share the same flip: `3²=9` while `2³=8`. The musical source therefore holds 3 as an anchor while the 4/2 representation changes. Its native 4:2 and 3:3 readings use this asymmetry; replacing it with a symmetric slogan would remove the actual relation.
 
-The 3–4–5 triangle's area 6 and perimeter 12 also carry different dimensions. Their numbers can enter the native six/twelvefold correspondence, while length, area and cardinality remain distinct quantities. The arithmetic alone supplies no historical oath, initiation or universal ontology.
+The 3–4–5 triangle's area 6 and perimeter 12 also carry different dimensions, and their numbers can enter the native six/twelvefold correspondence while length, area and cardinality stay distinct quantities. The arithmetic gives no historical oath or initiation and no universal ontology.
 
 ## #5→0 — Return the figure with its counting rule
 
-The result contains triangular 10, right-triangle area 6, perimeter 12, the native structural `3+1+4+2=10` and the distinct factor-occurrence count 10, each with its construction. The native relation can move among them without changing what a number measures halfway through a derivation.
+The result contains triangular 10, the right triangle's area 6 and perimeter 12, the native structural `3+1+4+2=10` and the separate factor-occurrence count of 10, each with its own construction. The native relation can move among them because no number changes what it measures partway through a derivation.
 
-[Perfect six](perfect-six.md) retains the divisor sum, while [complex orientation](../ql/complex-orientation.md) gives a rotation its separate coordinate operation. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold qualitative offices together with their different counts; [the Spanda accounting](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) keeps the sum, ratio and factor-instance count available through the whole’s return. The figure is now available as a worked carrier rather than an unexplained numerical resemblance.
+[Perfect six](perfect-six.md) **compares** through the divisor sum, and [complex orientation](../ql/complex-orientation.md) through a rotation's separate coordinate operation. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold qualitative offices together with their different counts, and [the Spanda accounting](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) **extends** the sum, the ratio and the factor-instance count through the whole's return. The figure is a worked carrier of these relations, and the resemblances among its numbers are earned by the constructions.

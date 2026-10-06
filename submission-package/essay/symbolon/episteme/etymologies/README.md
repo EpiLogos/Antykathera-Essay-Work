@@ -11,9 +11,9 @@ domain: etymologies
 
 # Etymologies — Meaning Fields, Word-Histories, and Re-entries
 
-An etymology begins where a word remembers the paths by which it arrived; it becomes useful to *The Return of Zero* when that memory lets an operation become more exact in the present. The field therefore keeps both matters in view. A word's documented descent can correct the thought that receives it, while a pun, a shared sound, or a cross-cultural recurrence can return a live question to language in a way no pedigree could prove. Neither office should counterfeit the other.
+An etymology begins where a word remembers the paths by which it arrived; it becomes useful to *The Return of Zero* when that memory lets an operation become more exact in the present. The field therefore keeps both matters in view. A word's documented descent can correct the thought that receives it, and a pun, a shared sound or a cross-cultural recurrence can return a live question to language in a way no pedigree could prove. Each office is marked for what it is, so that a pun is never offered as a pedigree and a pedigree is never needed to license a pun.
 
-These are repeatable anchors for the essay's flights: a writer can return to *nomos* when a number becomes a norm, to *symbolon* when a mark bears a separated relation, or to *homologia* when several traditions seem to answer in one ratio. The entry supplies the word-history, identifies the operation the essay may take up, and states the relation's evidential register before it enters an argument.
+These are repeatable anchors for the essay's flights: a writer can return to *nomos* when a number becomes a norm, to *symbolon* when a mark bears a separated relation, or to *homologia* when several traditions seem to answer in one ratio. Each entry gives the word-history, names the operation the essay may take up, and states the relation's evidential register before it enters an argument.
 
 **Initial intake provenance:** the user-provided etymological notes of 16 July 2026. Their strongest historical leads have been retained as leads or source-shelf tasks until a lexical or primary source is attached; their authorial and poetic pressure is retained in the operational and phonic registers.
 
@@ -86,7 +86,7 @@ Its fullness is `3 + 2 + 1 = 6`, and it makes the native `3:3` and `3:1` especia
 
 This conjugate form sits beside **distributive recursion** such as `6×6`, where each of the six positions receives a complete sixfold of its own. The former asks what each position becomes **through its conjugate**; the latter asks how the **whole sixfold refracts inside each position**. The working quilt relates these, orientingly rather than identically, to the project's two sixfold readings: `3:3` makes conjugate traversal especially legible; `4:2` makes the full explicate/implicate six-body especially legible. Both remain readings of a body generated as `4+2`.
 
-The discipline is therefore **maximum earned articulation with recursive return**. Where the field earns only three positions, keep three. Where it earns twelve, keep twelve. Where conjugacy or holographic recursion genuinely generates further determinations, let the words grow.
+The discipline is therefore **maximum earned articulation with recursive return**. A field that earns three positions keeps three, a field that earns twelve keeps twelve, and where conjugacy or holographic recursion generates further determinations the words are allowed to grow.
 
 ## The four registers
 
@@ -125,7 +125,7 @@ Each cluster keeps five things together:
 4. **Source shelf** — dictionaries, editions, grammars, or passages needed to move a lead toward quotation-ready evidence. These remain internal research references unless a work begins to bear a first-class burden elsewhere in the essay.
 5. **Argument and history routes** — exact sections, concepts, arguments, Mythemes and histories where the field does work. The linked canonical node remains the authority for the local claim; the cluster remains the authority for the whole etymological relation.
 
-The field is deliberately porous: a single word can belong to more than one cluster, and a cluster can enter more than one history. The relation is named each time rather than inferred from adjacency.
+The field is porous by design, so a single word can belong to more than one cluster and a cluster can enter more than one history. The relation is named each time and is never inferred from adjacency.
 
 ## Clusters opened
 
@@ -151,4 +151,4 @@ The field is deliberately porous: a single word can belong to more than one clus
 | Genesis, Paradigm, Project and Epi-Logos | [Language, symbol, and dialogue](../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md); [Indian philosophy](../histories/traditions-and-disciplines/indian-philosophy/HISTORY-indian-philosophy.md); [Psychology](../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md); [Technology, politics, and institutions](../histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md) | [Crossed Zero](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md); [Māyā / Operative Measure](../../../section-rooms/arguments/concepts/C14-Maya-Operative-Measure.md); [Objective Internality](../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [Compassion](../../../section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md); [S — World and Life](../../../section-rooms/arguments/products/S-World-and-Life.md) |
 | Earth, taste, and wisdom | [Zero, subject, and the advent of integral logic](../histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md); [Language, symbol, and dialogue](../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md); [Psychology](../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md) | [[A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]]; [[A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [Compassion as Sensitivity to Origins](../../../section-rooms/arguments/concepts/compassion-as-sensitivity-to-origins.md); [§5→0 · #0 — From Theory to Vocation](../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) |
 
-The routes are invitations to retrieve, not permissions to insert an etymology into a passage. Before a canonical use, reopen the local movement and the whole etymological unit, ask what operation the word performs there, and retain the relation that carries that work.
+These routes invite retrieval, and they give no licence to insert an etymology into a passage. Before a canonical use the writer reopens the local movement and the whole etymological unit, asks what operation the word performs there, and keeps the relation that carries that work.
