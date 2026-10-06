@@ -21,11 +21,11 @@ status: T21-developed-reviewed
 
 ## #0 — Identity has a passage to make
 
-An identity must be recognised, stated, remembered or carried across a difference of presentation. Even “A is A” makes a minimal journey: the second inscription is not the first inscription, yet the judgment identifies them. The copula keeps them together through the difference that gives the act of identification its work.
+An identity must be recognised, stated, remembered or carried across a difference of presentation. Frege asked why “the morning star is the evening star” can inform where “a = a” cannot, and answered that two names present one planet, Venus, in two ways. Even “A is A” needs two inscriptions in two places for the judgment to identify them, since the second inscription is not the first. The copula keeps them together through the difference that gives the act of identification its work.
 
 **Identity is maintained through difference, rather than achieved by erasing it.** The copula identifies what it distinguishes and distinguishes what it identifies in one act. The [copular operation](concepts/C06-Copula-Identification-with-Difference.md) also gives [faithful definition](A01-Subject-God-and-Faithful-Definition.md) its obligation: identification can be exact without enclosing the condition of the identifying act.
 
-Opposition requires a shared register in which the opposed terms can meet. Assertion and denial must be distinguishable within the field where they address one another. What is being held the same, what differs, and through which relation can the two answer to one another? The common relation gives each distinction its place and makes its consequences examinable.
+Opposition requires a shared register in which the opposed terms can meet, which is Taylor's comparability principle: two things cannot stand in opposition unless they share the ground that makes them comparable. Assertion and denial must be distinguishable within the field where they address one another. What is being held the same, what differs, and through which relation can the two answer to one another? The common relation gives each distinction its place and makes its consequences examinable.
 
 For self-knowledge, both sides of that question matter. A self must differ from itself in presentation to have something to recognise, and remain itself for the recognition to be self-knowledge. At the [subjective pole](concepts/C01-Subject-Defined-Indefinability.md), the present act cannot be reduced to a finished self-image. Yet the changing image need not sever the identity it articulates. The copula is the capacity to cross this difference while keeping the seam available.
 
@@ -43,13 +43,13 @@ $$
 3 = 1 + 2.
 $$
 
-The expressions are unequal as inscriptions and equal in the respect the equation states. Their equality does not abolish the difference through which it can be recognised. Predicative content and numerical identification remain distinct operations even where ordinary speech lets one word carry both. [Determination](concepts/C03-Determination.md) gives each assertion its scope by discriminating the respect in which it applies.
+The expressions are unequal as inscriptions and equal in the respect the equation states. Their equality keeps the difference through which it can be recognised. Predicative content and numerical identification remain distinct operations even where ordinary speech lets one word carry both. [Determination](concepts/C03-Determination.md) gives each assertion its scope by discriminating the respect in which it applies.
 
 ## #2 — Circumstance makes the identification answerable
 
 To identify this as that very one also requires **circumstance**. A name can be shared; a description can be repeated; an image can be copied. The field of comparison determines which sameness is at issue. The person standing here, the person recalled yesterday, the figure in a photograph and a fictional character bearing the same name do not become interchangeable because one string can designate them.
 
-Identification therefore joins three moments: **name, instance and circumstance**. The name makes a determination articulable; the instance holds what is being identified; the circumstance supplies the horizon in which the identification and its alternatives can be compared. Identity is name and instance proposed relative to circumstance. “Proposed” does not mean arbitrary. It means that a claim of identity has a place, a criterion and consequences for which it can answer.
+Identification therefore joins three moments: **name, instance and circumstance**. The name makes a determination articulable; the instance holds what is being identified; the circumstance supplies the horizon in which the identification and its alternatives can be compared. Identity is name and instance proposed relative to circumstance. “Proposed” marks that a claim of identity has a place, a criterion and consequences for which it can answer, and it makes the claim no less exact.
 
 Context can disambiguate a scope that a bare formula has not settled. The question is not only which words occur but what this use of them expresses, who is speaking, and which possibility is being entertained. The circumstantial whole supplies an ordering within which particular distinctions are made. Someone can identify a remembered person, distinguish a fictional namesake and entertain an alternative history because the act holds the respect under which each is being compared.
 
@@ -85,7 +85,7 @@ The unity of the relation can be [singular One or polyvalent All](A11-The-Two-On
 
 The position-sensitive use of “I” differs from attaching a given name to its bearer. The same utterance can be mine as speaker, yours as addressee, and an object of description. Their relation makes the speech event shareable while preserving the different places from which it is lived.
 
-The `1–2–3` pass follows the persons in sequence. The `4–5–0` recognition pass voids their isolation, recognises their unity and returns the achieved account to the relation through which it arose. Context does not insert a fourth pronoun. It makes the three positions available together, including the activity by which they were distinguished. Their unity does not erase the first-person, second-person and third-person differences. This is why the two triads can be read as `3:3` and as `3:1`: the recognition pass gathers the preceding three as one act. Its operation is different from the `4:2` distinction between four explicate positions and two implicate poles.
+The `1–2–3` pass follows the persons in sequence. The `4–5–0` recognition pass voids their isolation, recognises their unity and returns the achieved account to the relation through which it arose. Context inserts no fourth pronoun, and it makes the three positions available together, including the activity by which they were distinguished. Their unity leaves the first-person, second-person and third-person differences in place. This is why the two triads can be read as `3:3` and as `3:1`: the recognition pass gathers the preceding three as one act. Its operation is different from the `4:2` distinction between four explicate positions and two implicate poles.
 
 The fourth still permits an account *about* this unity. [Faithful definition](A01-Subject-God-and-Faithful-Definition.md) requires a further turn: an explanation that all the persons belong to one activity has not yet performed its first-person recognition. A richer description of the speaker is still a description. The copula must return in the mode of the one for whom the identification matters.
 

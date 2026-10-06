@@ -16,7 +16,7 @@ ownership: generated
 
 ## Arrival
 
-The mathematical substrate now has a precise task.
+The mathematical substrate now has a precise task: to derive how this ground–mark relation behaves under distinction, re-entry, alternation, complex orientation, quotienting, topological return and harmonic resolution.
 
 ## Section wager
 
@@ -52,9 +52,9 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Earned position (Argued):** Spencer-Brown begins with the injunction to draw a distinction.
 
-**Why this move:** Within the essay’s Argued temporal account, a mark that returns cannot return as though no distinction occurred.
+**Why this move:** Within the essay's Argued temporal account, a mark that returns cannot return as though no distinction had occurred, so the slash retains its crossing.
 
-**Carry-forward:** Complex orientation solves a limitation by enlarging the representational space.
+**Carry-forward:** Complex orientation resolves a limitation by enlarging the representational space, and projective geometry, compactification, cross-ratio and many-valued logic repeat that methodological move in §3 · #3 — Projective Completion and Dimensional Reframing.
 
 **Open:** [movement](movements/27-s3-p2-mark-reentry-complex.md) · canonical route: [A14 — Computational Process Ontology](../arguments/A14-Computational-Process-Ontology.md), [A18 — Primordial Symbolon and Its Eight Determinations](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [A19 — Complex as Local Arbitration Regime](../arguments/A19-Complex-as-Local-Arbitration-Regime.md), [C31](../arguments/concepts/C31-Complex.md), [C64](../arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md) · sources: [kauffman-2014-iterants-fermions-dirac-arxiv](../../symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/kauffman-2014-iterants-fermions-dirac-arxiv.md)
 
@@ -62,7 +62,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #2 · Mark, Re-entry, and Complex Orientation](movements/27-s3-p2-mark-reentry-complex.md)
 
-**Earned position (Argued):** Mathematics repeatedly encounters obstructions that become tractable after the representational space, algebra or logic is changed.
+**Earned position (Argued):** Mathematics repeatedly meets obstructions that become tractable once the representational space, algebra or logic is changed.
 
 **Why this move:** Zero and infinity repeatedly function as useful **stress points** because attempts to force them into an existing representation can reveal which laws and distinctions that representation is using.
 
@@ -84,7 +84,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #4 · Topology and Musical Resolution](movements/29-s3-p4-topology-music-resolution.md)
 
-**Earned position (Derived (Arche-Topos formal synthesis); Argued (psychoid identification)):** The arche-topos is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation.
+**Earned position (Derived (Arche-Topos formal synthesis); Argued (psychoid identification)):** The arche-topos is the differential field on which the `0/1` relation can be written as path, circulated as winding, heard as interval and recognised as symbolic transformation.
 
 **Carry-forward:** The differential field **returns-to** Topos — situated return through the conditions under which a placement, path or return is possible.
 

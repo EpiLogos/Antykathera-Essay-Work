@@ -17,9 +17,9 @@ source_relation: Argued from
 
 ## #0
 
-Vāk makes articulation itself part of ontology. A word is not merely a label attached after a world has already been made; articulation is one route by which a field differentiates, becomes meaningful, and enters audible, written, coded or enacted form. The Śaiva accounts of levels of speech follow meaning through its formation into an external sign. Unsayable capacity, visionary or formative speech, mental articulation and gross utterance belong to one descent whose later products carry the history of their formation.
+Vāk makes articulation itself part of ontology. A word labels a world that is already made, and it also takes part in the making, since articulation is one route by which a field differentiates, becomes meaningful, and enters audible, written, coded or enacted form. The Śaiva accounts of levels of speech follow meaning through its formation into an external sign. Unsayable capacity, visionary or formative speech, mental articulation and gross utterance belong to one descent whose later products carry the history of their formation.
 
-This gives the paradigm its articulation-side. [Objective Internality](concepts/C41-Objective-Internality.md) names the paradigm first as the lived/enacted pattern of mediation through which a Life and World become mutually discloseable. Vāk explains why such a pattern can become **formed expression** without expression being merely a commentary added afterwards. The lived field precedes its explicit model, but its articulation can become a real event within that field and change what later becomes possible.
+This gives the paradigm its articulation-side. [Objective Internality](concepts/C41-Objective-Internality.md) names the paradigm first as the lived/enacted pattern of mediation through which a Life and World become mutually discloseable. Vāk explains why such a pattern can become **formed expression**, with the expression arriving as more than a commentary added afterwards. The lived field precedes its explicit model, but its articulation can become a real event within that field and change what later becomes possible.
 
 ## #1
 
@@ -37,7 +37,7 @@ The [instruction addressed to Bāhiya](../../quilt/27-07-26-QUILTING-FOR-FULL-AR
 
 In [Taylor’s Watson encounter](../../symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness.md), selfing gives the interpersonal return another force. His protected notes distinguish the fabricated self-thing from the non-objectifiable Self, retaining address while appropriation is dismantled. The Watson–Gans–Levinas chain makes the Other consequential beyond the image through which egoic need would receive it. An answering You can change the measure under which it was first encountered. Loosening appropriation opens relation while keeping the person addressable.
 
-[Contextual transparency](A04-Diaphaneity-Contextual-Transparency.md) makes the circumstance of these person-exchanges available. The native `1–2–3 / 4–5–0` movement passes from sequential perspectives to voiding their exclusive claims, recognising their unity and returning as `0/1`. `#4` is the field holding the exchanges, rather than a fourth pronoun. Through the [copula](A02-Copula-Self-Identity-through-Difference.md), person, name, instance and circumstance remain related: this identification is made from here, to someone, within a field another act can reopen.
+[Contextual transparency](A04-Diaphaneity-Contextual-Transparency.md) makes the circumstance of these person-exchanges available. The native `1–2–3 / 4–5–0` movement passes from sequential perspectives to voiding their exclusive claims, recognising their unity and returning as `0/1`. `#4` is the field holding the exchanges, and it adds no fourth pronoun. Through the [copula](A02-Copula-Self-Identity-through-Difference.md), person, name, instance and circumstance remain related: this identification is made from here, to someone, within a field another act can reopen.
 
 ## #3
 

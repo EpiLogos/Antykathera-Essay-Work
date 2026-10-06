@@ -32,7 +32,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Earned position (Argued):** The six product movements have disclosed one **constructed paradigm within Objective Internality**: meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation are six offices through which a technical Life/world can be organised.
 
-**Why this move:** Objective Internality gives **paradigm** its essay office as lived/enacted mediation rather than an explicit doctrine alone.
+**Why this move:** Objective Internality gives **paradigm** its essay office as lived and enacted mediation, with an explicit doctrine as one part of it.
 
 **Carry-forward:** The achieved theoretical account **returns-to** Epi-Logos — source return as work offered into another life's conditions.
 
@@ -42,7 +42,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Incoming pressure:** [§5→0 #0 · From Theory to Vocation](movements/43-s50-p0-theory-vocation-compassion.md)
 
-**Earned position (Argued):** Within the **larger six-product paradigm** restored in §5, QL, MEF, Bimba and the harness form one disclosure-and-return architecture.
+**Earned position (Argued):** Within the **larger six-product paradigm** restored in §5, QL, MEF, Bimba and the harness form one disclosure-and-return architecture that serves Central, Actuation, AIKit, Factory and Workcell and leaves each in its own office.
 
 **Why this move:** The unit can nest across sentence, claim, agent, research programme, and institution while retaining source and disagreement.
 
@@ -56,7 +56,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Earned position (Offered):** The Antikythera mechanism is finally earned as an image of situated coordination: its gears render heterogeneous celestial cycles mutually readable for an observer while the heavens remain beyond the instrument.
 
-**Why this move:** The essay has already established retained ground, multiple orientations, harmonic interval, lens refraction, and institutional return.
+**Why this move:** The essay has already established retained ground, multiple orientations, harmonic interval, lens refraction and institutional return, and the mechanism enters only here, as a controlling image, because only now has the argument derived what an attunement instrument must retain.
 
 **Carry-forward:** a late instrument whose dial becomes readable only after the cosmology is understood.
 

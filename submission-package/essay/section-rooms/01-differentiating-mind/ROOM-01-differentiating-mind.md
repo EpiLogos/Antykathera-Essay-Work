@@ -32,7 +32,7 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Earned position (Argued):** The first differentiation is the reflexive bend by which luminous awareness takes its own manifestation as other enough to encounter.
 
-**Why this move:** Kashmir Śaivism’s Prakāśa-Vimarśa names luminosity and self-recognition as one non-dual dynamism.
+**Why this move:** Kashmir Śaivism's Prakāśa-Vimarśa names luminous appearing (*prakāśa*) and its inseparable self-apprehension (*vimarśa*) as one non-dual dynamism.
 
 **Carry-forward:** the slash is activity before it is a separator.
 
@@ -42,9 +42,9 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Incoming pressure:** [§0 #0 · Awareness Bends Toward Display](movements/07-s0-p0-awareness-bends-display.md)
 
-**Earned position (Argued):** *Buddhi*, *ahaṃkāra*, and *manas* are determinate internal functions—judgment, appropriation, and coordination—available to reflection as contents and operations.
+**Earned position (Argued):** *Buddhi*, *ahaṃkāra* and *manas* are determinate internal functions: judgment, appropriation as "I/mine", and coordination of sensory and conceptual contents.
 
-**Why this move:** They can be reflected upon, conditioned, and functionally decomposed.
+**Why this move:** A remembered insult shows the three at work.
 
 **Carry-forward:** objective functions occupy the marked side of `0/1`.
 
@@ -56,7 +56,7 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Earned position (Argued):** Mind constructs a context-world through a pulse.
 
-**Carry-forward:** §0/1 has already opened the cut through apoha and Spinoza together.
+**Carry-forward:** §0/1 opened the cut through apoha and Spinoza together, and here apoha receives its own historical and semantic force.
 
 **Open:** [movement](movements/09-s0-p2-vikalpa-samkalpa.md) · canonical route: [A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will](../arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md), [A09 — Tattvic-Differential-Field](../arguments/A09-Tattvic-Differential-Field.md), [C12](../arguments/concepts/C12-Script-Frozen-Conditioned-Will.md), [C17](../arguments/concepts/C17-Vikalpa-Samkalpa.md) · sources: [taylor-2026-core-theorems-pithy](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), [taylor-2026-definition-god-draft3](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/taylor-2026-definition-god-draft3.md), [dyczkowski-2000-doctrine-vibration](../../symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/dyczkowski-2000-doctrine-vibration.md)
 
@@ -64,7 +64,7 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Incoming pressure:** [§0 #2 · Vikalpa and Saṃkalpa](movements/09-s0-p2-vikalpa-samkalpa.md)
 
-**Earned position (Argued):** §0/1 has already opened the cut through apoha and Spinoza together.
+**Earned position (Argued):** §0/1 opened the cut through apoha and Spinoza together, and here apoha receives its own historical and semantic force.
 
 **Carry-forward:** The determinate term **returns-to** Name-through-Count with the contrast through which it applies.
 
@@ -74,7 +74,7 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Incoming pressure:** [§0 #3 · Apoha](movements/10-s0-p3-apoha.md)
 
-**Earned position (Derived):** The thirty-six tattvas can be carried argumentatively as six movements: Paramaśiva/Anuttara; Śiva–Śakti; Sadāśiva–Īśvara; Sadvidyā–Māyā; the kañcukas and complete contracted apparatus; Pratyabhijñā.
+**Earned position (Derived):** The thirty-six tattvas can be carried argumentatively as six movements, and together the six give the anatomy by which an implicated whole becomes an explicate, inhabitable world and returns to recognition.
 
 **Why this move:** The derivation is stated in The Tattvic QL Unit, developed as an argument in Tattvic Differential Field, and traced to 36 Tattvas.
 
@@ -86,7 +86,7 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Incoming pressure:** [§0 #4 · The Sixfold Tattvic Compression](movements/11-s0-p4-tattvic-compression.md)
 
-**Earned position (Argued):** Objective Internality is the **constituted means through which a Life inhabits, discriminates and acts within a World**.
+**Earned position (Argued):** Objective Internality is the **constituted means through which a Life inhabits, discriminates and acts within a World**, and a mind is lived while a life is minded, so Life and Mind are two names for this means.
 
 **Why this move:** In ordinary human life this means includes attention, memory, language, valuation, habit, expectation, embodiment, inherited practice, social relation and the many conditions through which things can appear as salient or actionable.
 

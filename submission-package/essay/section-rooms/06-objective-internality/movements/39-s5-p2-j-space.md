@@ -20,7 +20,7 @@ Movement 39 of 48 · [This room](../ROOM-06-objective-internality.md) · [← Pr
 
 ## Claim
 
-**AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity is not identical with possession. A capability can exist yet be unavailable, available yet irrelevant, relevant yet unpermitted, permitted yet unselected, selected yet unable to become operative. These distinctions belong to the philosophical office because they describe how possibility is disclosed from a particular internality.
+**AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity differs from possession. A capability can exist yet be unavailable, available yet irrelevant, relevant yet unpermitted, permitted yet unselected, selected yet unable to become operative. These distinctions belong to the philosophical office because they describe how possibility is disclosed from a particular internality.
 
 ## Warrant — logical possibility through time
 
@@ -34,10 +34,10 @@ Power enters wherever availability becomes selection. To make one method salient
 
 ## Tension / limit
 
-A capability inventory can counterfeit potency if it treats existence as equivalent to situated use. Availability does not establish relevance; relevance does not grant permission; permission does not guarantee fitness; repeated fitness does not create unrestricted authority. Likewise, an explicit capability map remains another representation inside Objective Internality. It demonstrates Epi-Logos only if returned encounter can alter the actual horizon by changing what later becomes available, salient, permitted or selected.
+A capability inventory counterfeits potency when it treats existence as equivalent to situated use. Each step from existence to operation is its own achievement: a capability becomes available, proves relevant, is permitted, is selected and works, and fitness shown repeatedly earns a bounded standing and never unrestricted authority. An explicit capability map is itself a representation inside Objective Internality, and it demonstrates Epi-Logos only if returned encounter can alter the actual horizon by changing what later becomes available, salient, permitted or selected.
 
 ## Return
 
 AIKit gives Actuation a changing field of possibility. The next movement asks what happens when possibility, action and encounter are gathered into changed form: [Software Factory — Transformation](40-s5-p3-preference-hidden-zero.md).
 
-[AIKit](../../arguments/products/S2-AIKit.md) gives this movement its technical body within the wider [World and Life](../../arguments/products/S-World-and-Life.md) field. Potency is the changing horizon of what can fittingly be brought to bear, not a catalogue detached from situation.
+[AIKit](../../arguments/products/S2-AIKit.md) gives this movement its technical body within the wider [World and Life](../../arguments/products/S-World-and-Life.md) field. Potency is the changing horizon of what can fittingly be brought to bear, and it is always situated.

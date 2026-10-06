@@ -30,11 +30,11 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Incoming pressure:** [§3 #5→0 · The Arche-Topos](../04-mathematical-substrate/movements/30-s3-p5-arche-topos.md)
 
-**Earned position (Argued):** Jung and Pauli’s psychoid problem asks how psychological image and physical event can show meaningful structural relation without causal reduction to either side.
+**Earned position (Argued):** Jung and Pauli approached a domain in which a psychological image and a physical event could not be causally reduced to one another and still displayed meaningful structural correspondence.
 
-**Why this move:** Psychoid and number, Jung and Pauli, archetype, and synchronicity sources disclose the historical psychoid problem as a neutral or transgressive ordering ground across psyche and matter.
+**Why this move:** Psychoid and number, Jung and Pauli, archetype and synchronicity disclose the historical problem as a neutral or transgressive ordering ground across psyche and matter.
 
-**Carry-forward:** The authorial QL matheme `X/x` places determining capacity and indefinite particular in one relation: `X` becomes legible only through concrete transformations `x`, while no determination exhausts the whole.
+**Carry-forward:** The authorial QL matheme `X/x` places determining capacity and indefinite particular in one relation: `X` becomes legible only through concrete transformations `x`, and no determination exhausts the whole.
 
 **Open:** [movement](movements/31-s4-p0-psychoid-problem.md) · canonical route: [A18 — Primordial Symbolon and Its Eight Determinations](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [A19 — Complex as Local Arbitration Regime](../arguments/A19-Complex-as-Local-Arbitration-Regime.md), [A20 — Image / Valuation / Possession](../arguments/A20-Image-Valuation-Possession.md), [C30](../arguments/concepts/C30-Psychoid-Number.md), [C31](../arguments/concepts/C31-Complex.md), [C32](../arguments/concepts/C32-Archetype.md) · sources: [atmanspacher-2020-pauli-jung-conjecture](../../symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/atmanspacher-2020-pauli-jung-conjecture.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/taylor-2026-advent-zero-subject.md), [freud-1915-unconscious-standard-edition](../../symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/freud-1915-unconscious-standard-edition.md), [jung-1969-psychology-religion-cw11](../../symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md)
 
@@ -42,11 +42,11 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Incoming pressure:** [§4 #0 · The Psychoid Problem](movements/31-s4-p0-psychoid-problem.md)
 
-**Earned position (Argued):** The authorial QL matheme `X/x` places determining capacity and indefinite particular in one relation: `X` becomes legible only through concrete transformations `x`, while no determination exhausts the whole.
+**Earned position (Argued):** The authorial QL matheme `X/x` places determining capacity and indefinite particular in one relation: `X` becomes legible only through concrete transformations `x`, and no determination exhausts the whole.
 
-**Why this move:** Jung’s Self and John R.
+**Why this move:** Jung's Self is the regulating whole inferred through transformations and compensations that exceed egoic authorship, disclosed in particular dreams, fantasies, alchemical images and transformations of a life.
 
-**Carry-forward:** The individuation passage returns to E2’s resolution in reconciliation through reconciliation that changes the history of participation while retaining its differences.
+**Carry-forward:** The individuation passage **returns-to** E2's resolution in reconciliation through reconciliation that changes the history of participation while keeping its differences.
 
 **Open:** [movement](movements/32-s4-p1-jung-individuation.md) · canonical route: [A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md), [C19](../arguments/concepts/C19-Pratyabhijna-Recognition.md), [C31](../arguments/concepts/C31-Complex.md), [C34](../arguments/concepts/C34-Individuation.md), [C35](../arguments/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md), [C36](../arguments/concepts/C36-Complexio-Oppositorum.md) · sources: [smythe-2013-dialogical-jung](../../symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/smythe-2013-dialogical-jung.md), [jung-1978-aion-cw9-2](../../symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2.md), [jung-1969-psychology-religion-cw11](../../symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md), [freud-1915-unconscious-standard-edition](../../symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/freud-1915-unconscious-standard-edition.md), [neumann-1954-origins-history-consciousness](../../symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/taylor-2026-advent-zero-subject.md)
 
@@ -54,11 +54,11 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Incoming pressure:** [§4 #1 · Individuation through QL `X/x`](movements/32-s4-p1-jung-individuation.md)
 
-**Earned position (Argued):** The *complexio oppositorum* preserves the energy of opposites; Jung’s quaternity gives explicit differentiated wholeness, while QL’s `4+2` retains the implicate poles that let it move and return.
+**Earned position (Argued):** The *complexio oppositorum* holds opposites without cancelling their energy.
 
-**Why this move:** Jungian Quaternity, the eight determinations, and the internal `2+2²=4+2` derivation distinguish fourfold articulation from sixfold generativity.
+**Why this move:** Jung's four functions, thinking, feeling, sensation and intuition, articulate four ways a psyche determines a field, and introversion and extroversion supply two orientations: four functions plus two attitudes make a psychologically concrete `4+2`.
 
-**Carry-forward:** Ares and Aphrodite bearing Harmonia without merger.
+**Carry-forward:** Ares and Aphrodite bearing Harmonia without merger, opposition bearing concord because the relation survives.
 
 **Open:** [movement](movements/33-s4-p2-complexio-quaternity-senarius.md) · canonical route: [A18 — Primordial Symbolon and Its Eight Determinations](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md), [C30](../arguments/concepts/C30-Psychoid-Number.md), [C36](../arguments/concepts/C36-Complexio-Oppositorum.md), [C64](../arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md) · sources: [courtney-2019-salt-point-kairos-chaos](../../symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/courtney-2019-salt-point-kairos-chaos.md)
 
@@ -66,9 +66,9 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Incoming pressure:** [§4 #2 · Complexio, Quaternity, and Senarius](movements/33-s4-p2-complexio-quaternity-senarius.md)
 
-**Earned position (Argued):** The matheme transmits an invariant relation; the mytheme lets that relation be lived and transformed; the barred subject prevents either from closing over its own condition.
+**Earned position (Argued):** The matheme compresses an invariant relation for transmission, and the mytheme lets that relation be lived, remembered and transformed through image.
 
-**Why this move:** Lacan’s signifying cut, quilting point `S1`, not-all, topology, and barred subject provide a rigorous language of incomplete formalisation.
+**Why this move:** Lacan contributes the signifying cut, the quilting signifier `S1`, the subject barred by language, the logic of the not-all, and topology as a way to write relations that ordinary description obscures.
 
 **Carry-forward:** the stroke that first hides zero becoming the bar through which its occlusion can be seen.
 

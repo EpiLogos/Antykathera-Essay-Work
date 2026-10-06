@@ -34,7 +34,7 @@ The broken symbolon gives a concrete relation: its singular and polyvalent halve
 
 ## #2
 
-The slash gives the Two Ones reciprocal dependency in distinct respects. `1` depends on `0` for being, coherence and determining reality; `0` depends on `1` for manifestation, articulation, reflection and knowability. This is neither symmetrical causal production nor an event in which zero existed for a time before one arrived. The condition becomes manifest through what depends on it, while the manifestation cannot possess that condition.
+The slash gives the Two Ones reciprocal dependency in distinct respects. `1` depends on `0` for being, coherence and determining reality; `0` depends on `1` for manifestation, articulation, reflection and knowability. The dependence is no symmetrical causal production, and zero never existed for a time before one arrived. The condition becomes manifest through what depends on it, while the manifestation cannot possess that condition.
 
 This dependency is already undertaken as [trust at the root](../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). A being does not first establish a neutral reality and then decide whether to depend on it. Perception, memory, language and action enact the dependency that later becomes explicit as knowledge, belief and faith. Such fidelity gives dependence an epistemic and existential life: the person can investigate what bears an account and undertake consequences that the account cannot exhaust. The distinction between source and manifestation makes this relation possible without reducing its lived undertaking to an ontological formula.
 

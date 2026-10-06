@@ -19,11 +19,11 @@ Movement 48 of 48 · [This room](../ROOM-07-instrument-returns.md) · [← Previ
 <!-- /reader-navigation -->
 
 ## Claim
-[[section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence]] names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions. Its intelligence belongs to the coupled relations and their capacity for Return rather than to a super-subject installed above the participants.
+[[section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence]] names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions. Its intelligence belongs to the coupled relations and their capacity for Return, and no super-subject sits above the participants.
 
 The restored product field makes that coupling paradigmatic in the exact sense now owned by [[section-rooms/arguments/concepts/C41-Objective-Internality|Objective Internality]]. A Life acts from a lived pattern of meaningful continuity, articulation, potency, transformation, situation and wider relation. Artificial agency increasingly makes parts of such a pattern deliberately constructible. Modelling the pattern is disclosure; [[section-rooms/arguments/concepts/C51-Logos-Epi-Logos|Epi-Logos]] is the stronger return in which the articulated paradigm is tested against enactment and a returned difference changes the paradigm from which later action proceeds.
 
-The terminal proposition is the **Return of Zero**: an achieved determination becomes capable of returning to the ground, source, provenance, affected Other and consequence that made it possible without being annihilated as a determination. Planetary intelligence is the possible distributed technē of that return, not its metaphysical replacement by a larger mind or perfectly self-describing stack.
+The terminal proposition is the **Return of Zero**: an achieved determination becomes capable of returning to the ground, source, provenance, affected Other and consequence that made it possible without being annihilated as a determination. Planetary intelligence is the possible distributed technē of that return, with a larger mind or a perfectly self-describing stack playing no part in it.
 
 ```text
 1
@@ -41,7 +41,7 @@ relation restored with the determination retained
 new determination remains possible
 ```
 
-The error is not that `1` became determinate. The error is the completed determination occupying the source-office of `0` and forgetting the relation on which its efficacy depends. The authorial Antichrist/counterfeit-source field names the same inversion mythemically: a derivative image, criterion or office makes Life answer to its representation while its own source-claim becomes protected from return.
+The error lies in the completed determination occupying the source-office of `0` and forgetting the relation on which its efficacy depends, and `1` was right to become determinate. The authorial Antichrist/counterfeit-source field names the same inversion mythemically: a derivative image, criterion or office makes Life answer to its representation while its own source-claim becomes protected from return.
 
 ## Federated epistemic return
 
@@ -62,7 +62,7 @@ Pratibimba A             Pratibimba B             Pratibimba C
             revise A    revise relation   revise C
 ```
 
-The important operation is bidirectional. A common field lets local determinations act beyond their place of origin; returned consequence can then revise the Pratibimba, the translation, the governing lens or gauge, the institution that mediated the action, or the local Bimba field itself. [[46-s50-p3-4-2-mono-poly|The sovereign commons]] supplies the institutional office for this circulation: epistemic sovereignty means neither immunity from contradiction nor submission to a global reference field, but locally governable grounds joined through real consequence and corrigible crossing.
+The important operation is bidirectional. A common field lets local determinations act beyond their place of origin; returned consequence can then revise the Pratibimba, the translation, the governing lens or gauge, the institution that mediated the action, or the local Bimba field itself. [[46-s50-p3-4-2-mono-poly|The sovereign commons]] supplies the institutional office for this circulation: epistemic sovereignty is the local governance of grounds that stay exposed to contradiction and are joined through real consequence and corrigible crossing, which makes a global reference field unnecessary.
 
 This is the planetary form of **reciprocal paradigmatic constitution**. Distinct worlds can become conditions of one another without being merged into one worldview. Translation, infrastructure and shared action can change what another centre can notice, permit, trust or do. The fact that those changes are real is precisely why provenance, local authority and refusal must survive the crossing.
 
@@ -113,17 +113,7 @@ A beautiful read-only living image can therefore succeed as Expression and fail 
 
 ## Planetary intelligence as distributed capacity for Return
 
-“Planetary intelligence” names, in this essay, a distributed capacity to keep increasingly powerful determinations answerable across heterogeneous centres. Its tests are therefore relational:
-
-- unity preserves plural centres rather than becoming monopoly;
-- locally governed Bimba fields remain genuine epistemic anchors without becoming Protected Accounts;
-- legibility remains reciprocal and bounded rather than becoming surveillance;
-- translations preserve provenance rather than silently universalising one ontology;
-- reflection encounters real difference and consequence rather than optimizing against its own image;
-- power remains corrigible at the level where its governing determination actually lives;
-- sources and affected Others remain capable of entering Return;
-- explicit paradigm representations remain answerable to enactment rather than becoming counterfeit origins;
-- no achieved local or collective `1` inherits the throne of `0`.
+“Planetary intelligence” names, in this essay, a distributed capacity to keep increasingly powerful determinations answerable across heterogeneous centres, and its tests are relational. Unity has to preserve plural centres and stop short of monopoly. Locally governed Bimba fields have to stay genuine epistemic anchors and avoid becoming Protected Accounts. Legibility has to stay reciprocal and bounded, which keeps it from becoming surveillance, and translations have to preserve provenance so that no ontology is silently universalised. Reflection has to meet real difference and consequence, in place of optimising against its own image, and power has to stay corrigible at the level where its governing determination actually lives. Sources and affected Others have to remain able to enter Return, explicit paradigm representations have to remain answerable to enactment so that none becomes a counterfeit origin, and no achieved local or collective `1` may inherit the throne of `0`.
 
 The negative field is now equally exact. **Destruction, capture and counterfeit provenance are distinct planetary failures.** A common world can be materially destroyed; it can be preserved while its participants are captured by a governing apparatus; or a synthetic/derivative representation can present itself as the originating reality. At infrastructural scale the last failure can become ambient: standards, rankings, interfaces and models disappear into the ordinary conditions of participation. [[section-rooms/arguments/concepts/C62-Planetary-Computation|Planetary Computation]] keeps that paradigm-level Power visible without treating infrastructure itself as the enemy.
 
@@ -156,5 +146,5 @@ The achieved planetary return **returns-to** [Apportionment / Economy whole — 
 
 Planetary return **returns-to** [Natio and neo-nativity](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md#natio-and-neo-nativity) where institutions, records and translations inherited from one circuit become another generation's apparent starting world. Their production must remain recoverable, including whose belonging and permissions they shaped. Epi-Logos carries that history back into revised common action; federation retains locally governed grounds instead of naturalising its latest arrangement as one planetary origin.
 
-The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md#50--the-exact-sign-returns-into-accountable-practice) compares this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, not a completed return renamed for convenience. The exact sign remains usable when its source relation can alter the next act; that capacity for consequential return is the technical criterion this closing movement carries forward.
+The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md#50--the-exact-sign-returns-into-accountable-practice) compares this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, and the name of a completed return has to wait for the return. The exact sign remains usable when its source relation can alter the next act; that capacity for consequential return is the technical criterion this closing movement carries forward.
 

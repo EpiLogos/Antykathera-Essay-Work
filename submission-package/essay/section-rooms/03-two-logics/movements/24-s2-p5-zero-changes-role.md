@@ -19,34 +19,26 @@ Movement 24 of 48 · [This room](../ROOM-03-two-logics.md) · [← Previous](23-
 
 ## Movement thesis
 
-Polar dia-ballein retains zero as the axis of opposed values; its collapsed operations make zero a cancellation or assign the whole span to one pole. Sym-ballein retains ground and mark within both orientations and returns through their relation. The measurable two now asks what it amounts to once it includes the relation that generates it.
-
-That accounting gives the first compact QL theorem:
+Polar dia-ballein retains zero as the axis of opposed values, and its collapsed operations make zero a cancellation, `(−1)+(+1)=0`, or assign the whole span to one pole, as `+2` from one end and `−2` from the other. Syn-ballein retains ground and mark within both orientations and returns through their relation. The measurable two now asks what it amounts to once it includes the relation that generates it, and that accounting gives the first compact QL theorem:
 
 $$
 2+2^2=2+4=6=4+2.
 $$
 
-The two are the implicate poles, zero and one. The four are the explicit relational states produced when the binary is allowed to determine the binary: both, neither, and the two oriented asymmetries (`11`, `00`, `01`, `10` — the four pairings, every way the two can meet itself). The six is what a two amounts to once it includes itself.
+The two are the implicate poles, zero and one. The four are the explicit relational states produced when the binary is allowed to determine the binary: `11`, `00`, `01` and `10`, which are both, neither and the two oriented asymmetries, every way the two can meet itself. The six is what a two amounts to once it includes itself.
 
 ## Consequence and proof boundary
 
-This is the point at which QL ceases to be a vocabulary of balanced opposites. It becomes a generative calculus. The sixfold is neither a sacred number imposed from outside nor a convenient list. It is the full account of a binary relation when its poles and relational possibilities are both retained.
+Here QL becomes a generative calculus and leaves behind the vocabulary of balanced opposites. The sixfold is the full account of a binary relation when its poles and its relational possibilities are both retained, which makes it neither a sacred number imposed from outside nor a convenient list.
 
-It is also the hinge from a static description of poles to a process ontology. Dia-ballein and sym-ballein are no longer merely two ways of interpreting an already-finished opposition: they are the runtime by which opposition is produced, retained, recomposed, and returned. QL formalises the epistemic sequence of that runtime; the [[section-rooms/arguments/A14-Computational-Process-Ontology|computational process ontology]] names what follows when the sequence is treated as constitutive of worlds rather than as a representation applied to them after the fact.
+It is also the hinge from a static description of poles to a process ontology. Dia-ballein and syn-ballein are the runtime by which opposition is produced, retained, recomposed and returned, and they interpret a finished opposition only as a consequence of that. QL formalises the epistemic sequence of the runtime, and the [[section-rooms/arguments/A14-Computational-Process-Ontology|computational process ontology]] names what follows when the sequence is treated as constitutive of worlds and no representation is applied to them after the fact.
 
-The same move generates the essay’s internal architecture:
+The same move generates the essay's internal architecture: two implicate conditions, four explicit determinations, six positions in one returning unit, and the `5→0` hinge by which completed form becomes renewed ground.
 
-- two implicate conditions;
-- four explicit determinations;
-- six positions in one returning unit;
-- the \(5\to0\) hinge by which completed form becomes renewed ground.
-
-[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** the counterfeit after the native derivation: the Village answers the question about Number One with the designation Number Six, assigning the questioner a completed place while withholding the relation that counts him. The programme's Two and Six make this authored reversal memorable; they are neither the derivation of `2 + 2² = 6` nor fixed identities for the native poles and states. The full narrative and its unresolved return remain in the whole.
+[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** the counterfeit after the native derivation. The Village answers the question about Number One with the designation Number Six, assigning the questioner a completed place while withholding the relation that counts him. The programme's Two and Six make this authored reversal memorable, and the derivation of `2 + 2² = 6` and the identities of the native poles and states are the essay's own. The full narrative and its unresolved return stay in the whole.
 
 ## Release into §3
 
-The mathematical substrate now has a precise task. It must derive how this ground–mark relation behaves under distinction, re-entry, alternation, complex orientation, quotienting, topological return, and harmonic resolution. Similarity is insufficient; each plate must expose the operation that carries the relation. In this sense §3 is not a gallery of analogies. It is the substrate test of the process claim: whether the same differentiated return can actually be followed through several mathematical registers without losing its operative form.
+The mathematical substrate now has a precise task: to derive how this ground–mark relation behaves under distinction, re-entry, alternation, complex orientation, quotienting, topological return and harmonic resolution. Similarity is insufficient for that, and each plate has to expose the operation that carries the relation. §3 is the substrate test of the process claim, namely whether the same differentiated return can be followed through several mathematical registers with its operative form intact.
 
 Continue to [[25-s3-p0-eight-determinations|§3 · #0 — Eight Determinations]].
-

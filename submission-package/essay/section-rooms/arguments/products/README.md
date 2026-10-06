@@ -8,7 +8,7 @@ domain: products
 ---
 # S — World and Life / six product offices
 
-The product field is an **Episteme record family**, not a fifth publication register and not a software appendix. [S — World and Life](S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality the means, World the known, and Life / Mind the whole. The six child records disclose six aspects of that mediating field.
+The product field is an **Episteme record family**, not a fifth publication register and not a software appendix. [S — World and Life](S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality (Life / Mind) the means, World the known, and I-Consciousness the whole. The six child records disclose six aspects of that mediating field.
 
 Paradigm is not a seventh product. It names a relatively durable organisation of Objective Internality: the lived pattern through which a Life encounters a World as intelligible, actionable and consequential. The six products make offices of one deliberately constructed paradigm increasingly explicit while remaining answerable to the wider Life/World relation.
 

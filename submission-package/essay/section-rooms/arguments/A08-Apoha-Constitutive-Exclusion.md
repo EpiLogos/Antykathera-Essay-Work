@@ -20,7 +20,7 @@ source_ids:
 
 ## #0
 
-A determination becomes intelligible through what it excludes. Apoha gives the essay a disciplined account of this negative constitution. A selected term does not first possess a self-sufficient positive essence and only later acquire external contrasts; its determinacy depends upon a field of alternatives against which it can count as this rather than that. The excluded field therefore remains active in the identity of the selected mark even when it is absent from the finished statement.
+A determination becomes intelligible through what it excludes. Apoha gives the essay a disciplined account of this negative constitution. A selected term has its determinacy from a field of alternatives against which it can count as this rather than that, and it never held a self-sufficient positive essence that later acquired external contrasts. The excluded field therefore remains active in the identity of the selected mark even when it is absent from the finished statement.
 
 ## #1
 
@@ -28,7 +28,7 @@ Every active `1` is constituted against alternatives it does not cease to depend
 
 In [[symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/pind-2009-dignaga-anyapoha-dissertation|Pind's critical translation]], PSV V:11d (p.85), a word excludes other referents. Annotation181 (p.183) gives the positive reach its exact qualification: the referent is a thing qualified by preclusion rather than mere preclusion. Pind assigns that prose fragment to the *Sāmānyaparīkṣāvyāsa* provisionally. Its translated wording and the assignment of the underlying text therefore have different standing.
 
-A positive reach is therefore achieved through exclusion. Preclusion qualifies a thing to which the term applies. A heap of negative absences could not perform this referential work: the excluded alternatives participate in the positive term's meaning rather than arriving as accidental contrasts after that meaning is complete.
+A positive reach is therefore achieved through exclusion. Preclusion qualifies a thing to which the term applies. A heap of negative absences could not perform this referential work, since the excluded alternatives take part in the positive term's meaning and arrive as more than accidental contrasts after that meaning is complete.
 
 ## #2
 
@@ -68,7 +68,7 @@ Choose the southwest jewel in [Indra's net](../../symbolon/mytheme/worlds/chines
 
 The selected term returns with the alternatives which made it answerable. A [formed course can freeze](A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md) when its relevant alternatives no longer reach judgment. Through [computational process](A14-Computational-Process-Ontology.md), a source, rule and selected branch become conditions of another act. [Operational parity](A33-Epistemic-Cultivation-Operational-Parity.md) asks whether a claimed retained contrast has the discriminable consequence it was introduced to make possible.
 
-Consider a classifier comparing two applications under an entrusted purpose. The comparing agent is the local functional knower; requirements, source records, comparison rule and retained alternatives are means; the applications' fitness under that rule is known. In the commissioning person's containing inquiry the classifier and its apparatus are means. Further inspection can make the local judging centre known in another act, while the first-person condition of appearing remains unobjectifiable within Life / Mind. These recursive offices let the deciding relation become examinable at its actual scale.
+Consider a classifier comparing two applications under an entrusted purpose. The comparing agent is the local functional knower; requirements, source records, comparison rule and retained alternatives are means; the applications' fitness under that rule is known. In the commissioning person's containing inquiry the classifier and its apparatus are means. Further inspection can make the local judging centre known in another act, while the first-person condition of appearing remains unobjectifiable, as the knower for whom Life / Mind is the means. These recursive offices let the deciding relation become examinable at its actual scale.
 
 A returned record can show that the rejected application satisfies a requirement. The selection can then be corrected under an adequate rule. If the rule excludes a capacity material to the entrusted purpose, its failure must reach the office able to revise the criterion or commission. A fitting rule may instead be retained with reasons. The next decision inherits the warranted correction or retention. Neither the final winner nor a complete list of rejected outputs alone completes that return; the relevant difference must be able to reach judgment.
 

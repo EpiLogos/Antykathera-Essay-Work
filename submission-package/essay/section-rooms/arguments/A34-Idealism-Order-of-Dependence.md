@@ -19,11 +19,11 @@ source_ids:
 
 ## #0 — Being within the whole relation
 
-A world is the articulation of Life / Mind. Its determinate things appear through constituted means to Subjective Immediacy: knower, means and known are differentiated offices of this whole. The idealist order is therefore
+A world is the articulation of I-Consciousness through Life / Mind. Its determinate things appear through constituted means to Subjective Immediacy: knower, means and known are differentiated offices of this whole. The idealist order is therefore
 
 **Subject / Consciousness → constituted means → determinate object.**
 
-The arrows name dependence. They do not divide reality into three substances or narrate a manufacture in which a private person first exists and subsequently invents a universe. Life / Mind names [the whole relation](conjugate/AC.md); Objective Internality names its mediating office. A determinate account of the means therefore remains within the Life which encounters and uses it.
+The arrows name dependence, so that reality is no division into three substances and no manufacture in which a private person first exists and subsequently invents a universe. I-Consciousness names [the whole relation](conjugate/AC.md), and Objective Internality, which is Life / Mind, names its mediating office. A determinate account of the means therefore remains within the Life which encounters and uses it.
 
 The [cultivation of an operative interior](A33-Epistemic-Cultivation-Operational-Parity.md) makes the question unavoidable. A model is encountered, its conditions can be examined, and an object can resist what was predicted of it. What is already present in this entire event? The model, the resistance and the inquiry are all disclosed within the relation of knowing. Adding another represented cause enlarges the account; it does not replace the relation through which the account exists.
 
@@ -81,4 +81,4 @@ The [traveller compares a local picture within the field through which it can tr
 
 [Epi-Logos](../../symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md#01--epi-logos--paradigmatic-reflexivity) makes the return consequential in the enacted paradigm. What is recognised can change how another person is heard, which distinction governs a judgment or what a made system is commissioned to do. The local being persists through these relations rather than disappearing into them.
 
-[Idealism as an order of dependence](concepts/C60-Idealism-Order-of-Dependence.md) is thus affirmative: Subjective Immediacy is the knower; Objective Internality is the constituted means; World is the known; Life / Mind is their whole. Through [sensitivity to origins](A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md), an act can sustain the source relations on which its achieved power depends. Through [Integral Zero](A36-Advent-of-Integral-Zero.md), acquired determination becomes recognisable within its beginning without erasing what it has made possible. The determination can act without pretending to have produced the whole by which it is.
+[Idealism as an order of dependence](concepts/C60-Idealism-Order-of-Dependence.md) is thus affirmative: Subjective Immediacy is the knower; Objective Internality (Life / Mind) is the constituted means; World is the known; I-Consciousness is their whole. Through [sensitivity to origins](A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md), an act can sustain the source relations on which its achieved power depends. Through [Integral Zero](A36-Advent-of-Integral-Zero.md), acquired determination becomes recognisable within its beginning without erasing what it has made possible. The determination can act without pretending to have produced the whole by which it is.

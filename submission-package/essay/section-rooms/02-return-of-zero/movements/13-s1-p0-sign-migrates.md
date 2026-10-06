@@ -20,9 +20,9 @@ Movement 13 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous]
 
 ## Movement thesis
 
-Zero converges several historically distinct inventions: the blank place, placeholder, numeral, arithmetic element, origin, empty set, and sign of nothing. These meanings become powerful because they migrate between scripts, calculating practices, philosophical vocabularies, and civilisations. A sign for no counted thing changes the entire field of counting.
+Zero converges several historically distinct inventions: the blank place, placeholder, numeral, arithmetic element, coordinate origin, empty-set notation and philosophical void. Each of these meanings became powerful by migrating between scripts, calculating practices, philosophical vocabularies and civilisations, and the decisive event is simple: a sign for no counted thing changes what can be counted. Absence stops being a blank outside the operation and becomes a position within it, so the formal-limit opening is given a historical body.
 
-Babylonian place-holding, Indian numerical development, Arabic transmission, and European adoption form an intercultural chain. The familiar modern number line conceals this dependency by presenting zero as if it had always occupied its obvious place. [[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is|Robert Kaplan]] restores the narrative surprise; [[symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/rotman-1987-signifying-nothing|Brian Rotman]] clarifies that zero changes the semiotic economy of number by letting absence participate in inscription.
+Babylonian place-holding, Indian numerical development, Arabic transmission and European adoption form an intercultural chain, and the familiar number line conceals the dependency by presenting zero as though it had always occupied its obvious place. [[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is|Robert Kaplan]] restores the narrative surprise of the itinerary, and [[symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/rotman-1987-signifying-nothing|Brian Rotman]] shows what changed: zero alters the semiotic economy of number by letting absence take part in inscription.
 
 <!-- figure:ybc-7289-babylonian-tablet -->
 
@@ -42,24 +42,20 @@ Babylonian place-holding, Indian numerical development, Arabic transmission, and
 
 ## Derivation and source moves
 
-- Separate placeholder, numeral, operation, empty-set notation, and philosophical void before relating them.
-- Use Kaplan for the lucid historical-poetic line, then attach dates and textual claims to specialist histories.
-- Use Rotman for the structural claim: zero is a sign whose referent is not an ordinary counted object, yet whose insertion reorganises the number system.
-- Preserve the east–west transmission as constitutive, not decorative context. Modern mathematical universality depends on a sign carried across cultures.
+The argument first separates placeholder, numeral, operation, empty-set notation and philosophical void, because each has its own history and its relation to the others can be seen only once the differences are visible. Kaplan carries the lucid historical line, and the dates and textual claims attach to specialist histories. Rotman supplies the structural claim: zero is a sign whose referent is no ordinary counted object, and its insertion reorganises the whole number system. The east–west transmission is constitutive of that system, since modern mathematical universality depends on a sign carried across cultures, and treating the transmission as background colour would misdate the achievement. The itinerary is also no relay in which one civilisation supplies an origin and another the conclusion: Indian metaphysical and numerical thought carries zero into mathematics, and Western mathematics returns through that transformed field until `0` can be disclosed as `0/1`, the relation of ground and mark.
 
 ## Argumentative consequence
 
-The formal-limit opening asked how thought can mark the condition it cannot count as one more object. History answers materially: it learned to put absence in a position. Zero crosses from missing mark to operative sign. The next movement shows the decisive Indian hinge, where śūnya becomes calculable in [[14-s1-p1-sunya-operational|§1 · #1 — Śūnya Becomes Operational]].
+The formal-limit opening asked how thought can mark the condition it cannot count as one more object. History answers materially: it learned to put absence in a position, so that zero crosses from missing mark to operative sign. The next movement shows the decisive Indian hinge, where śūnya becomes calculable in [[14-s1-p1-sunya-operational|§1 · #1 — Śūnya Becomes Operational]].
 
-This migration also gives the essay its later historical braid: the sign which makes an absence operable will eventually meet the modern effort to make the Subject and unconscious scientifically speakable. §1 establishes the mathematical line first; it does not collapse the two histories into one event.
+The same sign that makes an absence operable will meet, in the modern effort to make the Subject and the unconscious scientifically speakable, a second history. §1 establishes the mathematical line first and keeps the two histories as two events that the essay later braids.
 
 ## Audit boundary
 
-The migration and mathematical transformation are historical claims; the reading of that transformation as the return of the formal limit is the essay’s argument.
+The migration and the mathematical transformation are historical claims, and the reading of that transformation as the return of the formal limit is the essay's argument.
 
-The migrating sign **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md#name-through-count) through the permissions its receiving practice gives it. A place-marker and an arithmetic operand can share an inscription while allowing different operations. The account of migration must carry that change of office, so recognition of the same mark does not silently identify its successive mathematical or institutional uses.
+The migrating sign **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md#name-through-count) through the permissions its receiving practice gives it. A place-marker and an arithmetic operand can share an inscription while allowing different operations, so the account of migration must carry the change of office, and recognising the same mark leaves its successive mathematical and institutional uses distinct.
 
-The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.md#3--gerbert-and-salem-require-different-recoveries) **compares** this operation. Numeral form, calculating apparatus and positional use of operational zero are separate predicates. The receiving medium and rule establish which office the mark actually performs. Gerbert needs an independently dated technical witness; the Salem route has Cantor’s edition pointer but no verified manuscript, folio or Latin collation. Recognising a shape does not settle either operation or transmission.
+The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.md#3--gerbert-and-salem-require-different-recoveries) **compares** this operation. Numeral form, calculating apparatus and positional use of operational zero are separate predicates, and the receiving medium and rule establish which office the mark performs. Gerbert needs an independently dated technical witness, and the Salem route has Cantor's edition pointer without a verified manuscript, folio or Latin collation, so recognising a shape settles neither operation nor transmission.
 
-Rotman’s semiotic subject-position remains distinct from Taylor’s irreducible subject-condition; chronology and office of zero still require specialists; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md#language-dialogue) **qualifies** this operational comparison.
-
+Rotman's semiotic subject-position is not Taylor's irreducible subject-condition, and the chronology and office of zero still require specialists. The [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md#language-dialogue) **qualifies** this operational comparison.
