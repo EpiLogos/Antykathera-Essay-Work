@@ -32,7 +32,7 @@ refinement_status: T25 reconstituted; independent R5 review and T26 ratification
 
 ## #0 — The intelligible ground a Life carries
 
-**Central is meaningful continuity: the intelligible ground a Life carries from one encounter into another.** Continuity here is not merely persistence of bytes or recollection of prior states. A Life carries commitments, projects, histories, names, unfinished questions, inheritances, promises and interpretations. These make a later event intelligible as *this* continuation rather than an unrelated occurrence.
+**Central is meaningful continuity: the intelligible ground a Life carries from one encounter into another.** Continuity here covers more than persistence of bytes or recollection of prior states. A Life carries commitments, projects, histories, names, unfinished questions, inheritances, promises and interpretations, and these make a later event intelligible as *this* continuation and no unrelated occurrence.
 
 Within Objective Internality this ground belongs to the means through which a World is disclosed. It therefore remains distinguishable from Subjective Immediacy. A remembered self-description is content within the means, not the knower itself; a durable project record is not the Life for whom the project matters. Central’s task is to preserve the **attributable articulation of ground** strongly enough that later acts can recognise what they inherit, what has changed and what remains answerable.
 
@@ -40,7 +40,7 @@ This is why Central is the proper home for durable Bimba and project/world refer
 
 ## #1 — L0 Quaternal: ground becomes sayable
 
-The Quaternal pair opens Central through **Why · What · How · Whom/Which/When · Where/Why-for · Why-so/Why-not**. These are not six database columns. They expose the dimensions through which a carried ground becomes intelligible.
+The Quaternal pair opens Central through **Why · What · How · Whom/Which/When · Where/Why-for · Why-so/Why-not**. Each names a dimension through which a carried ground becomes intelligible.
 
 **Why** recalls originating pressure and reason. **What** identifies the articulated matter. **How** preserves the operative means and history through which it came to be. **Whom / Which / When** keeps source, addressee, selection and temporal situation from disappearing into a placeless statement. **Where / Why-for** restores situation and telos. **Why-so / Why-not** returns the formed account to its alternatives, exclusions and reasons for commitment.
 
@@ -62,13 +62,13 @@ The point of the sixfold is continuity that remains revisable. Identity persists
 
 The sequence matters because a derived view cannot silently inherit authorship from its source. A projection may faithfully disclose a ground while remaining a projection. An inference may become useful enough to govern later work while remaining marked as inferred. A machine-readable summary may be exact and still not be the authorial occurrence from which its meaning came.
 
-This is also why Central’s root meta-project role is philosophical rather than merely organisational: it holds the articulated relation in which projects, agents, machines and their histories can remain mutually intelligible without collapsing into one undifferentiated context. Root does not mean sovereign possession. It means the place where relations of belonging and provenance remain visible enough to be traversed and revised.
+This is also why Central’s root meta-project role is philosophical rather than merely organisational: it holds the articulated relation in which projects, agents, machines and their histories can remain mutually intelligible without collapsing into one undifferentiated context. Root is the place where relations of belonging and provenance remain visible enough to be traversed and revised, and it carries no sovereign possession.
 
 ## #4 — Bimba, Pratibimba and the carried world
 
 The inherited Bimba material belongs here because meaningful continuity requires a distinction between an articulated image and what it images. Bimba and Pratibimba preserve the order of dependence without denying that a reflection can become causally effective. A map can guide the next act; a remembered account can change a decision; a model can become part of the world it models. A produced reference can become local Original for the judgments it orients while retaining the wider dependence through which it acquired meaning. Its causal efficacy does not make it metaphysically Original.
 
-The danger is not representation as such. It is the representation claiming the source’s office. This is the same pressure developed across the Antichrist, mirror and Power fields: an image becomes total when the living source is permitted to appear only through the image’s categories. Central resists that closure by preserving revision, source and returned encounter as constitutive parts of continuity.
+The danger lies in a representation that claims the source’s office, and representation as such carries none. This is the same pressure developed across the Antichrist, mirror and Power fields: an image becomes total when the living source is permitted to appear only through the image’s categories. Central resists that closure by preserving revision, source and returned encounter as constitutive parts of continuity.
 
 This makes Bimba a live ground rather than a totalising ontology. The computational philosophy can hold an increasingly rich articulation of relations while remaining answerable to experience, source and later differentiation. Its growth should enlarge what can be recognised and related; it should not make its own completeness the criterion of the Real.
 

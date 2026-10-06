@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # German literature
 
-Goethe’s poem remains a complete poetic movement in its German witness. The poem’s flowers, leaves, river and season are narrated images; its English reception does not relocate the authored work. Seasonal passing and the poem’s achieved permanence belong to its movement; Nims translation collation remains a separate reception task.
+Goethe’s poem is a complete poetic movement in its German witness. Its flowers, leaves, river and season are narrated images, and its English reception does not relocate the authored work. Seasonal passing and the poem’s achieved permanence belong to that movement, and collating the Nims translation is a separate reception task.
 
 The [geographical route](../../atlas/geography/README.md) and [temporal route](../../atlas/temporality/README.md) **returns-to** these same wholes.
 

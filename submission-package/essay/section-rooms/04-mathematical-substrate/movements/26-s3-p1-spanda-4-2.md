@@ -20,7 +20,7 @@ Movement 26 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← P
 
 ## Movement thesis
 
-[The Spanda equations](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) are the native generative kernel of QL. **They must be read in the declared QL register rather than silently as ordinary field arithmetic.** In particular, `0/0` and `1/0` are symbolic orientations in the authorial calculus, and the later composition of `0/1` with `1/0` is not evaluation of ordinary fractions.
+[The Spanda equations](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) are the native generative kernel of QL. **They are read in the declared QL register.** In it `0/0` and `1/0` are symbolic orientations of the authorial calculus, and the composition of `0/1` with `1/0` is QL composition and no evaluation of ordinary fractions.
 
 The first carries the horizontal pulse from ground through distinction to integrated return:
 
@@ -39,7 +39,7 @@ $$
 \frac{1}{1}=100\%.
 $$
 
-The subscript matters. The displayed `+` is the source notation for **QL composition of inverse orientations**, not ordinary addition of quotients. `[T_0]` is the emanative arc from `0/(0/1)` toward `0/1`: the void takes expression as its denominator and works toward determinate form. `[T_1]` is the reversionary arc from `(1/0)/0` toward `1/0`: form turns toward its condition. These are native transformations whose standing comes from the declared theorem field; they are not standard algebraic identities awaiting evaluation in ℝ or ℂ.
+The subscript matters. The displayed `+` is the source notation for **QL composition of inverse orientations**, not ordinary addition of quotients. `[T_0]` is the emanative arc from `0/(0/1)` toward `0/1`: the void takes expression as its denominator and works toward determinate form. `[T_1]` is the reversionary arc from `(1/0)/0` toward `1/0`: form turns toward its condition. Both are native transformations whose standing comes from the declared theorem field.
 
 ### The personed 3:3 and its 3:1 recognition
 
@@ -65,13 +65,13 @@ $$
 100 = 2^6 + 6^2 = 64+36.
 $$
 
-That identity is exact. The next step is **not implied by the equality**: QL deliberately changes operation from additive decomposition to proportional comparison and considers
+That identity is exact, and the next step is a choice the equality leaves open: QL deliberately changes operation from additive decomposition to proportional comparison and considers
 
 $$
 \frac{2^6}{6^2}=\frac{64}{36}=\frac{16}{9}=\frac{2^4}{3^2}.
 $$
 
-This is the clean mathematical core of the vertical reading. The ratio reduction and prime factorisation are ordinary arithmetic; the decision to compare the two additive components as a ratio is an authorial QL operation and must remain visible as such.
+This is the clean mathematical core of the vertical reading. The ratio reduction and prime factorisation are ordinary arithmetic, and the decision to compare the two additive components as a ratio is an authorial QL operation that stays visible as one.
 
 | Step | Mathematical status | QL reading |
 |---|---|---|
@@ -80,7 +80,7 @@ This is the clean mathematical core of the vertical reading. The ratio reduction
 | `64/36 = 16/9` | ordinary reduction | their common factor `4` is removed |
 | `16/9 = 2^4/3^2` | ordinary prime factorisation | QL reads the exponents `4` and `2` against its already-derived `4+2` frame |
 
-The last line is an **internal interpretation**, not a uniqueness theorem showing that arithmetic independently discovers QL. Many factorizations and numerical decompositions are possible; this one matters because it is selected by the native sixfold already established. Its value is therefore reflexive rather than foundational: the QL frame finds a coherent arithmetic expression of its own `4:2` relation and can then be tested by what further relations that choice produces.
+The last line is an **internal interpretation**. Many factorisations and numerical decompositions are possible, and this one matters because the native sixfold already established selects it. Its value is reflexive: the QL frame finds a coherent arithmetic expression of its own `4:2` relation and can then be tested by what further relations that choice produces.
 
 <!-- figure:spanda-4-2-attunement-stack -->
 
@@ -108,7 +108,7 @@ $$
 \left(\frac{4}{3},\frac{2}{3}\right).
 $$
 
-This definition replaces any suggestion that `(4:2)/(3:3)` is ordinary fraction arithmetic. Once the operator is declared, its outputs are exact. Their **musical identification**, however, uses standard ratio-based tuning theory: `4/3` is a just perfect fourth, `3/2` a just perfect fifth, and `9/8` a whole tone in Pythagorean/just-ratio contexts. Music theory supplies those names; QL supplies the reason these particular ratios are being placed together.
+With the operator declared, `(4:2)/(3:3)` is this pair and no ordinary fraction, and its outputs are exact. Their **musical identification**, however, uses standard ratio-based tuning theory: `4/3` is a just perfect fourth, `3/2` a just perfect fifth, and `9/8` a whole tone in Pythagorean/just-ratio contexts. Music theory supplies those names; QL supplies the reason these particular ratios are being placed together.
 
 From the selected ratios:
 
@@ -138,7 +138,7 @@ $$
 \frac01+\frac10=\frac11=100\%.
 $$
 
-Within this movement it must be read as shorthand for QL composition of the two orientations, **not ordinary arithmetic**. A publication plate should mark that operator typographically or state the rule immediately beside the expression so no mathematical reader is asked to accept division by zero plus ordinary addition as a field identity.
+Within this movement it is shorthand for QL composition of the two orientations. A publication plate marks that operator typographically or states the rule immediately beside the expression, so that no mathematical reader is asked to accept division by zero plus ordinary addition as a field identity.
 
 ## Pythagorean resonance, not hidden proof
 
@@ -148,7 +148,7 @@ $$
 1+2+3+4=10
 $$
 
-is a genuine Pythagorean-historical/mathematical relation when separately sourced. It is **not derived merely because `100=10×10`, nor because `2^4/3^2` contains exponents 4 and 2**. Those numerical resonances may be retained as Offered symbolic amplification, but they are not part of the proof spine.
+is a genuine Pythagorean and mathematical relation when separately sourced. The coincidences that `100=10×10` and that `2^4/3^2` contains the exponents 4 and 2 are numerical resonances, retained as Offered symbolic amplification outside the proof spine.
 
 <!-- figure:gaffurio-1492-pythagoras-and-the-ratios -->
 
@@ -158,7 +158,7 @@ is a genuine Pythagorean-historical/mathematical relation when separately source
 
 <!-- /figure:gaffurio-1492-pythagoras-and-the-ratios -->
 
-This distinction improves rather than weakens the musical passage. The QL construction already has enough exact content: the native `4+2`, the selected `3:3`/`4:2` cross-reading, the exact reduction `64/36=16/9`, and the exact interval relations among `4/3`, `3/2`, `9/8`, `16/9`, and `2/1`. Pythagorean history can then enter as a sourced neighbour instead of being recruited to certify a numerical coincidence.
+The QL construction already has enough exact content for the musical passage: the native `4+2`, the selected `3:3`/`4:2` cross-reading, the exact reduction `64/36=16/9`, and the exact interval relations among `4/3`, `3/2`, `9/8`, `16/9` and `2/1`. Pythagorean history can then enter as a sourced neighbour, with no numerical coincidence recruited to certify it.
 
 ## Proof status
 
@@ -169,11 +169,11 @@ The movement therefore carries four explicitly different warrants:
 3. **Argued:** the choice to convert `64+36` into the ratio `64:36`, the cross-comparison operator, and the interpretation of the resulting ratio family as a coherent harmonic reading of the native sixfold.
 4. **Offered / source-dependent:** Śaiva naming, Whiteheadian lure, Pythagorean/tetraktys amplification, and metaphysical claims about non-closure.
 
-The first Spanda is the return-reading (`3:3`) of the second Spanda's base-frame (`4+2`) only in this native architecture. The `3:3` without the `4:2` would be proportion without specified positions; the `4:2` without the `3:3` would be positions without the proposed return relation. Together they constitute the QL harmonic proposal—countable and relational—whose strength now lies in the explicitness of its operator changes rather than in pretending every displayed sign belongs to one arithmetic.
+The first Spanda is the return-reading (`3:3`) of the second Spanda's base-frame (`4+2`) only in this native architecture. The `3:3` without the `4:2` would be proportion without specified positions; the `4:2` without the `3:3` would be positions without the proposed return relation. Together they constitute the QL harmonic proposal—countable and relational—whose strength lies in the explicitness of its operator changes, since the displayed signs belong to different operations.
 
-[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **qualifies** the narrative use of the sixfold count: its administered number figures a completed assignment which conceals its governing relation. That authored return preserves the difference between the native `4:2` derivation, the harmonic carrier developed here and a television designation. Neither the episode's numbering nor its narrative success supplies mathematical or musical proof.
+[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **qualifies** the narrative use of the sixfold count: its administered number figures a completed assignment which conceals its governing relation. That authored return preserves the difference between the native `4:2` derivation, the harmonic carrier developed here and a television designation. The episode's numbering and narrative success carry no mathematical or musical proof.
 
-[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the cross-reading by retaining the actual operation at each step. The finite pair `64` and `36` has sum `100`; comparing the same terms proportionally yields `64/36=16/9`; dividing their sum by four would instead give `25`. The change from decomposition to ratio is therefore part of the authored operation, not an algebraic consequence hidden by notation. The exact completion `16/9 × 9/8 = 2` then supplies a genuine musical ratio relation whose philosophical interpretation remains separately argued.
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the cross-reading by retaining the actual operation at each step. The finite pair `64` and `36` has sum `100`; comparing the same terms proportionally yields `64/36=16/9`; dividing their sum by four would instead give `25`. The change from decomposition to ratio is therefore part of the authored operation, and the notation keeps it in view. The exact completion `16/9 × 9/8 = 2` then supplies a genuine musical ratio relation whose philosophical interpretation remains separately argued.
 
 ## Transition
 

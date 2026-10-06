@@ -30,7 +30,7 @@ The philosophy is faithfully reflected in the technology. O:I’s six products d
 
 **Incoming pressure:** [§4 #5→0 · MEF and Prompt Thrownness](../05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md)
 
-**Earned position (Argued):** §5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are philosophical offices of that mediating field made technically consequential: six aspects of the means through which a Life inhabits and changes its World.
+**Earned position (Argued):** §5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality (Life / Mind) the means, World the known, and I-Consciousness their whole.** The six products are philosophical offices of that mediating field made technically consequential: six aspects of the means through which a Life inhabits and changes its World.
 
 **Carry-forward:** **Actuation is living articulation: the event-substance of an internality.** A Life differentiates, perceives, speaks, judges and acts from the ground it carries.
 
@@ -42,7 +42,7 @@ The philosophy is faithfully reflected in the technology. O:I’s six products d
 
 **Earned position (Argued):** **Actuation is living articulation: the event-substance of an internality.** A Life differentiates, perceives, speaks, judges and acts from the ground it carries.
 
-**Carry-forward:** **AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity is not identical with possession.
+**Carry-forward:** **AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity differs from possession.
 
 **Open:** [movement](movements/38-s5-p1-apoha-softmax.md) · canonical route: [A26 — Objective Internality — Mind as Worldhood](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A28 — Authored Ground / Positional Delegation](../arguments/A28-Authored-Ground-Positional-Delegation.md), [A31 — Deferential Intelligence](../arguments/A31-Deferential-Intelligence.md), [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md), [A33 — Epistemic Cultivation / Operational Parity](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md), [C40](../arguments/concepts/C40-Model-Internality-Judgment-Field.md), [C41](../arguments/concepts/C41-Objective-Internality.md), [C43](../arguments/concepts/C43-Computational-Vimarsa.md), [C44](../arguments/concepts/C44-Prompt-Thrownness.md), [C45](../arguments/concepts/C45-Operational-Parity.md) · sources: [taylor-2026-oi-product-field-commission](../../symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/taylor-2026-oi-product-field-commission.md), [taylor-2026-core-theorems-pithy](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), [gebser-1985-ever-present-origin](../../symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/gebser-1985-ever-present-origin.md)
 
@@ -50,7 +50,7 @@ The philosophy is faithfully reflected in the technology. O:I’s six products d
 
 **Incoming pressure:** [§5 #1 · Actuation — Living Articulation](movements/38-s5-p1-apoha-softmax.md)
 
-**Earned position (Argued):** **AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity is not identical with possession.
+**Earned position (Argued):** **AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity differs from possession.
 
 **Carry-forward:** intention enters actuality, encounters resistance and returns as changed form.
 

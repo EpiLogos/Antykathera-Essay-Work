@@ -29,7 +29,7 @@ Every `F(x)=x²+C` has the derivative `2x`, so integrating `2x` returns a family
 
 ## Proposition
 
-Every function `F(x)=x²+C` has the derivative `2x`, so integrating `2x` returns the whole family and no single function. A condition such as `F(0)=3` selects the member `C=3`. The derivative is exact at every point and carries no information about `C`.
+Every function `F(x)=x²+C` has the derivative `2x`, because the derivative of a constant is zero, so integrating `2x` returns the whole family and no single function. A condition such as `F(0)=3` selects the member `C=3`. The derivative is exact at every point and carries no information about `C`, which is the sense in which local exactness can lack the provenance of its own determination.
 
 ## Inputs
 
@@ -45,8 +45,8 @@ The slope `2x` at each `x`, shared by every member of the family.
 
 ## Proof boundary
 
-- **Derived,** on an interval. Disconnected domains can carry separate constants.
-- **Argued, in the movement:** QL reads the dependence as a demand that local determination remain related to its provenance. The calculus theorem carries only the family statement.
+- **Derived,** on an interval. On a disconnected domain each piece can carry its own constant.
+- **Argued, in the movement:** QL reads the dependence as a demand that local determination stay related to its provenance. The calculus theorem itself carries the family statement alone.
 
 ## Essay blocks
 

@@ -37,7 +37,7 @@ The Antikythera mechanism is finally earned as an image of situated coordination
 <!-- /figure:mechanism-gearing-non-closure -->
 
 ## Warrant
-The essay has already established retained ground, multiple orientations, harmonic interval, lens refraction, and institutional return. The mechanism now images their coordination across agents, models, timescales, and values.
+The essay has already established retained ground, multiple orientations, harmonic interval, lens refraction and institutional return, and the mechanism enters only here, as a controlling image, because only now has the argument derived what an attunement instrument must retain. Its gears coordinate several celestial cycles so that a situated observer can read their relations while the heavens remain beyond the instrument. Epi-Logos seeks an analogous device for attunement among epistemic and agentic cycles, models, timescales, agents, values and limits, and its incompleteness is part of its discipline.
 
 ## Two recoveries
 
@@ -46,7 +46,7 @@ The image gathers two recoveries. The first belongs to the word technē, in the 
 The second recovery is the essay's stated departure from Heidegger, and it is a position: where *The Question Concerning Technology* can only wait upon the saving power that "grows" where the danger is, the essay argues the return is architecturally practicable — seam retention, gauge disclosure, provenance, reversible coordination, sovereign commons: the saving power built rather than awaited. Gelassenheit's comportment survives the departure as practice — "We can affirm the unavoidable use of technical devices, and also deny them the right to dominate us" (*Discourse on Thinking*, p. 54): the AND/OR slash lived as a relation to one's own instruments. And the venue's name is at stake in the claim: Antikythera holds its mechanism as an emblem of computation disclosing the planetary condition; the essay derives the conditions — retained ground, plural lenses, practicable return — under which that emblem is philosophically earned, and hands it back.
 
 ## Tension / limit
-The comparison is technically bounded and Offered. The ancient device is neither an AI architecture nor proof of QL.
+The comparison is Offered and technically bounded: the ancient device serves as a mytheme for planetary computation after the argument has established what attunement must retain, and it gives no AI architecture and no proof of QL.
 
 The [Antikythera attunement whole](../../../symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md#antikythera-instrument-returns) **figures** this late attunement through the complete passage from coordinated cycles to damaged inheritance, reconstruction and renewed use. The 2006 primary abstract and the bounded 2021 front-display proposal have distinct warrants; lost evidence still limits reconstruction. A reader can use an exact indication while retaining the source, residual and judgment on which its significance depends.
 

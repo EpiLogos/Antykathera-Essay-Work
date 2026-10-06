@@ -21,7 +21,7 @@ The [foundational ratios](foundational-ratios.md) supply two generators: `9/8`, 
 
 The matrices below use twelve-tone equal temperament and octave equivalence. Write pitch class as `p∈ℤ₁₂`, with `C=0`, `C♯=1`, and so on. Addition is modulo twelve. For an actual starting frequency `f₀`, an equal-tempered displacement of `n` semitones gives `f₀·2^(n/12)` before octave reduction.
 
-This declares the projection's tuning. Its whole-tone step is `2^(1/6)`; its fifth is `2^(7/12)`. The pure ratios `9/8` and `3/2` remain the foundational interval relations, while these tempered values provide the exact closed pitch-class implementation. The distinction lets the native generators retain their derivational role without asserting false frequency equalities.
+This declares the projection's tuning: its whole-tone step is `2^(1/6)` and its fifth is `2^(7/12)`. The pure ratios `9/8` and `3/2` stay the foundational interval relations, and the tempered values give the exact closed pitch-class implementation. With the two kept apart, the native generators keep their derivational role and no false equality of frequencies is asserted.
 
 ## #1 — The chromatic basis
 
@@ -49,7 +49,7 @@ A step of two preserves parity. Its order in `ℤ₁₂` is `12/gcd(2,12)=6`, so
 | 4 | G♯ | 4′ | A |
 | 5 | A♯ | 5′ | B |
 
-The within-helix path follows one face through its six positions. Crossing to the same `k` on the other face adds a semitone from bimba to pratibimba. It accesses the parity which the whole-tone generator alone cannot reach.
+The within-helix path follows one face through its six positions. Crossing to the same `k` on the other face adds one semitone from bimba to pratibimba, and that crossing reaches the parity which the whole-tone generator alone cannot.
 
 ## #2 — The fifths basis
 
@@ -109,11 +109,11 @@ The source assigns the same contents to the six position-indices in both bases:
 | 4 | Son | Love | Integral |
 | 5 | Image | Work | Supermental |
 
-These are Taylor’s QL assignments. Their stadial column belongs to his synthesis; it does not establish a historical claim that Gebser supplied this entire six-row musical mapping. Each position carries both Name and Power, with their emphasis changing through the face traversed. The note is its location under a specified basis and anchor.
+These are Taylor’s QL assignments. The stadial column belongs to his own synthesis, and Gebser is not thereby the source of the six-row musical mapping as a whole. Each position carries both Name and Power, with the emphasis shifting according to the face traversed. A note is the location of a position under a specified basis and anchor.
 
-E makes the dependency concrete. In the chromatic matrix E occupies `k=2`, Word/Sacrifice; in the fifths matrix it occupies `k=4`, Son/Love. Changing basis changes which note carries a position while preserving that position’s defined contents. [Formative articulation](../../../section-rooms/arguments/A06-Vak.md) relates the operation which makes a sign available to its achieved expression; the musical assignment gives that relation a particular coordinate grammar.
+E makes the dependency concrete. In the chromatic matrix E occupies `k=2`, Word/Sacrifice, and in the fifths matrix it occupies `k=4`, Son/Love. Changing the basis changes which note carries a position and leaves the position's defined contents as they were. [Formative articulation](../../../section-rooms/arguments/A06-Vak.md) **grounds** the reading: it relates the operation that makes a sign available to the achieved expression, and the musical assignment gives that relation a particular coordinate grammar.
 
-The [parallel musical matrices](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) retain six positions with two faces each. A changed projection can alter the pitches assigned to those offices; its account must retain the basis, anchor and face through which a particular tone became available.
+The [parallel musical matrices](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) **source** the same six positions with two faces each. A changed projection can change the pitches assigned to those offices, so any account has to give the basis, the anchor and the face through which a particular tone became available.
 
 ## #5→0 — Closure retains its tuning account
 
@@ -127,7 +127,7 @@ $$
 =\frac{531441}{524288}.
 $$
 
-Thus reducing octave register alone does not turn the pure generators into these finite cycles. Tempering changes their frequency ratios to obtain the exact pitch-class closure. [Accountable reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) keeps that operation and its criterion available in the result. [Musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) receives a return whose retained difference remains explicit.
+Reducing octave register alone therefore does not turn the pure generators into these finite cycles. Tempering changes their frequency ratios to obtain the exact pitch-class closure. [Accountable reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the practice of keeping that operation and its criterion in the result, and [musical resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) **returns-to** this page for a return whose retained difference is explicit.
 
 The music register carries the full circuit:
 
@@ -136,9 +136,9 @@ $$
 =4'+2'=(5'\rightarrow0')=\frac01.
 $$
 
-The chain's primes denote File 2's inverse-phase positions. In the matrices above, primes mark the conjugate P′ face through which File 3's Night-pass Power sequence is projected. These are distinct uses of the glyph, related through the full circuit rather than interchangeable indices.
+The chain's primes denote File 2's inverse-phase positions. In the matrices above, primes mark the conjugate P′ face through which File 3's Night-pass Power sequence is projected. These are two uses of the one glyph, related through the full circuit, and the indices are not interchangeable.
 
-The two bases supply a palette and a conjugate operation to the [pairing grammar](README.md): a selected pair acquires its interval through the stated basis, face and direction. Returning to the [foundational ratios](foundational-ratios.md) keeps the tuning and coordinate choices explicit. The same substrate can be traversed in two orders because the account preserves what each order changes and what its return retains.
+The two bases give the [pairing grammar](README.md) a palette and a conjugate operation: a selected pair acquires its interval through the stated basis, face and direction. Going back to the [foundational ratios](foundational-ratios.md) keeps the tuning and coordinate choices explicit. The same substrate can be traversed in two orders because the account records what each order changes and what its return keeps.
 ## Source and implementation standing
 
 The [musical-v3 house](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) **sources** the parallel candidate system. File 4 and v3 are superseded in practice by the actual ql-mef package. Its current implementation remains unrecovered here; these matrices identify the housed candidate precisely rather than certifying the package's present mappings.

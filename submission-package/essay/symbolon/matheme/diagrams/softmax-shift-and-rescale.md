@@ -30,7 +30,7 @@ Softmax and the Bradley–Terry comparison depend on differences of scores. Addi
 
 ## Proposition
 
-Softmax and the Bradley–Terry comparison depend on differences of scores. Adding the same constant to every score leaves both unchanged; halving the scores, a change of temperature, changes both. In the reference-policy form `π*(y|x) ∝ π_ref(y|x) exp(r(x,y)/β)` a common addition to the reward cancels in normalisation, and replacing the reference policy does not.
+Softmax and the Bradley–Terry comparison depend on differences of scores. Adding the same constant to every score leaves both unchanged, because the constant enters every exponential as one common factor and cancels in the ratio. Halving the scores is a change of temperature and changes both. In the reference-policy form `π*(y|x) ∝ π_ref(y|x) exp(r(x,y)/β)` a common addition to the reward cancels in normalisation in the same way, while replacing the reference policy changes the comparisons themselves.
 
 ## Inputs
 
@@ -49,7 +49,7 @@ The differences `z_i − z_j` under a common shift. The origin of the scores is 
 ## Proof boundary
 
 - **Derived:** every displayed value, to three decimals.
-- **Bounded by the movement:** with absent reference support the conclusion requires further care, and the diagram claims no model or deployed system that is shift-invariant in every term.
+- **Bounded by the movement:** where the reference policy lacks support the conclusion needs further care, and no model or deployed system is shown to be shift-invariant in every term.
 - **Argued, in the movement:** that different changes are invisible or consequential under different observations, and that an institution must identify which relation is being varied before claiming a system changed its judgment.
 
 ## Essay blocks

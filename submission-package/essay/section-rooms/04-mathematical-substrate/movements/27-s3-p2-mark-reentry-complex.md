@@ -19,49 +19,50 @@ Movement 27 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← P
 
 ## Movement thesis
 
-[[symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/spencer-brown-1969-laws-form|Spencer-Brown]] begins with the injunction to draw a distinction. The mark creates inside and outside together; calling and crossing specify how marks condense or cancel. A distinction is therefore already an operation, not a static pair of values.
+[[symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/spencer-brown-1969-laws-form|Spencer-Brown]] begins with the injunction to draw a distinction. The mark creates inside and outside together, and calling and crossing specify how marks condense or cancel, so a distinction is already an operation and a static pair of values comes second.
 
-The essay’s Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md#varela-1975-calculus-self-reference-q001). His [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md#varela-1975-calculus-self-reference-q002) leave frequency characterisation for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) must specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing. Varela’s calculus does not itself complete that authorial chain.
+The essay's Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md#varela-1975-calculus-self-reference-q001), and his [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md#varela-1975-calculus-self-reference-q002) leave the characterisation of frequency for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) has to specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing, and the authorial chain from Varela's calculus to that specification is the part that is still to be completed.
 
 <!-- see-figure:re-entry-projective-fork -->*See also Diagram 10, [Re-entry and the projective fork](../../../symbolon/matheme/diagrams/re-entry-projective-fork.md).*<!-- /see-figure:re-entry-projective-fork -->
 
 ## Iterant derivation
 
-[[symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/kauffman-2014-iterants-fermions-dirac-arxiv|Kauffman’s iterants]] make the temporal seam algebraic. Take the alternating process
+[[symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/kauffman-2014-iterants-fermions-dirac-arxiv|Kauffman's iterants]] make the temporal seam algebraic. Take the alternating process
 
 $$
 [+1,-1,+1,-1,\ldots]
 $$
 
-and a shift operator that advances one step. The sign sequence and its time-shift anticommute. Their composite behaves as a square root of \(-1\):
+and a shift operator `η` that advances one step, with the selected swap law `[a,b]η = η[b,a]`. Write `D = diag(1,−1)` for the sign sequence. Shifting twice returns the sequence, so `η² = I`, and shifting turns the sign sequence into its negative, so `ηD = −Dη`: the sign sequence and its time-shift anticommute. Their composite then squares to minus the identity,
 
 $$
+(D\eta)^2 = D(\eta D)\eta = -D^2\eta^2 = -I,
+\qquad
 i^2=-1.
 $$
 
-The imaginary unit is thereby readable as alternation plus temporal shift, not as an arbitrary impossible number. The essay’s Offered signed-dia reading proposes the seam unrolled in time: the signed poles alternate; re-entry makes their relation operative; complex orientation records the phase that a one-dimensional number line cannot. Mapping signs, states and temporal order remains a distinct research task; the iterant derivation alone does not complete it.
+The imaginary unit is thereby readable as alternation plus temporal shift, and its appearance has a cause in the process that generates it. Anticommutation carries the result, and a picture of recurrence alone cannot. The essay's Offered signed-dia reading proposes the seam unrolled in time: the signed poles alternate, re-entry makes their relation operative, and complex orientation records the phase a one-dimensional number line cannot. Mapping signs, states and temporal order is a distinct research task, which the iterant derivation prepares.
 
 ## Complex plane and comparison boundary
 
-On the complex plane, multiplication by \(i\) rotates a determination by a quarter turn. Opposition on one axis becomes orthogonal relation across two axes. Four quarter-turns return to the starting orientation:
+On the complex plane, multiplication by `i` rotates a determination by a quarter turn. Opposition on one axis becomes orthogonal relation across two axes, and four quarter-turns return to the starting orientation:
 
 $$
 1\to i\to -1\to -i\to1.
 $$
 
-This is the mathematical bridge to quaternity without reducing Jung to geometry. A fourfold can be generated by rotation of one relation rather than assembled as four independent contents.
+This is the mathematical bridge to quaternity, and Jung is not reduced to geometry by it: a fourfold can be generated by rotation of one relation and need not be assembled from four independent contents.
 
 ## Running true
 
-The [[symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/bohm-krishnamurti-1975-05-18-dialogue|Bohm–Krishnamurti wheel and thread]] make this rotation philosophically visible. If `z=re^{iθ}`, rotation changes `θ` while preserving `|z|=r`. The point moves; the relation “runs true.” Modulus is not a definition of truth. The image gives the exact transition required here: fidelity can be invariant relation through transformation rather than stasis at one coordinate.
+The [[symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/bohm-krishnamurti-1975-05-18-dialogue|Bohm–Krishnamurti wheel and thread]] make this rotation philosophically visible. If `z=re^{iθ}`, rotation changes `θ` while preserving `|z|=r`. The point moves, and the relation "runs true". Modulus is the mathematical carrier of invariance under rotation, and Bohm and Krishnamurti ask the fuller question of what fidelity is. The image gives the transition this movement needs: fidelity can be an invariant relation carried through transformation and needs no stasis at one coordinate.
 
 ## Argumentative consequence
 
-Within the essay’s Argued temporal account, a mark that returns cannot return as though no distinction occurred. The slash retains its crossing. This is why the return to zero is not annihilation: the cycle arrives at origin with transformed phase and accumulated relation.
+Within the essay's Argued temporal account, a mark that returns cannot return as though no distinction had occurred, so the slash retains its crossing. This is why the return to zero differs from annihilation: the cycle arrives at origin with transformed phase and accumulated relation.
 
 ## Transition
 
-Complex orientation solves a limitation by enlarging the representational space. Projective geometry, compactification, cross-ratio, and many-valued logic repeat that exact methodological move in [[28-s3-p3-projective-dimensional-reframing|§3 · #3 — Projective Completion and Dimensional Reframing]].
+Complex orientation resolves a limitation by enlarging the representational space, and projective geometry, compactification, cross-ratio and many-valued logic repeat that methodological move in [[28-s3-p3-projective-dimensional-reframing|§3 · #3 — Projective Completion and Dimensional Reframing]].
 
-The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md#3--re-entry-representation-and-retained-passage) **historicises** this operation. Kauffman’s selected swap law [a,b]η = η[b,a] makes the shift operative. With D = diag(1,−1), η² = I and ηD = −Dη, the square of Dη is −I. Anticommutation carries the result; a picture of recurrence alone does not. The selected representation and its kernel qualification remain distinct from a uniqueness claim and from the complete native eightfold.
-
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md#3--re-entry-representation-and-retained-passage) **historicises** this operation. The selected representation and its kernel qualification make a claim about this construction, and the complete native eightfold is wider than it.

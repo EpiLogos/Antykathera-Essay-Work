@@ -64,3 +64,33 @@ All Bratton quotations (notes 11, 20, 49, 50, 83, 84, 109, 132, 133), Das (7), M
 - **Phillips, "Moicheia and the Unity of Greek Law"** (the surety as formal ἐγγύη procedure): the venue is unresolved, so the legal-form point rests on LSJ alone. If the venue is found, M22's surety paragraph should cite it.
 - The Simonides report that Eros is the child of Ares and Aphrodite, and the candidate notation `(1)` from the late quilt: neither is canonical.
 - Giegerich on the bomb, and the deepfake empirical literature beyond Chesney and Citron.
+
+## Rework addendum, 2026-10-06
+
+- **Verified from the local PDF.** Jung, *Two Essays on Analytical Psychology*, CW 7: ¶33 (Freud's two basic instincts, as Jung quotes them), ¶78 ("no energy unless there is a tension of opposites"; the opposite of love), ¶111 (Heraclitus and enantiodromia; the passion that becomes a god; the disorganizing reaction) and ¶112 (the separation sentence). The house `jung-1966-two-essays-cw7` carries cards for ¶78, ¶33, ¶111–113; the prose uses the first four.
+- **Constructed case.** The research-agent provenance case at #2 ("Return is an operation") is an illustration built for the argument and stated as one. It rests on no source and needs none unless Frank wants a documented case.
+- **Moved to §4 · #4.** The Nietzsche quotations (Haussmann/Levy 1910, §1 and §21) and Ovid, *Metamorphoses* 1.452–567, left §2 · #4. Check that §4 · #4's notes carry them. Hesiod, *Theogony* 940–42 and 975–78 stay at §2 · #4 for Dionysus as Harmonia's grandson.
+- **Moved to §0 · #3.** The Dushun and Van Norden–Jones notes left §2 · #3, which now points to §0 · #3.
+- **Added.** Morley (1915), p. 102, two fragments at #5→0 ("had ended or closed", "no new period had commenced"), taken from card q002 in the Morley house.
+- **Unchanged debts.** Heidegger's page cites in #3 (17, 19, 20) and #1 (Memorial Address, 46 and 56), Detienne and Vernant's pages, Christopher Brown's article, Desmet's web essay (a diagnosis, not a peer-reviewed source), Iakovou's review, Girard (paraphrase only), and Lewis and Short, Liddell and Scott entries read without pages. The Murray, Evelyn-White and Perseus lines were checked by the earlier helper.
+
+## Addendum — 2026-10-06 (after the independent check)
+
+| Where | Item | What is owed |
+|---|---|---|
+| M06 note `s2-122` | Leviticus 25:10 and 25:23 | No bible house for Leviticus; add one with cards. |
+| M03 line 42 | Chesney and Citron, "liar's dividend" | No house. |
+| M05 line 36 | Sharma et al., sycophancy | No house (the "Sharma" house is an unrelated Al Jazeera piece). |
+| M02 line 48 | Cormen et al. §2.3.1 | House exists but no page. |
+| M01 line 46 | Hesiod, "take which ever of these portions your heart within you bids" | Cards cover 535–44, 551–57 and 561–72 only. |
+| M05 line 22 | Jung CW 7 ¶111: "the piling up of energy in these monomanias", "a god", "church", "a herd of believers" | The house cards only the enantiodromia sentence and the Beelzebub passage; check the added words and card them. |
+| M04 note `s2-74` | Detienne–Vernant chap. 10, pp. 269–75 | Not transcribed; pp. 3, 13 and 272–73 are carded. |
+| M06 note `s2-130` | *The Prisoner* opening in "fourteen of the seventeen episodes" | The house says only "recurring"; verify or drop. |
+| M03 line 24 | Heidegger's B50 gloss | Heidegger's derivation of *legein* is contested; add the boundary the house states. |
+| M01 line 48 | Zeus chose the bones "because choosing them gave him a grievance" | The card has Zeus planning mischief; state the grievance as the essay's reading. |
+| M03–M06 | Legacy numeric note IDs (`s2-32` … `s2-134`) with gaps | Rename to slugs (A2.4). |
+| M02 line 54, M04 line 46 | Heidegger Memorial Address sentences and the legibility quotation re-quoted from §4 · #4 and §5 · #4 | Return by name. |
+| M06 lines 30–52 | Repeats §3 · #1's expansion of `(0/1)/(1/0)` and the pulse display | Point to §3 · #1 and keep one display. |
+| M04 lines 18 and 44 | A1 row 8b | Both Poseidon quotations now stand (Murray, card q009); §5 · #1 returns by name. |
+
+Applied from the check: the complex is a clause with a pointer to §4 · #1 and "local arbitration regime" is dropped; the unsourced "stopped before it stops us" is cut; the roadmap sentences at M01, M03, M05 and the closing summary at M06 are shortened; **mono–poly** is no longer attributed to §0/1; the research-agent case is marked constructed; the mirror is named in the net's logics.

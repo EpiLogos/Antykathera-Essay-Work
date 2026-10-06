@@ -11,36 +11,36 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — Gather terms that remain distinct
 
-Syn names the operation that composes while retaining source, inverse reading and affected context. Its input is already differentiated: the broken token's halves must remain two, and their fracture must remain available, for refitting to disclose belonging. [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md) owns this full-strength gathering office; the [core spine, §IV](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) derives its binary self-relation.
+Syn names the operation that composes while it retains source, inverse reading and affected context. Its input is already differentiated: the halves of a broken token must remain two, and the fracture must remain available, if refitting is to disclose belonging. [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md) **defines** this gathering at full strength, and the [core spine, §IV](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **derives** its binary self-relation.
 
-The root relation is [Mono/Poly](../../mono-poly.md). Syn is an operation of retaining and returning its differentiation, not another name for the entire ontological relation.
+The root relation is [Mono/Poly](../../mono-poly.md). Syn is the operation that retains and returns the differentiation within that relation, and the whole ontological relation is wider than it.
 
 ## #1 — Retain both readings
 
-`0/1` and `1/0` read one native relation from its two orientations. Their relational identity retains a consequential difference: ordinary arithmetic computes the former and leaves the latter undefined. The matheme holds the defined/undefined seam explicitly in `(0/1)/(1/0)`.
+`0/1` and `1/0` read one native relation from its two orientations. They are the same relation, and a consequential difference remains between them: ordinary arithmetic computes the first and leaves the second undefined. The matheme holds that defined/undefined seam open in `(0/1)/(1/0)`.
 
-This is a native relational expression. Treating its outer stroke as ordinary fraction division would lose the operation precisely where the undefined inner term matters. The return is kept available by naming the operation that is being performed.
+The expression is a native relational one, and its outer stroke relates the two orientations. Read as ordinary fraction division it would lose the operation exactly where the undefined inner term matters, so the return stays available by our saying which operation is being performed.
 
 ## #2 — Include the distinction's self-relation
 
 Two terms have four ordered binary pairings: `00,01,10,11`. Holding the original terms and the pairing level together gives `2+2²=6`, displayed as `4+2`. [The binary-of-binary page](../ql/binary-and-binary-of-binary.md) states the finite construction and keeps its two levels distinct.
 
-The result differs from averaging the terms. An average compresses inputs into one measure; this construction retains the terms and the possibilities of their meeting. Its sixfold body follows from the named binary input, while the qualitative offices require the [definition sequence](../definition/six-determinations.md).
+An average compresses its inputs into one measure, and this construction keeps the terms and the possibilities of their meeting. The sixfold body follows from the binary input once we count what the distinction does to itself, and the qualitative offices that fill the six places come from the [definition sequence](../definition/six-determinations.md).
 
 ## #3 — Compose with a recoverable seam
 
 Consider two independently obtained measurements of one object, each carrying its instrument, unit and conditions. A gathering first preserves the two records, then establishes whether a comparison or conversion is valid. If the units are convertible, a common display can make their relation visible while retaining the original records. If the conditions differ materially, that difference remains part of the result.
 
-The example gives source, operation and seam a practical form. Deleting an inconvenient measurement is loss; replacing both records with a single unsupported figure is fusion; displaying both while withholding the condition that makes one inapplicable is counterfeit gathering. Keeping many entries is insufficient unless the composition preserves their actual relations.
+The example gives source, operation and seam a practical form, and three failures are visible in it. Deleting the inconvenient measurement is loss. Replacing both records with a single unsupported figure is fusion. Displaying both while withholding the condition that makes one of them inapplicable is counterfeit gathering, in which the entries all appear and the composition has dropped their actual relations.
 
 ## #4 — Preserve the capacity to answer back
 
-The gathered result affects a context. A composition that admits terms only after forcing them into one preferred vocabulary can conceal that effect. [The many-notation inventory](../mono-poly/poly.md) keeps dialects and signatures visible; [translations](../mono-poly/translations.md) state exactly which operations survive a conversion.
+A gathered result acts on a context, and a composition that admits terms only after forcing them into one preferred vocabulary can hide that effect from those it affects. [The many-notation inventory](../mono-poly/poly.md) **figures** the alternative by keeping dialects and signatures visible, and [translations](../mono-poly/translations.md) state exactly which operations survive a conversion.
 
-The pending claim that full gathering *is* the eros of logos is named in C50 as a distinct A-candidacy. This projection develops the admitted gathering operation without ratifying that further identity or generating another Argument. Its source distinction remains live.
+C50 names the claim that full gathering *is* the eros of logos as a separate pending A-candidacy. This page develops the gathering operation that C50 has admitted, and the further identity stays a live distinction in its source.
 
 ## #5→0 — Return the composition through its terms
 
-The output is a relation whose terms can still be retrieved, differentiated and addressed. Return can consequently discover a wrong conversion, changed condition or newly affected participant without pretending the original operation never happened. The achieved difference becomes material for a renewed distinction.
+The output is a relation whose terms can still be retrieved, differentiated and addressed. A return can then find a wrong conversion, a changed condition or a newly affected participant without pretending the original operation never happened, and the achieved difference becomes material for a renewed distinction.
 
-This record returns-to [A13](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), and [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md). Its companion [Dia](dia.md) supplies the cut required by any genuine gathering; [chronic](chronic.md) keeps the present configuration and its passage through time independently readable.
+This record **returns-to** [A13](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) and [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md). Its companion [Dia](dia.md) supplies the cut that any genuine gathering requires, and [chronic](chronic.md) keeps the present configuration and its passage through time readable on their own terms.

@@ -17,7 +17,7 @@ source_ids:
 
 ## #0 — The inverse field accounts for its passage
 
-The Process traversal reaches its Spanda equations after the figure has been placed, turned toward its condition and read through the slash. Both parents now contain the complete sixfold. `0/1` carries the singular One into the polyvalent All; `1/0` returns manifestation toward its source. The equations gather the passage through these directed relations and make the achieved whole available to its own accounting.
+The Process traversal reaches its Spanda equations once the figure has been placed, turned toward its condition and read through the slash. Both parents now contain the complete sixfold: `0/1` carries the singular One into the polyvalent All, and `1/0` returns manifestation toward its source. The equations gather the passage through these two directed relations, and the achieved whole can then give its own account of itself.
 
 The inherited fields have exact orders. In the forward parent, the poles `0` and `1` hold the four contents `0/1,0/0,1/1,1/0`. In the inverse parent, `1` and `0` hold `1/0,1/1,0/0,0/1`. Comparing the local slots gives three paired contents:
 
@@ -27,7 +27,7 @@ The inherited fields have exact orders. In the forward parent, the poles `0` and
 | #1/#1′ and #4/#4′ | `0/1` and `1/0` | Outer #2/#3, expression and inverse |
 | #2/#2′ and #3/#3′ | `0/0` and `1/1` | Outer #1/#4, indeterminacy and unity |
 
-The source names the latter two correspondences Structure/Formality exchange. Their operation compares local coordinates with outer content addresses. The pole-pair stays the axis of the comparison while its entries change order. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold the whole field that makes these nested comparisons possible. The inverse has retained the content needed for the next operation.
+The source calls the latter two correspondences the Structure/Formality exchange. The operation compares local coordinates with outer content addresses, and the pole-pair stays the axis of the comparison while its entries change order. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) **ground** the whole field in which these nested comparisons are possible, and the inverse has kept the content that the next operation needs.
 
 ## #1 — The two arcs meet in standing unity
 
@@ -47,9 +47,9 @@ $$
 [T_1]:\quad(1/0)/0\longrightarrow1/0.
 $$
 
-Here `[T₀]` is the emanative arc: the source takes expression as its denominator and proceeds toward manifestation. `[T₁]` is the reversionary arc: the inverse takes the source as denominator and proceeds toward recognition of its condition. These are the equation's local track definitions. They operate within the file that has first developed T1 geometry and then T0 onto-logic; track notation does not change the order of those sections.
+`[T₀]` is the emanative arc, in which the source takes expression as its denominator and proceeds toward manifestation. `[T₁]` is the reversionary arc, in which the inverse takes the source as denominator and proceeds toward recognition of its condition. These are the equation's own track definitions. The file develops T1 geometry first and T0 onto-logic after it, and the track notation leaves that order of sections as it is.
 
-The bridge `(1/0+0/1)` gathers the directed movements. Its result is standing unity, `1/1`: the relation recognises itself as a whole through expression and recognition together. These zero-denominator expressions are native QL orientations. The final `1/1=1=100%` has an ordinary numerical reading, while the preceding bridge is not a sum of evaluated real fractions. [The Two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) retain the distinct offices of the terms throughout the passage.
+The bridge `(1/0+0/1)` gathers the directed movements, and its result is standing unity, `1/1`, in which the relation recognises itself as a whole through expression and recognition together. The zero-denominator expressions are native QL orientations. The final `1/1=1=100%` has an ordinary numerical reading, and the bridge before it is no sum of evaluated real fractions. [The Two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) **define** the distinct offices of the terms throughout the passage.
 
 ## #2 — The counted triads retain one act of recognition
 
@@ -97,7 +97,7 @@ $$
 \longrightarrow4+2.
 $$
 
-Each arrow names an operation. The ratio is not equal to the sum, and the final factor count is not an evaluation of the ratio as six. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains the denominator and operation through this accounting. The whole returns as an explicit organisation that can be read and traversed again.
+Each arrow names an operation. The ratio does not equal the sum, and the final factor count is a count of instances, with no evaluation of the ratio as six. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the keeping of the denominator and the operation through the accounting. The whole returns as an explicit organisation that can be read and traversed again.
 
 ## #4 — The account carries a difference forward
 
@@ -117,13 +117,13 @@ $$
 \frac{16}{9}\cdot\frac98=2.
 $$
 
-The process returns through its retained difference. Its accounting has produced an output that can enter another relation; the `9/8` names what carries that output to the doubled result. QL reads the interval as the remainder handed forward by a completed cycle. The numerical identities are Derived, and their place in this return belongs to the native theorem field.
+The process returns through its retained difference. Its accounting has produced an output that can enter another relation, and the `9/8` is what carries that output to the doubled result. QL reads the interval as the remainder a completed cycle hands forward. The numerical identities are Derived, and their place in this return is fixed by the native theorem field.
 
-The same reduced pair admits a separate additive reading, `16+9=25`. Its sum and its ratio remain available for different operations. Keeping the reduced pair makes both results recoverable for the further [Spanda accounting](../spanda/README.md), with their place in the completed inverse traversal explicit.
+The same reduced pair also admits an additive reading, `16+9=25`, so its sum and its ratio serve different operations. Keeping the reduced pair makes both recoverable for the further [Spanda accounting](../spanda/README.md), with their place in the completed inverse traversal explicit.
 
 ## #5→0 — Self-accounting becomes a renewed beginning
 
-The two equations give the inverse pass its return. The First follows the relation into standing unity; the Second makes that unity's organisation explicit as `4+2`. The horizontal `3:3`, also `3:1` in recognition, and vertical `4:2` remain readings of one field through different operations. Neither has to absorb the other for the process to continue.
+The two equations give the inverse pass its return. The First follows the relation into standing unity, and the Second makes the organisation of that unity explicit as `4+2`. The horizontal `3:3`, which is also `3:1` in recognition, and the vertical `4:2` are readings of one field by different operations, and neither has to absorb the other for the process to continue.
 
 The full [Process circuit](README.md) carries the two equations through inverse phase and return:
 
@@ -131,6 +131,6 @@ $$
 0/1=4+2=5\to0=1/0=4'+2'=5'\to0'=0/1.
 $$
 
-This source section's heading, `4′+2′=5′→0′`, locates its operation within the inverse phase. The achieved field is gathered so it can return to the originating relation. File Two's primes mark these inverse positions; File Three's Night-pass primes mark another sequence. Definition and Quilt retain the short `0/1=4+2=5→0=0/1` vantage. The full Process chain makes the intervening inversion available rather than silently assuming it.
+The source section's heading, `4′+2′=5′→0′`, places its operation inside the inverse phase, where the achieved field is gathered so that it can return to the originating relation. File Two's primes mark these inverse positions, and File Three's Night-pass primes mark a different sequence. Definition and Quilt keep the short `0/1=4+2=5→0=0/1` vantage, and the full Process chain states the intervening inversion that the short chain leaves out.
 
-[The Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) receives both equations operated inside their source sequence: relation reaches standing unity, then that unity makes its organisation explicit. [Matheme](../README.md) gathers the horizontal recognition and vertical accounting as different readings of the same field. [Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) carries the achieved determination with its exactness and source relation intact. Self-accounting has given the whole a renewed point of departure, with the passage through difference still available.
+[The Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) **returns-to** both equations as they operate inside their source sequence: the relation reaches standing unity, and that unity then makes its organisation explicit. [Matheme](../README.md) gathers the horizontal recognition and the vertical accounting as readings of the same field. [Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) carries the achieved determination with its exactness and its source relation. Self-accounting has given the whole a renewed point of departure, with the passage through difference still open.

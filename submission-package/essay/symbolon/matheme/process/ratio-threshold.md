@@ -18,7 +18,7 @@ source_ids:
 
 ## #0 — A completed account yields a proportion
 
-The threshold occurs within File Two's `§3′ — 4′+2′ = 5′→0′`. The inverse pass has accounted for its whole field, and its result is about to become an input for further relation. The operative value is `16/9`, the proportion between the reduced constituents of the Second Spanda account. In the containing native circuit, `0` names the singular One and `1` the polyvalent All; `0/1` directs their relation into manifestation and `1/0` toward recognition of its condition.
+The threshold comes inside File Two's `§3′ — 4′+2′ = 5′→0′`. The inverse pass has accounted for its whole field, and its result is about to become an input for further relation. The operative value is `16/9`, the proportion between the reduced constituents of the Second Spanda account. In the containing native circuit `0` names the singular One and `1` the polyvalent All, and `0/1` directs their relation into manifestation while `1/0` directs it toward recognition of its condition.
 
 The inherited steps remain recoverable:
 
@@ -28,9 +28,9 @@ $$
 \frac{64}{36}=\frac{64/4}{36/4}=\frac{16}{9}.
 $$
 
-The first equality uses a hundred-unit account of the whole; normalising gives `64/100+36/100=1=100%`. Taking the ratio of the two constituents is another operation. Reducing both terms by four preserves that ratio, while reducing their sum gives `16+9=25`. The pair carries both results because its terms have been retained.
+The first equality uses a hundred-unit account of the whole, and normalising gives `64/100+36/100=1=100%`. Taking the ratio of the two constituents is a further operation: reducing both terms by four preserves that ratio, whereas reducing their sum gives `16+9=25`. The pair carries both results because its terms have been kept.
 
-In the [Binary Explication's Process passage](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md), the completed figure reaches this threshold through the comparison of its ordered readings. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) retains the operation and denominator in every account: what a number says depends on the operation and denominator through which it has been obtained.
+In the [Binary Explication's Process passage](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) the completed figure reaches this threshold by comparing its ordered readings. [Ratio and reckoning](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the lesson that every account keeps its operation and denominator, since what a number says depends on the operation and the denominator through which it was obtained.
 
 ## #1 — The two readings give an ordered comparison
 
@@ -52,7 +52,7 @@ $$
 \left(\frac43,\frac23\right).
 $$
 
-This spells out the source display `(4:2)/(3:3)`. Its operator returns a pair. Collapsing the inputs first to scalar ratios would instead give `(4/2)/(3/3)=2`. The ordered comparison preserves the two directions that the native account needs. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) hold these counts within the complete field they read.
+This spells out the source display `(4:2)/(3:3)`, whose operator returns a pair. Collapsing the inputs first to scalar ratios would give `(4/2)/(3/3)=2` instead, and the ordered comparison is what keeps the two directions the native account needs. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) **ground** these counts in the complete field they read.
 
 ## #2 — Inversion gives four directional ratios
 
@@ -131,16 +131,16 @@ This completion has its own tuning boundary. A chain of twelve pure fifths compa
 
 ## #5→0 — The next passage inherits the live interval
 
-QL names the retained `9/8` the live remainder carried forward by the cycle. The account reaches return through the difference it has made explicit. Its exact arithmetic and its native processual office stay joined: the ratio is a determinate output, and that output remains available for further relation.
+QL names the retained `9/8` the live remainder that the cycle carries forward. The account reaches return through the difference it has made explicit, so the exact arithmetic and the native processual office stay joined: the ratio is a determinate output, and the output stays available for further relation.
 
-The threshold arises within the full [Process circuit](README.md), after inversion and before renewed relation:
+The threshold arises inside the full [Process circuit](README.md), after the inversion and before the renewed relation:
 
 $$
 0/1=4+2=5\to0=1/0=4'+2'=5'\to0'=0/1.
 $$
 
-The source's `§3′` is an inverse-phase section of File Two. Its prime is distinct from File Three's Night-pass prime. Definition and Quilt retain the short `0/1=4+2=5→0=0/1` statement, while Process articulates the intervening inverse and its return. The present ratios arise inside that traversal, with the subject-first `3:3`, also `3:1`, still bearing their horizontal reading.
+The source's `§3′` is an inverse-phase section of File Two, and its prime differs from File Three's Night-pass prime. Definition and Quilt keep the short `0/1=4+2=5→0=0/1` statement, and Process articulates the intervening inverse and its return. The present ratios arise inside that traversal, with the subject-first `3:3`, also `3:1`, still carrying their horizontal reading.
 
-[The Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) receives its exact ratio threshold, and [musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) carries the retained difference through its own operations. [Toroidal circulation](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) compares a lifted path's distinct displacement; no equality between a tuning remainder and a topological object is asserted by these products.
+[The Spanda account](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) **returns-to** this page for its exact ratio threshold, and [musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) carries the retained difference through its own operations. [Toroidal circulation](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) **compares** the displacement of a lifted path, and these products assert no equality between a tuning remainder and a topological object.
 
-The proportional threshold enters the next [mathematical relation](../README.md) with its terms preserved: completed account, explicit interval, renewed relation. The threshold has given the next passage something exact to inherit.
+The proportional threshold enters the next [mathematical relation](../README.md) with its terms intact, which are the completed account, the explicit interval and the renewed relation, so the next passage inherits something exact.

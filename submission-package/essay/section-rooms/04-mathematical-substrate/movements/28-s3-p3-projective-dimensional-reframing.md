@@ -19,7 +19,7 @@ Movement 28 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← P
 
 ## Movement thesis
 
-Mathematics repeatedly encounters obstructions that become tractable after the representational space, algebra or logic is changed. The complex plane gives a representation for square roots of negative real numbers. The real projective line completes an affine line with a point at infinity; the projective plane supplies points at infinity at which parallel affine directions meet. The Riemann sphere compactifies the complex plane by adjoining one point at infinity.
+Mathematics repeatedly meets obstructions that become tractable once the representational space, algebra or logic is changed. The complex plane gives square roots of negative real numbers a representation, the real projective line completes an affine line with a point at infinity, and the projective plane supplies points at infinity at which parallel affine directions meet. The Riemann sphere compactifies the complex plane by adjoining one point at infinity.
 
 <!-- figure:re-entry-projective-fork -->
 
@@ -29,7 +29,7 @@ Mathematics repeatedly encounters obstructions that become tractable after the r
 
 <!-- /figure:re-entry-projective-fork -->
 
-These are distinct constructions. Their common methodological force is narrower than “mathematics always resolves paradox by adding a dimension”: **an obstruction can disclose assumptions of the present representation, and a rigorously specified enlargement can preserve some relations while changing others.** The exact hypotheses and invariants of each construction remain part of the claim.
+These are distinct constructions with one methodological force in common: **an obstruction can disclose assumptions of the present representation, and a rigorously specified enlargement can preserve some relations while changing others.** The exact hypotheses and invariants of each construction are part of the claim.
 
 ## Projective and quantum payload
 
@@ -39,9 +39,9 @@ $$
 (a,b;c,d)=\frac{(c-a)(d-b)}{(c-b)(d-a)}.
 $$
 
-It is invariant under projective/Möbius transformations up to the familiar permutation-dependent variants. The mathematical point needed here is relational: the invariant is attached to a configuration of four points, not to an isolated coordinate.
+It is invariant under projective/Möbius transformations up to the familiar permutation-dependent variants. The point needed here is relational: the invariant belongs to a configuration of four points and to no isolated coordinate.
 
-The complex projective line `CP¹` is biholomorphic to the Riemann sphere. Pure states of a two-level quantum system, modulo global phase, also form `CP¹` and can be represented by the Bloch sphere. After a choice of computational basis, `|0⟩` and `|1⟩` occupy opposite poles and superpositions occupy the rest of the state-space. This is an exact geometric fact about qubits. **QL's `0` and `1` do not become quantum basis states by sharing labels**; any ground/mark reading is a further analogy whose value must come from the operation preserved, not from the digits alone.
+The complex projective line `CP¹` is biholomorphic to the Riemann sphere. Pure states of a two-level quantum system, modulo global phase, also form `CP¹` and can be represented by the Bloch sphere. After a choice of computational basis, `|0⟩` and `|1⟩` occupy opposite poles and superpositions occupy the rest of the state-space. This is an exact geometric fact about qubits. **QL's `0` and `1` become quantum basis states only through a further analogy, whose value comes from the operation preserved**, and shared digits contribute nothing to it.
 
 <!-- figure:riemann-sphere -->
 
@@ -61,25 +61,25 @@ The complex projective line `CP¹` is biholomorphic to the Riemann sphere. Pure 
 
 ## Logical plurality and comparison boundary
 
-Four-valued and paraconsistent logics formally accommodate combinations such as true, false, both and neither without classical explosion. They are useful neighbours of the tetralemma because they show that a logical frame can be widened when bivalence is not the right representational constraint. They do not make Buddhist logic, FDE, quantum states and QL instances of one formalism.
+Four-valued and paraconsistent logics formally accommodate combinations such as true, false, both and neither without classical explosion. They are useful neighbours of the tetralemma because they show that a logical frame can be widened when bivalence is the wrong representational constraint, and Buddhist logic, FDE, quantum states and QL each keep their own formalism.
 
-Priest's reconstruction of the catuṣkoṭi gives a particularly exact comparison. In FDE the four values can be represented by the subsets of `{T,F}`: `{T}`, `{F}`, `{T,F}`, `{}`. That is a genuine `2²` combinatorial construction from the presence/absence of two truth-designations. QL's separate move retains its original two terms alongside four pairings and writes `2+2²`; FDE therefore supplies a formal neighbour for the fourfold generation, not the retained-two operation itself.
+Priest's reconstruction of the catuṣkoṭi gives a particularly exact comparison. In FDE the four values can be represented by the subsets of `{T,F}`: `{T}`, `{F}`, `{T,F}`, `{}`. That is a genuine `2²` combinatorial construction from the presence/absence of two truth-designations. QL's separate move retains its original two terms alongside the four pairings and writes `2+2²`, so FDE supplies a formal neighbour for the fourfold generation and QL adds the retained-two operation.
 
-Priest's *The Fifth Corner of Four* then introduces a further status for cases treated as none of the four. That move is relevant because the **existing value-space itself becomes part of the problem**. But the comparison has a hard boundary: Priest's fifth status is still a value-theoretic/logical construction, whereas QL's `#0` is proposed as a generative condition and not a fifth truth-value. Calling the fifth corner an “implicate ground” would erase this difference. The useful homology is the frame-changing move: the four-corner space proves insufficient for the case under treatment, so the containing formal scheme must itself be reconsidered.
+Priest's *The Fifth Corner of Four* then introduces a further status for cases treated as none of the four. That move is relevant because the **existing value-space itself becomes part of the problem**. Priest's fifth status is a value-theoretic and logical construction, and QL's `#0` is a generative condition and no fifth truth-value, which is the joint at which the two part. The useful homology is the frame-changing move: the four-corner space proves insufficient for the case under treatment, so the containing formal scheme has to be reconsidered. Priest's own material also shows how the tradition carries what the value-theory cannot, since the fifth value is inert and nothing in the value-theory returns from it.
 
-Jizang's iterated conventional/ultimate distinctions, Vimalakīrti's silence and Dōgen's return to ordinary practice can remain in the radial history of Buddhist strategies for limits of predication. They are not displaced instances of `5→0`, and they do not supply a historical genealogy of QL. The essay may compare their **performed return from propositional closure** with its own return-operator only after their doctrinal differences remain visible.
+Jizang's iterated conventional/ultimate distinctions, Vimalakīrti's silence and Dōgen's return to ordinary practice belong to the radial history of Buddhist strategies for the limits of predication. Where the value-theory falls silent they practise: each performs a return from propositional closure, and the essay's reading (**Argued**) is that this is what a completion held as practice looks like, since a completion that is an operation can be kept only as practice. The comparison with the essay's own return-operator holds once their doctrinal differences are visible, and it supplies no historical genealogy of QL.
 
-The comparison is further gated by the debate Priest's reconstruction provokes. Kapsner rejects the fifth-value move; Siderits gives a presupposition-failure reading requiring no non-classical value; Westerhoff presses parsimony and contextual variation. That disagreement is philosophically useful: formal enlargement is not automatically the right response to every obstruction. The new frame must earn its necessity.
+The debate Priest's reconstruction provokes sharpens the comparison. Kapsner rejects the fifth-value move, Siderits gives a presupposition-failure reading that needs no non-classical value, and Westerhoff presses parsimony and contextual variation. The disagreement teaches that formal enlargement is the right response only where the new frame earns its necessity, and QL's ground-position, being a generative precondition and no value, does not inherit Kapsner's objection.
 
-[[dimensional-reframing-at-zero-and-infinity|Division pluralisms]] make the same point algebraically. Undefinedness, projective infinity, signed infinities and totalised operations preserve different laws. The answer to a written `1/0` therefore discloses the chosen structure; it does not license free movement among them.
+[[dimensional-reframing-at-zero-and-infinity|Division pluralisms]] make the same point algebraically. Undefinedness, projective infinity, signed infinities and totalised operations preserve different laws. The answer to a written `1/0` therefore discloses the chosen structure, and each structure keeps its own laws.
 
 ## Argumentative consequence
 
-Zero and infinity repeatedly function as useful **stress points** because attempts to force them into an existing representation can reveal which laws and distinctions that representation is using. In the examples above, the response may be a complex extension, compactification, projective completion, changed logic or changed algebra. These are not stages of one universal dimensional ladder. Their shared lesson is methodological: when a relation fails under a frame, inspect both the relation and the frame before declaring the relation impossible or the frame absolute.
+Zero and infinity repeatedly function as useful **stress points** because attempts to force them into an existing representation can reveal which laws and distinctions that representation is using. In the examples above, the response may be a complex extension, compactification, projective completion, changed logic or changed algebra. These are separate operations, each with its own hypotheses, and their shared lesson is methodological: when a relation fails under a frame, inspect both the relation and the frame before declaring the relation impossible or the frame absolute.
 
-This is the exact formal neighbour of [[section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox / Transforming the Containing Field]]. A paradox can sometimes be dissolved by correcting a mistake inside the current scheme; in other cases it exposes the scheme's own assumptions as part of the problem. Mathematics supplies disciplined examples of the second possibility without proving that every philosophical paradox demands a higher dimension.
+This is the exact formal neighbour of [[section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox / Transforming the Containing Field]]. A paradox can sometimes be dissolved by correcting a mistake inside the current scheme; in other cases it exposes the scheme's own assumptions as part of the problem. Mathematics supplies disciplined examples of the second possibility, and each example carries its own conditions.
 
-[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the formal comparison by keeping its generated objects countable. FDE's subsets of `{T,F}` give four values; QL's `2+2²` additionally retains the two initial terms and therefore gives six. Likewise, adjoining a point, moving from affine to projective geometry, compactifying a plane and changing an algebra have distinct hypotheses and preserved relations. The movement into topology and music carries only the stated operation of reframing and return.
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the formal comparison by keeping its generated objects countable. FDE's subsets of `{T,F}` give four values; QL's `2+2²` additionally retains the two initial terms and therefore gives six. Likewise, adjoining a point, moving from affine to projective geometry, compactifying a plane and changing an algebra have distinct hypotheses and preserved relations. The movement into topology and music carries the stated operation of reframing and return.
 
 ## Transition
 

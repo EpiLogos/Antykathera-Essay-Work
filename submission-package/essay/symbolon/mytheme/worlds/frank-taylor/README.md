@@ -8,9 +8,9 @@ authority: non-governing navigation
 
 # Frank Taylor’s authored world
 
-These are Taylor’s compositions and interpretive wholes; their independent source traditions remain named inside them. An authorial home does not assign one nation to the meal, mirror, avatar, Māyā, attunement, poem or travelling atlas. Each comparison returns to its own situated carrier. The 2026 developmental and poetic field retains its own dated provenance. Internal narrative succession, remembered traditions and later application remain distinct.
+These are Taylor's compositions and interpretive wholes, and each names the independent source traditions it draws on. Having an authorial home places no nation on the meal, mirror, avatar, Māyā, attunement, poem or travelling atlas, and each comparison returns to its own situated carrier. The 2026 developmental and poetic field has its own dated provenance, and within a whole the internal narrative succession, the remembered traditions and the later application are three different times.
 
-The [geographical route](../../atlas/geography/README.md) and [temporal route](../../atlas/temporality/README.md) **returns-to** these same wholes.
+Each of the [geographical route](../../atlas/geography/README.md) and the [temporal route](../../atlas/temporality/README.md) **returns-to** these same wholes.
 
 - [Antikythera as Attunement Instrument](antikythera-attunement/WHOLE.md)
 - [Apollo, Dionysus and Daphne](apollo-dionysus-daphne/WHOLE.md)

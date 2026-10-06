@@ -19,16 +19,18 @@ Movement 33 of 48 · [This room](../ROOM-05-psychoid-flowering.md) · [← Previ
 <!-- /reader-navigation -->
 
 ## Claim
-The *complexio oppositorum* preserves the energy of opposites; Jung’s quaternity gives explicit differentiated wholeness, while QL’s `4+2` retains the implicate poles that let it move and return.
+The *complexio oppositorum* holds opposites without cancelling their energy. Jung's quaternity gives differentiated wholeness a fourfold explicit form, and QL's `4+2` adds the implicate poles or thresholds that let the fourfold move and return, so the senarius is a dynamic quaternity and no competing sacred count.
 
 ## Warrant
-[[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2|Jungian Quaternity]], the eight determinations, and the internal `2+2²=4+2` derivation distinguish fourfold articulation from sixfold generativity.
+Jung's four functions, thinking, feeling, sensation and intuition, articulate four ways a psyche determines a field, and introversion and extroversion supply two orientations: four functions plus two attitudes make a psychologically concrete `4+2`. [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2|Jungian Quaternity]], the eight determinations and the internal derivation `2+2²=4+2` distinguish fourfold articulation from sixfold generativity. The four are the explicit relational states a binary produces when it determines itself, and the two are the implicate poles that are left standing after the four have appeared, so the fourfold comes to move because the poles that generate it stay active.
+
+The senarius therefore draws its force from the exact relation between four explicit and two implicate functions. Sacred or numerological associations gather around six in many traditions, and the `4+2` derivation is what the essay stands on.
 
 ## Tension / limit
-The senarius derives its force from the exact relation between four explicit and two implicate functions. Sacred or numerological associations may gather around six, but they cannot substitute for that `4+2` derivation.
+The psychological `4+2` of functions and attitudes is a comparison with its own source task, which belongs to the Jung dossier, and the native eightfold derivation, which A18 retains in full, is wider than it. The numerical agreement licenses the comparison and infers no identity between the two.
 
 ## Anchor and transition
-**Image:** Ares and Aphrodite bearing Harmonia without merger. **QL anchor:** quaternity-in-motion. Eros and Psyche may be given as an optional self-contained QL plate linked from this movement — the four labours as the explicate middle, descent and waking as implicate thresholds, marriage without merger — rather than a second long narrative inside the prose. Transmission across sign and image is handled by [[34-s4-p3-lacan-matheme-mytheme|§4 · #3 — Lacan, Matheme, and Mytheme]].
+**Image:** Ares and Aphrodite bearing Harmonia without merger, opposition bearing concord because the relation survives. **QL anchor:** quaternity-in-motion. Eros and Psyche may be given as an optional self-contained QL plate linked from this movement: the four labours as the explicate middle, descent and waking as implicate thresholds, and marriage without merger, all outside the prose so that no second long narrative sits inside it. Transmission across sign and image is handled by [[34-s4-p3-lacan-matheme-mytheme|§4 · #3 — Lacan, Matheme, and Mytheme]].
 
 <!-- figure:giordano-psyche-discovering-the-sleeping-cupid -->
 
@@ -38,7 +40,6 @@ The senarius derives its force from the exact relation between four explicit and
 
 <!-- /figure:giordano-psyche-discovering-the-sleeping-cupid -->
 
-The supplementary contemplation **returns-to** [the Eros–Psyche whole](../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return). It retains all helpers, the descent’s reserved return, arrow-prick waking, the earlier pregnancy and Voluptas’s birth. [A13](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) owns the native relation, and [Homology / Analogy](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#a-whole-that-can-qualify-its-comparison) keeps the source’s legal-possession ending distinct from the author’s union-without-merger reading.
+The supplementary contemplation **returns-to** [the Eros–Psyche whole](../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return). It retains all helpers, the descent's reserved return, arrow-prick waking, the earlier pregnancy and Voluptas's birth. [A13](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) owns the native relation, and [Homology / Analogy](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#a-whole-that-can-qualify-its-comparison) keeps the source's legal-possession ending distinct from the author's union-without-merger reading.
 
-The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md#4--aesthetic-reciprocity-becomes-a-perspective-capable-of-return) **qualifies** the quaternity comparison through distinct functions and attitudes. The four-function/two-attitude source task belongs to the Jung dossier; A18 retains the complete native eightfold derivation and no numerical identity is inferred.
-
+The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md#4--aesthetic-reciprocity-becomes-a-perspective-capable-of-return) **qualifies** the quaternity comparison through distinct functions and attitudes.

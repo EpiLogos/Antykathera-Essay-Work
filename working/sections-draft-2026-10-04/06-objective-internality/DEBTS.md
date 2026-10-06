@@ -63,3 +63,19 @@ The O:I products are cited from their READMEs and docs on `main` at the commits 
 - **L0 Quaternal positions #3–#5.** §0/1's finished table gives *Which/Who?*, *When/Where?*, *Why-for?*; the plan and S0 record give *Whom/Which/When*, *Where/Why-for*, *Why-so/Why-not*. The draft follows §0/1.
 - **L2 #0.** §0/1 names it APORIA; the plan names it *Tetralemmaic ground*. The draft shows both.
 - The phrase "a harness before the harness" does not yet appear in any O:I repository or essay record (the README audit found the same). It came with the commission; it needs a home in canon if it is to stand.
+
+## Addendum — 2026-10-06 (after the independent check)
+
+This ledger was written for the 4 October draft: its note numbers (`s5-1` … `s5-116`), commit hashes, L4′/L0 canon questions and Thiel sourcing are out of date. The current notes use named IDs and the pinned commits shown in them. Live debts the check found:
+
+| Where | Item | What is owed |
+|---|---|---|
+| M04 | NHS England FAQ (ontology and IPR statements) | The FAQ card says to cite both sides together; the text now does, but add the passage card for the ownership of the Canonical Data Model and for "no intellectual property rights (IPRs) in NHS data". |
+| M04 | Palantir origin and the Foundry/instance claims | S-1 pp. 93, 121, 173 and the voting trust check out; the characterisation of the platform's structure is the essay's analogy and is marked so. |
+| M06 note `s5-shared-field` | "does not transfer canonical ownership or mutation authority over the source" | The O:I house has no card for the "Between worlds" primitives or the Objective Co-Internality contract. |
+| M02 note `s5-political` | "These are political questions in the literal architectural sense…" | No passage card. |
+| M02 line 79, M04 line 56, M01 line 62, M05 lines 29 and 33, M06 line 35 | Repository claims (one command table; requests that fail closed; files written under a lock; Day close keeps every authored word; a receipt at each stage; lenses as typed objects) | Cards, or confirm each against the repository at the pinned commit. Notes `s5-grants`, `s5-inhabit`, `s5-readings`, `s5-recognition` cite "the product's source at the cited commit" with no file. |
+| M01 line 58, M02 line 35 | "what most stores of agent memory lack"; "what agent design most often loses at the outset"; Sophia as "Johannine and sapiential" | Unsupported generalisations; soften or source. |
+| M01, M02, M06 | Proposal numbering | M02 says "the first of six" and gives a second, fourth and sixth; M06's two QL proposals and M01's authorship-variable experiment are unnumbered, so the total reads as seven. Number them. |
+| Whole section | Not matched to houses | Bai (CAI), Rafailov, Pind, PyTorch, LeCun quotations. |
+| Whole section | Lens tables align by sublens index | See the README; §3 · #5→0 states the alignment by pair. |

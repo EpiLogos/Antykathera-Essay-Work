@@ -52,3 +52,16 @@ Every quotation in the draft is short and comes from a passage card already mark
 - `bratton-2026-agentworld-brief`: M30 as consumer of q029.
 - `hatcher-2002-algebraic-topology`: M29 as consumer of p001–p004.
 - `iter-what-is-tokamak`: M29 as consumer of q001.
+
+## Addendum — 2026-10-06 repair
+
+| Where | Item | Status |
+|---|---|---|
+| M04 (#3), note `s3-belnap` | Belnap, "A Useful Four-Valued Logic" (1977), 5–37 | No house. Motivation taken from the chapter's abstract and its reception; the chapter was not read. Needs a house and a passage card before any quotation. |
+| M04, notes `s3-jizang`, `s3-dogen`, `s3-coda` | Priest 2018 chaps. 7, 9, xvii–xviii, 149 | From the reviews recorded in `priest-2018-fifth-corner`; the book is not collated. The "Vimalakīrti" step the house plans for is not used (no passage card). |
+| M05 (#4), note `s3-process-chain` | The processual chain `0/1 → 4+2 → 5→0 → 1/0 → 4′+2′ → 5′→0′ → 0/1` | Attributed to foundational files; not located in the core theorems this pass. Locate or mark as the author's unpublished source. |
+| M05, note `s3-hatcher-circle` | Hatcher theorem 1.7, pp. 29–31 | Located by a delegated read; card in the house. |
+| M05, note `s3-chladni` | Chladni 1787 | The bowing of the plate is the history; the 1787 text itself not re-read for the nodal-figure wording. |
+| M01 (#0), note `s3-flasch` | Flasch, *Meister Eckhart*, ch. 17, pp. 224–33 | Same page debt as §0/1; chapter text not read. |
+| M06 (#5→0) | Lens alignment (index versus pair) | A decision for Frank; see README. |
+| M04 | "Ineffable" bibliography entries | Kapsner, Siderits, Westerhoff summarised from their abstracts and reviews; no change this pass. |

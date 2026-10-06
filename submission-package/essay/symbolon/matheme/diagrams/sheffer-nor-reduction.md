@@ -28,7 +28,7 @@ One connective generates every Boolean truth function — negation, disjunction,
 
 ## Proposition
 
-One connective generates the whole Boolean field, and the generation stops exactly at a stated seam: functional completeness holds within a defined field of truth values, while the native slash relates a determination to its unobjectifiable condition — "which is not another Boolean input". The diagram performs the seam, not only the reduction.
+One connective generates the whole Boolean field, and the generation stops at a stated seam. Functional completeness holds within a defined field of truth values, while the native slash relates a determination to its unobjectifiable condition, which is "not another Boolean input". The diagram draws the seam as well as the reduction.
 
 ## Inputs
 
@@ -53,7 +53,7 @@ The defined field of truth values and their combinations. Everything above the s
 ## Proof boundary
 
 - **Derived:** the displayed identities — each can be checked directly from the definition of NOR.
-- **Not claimed:** the historical Peirce–Sheffer–Wittgenstein sequence; no quotation and no priority claim is made. The legacy brief named the Sheffer stroke (NAND, `p|q`); the live essay displays the dual **NOR** scene, so the diagram draws the essay's actual display. NAND is the dual single-operator basis and is not asserted here because the essay does not display it.
+- **Left to its own sources:** the historical Peirce–Sheffer–Wittgenstein sequence, so no quotation and no priority claim appears here. The legacy brief named the Sheffer stroke (NAND, `p|q`), and the live essay displays the dual **NOR** scene, so the diagram draws the essay's actual display. NAND is the dual single-operator basis and stays out because the essay does not display it.
 - **Boundary, not derivation:** the lower zone states that Boolean functional completeness neither replaces the native First Spanda equation nor generates the QL slash. The slash is not derived in this diagram; the diagram marks where its derivation would have to begin.
 
 ## Essay blocks

@@ -8,7 +8,7 @@ claim_status: Derived
 
 # Music — the `0/1` returned
 
-What the matheme **SOUNDS, COMPUTES, AND KNOWS AS**. File 4 of the Binary Explication ([source house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md)), projecting its own structure. The musical theory is not metaphor — it is the ratio-body of QL. File 4 is the parallel to `ql-musical-derivation-v3` — what that derivation wanted to become — and both are superseded in practice by the actual ql-mef package, whose details centralise into the current work. Music operates here as returned whole and, inside the mytheme, as its sounding engine.
+This folder carries what the matheme *sounds*, *computes* and *knows itself as*. It projects File 4 of the Binary Explication ([source house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md)) with that file's own structure. The musical theory is the ratio-body of QL, and the page treats it as a body of exact relations. File 4 runs parallel to `ql-musical-derivation-v3` and is what that derivation was reaching toward. The actual ql-mef package has superseded both in practice, and its details are centralised in the current work. Music operates here as the returned whole and, inside the mytheme, as its sounding engine.
 
 ## Projected structure (the file's own headings)
 
@@ -20,4 +20,4 @@ What the matheme **SOUNDS, COMPUTES, AND KNOWS AS**. File 4 of the Binary Explic
 - **[field](field.md)** — the 84-fold mode-tonic field; the 144-fold voicing landscape; the Pythagorean comma as aletheic remainder.
 - **[observer-instrument](observer-instrument.md)** — FFT/STFT, CQT, chromagram, cymatic rendering; cadence as return-grammar (V–I = CF5→CF1); the cyclic and telic faces of the closing recognition — the circuit closed to File 1's opening question.
 
-The linked records preserve the load-bearing headings. This register is **vaikharī**-adjacent in its observer sections (documented utterance) while carrying the whole system's return.
+The linked records keep the load-bearing headings. In its observer sections the register is **vaikharī**-adjacent, being documented utterance, while it carries the return of the whole system.

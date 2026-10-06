@@ -1,5 +1,5 @@
 {
-  "source_digest": "bb2535cfc0fa06e27fc92a8aecd682ceee6531a0571c453af1466a90e561dd97",
+  "source_digest": "023cfd2230fa2dbdc7addc93c7ee9c1c16308793ab512df30f53cb075273d84d",
   "builder_version": "1.2.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -10,7 +10,7 @@
       "title-or-alias-only": 265,
       "missing-path": 1,
       "missing-vault-path": 111,
-      "missing-fragment": 1,
+      "missing-fragment": 2,
       "ambiguous-filename": 8
     },
     "admitted": 288,
@@ -23,31 +23,31 @@
   "depth_histogram": {
     "0": 1,
     "1": 64,
-    "2": 817,
-    "3": 202,
+    "2": 803,
+    "3": 216,
     "4": 71
   },
   "max_depth": 4,
   "relation_totals": {
-    "unnamed": 8861,
-    "sources": 1393,
+    "unnamed": 8260,
+    "sources": 1362,
     "sources (declared)": 782,
     "consumed-by (declared)": 299,
-    "returns-to": 178,
+    "returns-to": 263,
+    "grounds": 214,
+    "defines": 169,
+    "extends": 153,
     "returns-to (declared)": 125,
-    "grounds": 84,
-    "qualifies": 79,
-    "extends": 58,
-    "historicises": 51,
-    "defines": 46,
-    "compares": 45,
-    "figures": 35,
-    "tests": 17,
-    "derives": 12,
+    "compares": 114,
+    "qualifies": 106,
+    "historicises": 74,
+    "figures": 53,
+    "derives": 53,
+    "tests": 34,
+    "embodies": 14,
     "sources (declared passage)": 12,
     "companion notes (declared)": 10,
-    "presages": 5,
-    "embodies": 4
+    "presages": 8
   },
   "per_class": {
     "quilt": {
@@ -70,53 +70,53 @@
     },
     "essay": {
       "pages": 1,
-      "links": 51,
-      "named": 9,
-      "unnamed": 42,
+      "links": 13,
+      "named": 1,
+      "unnamed": 12,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "movements": {
       "pages": 48,
-      "links": 477,
-      "named": 157,
-      "unnamed": 320,
+      "links": 479,
+      "named": 160,
+      "unnamed": 319,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1047,
-      "named": 114,
-      "unnamed": 933,
+      "links": 1053,
+      "named": 136,
+      "unnamed": 917,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1481,
-      "named": 193,
-      "unnamed": 1288,
+      "links": 1492,
+      "named": 270,
+      "unnamed": 1222,
       "orphans": 0,
       "no_return": 64,
       "unreachable": 0
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 539,
+      "links": 537,
       "named": 59,
-      "unnamed": 480,
+      "unnamed": 478,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-products": {
       "pages": 8,
-      "links": 79,
-      "named": 13,
+      "links": 80,
+      "named": 14,
       "unnamed": 66,
       "orphans": 0,
       "no_return": 2,
@@ -134,8 +134,8 @@
     "episteme-root": {
       "pages": 1,
       "links": 23,
-      "named": 4,
-      "unnamed": 19,
+      "named": 5,
+      "unnamed": 18,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -169,8 +169,8 @@
     },
     "episteme-etymologies": {
       "pages": 25,
-      "links": 586,
-      "named": 102,
+      "links": 587,
+      "named": 103,
       "unnamed": 484,
       "orphans": 0,
       "no_return": 6,
@@ -187,11 +187,11 @@
     },
     "episteme-histories": {
       "pages": 21,
-      "links": 652,
-      "named": 324,
+      "links": 655,
+      "named": 327,
       "unnamed": 328,
       "orphans": 0,
-      "no_return": 3,
+      "no_return": 2,
       "unreachable": 0
     },
     "episteme-lenses": {
@@ -223,18 +223,18 @@
     },
     "matheme": {
       "pages": 109,
-      "links": 906,
-      "named": 242,
-      "unnamed": 664,
+      "links": 911,
+      "named": 502,
+      "unnamed": 409,
       "orphans": 0,
       "no_return": 13,
       "unreachable": 0
     },
     "mytheme": {
       "pages": 148,
-      "links": 988,
-      "named": 246,
-      "unnamed": 742,
+      "links": 1008,
+      "named": 496,
+      "unnamed": 512,
       "orphans": 0,
       "no_return": 118,
       "unreachable": 0
@@ -392,7 +392,6 @@
     "submission-package/essay/symbolon/episteme/figures/README.md",
     "submission-package/essay/symbolon/episteme/histories/README.md",
     "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md",
-    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md",
     "submission-package/essay/symbolon/episteme/lenses/L0-prime-archetypal-numerical.md",
     "submission-package/essay/symbolon/episteme/lenses/L0-quaternal.md",
     "submission-package/essay/symbolon/episteme/lenses/L1-causal.md",
@@ -765,17 +764,7 @@
     },
     "essay": {
       "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
-      "symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/mathematics/images/liber-abbaci-florence-ms-f124r.jpg": 1,
-      "symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg": 1,
-      "symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg": 1,
-      "symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
-      "symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
-      "symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg": 1,
-      "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg": 1,
-      "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/pollaiuolo-apollo-and-daphne-national-gallery.jpg": 1
+      "symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/spilsbury-1766-europe-dissected-map-jigsaw.jpg": 1
     },
     "movements": {
       "../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
@@ -878,9 +867,9 @@
       "[Argument field](README.md) · [Other face: A01′ — Faithful Definition of the Agent](conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C root]"
     ],
     "episteme-concepts": [
-      "To [define the Subject faithfully](../A01-Subject-God-and-Faithful-Definition.md) is to distinguish the presence to which something is given from the something ",
-      "An account [determines through a cut](C03-Determination.md): it selects, excludes and relates",
-      "Its [fidelity](C02-Faithful-Definition.md) keeps that selection answerable to the person or appearing it concerns."
+      "An account [determines through a cut](C03-Determination.md): it selects, excludes and relates, and its [fidelity](C02-Faithful-Definition.md) keeps that selecti",
+      "An account [determines through a cut](C03-Determination.md): it selects, excludes and relates, and its [fidelity](C02-Faithful-Definition.md) keeps that selecti",
+      "[Selfing and its acquired image](C35-Selfing-Self-Subjectivity-Self-Thing.md) **define** how a life becomes named, remembered and addressable"
     ],
     "episteme-conjugate": [
       "[Argument field](../README.md) · [Other face: A01 — Subject, God and Faithful Definition](../A01-Subject-God-and-Faithful-Definition.md) · [Shared A/C root](AC.",
@@ -888,7 +877,7 @@
       "[Argument field](../README.md) · [Other face: A01 — Subject, God and Faithful Definition](../A01-Subject-God-and-Faithful-Definition.md) · [Shared A/C root](AC."
     ],
     "episteme-products": [
-      "[S — World and Life](S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality the means, World the known, an",
+      "[S — World and Life](S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality (Life / Mind) the means, World",
       "| [S0](S0-Central.md) | **Central — meaningful continuity** | L0 Quaternal × L5′ Divine Logos | [M37 — Central](../../06-objective-internality/movements/37-s5-p",
       "| [S0](S0-Central.md) | **Central — meaningful continuity** | L0 Quaternal × L5′ Divine Logos | [M37 — Central](../../06-objective-internality/movements/37-s5-p"
     ],
@@ -914,7 +903,7 @@
     ],
     "episteme-dossiers": [
       "Return to [Episteme](../README.md).",
-      "This completes the particular image retained by the [Bohm reference](../../../section-rooms/arguments/concepts/reference-notes/david-bohm-implicate-explicate-ho",
+      "This completes the particular image that the [Bohm reference](../../../section-rooms/arguments/concepts/reference-notes/david-bohm-implicate-explicate-holomovem",
       "The [re-entry note](../../../section-rooms/arguments/concepts/reference-notes/re-entry.md) retains the authorial chain distinction → re-entry → oscillation → fr"
     ],
     "episteme-etymologies": [
@@ -948,9 +937,9 @@
       "- [Frank, Gleiser, and Thompson — The Blind Spot (2024)](history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/frank-gleiser-thompson-2024-"
     ],
     "matheme": [
-      "- [[symbolon/matheme/definition/README.md|Definition]] — the 0: what the matheme IS",
-      "- [[symbolon/matheme/process/README.md|Process]] — the /: what the matheme DOES",
-      "- [[symbolon/matheme/quilt/README.md|Quilt]] — the 1: what the matheme MEANS"
+      "- [[symbolon/matheme/definition/README.md|Definition]] — the `0`, what the matheme *is*",
+      "- [[symbolon/matheme/process/README.md|Process]] — the `/`, what the matheme *does*",
+      "- [[symbolon/matheme/quilt/README.md|Quilt]] — the `1`, what the matheme *means*"
     ],
     "mytheme": [
       "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#3` Mytheme",

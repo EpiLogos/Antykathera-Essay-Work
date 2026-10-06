@@ -10,11 +10,7 @@ claim_status: Derived
 
 **Where you are:** [Reading root](../../../README.md) › [#1 Symbolon](../../README.md) › [#4 Episteme](../README.md) › Aphorisms
 
-The Aphorisms register keeps admitted aphoristic writing whole. The retained aphorism,
-[*Investigation and Faith*](investigation-and-faith.md), is the register's entrance; alongside it stand the verbatim site copy blocks
-retrieved from the Nara test site, each with its origin path, retrieval date and review
-lifecycle declared in frontmatter (`lifecycle: bank-unreviewed` until reviewed). Each
-block returns to the [section rooms](../../../section-rooms/README.md).
+The Aphorisms register keeps admitted aphoristic writing whole. Its entrance is the one retained aphorism, [*Investigation and Faith*](investigation-and-faith.md). Beside it stand the site copy blocks that were retrieved verbatim from the Nara test site, and each declares its origin path, its retrieval date and its review lifecycle in frontmatter (`lifecycle: bank-unreviewed` until reviewed). The blocks are Frank's own site writing and are kept word for word, and each returns to the [section rooms](../../../section-rooms/README.md).
 
 ## Retained aphorism
 

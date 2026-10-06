@@ -27,9 +27,9 @@ The field begins from a relation more basic than any local technical or psycholo
 **Subjective Immediacy is the knower — pramātṛ.**  
 **Objective Internality is the means — pramāṇa.**  
 **World is the known — prameya.**  
-**Life / Mind is the whole.**
+**I-Consciousness is the whole.**
 
-Mind in the strong idealist sense is Life: not one private inventory of representations, but the living whole within which knower, means and known become distinguishable at all. Psychic facticity belongs to that whole because whatever its further interpretation, an experience occurs as experience. Objective Internality names the mediating mind-world through which a Life encounters, differentiates and acts within its World.
+Mind in the strong idealist sense is Life: not one private inventory of representations, but the living field within which knower, means and known become distinguishable at all, and it is named here as the Objective Internality of the whole. Psychic facticity belongs to that whole because whatever its further interpretation, an experience occurs as experience. Objective Internality names the mediating mind-world through which a Life encounters, differentiates and acts within its World.
 
 The relation is therefore already reflexive. The means through which the world becomes known can itself become known. A memory can be recalled, an inference inspected, a rule challenged, a permission altered, a tool replaced, a self-image revised. Inspecting those means makes them known within a further act. The first-person condition of that inspection is already active in performing it and remains unobjectifiable. The knower–means–known distinction is not a three-box taxonomy. It is one knowing-act becoming able to recognise how its own distinctions arise.
 
@@ -195,9 +195,7 @@ The mirror makes the reflexive danger visible. A reflection can begin to govern 
 
 The reflection may therefore move first in time while remaining dependent in being. Bimba and pratibimba preserve that order: a reflection can lead the next event without becoming the source of the relation through which it has efficacy.
 
-Power enters here as the administration of the means of world-disclosure.
-
-A permission changes what can be done. A ranking changes what becomes visible. A memory system changes what can return. A model changes what counts as relevant. A workflow changes who may intervene. A platform changes the region in which encounter occurs. These are not merely external uses of neutral technology. They are determinations of Objective Internality.
+Power enters here as the administration of the means of world-disclosure. A permission changes what can be done. A ranking changes what becomes visible. A memory system changes what can return. A model changes what counts as relevant. A workflow changes who may intervene. A platform changes the region in which encounter occurs. These are not merely external uses of neutral technology. They are determinations of Objective Internality.
 
 The historical Power and Antichrist threads therefore belong inside the same argument as epistemology and code. Power names the capture, delegation, monopolisation, apportionment and return of the civilisational means through which worlds are made inhabitable and actionable. Darkness is not an embarrassment to be replaced by generic responsible-technology language. It is the possibility that a local determination occupies the whole, insulates its measure and makes later experience answer only in forms the measure already recognises.
 
@@ -215,7 +213,7 @@ $$
 \frac{0/1}{1/0}.
 $$
 
-The A′ field performs that return technologically. The philosophical operations enter the film knowingly: not as metaphors pasted onto software, but as relations whose technological form can expose, test, distort or deepen what the philosophy means.
+The A′ field performs that return technologically. The philosophical operations enter the film knowingly, as relations whose technological form can expose, test, distort or deepen what the philosophy means, and they are no metaphors pasted onto software.
 
 A faithful conjugate therefore does more than resemble its A face. It must make the generating relation actual enough that an encounter can return through it.
 
@@ -224,7 +222,7 @@ A permission has to alter a real possibility.
 A memory has to condition a later act.  
 A model has to remain revisable by what it models.  
 A delegated authority has to carry responsibility back through the delegation.  
-A shared field has to let another participant's difference reach the conditions which govern the next act.
+A shared field has to let another participant's difference reach the conditions which govern the next act.  
 A return has to reach the condition actually exposed by the encounter: a corrected local result can be inherited under a fitting criterion, while evidence against the criterion must be able to reach the authority which can revise it.
 
 This is where Respect for Experience and the primitive field become visibly the same act. The ruling says that experience must be able to renew form. The grammar says how form, potency, transformation, embodiment and evidence compose the means through which such renewal can occur.

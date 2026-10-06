@@ -19,13 +19,11 @@ source_ids:
 
 ## #0 — The relation acquires two directions
 
-The Spanda equations operate on one sixfold through two readings. The First follows its differentiation and recognition; the Second accounts for the resulting whole. Holding their readings together produces the ratio family that returns through fourth, fifth and whole tone.
+The Spanda equations operate on one sixfold through two readings. The First follows its differentiation and recognition, and the Second accounts for the resulting whole. Holding the two readings together produces the ratio family that returns through fourth, fifth and whole tone, and this is the sense of [the two Spanda operations, §I](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), which **derives** them.
 
-The inputs have distinct offices. In native QL, `0` names the singular One, the unobjectifiable source; `1` names the polyvalent All, the manifest field and its indefinite particulars. The slash relates them. `0/1` directs the One into manifestation; `1/0` directs manifestation toward its condition. [The Two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) retain these offices, and [the whole/many relation](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) holds their whole/many relation. Their reciprocal dependency survives the difference of direction.
+The inputs have distinct offices. In native QL `0` names the singular One, the unobjectifiable source, and `1` names the polyvalent All, the manifest field with its indefinite particulars. The slash relates them: `0/1` directs the One into manifestation, and `1/0` directs manifestation toward its condition. [The Two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) **define** these offices, and [the whole/many relation](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) **grounds** their reciprocal dependency, which survives the difference of direction.
 
-The signs are being operated in QL's ratio-language. In ordinary arithmetic, `0/1` evaluates to zero and `1/0` is undefined; the native orientation `1/0` remains available because its operation here is recognition of the denominator, not numerical division. `0/0` names indeterminacy, and the source's `%` marks its capacity for proportion. `1/1` names achieved self-consistency, whose numerical reading is one whole, or `100%`. Arrows below name changes of operation; they must be followed before the result can be compressed into an identity.
-
-In [the two Spanda operations, §I](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md), the First follows differentiation and recognition, while the Second accounts for the achieved whole. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retain the complete field: the parent slash and return bracket the six determinations through which these equations move.
+The signs are operated in QL's ratio-language. In ordinary arithmetic `0/1` evaluates to zero and `1/0` is undefined, and the native orientation `1/0` stays available because its operation here is recognition of the denominator, and no numerical division is performed. `0/0` names indeterminacy, and the source's `%` marks its capacity for proportion. `1/1` names achieved self-consistency, which reads numerically as one whole, or `100%`. The arrows below name changes of operation, and each has to be followed before the result can be compressed into an identity. [The eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) **ground** the complete field: the parent slash and the return bracket the six determinations through which these equations move.
 
 ## #1 — Indeterminacy becomes expression and recognition
 
@@ -51,13 +49,13 @@ The opening equality reads the bare ground through its self-relation. `0/0` give
 | `1/0 + 0/1` | The directed passages are gathered | The bridge holds expression and recognition in one circuit |
 | `1/1` | The circuit recognises its own unity | The standing whole, numerically readable as `1 = 100%` |
 
-The bridge's `+` gathers orientations in the native operation. Evaluating it as a sum of real fractions would destroy the input `1/0` before the gathering could occur. Its QL result is the standing identity
+The bridge's `+` gathers orientations in the native operation, and evaluating it as a sum of real fractions would destroy the input `1/0` before the gathering could occur. Its QL result is the standing identity
 
 $$
 \frac{0}{1}+\frac{1}{0}=\frac{1}{1}\equiv100\%.
 $$
 
-In [the Binary Explication's inverse-phase accounting, §3′](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md), these two directed passages meet through the bridge into standing unity. The prime here locates the Process file’s inverse-phase section; the Quilt file’s Night-pass primes name a separate sequence. The equation's two track symbols retain the local definitions above.
+In [the Binary Explication's inverse-phase accounting, §3′](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) these two directed passages meet through the bridge into standing unity. The prime here locates the Process file's inverse-phase section, and the Quilt file's Night-pass primes name a separate sequence. The equation's two track symbols keep the local definitions given above.
 
 ## #2 — Six operations, one recognising subject
 
@@ -71,9 +69,9 @@ $$
 
 The partition reads `1–2–3 / 4–5–0`. Its primary sense comes from the subject relation: first-, second- and third-person perspectives unfold in the first three; the second three void their isolation, recognise their unity, and return the one as `0/1`. Thus the count `3:3` is also a recognition reading `3:1`. The second triad performs one recognition in three operations—void, one, `0/1`. Counting its operations still gives three; following what they recognise gives one subject-relation.
 
-This distinction matters to the derivation that follows. The `3:3` remains available as a horizontal count even when its second three are recognised as one act. Substituting `3:1` into a numerical denominator would change the subsequent calculation. The native account holds both readings by retaining the operation through which each was obtained.
+The distinction matters to the derivation that follows. The `3:3` stays available as a horizontal count even when its second three are recognised as one act, and substituting `3:1` into a numerical denominator would change the calculation after it. The native account holds both readings by keeping the operation through which each was obtained.
 
-Emanation/reversion and *bimba/pratibimba* name further readings of this partition. [Manifestation and self-apprehension](../../../section-rooms/arguments/A05-Prakasa-Vimarsa.md) gives this directed relation its Prakāśa/Vimarśa reading; the Śaiva names do not supply the six-stage count. The subject relation already gives the count its movement toward recognition.
+Emanation/reversion and *bimba/pratibimba* name further readings of this partition. [Manifestation and self-apprehension](../../../section-rooms/arguments/A05-Prakasa-Vimarsa.md) **compares** the directed relation with its Prakāśa/Vimarśa reading, and the six-stage count comes from the subject relation, which already gives it a movement toward recognition.
 
 ## #3 — The whole accounts for its constituents
 
@@ -145,7 +143,7 @@ $$
 
 The native directional readings are manifestation `4/3`, recognition `3/4`, grounding `2/3`, and aspiration `3/2`. The [musical derivation](../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md) gives this family its interval operation: fourth and fifth compose the octave. [Scholtz's Pythagorean tuning construction, §3.1](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md#scholtz-1998-algorithms-diatonic-keyboard-tunings-q001) constructs those named intervals within its specified tuning. The historical construction supplies that independent interval warrant; QL supplies the cross-reading that has produced the numbers here.
 
-The two equations now meet in one exact value. The Second's reduced ratio `16/9` is the square of the First-to-Second comparison's `4/3`. Their relation can be worked from either end without suppressing the horizontal traversal or the vertical account.
+The two equations now meet in one exact value, since the Second's reduced ratio `16/9` is the square of the cross-comparison's `4/3`. The relation can be worked from either end with the horizontal traversal and the vertical account both in view.
 
 ## #5→0 — The remainder completes the return
 
@@ -169,8 +167,8 @@ $$
 \frac43\cdot\frac98\cdot\frac43=2.
 $$
 
-The result preserves the very difference through which the octave is reached. QL's account of return names this `9/8` the live remainder carried forward by the cycle. The arithmetic establishes the displayed products; the native return carries that multiplicative remainder into the next relation. [The Spanda accounting](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) receives both equations with their operations retained, while [musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) gives the retained difference its distinct interval and topological renderings.
+The result keeps the very difference through which the octave is reached. QL's account of return names this `9/8` the live remainder that the cycle carries forward. The arithmetic establishes the displayed products, and the native return carries the multiplicative remainder into the next relation. [The Spanda accounting](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) **returns-to** this page for both equations with their operations kept, and [musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) **extends** the retained difference into its distinct interval and topological renderings.
 
-The tuning boundary remains exact. A pure-fifth chain has `(3/2)¹² / 2⁷ = 531441/524288`, the Pythagorean comma; it does not acquire exact twelve-step closure from the octave product above. [Scholtz, §§3.2–4.1](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md#scholtz-1998-algorithms-diatonic-keyboard-tunings-q002) distributes the tuning adjustments needed for that longer return through its temperament account. The native finite identities survive this qualification intact.
+The tuning boundary is exact. A pure-fifth chain has `(3/2)¹² / 2⁷ = 531441/524288`, the Pythagorean comma, and the octave product above gives it no exact twelve-step closure. [Scholtz, §§3.2–4.1](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md#scholtz-1998-algorithms-diatonic-keyboard-tunings-q002) **sources** the tuning adjustments that its temperament account distributes for the longer return. The native finite identities stand as they were.
 
-[Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) carries the achieved determination through its still-active condition: exact determination brings its source relation back into view while keeping its earned precision. Here that precision consists in a recoverable operation at every step—orientation, recognition, partition, ratio, factor count, cross-comparison and interval product. The two equations retain one whole through its differentiating passage and self-accounting, carrying the difference that makes a further [mathematical relation](../README.md) possible.
+[Integral Zero](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) carries the achieved determination through its still-active condition, so that exact determination brings its source relation back into view with its earned precision intact. Here that precision is a recoverable operation at every step: orientation, recognition, partition, ratio, factor count, cross-comparison and interval product. The two equations hold one whole through its differentiating passage and its self-accounting, and they carry the difference that makes a further [mathematical relation](../README.md) possible.

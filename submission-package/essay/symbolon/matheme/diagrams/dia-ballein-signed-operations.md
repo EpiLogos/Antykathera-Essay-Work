@@ -29,7 +29,7 @@ One polar axis, `(−1)/(+1)`, under three operations. The sum `(−1)+(+1)=0` m
 
 ## Proposition
 
-The polar form `(−1)/(+1)` holds two signed units through a common zero. Sum and difference take the same two units to different results: `(−1)+(+1)=0` meets them at the zero and gives a net value, while `(+1)−(−1)=+2` and `(−1)−(+1)=−2` give the whole span in opposite orientations. Appropriation is a further step beyond all three: a result is taken as authority over the relation that made it possible.
+The polar form `(−1)/(+1)` holds two signed units through a common zero. Sum and difference take the same two units to different results. `(−1)+(+1)=0` meets them at the zero and gives a net value, while `(+1)−(−1)=+2` and `(−1)−(+1)=−2` give the whole span in opposite orientations, each charged from the pole that measures it. Appropriation is a further step beyond all three: a result is taken as authority over the relation that made it possible. Held at `±2`, the polarity is hardened into opposition, where `(−1)/(+1)` keeps it oscillating, and the two signs mirror one reckoning, since one party's `+2` is the other's `−2`.
 
 ## Inputs
 
@@ -39,7 +39,7 @@ $$(-1)+(+1)=0,\qquad (-1)-(+1)=-2,\qquad (+1)-(-1)=+2.$$
 
 ## Transformations
 
-Held polarity keeps both poles on the axis. The sum cancels them to a net value. The difference, taken from either pole, measures the span from that endpoint and orients it towards the other. The two differences are mirror images.
+Held polarity keeps both poles on the axis. The sum cancels them to a net value. The difference, taken from either pole, measures the span from that endpoint and orients it towards the other, so the two differences are mirror images of one span.
 
 ## Invariant
 

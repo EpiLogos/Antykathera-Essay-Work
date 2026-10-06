@@ -261,4 +261,49 @@ Each helper received A1–A4, the protocol list, and its own order below. All po
 
 # Part B — results
 
-*(Written after the helpers returned.)*
+*(Written 2026-10-06, after the 5 October helper run stopped on a session limit and the work was finished and checked in one session. Per-section detail is in each folder's `README.md`, `DEBTS.md` and `REWORK-LOG.md`.)*
+
+## B1. Where each section stands
+
+| Section | Folder | Words incl. notes and sources (`SECTION.md`) | Independent check |
+|---|---|---|---|
+| §0 Differentiating Mind | `01-differentiating-mind/` | 28,169 | Sonnet read, applied |
+| §1 The Return of Zero | `02-return-of-zero/` | 25,951 | Sonnet read, applied |
+| §2 Two Logics of Two | `03-two-logics/` | 28,787 | Sonnet read (after two blocked attempts), applied; a few items logged in DEBTS |
+| §3 Mathematical Substrate | `04-mathematical-substrate/` | 28,267 | Sonnet read, applied |
+| §4 Psychoid Flowering | `05-psychoid-flowering/` | 32,616 | Sonnet read, applied |
+| §5 Objective Internality | `06-objective-internality/` | 26,868 | Sonnet read, applied (one item open, B4) |
+| §5→0 Epi-Logos and 4:2 Technē | `07-instrument-returns/` | 26,277 | Sonnet read, applied; Moffatt v. Air Canada still needs a house (B4) |
+
+Body words per section, before notes and sources: 23,149; 20,747; 24,033; 24,151; 27,610; 22,643; 22,575. "The…" sentence openings run 1–15% across movements (the finished §0/1 runs 9–16%).
+
+## B2. Sources and houses
+
+- §1: Maya zero (Morley cards q001–q003), Colebrooke cards q001–q013 with corrected locators (Kṛṣṇa's gloss at p. 19 n. 1), Seron and Fayol 1994 and Singh and Strouse 2024 verified, al-Khwārizmī's Latin and Leonardo's Latin checked against the notes.
+- §2: Jung, CW 7 ¶33, ¶78, ¶111, ¶112 verified against the local PDF; the Maya "ended or closed" passage carded at `s2-morley-end`.
+- §3: houses created for Sheffer (extended), Kaprekar 1949 and 1955, O'Connor and Robertson on Kaprekar, Siderits and Westerhoff on Priest, Carlström on wheels, Nielsen and Chuang, Hamilton 1844, Stillwell, IPP and CEA on the tokamak, Moebs et al., Chladni 1787, Spinoza (Elwes), LSJ ἀρχή (extended). Belnap 1977 is cited without a house and without the chapter read.
+- §5: houses for the seven product repositories at pinned commits, Palantir S-1, NHS England FDP pages, Palantir documentation, Hashimoto, Agent Skills, Pydantic, DeepSeek-R1, White House and PRC action plans, CDAO; Bratton Agentworld cards extended (q053–q059).
+
+## B3. Cross-check
+
+- Every "§0/1 · #n" pointer in §2, §3, §4, §5 and §5→0 was checked against `CONFRONTING-THE-LIMIT-S01.md` by line. Errors found and fixed: §1 #3 (first occlusion at #3 not #4), §5→0 #2 (Gelassenheit at #3 not #4), §2 README (Indra's net listing). Cross-section landing points were confirmed: §3 · #0 (gauge), §5 · #1 (Bradley–Terry), §4 · #3 (Descartes, anusyūta), §4 · #4 (Nietzsche, Daphne), §5 · #0 (paradeigma), §4 · #0 (Freud), §3 · #1 (2⁶), §0 · #3 (Indra).
+- Ownership (A1) honoured: Indra's net, Descartes, Hume, Nietzsche, Daphne and *The Prisoner* do not appear in §5; the closing station recap is at §5→0 · #5→0 only (the §3 and §4 recaps were cut); paradigm is developed at §5 · #0 only.
+- Closing cadences of the form "the line between derivation and reading runs as follows" are gone from §3; statuses sit in the sentence where the claim is made.
+
+## B4. Open
+
+- §5→0 #1: *Moffatt v. Air Canada* has no source house and its decision text could not be reached; most of its quotations and paragraph numbers are unverified (see `07-instrument-returns/DEBTS.md`).
+- §5 #1–#5→0: the checker's smaller items (template repetition across products, repository claims without passage cards, proposal numbering) are logged in `06-objective-internality/DEBTS.md`.
+- Passage cards and collation: Neumann pages, Gebser on Delphi, Aion ¶¶418–27, Belnap, Priest 2018 (Jizang, Dōgen via reviews), the processual chain at §3 · #4, product-repository quotations.
+- Unit tests: `test_pre_manuscript_gate`, `test_publication_architecture` and `test_skill_contracts` pass; the full `tests/` suite did not finish in this session (it ran for many minutes without output), so it has not been run end to end.
+
+## B5. Decisions for Frank
+
+1. **Lens alignment.** §0/1 · #5→0 and §5's tables align the lenses by sublens index; the lens records and §3 · #5→0's translation table align them by the pair of faces. Both are now stated in §3, §4 and §5. Choose which one "the same office" means.
+2. **3-4-5 and `i²`** (§3 · #2): stated as argued, as the core theorems call it "the same structural fact"; say if it should be Derived.
+3. **§5 #3**: keep or cut the Palantir/NHS paragraph; it now states NHS England's ownership of the data ontology beside Palantir's retained IP.
+4. **§5 #3** phrase "a harness before the harness" has no canon home.
+5. **§4** *Besorge* versus *Sorge* (D4) and whether the Polylogos lexicon opening of #5→0 suits the section.
+6. **§1** debts listed in `02-return-of-zero/DEBTS.md`, including the Jung synchronicity paragraph number.
+7. **§2** whether *counterfeit symbolon* stays or folds into *counterfeit gathering*, and the constructed harness case at #2.
+

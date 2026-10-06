@@ -110,7 +110,7 @@ A paradigm normally recedes behind the determinations it makes possible. Paradox
 
 A paradigm shift is therefore a transformation of `/`, not merely the substitution of one `1` for another.
 
-The two logics govern the possible response. The break can be cancelled into `0`; one pole can appropriate the span into `±2`; or the break can be retained long enough for the containing relation to transform. In the native return passage, the materialist `1` encounters `/0` first as `1/0`: break before recognition. Retaining the break preserves `/0`; that retention under the one opens `0/1`, completed as `(0/1)/(1/0)`.
+The two logics govern the possible response. The break can be cancelled into `0`, as `(−1)+(+1)=0`; one pole can appropriate the span, `(+1)−(−1)=+2` for the pole that takes it and `(−1)−(+1)=−2` for the pole it is taken from, which is a duality hardened into opposition; or the break can be retained long enough for the containing relation to transform. In the native return passage, the materialist `1` encounters `/0` first as `1/0`: break before recognition. Retaining the break preserves `/0`; that retention under the one opens `0/1`, completed as `(0/1)/(1/0)`.
 
 **Paradigms live by their capacity to metabolise paradox.** A paradigm which can only suppress or appropriate the contradiction becomes rigid; a transformed containing field preserves the local truths whose collision required its change.
 

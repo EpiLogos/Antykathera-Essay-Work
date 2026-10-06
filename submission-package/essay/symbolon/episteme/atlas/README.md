@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # Historical routes through Etymology
 
-Each entrance retains the mature field’s exact operation and the independent historical evidence. The protected learning history and its developed companion share one historical identity. A comparison is not evidence of transmission. The [Mytheme geography](../../mytheme/atlas/geography/README.md) and [Mytheme temporality](../../mytheme/atlas/temporality/README.md) routes expose the corresponding tellings without copying their bodies or their source records.
+Each entrance keeps the mature field's exact operation together with the independent historical evidence for it. The protected learning history and its developed companion share one historical identity. A comparison placed here is a juxtaposition, and a claim of transmission needs evidence of its own. The [Mytheme geography](../../mytheme/atlas/geography/README.md) and [Mytheme temporality](../../mytheme/atlas/temporality/README.md) routes expose the corresponding tellings and leave their bodies and source records where they are.
 
 | Historical carrier | E-field branch | Operation |
 |---|---|---|
@@ -23,4 +23,4 @@ Each entrance retains the mature field’s exact operation and the independent h
 | [technology politics](../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md) · [learning history](../histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md) | [E6-labour](../etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy.md) | Delegated labour distributes capacity and return; Trace classification, evaluation and delegated action as institutions distributing real capability and consequence. |
 | [zero subject advent](../histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md) · [learning history](../histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md) | [E4-symbol](../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md) | Symbol answers to source; Hold mathematical zero and the historical admission of subject/unconscious as two histories joined by the essay's exact authorial operation. |
 
-The [relational growth law](../etymologies/RELATIONAL-FORM-GROWTH.md) **defines** the return from achieved historical whole to a new relational participant. The [A/C/E reciprocity index](../etymologies/T09-A-C-E-RECIPROCITY-INDEX.md) locates declared consumers; actual consumer prose and reciprocal routes remain in those carriers.
+The [relational growth law](../etymologies/RELATIONAL-FORM-GROWTH.md) **defines** the return from an achieved historical whole to a new relational participant, which is the movement each route above follows. The [A/C/E reciprocity index](../etymologies/T09-A-C-E-RECIPROCITY-INDEX.md) locates the declared consumers, and the consumer prose and reciprocal routes themselves are in those carriers.

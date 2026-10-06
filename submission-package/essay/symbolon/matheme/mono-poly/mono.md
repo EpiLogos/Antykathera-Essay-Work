@@ -11,15 +11,15 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — Recover the common subject
 
-The equation is the single subject carried by the four Binary Explication files. Definition derives its terms, process unfolds its directions, quilt lets the operation recur through distinct materials, and music gives the ratio body time and vibration. The [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) and [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) govern this field of notations.
+The equation is the single subject that the four Binary Explication files carry. Definition derives its terms, process unfolds its directions, quilt lets the operation recur through different materials, and music gives the ratio body time and vibration. The [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) and the [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **source** this field of notations.
 
-Mono names what each notation is a notation *of*: `0/1` and its self-articulation. [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) states whole-first as structural dependence. No notation creates all the conditions under which it can signify.
+Mono names what each notation is a notation *of*, which is `0/1` and its self-articulation. [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) **grounds** the whole-first order as structural dependence: no notation creates all the conditions under which it can signify, so each one depends on the whole it notates.
 
 ## #1 — Keep unity relational
 
 A numeral, slash-form, ratio, positional address and musical pitch can each make a determination exact under stated rules. Their common field is not obtained merely by placing the signs in one list. The relation has to be recovered through the operations that let the signs transform and return.
 
-The inclusive aspect of Mono retains every real particular within one reality. Its generative aspect concerns the relational condition through which particulars appear. These aspects coexist without turning the whole into an object owned by an external knower. The notation `0` names that source-office; it is not the set-theoretic empty set, which has its own exact formal construction.
+Mono has an inclusive aspect, which keeps every real particular inside one reality, and a generative aspect, which concerns the relational condition through which particulars appear. The two coexist, and the whole is no object owned by an external knower. The notation `0` names that source-office, and the set-theoretic empty set is a different object with its own exact formal construction.
 
 ## #2 — Carry one subject through four operations
 
@@ -27,7 +27,7 @@ The definition chain is `0/1=4+2=5→0=0/1`. Process makes the inverse phase exp
 
 `0/1=4+2=5→0=1/0=4′+2′=5′→0′=0/1`.
 
-Quilt retains the short chain in its cross-register enactment; music carries the full chain. The difference is an operation of the four-file circuit. It is lost if every file is normalised to whichever chain happens to be read first.
+Quilt keeps the short chain in its cross-register enactment, and music carries the full chain. The difference between them is an operation of the four-file circuit, and normalising every file to whichever chain is read first would lose it.
 
 ## #3 — Work the Becoming relation
 
@@ -43,6 +43,6 @@ The failure named monoisation occurs when a local representation claims the sour
 
 ## #5→0 — Return the one through the many
 
-The result is one field whose unity remains active in distinct expressions. [Poly](poly.md) inventories the offices rather than reducing them to synonyms; [translations](translations.md) establish local correspondences and their limits. File 2's inverse-phase primes remain distinct from File 3's Night-pass primes even within the one circuit.
+The result is one field whose unity stays active in its different expressions. [Poly](poly.md) inventories the offices and reduces none of them to a synonym, and [translations](translations.md) establish the local correspondences with their limits. File 2's inverse-phase primes stay distinct from File 3's Night-pass primes inside the one circuit.
 
-This record returns-to [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md), and the [root Mono/Poly](../../mono-poly.md). The whole can be made locally available through an exact notation without being possessed by it.
+This record **returns-to** [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [C50](../../../section-rooms/arguments/concepts/C50-Dia-Syn.md) and the [root Mono/Poly](../../mono-poly.md). The whole can be made locally available through an exact notation, and the notation never possesses it.

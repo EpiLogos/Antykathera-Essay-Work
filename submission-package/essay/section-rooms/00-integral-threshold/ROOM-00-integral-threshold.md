@@ -32,9 +32,9 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Incoming pressure:** the opening question
 
-**Earned position (Argued):** Planetary systems can model and act while displacing the subject for whom distinctions matter.
+**Earned position (Argued):** "Who knows?" is answered by pointing to someone, a name, a face, a person whose knowledge we can credit or blame. "What knows?" asks what is doing the knowing in anyone at all, and pointing cannot answer it, because whatever we point to by sign immediately becomes something known.
 
-**Why this move:** Antikythera Agentworld Brief turns agency into a context-bound problem and intensifies the question: an artificial agent cannot be understood solely as an object executing instructions; it inhabits a constructed context-world in which distinctions matter, actions alter future distinctions, and evaluation is internal to a horizon.
+**Why this move:** The case is told first through the human bedside.
 
 **Carry-forward:** an instrument panel whose readings depend upon an observer, a situation, and a horizon that the panel does not display.
 
@@ -44,9 +44,9 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Incoming pressure:** [§0/1 #0 · The Question Before the Mechanism](movements/01-s01-p0-question-before-mechanism.md)
 
-**Earned position (Argued):** The subject is the non-objectifiable pole of a differentiating event: the opening through which a determinate world is given.
+**Earned position (Argued):** The Subject is the non-objectifiable pole of a differentiating event: the opening through which a determinate world is given.
 
-**Why this move:** The ordinary sentence **“I see the world”** already contains more than the apparent pair *I / world*.
+**Why this move:** Identification begins in counting.
 
 **Carry-forward:** knower — means — known; the later slash will carry the work presently done by *pramāṇa*, but no QL notation is required yet.
 
@@ -56,11 +56,11 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Incoming pressure:** [§0/1 #1 · Define the Subject Without Making It an Object](movements/02-s01-p1-define-subject.md)
 
-**Earned position (Argued):** Determination is negational and productive: it gives a knowable object by distinguishing it from what it is not, yet becomes dangerous when the achieved term forgets the field and activity from which it was cut.
+**Earned position (Argued):** Determination is negational and productive.
 
-**Why this move:** Apoha gives the semantic articulation: a word determines through exclusion of other referents.
+**Why this move:** The language of knowing already carries the predicament.
 
-**Carry-forward:** The cut’s gift and danger return to E2’s criterion through distinction: Criterion distinguishes, Delineation gives that difference a workable boundary, and Arbitration decides through it.
+**Carry-forward:** The cut's gift and danger return to E2's criterion through distinction.
 
 **Open:** [movement](movements/03-s01-p2-definition-cut-gift-danger.md) · canonical route: [A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md), [A03 — Immutable Gap / Formal Limit](../arguments/A03-Immutable-Gap-Formal-Limit.md), [A08 — Apoha / Constitutive Exclusion](../arguments/A08-Apoha-Constitutive-Exclusion.md), [A24 — Arbitration and the Usurpation of Measure](../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md), [C02](../arguments/concepts/C02-Faithful-Definition.md), [C03](../arguments/concepts/C03-Determination.md), [C04](../arguments/concepts/C04-Formal-Limit.md), [C18](../arguments/concepts/C18-Apoha.md), [C27](../arguments/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) · sources: [pind-2009-dignaga-anyapoha-dissertation](../../symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/pind-2009-dignaga-anyapoha-dissertation.md), [spinoza-1674-letter-50-jelles](../../symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/spinoza-1674-letter-50-jelles.md)
 
@@ -70,7 +70,7 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Earned position (Argued):** A sufficiently articulate system cannot convert every condition of its articulation into an ordinary internal term without remainder.
 
-**Why this move:** Russell restrict paradoxical re-entry; Gödel proves scoped internal limits; Wittgenstein reaches silence and practice; Whitehead makes non-closure creative; Spencer-Brown and Varela admit re-entry; The Blind Spot — Frank, Gleiser, Thompson restores the experiencer.
+**Why this move:** The case begins with Whitehead and Russell's *Principia*, which tried to make the grounds of mathematics as explicit as its proofs.
 
 **Carry-forward:** E3’s fides before arbitration gives the enquiry its prior reliance and its subsequent renewed entrustment: formal investigation already undertakes a practice before it can arbitrate its results.
 
@@ -80,9 +80,9 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Incoming pressure:** [§0/1 #3 · The Formal-Limit Genealogy](movements/04-s01-p3-formal-limit-genealogy.md)
 
-**Earned position (Argued):** Integral reason is the higher mutation in which the mental-rational structure becomes transparent to origin, limit, and co-presence with other structures.
+**Earned position (Argued):** Integral reason is the higher mutation in which the mental-rational structure becomes transparent to origin, limit and co-presence with other structures.
 
-**Why this move:** Jean Gebser enters through the historical medium by which he makes his claim.
+**Why this move:** To paint a room in perspective, an artist first decides where it is seen from, and every other decision follows: the far wall shrinks in proportion to its distance, the floor's edges converge on a point on the horizon, and every line runs toward the vanishing point, an empty place that organises the whole count of the scene.
 
 **Carry-forward:** light refracted without losing the prism; the prism becomes visible in the colour it makes possible.
 
@@ -92,9 +92,9 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Incoming pressure:** [§0/1 #4 · Gebserian Diaphaneity](movements/05-s01-p4-gebser-diaphaneity.md)
 
-**Earned position (Offered):** Zero first enters as a promissory meta-sign for the condition a system cannot count as one more object.
+**Earned position (Offered):** Zero first enters as a promissory meta-sign for the condition a system cannot count as one more object, and the first notation it earns is `0/1`.
 
-**Why this move:** The formal-limit sequence has established a recurrent remainder without yet claiming that mathematical zero, emptiness, consciousness, and subjectivity are identical.
+**Why this move:** Artificial intelligence has made the unity of number and meaning a working fact: a process made of arithmetic over learned numbers reconstructs enough linguistic and conceptual intelligence to enter an argument, and the Transformer's attention, in which every position compares a query with every key and mixes values by softmax weights, makes context itself a calculation.
 
 **Carry-forward:** `0` marks the condition under which counting occurs, while every counted item occupies the position of `1`.
 

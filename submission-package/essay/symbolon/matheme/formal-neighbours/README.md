@@ -8,9 +8,9 @@ domain: formal-neighbours
 
 # Formal Neighbours
 
-Formal Neighbours houses exact comparisons between QL and independent mathematical or logical constructions. The field includes zero arithmetic, empty-set generation, division by zero, incompleteness, Spencer-Brown's mark and re-entry, iterants, complex and projective extension, compactification, paraconsistent logics, tetralemmatic form, calculus, quaternionic rotation and qubit state space.
+Formal Neighbours houses exact comparisons between QL and independent mathematical or logical constructions: zero arithmetic, empty-set generation, division by zero, incompleteness, Spencer-Brown's mark and re-entry, iterants, complex and projective extension, compactification, paraconsistent logics, tetralemmatic form, calculus, quaternionic rotation and qubit state space.
 
-Each record begins from the external construction on its own terms. It then names the common operation, the difference in axioms or objects, and the limited consequence for the essay. Proximity never becomes historical identity or proof of QL.
+Each record starts from the external construction on its own terms. It then names the operation the construction shares with QL, the difference in axioms or objects, and the consequence the comparison licenses for the essay. A neighbour shows that QL's operation recurs in a stated form elsewhere. It is no historical lineage and no proof of QL, and each record says where the agreement stops.
 
 Source history and attribution live in [[symbolon/episteme/sources/README.md|Sources]] and [[symbolon/episteme/histories/README.md|Histories]].
 

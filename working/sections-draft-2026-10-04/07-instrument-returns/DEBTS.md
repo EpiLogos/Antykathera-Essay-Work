@@ -54,3 +54,30 @@ Note numbers refer to the global numbering in `SECTION.md` and the movement file
 - M03's "wooden case small enough to hold" for the mechanism: widely reported, not carded.
 - M04's "the poly of *polys* is many, but the poly of *monopoly* is *pōlein*": carried from §0/1, whose note supports it.
 - M06's statement that the chromatic number of the torus is 7 (Heawood / Szilassi): from the core theorems file; it needs a public mathematical source if kept.
+
+## Rework addendum, 2026-10-06
+
+- **#2.** The pointer for Heidegger's *Gelassenheit* now reads §0/1 · #3 (line 410 of the finished §0/1). The Atlas retelling and its Jorjani note were cut to a clause pointing to §3. The Freeth et al. quotations (2021 *Scientific Reports*, pp. 2 and 12) were taken from the earlier helper's transcription and were not re-collated this pass; the Nature 2006 DOI in the first note reads `10.1038/nature05357`.
+- **#3.** The report *Sovereign Commons Architecture* (4:2 Technè, version 2.0, February 2026) stays cited as an unpublished report. The phrase "a project affiliated with this essay" is gone; Frank must still decide the report's authorship and status line (receipt F, item 61). Ostrom's Nobel lecture page numbers (422–23) and the UNESCO page are as the earlier helper recorded them.
+- **#4.** "The Other can be within Mono without being within me" is quoted here once, from §0/1 · #5→0; elsewhere it is named only. Berkeley's *Three Dialogues* (Wilkins edition, 2002) is cited as before.
+- **#5→0.** The *khahara* and Colebrooke quotations were removed; the movement points to §1 · #1. *The Definition of God* is cited as an unpublished manuscript in Frank's name; section titles are as the earlier helper recorded them.
+- The Jung quotation that could not be found does not appear in any movement.
+
+## Addendum — 2026-10-06 (after the independent check)
+
+| Where | Item | What is owed |
+|---|---|---|
+| M02, notes `s50-moffatt-*` | *Moffatt v. Air Canada*, 2024 BCCRT 149 | No source house. Two quoted sentences are confirmed through secondary coverage; the decision itself (CanLII, the CRT site) could not be reached, so the other quotations, the amounts and paragraphs 13–15, 16–22, 27, 28, 31 and 44 are unverified. Create a house with exact transcription and paragraph cards. |
+| M04 lines 25–29 | *Sovereign Commons Architecture* report | The house cards hold only local/remote routing and owner, group and sandboxed sessions. The tiers, opt-in token, three-level governance, burst compute and the phase-4 reputation-weighted voting are confirmed against the .docx but not carded. The consent step and "keeps a conclusion distinct from its warrant" are now stated as the essay's reading. |
+| M04 | 4:2 Technè's relation to the essay | The house calls it an "affiliated project arm"; the text presents it as an outside architecture. Frank decides whether the text states the relationship (receipt item 61). |
+| M01 line 30 | Perrigo / Sama | The card was filled from a summarising fetch, wording not transcribed; add the transcription and Sama's and OpenAI's stated positions. |
+| M01 line 40 | Hardy, "defeated me completely" | Not in the Hardy card; begin the quotation at "I had never seen" or card p. 9. |
+| M01 line 34 | Chang, the Nishida passage | Check whether the print page falls in chapter 20 or the preceding commentary. |
+| M05 line 35 | Kastrup on the boundary of a distinct experient; Kastrup 2022 essay | Now "as I read him"; add a house and a note. |
+| M03 line 27 | *Symposium*, "a symbolon of a human being" | Frank's rendering; mark "my translation" or take a fixed translation. |
+| M04 line 13 | Valencia tribunal, "each represents one of the irrigation channels" | UNESCO says eight administrators "from nine communities"; settle from Ostrom, chap. 3. |
+| M01 line 20; M05 `s50-114` | Latin etymology note missing; Job note covers 31:13–15, 35–37 but the oath runs to 31:16–23 and 32 | Add and widen. |
+| Whole section | Houses still missing: Hardin, Ostrom's *Governing the Commons*, UNESCO, Price, Espenak, Kastrup 2022, the *Symposium*, Freeth 2006 main-text cards | The older entries for Chesterton, Shumailov, Perrigo, Hardy, LSJ and Od. 5.248 are closed. |
+| M03–M06 | The section title and the movement-field format | Section title now matches A2.2; the movement field still varies ("M44" against "M45 · #2"). |
+
+Applied from the check: the Moffatt ruling is no longer said to concern commissions, the routing and consent claims moved to the essay's own reading, the re-bolds of terms owned elsewhere are gone, the duplicate Bratton quotations are paraphrased with pointers to their owners, the harmonia etymology is a clause, the status words are unbolded, the bed-eleven case is marked constructed, and the pointers to the Atlas (#4), to §5 · #5→0 for the corridor, and to faith (#2 and #3) are corrected.

@@ -8,11 +8,11 @@ domain: ql
 
 # QL
 
-This domain carries Frank's native theorem-language: the root relation `0/1`, its obverse `1/0`, the slash as differentiating activity, the complete determination field, inversion, return and the compressed QL identities earned from those operations.
+This domain carries Frank's native theorem-language. It holds the root relation `0/1` and its obverse `1/0`, the slash as differentiating activity, the complete determination field, inversion, return, and the compressed QL identities earned from those operations.
 
-Records here preserve the order of derivation. They distinguish a determination's sign, position and operation; track the Day and Night orientations where active; and show how a local formula belongs to the whole field. `X/x` remains QL notation: `x` is the indefinite particular, while the relation also opens musical, narrative, psychic and ontological refractions elsewhere in the vault.
+The records keep the order of derivation. Each distinguishes a determination's sign, its position and its operation, tracks the Day and Night orientations where they are active, and shows how a local formula belongs to the whole field. `X/x` is QL notation, in which `x` is the indefinite particular, and the same relation also opens musical, narrative, psychic and ontological refractions elsewhere in the vault.
 
-The direct Symbolon records state the whole relation. QL records supply their formal anatomy, intermediate steps and transformations.
+The direct Symbolon records state the whole relation, and the QL records supply its formal anatomy, its intermediate steps and its transformations.
 
 ## Records
 

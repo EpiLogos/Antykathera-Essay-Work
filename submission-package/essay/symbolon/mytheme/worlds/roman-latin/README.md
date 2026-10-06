@@ -8,7 +8,7 @@ authority: non-governing navigation
 
 # Roman Latin tellings
 
-Ovid and Apuleius supply different Latin works. Daphne’s pursuit and Psyche’s journey retain their own narrated places; a Greek divine cast does not change the selected Latin source. Miller’s Ovid and Purser’s Apuleius are modern carriers of ancient works; their edition dates do not date the narrated events.
+Ovid and Apuleius wrote different Latin works. Daphne’s pursuit and Psyche’s journey keep their own narrated places, and a Greek divine cast does not change the selected Latin source. Miller’s Ovid and Purser’s Apuleius are modern carriers of ancient works, and their edition dates do not date the narrated events.
 
 The [geographical route](../../atlas/geography/README.md) and [temporal route](../../atlas/temporality/README.md) **returns-to** these same wholes.
 

@@ -17,14 +17,7 @@ source_relation: "Argued reciprocal world-constitution; source-specific comparis
 
 Objective Internality names the mediating world through which a Life perceives, remembers, judges and acts. Objective Co-Internality begins when the products and actions of another interior become part of those mediating conditions.
 
-A statement changes another person's next question.  
-A source correction changes what a later account can cite.  
-A promise changes what another can expect.  
-A permission changes what another can do.  
-A tool changes the available action-space.  
-A refusal changes the terms under which an encounter can continue.
-
-These are not exchanges between already completed interiors. They are cases in which relation enters constitution.
+A statement changes another person's next question, a source correction changes what a later account can cite, and a promise changes what another can expect. A permission changes what another can do, a tool changes the available action-space, and a refusal changes the terms under which an encounter can continue. None of these is an exchange between already completed interiors: in each, relation enters constitution.
 
 **Objective Co-Internality is reciprocal world-constitution among non-identical interiors.**
 

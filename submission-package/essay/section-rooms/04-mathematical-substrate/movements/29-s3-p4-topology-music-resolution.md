@@ -43,7 +43,7 @@ $$
 
 Within the classification of closed connected orientable surfaces, `χ=0` corresponds to genus one. The fundamental group records the two independent winding directions and their integral combinations. These are ordinary topological facts with their own standing.
 
-The covering projection `π: ℝ² → T²` gives the operation that matters most to the essay. A loop that closes on the torus can lift to a path whose endpoint differs from its start by an integer vector `(m,n)` on the covering plane. **Local closure and retained global displacement therefore coexist exactly.** Rational-slope linear flows can be periodic; irrational-slope flows can wind densely. Return need not mean retracing or erasing the passage.
+The covering projection `π: ℝ² → T²` gives the operation that matters most to the essay. A loop that closes on the torus can lift to a path whose endpoint differs from its start by an integer vector `(m,n)` on the covering plane. **Local closure and retained global displacement therefore coexist exactly.** Rational-slope linear flows can be periodic; irrational-slope flows can wind densely. Return in this sense keeps the passage: the path comes home carrying its winding.
 
 <!-- figure:torus-path-winding-and-return -->
 
@@ -53,9 +53,9 @@ The covering projection `π: ℝ² → T²` gives the operation that matters mos
 
 <!-- /figure:torus-path-winding-and-return -->
 
-The usual polygon presentation of an orientable genus-`g` surface uses `4g` boundary sides before identification and `2g` fundamental generators. At `g=1` this gives the suggestive count `4+2`. QL adopts that as an **Offered structural correspondence**. Its mathematical office is the exact genus-one presentation; the native binary self-relation remains the derivation of the QL sixfold.
+The usual polygon presentation of an orientable genus-`g` surface uses `4g` boundary sides before identification and `2g` fundamental generators. At `g=1` this gives the suggestive count `4+2`. QL adopts that as an **Offered structural correspondence**. The mathematical office of the correspondence is the exact genus-one presentation, and the derivation of the QL sixfold stays with the native binary self-relation.
 
-The same discipline governs the authorial `∞/0` reading. The infinite covering plane and compact quotient provide an exact relation between infinitely many representatives and determinate points on a zero-Euler-characteristic surface. The essay appoints this as the canonical topological carrier of `∞/0`; that appointment is its own interpretive use of the exact cover/quotient relation.
+The authorial `∞/0` reading takes the same form. The infinite covering plane and the compact quotient give an exact relation between infinitely many representatives and determinate points on a surface of Euler characteristic zero, and the essay appoints this as the canonical topological carrier of `∞/0`, an interpretive use of the exact cover/quotient relation that is its own.
 
 ## Magnetic confinement — a physical witness with its own laws
 
@@ -69,7 +69,7 @@ The same discipline governs the authorial `∞/0` reading. The infinite covering
 
 <!-- /figure:tokamak-chamber-and-magnetic-fields-schematic -->
 
-The physical claim is exact and bounded: **organised circulation on a toroidal geometry can make sustained confinement possible under specified physical dynamics**. The essay receives that operation as a physical articulation of retained circulation. Other stable processes may have other geometries, and metaphysical generativity remains the authorial interpretation of the wider field rather than a theorem of plasma physics.
+The physical claim is exact and bounded: **organised circulation on a toroidal geometry can make sustained confinement possible under specified physical dynamics**. The essay receives that operation as a physical articulation of retained circulation, and the metaphysical generativity of the wider field is the authorial interpretation laid beside plasma physics.
 
 ## Numerical and trigonometric neighbours
 
@@ -85,7 +85,7 @@ $$
 0+1+2+3=6,\qquad 0\cdot1\cdot2\cdot3=0,\qquad 6\equiv0\pmod6.
 $$
 
-Likewise the `3–4–5` right triangle satisfies `3²+4²=5²`, has area `6` and perimeter `12`. Standard trigonometry commonly presents six named functions, with sine/cosine primary and the others defined by reciprocals or quotients. These are genuine facts. Their arrangement as a QL `2+4` family or a sixfold symbolic plate is **Offered mathematical amplification**. The plate earns its place where the generating operations remain visible beside the numerical resonance.
+Likewise the `3–4–5` right triangle satisfies `3²+4²=5²`, has area `6` and perimeter `12`. Standard trigonometry commonly presents six named functions, with sine/cosine primary and the others defined by reciprocals or quotients. These are genuine facts, and their arrangement as a QL `2+4` family or a sixfold symbolic plate is **Offered mathematical amplification**. A plate earns its place where the generating operations stay visible beside the numerical resonance.
 
 ## Musical resolution — exact intervals, interpreted return
 
@@ -99,7 +99,7 @@ $$
 \frac{16}{9}\cdot\frac98=\frac21.
 $$
 
-In standard just/Pythagorean ratio language, `4/3` and `3/2` name fourth and fifth relations and `2/1` the octave; `9/8` is a whole-tone ratio in the relevant tuning context. QL reads the selected `16/9` span as an incomplete return whose exact complement to the octave is `9/8`. The arithmetic establishes the factor; **remainder, cadence and return** name the essay's interpretation of that exact relation.
+In standard just/Pythagorean ratio language, `4/3` and `3/2` name fourth and fifth relations and `2/1` the octave; `9/8` is a whole-tone ratio in the relevant tuning context. QL reads the selected `16/9` span as an incomplete return whose exact complement to the octave is `9/8`. The arithmetic establishes the factor, and **remainder, cadence and return** name the essay's interpretation of that exact relation: the system reaches octave return through, rather than by eliminating, its remainder.
 
 <!-- see-figure:gaffurio-1492-pythagoras-and-the-ratios -->*See also Image 9, [Gaffurius, Pythagoras and the ratios](../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md).*<!-- /see-figure:gaffurio-1492-pythagoras-and-the-ratios -->
 
@@ -115,14 +115,9 @@ Music is powerful here because relation is perceptually primary. A pitch can be 
 
 ## Warrant — space and time as bounded disclosures
 
-Topology and music disclose different operations:
+Topology and music disclose different operations. The torus/cover relation shows a path closing locally while retaining winding or displacement, and the selected musical ratios show one span completed by a determinate multiplicative interval. The essay coordinates them as spatial and temporal forms of **return through retained difference**, and their exactness is what disciplines the comparison: a winding class and a musical interval are different objects, and each demonstrates a determinate way in which return can preserve what happened along the way.
 
-- the torus/cover relation shows a path closing locally while retaining winding or displacement;
-- the selected musical ratios show one span completed by a determinate multiplicative interval.
-
-The essay coordinates them as spatial and temporal forms of **return through retained difference**. Their exactness is what makes the comparison disciplined: winding class and musical interval remain different objects while each demonstrates a determinate way in which return can preserve what happened along the way.
-
-Cymatics supplies a further material bridge under specified boundary conditions: standing waves can produce visible nodal patterns in a driven medium. A sounded dynamic and a visible pattern can therefore be different measurements of one physical process. This gives later nāda/Vāk and Expression comparisons a real physical neighbour while conscious, symbolic and physical registers retain their distinct operations.
+Cymatics supplies a further material bridge under specified boundary conditions: standing waves can produce visible nodal patterns in a driven medium. A sounded dynamic and a visible pattern can therefore be different measurements of one physical process, which gives later nāda/Vāk and Expression comparisons a real physical neighbour, with the conscious, symbolic and physical registers each keeping their operations.
 
 <!-- figure:chladni-1787-tab-viii-square-plate-figures -->
 
@@ -132,15 +127,15 @@ Cymatics supplies a further material bridge under specified boundary conditions:
 
 <!-- /figure:chladni-1787-tab-viii-square-plate-figures -->
 
-[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the coordination through what each exact witness preserves. The lifted torus path retains a homotopy/winding class rather than every detail of the journey. The musical product retains `9/8` as the factor completing the selected `16/9` ratio to `2/1`. **Their comparison is the authorial return through difference:** exact preservation in one register becomes comparable to exact preservation in another without converting vector displacement into musical interval.
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md#e5-whole-returns) **qualifies** the coordination through what each exact witness preserves. The lifted torus path retains a homotopy/winding class rather than every detail of the journey. The musical product retains `9/8` as the factor completing the selected `16/9` ratio to `2/1`. **Their comparison is the authorial return through difference:** exact preservation in one register becomes comparable to exact preservation in another, with vector displacement and musical interval each staying what it is.
 
 ## Tension / limit
 
-Each local result keeps the law by which it is true: `χ=0` is Euler characteristic, `4g+2g` is the genus presentation count, tokamak confinement is a physical consequence of specified magnetic dynamics, and the interval identities are multiplicative ratios in a tuning context. **The synthesis begins after those truths have been secured, not by weakening them.** QL coordinates their different forms of closure, remainder, circulation and completion into a larger claim about return through retained difference.
+Each local result keeps the law by which it is true: `χ=0` is Euler characteristic, `4g+2g` is the genus presentation count, tokamak confinement is a physical consequence of specified magnetic dynamics, and the interval identities are multiplicative ratios in a tuning context. **The synthesis begins after those truths have been secured, and weakens none of them.** QL coordinates their different forms of closure, remainder, circulation and completion into a larger claim about return through retained difference.
 
 ## Transition
 
-The station has now accumulated several rigorously distinct ways of carrying a relation through transformation: differential underdetermination, declared QL traversal, complex phase, changed formal frame, winding on a quotient and harmonic completion. §3 · #5→0 can therefore name their **coordinating authorial field**: [[30-s3-p5-arche-topos|§3 · #5→0 — The Arche-Topos]]. Mathematics has supplied exact local operations; the Arche-Topos names the QL field through which the essay reads their relation.
+The station has now accumulated several rigorously distinct ways of carrying a relation through transformation: differential underdetermination, declared QL traversal, complex phase, changed formal frame, winding on a quotient and harmonic completion. §3 · #5→0 can therefore name their **coordinating authorial field**: [[30-s3-p5-arche-topos|§3 · #5→0 — The Arche-Topos]]. Mathematics has supplied exact local operations, and the Arche-Topos names the QL field through which the essay reads their relation.
 
-The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md#4--commensuration-makes-a-remainder-consequential) **historicises** a distinct musical remainder. The exact completion `16/9 · 9/8 = 2` differs from the Pythagorean comma produced by twelve fifths versus seven octaves, `531441/524288`. Temperament redistributes the latter discrepancy according to a selected criterion. These are different mathematical/musical remainders and should not be merged under one poetic word.
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md#4--commensuration-makes-a-remainder-consequential) **historicises** a distinct musical remainder. The exact completion `16/9 · 9/8 = 2` differs from the Pythagorean comma produced by twelve fifths versus seven octaves, `531441/524288`. Temperament redistributes the latter discrepancy according to a selected criterion. These are different mathematical and musical remainders, and each keeps its own name.
 

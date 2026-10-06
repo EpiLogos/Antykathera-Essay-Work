@@ -20,15 +20,15 @@ Movement 37 of 48 · [This room](../ROOM-06-objective-internality.md) · [← Pr
 
 ## Claim
 
-§5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are philosophical offices of that mediating field made technically consequential: six aspects of the means through which a Life inhabits and changes its World.
+§5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality (Life / Mind) the means, World the known, and I-Consciousness their whole.** The six products are philosophical offices of that mediating field made technically consequential: six aspects of the means through which a Life inhabits and changes its World.
 
-The first is **Central: meaningful continuity**, the intelligible ground a Life carries from one encounter into another. A project, promise, source, memory or self-understanding matters because it lets a later event appear as a continuation rather than a disconnected instant. Persistence is therefore insufficient. Continuity becomes meaningful where what is carried retains enough of its source, purpose, history and alternatives to remain answerable.
+The first is **Central: meaningful continuity**, the intelligible ground a Life carries from one encounter into another. A project, promise, source, memory or self-understanding matters because it lets a later event appear as a continuation instead of a disconnected instant. Memory has this office because a remembered event can stay related to why it mattered, whose experience it was, what intention it changed and what later inquiry made of it. For a human, commitments, autobiography, projects and inherited meanings are living ground, and for an agent, authored and accumulated sources, project histories and returned work can condition a later act without being mistaken for its present judgment. Continuity becomes meaningful where what is carried retains enough of its source, purpose, history and alternatives to remain answerable, which asks more than persistence of bytes.
 
 ## Warrant — the whole pair and its technical office
 
 The whole pair is **L0 Quaternal × L5′ Divine Logos**. Quaternal asks why, what, how, for whom/which/when, where/why-for, and why-so/why-not: the dimensions through which a world becomes sayable as meaning. Divine Logos gives that ground its living passage as Arche, Apokalypsis, Dynamis, Sophia, Parousia and Epi-Logos: origin, disclosure, potency, understanding, presence and reflective return. **Central is living carried ground:** the office in which articulated meaning can become present again and be revised by what later encounter discloses.
 
-That revision is decisive. A record that only accumulates can become richer in quantity while poorer in life. A returned difference completes itself when it can reach the source, interpretation, rule or entrusted decision that conditions what happens next. The result is continuity which can learn rather than merely repeat.
+That revision is decisive. A record that only accumulates can grow richer in quantity and poorer in life, and a returned difference completes itself when it can reach the source, interpretation, rule or entrusted decision that conditions what happens next. The result is continuity that can learn where mere accumulation repeats.
 
 Technically, this is where Project, Source, Ground, authorship, governance, change, Work and returned provenance become addressable in their relations. Authorship remains attributable through useful derivations; a projection can expose a ground while remaining answerable to it; a computational Bimba can become causally effective as a local reference while its meaning remains situated within the Life and World it articulates.
 
@@ -36,7 +36,7 @@ The earlier mathematics-as-meaning thread now finds its strongest technical body
 
 ## Tension / limit
 
-Central becomes a counterfeit source when continuity is confused with final authority. A durable record, Bimba, project map or machine-readable projection can legitimately govern a bounded inquiry while remaining derivative and revisable. Meaningful continuity therefore requires enough stability to orient return and enough provenance for later experience to revise the inherited account rather than being admitted only through its categories.
+Central becomes a counterfeit source when continuity is confused with final authority. A durable record, Bimba, project map or machine-readable projection can legitimately govern a bounded inquiry while remaining derivative and revisable, so meaningful continuity needs enough stability to orient return and enough provenance for later experience to revise the inherited account, with no admission only through its categories.
 
 ## Return
 

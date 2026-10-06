@@ -39,32 +39,15 @@ Two technical destinies of the web. Indra's jewel net figures `0/1`: each jewel 
 
 ## Proposition
 
-The web has two technical destinies, and the essay names them with two nets. Indra's jewel
-net figures `0/1`: each jewel reflects every other, a selected jewel remains the particular
-entrance, and relation stays internally active in every determination. Hephaestus's mesh
-figures `(-1)+/-(+1)`: polarity arrested — two exposed terms held for a convened tribunal
-while the zero is occupied from outside, until the one figure who does not laugh pledges
-from inside the loss and the mesh can be opened. Neither operation can do the other's work.
+The web has two technical destinies, and the essay names them with two nets. Indra's jewel net figures `0/1`: each jewel reflects every other, a selected jewel stays the particular entrance, and relation stays internally active in every determination. Hephaestus' mesh figures `(−1)+/−(+1)`, a polarity arrested: two exposed terms are held for a convened tribunal while the zero is occupied from outside, until the one figure who does not laugh pledges from inside the loss and the mesh can be opened. Neither operation can do the other's work. In laminar terms the plate lays two mythemic images beside two mathemic expressions and the epistemic records of the two tellings, so that each image shows what the notation names and each notation says what the image does.
 
 ## Invariant
 
-The diptych holds one contrast stable across both panels: **where the zero stands**. On the
-left, relation is internal to every node — the lattice lines pass through the jewels, the
-selected jewel differs only by being chosen, and nothing outside the net administers it.
-On the right, the two terms sit inside a closed mesh while the ring of spectators — captor,
-protocol, tribunal — surrounds it from outside: the zero has been externalised and occupied.
-The exposed terms `(±1)` and the externalised tribunal are drawn as structurally different
-offices, not as two examples of one "network".
+The diptych holds one contrast stable across both panels, which is where the zero stands. On the left relation is internal to every node: the lattice lines pass through the jewels, the selected jewel differs only by being chosen, and nothing outside the net administers it. On the right the two terms sit inside a closed mesh while the ring of spectators (captor, protocol, tribunal) surrounds it from outside, so the zero has been externalised and occupied. The exposed terms `(±1)` and the externalised tribunal are drawn as different offices and not as two examples of one network.
 
 ## Proof boundary
 
-The plate composes an authored comparison; it is not a synthetic myth and adds no episode to
-either whole. The Huayan side keeps its own limits (disputed attribution, the simile's optical
-qualification); the Homeric side keeps its own ending (release on Poseidon's undertaking,
-later payment unreported). Neither whole supplies historical origin for the other. The
-assignment of `0/1` and `(-1)+/-(+1)` is the essay's Argued development carried by Movement
-22; the plate depicts that assignment and derives nothing beyond it. No direct quotation from
-Homer or the Huayan contemplation appears in the asset.
+The plate composes an authored comparison. It is no synthetic myth and adds no episode to either whole. The Huayan side keeps its own limits, a disputed attribution and the simile's optical qualification, and the Homeric side keeps its own ending, release on Poseidon's undertaking with later payment unreported. Neither whole supplies a historical origin for the other. The assignment of `0/1` and `(−1)+/−(+1)` is the essay's Argued development carried by Movement 22, and the plate depicts that assignment and derives nothing beyond it. The asset contains no direct quotation from Homer or from the Huayan contemplation.
 
 ## Composition and reading order
 

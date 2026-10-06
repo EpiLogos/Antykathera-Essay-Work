@@ -55,3 +55,24 @@ Kṣemarāja, *Pratyabhijñāhṛdayam* (Singh); *Udāna* (Ireland); Saṃyutta 
 - "Core Theorems — Pithy" §§II(c), VII, X — cited as the author's unpublished manuscript (s0-11, s0-74, s0-77, s0-80, s0-98).
 - Frank's reading notes on Watson (the protected `-NOTES.md` beside the Watson house) — cited as "the author's unpublished reading notes" for selfing / self-thing / *sell-thing* (s0-31) and the discontinuity → Objective Internality → harness elements → objective immortality sequence (s0-93). Frank should confirm that these notes may be cited in this form, or name another carrier.
 - Unpublished working notes on *prapañca* and the `xₙ → Xₙ₊₁` trajectory and the seven trajectory questions (s0-53, s0-55): these come from the 27 July quilt session record; a citable carrier needs naming.
+
+## Rework addendum, 2026-10-06
+
+- **#5→0.** Utpaladeva's definition of internality and externality is now a paraphrase, because the verse is still transcript-only (receipt F, item 55: identify the *Īśvarapratyabhijñākārikā* verse before it is quoted). Paradigm is no longer defined here; the movement uses the word once and points to §5 · #0, with its etymology moved there. The hand-off numeral is 1005, to match §1 · #0. The recap of earlier movements is reduced to the carry into §1.
+- **Pointers.** "The threshold" and ordinal section names became §0/1 and §N · #n in #5→0.
+- The other movements of §0 were reworked by the earlier helper; their debts are as listed above.
+
+## Addendum — 2026-10-06 (after the independent check)
+
+The two stub notes in M04 are now written: `s0-apohana` (Utpaladeva, IPK 1.2, cognition, memory and exclusion; Torella's edition, verse and page not collated) and `s0-schmitt` (Schmitt 1996, 25–27 from a citing source, to be confirmed in the book). Live debts the check found:
+
+| Where | Item | What is owed |
+|---|---|---|
+| M02, M03, M04, M05 | No source houses: Udāna 1.10 (Ireland), SN 22.59 (Mendis), Woods's *Yoga-System* and *Yogabhāṣya*, James's *Principles*, Vasu's Pāṇini, Singh's *Pratyabhijñāhṛdayam*, Tuske's review, Flood's two reviews, Watson's passage cards | Houses and passage cards before acceptance, or paraphrase. |
+| M02 `s0-watson-selfing`, M03 `s0-watson-prapanca` | Watson page numbers (96–101) are the thesis's, cited with the 1998 Curzon book | Collate against the book or cite the thesis. |
+| M01, M02 | Dyczkowski pp. 60–69, 71 not re-collated; pp. 66–68, 71–73 carry claims; the transcript drifts by one page in pp. 64–75; M01 line 20 quotes "The All is entirely a reflection" from a transcript page | Collate or cite chapter and section. |
+| M04 | `s0-purnata` no page; `s0-two-negations` Siderits no pages; Dushun note ranges differ from the cards (513a28–513c10; b17–b21); Cleary pp. 58–60 only a lead; `s0-dignaga-sep` §2.2.1 against the card's §2.2.2 | Correct from the houses. |
+| M05 `s0-36-history` | Two reviews support the list evolving across the Niśvāsa layers; "well before Abhinavagupta" is loosely supported | Soften or source. |
+| M03, M05 | Horizon: "approximately a thousand", the judge's "simple institutional obstinacy" (about one witness), the subpostmasters' powers | Now hedged or marked "on my reading"; a Bates paragraph would settle the last. |
+| M03 lines 38–40 | The seven trajectory questions and the `xₙ → Xₙ₊₁` material | The README says they come from a working session record; the text says they are the essay's own and the count is six. Reconcile. |
+| M06 notes `s0-87…98` | Legacy numeric IDs | Rename to slugs (A2.4). |

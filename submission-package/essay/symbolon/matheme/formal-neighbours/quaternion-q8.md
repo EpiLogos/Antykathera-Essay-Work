@@ -11,7 +11,7 @@ source_relation: "Explicit mathematical construction; argued native comparison"
 
 ## #0 — Define the algebra before its subgroup
 
-The real quaternion algebra has basis `1,i,j,k` with `i²=j²=k²=ijk=−1`. Multiplication gives `ij=k`, `jk=i`, `ki=j`, while reversing the order negates each result. The [native phase relation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) carries the qualitative poles and their four ordered relations through the positional count; its `0/1` to `1/0` passage reverses the orientation through which the same relation is read. Quaternion multiplication provides the explicit noncommutative comparison developed below. A correspondence between its algebraic action and that native passage requires the particular mapping of their operations.
+The real quaternion algebra has basis `1,i,j,k` with `i²=j²=k²=ijk=−1`. Multiplication gives `ij=k`, `jk=i`, `ki=j`, while reversing the order negates each result. The [native phase relation](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) carries the qualitative poles and their four ordered relations through the positional count, and its passage from `0/1` to `1/0` reverses the orientation through which the same relation is read. Quaternion multiplication supplies an explicit noncommutative neighbour for that reversal, and the rest of this page develops it. Any correspondence between the algebraic action and the native passage then needs a stated mapping of their operations.
 
 The algebra is a four-dimensional real vector space with multiplication. Its eight-element multiplicative subgroup `Q8={±1,±i,±j,±k}` is a different object from the whole algebra or the continuous group of unit quaternions.
 
@@ -29,7 +29,7 @@ Direct multiplication reproduces the rules, while matrix associativity supplies 
 
 The set `{±i,±j,±k}` contains six signed imaginary basis units. It is not a subgroup: `i·i=−1` lies outside it. Adjoining ±1 gives Q8. Hence a sixfold correspondence that uses only those imaginary units must record its omitted real units and cannot call the six the whole group.
 
-The native eight determinations retain their qualitative sequence beside these eight group elements. A comparative coordinate mapping becomes established through specified operations and demonstration of their corresponding relations.
+The native eight determinations keep their qualitative sequence beside these eight group elements, and a coordinate mapping between the two is established only by specifying the operations and demonstrating that the corresponding relations hold.
 
 ## #3 — Let unit quaternions act on three-space
 
@@ -45,6 +45,6 @@ This continuous rotation double cover differs from the torus orientation cover o
 
 ## #5→0 — Return with order and cover retained
 
-The result is an exact noncommutative eight-element group within a continuous algebra, plus a distinct rotation-cover construction. The native phase field can use these as specified formal neighbours without deriving its positional meanings from their cardinalities.
+The result is an exact noncommutative group of eight elements inside a continuous algebra, together with a separate rotation-cover construction. The native phase field can take both as formal neighbours, and its positional meanings come from its own derivation and not from these cardinalities.
 
-[Complex orientation](../ql/complex-orientation.md) becomes comparable through the stated operations of multiplication and rotation. The [eight native determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) retain their own qualitative offices; [translation](../mono-poly/translations.md) carries the declared correspondence between these objects. Preserving the order of products and the specified cover makes the comparison exact.
+[Complex orientation](../ql/complex-orientation.md) **compares** through the stated operations of multiplication and rotation. The [eight native determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keep their own qualitative offices, and [translation](../mono-poly/translations.md) records the declared correspondence between the two sets of objects. Keeping the order of products and the specified cover is what makes the comparison exact.

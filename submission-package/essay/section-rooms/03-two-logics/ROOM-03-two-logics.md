@@ -16,7 +16,7 @@ ownership: generated
 
 ## Arrival
 
-The recovered zero reveals why “binary logic” is ambiguous.
+The recovered zero shows why "binary logic" is ambiguous.
 
 ## Section wager
 
@@ -30,7 +30,7 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Incoming pressure:** [§1 #5→0 · The Loan Returns](../02-return-of-zero/movements/18-s1-p5-loan-returns.md)
 
-**Earned position (Argued):** Non-duality preserves distinction within the appearing-act from which its terms arise.
+**Earned position (Argued):** Non-duality keeps distinction inside the appearing-act from which its terms arise.
 
 **Carry-forward:** The classical accounting comes first because it is the dominant logic of modern formal and technical systems: §2 · #1 — Dia-Ballein.
 
@@ -42,7 +42,7 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Earned position (Derived):** Dia-ballein begins with the bare relation `/ = −/−`.
 
-**Why this move:** Agentic systems necessarily use dia-ballein when they classify, rank, reject, allocate, or defend.
+**Why this move:** Agentic systems use dia-ballein whenever they classify, rank, reject, allocate or defend.
 
 **Carry-forward:** The classificatory cut **returns-to** Name-through-Count with the rule by which its terms became countable.
 
@@ -52,7 +52,7 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Incoming pressure:** [§2 #1 · Dia-Ballein](movements/20-s2-p1-dia-ballein.md)
 
-**Earned position (Argued):** Sym-Ballein writes superpositional polarity as inverse orientations of the retained ground–mark relation: Each inner slash holds the indefinite and definite together.
+**Earned position (Argued):** Syn-ballein, which the essay's links still carry as Sym-Ballein, writes superpositional polarity as inverse orientations of the retained ground–mark relation: Each inner slash holds the indefinite and the definite together, and the outer slash relates their conjugate orientations.
 
 **Carry-forward:** The retained branch **returns-to** Count-to-Account when its source, exclusion and consequence remain available for the next act of gathering.
 
@@ -74,7 +74,7 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Earned position (Argued):** The two logics can be read dynamically as one alternating pulse.
 
-**Carry-forward:** E2’s arbitration in crisis gives this movement its relational test for a change of regime: Con-text exposes the conditions under which arbitration has operated, and Resolution lets consequence revise them.
+**Carry-forward:** E2's arbitration in crisis gives this movement its relational test for a change of regime: Con-text exposes the conditions under which arbitration has operated, and Resolution lets consequence revise them.
 
 **Open:** [movement](movements/23-s2-p4-complex-dynamism.md) · canonical route: [A19 — Complex as Local Arbitration Regime](../arguments/A19-Complex-as-Local-Arbitration-Regime.md), [A20 — Image / Valuation / Possession](../arguments/A20-Image-Valuation-Possession.md), [A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md), [C30](../arguments/concepts/C30-Psychoid-Number.md), [C31](../arguments/concepts/C31-Complex.md), [C32](../arguments/concepts/C32-Archetype.md), [C33](../arguments/concepts/C33-Image-Valuation.md), [C34](../arguments/concepts/C34-Individuation.md) · sources: [daza-et-al-2016-basin-entropy](../../symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/daza-et-al-2016-basin-entropy.md), [maturana-varela-1980-autopoiesis-cognition](../../symbolon/episteme/sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/maturana-varela-1980-autopoiesis-cognition.md), [desmet-2022-psychology-totalitarianism-web-essay](../../symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/desmet-2022-psychology-totalitarianism-web-essay.md), [iakovou-2022-misuse-totalitarianism](../../symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/iakovou-2022-misuse-totalitarianism.md)
 
@@ -82,12 +82,12 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Incoming pressure:** [§2 #4 · Complex Dynamism](movements/23-s2-p4-complex-dynamism.md)
 
-**Earned position (Derived):** Polar dia-ballein retains zero as the axis of opposed values; its collapsed operations make zero a cancellation or assign the whole span to one pole.
+**Earned position (Derived):** Polar dia-ballein retains zero as the axis of opposed values, and its collapsed operations make zero a cancellation, `(−1)+(+1)=0`, or assign the whole span to one pole, as `+2` from one end and `−2` from the other.
 
-**Carry-forward:** The mathematical substrate now has a precise task.
+**Carry-forward:** The mathematical substrate now has a precise task: to derive how this ground–mark relation behaves under distinction, re-entry, alternation, complex orientation, quotienting, topological return and harmonic resolution.
 
 **Open:** [movement](movements/24-s2-p5-zero-changes-role.md) · canonical route: [A11 — The-Two-Ones-0-One-1-All](../arguments/A11-The-Two-Ones-0-One-1-All.md), [A12 — Mono-Poly-One-All-Whole-Many](../arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A13 — Two Logics of Two — Dia / Syn](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A18 — Primordial Symbolon and Its Eight Determinations](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [C21](../arguments/concepts/C21-Living-Symbol-Idol.md), [C49](../arguments/concepts/C49-The-Two-Ones-0-One-1-All.md), [C50](../arguments/concepts/C50-Dia-Syn.md), [C61](../arguments/concepts/C61-Symbolon-Disclosure-Architecture.md)
 
 ## Release
 
-The mathematical substrate now has a precise task.
+The mathematical substrate now has a precise task: to derive how this ground–mark relation behaves under distinction, re-entry, alternation, complex orientation, quotienting, topological return and harmonic resolution.

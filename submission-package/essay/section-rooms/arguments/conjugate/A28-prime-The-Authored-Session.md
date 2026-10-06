@@ -18,11 +18,11 @@ source_ids:
 
 ## #0
 
-No agent begins from nowhere. A position is authored before it is occupied: prompt, role, vocabulary, tools, permissions and criteria give the delegate real judgment within its scope. In [recursive authored delegation](../A28-Authored-Ground-Positional-Delegation.md), human `0` / agent `1` is positional; the prompt is already `1`, an objective representation of intention, not intention exhausted. The [[section-rooms/arguments/conjugate/A28-prime-The-Authored-Session.md#0|commissioned session]] brings this relation into one occasion of action. Under [entrustment](AC.md), the person authors the purpose, the agent exercises situated judgment and the permission boundary gives that judgment its authorised reach.
+No agent begins from nowhere. A position is authored before it is occupied: prompt, role, vocabulary, tools, permissions and criteria give the delegate real judgment within its scope. In [recursive authored delegation](../A28-Authored-Ground-Positional-Delegation.md), human `0` / agent `1` is positional; the prompt is already `1`, an objective representation of intention, not intention exhausted. The [[section-rooms/arguments/conjugate/A28-prime-The-Authored-Session.md#0|commissioned session]] brings this relation into one occasion of action. Under [entrustment](AC.md), the person authors the purpose, the agent exercises situated judgment and the permission boundary gives that judgment its authorised reach. This face **returns** to A28 the positional recursion of authorship in one occasion of action.
 
 The authored session sits between **durable ground** and **the act of authorship**. Ground is what has already been written into the field — profile, source, method, commission, history. Authorship is the power by which that ground was established and can be revised.
 
-Confusing these offices can require someone to re-author the ground on every act or let a per-act composition claim the authority of the ground itself. [An inherited horizon](../concepts/C44-Prompt-Thrownness.md) gives the act conditions it did not wholly make; [derivative authority](../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) lets the delegate exercise judgment within them. The session makes selected parts of that inheritance operative under a particular commission, with a route back to the authority responsible for their use.
+Confusing these offices can require someone to re-author the ground on every act, or can let a per-act composition claim the authority of the ground itself. [An inherited horizon](../concepts/C44-Prompt-Thrownness.md) gives the act conditions it did not wholly make; [derivative authority](../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) lets the delegate exercise judgment within them. The session makes selected parts of that inheritance operative under a particular commission, with a route back to the authority responsible for their use.
 
 ## #1
 
@@ -50,7 +50,7 @@ Making parts of the ground operative is not narrating the ground. A self-descrip
 
 A local interpreting agent is the functional knower in comparing a proposed answer with the commissioned sources. Its retained ground, selected evidence, rule and tools are means; the competing claims and possible courses are known. The person's containing inquiry receives the entire apparatus as means and can make its selection known in another act. The relative offices preserve the delegate's judgment while keeping the first-person condition of the person's inquiry distinct from the description it inspects.
 
-The session completes its return when the warranted judgment becomes available for subsequent use: a corrected answer or world-model, revised commission or permission, changed criterion, or reasoned reaffirmation of the original purpose. The author remains answerable for what was entrusted; the delegate for the judgments made within the trust. Neither pretends that autonomy means having no source, or that having a source removes judgment.
+The session completes its return when the warranted judgment becomes available for subsequent use: a corrected answer or world-model, revised commission or permission, changed criterion, or reasoned reaffirmation of the original purpose. The author remains answerable for what was entrusted; the delegate for the judgments made within the trust. Neither pretends that autonomy means having no source, and neither pretends that having a source removes judgment.
 
 ## #5→0
 

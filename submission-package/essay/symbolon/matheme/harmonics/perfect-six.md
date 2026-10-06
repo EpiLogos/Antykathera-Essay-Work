@@ -11,9 +11,9 @@ source_relation: "Exact construction; argued native reading and bounded source r
 
 ## #0 — Choose the divisor operation
 
-A positive integer is perfect when it equals the sum of its positive proper divisors. The [native counting unit](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) retains the two generating terms together with their four ordered self-relations. Positive divisibility first earns the particular property whose relation to that broader count can then become exact.
+A positive integer is perfect when it equals the sum of its positive proper divisors. The [native counting unit](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) holds the two generating terms together with their four ordered self-relations, and that count is the six whose arithmetic this page works. The page first earns the divisor property, so that its relation to the broader count can then be stated exactly.
 
-The inputs are the integer 6 and ordinary positive divisibility. “Proper” excludes 6 itself; zero and negative divisors are not included in this definition.
+The inputs are the integer 6 and ordinary positive divisibility. “Proper” excludes 6 itself, and the definition uses neither zero nor negative divisors.
 
 ## #1 — Enumerate the divisors
 
@@ -23,9 +23,9 @@ It is the smallest positive perfect number. For 1 the proper-divisor sum is 0; f
 
 ## #2 — Compare the product separately
 
-The same triple also satisfies `1×2×3=6`. Addition and multiplication therefore converge on 6 for this particular input. This equality is not the definition of perfection: 28 has proper divisors 1, 2, 4, 7, 14, whose sum is 28 but whose product is 784.
+The same triple also satisfies `1×2×3=6`, so addition and multiplication converge on 6 for this particular input. The equality is no part of the definition of perfection, since 28 has proper divisors 1, 2, 4, 7, 14, whose sum is 28 and whose product is 784.
 
-The native additive/multiplicative hinge is carried by the selected triple, with its special relation preserved. Extending the list changes the operation: adding 4 gives 10, while multiplying by 4 gives 24.
+The native additive/multiplicative hinge rests on this selected triple and its special relation. Extending the list changes the operation, because adding 4 gives 10 while multiplying by 4 gives 24.
 
 ## #3 — Introduce zero without changing its office silently
 
@@ -41,6 +41,6 @@ The [tetraktys and triangle](tetraktys-triangle.md) adds other exact counts and 
 
 ## #5→0 — Return the perfect number to its operation
 
-The result is 6 with an exact earned property and a further sum/product coincidence. Its native role can now be read without turning every occurrence of six into the same theorem or treating “perfect” as a universal judgement of value.
+The result is the number 6 with an earned property and a further coincidence of sum and product. Its native role can now be read with the arithmetic behind it, and no occurrence of six elsewhere is thereby the same theorem, nor is “perfect” a universal judgement of value.
 
-The [eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) keep the six-position body within the full threshold-to-return traversal. The [Spanda ratio](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) and [binary of binary](../ql/binary-and-binary-of-binary.md) each earn their counts through their respective operations. The divisor sum becomes comparable through its exact property, with the other producing relations retained.
+The [eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) **extend** the six-position body into the full threshold-to-return traversal. The [Spanda ratio](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) and the [binary of binary](../ql/binary-and-binary-of-binary.md) each earn their count by a different operation, and the divisor sum **compares** with them through its exact property while their producing relations stay as they are.

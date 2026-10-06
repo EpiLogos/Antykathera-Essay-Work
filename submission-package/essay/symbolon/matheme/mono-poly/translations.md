@@ -11,9 +11,9 @@ source_relation: "Extracted native operation; worked construction and argued app
 
 ## #0 — State the two signatures
 
-A translation begins with a source notation, a target notation and the relation proposed to survive the passage. The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) and [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) supply a field rich in correspondences. This page makes their different proof burdens operational.
+A translation begins with a source notation, a target notation and the relation proposed to survive the passage. The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) and the [Binary house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) **source** a field rich in correspondences, and this page makes their different proof burdens operational.
 
-Three claims remain separate: an internal derivation, an exact construction in another formalism, and the essay's interpretation of the correspondence. One can succeed while another remains Argued or Offered.
+Three claims are kept apart: an internal derivation, an exact construction in another formalism, and the essay's interpretation of the correspondence. Any one can succeed while another stays Argued or Offered.
 
 ## #1 — Perform an exact reduction
 
@@ -31,7 +31,7 @@ A musical example maps a cyclic index `k` to pitch class `2k mod12`. For `k=0,�
 
 In the native field, `0/1` and `1/0` are obverse readings of one relation. In ordinary arithmetic, they are not equal real numbers: the latter is undefined. The relational identity is stated in its native signature, with the arithmetic asymmetry preserved as the formal pressure it uses.
 
-Similarly `1={∅}` is exact in von Neumann's construction. The reading of that singleton as a symbolic linker is an explicit synthesis. A set-theoretic theorem establishes the construction; it does not independently establish the unobjectifiable subject or every symbolic use of a mark.
+Similarly `1={∅}` is exact in von Neumann's construction, and reading that singleton as a symbolic linker is an explicit synthesis. The set-theoretic theorem establishes the construction, and the unobjectifiable subject and each symbolic use of a mark need their own arguments.
 
 ## #4 — Record what a translation leaves out
 
@@ -41,6 +41,6 @@ The register therefore retains source terms alongside a translated result whenev
 
 ## #5→0 — Return the mapped relation to its sources
 
-The result is a correspondence that can be checked: input, map, preserved relation, omitted information, and standing of the interpretation. [Mono](mono.md) holds the common subject; [Poly](poly.md) keeps the dialects available; [Dia/Syn](../dia-syn/README.md) supplies discrimination and retained composition.
+The result is a correspondence that can be checked, with its input, its map, the relation it preserves, the information it omits and the standing of its interpretation all stated. [Mono](mono.md) holds the common subject, [Poly](poly.md) keeps the dialects available, and [Dia/Syn](../dia-syn/README.md) supplies discrimination and retained composition.
 
-This record returns-to [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A18](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), and [Spanda's equations](../spanda/spanda-equations.md). An earned correspondence can now travel without silently becoming a stronger identity than its operation established.
+This record **returns-to** [A12](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A18](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) and [Spanda's equations](../spanda/spanda-equations.md). An earned correspondence can travel from here, and it carries only the identity its operation established.
