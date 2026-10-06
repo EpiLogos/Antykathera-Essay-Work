@@ -1,10 +1,10 @@
 {
-  "source_digest": "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32",
+  "source_digest": "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad",
   "builder_version": "1.2.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
-    "pages": 1172,
-    "reachable": 1144,
+    "pages": 1180,
+    "reachable": 1152,
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 265,
@@ -17,19 +17,19 @@
     "unreachable_admitted": 0
   },
   "reading_root": "submission-package/essay/README.md",
-  "pages": 1172,
-  "reachable_from_root": 1147,
+  "pages": 1180,
+  "reachable_from_root": 1155,
   "depth_histogram": {
     "0": 1,
     "1": 64,
-    "2": 786,
-    "3": 224,
-    "4": 72
+    "2": 817,
+    "3": 202,
+    "4": 71
   },
   "max_depth": 4,
   "relation_totals": {
-    "unnamed": 8711,
-    "sources": 1367,
+    "unnamed": 8861,
+    "sources": 1393,
     "sources (declared)": 782,
     "consumed-by (declared)": 299,
     "returns-to": 178,
@@ -40,7 +40,7 @@
     "historicises": 51,
     "defines": 46,
     "compares": 45,
-    "figures": 28,
+    "figures": 35,
     "tests": 17,
     "derives": 12,
     "sources (declared passage)": 12,
@@ -51,54 +51,54 @@
   "per_class": {
     "quilt": {
       "pages": 80,
-      "links": 692,
-      "named": 59,
-      "unnamed": 633,
+      "links": 696,
+      "named": 60,
+      "unnamed": 636,
       "orphans": 0,
       "no_return": 44,
       "unreachable": 0
     },
     "rooms": {
       "pages": 20,
-      "links": 873,
-      "named": 88,
-      "unnamed": 785,
+      "links": 875,
+      "named": 89,
+      "unnamed": 786,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "essay": {
       "pages": 1,
-      "links": 8,
-      "named": 0,
-      "unnamed": 8,
+      "links": 51,
+      "named": 9,
+      "unnamed": 42,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "movements": {
       "pages": 48,
-      "links": 421,
-      "named": 147,
-      "unnamed": 274,
+      "links": 477,
+      "named": 157,
+      "unnamed": 320,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1045,
-      "named": 113,
-      "unnamed": 932,
+      "links": 1047,
+      "named": 114,
+      "unnamed": 933,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1479,
-      "named": 192,
-      "unnamed": 1287,
+      "links": 1481,
+      "named": 193,
+      "unnamed": 1288,
       "orphans": 0,
       "no_return": 64,
       "unreachable": 0
@@ -123,9 +123,9 @@
     },
     "symbolon-root": {
       "pages": 14,
-      "links": 186,
-      "named": 65,
-      "unnamed": 121,
+      "links": 188,
+      "named": 66,
+      "unnamed": 122,
       "orphans": 0,
       "no_return": 2,
       "unreachable": 0
@@ -177,9 +177,9 @@
     },
     "episteme-figures": {
       "pages": 5,
-      "links": 38,
+      "links": 41,
       "named": 0,
-      "unnamed": 38,
+      "unnamed": 41,
       "orphans": 0,
       "no_return": 1,
       "unreachable": 0
@@ -221,19 +221,19 @@
       "unreachable": 0
     },
     "matheme": {
-      "pages": 101,
-      "links": 857,
-      "named": 233,
-      "unnamed": 624,
+      "pages": 109,
+      "links": 906,
+      "named": 242,
+      "unnamed": 664,
       "orphans": 0,
-      "no_return": 16,
+      "no_return": 13,
       "unreachable": 0
     },
     "mytheme": {
       "pages": 148,
-      "links": 968,
+      "links": 988,
       "named": 246,
-      "unnamed": 722,
+      "unnamed": 742,
       "orphans": 0,
       "no_return": 118,
       "unreachable": 0
@@ -502,9 +502,6 @@
     "submission-package/essay/symbolon/matheme/definition/README.md",
     "submission-package/essay/symbolon/matheme/dia-syn/README.md",
     "submission-package/essay/symbolon/matheme/diagrams/README.md",
-    "submission-package/essay/symbolon/matheme/diagrams/crossed-zero-recognition-chain.md",
-    "submission-package/essay/symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.md",
-    "submission-package/essay/symbolon/matheme/diagrams/spanda-4-2-attunement-stack.md",
     "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
     "submission-package/essay/symbolon/matheme/harmonics/README.md",
     "submission-package/essay/symbolon/matheme/music/README.md",
@@ -778,6 +775,34 @@
       "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE": 3,
       "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE": 3
     },
+    "essay": {
+      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
+      "symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg": 1,
+      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg": 1,
+      "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg": 1,
+      "symbolon/episteme/histories/traditions-and-disciplines/mathematics/images/liber-abbaci-florence-ms-f124r.jpg": 1,
+      "symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg": 1,
+      "symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg": 1,
+      "symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
+      "symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
+      "symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg": 1,
+      "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg": 1,
+      "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/pollaiuolo-apollo-and-daphne-national-gallery.jpg": 1
+    },
+    "movements": {
+      "../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/durer-1525-draughtsman-drawing-a-lute.jpg": 1,
+      "../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/images/dew-on-spider-web.jpg": 1,
+      "../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/images/ybc-7289-babylonian-tablet.jpg": 1,
+      "../../../symbolon/mytheme/worlds/british-television/the-prisoner/images/portmeirion-village.jpg": 1,
+      "../../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/images/wtewael-mars-and-venus-surprised-by-vulcan-1601.jpg": 1,
+      "../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
+      "../../../symbolon/matheme/topology/images/tokamak-chamber-and-magnetic-fields-schematic.jpg": 1,
+      "../../../symbolon/matheme/harmonics/images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
+      "../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg": 1,
+      "../../../symbolon/matheme/topology/images/mercator-atlas-1595-frontispiece.jpg": 1,
+      "../../../symbolon/mytheme/worlds/roman-latin/eros-psyche/images/giordano-psyche-discovering-the-sleeping-cupid.jpg": 1,
+      "../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/images/bernini-apollo-and-daphne-borghese.jpg": 1
+    },
     "episteme-concepts": {
       "Mono-Poly Trust": 4,
       "Hephaestus and the Net": 1,
@@ -789,23 +814,57 @@
     "episteme-conjugate": {
       "bare wikilinks": 1
     },
+    "episteme-etymologies": {
+      "images/owen-1848-vertebrate-archetype-plate.jpg": 1,
+      "images/exchequer-tally-1739-diagram.jpg": 1
+    },
+    "episteme-histories": {
+      "images/barbari-portrait-of-luca-pacioli.jpg": 1,
+      "images/gaffurio-1492-pythagoras-and-the-ratios.jpg": 1,
+      "images/liber-abbaci-florence-ms-f124r.jpg": 1,
+      "images/ybc-7289-babylonian-tablet.jpg": 1,
+      "images/hoernle-1887-bakhshali-numerals.png": 1,
+      "images/gwalior-chaturbhuj-temple-inscription-876-ce.jpg": 1,
+      "images/durer-1525-draughtsman-drawing-a-lute.jpg": 1
+    },
     "episteme-sources": {
       "Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein": 2,
       "Antykathera-Essay-Work/submission-package/epi-logos/resources/essay-okf/arguments/19-two-ones-mono-poly-matheme": 1,
       "Antykathera-Essay-Work/submission-package/epi-logos/resources/essay-okf/arguments/03-two-logics-and-sym-ballein": 1,
       "Dreamcode": 1,
       "Antykathera Essay Work": 1,
+      "images/chladni-1787-title-page.jpg": 1,
       "Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos": 1,
       "Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/19-two-ones-mono-poly-matheme": 1,
       "Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic": 1,
       "Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music": 1
+    },
+    "matheme": {
+      "images/chladni-1787-tab-viii-square-plate-figures.jpg": 1,
+      "images/mercator-atlas-1595-frontispiece.jpg": 1,
+      "images/glass-klein-bottle.jpg": 1,
+      "images/tokamak-chamber-and-magnetic-fields-schematic.jpg": 1
+    },
+    "mytheme": {
+      "images/chrysopoeia-of-cleopatra-ouroboros.jpg": 1,
+      "images/signorelli-sermon-and-deeds-of-the-antichrist.jpg": 1,
+      "images/abercius-stele-fragment-museo-pio-cristiano.jpg": 1,
+      "images/blake-job-plate-13-lord-answering-out-of-the-whirlwind.jpg": 1,
+      "images/blake-job-plate-15-behemoth-and-leviathan.jpg": 1,
+      "images/portmeirion-village.jpg": 1,
+      "images/dew-on-spider-web.jpg": 1,
+      "images/antikythera-fragment-a-front.jpg": 1,
+      "images/freeth-2021-cosmos-display-computer-model.jpg": 1,
+      "images/skenfrith-cope-st-bridgets-church.jpg": 1,
+      "images/skenfrith-cope-detail-winged-figures.jpg": 1,
+      "images/chartres-north-rose-window.jpg": 1
     }
   },
   "unnamed_samples": {
     "quilt": [
       "*[Section room](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · [Whole manuscript](THE-RETURN-OF-ZERO.md)*",
       "*[Section room](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · [Whole manuscript](THE-RETURN-OF-ZERO.md)*",
-      "| [[symbolon/episteme/etymologies/encounter-region-name-count/HISTORY-encounter-region-name-count]] | Living protected learning surface"
+      "![A six-by-six grid of die A against die B holds the thirty-six ordered states of the pair. The six doubles lie on the diagonal; the thirty other cells fold acr"
     ],
     "rooms": [
       "[§0/1 — The Integral Threshold](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) is the opening section being completed for the essay submissi",
@@ -814,8 +873,8 @@
     ],
     "essay": [
       "*[Section room](section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)*",
-      "*[Section room](section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md)*",
-      "*[Section room](section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md)*"
+      "![A six-by-six grid of die A against die B holds the thirty-six ordered states of the pair. The six doubles lie on the diagonal; the thirty other cells fold acr",
+      "![Left: a square with both horizontal edge arrows pointing right, both vertical edge arrows pointing up, and all four corners marked as one quotient point. Righ"
     ],
     "movements": [
       "Movement 01 of 48 · [This room](../ROOM-00-integral-threshold.md) · [Reading entrance](../../../README.md) · [Next →](02-s01-p1-define-subject.md)",

@@ -35,6 +35,14 @@ The ground–mark relation unfolds as eight determinations. Each states an opera
 
 The table fixes the actual order of determination within the native theorem. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their native meanings and prevent them from becoming decorative or interchangeable correspondences. [The core theorem table](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) is the source of record.
 
+<!-- figure:ql-unit-mandala-eight-determinations -->
+
+![A concentric figure. At the centre, a red-ringed circle holds 0/1, labelled Ground and Point, empty of object. On an inner ring sit four boxes: question-assertion at north (Definition, Line, zero degrees), minus-over-plus at east (Dynamis, Angle, ninety degrees), X-over-x at west (Pattern, Triangle, two hundred seventy degrees), AM-over-IS at south (Context, Square, one hundred eighty degrees). An outer solid ring is labelled infinity-over-dx, Realisation and Circle, the enclosing horizon. The outermost dashed ring frames everything: at its top a box reads slash equals minus over minus, the parent relation before the count; at its bottom a box reads one-over-zero, the return-switch five-to-zero. Light red lines join the centre to north, east to west, and south to the outer ring; a legend explains these as the forward folds and notes that on the east–west diameter the count phase-flips from 01 to 10. A closing band gives the status lines and the compass-assignment source.](../../../symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.svg)
+
+*Diagram 8 — The QL unit as concentric mandala.* The eight determinations as the canonical concentric mandala: centre `0/1`, the ground–mark relation, empty of object; stations `?/!` (N, Line), `−/+` (E, Angle), `X/x` (W, Triangle), `AM/IS` (S, Square) at the degree-table compass points; `∞/dx` as the enclosing horizon; `/ = −/−` before the count and `1/0`, the return-switch `5→0`, as frame — frame, never content. The forward folds and the east–west phase-flip are drawn; nothing else is implied. **Status: Derived** (traversal, theorem field) **/ Argued** (cross-register names). Source of record: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md|Core Theorems — Pithy]], the eight-determinations table, read through the essay's `§3 · #0`. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.md)
+
+<!-- /figure:ql-unit-mandala-eight-determinations -->
+
 ## The internal grammar of the six
 
 The six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.
@@ -42,6 +50,14 @@ The six also have internal grammar. **Being** joins Ground and Definition: a fie
 ## Calculus — exact local information and the unrecovered constant
 
 Calculus gives the Realisation turn a precise local image. If `F′(x)=f(x)`, then every `F(x)+C` has the same derivative. Differentiation yields exact local change while dropping the additive constant; indefinite integration returns a family rather than selecting the originating member without a further condition.
+
+<!-- figure:calculus-constant-family -->
+
+![A plot of the parabolas F of x equals x squared plus C for C equal to minus one, zero, one, two, three and four. At x equal to one each curve carries a short tangent segment of slope two: the same derivative, two x, for every member. The curve with C equal to three is drawn in red and passes through the marked point x zero, F zero equals three: the condition that selects one member of the family. A text column states that the derivative was exact throughout and lacked only the information needed to select the additive constant.](../../../symbolon/matheme/diagrams/calculus-constant-family.svg)
+
+*Diagram 7 — What the derivative cannot recover.* Every `F(x)=x²+C` has the derivative `2x`, so integrating `2x` returns a family and no single function; the condition `F(0)=3` selects `C=3`. The derivative is exact at every point and carries no information about `C`. **Status: Derived** (on an interval). Source of record: the essay's display in `§3 · #0`; [[symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/strang-herman-2016-openstax-calculus-v1|Strang and Herman, Calculus, vol. 1]], §4.10. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/calculus-constant-family.md)
+
+<!-- /figure:calculus-constant-family -->
 
 The philosophical force lies exactly there. **Local exactness can be complete as local exactness while still underdetermining the wider state from which it arose.** The constant is not “provenance” by definition; it is the mathematical operation through which the essay makes provenance thinkable without sacrificing exactness. The further condition needed to select one member of the family is what lets the formal example pass into the wider problem of determination and ground.
 
@@ -54,6 +70,14 @@ Jung’s quaternity and four functions enter at another register. Thinking, feel
 ## Perspective becomes context
 
 The native counting logic gives the opening demand for diaphaneity a formal expression. First person, second person, and third person unfold sequentially as knower, mediation, and known. Their three views compose what the authorial geometry calls the `180°` triangle of determinate perspective. The move to `#4` is not another viewpoint placed beside them: all three views and the relations among them become simultaneously available as context, opening the triangle into the square's `360°` holding.
+
+<!-- figure:triangle-to-square-construction -->
+
+![Three panels on one unit circle with stations N at the top, E at the right, W at the left and S at the bottom, centre O. First, a radius from O to N. Second, the triangle N, E, W: interior angles sum to 180 degrees, area one, stations acquired in the order N, E, W; the move from E to W crosses the diameter. Third, adding S and joining N, E, S, W gives the square: angle sum 360 degrees, area two; the former edge E to W is now an interior diagonal shared by the complementary triangles N-E-W and S-E-W.](../../../symbolon/matheme/diagrams/triangle-to-square-construction.svg)
+
+*Diagram 6 — From the triangle to the square.* The native acquisition order N, E, W, S on the unit circle. N, E and W bound a triangle with interior angles summing to 180° and area 1. Adding S and joining N–E–S–W gives the square, with angles summing to 360° and area 2, and the former edge E–W becomes an interior diagonal shared by the complementary triangles N–E–W and S–E–W. **Status: Derived** (the geometry). The reading of this change as perspective becoming context is the movement's argument and is not drawn. Source of record: the essay's display in `§3 · #0`; [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy|Core Theorems — Pithy]], §II(a). *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/triangle-to-square-construction.md)
+
+<!-- /figure:triangle-to-square-construction -->
 
 The `4/5/0` pass reckons the preceding `1-2-3` perspectives as **void, one, and `0/1`**: their isolation is voided into context, their unity is recognised as one appearing-act, and the achieved one returns through ground and mark. The two passes therefore give `3:3` and, through the unity of recognition, `3:1`. These are native QL readings; ordinary Euclidean angle measure does not derive them. The later physical/mental and harmonic readings inherit this personed operation under their own warrants.
 

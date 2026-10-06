@@ -21,6 +21,14 @@ Movement 28 of 48 · [This room](../ROOM-04-mathematical-substrate.md) · [← P
 
 Mathematics repeatedly encounters obstructions that become tractable after the representational space, algebra or logic is changed. The complex plane gives a representation for square roots of negative real numbers. The real projective line completes an affine line with a point at infinity; the projective plane supplies points at infinity at which parallel affine directions meet. The Riemann sphere compactifies the complex plane by adjoining one point at infinity.
 
+<!-- figure:re-entry-projective-fork -->
+
+![Two panels divided by a dashed red line labelled "comparative adjacency — not equivalence". Left: a circle split by a bold vertical stroke, an arrow curving from outside back into the form labelled "the mark re-enters its own form"; below, the iterant display with shift eta and the result i squared equals minus one, described as alternation plus temporal shift. Right: two cards, one for the point (0:1) with chart u giving zero and (1:0) blocked, one for (1:0) with chart v giving zero and (0:1) blocked, joined by crossing arrows; beneath them the overlap rule v equals one over u, with the note that this zero is not a multiplicative inverse of zero.](../../../symbolon/matheme/diagrams/re-entry-projective-fork.svg)
+
+*Diagram 10 — Re-entry and the projective fork.* Paired panel in comparative adjacency: the mark re-entering its own form, with alternation plus temporal shift giving $i^2=-1$; beside it, the projective fork `[0:1] ↔ [1:0]`, where each chart supplies the coordinate the other blocks, under the overlap rule $v=1/u$. The panels perform one operation each; the dashed divider is the claim that adjacency is not equivalence. **Status: Derived** (iterant algebra; chart constructions) **/ Argued** (temporal reading; the adjacency). Source of record: the movements' own displays — `§3 · #2` and `§3 · #3`. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/re-entry-projective-fork.md)
+
+<!-- /figure:re-entry-projective-fork -->
+
 These are distinct constructions. Their common methodological force is narrower than “mathematics always resolves paradox by adding a dimension”: **an obstruction can disclose assumptions of the present representation, and a rigorously specified enlargement can preserve some relations while changing others.** The exact hypotheses and invariants of each construction remain part of the claim.
 
 ## Projective and quantum payload
@@ -34,6 +42,22 @@ $$
 It is invariant under projective/Möbius transformations up to the familiar permutation-dependent variants. The mathematical point needed here is relational: the invariant is attached to a configuration of four points, not to an isolated coordinate.
 
 The complex projective line `CP¹` is biholomorphic to the Riemann sphere. Pure states of a two-level quantum system, modulo global phase, also form `CP¹` and can be represented by the Bloch sphere. After a choice of computational basis, `|0⟩` and `|1⟩` occupy opposite poles and superpositions occupy the rest of the state-space. This is an exact geometric fact about qubits. **QL's `0` and `1` do not become quantum basis states by sharing labels**; any ground/mark reading is a further analogy whose value must come from the operation preserved, not from the digits alone.
+
+<!-- figure:riemann-sphere -->
+
+![A grey shaded sphere outlined in blue with a red great circle round the equator and a green great circle through the poles; black dots mark infinity at the top, 0 at the bottom, 1 on the right, minus 1 on the left, and i and minus i on the front and back of the equator.](../../../symbolon/matheme/topology/images/riemann-sphere.svg)
+
+*Image 8 — A sphere closed by one point.* The Riemann sphere with its marked points: 0 at the south pole, ∞ at the north pole, and 1, −1, i and −i on the equator. This is the picture of the construction the record writes in coordinates, in which adding the single point ∞ to the complex plane closes it into a sphere; the map `z↦1/z` exchanges the two poles. Credit: GKFXtalk (vectorised from a drawing by Bjoern Klipp), *RiemannKugel.svg*, 23 April 2018. CC BY-SA 3.0. [Record](../../../symbolon/matheme/topology/riemann-sphere.md)
+
+<!-- /figure:riemann-sphere -->
+
+<!-- figure:atlas-two-chart-circle -->
+
+![Left: the unit circle with its north pole and south pole drawn as small open circles and marked as omitted, one from each chart, and the sample point P at three fifths, four fifths marked in red with its two coordinate values. Right: two chart cards — u equals x over one minus y, valid away from the north pole; v equals x over one plus y, valid away from the south pole — joined by double arrows over the overlap rule uv equals one, v equals one over u. Below, a motion-test card: du dt equals two at P gives dv dt equals minus two ninths, yet both inverse height formulas give the same height speed, six twenty-fifths. A closing band states that no single global chart exists and agreement is earned by the transition rule, not declared.](../../../symbolon/matheme/diagrams/atlas-two-chart-circle.svg)
+
+*Diagram 11 — An atlas of two charts.* An atlas of two charts on the unit circle: `u = x/(1−y)` valid away from the north pole, `v = x/(1+y)` valid away from the south pole, joined by `uv = 1`, `v = 1/u`; at `P = (3/5,4/5)` the coordinates `u = 3`, `v = 1/3` disagree as a rule-governed translation, and a motion with `du/dt = 2` recovers the same `dy/dt = 6/25` through either inverse. No global chart exists; the excluded pole of each chart remains available through the other. **Status: Derived** (constructions and motion test, recomputed). Source of record: the essay's atlas display in `§3 · #3`; the jigsaw/atlas whole as internal provenance of the framing. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/atlas-two-chart-circle.md)
+
+<!-- /figure:atlas-two-chart-circle -->
 
 ## Logical plurality and comparison boundary
 

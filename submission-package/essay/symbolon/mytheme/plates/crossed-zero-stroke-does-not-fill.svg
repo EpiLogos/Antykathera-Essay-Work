@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="Georgia, 'Times New Roman', serif" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">Plate — The Crossed Zero: the stroke does not fill the zero</title>
+<desc id="d">Two panels on a paper-coloured ground. Each panel holds a large circle crossed by a bold diagonal stroke. In the left panel, circle and stroke are the same dark ink, captioned "as finished character — the mediating stroke fused with the zero it crosses, the operation no longer seen", with the notation 0 → Ø. In the right panel the identical circle is crossed by the same stroke in deep red; three leader lines label the circle's interior "zero-space — the subject-pole not exhausted as object", the red stroke "the mediating stroke — legible as mediation, nothing is erased", and a small dark square beyond the stroke's upper end "the determinate mark". Below, a monospace line reads 0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↩ 0/1, captioned as the recognition series inscribed as horizon, and the motto "uncrossing is not erasing — the stroke becomes legible as mediation".</desc>
 <rect x="0" y="0" width="1200" height="900" fill="#f5f0e6"/>
 <text x="600" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">PLATE · THE CROSSED ZERO</text>
 <text x="600" y="94" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">a zero crossed by a stroke — the stroke does not fill the zero it crosses</text>

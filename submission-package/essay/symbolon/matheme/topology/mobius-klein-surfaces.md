@@ -5,6 +5,13 @@ record_type: matheme
 register: matheme
 claim_status: Derived
 source_relation: "Explicit geometric construction; argued native return"
+figures:
+  - asset: "images/glass-klein-bottle.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-SA-4.0"
+    rights_note: "Photograph by PaulT (Gunther Tschuch); attribution and share-alike apply to the photograph."
+    source_url: "https://commons.wikimedia.org/wiki/File:Klein_bottle_glass2.jpg"
+    credit: "PaulT (Gunther Tschuch), Klein bottle glass 2, photograph, 15 January 2023. CC BY-SA 4.0."
 ---
 
 # Möbius and Klein: Orientation through Return
@@ -24,6 +31,12 @@ This concerns the specified orientation-reversing loop. Contractible loops do no
 ## #2 — Construct the Klein bottle
 
 On `ℝ²`, use transformations `a(x,y)=(x+1,−y)` and `b(x,y)=(x,y+1)`. Quotient by the group they generate. Direct calculation gives `aba⁻¹=b⁻¹`, the Klein-bottle relation.
+
+![A glass Klein bottle photographed on a grey surface: a rounded bulb at the base with a narrow neck that curves up and over, bends back down and passes through the side of the bulb to open inside it.](images/glass-klein-bottle.jpg)
+
+> A glass Klein bottle. The neck bends round and enters the bulb through its side wall, which a closed surface in three dimensions can only do by crossing itself. The surface constructed in the record, with the relation `aba⁻¹=b⁻¹` and no self-intersection, needs a fourth dimension; this object is its three-dimensional image.
+>
+> Credit: PaulT (Gunther Tschuch), *Klein bottle glass 2*, photograph, 15 January 2023. CC BY-SA 4.0.
 
 The derivative of `a` has determinant −1, whereas that of `b` has determinant +1. A loop represented by `a` reverses orientation; one represented by `b` preserves it. More generally, reversal depends on the parity of the `a` exponent, not on merely having completed “one circuit.”
 

@@ -14,6 +14,13 @@ movement_ids:
   - 29-s3-p4-topology-music-resolution
   - 35-s4-p4-gebser-apollo-dionysus
   - 45-s50-p2-antikythera-attunement
+figures:
+  - asset: "images/gaffurio-1492-pythagoras-and-the-ratios.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Printed woodcut of 1492; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Gaffurio_Pythagoras.png"
+    credit: "Franchinus Gaffurius, Theorica musice, Milan, 1492, woodcut (digital copy from the Bibliothèque nationale de France, Gallica). Public domain; reproduction from Wikimedia Commons."
 ---
 
 # Ancient Philosophy — Measure, Tension, and the Form of Relation
@@ -25,6 +32,12 @@ The Greek line enters through acts rather than a school-by-school survey: the cu
 The earliest Greek mathematical presence in the current source pool arrives indirectly through [Kaplan's history of zero](../../../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is.md). Greek arithmetic and geometry achieved powerful forms without a positional zero, while Hellenistic astronomical tables used a circular sign to hold an absent degree, minute, or second. The sign had a local office inside measurement; it had not yet become the freely operating arithmetic zero developed in India. This distinction matters to [§1 · #0](../../../../../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md): a visible circle does not carry one timeless meaning, and a mathematical culture can organise magnitude without granting absence the same operations later mathematics would give it.
 
 The Pythagorean current reaches the essay through ratio. The fourth (4/3), fifth (3/2), whole tone (9/8), and octave (2/1) belong to a practice in which number is heard as ordered relation. The source bank's strongest present historical control is [Scholtz on diatonic tunings and temperaments](../../../sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md), which keeps the ratios attached to specified tuning constructions and preserves the comma produced when pure intervals do not close into a frictionless identity. [§3 · #1](../../../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md) derives its own ratio-family; [§3 · #4](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) then lets the ancient harmonic vocabulary disclose what the derivation sounds like. The history supplies the audible mathematics. The proof remains in the local equations.
+
+![A black-and-white woodcut divided into four framed panels: at upper left smiths strike an anvil with hammers; at upper right a seated Pythagoras with a pointer sits before a row of bells and a table of glasses; at lower left he works at a stringed monochord; at lower right he and Philolaus play pipes. Each panel carries a Latin name label.](images/gaffurio-1492-pythagoras-and-the-ratios.jpg)
+
+> Franchinus Gaffurius's woodcut of Pythagoras's discoveries, from the *Theorica musice* of 1492: hammers, bells, glasses, a stretched string and pipes, with numbers marked on them. It illustrates the late-antique story that Pythagoras found the fourth, fifth and octave in whole-number ratios by weighing sounding bodies. The story is a transmitted legend; the ratios are the mathematics the history carries.
+>
+> Credit: Franchinus Gaffurius, *Theorica musice*, Milan, 1492, woodcut (digital copy from the Bibliothèque nationale de France, Gallica). Public domain; reproduction from Wikimedia Commons.
 
 [Mackenzie's critical presentation of Heraclitus B51](../../../sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/mackenzie-2021-heraclitean-allusion-odyssey.md) now grounds the bow and lyre at the junction of philosophy, myth, and music. The fragment says that what differs agrees with itself through a *palintropos harmoniē*, a backwards-turning fastening like that of the two instruments. Mackenzie follows the image through its construction: the arms of bow and lyre are bent, joined, and kept under tension; the lyre also lets *harmoniē* name the ordering of a musical scale. He identifies Hippolytus's *Refutation* 9.9.2 as the strongest complete ancient witness, retains *palintropos* against the variant *palintonos*, and argues that the fragment recalls Odysseus stringing and sounding his bow in *Odyssey* 21.
 

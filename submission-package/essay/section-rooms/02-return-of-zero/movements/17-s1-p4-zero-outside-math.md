@@ -34,6 +34,10 @@ Division by zero is the point at which a formal system must disclose itself. In 
 
 Assume in a field that \(1/0=x\). Then \(0x=1\); but \(0x=0\) for every field element, so no such \(x\) exists. To give \(1/0\) a value, the system must change. [[dimensional-reframing-at-zero-and-infinity|Projective completion]] may identify directions at infinity; the [[dimensional-reframing-at-zero-and-infinity|Riemann sphere]] gives complex infinity a geometric place; totalised algebras alter distributivity, equality, or exceptional values. Each resolution carries a purpose and a cost.
 
+<!-- see-figure:sheffer-nor-reduction -->*See also Diagram 3, [One connective and the seam](../../../symbolon/matheme/diagrams/sheffer-nor-reduction.md).*<!-- /see-figure:sheffer-nor-reduction -->
+
+<!-- see-figure:riemann-sphere -->*See also Image 8, [A sphere closed by one point](../../../symbolon/matheme/topology/riemann-sphere.md).*<!-- /see-figure:riemann-sphere -->
+
 The historical pressure is now inspectable rather than anecdotal. In [[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara|Colebrooke — Brahmagupta and Bhāskara (1817)]], `colebrooke-1817-brahmagupta-bhaskara-q002` preserves Bhāskara's zero-denominator expression in the selected translation; [[symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/dutta-2023-zero-divided-numbers-india|Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] asks what happens when cancellation and cross-multiplication are restricted for such objects. Neither source turns the expression into ordinary field division. Together they show why the formal container has to be declared.
 
 ## Argumentative force

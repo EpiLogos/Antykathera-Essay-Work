@@ -1,0 +1,89 @@
+---
+title: "Twelve Fifths, Seven Octaves, One Comma"
+record_id: diagram-pythagorean-comma-fifths-and-octaves
+record_type: diagram-record
+register: matheme
+domain: diagrams
+claim_status: "Derived (the ratios, the cents and the angle); the reading as a return that retains its distance is Argued in the movement"
+source_relation: "Paraphrased (the comma and equal-tempered interval calculations, Scholtz 1998); original diagram"
+asset: pythagorean-comma-fifths-and-octaves.svg
+construction: "Python-generated SVG (pythagorean-comma-fifths-and-octaves.gen.py), beside this record; geometry, text and every displayed value computed in the generator"
+essay_blocks:
+  - "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md"
+source_dependencies:
+  - "symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md"
+rights: "Original work, created for the essay. No third-party image material."
+tags: [epi-logos/antikythera-essay, argument-map/live, register/matheme, domain/diagrams, pythagorean-comma, pitch-class, equal-temperament, return]
+created: "2026-10-05"
+---
+
+# Twelve Fifths, Seven Octaves, One Comma
+
+<!-- figure:pythagorean-comma-fifths-and-octaves -->
+
+![Left, the pitch-class circle, pitch reduced by whole octaves, with twelve equal steps ticked around it. Twelve pure fifths, each three halves, are plotted as a chain of points with chords; the twelfth lands a little beyond the starting point, and the red arc between them is the comma. Right, the same journey lifted to pitch height: seven octaves and twelve fifths drawn as two bars that differ by a sliver, then magnified on a ruler to show twelve fifths at 7.0196 octaves against seven octaves at exactly seven. The residual is 531441 over 524288, about 1.01364, or 23.46 cents, and it is not the whole tone nine eighths. Beneath, twelve-tone equal temperament closes exactly with twelve steps of two to the power one twelfth, its fifth being 700 cents against 701.955 for the pure fifth.](pythagorean-comma-fifths-and-octaves.svg)
+
+Twelve pure fifths overshoot seven octaves. On the pitch-class circle the chain of fifths lands past its start; lifted to pitch height it lies above seven octaves by `(3/2)¹² / 2⁷ = 531441/524288 ≈ 1.01364`, 23.46 cents, the Pythagorean comma, which is distinct from the whole tone `9/8`. Twelve-tone equal temperament closes after twelve steps of `2^(1/12)`, and its fifth, 700 cents, departs from the pure 701.955. **Status: Derived.** Source of record: the essay's display in `§3 · #4`; [[symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings|Scholtz, Algorithms for Mapping Diatonic Keyboard Tunings]].
+
+<!-- /figure:pythagorean-comma-fifths-and-octaves -->
+
+## Proposition
+
+Twelve pure fifths do not equal seven octaves. `(3/2)¹² / 2⁷ = 531441/524288 ≈ 1.01364`, about 23.46 cents: on the pitch-class circle (`log₂ f mod 1`) the chain of fifths lands 7.04° past its start, and lifted to pitch height it lies 0.0196 octave above seven octaves. This residual is the Pythagorean comma and differs from the whole tone `9/8`. Twelve-tone equal temperament closes after twelve steps of `2^(1/12)` because its fifth, `2^(7/12)` or 700 cents, departs from the pure `3/2` at 701.955 cents.
+
+## Inputs
+
+The pure fifth `3/2`, the octave `2/1`, the pitch-class map `f ↦ log₂(f/f₀) mod 1`, and the equal-tempered step `2^(1/12)`.
+
+## Transformations
+
+Step up by `log₂(3/2) = 0.58496` octave twelve times and reduce mod 1 to place each fifth on the circle. Lift the same journey to the real line. Compare `12·log₂(3/2) = 7.01955` with `7`. Convert the ratio to cents by `1200·log₂`.
+
+## Invariant
+
+The octave, as the identification that makes the circle, and the exact value of the comma, which is the same on the circle and on the lift.
+
+## Proof boundary
+
+- **Derived:** all ratios, cents and the angle `0.01955 × 360° ≈ 7.04°`.
+- **Not claimed:** any aesthetic or practical consequence of tempering. The movement's question, which relationship a tuning serves and what adjustment it makes audible, stays with the movement.
+- **Scale:** the full-scale bars differ by 0.3 per cent; the magnified ruler is drawn to a stated scale.
+
+## Essay blocks
+
+- **Primary:** `04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md` and the manuscript's §3, M29, after the paragraph that begins “Pitch class and pitch height distinguish return from ascent”, which follows the comma and the equal-tempered closure.
+- **Brief resolved in part:** the legacy brief `image-09-unmarked-axle-and-comma.md` asked for the comma beside the mechanism's axle; this diagram carries the comma and leaves the axle to M45's plate.
+
+## Asset
+
+`pythagorean-comma-fifths-and-octaves.svg`, original SVG generated by `pythagorean-comma-fifths-and-octaves.gen.py`, co-located with this record. The generator reproduces the asset exactly and computes every displayed value.
+
+## Caption
+
+Twelve pure fifths overshoot seven octaves. On the pitch-class circle the chain of fifths lands past its start; lifted to pitch height it lies above seven octaves by `(3/2)¹² / 2⁷ = 531441/524288 ≈ 1.01364`, 23.46 cents, the Pythagorean comma, which is distinct from the whole tone `9/8`. Twelve-tone equal temperament closes after twelve steps of `2^(1/12)`, and its fifth, 700 cents, departs from the pure 701.955. **Status: Derived.** Source of record: the essay's display in `§3 · #4`; [[symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings|Scholtz, Algorithms for Mapping Diatonic Keyboard Tunings]].
+
+## Alt text
+
+Left, the pitch-class circle, pitch reduced by whole octaves, with twelve equal steps ticked around it. Twelve pure fifths, each three halves, are plotted as a chain of points with chords; the twelfth lands a little beyond the starting point, and the red arc between them is the comma. Right, the same journey lifted to pitch height: seven octaves and twelve fifths drawn as two bars that differ by a sliver, then magnified on a ruler to show twelve fifths at 7.0196 octaves against seven octaves at exactly seven. The residual is 531441 over 524288, about 1.01364, or 23.46 cents, and it is not the whole tone nine eighths. Beneath, twelve-tone equal temperament closes exactly with twelve steps of two to the power one twelfth, its fifth being 700 cents against 701.955 for the pure fifth.
+
+## Source dependencies
+
+- `scholtz-1998-algorithms-diatonic-keyboard-tunings` — the comma and the equal-tempered interval calculations, and the quotient of logarithmic pitch by octaves. The arithmetic is checkable directly.
+
+## Rights
+
+Original work, created for the essay. No scraped, downloaded or licensed third-party image material.
+
+## Anchored movements
+
+This diagram performs its operation at: [[section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution]].
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M29), after the paragraph beginning “Pitch class and pitch height distinguish return from ascent”.
+- Figure in [§3 · #4 — Topology and Musical Resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), after the paragraph beginning “Music is powerful here because relation is perceptually prim”.
+<!-- /embedded-at -->

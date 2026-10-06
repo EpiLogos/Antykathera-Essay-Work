@@ -5,6 +5,13 @@ record_type: matheme
 register: matheme
 claim_status: Derived
 source_relation: "Exact construction; argued native reading and bounded source relation"
+figures:
+  - asset: "images/chladni-1787-tab-viii-square-plate-figures.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Engraved plate of 1787; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Ernst_Florens_Friedrich_Chladni_-_Entdeckungen_%C3%BCber_die_Theorie_des_Klanges_-_1787.pdf"
+    credit: "Ernst Florens Friedrich Chladni, Entdeckungen über die Theorie des Klanges (Leipzig: Weidmanns Erben und Reich, 1787), Tab. VIII; page 95 of the digitised copy on Wikimedia Commons. Public domain."
 ---
 
 # Cymatics and Standing Waves
@@ -34,6 +41,12 @@ For `n=3`, nodes lie at `x=0,L/3,2L/3,L`: four nodes including endpoints, three 
 The displayed solution is a normal mode of the ideal free system after its initial excitation. A driven, damped string requires an added forcing term and damping model; its response depends on forcing frequency, location, damping and mode coupling. A vibrating plate additionally requires a plate or membrane equation and its geometry, supports and material parameters.
 
 Visible particle arrangements in a physical cymatic experiment are further observables. Their formation cannot be inferred solely from the one-dimensional sine identity. An experimental record must identify the actual apparatus and pattern rather than label any attractive figure a measured eigenmode.
+
+![A copper-engraved plate on cream paper headed Tab. VIII: a grid of five rows and four columns of small squares, numbered 87 to 106, each square crossed by black lines and curves that divide it into regions.](images/chladni-1787-tab-viii-square-plate-figures.jpg)
+
+> Plate VIII of Chladni's *Entdeckungen* (1787): the nodal figures of a square plate, numbered 87 to 106. Each square shows the nodal lines, where sand collects, for one mode of the plate. They are the further observables the record separates from the one-dimensional string mode it derives: a plate has its own equation and boundary conditions.
+>
+> Credit: Ernst Florens Friedrich Chladni, *Entdeckungen über die Theorie des Klanges* (Leipzig: Weidmanns Erben und Reich, 1787), Tab. VIII; page 95 of the digitised copy on Wikimedia Commons. Public domain.
 
 ## #4 — Give the proposed anchor mapping a test
 

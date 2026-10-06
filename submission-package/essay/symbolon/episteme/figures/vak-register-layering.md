@@ -13,6 +13,14 @@ created: 2026-09-25
 
 # Figure — The Straight Vāk Layering of the Four Registers
 
+<!-- figure:vak-register-layering -->
+
+![A vertical diagram of four stacked bands connected by downward arrows labelled "descent", ordered top to bottom as Symbolon/parā, Matheme/paśyantī, Mytheme/madhyamā, Episteme/vaikharī. Each band pairs the register office (holds the relation; visionary operative logic; lived visual and narrative operations; instituted knowledge, history and warrant) with the speech-level office (Supreme Word prior to determination; formative seeing speech; mental articulation; explicit utterance). A guard note states the refused Matheme/Mytheme permutation, and a status band marks the mapping as Argued.](vak-register-layering.svg)
+
+The straight Vāk layering ratified 2026-09-07: each publication register carries one level of speech — Symbolon the relation itself (parā), Matheme its visionary operative logic (paśyantī), Mytheme the formed lived operations built through that logic (madhyamā), Episteme the instituted, addressable articulation (vaikharī). The order is descent, and the register/level pairing is fixed: the figure is the reference rendering of that ratification. *Status: Argued (authorial ratification; speech-level offices Argued from source-side introduction leads). Source of record: the central plan's mythic rule and A06 — Vāk.*
+
+<!-- /figure:vak-register-layering -->
+
 **Asset:** [vak-register-layering.svg](./vak-register-layering.svg)
 
 ## Proposition
@@ -60,9 +68,9 @@ The straight Vāk layering ratified 2026-09-07: each publication register carrie
 
 A vertical diagram of four stacked bands connected by downward arrows labelled "descent", ordered top to bottom as Symbolon/parā, Matheme/paśyantī, Mytheme/madhyamā, Episteme/vaikharī. Each band pairs the register office (holds the relation; visionary operative logic; lived visual and narrative operations; instituted knowledge, history and warrant) with the speech-level office (Supreme Word prior to determination; formative seeing speech; mental articulation; explicit utterance). A guard note states the refused Matheme/Mytheme permutation, and a status band marks the mapping as Argued.
 
-## Proposed essay blocks (wiring)
+## Proposed essay blocks (wiring at landing)
 
-Embedding is not this ticket. Proposed consumers, to be wired by their owners:
+Proposed consumers at landing (the placements made in the 2026-10-05 wiring pass are listed under Embedded at):
 
 1. `section-rooms/README.md` — the rooms' own statement of register order (generated surface; wire via its builder's source, not by hand edit).
 2. `symbolon/README.md` — the register overview, beside the declared layering.
@@ -72,3 +80,12 @@ Embedding is not this ticket. Proposed consumers, to be wired by their owners:
 ## Rights
 
 Original own-work, hand-authored SVG constructed from declared canonical records. No scraped, licensed or third-party artwork. The Sanskrit terms are common philosophical vocabulary sourced through the declared records; no quotation is performed by this figure.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Figure in [Symbolon](../../README.md), after the paragraph beginning “The four registers carry the Vāk layering”.
+<!-- /embedded-at -->

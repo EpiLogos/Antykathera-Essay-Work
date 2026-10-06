@@ -2,8 +2,8 @@
   "scope": "Visible links in publication Markdown; code/frontmatter excluded. Alias-only links are portability debt. No semantic certification.",
   "accepted_census": "working/pre-manuscript-refinement-2026-09-10/T25-current-census-acceptance.json",
   "counts": {
-    "pages": 1172,
-    "reachable": 1144,
+    "pages": 1180,
+    "reachable": 1152,
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 265,
@@ -826,7 +826,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
       "sha256": "68cbd001b525a440f289e163faaab3aa07070bb5ee552795d611f5e05f1ab8a2",
       "exists": true,
-      "current_sha256": "e5858dc2b0ee995f73dd0d73bc1476f2b1871f5700fdbf1f1e92aad454ec77ed",
+      "current_sha256": "15106bdf0f3aa3143f1197862d0f225506e0111ed3db4d453366a81628ca095f",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1244,9 +1244,9 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
       "sha256": "eb39e75c2323fe15060b0616e9ee3d4ba5638ebe8863721eadbefb2861571b96",
       "exists": true,
-      "current_sha256": "eb39e75c2323fe15060b0616e9ee3d4ba5638ebe8863721eadbefb2861571b96",
-      "changed_since_acceptance": false,
-      "reader_depth": 3
+      "current_sha256": "74a09366ed033245ff8aaa3c0cd0478e48c9ad5299514593428e515c31ce0e1c",
+      "changed_since_acceptance": true,
+      "reader_depth": 2
     },
     {
       "record_id": "matheme-torus-cover-winding",
@@ -1266,8 +1266,8 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
       "sha256": "d8d675c6066d05c96b078a3f38fcf8c4f2aa478f299b3ad41fdcf07a151f7393",
       "exists": true,
-      "current_sha256": "d8d675c6066d05c96b078a3f38fcf8c4f2aa478f299b3ad41fdcf07a151f7393",
-      "changed_since_acceptance": false,
+      "current_sha256": "27428e355c4e6e9f0388f5d4f255d802e8059febdb24ce1fb9e0da8b6c8960b6",
+      "changed_since_acceptance": true,
       "reader_depth": 3
     },
     {
@@ -1277,9 +1277,9 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
       "sha256": "17c9cd28bed3b388c161a89d2708f2b205750e11dec1fbc600f4d9abe3f75c53",
       "exists": true,
-      "current_sha256": "17c9cd28bed3b388c161a89d2708f2b205750e11dec1fbc600f4d9abe3f75c53",
-      "changed_since_acceptance": false,
-      "reader_depth": 3
+      "current_sha256": "baaa9f9f4db17941a2651e55b3a028d8598bc618ad10e8de32dac5409f2a7be7",
+      "changed_since_acceptance": true,
+      "reader_depth": 2
     },
     {
       "record_id": "matheme-whole-tone-return",
@@ -1343,9 +1343,9 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
       "sha256": "afa68b7b64e55803bd1a7baa54ff10630f597047aa822339ab747715324e9d39",
       "exists": true,
-      "current_sha256": "afa68b7b64e55803bd1a7baa54ff10630f597047aa822339ab747715324e9d39",
-      "changed_since_acceptance": false,
-      "reader_depth": 3
+      "current_sha256": "3f500edc34801273b08755a65502f29dde2f27dbcd857e77b2a469b37b2e2320",
+      "changed_since_acceptance": true,
+      "reader_depth": 2
     },
     {
       "record_id": "matheme-von-neumann-ordinals",
@@ -1552,7 +1552,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
       "sha256": "5a357a596fc55aa90e11104c0a79f2911889b3e86f410a3ee0fb2d0202299a86",
       "exists": true,
-      "current_sha256": "178018f3affc718787a6114798164856c510c503a61a4652d2453c015b792966",
+      "current_sha256": "eebca2cbd478ca049ef8e9d8929f2a675373f1c56503f5f9c481f7ee5834c2f1",
       "changed_since_acceptance": true,
       "reader_depth": 1
     },
@@ -1574,7 +1574,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
       "sha256": "9d9adb258e82622d8edae19987119cacf7e7b69df0531565c064660802315cf5",
       "exists": true,
-      "current_sha256": "c9836761278935aeb79688e9804855dd711edebd8525d35f1871c9eb8b45a9fb",
+      "current_sha256": "35363ecb1b9feabf2afe6e355005b477ef32ffbf9c3afea027bffdf9020ec7e8",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1585,9 +1585,9 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
       "sha256": "5ead13a597c215fbd3d790c1c08243d60b666cf57fa10bfc7647d366d245bf52",
       "exists": true,
-      "current_sha256": "5ead13a597c215fbd3d790c1c08243d60b666cf57fa10bfc7647d366d245bf52",
-      "changed_since_acceptance": false,
-      "reader_depth": 3
+      "current_sha256": "ff993e51a8c09006268aeb307dd21865359c1cadb6d803ee1f5dc9ce2b7a6551",
+      "changed_since_acceptance": true,
+      "reader_depth": 2
     },
     {
       "record_id": "mytheme-mirror-that-moves-first",
@@ -1607,7 +1607,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
       "sha256": "80e707efc77c86af9f9d9ba8ccdd16f87d916fcc57734651765b4c958622ee53",
       "exists": true,
-      "current_sha256": "2eb0f8b732da8affee966febcba0a7526e94a1e424b8e146a91b73763d102847",
+      "current_sha256": "97b6f51a314b62af537af2a956bf7d48dfb3330884d289404133b9fc78c67ec8",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1618,8 +1618,8 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
       "sha256": "d342c1eda598ef65dbfc30c9cc90360140b8454cad0fe40c963a2c8b5e45eebc",
       "exists": true,
-      "current_sha256": "d342c1eda598ef65dbfc30c9cc90360140b8454cad0fe40c963a2c8b5e45eebc",
-      "changed_since_acceptance": false,
+      "current_sha256": "628030570cbc242d9088e41708be1fb447453a2adeaa30f6a2f628d54b1327b5",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -1629,7 +1629,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
       "sha256": "66f16143a1ce72f6baa78ad32ace1621749baf156c27e5b675d5f9b304ab0705",
       "exists": true,
-      "current_sha256": "c521b36e4e9a0c4d308588367a64cee7adc5b7610fceaac4970cb664a683f9aa",
+      "current_sha256": "fe1d6a2389a64005ee84b25881a1c453c5600e2cdf2546100ab4c19b2082181f",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1640,8 +1640,8 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
       "sha256": "d7b0f41d486379495edc24f6246c0a910f60abb372e149624afa003eef24f083",
       "exists": true,
-      "current_sha256": "d7b0f41d486379495edc24f6246c0a910f60abb372e149624afa003eef24f083",
-      "changed_since_acceptance": false,
+      "current_sha256": "d70faf841af33f77b5a61ae07bbd3615f8d40d0caea08b176de84340c95b9e7d",
+      "changed_since_acceptance": true,
       "reader_depth": 1
     },
     {
@@ -1684,7 +1684,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
       "sha256": "e1c8286d3aa42a693e217fe48aee8d4a6c80daf6a0ba4336cbc44ef311e52b4c",
       "exists": true,
-      "current_sha256": "6a5d01925d1f507bd6979c2f8b1887d1befc93dec2d3e91f8d9d8e4a0142e17e",
+      "current_sha256": "31284973a80c8843d3b9a0a6734f2764edca9dd2528386687930eba2ebcf1459",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1695,8 +1695,8 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
       "sha256": "207966881669f092dfb8f7f67318d34c3227ad269ff54e6262cfd3b77e3c2c6d",
       "exists": true,
-      "current_sha256": "207966881669f092dfb8f7f67318d34c3227ad269ff54e6262cfd3b77e3c2c6d",
-      "changed_since_acceptance": false,
+      "current_sha256": "c220e5d644f57b8ed8f7e35b23b7fd3ce8e68092547606b3f28940a04269d5df",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -1717,7 +1717,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
       "sha256": "93fa34e4a0fb540ae0b966ba427a9402ca6f84ff3e432b6b6146f3e49c4a8f87",
       "exists": true,
-      "current_sha256": "92ffc1ff7cbfdc1a5cf5b300b4085620c0ed409661ce7b23dbb39c461661eb72",
+      "current_sha256": "4b8af2a7f6c7b6a8792d44fda7a1d43289fa6fd9d9c242f94b2ba1a4d7ea7bb1",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1728,8 +1728,8 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md",
       "sha256": "decaf1f0f3951ec703d7d324c5ecd56cacfbf545a2f5bfa8728b2c7d879a1874",
       "exists": true,
-      "current_sha256": "decaf1f0f3951ec703d7d324c5ecd56cacfbf545a2f5bfa8728b2c7d879a1874",
-      "changed_since_acceptance": false,
+      "current_sha256": "2d86eafea8917496392d3777ae678c2abb64a69bc6474e64b64699c8aad46dab",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -1750,8 +1750,8 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md",
       "sha256": "9c410adca67ab2af32cb2852b3b5e46da6a8c495e41a11acdd2898f15e4e70b1",
       "exists": true,
-      "current_sha256": "9c410adca67ab2af32cb2852b3b5e46da6a8c495e41a11acdd2898f15e4e70b1",
-      "changed_since_acceptance": false,
+      "current_sha256": "a956625602b8d06d2c09e5a031951018f7c1e5e3d0987748956166cd6df4d104",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -1772,8 +1772,8 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY-mathematics.md",
       "sha256": "4c5e439efc255b8c6e33618f37d12939be50384f8bda87db01bf493e0832e167",
       "exists": true,
-      "current_sha256": "4c5e439efc255b8c6e33618f37d12939be50384f8bda87db01bf493e0832e167",
-      "changed_since_acceptance": false,
+      "current_sha256": "a380c99c05f7a1666064016fa6a58b1794ed9dab87df276814d2626ea806217f",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -1827,8 +1827,8 @@
       "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md",
       "sha256": "57e3dddec592502dd44037462e45f7b79f04be09d3f2135cbf85acb6e5c64521",
       "exists": true,
-      "current_sha256": "57e3dddec592502dd44037462e45f7b79f04be09d3f2135cbf85acb6e5c64521",
-      "changed_since_acceptance": false,
+      "current_sha256": "637f7340682311662b146ce12f0c4fd44d5e01984f3a4c214f5af4e8a55a4634",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -2003,9 +2003,9 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
       "sha256": "bcb4796c614408294ea4775545f0a51be2ec76a5f6cb775e7fd1dc14ab4b8665",
       "exists": true,
-      "current_sha256": "0607b995b226a494b1690559f48425e846afa3691613b8d20a2fc7f5e448b7a0",
+      "current_sha256": "435c4b95192ee71ba58024a51cbaebc52bb71e8ef60e6bef537b89be6a4245fc",
       "changed_since_acceptance": true,
-      "reader_depth": 3
+      "reader_depth": 2
     },
     {
       "record_id": "mytheme-maya-eye-veil-frame-horizon",
@@ -2036,8 +2036,8 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
       "sha256": "2ed4918d2736edae3469f0b91b98afbb2cbeff150485e70f634bdfb2e78f4a0a",
       "exists": true,
-      "current_sha256": "2ed4918d2736edae3469f0b91b98afbb2cbeff150485e70f634bdfb2e78f4a0a",
-      "changed_since_acceptance": false,
+      "current_sha256": "9468438e28dac2af669229520cacf989d1dcc74c2e00f458abf5bafbc726e9aa",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -2047,9 +2047,9 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
       "sha256": "79c1b1875caeed84f24f9e299cb4fb14271d5d3bccb27d671589f130822d3ca5",
       "exists": true,
-      "current_sha256": "79c1b1875caeed84f24f9e299cb4fb14271d5d3bccb27d671589f130822d3ca5",
-      "changed_since_acceptance": false,
-      "reader_depth": 3
+      "current_sha256": "79033fa18e1e2bf7a9caa40419511509ad30cf63c1f16454b6e7889fbce7f0cd",
+      "changed_since_acceptance": true,
+      "reader_depth": 2
     },
     {
       "record_id": "matheme-noether-symmetry-conservation",
@@ -2124,8 +2124,8 @@
       "canonical_home": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
       "sha256": "2764da7d6d196475cb99b9e633d0f61d95bdfa5aaa41b38a0389d6404bfb38f5",
       "exists": true,
-      "current_sha256": "2764da7d6d196475cb99b9e633d0f61d95bdfa5aaa41b38a0389d6404bfb38f5",
-      "changed_since_acceptance": false,
+      "current_sha256": "9140b3c8ef15ea8311b9420f45cbbd4b68dd6addfd22d42581598028e4acbf13",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -3059,8 +3059,8 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
       "sha256": "6a16cafdce944d8d100d744c567517e030aadb114c52c05642b22230860445b9",
       "exists": true,
-      "current_sha256": "6a16cafdce944d8d100d744c567517e030aadb114c52c05642b22230860445b9",
-      "changed_since_acceptance": false,
+      "current_sha256": "28ab484f604033dfcb314b24c82ffd797f8439382e26c5a537a33436ca34ce12",
+      "changed_since_acceptance": true,
       "reader_depth": 2
     },
     {
@@ -7080,9 +7080,9 @@
       "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
       "kind": "wiki",
       "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 22142,
-      "end": 22219,
-      "line": 119,
+      "start": 24684,
+      "end": 24761,
+      "line": 144,
       "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
       "status": "missing-vault-path"
     },
@@ -7090,9 +7090,9 @@
       "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
       "kind": "wiki",
       "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 23442,
-      "end": 23508,
-      "line": 121,
+      "start": 25984,
+      "end": 26050,
+      "line": 146,
       "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
       "status": "missing-vault-path"
     }
@@ -7212,9 +7212,9 @@
       "source": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
       "kind": "markdown",
       "href": "../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md",
-      "start": 1797,
-      "end": 1887,
-      "line": 27,
+      "start": 3022,
+      "end": 3112,
+      "line": 35,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
@@ -7782,9 +7782,9 @@
       "source": "submission-package/essay/symbolon/episteme/figures/ac-suite-field-shape.md",
       "kind": "markdown",
       "href": "../../../../../the-return-of-zero-central-plan.md",
-      "start": 1334,
-      "end": 1383,
-      "line": 25,
+      "start": 3148,
+      "end": 3197,
+      "line": 33,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
@@ -7792,9 +7792,9 @@
       "source": "submission-package/essay/symbolon/episteme/figures/ac-suite-field-shape.md",
       "kind": "markdown",
       "href": "../../../../../the-return-of-zero-central-plan.md",
-      "start": 5889,
-      "end": 5938,
-      "line": 55,
+      "start": 7703,
+      "end": 7752,
+      "line": 63,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
@@ -7802,9 +7802,9 @@
       "source": "submission-package/essay/symbolon/episteme/figures/objective-internality-paired-disclosures.md",
       "kind": "markdown",
       "href": "../../../../../the-return-of-zero-central-plan.md",
-      "start": 2607,
-      "end": 2656,
-      "line": 31,
+      "start": 4270,
+      "end": 4319,
+      "line": 39,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
@@ -7812,9 +7812,9 @@
       "source": "submission-package/essay/symbolon/episteme/figures/vak-register-layering.md",
       "kind": "markdown",
       "href": "../../../../../the-return-of-zero-central-plan.md",
-      "start": 1066,
-      "end": 1115,
-      "line": 24,
+      "start": 2390,
+      "end": 2439,
+      "line": 32,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
@@ -8262,9 +8262,9 @@
       "source": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
       "kind": "markdown",
       "href": "../../../../epi-logos/resources/mef-12-lenses-sublens-reference.md",
-      "start": 7806,
-      "end": 7872,
-      "line": 91,
+      "start": 9233,
+      "end": 9299,
+      "line": 104,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md",
       "status": "outside-body"
     },
@@ -8272,9 +8272,9 @@
       "source": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
       "kind": "markdown",
       "href": "../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
-      "start": 859,
-      "end": 939,
-      "line": 14,
+      "start": 1370,
+      "end": 1450,
+      "line": 21,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
       "status": "outside-body"
     },
@@ -8352,9 +8352,9 @@
       "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
       "kind": "markdown",
       "href": "../../../../../../../working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md",
-      "start": 1620,
-      "end": 1736,
-      "line": 25,
+      "start": 3689,
+      "end": 3805,
+      "line": 46,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md",
       "status": "outside-body"
     },
@@ -8362,9 +8362,9 @@
       "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
       "kind": "markdown",
       "href": "../../../../../../../working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
-      "start": 7775,
-      "end": 7863,
-      "line": 65,
+      "start": 8991,
+      "end": 9079,
+      "line": 78,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
       "status": "outside-body"
     },
@@ -8372,9 +8372,9 @@
       "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
       "kind": "markdown",
       "href": "../../../../../../../the-return-of-zero-central-plan.md",
-      "start": 1719,
-      "end": 1774,
-      "line": 21,
+      "start": 2684,
+      "end": 2739,
+      "line": 34,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },
@@ -8382,9 +8382,9 @@
       "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
       "kind": "markdown",
       "href": "../../../../../../../the-return-of-zero-central-plan.md",
-      "start": 16177,
-      "end": 16232,
-      "line": 92,
+      "start": 17628,
+      "end": 17683,
+      "line": 105,
       "target": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/the-return-of-zero-central-plan.md",
       "status": "outside-body"
     },

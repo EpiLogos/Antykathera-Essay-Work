@@ -7,6 +7,13 @@ claim_status: Argued
 source_relation: "Native authorial QL composition; source-distinct psychological refraction"
 source_ids: [taylor-2026-core-theorems-pithy, neumann-1954-origins-history-consciousness, jung-1978-aion-cw9-2, gebser-1985-ever-present-origin, taylor-2026-definition-god-draft3]
 human_amplification: relation-local
+figures:
+  - asset: "images/chrysopoeia-of-cleopatra-ouroboros.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Medieval manuscript drawing; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.png"
+    credit: "Chrysopoeia of Cleopatra, Venice, Biblioteca Marciana, Codex Marcianus graecus 299, fol. 188v, tenth–eleventh century. Public domain; reproduction from Wikimedia Commons."
 ---
 # Uroboros, circulation and trickster
 
@@ -14,6 +21,12 @@ human_amplification: relation-local
 ## #0
 
 The snake bends until its head meets its tail. Its mouth receives its own body; the body curves around an opening. Hunger moves along a relation in which eater and eaten belong to one life. What enters is worked upon, incorporated and returned. The creature that receives its tail is itself implicated in what it consumes. Following this movement brings the eye home through the body, with the passage still belonging to the return.
+
+![A black-ink drawing of a serpent curled into an oval, its head with a single eye at the top biting its own tail, the body dotted along its lower half; inside the oval two lines of small Greek script.](images/chrysopoeia-of-cleopatra-ouroboros.jpg)
+
+> The ouroboros of the *Chrysopoeia of Cleopatra*, a Greek alchemical manuscript of the tenth or eleventh century. The serpent that takes its tail encloses the words *hen to pan*, "the one, the all". It shows the closed circle the record begins from. The record's own reading, that the uroboros is toroidal and keeps the opening around which it takes form, is Taylor's; the manuscript supplies the image's tradition only.
+>
+> Credit: *Chrysopoeia of Cleopatra*, Venice, Biblioteca Marciana, Codex Marcianus graecus 299, fol. 188v, tenth–eleventh century. Public domain; reproduction from Wikimedia Commons.
 
 This is the whole image developed here in Taylor’s **native QL/Mytheme register**: the uroboros is toroidal, and its wholeness keeps the opening around which it takes form. The trickster wears the circle as its costume. Head and tail appear to complete a circumference, and that visible completion offers itself as the whole truth of the creature. The body’s depth, its mouth, the difference between inside and outside, and the opening through which self-relation remains possible disappear into the outline. The costume succeeds by making an actual feature exhaustive.
 

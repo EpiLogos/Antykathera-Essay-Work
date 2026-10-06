@@ -7,6 +7,13 @@ claim_status: Argued
 source_relation: "Paraphrased selected Apuleius Latin; Argued from the whole in the native Taylor register"
 admission_standing: admitted-supplementary-plate-not-governing-prose-myth
 source_ids: [apuleius-1913-psyche-cupido-purser, taylor-2026-definition-god-draft3, taylor-2026-core-theorems-pithy]
+figures:
+  - asset: "images/giordano-psyche-discovering-the-sleeping-cupid.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Painting of about 1700; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Luca_Giordano_(Naples_1634-Naples_1705)_-_Psyche_Discovering_the_Sleeping_Cupid_-_RCIN_406771_-_Royal_Collection.jpg"
+    credit: "Luca Giordano, Psyche Discovering the Sleeping Cupid, about 1695–1705, oil on canvas, Royal Collection Trust (RCIN 406771). Public domain; reproduction from Wikimedia Commons."
 ---
 
 # Eros and Psyche
@@ -38,6 +45,12 @@ They supply a different account for the space left by the concealed face. Her hu
 <a id="psyche-lamp-and-separation"></a>
 
 Psyche takes both instruments to the bed. She fears the supposed beast and loves the husband she has known; the two responses inhabit one body. When the lamp opens the darkness, she sees Cupid sleeping. The blade loses its intended object. For a moment it threatens Psyche herself before falling from her hand. She studies his beauty and then his bow and arrows. Testing an arrow point, she pricks her thumb and draws blood. She falls more deeply in love with Love and bends over him with kisses.
+
+![A painting of a canopied bed hung with blue and violet drapery: a pale nude Psyche leans forward holding a small oil lamp aloft in one hand and a dagger in the other above the sleeping, reclining Cupid, who rests his head on his hand; cupids flutter at the upper left and right.](images/giordano-psyche-discovering-the-sleeping-cupid.jpg)
+
+> Luca Giordano's *Psyche Discovering the Sleeping Cupid* (about 1695–1705) shows the scene of the lamp. The light that discovers who the husband is falls on the face of the sleeper, and the dagger in her other hand is the weapon her sisters supplied. The record reads the lamp as a seeing that discovers something true.
+>
+> Credit: Luca Giordano, *Psyche Discovering the Sleeping Cupid*, about 1695–1705, oil on canvas, Royal Collection Trust (RCIN 406771). Public domain; reproduction from Wikimedia Commons.
 
 A drop of hot oil falls from the lamp onto his right shoulder. The narrator gives the lamp a desire of its own, as though it too sought contact with the beautiful sleeper. Cupid wakes in pain and flies. Psyche clings to his leg until exhaustion makes her fall. He settles on a cypress and speaks before leaving her. He has disobeyed Venus's command, wounded himself with his own arrow and made Psyche his wife. This account of his self-wounding comes from Cupid after the exposure. He names the sisters' coming punishment and leaves Psyche to the loss of him.
 

@@ -20,6 +20,22 @@ Movement 45 of 48 · [This room](../ROOM-07-instrument-returns.md) · [← Previ
 ## Claim
 The Antikythera mechanism is finally earned as an image of situated coordination: [its gears render heterogeneous celestial cycles mutually readable for an observer while the heavens remain beyond the instrument](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md#ancient-craft-and-release).
 
+<!-- figure:antikythera-fragment-a-front -->
+
+![Fragment A of the Antikythera mechanism photographed from the front: a roughly square mass of dark green and black corroded bronze with a large circular recess left of centre, toothed gear wheels and broken plates showing at its surface, held by clear supports against a dark background.](../../../symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/images/antikythera-fragment-a-front.jpg)
+
+*Image 14 — Antikythera Fragment A, front.* Fragment A, the largest surviving piece of the Antikythera mechanism, seen from the front. The corroded bronze mass still shows its gear wheels and fractured plates. The record's archaeological body is this surface: the functions attributed to the device, and the front display proposed for it below, were reconstructed from imaging of this fragment and its companions. Credit: Logg Tandy, *Antikythera Fragment A (Front)*, photograph, 25 February 2025; fragment in the National Archaeological Museum, Athens. CC BY 4.0. [Record](../../../symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md)
+
+<!-- /figure:antikythera-fragment-a-front -->
+
+<!-- figure:mechanism-gearing-non-closure -->
+
+![An emblematic instrument on a paper-coloured ground. Above, a scattered star field and a faint dotted horizon arc extend across the full width, captioned "the frame is left open — the sky is not enclosed". Below, an open rectangular frame (base and two side rails, no top rail) contains three meshed gear wheels of increasing size — roughly sixteen, twenty-six and forty teeth — the largest carrying a faint spiral groove with a small red follower pin and a red pointer sweeping a dotted dial arc at its rim. Leader lines label the mesh "proportions — carried, not collapsed" and the groove "spiral groove and follower distinguish the turns". At the lower right, a small open circle with a dotted sight-line to the dial is captioned "a reading — the situation the gearing does not own". Base inscription: "one undifferentiated movement would lose the knowledge the unity was meant to provide."](../../../symbolon/mytheme/plates/mechanism-gearing-non-closure.svg)
+
+*Plate 5 — Gearing as non-closure.* Gearing as non-closure. Meshed trains of different counts carry proportions between motions without making them one motion; the spiral groove and its follower make successive turns distinguishable within one circular motion. The instrument's frame is drawn open: the sky continues past the arrangement, and the reader's sight-line joins the dial to a situation the gearing does not own. Attunement is this achieved relation, not possession — and a coherent reconstruction of the damaged original remains one proposed answer to the evidence, not the lost work itself. One undifferentiated movement would lose the knowledge the unity was meant to provide. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/mytheme/plates/mechanism-gearing-non-closure.md)
+
+<!-- /figure:mechanism-gearing-non-closure -->
+
 ## Warrant
 The essay has already established retained ground, multiple orientations, harmonic interval, lens refraction, and institutional return. The mechanism now images their coordination across agents, models, timescales, and values.
 

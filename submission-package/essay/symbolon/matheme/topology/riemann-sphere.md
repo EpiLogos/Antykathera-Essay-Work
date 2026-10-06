@@ -5,6 +5,13 @@ record_type: matheme
 register: matheme
 claim_status: Derived
 source_relation: "Explicit geometric construction; argued native return"
+figures:
+  - asset: "images/riemann-sphere.svg"
+    asset_format: "image/svg+xml"
+    rights: "CC-BY-SA-3.0"
+    rights_note: "Vector drawing by GKFXtalk after Bjoern Klipp; attribution and share-alike apply."
+    source_url: "https://commons.wikimedia.org/wiki/File:RiemannKugel.svg"
+    credit: "GKFXtalk (vectorised from a drawing by Bjoern Klipp), RiemannKugel.svg, 23 April 2018. CC BY-SA 3.0."
 ---
 
 # The Riemann Sphere
@@ -22,6 +29,12 @@ For `z=x+iy`, let `r²=x²+y²` and map
 `z ↦ (2x/(r²+1), 2y/(r²+1), (r²−1)/(r²+1))`.
 
 The squared coordinates sum to 1: the numerator is `4r²+(r²−1)²=(r²+1)²`. As `|z|→∞`, the point approaches the north pole `(0,0,1)`, assigned to ∞. Zero maps to the south pole `(0,0,−1)` and 1 to `(1,0,0)`.
+
+![A grey shaded sphere outlined in blue with a red great circle round the equator and a green great circle through the poles; black dots mark infinity at the top, 0 at the bottom, 1 on the right, minus 1 on the left, and i and minus i on the front and back of the equator.](images/riemann-sphere.svg)
+
+> The Riemann sphere with its marked points: 0 at the south pole, ∞ at the north pole, and 1, −1, i and −i on the equator. This is the picture of the construction the record writes in coordinates, in which adding the single point ∞ to the complex plane closes it into a sphere; the map `z↦1/z` exchanges the two poles.
+>
+> Credit: GKFXtalk (vectorised from a drawing by Bjoern Klipp), *RiemannKugel.svg*, 23 April 2018. CC BY-SA 3.0.
 
 ## #2 — Recover the inverse and the second chart
 

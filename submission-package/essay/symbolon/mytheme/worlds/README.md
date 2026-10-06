@@ -20,3 +20,21 @@ Each whole has one home. These entrances follow evidenced source traditions and 
 - [German literature](german-literature/README.md) — 1 whole. Goethe’s poem remains a complete poetic movement in its German witness.
 - [British television](british-television/README.md) — 1 whole. The Prisoner is a television work with selected written episode tellings and an independently housed programme identity.
 - [Frank Taylor’s authored world](frank-taylor/README.md) — 10 wholes. These are Taylor’s compositions and interpretive wholes; their independent source traditions remain named inside them.
+
+## Procured images (October 2026)
+
+Public-domain and openly licensed images sit in an `images/` folder beside the whole they belong to, embedded in the record with caption, credit and licence. Each record lists them under `figures:` in its frontmatter.
+
+- [Antikythera as attunement instrument](frank-taylor/antikythera-attunement/WHOLE.md) — fragment A and the 2021 front-display model.
+- [Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon](hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md) — Wtewael, 1601.
+- [Attica — Athena, Poseidon, Cecrops](hellenic/attica-athena-poseidon-cecrops/WHOLE.md) — Carrey's drawings of the west pediment; the Erechtheion.
+- [Apollo, Eros, Daphne, Peneus](roman-latin/apollo-eros-daphne-peneus/WHOLE.md) — Bernini and Pollaiuolo.
+- [Eros and Psyche](roman-latin/eros-psyche/WHOLE.md) — Giordano's lamp scene.
+- [Job](biblical/job/WHOLE.md) — Blake's plates 13 and 15.
+- [Jung's Aion](analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md) — the Abercius stele; Signorelli's Antichrist.
+- [Indra's jewel net](chinese-huayan/indra-net/WHOLE.md) — dew on a web.
+- [Hypostasis of the Archons](late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md) — Nag Hammadi Codex II, folio 32.
+- [The Prisoner](british-television/the-prisoner/WHOLE.md) — Portmeirion.
+- [Stained glass](frank-taylor/stained-glass-refraction/WHOLE.md) — Chartres north rose.
+- [The travelling jigsaw](frank-taylor/travelling-jigsaw-atlas/WHOLE.md) — the Blue Marble; Ortelius's world map.
+- [Mother, Assumption and chiasm](frank-taylor/mother-assumption-chiasm/WHOLE.md) — the Skenfrith Cope.

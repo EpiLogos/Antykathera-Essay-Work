@@ -46,6 +46,14 @@ In this register `0` and `1` have exact set-theoretic meanings. The essay then p
 
 The construction does **not ratify** the essay's metaphysics. It supplies a rigorous formal neighbour to a question the essay has already derived phenomenologically: how can determination arise without pretending to have made its own condition disappear? In the ordinal construction, a later finite ordinal literally contains its predecessors by the chosen representation. In the essay's argument, an achieved determination remains dependent upon a ground and mediating activity it cannot convert into an ordinary object. Those are different claims with a disciplined structural comparison between them.
 
+<!-- figure:sheffer-nor-reduction -->
+
+![Upper zone: a card defining NOR as p down-arrow q equals not (p or q), branching by arrows into three reduction cards — negation, disjunction, conjunction — which converge on a card saying every Boolean truth function of finitely many inputs is reachable by truth-table selection. A bold red horizontal seam labelled "functional completeness holds within a defined field of truth values" separates this from a lower zone containing one outlined card with 0/1 and the statement that the native slash relates a determination to its unobjectifiable condition, which is not another Boolean input.](../../../symbolon/matheme/diagrams/sheffer-nor-reduction.svg)
+
+*Diagram 3 — One connective and the seam.* One connective generates every Boolean truth function — negation, disjunction, conjunction, and truth-table selection — and the seam states what the generation does not give: `0/1` relates a determination to its unobjectifiable condition, which is not another Boolean input. **Status: Derived** (displayed reductions, checkable directly); the lower zone is a declared boundary. Source of record: the essay's `§1 · #2` display, from the Kaplan NOR scene (`kaplan-1999-nothing-that-is`, locator lead; no quotation consumed). *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/sheffer-nor-reduction.md)
+
+<!-- /figure:sheffer-nor-reduction -->
+
 Within set theory, `∅` is an exact object and `{∅}` its exact singleton. The psychoid and transcendental questions begin precisely at the difference between that formally represented empty object and the unobjectifiable condition under which representation occurs. Conflating them would destroy the distinction the movement is meant to teach.
 
 The authorial reading can therefore say: **mathematics gives a concrete case in which zero participates generatively in the construction of one and the natural numbers; QL asks a wider relational question about how ground, mark and mediation are retained in determination.** The first does not prove the second, but it gives the later Matheme a mathematically exact surface against which its additional claims can be tested.

@@ -5,6 +5,13 @@ page_type: historical-register-route
 ownership: protected-learning-surface
 status: living
 domain: language-law-nation-centralisation
+figures:
+  - asset: "images/barbari-portrait-of-luca-pacioli.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Painting of about 1495; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Pacioli.jpg"
+    credit: "Attributed to Jacopo de' Barbari, Portrait of Luca Pacioli and an Unknown Young Man, about 1495, oil on panel, Museo e Real Bosco di Capodimonte, Naples. Public domain; reproduction from Wikimedia Commons."
 ---
 
 # Language, Law, Nation, and Centralisation — The Historical Tree of Topos, Logos, Nomos, Natio
@@ -82,6 +89,12 @@ The Visconti–Orléans line supplies a different mechanism. Valentina Visconti'
 The **Minervois Biscione** sighting remains a concrete research leaf rather than an established Visconti conduit. The next work is object-level: identify the exact object/building, date it, establish patronage and renovation history, trace the iconographic/heraldic route, and only then determine whether Visconti/Orléans transmission explains its presence. The serpent-child image remains available as Mytheme once the object itself is securely recovered.
 
 Pacioli and Leonardo give the branch its mathematical hinge. Double-entry practice predates Pacioli, while the 1494 *Summa* provides the earliest printed accounting treatise and a major Venetian exposition. *De divina proportione* belongs to mathematical proportion and geometrical form, with Leonardo's illustrations/association and a 1509 printed edition. The same historical milieu therefore keeps quantitative account and qualitative/symbolic geometry in close relation before later disciplinary differentiations separate them more sharply.
+
+![A painting of a friar in a grey Franciscan habit and hood seated at a green-covered table, drawing a geometrical figure on a slate with a pointer; a young man in a dark coat and a fur-trimmed cloak stands behind him; a glass rhombicuboctahedron hangs at the upper left and a book lies open under the friar's hand.](images/barbari-portrait-of-luca-pacioli.jpg)
+
+> The portrait of Luca Pacioli attributed to Jacopo de' Barbari (about 1495). The friar who printed double-entry accounting in the 1494 *Summa* is drawn at a slate marked with Euclid's name, a book at his hand and a glass solid hanging beside him. The picture joins the two practices the history ties together: the geometry of proportion and the commercial reckoning that gave it a use.
+>
+> Credit: Attributed to Jacopo de' Barbari, *Portrait of Luca Pacioli and an Unknown Young Man*, about 1495, oil on panel, Museo e Real Bosco di Capodimonte, Naples. Public domain; reproduction from Wikimedia Commons.
 
 The project's phrase for this is **the undivided hinge of mathesis**. A related research hypothesis is the **differential occultation of qualitative mathesis**: not the disappearance of mathematics, but the unequal institutional futures of calculative and symbolic/qualitative mathematical practices.
 

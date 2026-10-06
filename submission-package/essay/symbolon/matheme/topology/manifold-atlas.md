@@ -6,12 +6,25 @@ register: matheme
 claim_status: Derived
 source_relation: Argued from
 source_ids: [hatcher-2002-algebraic-topology, nist-dlmf-2026-complex-variable, taylor-2026-core-theorems-pithy, taylor-2026-symbolon-dynamics, taylor-2026-mef-twelve-lenses, taylor-2026-binary-explication]
+figures:
+  - asset: "images/mercator-atlas-1595-frontispiece.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Printed title page of 1595; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Mercator_Atlas_1595_page_5_main_frontispiece.jpg"
+    credit: "Gerardus Mercator, Atlas sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura (Duisburg, 1595), frontispiece. Public domain; reproduction from Wikimedia Commons."
 ---
 # Manifold atlas, charts and transition functions
 
 ## #0
 
 An atlas makes one space accessible through coordinates whose changes are themselves specified. Let \(M\) be a Hausdorff, second-countable topological space locally homeomorphic to \(\mathbb R^n\). A chart \((U,\phi)\) consists of an open subset \(U\subset M\) and a homeomorphism \(\phi:U\to\phi(U)\), where \(\phi(U)\) is open in \(\mathbb R^n\). An atlas is a family of such charts whose domains cover \(M\). The domain belongs to the manifold; its coordinate image belongs to Euclidean space. Moving between these two is already an operation with an inverse.
+
+![A coloured engraved title page in the form of an arched architectural frame with twisted columns and an armillary sphere on top; inside, a bearded seated Atlas studies a globe held on his knee; a plaque beneath carries the Latin title in capitals.](images/mercator-atlas-1595-frontispiece.jpg)
+
+> The title page of Gerardus Mercator's *Atlas sive Cosmographicae Meditationes* (1595), which gave the name atlas to a book of maps. The mathematical atlas takes its vocabulary, chart and atlas, from this cartography: a world covered by sheets, each flat and bounded, with the means to pass from one to the next. The record's construction replaces the printed sheets with homeomorphisms and transition functions.
+>
+> Credit: Gerardus Mercator, *Atlas sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura* (Duisburg, 1595), frontispiece. Public domain; reproduction from Wikimedia Commons.
 
 For a smooth manifold, the coordinate changes on overlaps must be smooth with smooth inverses. Compatibility makes differentiation independent of the chosen compatible chart. A maximal smooth atlas contains every chart compatible with this structure; maximality specifies which changes are admitted. It makes no claim that all possible objects or processes on the manifold are known.
 

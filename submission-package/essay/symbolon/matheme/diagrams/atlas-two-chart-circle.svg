@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="700" viewBox="0 0 980 700" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="724" viewBox="0 0 980 724" role="img" aria-labelledby="t d">
   <title id="t">An atlas of two charts on the unit circle</title>
   <desc id="d">Left: the unit circle with its north and south poles marked as omitted points, and the sample point P at three fifths and four fifths. Right: chart u equals x over one minus y, valid away from the north pole, and chart v equals x over one plus y, valid away from the south pole, joined by the overlap rule uv equals one, v equals one over u. Below, the motion test: du dt equals two at P gives dv dt equals minus two ninths, yet both charts recover the same height speed six twenty-fifths. A closing band states that no single global chart is available.</desc>
   <defs>
@@ -16,7 +16,7 @@
     .cardq{ fill: #faf3f0; stroke: #8a2a2a; stroke-width: 1.5; }
   </style>
 
-  <rect x="0" y="0" width="980" height="700" fill="#ffffff"/>
+  <rect x="0" y="0" width="980" height="724" fill="#ffffff"/>
 
   <text class="lab" x="40" y="36" font-size="20" font-weight="bold">An atlas of two charts on the unit circle x&#178; + y&#178; = 1</text>
   <text class="mut" x="40" y="58" font-size="12.5">each chart is exact over an admitted domain; the joins say how one passes into another</text>
@@ -65,6 +65,8 @@
 
   <!-- bottom band -->
   <line x1="40" y1="616" x2="940" y2="616" stroke="#c9c4ba" stroke-width="1"/>
-  <text class="mut" x="40" y="644" font-size="12.5">No global chart: a compact circle cannot be presented as one coordinate chart onto an open Euclidean domain. The excluded pole of each chart remains available through the other.</text>
-  <text class="mut" x="40" y="666" font-size="12.5">Agreement cannot be supplied by declaring all perspectives valid; the transition rule earns it. Chart compatibility supplies no law of motion &#8212; the velocity is supplied separately.</text>
+  <text class="mut" x="40" y="644" font-size="12.5">No global chart: a compact circle cannot be presented as one coordinate chart onto an open Euclidean domain.</text>
+  <text class="mut" x="40" y="664" font-size="12.5">The excluded pole of each chart remains available through the other.</text>
+  <text class="mut" x="40" y="684" font-size="12.5">Agreement cannot be supplied by declaring all perspectives valid; the transition rule earns it.</text>
+  <text class="mut" x="40" y="704" font-size="12.5">Chart compatibility supplies no law of motion &#8212; the velocity is supplied separately.</text>
 </svg>

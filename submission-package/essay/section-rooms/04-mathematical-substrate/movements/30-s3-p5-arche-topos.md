@@ -38,6 +38,8 @@ The **formal derivation is native to QL**. The complete theorem braid derives th
 - Harmonic ratios supply exact interval relations subsequently interpreted within the native return.
 - The process theorem coordinates these constructions as differentiation, composition, contextualisation, and return rather than leaving them as static resonances.
 
+<!-- see-figure:tokamak-chamber-and-magnetic-fields-schematic -->*See also Image 18, [A tokamak chamber and its magnetic fields](../../../symbolon/matheme/topology/toroidal-poloidal-confinement.md).*<!-- /see-figure:tokamak-chamber-and-magnetic-fields-schematic -->
+
 No single item carries the thesis. Their **QL coordination** derives the Arche-Topos as one field; its psychoid standing is the essay's argued interpretation of what that derivation means when the field is read prior to the psyche–matter cut. Psychological, phenomenological and empirical material in §4 can therefore answer and deepen the field rather than being asked to create its ontological possibility from scratch.
 
 ## The two primary displays
@@ -52,7 +54,23 @@ The same QL unit can therefore be contemplated in both registers. The primary vi
 
 A methodological display joins the two native ones. Differential geometry's word for how a curved whole is known is exact here: no single chart covers a sphere or a torus; an **atlas** is a plurality of overlapping local charts with declared transition functions on their overlaps. One flat picture of a curved surface must distort or omit — the ancient cartographer's predicament — while many local pictures, each carrying the rule by which it translates into its neighbours, cover the whole without any one of them pretending to be the whole. This gives the MEF proposal an exact mathematical form: charts as lenses, transition functions as declared translations, overlap as the answerability of one refraction to another. The mathematical atlas and the epistemic atlas retain their different objects while participating in the same argued operation of situated plurality under explicit transition.
 
+<!-- figure:ortelius-typus-orbis-terrarum-1572 -->
+
+![A hand-coloured oval world map in a decorated frame under the title Typus Orbis Terrarum, with the Americas at left, Europe, Africa and Asia at right and a speculative southern continent along the bottom, surrounded by clouds and a Latin motto.](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/images/ortelius-typus-orbis-terrarum-1572.jpg)
+
+*Image 11 — Ortelius, Typus Orbis Terrarum.* Abraham Ortelius's *Typus Orbis Terrarum* in a 1572 printing, the world map that opened his *Theatrum Orbis Terrarum*, the first printed atlas. A single projection draws the whole world on one oval, and the volume that follows it gives each region its own sheet. The book is the historical form of the movement the record describes: from one box-lid picture to charts that carry their own limits. Credit: Abraham Ortelius, *Typus Orbis Terrarum*, 1572 printing, hand-coloured engraving, from the *Theatrum Orbis Terrarum* (Antwerp). Public domain; reproduction from Wikimedia Commons. [Record](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md)
+
+<!-- /figure:ortelius-typus-orbis-terrarum-1572 -->
+
 Here the jigsaw image completes the journey it began at the world-picture diagnosis of §0/1 · #4. Under dia-ballein alone the jigsaw is the world-picture as method: self-contained pieces uniquely fitted, assembled toward a picture given in advance on the box-lid, the frame built first. Under QL's grammar the same puzzle is re-read: pieces become local disclosures whose relation to a larger field and to the activity of covering remains explicit. The image travels from problem to solution because the essay does not renounce world-pictures; it re-founds them, and [[41-s5-p4-bimba-energy-fields|§5 · #4]] later gives that re-founded picture a situated technical office in Bimba. The torus, cover and atlas discipline the image through exact operations while the image returns their relation as something that can be lived and recognised.
+
+<!-- figure:mercator-atlas-1595-frontispiece -->
+
+![A coloured engraved title page in the form of an arched architectural frame with twisted columns and an armillary sphere on top; inside, a bearded seated Atlas studies a globe held on his knee; a plaque beneath carries the Latin title in capitals.](../../../symbolon/matheme/topology/images/mercator-atlas-1595-frontispiece.jpg)
+
+*Image 17 — Mercator, Atlas, frontispiece.* The title page of Gerardus Mercator's *Atlas sive Cosmographicae Meditationes* (1595), which gave the name atlas to a book of maps. The mathematical atlas takes its vocabulary, chart and atlas, from this cartography: a world covered by sheets, each flat and bounded, with the means to pass from one to the next. The record's construction replaces the printed sheets with homeomorphisms and transition functions. Credit: Gerardus Mercator, *Atlas sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura* (Duisburg, 1595), frontispiece. Public domain; reproduction from Wikimedia Commons. [Record](../../../symbolon/matheme/topology/manifold-atlas.md)
+
+<!-- /figure:mercator-atlas-1595-frontispiece -->
 
 [[section-rooms/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] is the operative expression of the native synthesis. The arche-topos is the field in which positions and paths can arise; the process ontology states how differentiation and recomposition are read within that field; QL supplies the repeatable unit; MEF later tests whether plural lenses can preserve rather than erase their differences.
 

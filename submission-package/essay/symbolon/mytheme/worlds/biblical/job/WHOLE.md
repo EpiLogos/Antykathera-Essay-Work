@@ -11,6 +11,19 @@ source_ids:
   - jung-1978-aion-cw9-2
   - taylor-2026-core-theorems-pithy
   - taylor-2026-definition-god-draft3
+figures:
+  - asset: "images/blake-job-plate-13-lord-answering-out-of-the-whirlwind.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC0-1.0"
+    rights_note: "Yale Center for British Art open-access image; public domain dedication."
+    source_url: "https://commons.wikimedia.org/wiki/File:William_Blake_-_Book_of_Job,_Plate_13,_The_Lord_Answering_Job_out_of_the_Whirlwind_-_B1978.43.1515_-_Yale_Center_for_British_Art.jpg"
+    credit: "William Blake, Illustrations of the Book of Job, plate 13, 1825, line engraving; Yale Center for British Art, Paul Mellon Collection (B1978.43.1515). CC0 1.0."
+  - asset: "images/blake-job-plate-15-behemoth-and-leviathan.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC0-1.0"
+    rights_note: "Yale Center for British Art open-access image; public domain dedication."
+    source_url: "https://commons.wikimedia.org/wiki/File:William_Blake_-_Book_of_Job,_Plate_15,_Behemoth_and_Leviathan_-_B1978.43.1517_-_Yale_Center_for_British_Art.jpg"
+    credit: "William Blake, Illustrations of the Book of Job, plate 15, 1825, line engraving; Yale Center for British Art, Paul Mellon Collection (B1978.43.1517). CC0 1.0."
 ---
 
 # Job
@@ -71,11 +84,23 @@ Chapters 36–37 develop instruction, obedience and the danger of choosing iniqu
 
 The LORD answers Job out of the whirlwind. The answer begins by questioning the knowledge of the one who questions. Where was Job when the earth's foundations were laid, its measures determined, and the morning stars and sons of God rejoiced? The sea comes from a womb, receives cloud as clothing and darkness as swaddling, and meets doors and bars set against its proud waves. Morning, death's gates, light and darkness, snow and hail open different reaches of the field. The images take up measure, birth and boundary on a scale which the friends' explanation has never encountered. [Job 38:1–24](../../../../episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/biblical-job-kjv-ebible-eng-kjv2006.md#biblical-job-kjv-ebible-eng-kjv2006-q006).
 
+![An engraving in a ruled frame: inside a swirling whirlwind a bearded figure of God leans down towards Job, who kneels beneath with his wife and friends; the margins carry Bible verses and small drawings of clouds and weather.](images/blake-job-plate-13-lord-answering-out-of-the-whirlwind.jpg)
+
+> William Blake's engraving *The Lord Answering Job out of the Whirlwind* (plate 13 of the *Illustrations of the Book of Job*, 1825). The answer arrives as a funnel of wind that carries the divine figure down to the group. Blake fills the margins with the verses the record lists: clouds, rain, the deep, the measure of the earth.
+>
+> Credit: William Blake, *Illustrations of the Book of Job*, plate 13, 1825, line engraving; Yale Center for British Art, Paul Mellon Collection (B1978.43.1515). CC0 1.0.
+
 Rain falls where no human lives, satisfying wilderness and causing grass to grow. Its place is consequential precisely without serving Job's household or a human spectator. Questions about the parentage of rain and ice lead into constellations, clouds and lightning. Feeding the lion and the raven places need within an order that also contains predation. Chapter 39 follows birth among wild goats and deer, the freedom of the wild ass beyond the driver's voice, and the animal named unicorn in this translation which cannot be relied upon for the plough or harvest. The ostrich combines harsh exposure of its eggs, deficient wisdom and extraordinary speed. The horse meets battle with terrifying force; hawk and eagle belong to lives which human judgement has not designed. These creatures are neither a reassuring pastoral backdrop nor a catalogue of tools awaiting use. Their difference changes the extent of the question. [Job 38:25–39:30](../../../../episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/biblical-job-kjv-ebible-eng-kjv2006.md#biblical-job-kjv-ebible-eng-kjv2006-q006).
 
 There is a first answer from Job inside the encounter. At 40:3–5 he lays his hand upon his mouth and declines to continue as before. The LORD then speaks from the whirlwind again. Would Job condemn God in order to establish his own righteousness? Can he clothe himself in majesty, abase the proud, bring the wicked low and thereby establish that his own arm can save him? The challenge turns the wish for just judgement toward the power and extent required to administer it. This second speech cannot be collapsed into the first silence, as though the arrival of overwhelming force had already completed the poem.
 
 Behemoth is presented as a creature made with Job. It eats grass, rests among reeds and willows, carries strength through loins, bones and sinews, and remains untroubled before the rushing river. The mountain beasts play where it feeds. Leviathan brings the question of capture into successive human practices. Can Job draw it out with a hook, pierce it, make it plead, bind it by covenant as a lasting servant, keep it as a plaything, or distribute it through trade? Weapons and scales, breath and flame, the boiling sea and luminous wake develop a strength that these imagined uses cannot master. The close names its kingship over the children of pride. The LORD displays these creatures; Job does not slay them. The selected witness does not identify Leviathan as Satan or assign either animal a determinate QL position. [Job 40:6–41:34; passage q006](../../../../episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/biblical-job-kjv-ebible-eng-kjv2006.md#biblical-job-kjv-ebible-eng-kjv2006-q006).
+
+![An engraving in a ruled frame with Bible text in the borders: in the upper part of the frame, figures look down from a cloud; in the lower part Behemoth, a heavy hoofed beast, stands above and Leviathan, a coiled scaled serpent, lies beneath it in a flame-lit sea.](images/blake-job-plate-15-behemoth-and-leviathan.jpg)
+
+> William Blake's engraving *Behemoth and Leviathan* (plate 15 of the *Illustrations of the Book of Job*, 1825). The creatures occupy their own register, one standing and one coiled in the water, under the words "Behold now Behemoth which I made with thee". Blake's design is an early reading of the displayed animals; the record's selected witness identifies neither animal with Satan.
+>
+> Credit: William Blake, *Illustrations of the Book of Job*, plate 15, 1825, line engraving; Yale Center for British Art, Paul Mellon Collection (B1978.43.1517). CC0 1.0.
 
 No council transcript is delivered to Job. No list of his secret offences vindicates the friends. The cosmic answer transforms the field in which he sought to make his case: the world includes births, hungers, powers, places and creatures which exceed his administration. That transformation does not remove the losses with which the poem began. It makes the relation between suffering, knowledge and authority more difficult than either an exhaustive moral ledger or the assertion that power has nothing to answer for.
 

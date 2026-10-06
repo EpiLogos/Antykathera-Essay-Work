@@ -20,6 +20,19 @@ source_ids:
   - heidegger-1977-question-concerning-technology
   - heidegger-1966-discourse-on-thinking
   - bratton-2026-agentworld-brief
+figures:
+  - asset: "images/antikythera-fragment-a-front.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Photograph by Logg Tandy; attribution required; reproduced resized from the Wikimedia Commons file."
+    source_url: "https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_(Front).webp"
+    credit: "Logg Tandy, Antikythera Fragment A (Front), photograph, 25 February 2025; fragment in the National Archaeological Museum, Athens. CC BY 4.0."
+  - asset: "images/freeth-2021-cosmos-display-computer-model.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Figure 7 of an open-access article published under CC BY 4.0; credit to the authors required."
+    source_url: "https://commons.wikimedia.org/wiki/File:41598_2021_84310_Fig7_HTML.jpg"
+    credit: "Tony Freeth, David Higgon, Aris Dacanalis, Lindsay MacDonald, Myrto Georgakopoulou and Adam Wojcik, \"A Model of the Cosmos in the Ancient Greek Antikythera Mechanism,\" Scientific Reports 11 (2021): 5821, fig. 7. CC BY 4.0."
 ---
 # Antikythera as Attunement Instrument
 
@@ -30,6 +43,12 @@ The sky exceeds the hand which makes it readable. In Taylor's Antikythera image,
 The whole begins in this disproportion between the reach of an inquiry and the bounded thing through which it becomes possible. A person cannot bring the heavens down to the scale of a hand by possessing them. Craft can nevertheless give that hand a determinate relation to their movements. A reading gathers what separate occasions would leave apart, makes recurrence available to comparison, and gives a question enough form to be asked again. The instrument's smallness is productive: limitation makes its answer usable.
 
 This is a contemporary authored mytheme with an archaeological body. Freeth and colleagues' 2006 abstract places the Greek device around the end of the second century BCE and describes its fragmentary gears and inscriptions. Surface imaging and X-ray tomography supported reconstruction of its functions. Lunar phases, a luni-solar calendar, and solar and lunar eclipse prediction are among the reported functions; inscriptions support suggestions of a lost planetary display. The discovery belongs to the shipwreck at Antikythera, whose name identifies the find-place. These are the paper's historical and technical claims, received here through the [primary abstract](https://pubmed.ncbi.nlm.nih.gov/17136087/); its [canonical source house](../../../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/freeth-et-al-2006-antikythera.md#freeth-et-al-2006-antikythera-q001) retains the bibliographic identity and recovered primary-abstract paraphrase.
+
+![Fragment A of the Antikythera mechanism photographed from the front: a roughly square mass of dark green and black corroded bronze with a large circular recess left of centre, toothed gear wheels and broken plates showing at its surface, held by clear supports against a dark background.](images/antikythera-fragment-a-front.jpg)
+
+> Fragment A, the largest surviving piece of the Antikythera mechanism, seen from the front. The corroded bronze mass still shows its gear wheels and fractured plates. The record's archaeological body is this surface: the functions attributed to the device, and the front display proposed for it below, were reconstructed from imaging of this fragment and its companions.
+>
+> Credit: Logg Tandy, *Antikythera Fragment A (Front)*, photograph, 25 February 2025; fragment in the National Archaeological Museum, Athens. CC BY 4.0.
 
 Ancient making, recovery from a wreck, modern reconstruction and the present philosophical encounter occupy different times. The name Antikythera does not establish the workshop in which the device was made. Taylor's authorial home does not relocate the Greek artifact, and the contemporary research programme bearing the same name does not supply evidence about its ancient use. The scene of the reader at the dial develops the essay's relation of attunement; it supplies no invented ancient owner, commission or act of consultation.
 
@@ -62,6 +81,12 @@ The [differential field](../../../../../section-rooms/arguments/A16-Arche-Topos-
 The damaged instrument makes that answerability unavoidable. Modern investigators encounter an achieved work through surviving parts. The relation runs in the reverse direction from construction: from a fragment toward the arrangement which could have given it its office. The absent parts are consequential. Filling their places in a model is an act of reasoning whose warrant must remain distinguishable from the evidence which prompted it.
 
 Freeth and colleagues' 2021 study proposes a front display with nine outputs: Moon, Nodes, Mercury, Venus, Sun, Mars, Jupiter, Saturn and Date. Nested tubes and supporting arms carry its ring arrangement. The [verified display passage](../../../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md#freeth-et-al-2021-model-cosmos-q001), official PDF p. 2, sources that particular reconstruction. The [conclusion passage](../../../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md#freeth-et-al-2021-model-cosmos-q002), p. 12, retains the decisive limit: lost evidence prevents the authors from claiming a replica of the original. Model coherence and fit to surviving evidence support the proposal without removing that limit.
+
+![A computer-rendered brass-coloured dial: a central dome with a small Moon-phase sphere, surrounded by concentric graduated rings carrying small spheres and pointers, inscribed with Greek letters and scale marks, set in a square frame with a bolt at each corner.](images/freeth-2021-cosmos-display-computer-model.jpg)
+
+> The computer model of the proposed front display from Freeth and colleagues' 2021 study. The dome of the Earth and the Moon's phase and zodiac position sit at the centre; rings for Mercury, Venus, the true Sun, Mars, Jupiter, Saturn and the date surround them, with small spheres marking the planets. It is a model fitted to the surviving fragments and inscriptions. The authors state that lost evidence prevents them from claiming a replica of the original.
+>
+> Credit: Tony Freeth, David Higgon, Aris Dacanalis, Lindsay MacDonald, Myrto Georgakopoulou and Adam Wojcik, "A Model of the Cosmos in the Ancient Greek Antikythera Mechanism," *Scientific Reports* 11 (2021): 5821, fig. 7. CC BY 4.0.
 
 The two research moments retain their respective scope. The 2006 recovery is not retrospectively credited with every feature of the 2021 proposal. The later model is not made into an intact recovered ancient machine. Nor does the achievement lose its force because it must name what remains unavailable. A reconstruction can be rigorous and generative precisely by keeping the conditions under which it is warranted available to the next investigator.
 

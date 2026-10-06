@@ -7,6 +7,13 @@ claim_status: Offered
 source_relation: "Paraphrased source image; Argued authorial relation; Offered technical application"
 source_ids: [dushun-cleary-2000-jewel-net-indra, van-norden-jones-2024-huayan-sep, taylor-2026-core-theorems-pithy, taylor-2026-definition-god-draft3]
 human_amplification: "Declared relations yes; new source-boundary application no; exact scopes retained in recovery ledger"
+figures:
+  - asset: "images/dew-on-spider-web.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-SA-3.0"
+    rights_note: "Photograph by Luc Viatour; attribution and share-alike apply to the photograph."
+    source_url: "https://commons.wikimedia.org/wiki/File:Dew_on_spider_web_Luc_Viatour.jpg"
+    credit: "Luc Viatour, Dew on spider web, photograph, 15 September 2007. CC BY-SA 3.0."
 ---
 
 # Indra’s jewel net
@@ -39,6 +46,12 @@ The expanded sequence occurs in the Chinese text, T45 no. 1867, 513a20–513c16:
 ## #2 — The image teaches where its own likeness ends
 
 The teaching does not end with the ink dot. It turns upon its simile. Jewels have images which enter one another while their material substances remain separate; the phenomena for which the image is being used interpenetrate more completely. The resemblance is therefore partial. This restriction belongs to the source’s own movement, immediately after its most forceful demonstration. It prevents the observer from taking the optical apparatus as a complete account of the reality contemplated.
+
+![A close photograph of a thin spider's web strung with many round dew drops against a grey background; the two largest drops hold small, inverted images of the surroundings, and the smaller drops catch glints of colour.](images/dew-on-spider-web.jpg)
+
+> A web hung with dew. Each drop holds a small image of its surroundings and of the drops near it, which is the optical fact the jewel-net simile borrows. The drops stay separate while their images enter one another, and the record, following its source, marks exactly that as the point where the likeness ends. It is a modern photograph, not an illustration of the contemplation.
+>
+> Credit: Luc Viatour, *Dew on spider web*, photograph, 15 September 2007. CC BY-SA 3.0.
 
 The closing verses direct the teaching toward Vairocana’s activity for beings. Formless reality manifests forms; the immeasurable is present through particular appearances. The contemplative return has a purpose beyond admiration of an ingenious arrangement. The image is offered to open understanding, and its own inadequacy becomes part of that offering. Its jewel substances do not establish an ontology of permanently isolated things. Equally, the source’s stronger claim about interpenetration needs to be understood within Huayan, rather than translated without remainder into another tradition’s account of identity.
 

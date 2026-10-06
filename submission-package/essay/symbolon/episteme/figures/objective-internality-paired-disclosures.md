@@ -13,6 +13,14 @@ created: 2026-09-25
 
 # Figure — Objective Internality: the Six Paired Product Disclosures
 
+<!-- figure:objective-internality-paired-disclosures -->
+
+![A row diagram inside a frame labelled "S — World and Life, the parent field". Six rows, each joining a left lens box and a right conjugate-lens box through a central product card: L0 Quaternal and L5′ Divine Logos join at S0 Central, meaningful continuity, movement 37; L1 Causal and L4′ Scientific at S1 Actuation, living articulation, movement 38; L2 Logical and L3′ Chronological at S2 AIKit, potency, movement 39; L3 Processual and L2′ Alchemical-Elemental at S3 Software Factory, transformation, movement 40; L4 Phenomenological and L1′ Phenomenal at S4 Workcell, situated existence, movement 41; L5 Para Vāk and L0′ Archetypal-Numerical at S5 Quaternal Logic, Transcendent Relation, movement 42. A footer line states that each pair's lens indices sum to five and that the product owns the whole pair.](objective-internality-paired-disclosures.svg)
+
+Objective Internality discloses itself through six products, each the subject of its whole MEF pair: Central (L0 Quaternal × L5′ Divine Logos), Actuation (L1 Causal × L4′ Scientific), AIKit (L2 Logical × L3′ Chronological), Software Factory (L3 Processual × L2′ Alchemical-Elemental), Workcell (L4 Phenomenological × L1′ Phenomenal) and Quaternal Logic (L5 Para Vāk × L0′ Archetypal-Numerical); every pair's indices sum to five, S remains the parent field rather than a seventh product, and no product occupies a mere subposition of a lens. *Status: Argued (declared pairs; T26 ratification pending). Source of record: the S0–S5 records, the A/C primitive constitution, central plan §5.*
+
+<!-- /figure:objective-internality-paired-disclosures -->
+
 **Asset:** [objective-internality-paired-disclosures.svg](./objective-internality-paired-disclosures.svg)
 
 ## Proposition
@@ -70,9 +78,9 @@ Objective Internality discloses itself through six products, each the subject of
 
 A row diagram inside a frame labelled "S — World and Life, the parent field". Six rows, each joining a left lens box and a right conjugate-lens box through a central product card: L0 Quaternal and L5′ Divine Logos join at S0 Central, meaningful continuity, movement 37; L1 Causal and L4′ Scientific at S1 Actuation, living articulation, movement 38; L2 Logical and L3′ Chronological at S2 AIKit, potency, movement 39; L3 Processual and L2′ Alchemical-Elemental at S3 Software Factory, transformation, movement 40; L4 Phenomenological and L1′ Phenomenal at S4 Workcell, situated existence, movement 41; L5 Para Vāk and L0′ Archetypal-Numerical at S5 Quaternal Logic, Transcendent Relation, movement 42. A footer line states that each pair's lens indices sum to five and that the product owns the whole pair.
 
-## Proposed essay blocks (wiring)
+## Proposed essay blocks (wiring at landing)
 
-Embedding is not this ticket. Proposed consumers, to be wired by their owners:
+Proposed consumers at landing (the placements made in the 2026-10-05 wiring pass are listed under Embedded at):
 
 1. [§5 P1-CANONICAL-ALIGNMENT](../../../section-rooms/06-objective-internality/P1-CANONICAL-ALIGNMENT.md) — beside the "Section burden" list of the six product movements (canonical surface; hand-editable).
 2. [S — World and Life](../../../section-rooms/arguments/products/S-World-and-Life.md) — beside the parent/members declaration.
@@ -82,3 +90,13 @@ Embedding is not this ticket. Proposed consumers, to be wired by their owners:
 ## Rights
 
 Original own-work, hand-authored SVG constructed from declared canonical records. No scraped, licensed or third-party artwork; no quotation performed.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#s5-m37-central), after the paragraph beginning “O:I develops this problem through six technological facets.”.
+- Figure in [P1 Canonical Alignment — §5 Objective Internality](../../../section-rooms/06-objective-internality/P1-CANONICAL-ALIGNMENT.md), after the paragraph beginning “[S — World and Life](../arguments/products/S-World-and-Life.”.
+<!-- /embedded-at -->

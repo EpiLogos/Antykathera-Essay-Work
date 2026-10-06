@@ -24,3 +24,7 @@ Records distinguish acoustic fact, tuning construction, QL derivation and musica
 - [Tetraktys and the 3–4–5 triangle](tetraktys-triangle.md)
 
 Return to [[symbolon/matheme/README.md|Matheme]].
+
+## Procured images
+
+- [Cymatics and standing waves](cymatics-standing-waves.md) — Chladni's square-plate figures, 1787.

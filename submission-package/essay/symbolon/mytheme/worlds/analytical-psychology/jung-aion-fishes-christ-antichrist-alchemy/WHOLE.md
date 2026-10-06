@@ -9,6 +9,19 @@ human_amplification: relation-local
 claim_status: Argued
 source_relation: "Paraphrased Jung narrative; Argued project returns; Offered appointments marked locally"
 source_readiness: consulted-carrier-passage-map-admitted-selected-printing-collation-pending
+figures:
+  - asset: "images/abercius-stele-fragment-museo-pio-cristiano.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-SA-4.0"
+    rights_note: "Photograph by Fabrizio Garrisi; attribution and share-alike apply to the photograph. The inscription is ancient."
+    source_url: "https://commons.wikimedia.org/wiki/File:Cippo_di_Abercio,_fine_II_-_inizi_III_sec._-FG3.jpg"
+    credit: "Fabrizio Garrisi, Cippo di Abercio, fine II–inizi III sec., photograph, 10 June 2022; Museo Pio Cristiano, Vatican Museums. CC BY-SA 4.0."
+  - asset: "images/signorelli-sermon-and-deeds-of-the-antichrist.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Fresco of 1499–1502; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_-_Sermon_and_Deeds_of_the_Antichrist_-_WGA21202.jpg"
+    credit: "Luca Signorelli, Sermon and Deeds of the Antichrist, 1499–1502, fresco, San Brizio Chapel, Orvieto Cathedral. Public domain; reproduction from the Web Gallery of Art via Wikimedia Commons."
 ---
 
 # Jung's *Aion* — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow
@@ -35,9 +48,21 @@ Christ now enters as a culturally effective symbol of the Self. The image of the
 
 Antichrist belongs to this ensuing drama. The contrary excluded from the representation of totality remains active and acquires a compensatory historical figure. The Christian aeon therefore bears an opposition within its own field of meaning: its dominant image and the counter-image answer one another. This is Jung's psychological interpretation of the God-image, with a distinct burden from Christian doctrinal judgment. Recognising an evil factor as real does not confer goodness on an evil act. The conclusion will return to the human suffering which a verbal reconciliation of good and evil leaves undiminished.
 
+![A crowded fresco beneath a painted arch: in the foreground Antichrist, robed like Christ, preaches from a raised stone with a small devil whispering at his ear; a crowd of onlookers fills the square, bodies lie on the ground at the lower left, and a classical temple stands on a rise behind, with an angel descending from the clouds.](images/signorelli-sermon-and-deeds-of-the-antichrist.jpg)
+
+> Luca Signorelli's fresco *Sermon and Deeds of the Antichrist* (Orvieto Cathedral, 1499–1502) shows the contrary figure in the form his Christian culture gave him: robed as Christ, preaching to a crowd, with a devil speaking in his ear. Jung's evidence lies in texts; the fresco is added here as the pictorial form of the figure the book reads as the excluded contrary of the Christian aeon.
+>
+> Credit: Luca Signorelli, *Sermon and Deeds of the Antichrist*, 1499–1502, fresco, San Brizio Chapel, Orvieto Cathedral. Public domain; reproduction from the Web Gallery of Art via Wikimedia Commons.
+
 ## #2 — The fishes give the age its temporal image
 
 Jung opens the fish inquiry by noting that Christian interpretation gives Christ and the devil several shared animal symbols. A symbol can carry more than one valuation. The Christian fish has its own baptismal, eucharistic and epigraphic settings: the baptised live as little fishes, and the travelling believer of the Abercius inscription is fed a fish offered with bread and wine. Jung sets these alongside older Near Eastern fish traditions and then asks why the image became especially active around Christianity. He proposes astrology as a second source of its activation. The broad distribution of fish imagery and the specific Christian uses remain distinguishable within that proposal. (Ch. VI, §§127–128; pp. 72–74.)
+
+![A rough pale stone fragment bearing lines of carved Greek letters stands on a marble plinth against a wooden-panelled wall; a Latin museum plaque on the plinth below records that the fragment was brought from Asia and gives Abercius's name and the date of its gift.](images/abercius-stele-fragment-museo-pio-cristiano.jpg)
+
+> The Abercius stele fragment, a late second- or early third-century funerary inscription from Hierapolis in Phrygia, now in the Museo Pio Cristiano in the Vatican. Jung's *Aion* cites it for the fish that the travelling believer is fed with bread and wine. The record places that eucharistic fish next to the baptismal fish and the older Near Eastern fish traditions that Jung sets beside it.
+>
+> Credit: Fabrizio Garrisi, *Cippo di Abercio, fine II–inizi III sec.*, photograph, 10 June 2022; Museo Pio Cristiano, Vatican Museums. CC BY-SA 4.0.
 
 Pisces lets the double figure acquire duration. Jung assembles planetary conjunctions, Jewish messianic calculations, medieval expectations and the precessional movement of the spring-point. His own notes sometimes correct the astronomy reported by his historical authorities. The calculations, their transmission and the expectations placed upon them are parts of his inquiry; an inherited forecast is not an independently confirmed causal law of history. The constellational image makes the contrary tendencies of an age visible together, while the age lives them successively. (Ch. VI, §§128–137; pp. 74–82.)
 

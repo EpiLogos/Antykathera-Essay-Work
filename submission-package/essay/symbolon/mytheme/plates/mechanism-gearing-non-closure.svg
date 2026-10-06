@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="Georgia, 'Times New Roman', serif" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">Plate — Mechanism: Gearing as Non-Closure</title>
+<desc id="d">An emblematic instrument on a paper-coloured ground. Above, a scattered star field and a faint dotted horizon arc extend across the full width, captioned "the frame is left open — the sky is not enclosed". Below, an open rectangular frame (base and two side rails, no top rail) contains three meshed gear wheels of increasing size — roughly sixteen, twenty-six and forty teeth — the largest carrying a faint spiral groove with a small red follower pin and a red pointer sweeping a dotted dial arc at its rim. Leader lines label the mesh "proportions — carried, not collapsed" and the groove "spiral groove and follower distinguish the turns". At the lower right, a small open circle with a dotted sight-line to the dial is captioned "a reading — the situation the gearing does not own". Base inscription: "one undifferentiated movement would lose the knowledge the unity was meant to provide."</desc>
 <rect x="0" y="0" width="1200" height="900" fill="#f5f0e6"/>
 <text x="600" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">PLATE · MECHANISM — GEARING AS NON-CLOSURE</text>
 <text x="600" y="94" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">the arrangement carries proportions between motions it does not own</text>

@@ -82,6 +82,14 @@ This is the clean mathematical core of the vertical reading. The ratio reduction
 
 The last line is an **internal interpretation**, not a uniqueness theorem showing that arithmetic independently discovers QL. Many factorizations and numerical decompositions are possible; this one matters because it is selected by the native sixfold already established. Its value is therefore reflexive rather than foundational: the QL frame finds a coherent arithmetic expression of its own `4:2` relation and can then be tested by what further relations that choice produces.
 
+<!-- figure:spanda-4-2-attunement-stack -->
+
+![A vertical stack of six bands joined by red labelled arrows. Band one: the arithmetic identity one hundred percent equals sixty-four plus thirty-six, marked Derived. An arrow labelled "declared QL operation: the additive components are read as a ratio" leads to band two, the reduction to sixteen ninths equals two-to-the-four over three-squared, marked Derived. An arrow labelled "internal interpretation" leads to band three, a red-accented card with the large expression 4+2, four explicate plus two implicate, fed by a side card giving two plus two squared equals six. An arrow labelled "declared QL cross-comparison" leads to band four, the operator definition yielding the ordered pair four thirds and two thirds, marked as a declared operator, not ordinary fraction arithmetic. Band five lays out the ratio family — fourth, fifth, totality-ratio, whole tone — under the heading that just-ratio theory supplies the names. Band six: sixteen ninths times nine eighths equals two, the remainder completing the span. A final card gives the standing identity with its rule stated beside it: the plus is QL composition, not ordinary arithmetic.](../../../symbolon/matheme/diagrams/spanda-4-2-attunement-stack.svg)
+
+*Diagram 9 — The vertical accounting.* The vertical accounting: `100% = 2⁶+6² = 64+36`, read as ratio by a declared QL operation, reduced to `16/9 = 2⁴/3²`, interpreted as the base frame `4+2` beside the independently grounded sixfold `2+2²=6`, cross-read by the declared operator `ℋ_QL` into the ratio family `4/3 · 3/2 · 16/9 · 9/8`, and completed exactly by `16/9·9/8 = 2/1` — the remainder as live tick. Every arrow names its operation. **Status per band: Derived / Argued as marked; Offered material omitted by design.** Source of record: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md|Core Theorems — Pithy]], the Second Spanda equation. *Original work for this essay; no third-party imagery.* [Record](../../../symbolon/matheme/diagrams/spanda-4-2-attunement-stack.md)
+
+<!-- /figure:spanda-4-2-attunement-stack -->
+
 Horizontal traversal is `3:3`; vertical determination is `4:2`. The native sixfold remains grounded independently by
 
 $$
@@ -141,6 +149,14 @@ $$
 $$
 
 is a genuine Pythagorean-historical/mathematical relation when separately sourced. It is **not derived merely because `100=10×10`, nor because `2^4/3^2` contains exponents 4 and 2**. Those numerical resonances may be retained as Offered symbolic amplification, but they are not part of the proof spine.
+
+<!-- figure:gaffurio-1492-pythagoras-and-the-ratios -->
+
+![A black-and-white woodcut divided into four framed panels: at upper left smiths strike an anvil with hammers; at upper right a seated Pythagoras with a pointer sits before a row of bells and a table of glasses; at lower left he works at a stringed monochord; at lower right he and Philolaus play pipes. Each panel carries a Latin name label.](../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/images/gaffurio-1492-pythagoras-and-the-ratios.jpg)
+
+*Image 9 — Gaffurius, Pythagoras and the ratios.* Franchinus Gaffurius's woodcut of Pythagoras's discoveries, from the *Theorica musice* of 1492: hammers, bells, glasses, a stretched string and pipes, with numbers marked on them. It illustrates the late-antique story that Pythagoras found the fourth, fifth and octave in whole-number ratios by weighing sounding bodies. The story is a transmitted legend; the ratios are the mathematics the history carries. Credit: Franchinus Gaffurius, *Theorica musice*, Milan, 1492, woodcut (digital copy from the Bibliothèque nationale de France, Gallica). Public domain; reproduction from Wikimedia Commons. [Record](../../../symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md)
+
+<!-- /figure:gaffurio-1492-pythagoras-and-the-ratios -->
 
 This distinction improves rather than weakens the musical passage. The QL construction already has enough exact content: the native `4+2`, the selected `3:3`/`4:2` cross-reading, the exact reduction `64/36=16/9`, and the exact interval relations among `4/3`, `3/2`, `9/8`, `16/9`, and `2/1`. Pythagorean history can then enter as a sourced neighbour instead of being recruited to certify a numerical coincidence.
 

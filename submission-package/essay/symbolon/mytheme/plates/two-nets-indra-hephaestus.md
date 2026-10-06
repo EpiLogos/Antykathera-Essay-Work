@@ -29,6 +29,14 @@ tags: [epi-logos/antikythera-essay, argument-map/plate, register/mytheme, statio
 
 # Plate — Two Technical Destinies of the Web
 
+<!-- figure:two-nets-indra-hephaestus -->
+
+![A diptych separated by a thin vertical rule. Left panel, "the jewel net, 0/1": a diagonal lattice of small diamond jewels connected by fine lines; one jewel near the lower left is filled gold with a red outline and emits faint dotted rays to its neighbours; a caption reads "each jewel reflects the others; the selected jewel remains the particular entrance". Right panel, "the artful bond, (−1)+/−(+1)": a bold rectangle filled with fine diagonal cross-hatch netting containing two circles, one solid labelled (+1) and one hollow labelled (−1), each captioned "exposed term"; twelve dark dots form a ring around the mesh, captioned "the convened tribunal — a zero occupied from outside"; one red dot stands apart at the lower left with a dashed red line to the mesh, captioned "the one who does not laugh — release from inside the loss". Motto beneath both panels: "mutual visibility is not entrusted continuation".](two-nets-indra-hephaestus.svg)
+
+Two technical destinies of the web. Indra's jewel net figures `0/1`: each jewel reflects every other, the selected jewel remains the particular entrance, and relation stays internally active in every determination. Hephaestus's mesh figures `(-1)+/-(+1)`: polarity arrested — two exposed terms held for a convened tribunal while the zero is occupied from outside — until the one figure who does not laugh pledges from inside the loss and the mesh can be opened. Neither operation can do the other's work: a reflected mark assumes no debt, and an undertaking changes who will answer for one. Mutual visibility is not entrusted continuation.
+
+<!-- /figure:two-nets-indra-hephaestus -->
+
 ## Proposition
 
 The web has two technical destinies, and the essay names them with two nets. Indra's jewel
@@ -112,9 +120,19 @@ continuation".
 - `heidegger-1977-question-concerning-technology` — the enframing comparison Movement 22
   argues; the plate does not illustrate Heidegger's text itself.
 
-## Wiring (embedding NOT performed by this ticket)
+## Wiring (candidates at landing; placements listed under Embedded at)
 
 - Candidate embedding: manuscript §2 at M22, where the two nets are compared.
 - Room route: `section-rooms/03-two-logics/` M22 movement page.
 - This plate is also the natural emblem for A23 (Trust, Faith, and the Formal Limit) displays,
   should a later wiring pass want one.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M22), after the paragraph beginning “Hephaestus's net holds bodies whose release requires”.
+- Figure in [§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus](../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), after the paragraph beginning “The [Indra’s jewel-net whole]”.
+<!-- /embedded-at -->

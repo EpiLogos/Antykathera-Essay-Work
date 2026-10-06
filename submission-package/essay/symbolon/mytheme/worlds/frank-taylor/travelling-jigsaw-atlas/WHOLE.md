@@ -7,6 +7,19 @@ claim_status: Argued
 source_relation: "Authored travelling image; Paraphrased historical diagnosis; Offered mathematical and technical witness"
 source_ids: [taylor-2026-core-theorems-pithy, taylor-2026-definition-god-draft3, gebser-1985-ever-present-origin, bratton-2026-agentworld-brief, neumann-1954-origins-history-consciousness, heidegger-1977-question-concerning-technology]
 human_amplification: "Declared image and returns yes; new illustrative narration no"
+figures:
+  - asset: "images/nasa-apollo-17-blue-marble-as17-148-22727.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "NASA photograph; no third-party rights noted. NASA is acknowledged as source and implies no endorsement."
+    source_url: "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg"
+    credit: "NASA, Apollo 17 crew, The Blue Marble, AS17-148-22727, 7 December 1972. Public domain (NASA)."
+  - asset: "images/ortelius-typus-orbis-terrarum-1572.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Sixteenth-century printed map; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+    credit: "Abraham Ortelius, Typus Orbis Terrarum, 1572 printing, hand-coloured engraving, from the Theatrum Orbis Terrarum (Antwerp). Public domain; reproduction from Wikimedia Commons."
 ---
 
 # The travelling jigsaw
@@ -30,6 +43,12 @@ The puzzle travels into the world it claims to depict. Its maker encounters a tu
 At first the completed assembly can absorb the difficulty as an imperfection in the traveller’s knowledge. Another piece will arrive, another detail will be filled. But an additional piece is still being judged under the same criterion. The change comes when the maker begins to record how a view was made: from where, across which region, under what projection, with which omissions and with what possibility of passing to another view.
 
 The pieces now acquire a different office. They become local charts. Their edges mark limits of usable description; neighbouring charts can overlap rather than merely meet along a cut. Within an overlap, the maker must be able to explain how a position described here appears there. A difference between two reports can then disclose a change of coordinates, a difference in what is being measured, or a disagreement which the available translation does not resolve. The seam becomes an operative relation.
+
+![A hand-coloured oval world map in a decorated frame under the title Typus Orbis Terrarum, with the Americas at left, Europe, Africa and Asia at right and a speculative southern continent along the bottom, surrounded by clouds and a Latin motto.](images/ortelius-typus-orbis-terrarum-1572.jpg)
+
+> Abraham Ortelius's *Typus Orbis Terrarum* in a 1572 printing, the world map that opened his *Theatrum Orbis Terrarum*, the first printed atlas. A single projection draws the whole world on one oval, and the volume that follows it gives each region its own sheet. The book is the historical form of the movement the record describes: from one box-lid picture to charts that carry their own limits.
+>
+> Credit: Abraham Ortelius, *Typus Orbis Terrarum*, 1572 printing, hand-coloured engraving, from the *Theatrum Orbis Terrarum* (Antwerp). Public domain; reproduction from Wikimedia Commons.
 
 The box-lid loses its power to predetermine every fit, but picturing continues. A local view can become more accurate as its limits become better known. The regulating whole is carried by the domain, its coverage and the rules of transition. An atlas can be worked through: one enters a chart, crosses through an overlap, learns what changed and returns with the route available. Its unity is realised through these crossings rather than installed as an image which every piece must reproduce.
 
@@ -77,6 +96,12 @@ This common archetypal field does not assign every culture the same cartographic
 ## #4 — The planet appears, and the making of the picture returns
 
 The Blue Marble gathers the hinge between a final box-lid world-picture and a first diaphanous planetary image. The quilt names this image-unit without selecting a particular NASA photograph. A bounded view of Earth can gather attention around a shared planet. Its intelligibility depends on the position, instrument, production and measure through which that view becomes available.
+
+![A photograph of Earth from space against black: the whole disc is lit, with Africa and the Arabian Peninsula at upper centre, white cloud swirling over the southern ocean and the Antarctic ice cap at the bottom.](images/nasa-apollo-17-blue-marble-as17-148-22727.jpg)
+
+> The photograph known as the Blue Marble, taken by the Apollo 17 crew on 7 December 1972 (NASA frame AS17-148-22727). The quilt names the image-unit without selecting a photograph; this is the frame the name usually points to. The disc is a view with a position and an instrument: the original frame has south at the top, and the reproduction is rotated to the conventional orientation.
+>
+> Credit: NASA, Apollo 17 crew, *The Blue Marble*, AS17-148-22727, 7 December 1972. Public domain (NASA).
 
 As a box-lid, the planetary picture settles in advance what the world is and what its pieces must mean. “Planetary” can then become the unexamined scale under which particular lives, places and claims are counted. The image’s apparent completeness opens to these questions: whose planet, computed by whom, on whose gauge? They require a situated answer. An image’s breadth of view cannot by itself establish the authority of the account made through it.
 

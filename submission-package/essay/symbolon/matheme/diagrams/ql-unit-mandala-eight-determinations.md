@@ -17,6 +17,14 @@ tags: [epi-logos/antykathera-essay, argument-map/live, register/matheme, domain/
 
 # The QL Unit as Concentric Mandala — the Eight Determinations
 
+<!-- figure:ql-unit-mandala-eight-determinations -->
+
+![A concentric figure. At the centre, a red-ringed circle holds 0/1, labelled Ground and Point, empty of object. On an inner ring sit four boxes: question-assertion at north (Definition, Line, zero degrees), minus-over-plus at east (Dynamis, Angle, ninety degrees), X-over-x at west (Pattern, Triangle, two hundred seventy degrees), AM-over-IS at south (Context, Square, one hundred eighty degrees). An outer solid ring is labelled infinity-over-dx, Realisation and Circle, the enclosing horizon. The outermost dashed ring frames everything: at its top a box reads slash equals minus over minus, the parent relation before the count; at its bottom a box reads one-over-zero, the return-switch five-to-zero. Light red lines join the centre to north, east to west, and south to the outer ring; a legend explains these as the forward folds and notes that on the east–west diameter the count phase-flips from 01 to 10. A closing band gives the status lines and the compass-assignment source.](ql-unit-mandala-eight-determinations.svg)
+
+The eight determinations as the canonical concentric mandala: centre `0/1`, the ground–mark relation, empty of object; stations `?/!` (N, Line), `−/+` (E, Angle), `X/x` (W, Triangle), `AM/IS` (S, Square) at the degree-table compass points; `∞/dx` as the enclosing horizon; `/ = −/−` before the count and `1/0`, the return-switch `5→0`, as frame — frame, never content. The forward folds and the east–west phase-flip are drawn; nothing else is implied. **Status: Derived** (traversal, theorem field) **/ Argued** (cross-register names). Source of record: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md|Core Theorems — Pithy]], the eight-determinations table, read through the essay's `§3 · #0`.
+
+<!-- /figure:ql-unit-mandala-eight-determinations -->
+
 ## Proposition
 
 The canonical QL-unit layout, its geometry derived rather than invented: the centre is the `0/1` threshold carrying the ground–mark relation and empty of object; the four explicate stations `#1`–`#4` stand at the compass positions with their determinations and constructions; the enclosing ring carries `∞/dx` as horizon; the parent relation `/ = −/−` and the return-switch `1/0` frame the whole — frame, never content. The concentric form is itself a refraction of the arche-topos (the torus's flat projection: four quarters + centre + enclosing ground = `4+2`), not decoration.
@@ -64,3 +72,13 @@ A concentric figure. At the centre, a red-ringed circle holds `0/1`, labelled Gr
 ## Rights
 
 Original work, created for the essay. No scraped, downloaded or licensed third-party image material.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M25), after the paragraph beginning “These are eight determinations of one passage”.
+- Figure in [§3 · #0 — Eight Determinations](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md), after the paragraph beginning “The table fixes the actual order of determination”.
+<!-- /embedded-at -->

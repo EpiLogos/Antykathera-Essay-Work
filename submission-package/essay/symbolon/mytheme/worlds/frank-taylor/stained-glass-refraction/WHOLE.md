@@ -18,6 +18,13 @@ source_ids:
   - dyczkowski-2000-doctrine-vibration
   - abhinavagupta-singh-1988-paratrisika-vivarana
   - bohm-1980-wholeness-implicate-order
+figures:
+  - asset: "images/chartres-north-rose-window.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Photograph released into the public domain by its author (Wikimedia Commons); the window is of the thirteenth century."
+    source_url: "https://commons.wikimedia.org/wiki/File:Chartres_-_cath%C3%A9drale_-_rosace_nord.jpg"
+    credit: "Eusebius, Chartres – cathédrale – rosace nord, photograph, 7 February 2009. Released into the public domain by the photographer."
 ---
 
 # Stained Glass — Originating Light, Spectrum, Panes, Seams, and Returning Recognition
@@ -48,6 +55,12 @@ The spectral language is Taylor's formal/Mytheme articulation. Modern spectral o
 Each pane has a material, density, colour and angle. Its placement permits some transmission, bends or colours what passes, and leaves something obstructed. The maker joins these different capacities into an aperture. Colour gives disclosure a definite form; removing every difference in pursuit of neutrality would also remove the particular transformations through which the composition becomes articulate.
 
 The original quilt distinguishes this construction from an opaque mosaic. A mosaic arranges fragments into a surface image; the window works through transmission and obstruction as well as arrangement. Its material joins participate in how light enters. This is why the window carries the method's construction from the beginning: choosing and joining its materials already determines how the source can become visible.
+
+![A tall photograph of a stained-glass window in a dark wall: a large circular rose of red, blue and violet glass in many small radiating panes above a row of five narrow pointed lancet windows, each holding a standing figure.](images/chartres-north-rose-window.jpg)
+
+> The north rose and lancets of Chartres Cathedral, an early thirteenth-century window. This window shows the construction the record describes (the record names no particular window). The picture is made of coloured panes joined by lead, and the light behind it reaches the viewer only through them.
+>
+> Credit: Eusebius, *Chartres – cathédrale – rosace nord*, photograph, 7 February 2009. Released into the public domain by the photographer.
 
 The lead cames carry the joins. They hold neighbouring panes in relation while marking where one passage ends and another begins. In the epistemic construction, those seams retain source provenance, historical discontinuity, translation limits, contradiction and changes of register. A passage through a mathematical derivation differs from a passage through a lived encounter or a historical text. Their conjunction becomes informative when a reader can follow where the warrant changes and what survives the crossing.
 

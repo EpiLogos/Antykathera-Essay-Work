@@ -18,6 +18,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, register/matheme, domain/
 
 # The Vertical Accounting — 100% to the `4+2` Base Frame
 
+<!-- figure:spanda-4-2-attunement-stack -->
+
+![A vertical stack of six bands joined by red labelled arrows. Band one: the arithmetic identity one hundred percent equals sixty-four plus thirty-six, marked Derived. An arrow labelled "declared QL operation: the additive components are read as a ratio" leads to band two, the reduction to sixteen ninths equals two-to-the-four over three-squared, marked Derived. An arrow labelled "internal interpretation" leads to band three, a red-accented card with the large expression 4+2, four explicate plus two implicate, fed by a side card giving two plus two squared equals six. An arrow labelled "declared QL cross-comparison" leads to band four, the operator definition yielding the ordered pair four thirds and two thirds, marked as a declared operator, not ordinary fraction arithmetic. Band five lays out the ratio family — fourth, fifth, totality-ratio, whole tone — under the heading that just-ratio theory supplies the names. Band six: sixteen ninths times nine eighths equals two, the remainder completing the span. A final card gives the standing identity with its rule stated beside it: the plus is QL composition, not ordinary arithmetic.](spanda-4-2-attunement-stack.svg)
+
+The vertical accounting: `100% = 2⁶+6² = 64+36`, read as ratio by a declared QL operation, reduced to `16/9 = 2⁴/3²`, interpreted as the base frame `4+2` beside the independently grounded sixfold `2+2²=6`, cross-read by the declared operator `ℋ_QL` into the ratio family `4/3 · 3/2 · 16/9 · 9/8`, and completed exactly by `16/9·9/8 = 2/1` — the remainder as live tick. Every arrow names its operation. **Status per band: Derived / Argued as marked; Offered material omitted by design.** Source of record: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md|Core Theorems — Pithy]], the Second Spanda equation.
+
+<!-- /figure:spanda-4-2-attunement-stack -->
+
 ## Proposition
 
 The Second Spanda's internal accounting, drawn as a stack whose every arrow names its operation: the achieved whole decomposes as
@@ -85,3 +93,13 @@ A vertical stack of six bands joined by red labelled arrows. Band one: the arith
 ## Rights
 
 Original work, created for the essay. No scraped, downloaded or licensed third-party image material.
+
+
+## Embedded at
+
+<!-- embedded-at -->
+Embedded 2026-10-05; the rendered figure heads this record.
+
+- Manuscript, [THE-RETURN-OF-ZERO](../../../THE-RETURN-OF-ZERO.md#M26), after the paragraph beginning “This is how the two orientations enter the musical proportions.”.
+- Figure in [§3 · #1 — The Spanda Equations and 4+2](../../../section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md), after the paragraph beginning “The last line is an **internal interpretation**”.
+<!-- /embedded-at -->

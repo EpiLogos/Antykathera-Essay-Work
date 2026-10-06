@@ -6,12 +6,25 @@ register: matheme
 claim_status: Argued
 source_relation: "Derived geometry; Paraphrased physical apparatus; Argued QL relation"
 source_ids: [taylor-2026-core-theorems-pithy, iter-what-is-tokamak, hatcher-2002-algebraic-topology, taylor-2026-binary-explication]
+figures:
+  - asset: "images/tokamak-chamber-and-magnetic-fields-schematic.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Figure from a Physics World article, licensed CC BY 4.0 on Wikimedia Commons; credit to the authors required."
+    source_url: "https://commons.wikimedia.org/wiki/File:Schematic-of-a-tokamak-chamber-and-magnetic-profile.jpg"
+    credit: "R. A. Pitts, R. J. Buttery and S. D. Pinches, \"Fusion: the way ahead,\" Physics World 19, no. 3 (2006): 20. CC BY 4.0."
 ---
 # Toroidal and poloidal circulation — magnetic confinement
 
 ## #0
 
 Toroidal confinement gives circulation a material task: sustain a hot plasma in a bounded region while controlling its relation to the vessel. The [housed ITER account](../../episteme/sources/physics/iter/iter-what-is-tokamak/iter-what-is-tokamak.md#iter-what-is-tokamak-q001) establishes the doughnut-shaped vacuum chamber, charged plasma and magnetic apparatus. The [native core, VIII](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) takes that apparatus as a physical neighbour of return through differentiated winding. The mathematical surface and the engineered plasma retain different proof obligations.
+
+![A labelled colour schematic of a doughnut-shaped tokamak: blue D-shaped toroidal field coils ring a pink toroidal plasma, with grey outer poloidal coils and a green central solenoid; arrows and labels name the toroidal magnetic field, the poloidal magnetic field, the resulting helical field and the plasma current.](images/tokamak-chamber-and-magnetic-fields-schematic.jpg)
+
+> A schematic of a tokamak chamber and its magnetic fields. Coils around the torus produce the toroidal field, a current in the plasma and the poloidal coils produce the poloidal field, and the two sum to a helical field that winds round the torus. It is a physics-journal schematic of the apparatus the record cites from ITER, not an engineering drawing; the torus parametrisation below is the record's geometric model.
+>
+> Credit: R. A. Pitts, R. J. Buttery and S. D. Pinches, "Fusion: the way ahead," *Physics World* 19, no. 3 (2006): 20. CC BY 4.0.
 
 Toroidal and poloidal directions compose under the geometric and field assumptions stated below. In the institutional tokamak account, their coupled magnetic fields guide a plasma around the containing toroidal arrangement. That physical coupling gives QL a bounded comparison: distinguish the directed movements, then recover the conditions through which they work together. [Toroidal circulation](../../../section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) receives a precise physical case of coupled movement, while [the differential field](../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) retains the relation within which that case becomes legible.
 

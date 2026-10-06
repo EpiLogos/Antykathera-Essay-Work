@@ -72,6 +72,8 @@ The [[symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewe
 
 The [Indra’s jewel-net whole](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **figures** shared consequence among definite local centres. Its sovereign-commons return asks whether those centres can contest and revise a reference field while retaining their local authority. Recursive reflection gives the relation a mythemic form; the concrete federation remains Offered until those powers operate.
 
+<!-- see-figure:dew-on-spider-web -->*See also Image 2, [The optical fact of the jewel net](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md).*<!-- /see-figure:dew-on-spider-web -->
+
 The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md#3--huayans-contemplative-net-qualifies-its-own-likeness) **historicises** recursive inclusion through the Chinese passage’s ink-dot continuation and explicit limit of likeness. Its institutional return requires locally real, revisable Bimba grounds and consequential crossings; optical reflection and institutional operation retain their different warrants.
 
 **Image:** a mesh of locally grounded Bimba fields with reversible crossings: common enough for shared consequence, sovereign enough for difference to remain a source of correction. The architecture opens the cosmological horizon in [Idealism as Horizon](47-s50-p4-idealism-horizon.md): the technical federation is a concrete experiment in how locally real grounds can compose while remaining dependent on wider relations they do not own.

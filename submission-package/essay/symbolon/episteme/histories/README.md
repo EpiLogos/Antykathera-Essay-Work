@@ -44,3 +44,12 @@ For archaeology-bearing histories, preserve the tree address as the history grow
 ## Standing
 
 Historical growth is organised through places and peoples, traditions and disciplines, and encounters and transmissions, with an atlas linked to Mytheme. The register histories above occupy their single canonical homes under those three divisions; their teaching and protected learning form are retained, and each has a developed companion beside it. The organising direction is bound by the [central plan amendment of 2026-09-08] and executed through the [T20–T21 world-register map].
+
+## Procured images (October 2026)
+
+Images sit in an `images/` folder beside the history that discusses them; each record lists them under `figures:` in its frontmatter.
+
+- [Zero, subject and the advent of integral logic](traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md) — YBC 7289, the Bakhshali numerals, the Gwalior inscription, Dürer's perspective apparatus.
+- [Mathematics](traditions-and-disciplines/mathematics/HISTORY-mathematics.md) — a page of the *Liber abbaci*.
+- [Ancient philosophy](traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md) — Gaffurius's Pythagoras woodcut.
+- [Language, law, nation, centralisation](places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md) — the Pacioli portrait.

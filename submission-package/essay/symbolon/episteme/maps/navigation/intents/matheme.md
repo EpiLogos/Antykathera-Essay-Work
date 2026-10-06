@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "ffc1ec06c0f44a69d6cf0a3ee109c4a66d3f6d0cba74cbba7dcc1d0baf722b32"
+source_digest: "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -19,7 +19,7 @@ Position #2. Entrance: [Matheme](../../../../matheme/README.md). This class is l
 - [computation](matheme--computation.md) — 6 pages
 - [definition](matheme--definition.md) — 8 pages
 - [dia-syn](matheme--dia-syn.md) — 4 pages
-- [diagrams](matheme--diagrams.md) — 8 pages
+- [diagrams](matheme--diagrams.md) — 16 pages
 - [formal-neighbours](matheme--formal-neighbours.md) — 18 pages
 - [harmonics](matheme--harmonics.md) — 9 pages
 - [mono-poly](matheme--mono-poly.md) — 4 pages

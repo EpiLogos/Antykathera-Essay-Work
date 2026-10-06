@@ -1,5 +1,12 @@
 ---
 source_id: symbol-account-and-trust-historical-branches
+figures:
+  - asset: "images/exchequer-tally-1739-diagram.jpg"
+    asset_format: "image/jpeg"
+    rights: "public-domain"
+    rights_note: "Illustration printed in 1911; the Commons reproduction is marked public domain."
+    source_url: "https://commons.wikimedia.org/wiki/File:EB1911_Tally_-_tally_stick_(diagram).jpg"
+    credit: "\"Tally,\" Encyclopaedia Britannica, 11th ed., vol. 26 (1911), p. 379, fig. 2. Public domain."
 ---
 
 # Historical branches — Symbol, Account and Trust
@@ -21,6 +28,12 @@ In Taylor’s [zero–subject braid](../../histories/traditions-and-disciplines/
 English *account* is traced through Middle English and Anglo-French forms associated with counting. Its attested senses include transaction records, explanations and narrative reports. This relates reckoning and telling without making every act of narration financial. The entry does not warrant promoting the earlier “cut together” gloss to the word’s public etymology. [Merriam-Webster, “account,” Word History and senses 1–3](../../sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/merriam-webster-online-dictionary.md#merriam-webster-online-dictionary-q006).
 
 The Bank of England Museum's wooden tally **A013/1** records one of the Bank's first loans to the Government in **1694**. The notched hazelwood was split lengthwise, leaving each party a record of the debt. Its material division and shared reckoning supply an independently documented historical comparison with the Greek token. No borrowing route between the two institutions has been established here. [Bank of England Museum, “Payments through time,” Wooden tally stick](../../sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/bank-of-england-2019-payments-through-time.md#bank-of-england-2019-payments-through-time-q001).
+
+![A line drawing of a long wooden stick with a notched tapered end, its flat face carrying lines of handwriting above and below a row of notches.](images/exchequer-tally-1739-diagram.jpg)
+
+> A diagram of an English exchequer tally of 1739, from the *Encyclopaedia Britannica*: a loan to the Crown, its amount cut as notches and written on the stick. The tally was split lengthwise so that each party kept a half that had to match the other. It is a later specimen of the practice the Bank of England's hazelwood tally of 1694 shows, not that tally itself.
+>
+> Credit: "Tally," *Encyclopaedia Britannica*, 11th ed., vol. 26 (1911), p. 379, fig. 2. Public domain.
 
 An [account of an obligation](WHOLE-FIELD-symbol-account-and-trust.md#account-does-not-replace-source) can preserve its amount and identity while depending on persons, institutions and resources for discharge. Matching records support its integrity; payment and the conditions of repayment are further events. The particular tally’s museum record establishes neither a universal history of money, the whole Exchequer procedure nor a debt’s moral legitimacy.
 

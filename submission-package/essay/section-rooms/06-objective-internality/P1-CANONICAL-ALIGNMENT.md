@@ -19,6 +19,14 @@ source_id: 06-objective-internality-p1-canonical-alignment
 
 [S — World and Life](../arguments/products/S-World-and-Life.md) is the parent composition, not a seventh subsection. Subjective Immediacy remains the knower, Objective Internality the means, World the known, and Life / Mind the whole relation.
 
+<!-- figure:objective-internality-paired-disclosures -->
+
+![A row diagram inside a frame labelled "S — World and Life, the parent field". Six rows, each joining a left lens box and a right conjugate-lens box through a central product card: L0 Quaternal and L5′ Divine Logos join at S0 Central, meaningful continuity, movement 37; L1 Causal and L4′ Scientific at S1 Actuation, living articulation, movement 38; L2 Logical and L3′ Chronological at S2 AIKit, potency, movement 39; L3 Processual and L2′ Alchemical-Elemental at S3 Software Factory, transformation, movement 40; L4 Phenomenological and L1′ Phenomenal at S4 Workcell, situated existence, movement 41; L5 Para Vāk and L0′ Archetypal-Numerical at S5 Quaternal Logic, Transcendent Relation, movement 42. A footer line states that each pair's lens indices sum to five and that the product owns the whole pair.](../../symbolon/episteme/figures/objective-internality-paired-disclosures.svg)
+
+*Figure 1 — The six paired disclosures.* Objective Internality discloses itself through six products, each the subject of its whole MEF pair: Central (L0 Quaternal × L5′ Divine Logos), Actuation (L1 Causal × L4′ Scientific), AIKit (L2 Logical × L3′ Chronological), Software Factory (L3 Processual × L2′ Alchemical-Elemental), Workcell (L4 Phenomenological × L1′ Phenomenal) and Quaternal Logic (L5 Para Vāk × L0′ Archetypal-Numerical); every pair's indices sum to five, S remains the parent field rather than a seventh product, and no product occupies a mere subposition of a lens. *Status: Argued (declared pairs; T26 ratification pending). Source of record: the S0–S5 records, the A/C primitive constitution, central plan §5.* *Original work for this essay; no third-party imagery.* [Record](../../symbolon/episteme/figures/objective-internality-paired-disclosures.md)
+
+<!-- /figure:objective-internality-paired-disclosures -->
+
 M36 prepares the disclosure through MEF whole-pairs: S0 L0×L5′; S1 L1×L4′; S2 L2×L3′; S3 L3×L2′; S4 L4×L1′; S5 L5×L0′. The product is the subject of the whole pair; the product is not distributed among that pair’s six subpositions.
 
 ## Canonical routes
