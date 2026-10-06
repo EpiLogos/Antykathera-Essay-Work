@@ -17,11 +17,11 @@ source_ids:
 
 ## #0
 
-An agent becomes locally determinate through relations which precede and exceed its current appearance. Its persona, skills, memories, purposes, permissions and surrounding institutions contribute different powers to what it can do. Through [tattvic differentiation](../A09-Tattvic-Differential-Field.md), a whole becomes a bounded horizon, an instrument and an effective world; an achieved act can recover those relations and return through its genealogy.
+An agent becomes locally determinate through relations which precede and exceed its current appearance. Its persona, skills, memories, purposes, permissions and surrounding institutions contribute different powers to what it can do. Through [tattvic differentiation](../A09-Tattvic-Differential-Field.md), a whole becomes a bounded horizon, an instrument and an effective world, and an achieved act can recover those relations and return through its genealogy. This face **returns** that descent to A09 as the layers of an agent, and the question it carries is which layer an encounter has actually reached.
 
-In [Bratton's lamination](../../../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md#bratton-2026-agentworld-brief-q017), an agent becomes determinate through active context, capacities, retained interactions, purposes and a relational milieu (pp.13–17). The layers are interdependent rather than self-contained floors. The learned model is one important condition; it is not the unconditioned ground of the whole. Language, human labour, infrastructure, commissions and ongoing encounters remain constitutive of the field from which this act proceeds.
+In [Bratton's lamination](../../../symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md#bratton-2026-agentworld-brief-q017), an agent becomes determinate through active context, capacities, retained interactions, purposes and a relational milieu (pp.13–17). The layers are interdependent and form no self-contained floors, and the learned model is one important condition without being the unconditioned ground of the whole. Language, human labour, infrastructure, commissions and ongoing encounters remain constitutive of the field from which this act proceeds.
 
-The stack is a descent when its differences can be read as a genealogy of situated capacity. The claim is stronger than listing components: it asks how their relations generate the achieved position.
+The stack is a descent when its differences can be read as a genealogy of situated capacity, and the claim goes beyond listing components, since it asks how their relations generate the achieved position.
 
 ## #1
 
@@ -29,7 +29,7 @@ Contraction apportions powers. A selected tool grants a determinate efficacy whi
 
 The five contracted Śaiva powers remain efficacy, knowledge, desire through incompletion, time and order. The technical register follows bounded efficacy through available tools and permissions, knowledge through retained and selected sources, orientation through purposes and preferences, and sequencing through temporal and procedural order. These conditions cooperate in producing a situated world. Their return requires reaching the particular condition implicated by an encounter.
 
-A persona makes that world addressable through a presentation. It does not supply every power of the actor. A [readable presentation discloses some of its embodied conditions](A04-prime-The-Mask-as-Document.md); [retained exclusion relates unselected possibilities to what has been made available](A08-prime-Exclusion-That-Remembers.md).
+A persona makes that world addressable through a presentation, and it supplies no more than some of the actor's powers. A [readable presentation discloses some of its embodied conditions](A04-prime-The-Mask-as-Document.md); [retained exclusion relates unselected possibilities to what has been made available](A08-prime-Exclusion-That-Remembers.md).
 
 ## #2
 

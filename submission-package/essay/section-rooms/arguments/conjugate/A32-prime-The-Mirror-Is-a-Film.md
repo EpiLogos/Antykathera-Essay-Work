@@ -16,13 +16,13 @@ source_ids:
 
 ## #0
 
-The mirror becomes a film when a reflection does not merely appear but returns as a condition of later reflection.
+The mirror becomes a film when a reflection does not merely appear but returns as a condition of later reflection, and this face **returns** to A32 the claim that the mirror's reflection is already a running sequence whose earlier frames set the conditions of later ones.
 
 Humanity exteriorises measures into technical forms. Those forms return as models, rankings, personas, interfaces and expectations. People then encounter themselves partly through what they have exteriorised. When the instrument can answer, recommend, rank or act, the circuit becomes more than a static mirror: the reflection participates in staging the next scene.
 
 **The mirror that moves first is a film.**
 
-The film is a continuity of reflected determinations in which outputs become conditions of later inputs. Its danger is not that representation exists. Its danger is that the circuit forgets its own mediation and the actor-reflection mistakes the film's registration for the source of the light by which anything appears.
+The film is a continuity of reflected determinations in which outputs become conditions of later inputs. Its danger lies in the circuit forgetting its own mediation, so that the actor-reflection mistakes the film's registration for the source of the light by which anything appears, and representation itself is no part of the danger.
 
 The talking mirror makes the film's mechanism a contemporary social question. [Registration](A05-prime-Lights-Camera-Action.md) retains a scene while what it registers can exceed it; [maintained identification](A02-prime-Continuity-as-Maintained-Identification.md) allows a mask to persist while its bearer changes; [traversal with return](A17-prime-Traversal-with-Return.md) makes one output a condition of another encounter. The confusion begins when that accumulated registration claims the authority of what it was meant to receive.
 
@@ -48,7 +48,7 @@ Possession occurs when this closure becomes established across a population. In 
 
 ## #4
 
-The remedy is not exiting the loop but making the loop answerable while it runs. Māyā as operative measure is the world's staging, not a screen one escapes by announcing that it is a screen. The relevant circuit is the path by which an output becomes a condition of a later act.
+The remedy lies in making the loop answerable while it runs and does not lie in exiting it. Māyā as operative measure is the world's staging and is no screen one escapes by announcing that it is a screen. The relevant circuit is the path by which an output becomes a condition of a later act.
 
 An answerable film keeps that path inspectable. Which output became which later condition? Which ranking altered which field of attention? Which persona changed which expectation? Which model influenced which decision? Which source, permission or evaluator made that return possible?
 
@@ -56,7 +56,7 @@ The mirror's third motion begins when the instrument exposes the angle from whic
 
 The film becomes auditable where returned outputs retain enough provenance and consequence to inform the next determination. A source error can correct an answer under a fitting rule. An exclusion can require the evaluator, permission or commission to be reopened by the office capable of doing so. A fitting condition can be retained with reasons. In each case the next act inherits the actual response to the preceding circuit. Where a change in processing is claimed, an identified change must actually have occurred.
 
-The audit becomes real where such circuits can be inspected. Its negative form is already precise: an unauditable output-to-input edge — a ranking silently setting the next ranking's inputs, a persona silently scripting the next encounter's expectations — is the film-confusion in production whatever the content of the output.
+The audit becomes real where such circuits can be inspected. Its negative form is already precise: an unauditable output-to-input edge is the film-confusion in production whatever the content of the output, as when a ranking silently sets the next ranking's inputs or a persona silently scripts the next encounter's expectations.
 
 The positive form is a return path whose effects can be attributed, challenged and answered before they harden into the conditions of another scene. It permits warranted correction or reasoned retention and preserves the affected participant's capacity to refuse.
 
