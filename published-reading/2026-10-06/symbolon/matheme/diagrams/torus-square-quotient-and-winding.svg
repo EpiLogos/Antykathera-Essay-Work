@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">The square quotient and the returning path</title>
+  <desc id="desc">Matching opposite edge arrows identify a square as a torus. A path from zero-zero to one-zero in the covering lattice returns to one quotient point and retains winding one-zero.</desc>
+  <defs>
+    <marker id="blue-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#245e79"/></marker>
+    <marker id="red-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#943d38"/></marker>
+  </defs>
+  <rect width="1100" height="620" fill="#faf8f3"/>
+  <g font-family="Georgia, serif" fill="#252d31">
+    <text x="50" y="53" font-size="29">The square quotient and the returning path</text>
+    <text x="50" y="85" font-size="17">Four boundary occurrences · two generating loops · return with winding retained</text>
+    <text x="70" y="138" font-size="22">1. Identify matching opposite edges</text>
+    <text x="598" y="138" font-size="22">2. Follow one path in the covering plane</text>
+  </g>
+  <rect x="120" y="195" width="280" height="250" fill="#f0eee7" stroke="#535b5d" stroke-width="2"/>
+  <g fill="none" stroke-width="4">
+    <path d="M148 195H367" stroke="#245e79" marker-end="url(#blue-arrow)"/>
+    <path d="M148 445H367" stroke="#245e79" marker-end="url(#blue-arrow)"/>
+    <path d="M120 416V222" stroke="#943d38" marker-end="url(#red-arrow)"/>
+    <path d="M400 416V222" stroke="#943d38" marker-end="url(#red-arrow)"/>
+  </g>
+  <g fill="#252d31"><circle cx="120" cy="195" r="6"/><circle cx="400" cy="195" r="6"/><circle cx="120" cy="445" r="6"/><circle cx="400" cy="445" r="6"/></g>
+  <g font-family="Georgia, serif" font-size="24" text-anchor="middle">
+    <text x="260" y="179" fill="#245e79">a</text><text x="260" y="481" fill="#245e79">a</text>
+    <text x="94" y="328" fill="#943d38">b</text><text x="427" y="328" fill="#943d38">b</text>
+    <text x="260" y="308" fill="#252d31">opposite points</text><text x="260" y="341" fill="#252d31">become one</text>
+  </g>
+  <g stroke="#d4d7d4" stroke-width="1.5">
+    <path d="M625 195V445M735 195V445M845 195V445M955 195V445"/>
+    <path d="M625 225H955M625 335H955M625 445H955"/>
+  </g>
+  <path d="M735 335H845" stroke="#245e79" stroke-width="5" marker-end="url(#blue-arrow)"/>
+  <g fill="#245e79"><circle cx="735" cy="335" r="7"/><circle cx="845" cy="335" r="7"/></g>
+  <g font-family="Georgia, serif" fill="#252d31" font-size="22" text-anchor="middle">
+    <text x="735" y="375">(0, 0)</text><text x="845" y="375">(1, 0)</text>
+    <text x="790" y="270">ℝ² / ℤ² = T²</text>
+    <text x="790" y="476">same quotient point · winding (1, 0)</text>
+  </g>
+  <path d="M50 516H1050" stroke="#cbc8bd"/>
+  <g font-family="Georgia, serif" fill="#424b50" font-size="17">
+    <text x="50" y="549">The endpoints coincide after identification; the path is distinguishable from staying still.</text>
+    <text x="50" y="579">Original construction · Hatcher, pp. 5, 34, 77 · proposed placement in §0/1, M02</text>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="996" viewBox="0 0 880 996" role="img" aria-labelledby="t d">
+  <title id="t">The QL unit as concentric mandala: the eight determinations</title>
+  <desc id="d">A concentric figure. Centre: 0/1, the ground-mark relation, empty of object. Four stations on the cardinal ring: question-assertion at north, minus-plus at east, X-over-x at west, AM-over-IS at south, with their constructions line, angle, triangle and square. An enclosing ring carries infinity-over-dx as horizon. The outermost frame carries the parent relation slash equals minus over minus at the top and the return-switch one-over-zero at the bottom, frame and never content. A light diameter joins east and west, marked in the legend as the Becoming fold and the count's phase-flip; light radii mark the Being and Knowing folds.</desc>
+  <defs>
+    <marker id="arr6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8a2a2a"/>
+    </marker>
+  </defs>
+  <style>
+    .tok  { font-family: "Courier New", Courier, monospace; font-weight: bold; fill: #1a1a1a; }
+    .lab  { font-family: Georgia, "Times New Roman", serif; fill: #3d3d3d; }
+    .mut  { font-family: Georgia, "Times New Roman", serif; fill: #6b6b6b; }
+    .acc  { fill: #8a2a2a; }
+    .station { fill: #f7f4ee; stroke: #1a1a1a; stroke-width: 1.5; }
+    .centre  { fill: #faf3f0; stroke: #8a2a2a; stroke-width: 1.8; }
+    .frame   { fill: #ffffff; stroke: #8a2a2a; stroke-width: 1.4; }
+  </style>
+
+  <rect x="0" y="0" width="880" height="996" fill="#ffffff"/>
+
+  <text class="lab" x="40" y="36" font-size="20" font-weight="bold">The QL unit as concentric mandala &#8212; the eight determinations</text>
+  <text class="mut" x="40" y="58" font-size="12.5">centre: the 0/1 threshold and the ground&#8211;mark relation, empty of object &#183; four explicate stations &#183; enclosing ring &#183; frame, never content</text>
+
+  <!-- outer frame ring -->
+  <circle cx="440" cy="480" r="330" fill="none" stroke="#8a2a2a" stroke-width="1.3"/>
+
+  <!-- parent frame (top) -->
+  <rect class="frame" x="385" y="134" width="110" height="32" rx="6"/>
+  <text class="tok" x="440" y="156" font-size="16" text-anchor="middle">/ = &#8722;/&#8722;</text>
+  <text class="mut" x="440" y="120" font-size="11.5" text-anchor="middle">the parent relation before the count &#8212; frame, never content</text>
+
+  <!-- return frame (bottom) -->
+  <rect class="frame" x="400" y="794" width="80" height="32" rx="6"/>
+  <text class="tok" x="440" y="816" font-size="16" text-anchor="middle">1/0</text>
+  <text class="mut" x="560" y="816" font-size="11.5">the return-switch &#183; 5&#8594;0 &#8212; frame, never content</text>
+
+  <!-- enclosing ring: #5 Realisation -->
+  <circle cx="440" cy="480" r="258" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+  <rect x="216" y="282" width="150" height="34" fill="#ffffff"/>
+  <text class="tok" x="291" y="305" font-size="16" text-anchor="middle">&#8734;/dx</text>
+  <text class="mut" x="291" y="330" font-size="11.5" text-anchor="middle">Realisation &#8212; Circle</text>
+  <text class="mut" x="291" y="346" font-size="11.5" text-anchor="middle">the enclosing horizon</text>
+
+  <!-- station ring (light guide) -->
+  <circle cx="440" cy="480" r="170" fill="none" stroke="#dedad2" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <!-- folds (drawn beneath the station boxes) -->
+  <line x1="440" y1="402" x2="440" y2="342" stroke="#8a2a2a" stroke-width="1" opacity="0.55"/>
+  <line x1="322" y1="480" x2="558" y2="480" stroke="#8a2a2a" stroke-width="1" opacity="0.55"/>
+  <line x1="440" y1="558" x2="440" y2="738" stroke="#8a2a2a" stroke-width="1" opacity="0.55"/>
+
+  <!-- centre -->
+  <circle class="centre" cx="440" cy="480" r="78"/>
+  <text class="tok" x="440" y="474" font-size="26" text-anchor="middle">0/1</text>
+  <text class="mut" x="440" y="498" font-size="11" text-anchor="middle">Ground &#183; Point</text>
+  <text class="mut" x="440" y="512" font-size="11" text-anchor="middle">empty of object</text>
+
+  <!-- N station -->
+  <rect class="station" x="380" y="278" width="120" height="64" rx="8"/>
+  <text class="tok" x="440" y="304" font-size="19" text-anchor="middle">?/!</text>
+  <text class="mut" x="440" y="324" font-size="11" text-anchor="middle">Definition &#183; Line &#183; 0&#176;</text>
+
+  <!-- E station -->
+  <rect class="station" x="550" y="448" width="120" height="64" rx="8"/>
+  <text class="tok" x="610" y="474" font-size="19" text-anchor="middle">&#8722;/+</text>
+  <text class="mut" x="610" y="494" font-size="11" text-anchor="middle">Dynamis &#183; Angle &#183; 90&#176;</text>
+
+  <!-- S station -->
+  <rect class="station" x="378" y="618" width="124" height="64" rx="8"/>
+  <text class="tok" x="440" y="644" font-size="19" text-anchor="middle">AM/IS</text>
+  <text class="mut" x="440" y="664" font-size="11" text-anchor="middle">Context &#183; Square &#183; 180&#176;</text>
+
+  <!-- W station -->
+  <rect class="station" x="210" y="448" width="120" height="64" rx="8"/>
+  <text class="tok" x="270" y="474" font-size="19" text-anchor="middle">X/x</text>
+  <text class="mut" x="270" y="494" font-size="11" text-anchor="middle">Pattern &#183; Triangle &#183; 270&#176;</text>
+
+  <!-- bottom band -->
+  <line x1="40" y1="846" x2="840" y2="846" stroke="#c9c4ba" stroke-width="1"/>
+  <text class="mut" x="40" y="870" font-size="12">Forward folds (declared): Being (centre&#8596;N) &#183; Becoming (E&#8596;W &#8212; the same diameter on which the count phase-flips</text>
+  <text class="mut" x="40" y="890" font-size="12">01&#8594;10, 0/1&#8596;1/0) &#183; Knowing/unKnowing (S&#8596;ring).</text>
+  <text class="mut" x="40" y="910" font-size="12">Status &#8212; the eight-turn traversal: Derived within the native theorem field; cross-register names (Jungian 4+2,</text>
+  <text class="mut" x="40" y="930" font-size="12">perspectival angles, calculus analogy): Argued.</text>
+  <text class="mut" x="40" y="950" font-size="12">Station assignment and constructions: core-theorem &#167;II(a) degree table (N 0&#176; &#183; E 90&#176; &#183; S 180&#176; &#183; W 270&#176;).</text>
+  <text class="mut" x="40" y="970" font-size="12">Source of record: the eight-determinations table.</text>
+</svg>
