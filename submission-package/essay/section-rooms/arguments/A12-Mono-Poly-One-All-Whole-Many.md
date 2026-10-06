@@ -46,7 +46,7 @@ The counter can perform a necessary correction: it shows the established one tha
 
 Counterculture can itself monoise. Each camp compresses its internal plurality, treats dissent as contamination by the other, and needs the opposed camp to stabilise its identity. Two monocultures then masquerade as plurality: the shared field appears only as their battlefield. That is more exact than treating every difference or conflict as pathology, because conflict between plural parties is a healthy use of the polarity.
 
-Retained signed polarity, `(-1)/(+1)`, still has an axis and a relation; conflict can remain transformative. Cancellation removes difference, appropriation gives one pole the span, and war demands a winner who can exclude the other from participation. The political third returns to the field through which both terms arose. Their positions are left unaveraged, and their truth, ethics, power and responsibility are still weighed unequally where they are unequal. Recovering origins makes discrimination more answerable and leaves it in force.
+Retained signed polarity, `(−1)/(+1)`, still has an axis and a relation; conflict can remain transformative. Cancellation removes difference, appropriation gives one pole the span, and war demands a winner who can exclude the other from participation. The political third returns to the field through which both terms arose. Their positions are left unaveraged, and their truth, ethics, power and responsibility are still weighed unequally where they are unequal. Recovering origins makes discrimination more answerable and leaves it in force.
 
 ## #5→0
 
