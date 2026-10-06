@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad"
+source_digest: "34335c180d2cd940420f8d168e8c12b70bddb538e90ec30f4538d643b3288c48"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -38,17 +38,17 @@ Workspace lookup reaches 1155 of 1180 pages. The tables below describe that larg
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 51 | 9 | 42 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 875 | 89 | 786 | 0 | 0 | 0 |
-| The 48 movements | 48 | 477 | 157 | 320 | 0 | 0 | 0 |
+| The 48 movements | 48 | 479 | 160 | 319 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 188 | 66 | 122 | 0 | 2 | 0 |
-| Matheme — exact operations | 109 | 906 | 242 | 664 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 148 | 988 | 246 | 742 | 0 | 118 | 0 |
-| Episteme — the register root | 1 | 23 | 4 | 19 | 0 | 0 | 0 |
-| Arguments A01–A36 | 37 | 1047 | 114 | 933 | 0 | 0 | 0 |
-| Conjugate arguments A01′–A36′ | 38 | 539 | 59 | 480 | 0 | 0 | 0 |
-| Concepts C01–C64 and provenance | 179 | 1481 | 193 | 1288 | 0 | 64 | 0 |
-| Product field S / S0–S5 | 8 | 79 | 13 | 66 | 0 | 2 | 0 |
-| Episteme · Etymology whole-fields | 25 | 586 | 102 | 484 | 0 | 6 | 0 |
-| Episteme · Histories | 21 | 652 | 324 | 328 | 0 | 3 | 0 |
+| Matheme — exact operations | 109 | 911 | 502 | 409 | 0 | 13 | 0 |
+| Mytheme — whole lived images | 148 | 1008 | 496 | 512 | 0 | 118 | 0 |
+| Episteme — the register root | 1 | 23 | 5 | 18 | 0 | 0 | 0 |
+| Arguments A01–A36 | 37 | 1053 | 136 | 917 | 0 | 0 | 0 |
+| Conjugate arguments A01′–A36′ | 38 | 537 | 59 | 478 | 0 | 0 | 0 |
+| Concepts C01–C64 and provenance | 179 | 1492 | 270 | 1222 | 0 | 64 | 0 |
+| Product field S / S0–S5 | 8 | 80 | 14 | 66 | 0 | 2 | 0 |
+| Episteme · Etymology whole-fields | 25 | 587 | 103 | 484 | 0 | 6 | 0 |
+| Episteme · Histories | 21 | 655 | 327 | 328 | 0 | 2 | 0 |
 | Episteme · Source houses | 393 | 1737 | 187 | 1550 | 0 | 91 | 0 |
 | Episteme · Dossiers | 8 | 203 | 118 | 85 | 0 | 1 | 0 |
 | Episteme · Lenses | 13 | 76 | 15 | 61 | 0 | 13 | 0 |
@@ -256,7 +256,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [Episteme Figures](../../figures/README.md)
 - [Histories — Streams of the Logos in Time](../../histories/README.md)
 - [Language, Law, Nation, and Centralisation — The Historical Tree of Topos, Logos, Nomos, Natio](../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md)
-- [Technology, Politics and Institutions — Formation, Delegation and Return](../../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md)
 - [MEF Lens L0′ — Archetypal-Numerical](../../lenses/L0-prime-archetypal-numerical.md)
 - [MEF Lens L0 — Quaternal](../../lenses/L0-quaternal.md)
 - [MEF Lens L1 — Causal](../../lenses/L1-causal.md)
@@ -539,13 +538,13 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Arguments A01–A36:** `[Argument field] (README.md) · [Other face: A01′ — Faithful Definition of the Agent] (conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C root]`
 - **Arguments A01–A36:** `[Argument field] (README.md) · [Other face: A01′ — Faithful Definition of the Agent] (conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C root]`
 - **Arguments A01–A36:** `[Argument field] (README.md) · [Other face: A01′ — Faithful Definition of the Agent] (conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C root]`
-- **Concepts C01–C64 and provenance:** `To [define the Subject faithfully] (../A01-Subject-God-and-Faithful-Definition.md) is to distinguish the presence to which something is given from the something `
-- **Concepts C01–C64 and provenance:** `An account [determines through a cut] (C03-Determination.md): it selects, excludes and relates`
-- **Concepts C01–C64 and provenance:** `Its [fidelity] (C02-Faithful-Definition.md) keeps that selection answerable to the person or appearing it concerns.`
+- **Concepts C01–C64 and provenance:** `An account [determines through a cut] (C03-Determination.md): it selects, excludes and relates, and its [fidelity] (C02-Faithful-Definition.md) keeps that selecti`
+- **Concepts C01–C64 and provenance:** `An account [determines through a cut] (C03-Determination.md): it selects, excludes and relates, and its [fidelity] (C02-Faithful-Definition.md) keeps that selecti`
+- **Concepts C01–C64 and provenance:** `[Selfing and its acquired image] (C35-Selfing-Self-Subjectivity-Self-Thing.md) **define** how a life becomes named, remembered and addressable`
 - **Conjugate arguments A01′–A36′:** `[Argument field] (../README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../A01-Subject-God-and-Faithful-Definition.md) · [Shared A/C root] (AC.`
 - **Conjugate arguments A01′–A36′:** `[Argument field] (../README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../A01-Subject-God-and-Faithful-Definition.md) · [Shared A/C root] (AC.`
 - **Conjugate arguments A01′–A36′:** `[Argument field] (../README.md) · [Other face: A01 — Subject, God and Faithful Definition] (../A01-Subject-God-and-Faithful-Definition.md) · [Shared A/C root] (AC.`
-- **Product field S / S0–S5:** `[S — World and Life] (S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality the means, World the known, an`
+- **Product field S / S0–S5:** `[S — World and Life] (S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality (Life / Mind) the means, World`
 - **Product field S / S0–S5:** `/ [S0] (S0-Central.md) / **Central — meaningful continuity** / L0 Quaternal × L5′ Divine Logos / [M37 — Central] (../../06-objective-internality/movements/37-s5-p`
 - **Product field S / S0–S5:** `/ [S0] (S0-Central.md) / **Central — meaningful continuity** / L0 Quaternal × L5′ Divine Logos / [M37 — Central] (../../06-objective-internality/movements/37-s5-p`
 - **Symbolon — the twelvefold root:** `[Compassion's vocation] (../section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) extends this relation into conduct`
@@ -561,7 +560,7 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Episteme · Atlas:** `The [Mytheme geography] (../../mytheme/atlas/geography/README.md) and [Mytheme temporality] (../../mytheme/atlas/temporality/README.md) routes expose the correspo`
 - **Episteme · Atlas:** `/ [ancient philosophy] (../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT-ancient-philosophy.md) · [learning history] (../histories/tradition`
 - **Episteme · Dossiers:** `Return to [Episteme] (../README.md).`
-- **Episteme · Dossiers:** `This completes the particular image retained by the [Bohm reference] (../../../section-rooms/arguments/concepts/reference-notes/david-bohm-implicate-explicate-ho`
+- **Episteme · Dossiers:** `This completes the particular image that the [Bohm reference] (../../../section-rooms/arguments/concepts/reference-notes/david-bohm-implicate-explicate-holomovem`
 - **Episteme · Dossiers:** `The [re-entry note] (../../../section-rooms/arguments/concepts/reference-notes/re-entry.md) retains the authorial chain distinction → re-entry → oscillation → fr`
 - **Episteme · Etymology whole-fields:** `**Third intake (authorially commissioned 2026-09-15):** the T25 Objective Internality refinement opened [Genesis / Paradigm / Project / Epi-Logos] (genesis-parad`
 - **Episteme · Etymology whole-fields:** `This is the etymological analogue of the whole-Mytheme law in '[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS/Native 020]]': later arch`
@@ -581,9 +580,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Episteme · Source houses:** `[Open section room] (../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)`
 - **Episteme · Source houses:** `- [Bratton — Antikythera Agentworld Brief (2026)] (media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md) — 'bratton`
 - **Episteme · Source houses:** `- [Frank, Gleiser, and Thompson — The Blind Spot (2024)] (history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/frank-gleiser-thompson-2024-`
-- **Matheme — exact operations:** `- [[symbolon/matheme/definition/README.md/Definition]] — the 0: what the matheme IS`
-- **Matheme — exact operations:** `- [[symbolon/matheme/process/README.md/Process]] — the /: what the matheme DOES`
-- **Matheme — exact operations:** `- [[symbolon/matheme/quilt/README.md/Quilt]] — the 1: what the matheme MEANS`
+- **Matheme — exact operations:** `- [[symbolon/matheme/definition/README.md/Definition]] — the '0', what the matheme *is*`
+- **Matheme — exact operations:** `- [[symbolon/matheme/process/README.md/Process]] — the '/', what the matheme *does*`
+- **Matheme — exact operations:** `- [[symbolon/matheme/quilt/README.md/Quilt]] — the '1', what the matheme *means*`
 - **Mytheme — whole lived images:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#3' Mytheme`
 - **Mytheme — whole lived images:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#3' Mytheme`
 - **Mytheme — whole lived images:** `In the Vāk layering of the registers this is **madhyamā**: the formed visual and narrative operations built through the visionary logic that [Matheme] (../mathem`

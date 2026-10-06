@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "ab726b01b989218080a62dec7b56433792b6d754cbbc58f78a02adf9ad50b0ad"
+source_digest: "34335c180d2cd940420f8d168e8c12b70bddb538e90ec30f4538d643b3288c48"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -105,7 +105,7 @@ Group: `reference-notes` · back to [Concepts C01–C64 and provenance](episteme
 
 **Implicates:** none written.
 
-**Reached from:** *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md), [Chinese Remainder: Six as Two by Three](../../../../matheme/formal-neighbours/crt-z6.md)
+**Reached from:** *compares* ← [Chinese Remainder: Six as Two by Three](../../../../matheme/formal-neighbours/crt-z6.md) · *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md)
 
 ### [Christopher M. Bache — LSD and the Mind of the Universe](../../../../../section-rooms/arguments/concepts/reference-notes/christopher-bache-lsd-and-the-mind-of-the-universe.md)
 
@@ -153,7 +153,7 @@ Group: `reference-notes` · back to [Concepts C01–C64 and provenance](episteme
 
 **Implicates:** *unnamed* → [Musical Resolution of the Arche-Topos](../../../../../section-rooms/arguments/concepts/reference-notes/musical-resolution-of-arche-topos.md), [A05 — Prakāśa–Vimarśa](../../../../../section-rooms/arguments/A05-Prakasa-Vimarsa.md), [A06 — Vāk](../../../../../section-rooms/arguments/A06-Vak.md)
 
-**Reached from:** *figures* ← [Mathematical-Artistic Image Register](../../../../../section-rooms/arguments/concepts/reference-notes/mathematical-artistic-image-register.md) · *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md), [Musical Resolution of the Arche-Topos](../../../../../section-rooms/arguments/concepts/reference-notes/musical-resolution-of-arche-topos.md), [Cymatics and Standing Waves](../../../../matheme/harmonics/cymatics-standing-waves.md)
+**Reached from:** *sources* ← [Cymatics and Standing Waves](../../../../matheme/harmonics/cymatics-standing-waves.md) · *figures* ← [Mathematical-Artistic Image Register](../../../../../section-rooms/arguments/concepts/reference-notes/mathematical-artistic-image-register.md) · *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md), [Musical Resolution of the Arche-Topos](../../../../../section-rooms/arguments/concepts/reference-notes/musical-resolution-of-arche-topos.md)
 
 ### [David Bohm — Implicate Order, Explicate Order, and Holomovement](../../../../../section-rooms/arguments/concepts/reference-notes/david-bohm-implicate-explicate-holomovement.md)
 
@@ -363,7 +363,7 @@ Group: `reference-notes` · back to [Concepts C01–C64 and provenance](episteme
 
 **Implicates:** none written.
 
-**Reached from:** *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md), [The Projective Line](../../../../matheme/topology/projective-line.md)
+**Reached from:** *historicises* ← [The Projective Line](../../../../matheme/topology/projective-line.md) · *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md)
 
 ### [Prompt Thrownness](../../../../../section-rooms/arguments/concepts/reference-notes/prompt-thrownness.md)
 
@@ -399,7 +399,7 @@ Group: `reference-notes` · back to [Concepts C01–C64 and provenance](episteme
 
 **Implicates:** none written.
 
-**Reached from:** *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md), [A Pure Qubit and the Bloch Sphere](../../../../matheme/formal-neighbours/qubit-bloch-sphere.md)
+**Reached from:** *historicises* ← [A Pure Qubit and the Bloch Sphere](../../../../matheme/formal-neighbours/qubit-bloch-sphere.md) · *unnamed* ← [Concept Reference Shelf — Recovered 2026-08-08](../../../../../section-rooms/arguments/concepts/reference-notes/README.md)
 
 ### [Re-entry](../../../../../section-rooms/arguments/concepts/reference-notes/re-entry.md)
 
