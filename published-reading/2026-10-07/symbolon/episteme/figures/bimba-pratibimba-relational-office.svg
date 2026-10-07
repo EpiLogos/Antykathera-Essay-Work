@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="800" viewBox="0 0 1040 800" role="img" aria-labelledby="fig-title fig-desc">
+  <title id="fig-title">Bimba and pratibimba — the relational office</title>
+  <desc id="fig-desc">Two panels. Left: the ontological pair — Bimba the Original above, pratibimba the situated display below, joined by a downward display arrow marked display without severance and dependence without diminishment; a dashed upward arrow marks that in time a reflection may lead the next event, while a solid downward arrow marks that in being it remains dependent on what it reflects. A sub-panel shows the QL mirror: position #0 carries (0/1)/(1/0) unfolding 4+2, and position #5 carries (1/0)/(0/1) unfolding 4 prime + 2 prime, two parents carrying the same body in inverse orientations. Right: the recursive local office inside a declared Context Frame — wider source, world and evidence at the top grounds a Bimba Map, the local original and reference field, which orients situated readings as pratibimbas; a return loop lets readings answer back and persistent resistance can revise the local original itself; a dashed arrow shows the local original remaining pratibimba toward wider sources.</desc>
+
+  <defs>
+    <marker id="arrow3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#5b5347"/>
+    </marker>
+    <marker id="arrow3r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#7a5c46"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1040" height="800" fill="#fdfcf8"/>
+
+  <!-- heading -->
+  <text x="520" y="42" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2c2620">Bimba / pratibimba — the relational office</text>
+  <text x="520" y="66" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#6b6156">The Original and its situated display; the local reference that remains answerable to its wider source — C38, A32, C55, A34/C60</text>
+
+  <!-- ===================== left panel ===================== -->
+  <text x="255" y="104" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#55493c">1 · The ontological pair</text>
+
+  <rect x="90" y="130" width="330" height="104" rx="8" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="255" y="160" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#2c2620">Bimba — the Original</text>
+  <text x="255" y="184" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">original / reference office; the disc standing before a mirror</text>
+  <text x="255" y="202" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">prior in being, later in recognition</text>
+
+  <line x1="255" y1="234" x2="255" y2="424" stroke="#5b5347" stroke-width="2.5" marker-end="url(#arrow3)"/>
+
+  <rect x="90" y="428" width="330" height="104" rx="8" fill="#efe6db" stroke="#a89a83" stroke-width="1.6"/>
+  <text x="255" y="458" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#2c2620">pratibimba — the situated display</text>
+  <text x="255" y="482" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">reflection; no being apart from its original</text>
+  <text x="255" y="500" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">genuinely displays it in another register</text>
+
+  <text x="272" y="316" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#2c2620">displays</text>
+  <text x="272" y="334" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">display without</text>
+  <text x="272" y="352" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">severance · dependence</text>
+  <text x="272" y="370" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">without diminishment</text>
+
+  <!-- temporal vs ontological arrows -->
+  <line x1="130" y1="424" x2="130" y2="238" stroke="#7a5c46" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arrow3r)"/>
+  <text x="122" y="330" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">in time: the</text>
+  <text x="122" y="346" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">reflection may lead</text>
+  <text x="122" y="362" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">the next event</text>
+
+  <line x1="415" y1="234" x2="415" y2="424" stroke="#5b5347" stroke-width="1.8" marker-end="url(#arrow3)"/>
+  <text x="428" y="316" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">in being: dependent</text>
+  <text x="428" y="334" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">on what it reflects</text>
+  <text x="428" y="352" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">(A34/C60)</text>
+
+  <!-- QL mirror sub-panel -->
+  <rect x="60" y="560" width="390" height="140" rx="8" fill="#f7f3ea" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="255" y="586" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#55493c">The QL mirror (Derived within QL)</text>
+  <text x="255" y="612" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#2c2620"><tspan font-family="Courier New, monospace" font-weight="700">#0</tspan> carries <tspan font-family="Courier New, monospace" font-weight="700">(0/1)/(1/0)</tspan> — unfolds <tspan font-family="Courier New, monospace">4+2</tspan></text>
+  <text x="255" y="634" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#2c2620"><tspan font-family="Courier New, monospace" font-weight="700">#5</tspan> carries <tspan font-family="Courier New, monospace" font-weight="700">(1/0)/(0/1)</tspan> — unfolds <tspan font-family="Courier New, monospace">4′+2′</tspan></text>
+  <text x="255" y="662" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#6b6156">two parents carrying the same body in inverse orientations;</text>
+  <text x="255" y="680" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#6b6156">Śaiva doctrinal exegesis of the pair is a source-specific neighbour</text>
+
+  <!-- ===================== right panel ===================== -->
+  <text x="760" y="104" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#55493c">2 · The recursive local office</text>
+
+  <!-- wider source -->
+  <rect x="610" y="128" width="300" height="66" rx="8" fill="#efe6db" stroke="#a89a83" stroke-width="1.6"/>
+  <text x="760" y="156" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#2c2620">wider source · world · evidence</text>
+  <text x="760" y="176" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#6b6156">from which any local original derives</text>
+
+  <!-- context frame -->
+  <rect x="540" y="238" width="440" height="440" rx="10" fill="none" stroke="#8a7f70" stroke-width="1.6" stroke-dasharray="8 5"/>
+  <text x="560" y="262" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8a7f70">CONTEXT FRAME (declared)</text>
+
+  <!-- bimba map -->
+  <rect x="590" y="286" width="340" height="104" rx="8" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="760" y="316" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2c2620">Bimba Map</text>
+  <text x="760" y="340" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">the local original / reference field of inquiry —</text>
+  <text x="760" y="358" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">provisional world-objects, source relations, gauge,</text>
+  <text x="760" y="376" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">exclusions and governance made first-class</text>
+
+  <!-- pratibimba readings -->
+  <rect x="590" y="520" width="340" height="104" rx="8" fill="#efe6db" stroke="#a89a83" stroke-width="1.6"/>
+  <text x="760" y="550" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2c2620">pratibimba — situated readings</text>
+  <text x="760" y="574" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">agency states · judgments · trajectories ·</text>
+  <text x="760" y="592" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">locally instantiated interpretations</text>
+
+  <!-- arrows within frame -->
+  <line x1="760" y1="194" x2="760" y2="282" stroke="#5b5347" stroke-width="2" marker-end="url(#arrow3)"/>
+  <text x="746" y="224" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">grounds the local reference</text>
+
+  <line x1="760" y1="390" x2="760" y2="516" stroke="#5b5347" stroke-width="2" marker-end="url(#arrow3)"/>
+  <text x="774" y="452" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">orients the situated readings</text>
+
+  <!-- return loop -->
+  <path d="M590,572 C548,530 548,416 588,372" fill="none" stroke="#7a5c46" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arrow3r)"/>
+  <text x="602" y="440" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">Return ↺ — the readings</text>
+  <text x="602" y="458" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">answer back; persistent</text>
+  <text x="602" y="476" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">resistance can revise the</text>
+  <text x="602" y="494" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#7a5c46">local original itself</text>
+
+  <!-- remains pratibimba arrow -->
+  <path d="M930,286 C972,240 972,196 914,168" fill="none" stroke="#5b5347" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arrow3)"/>
+  <text x="908" y="242" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">the local original remains</text>
+  <text x="908" y="258" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">pratibimba toward wider sources</text>
+
+  <!-- guard -->
+  <text x="760" y="648" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">Causal efficacy and local reference authority never promote the</text>
+  <text x="760" y="664" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">projected <tspan font-family="Courier New, monospace" font-weight="700">1</tspan> into the source-office from which it derived (C38).</text>
+
+  <!-- status band -->
+  <rect x="30" y="720" width="980" height="44" rx="6" fill="#ece7db" stroke="#a89a83" stroke-width="1"/>
+  <text x="46" y="740" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c"><tspan font-weight="700" fill="#2c2620">Status — compound.</tspan> Mirror structure: Derived within QL. Doctrinal exegesis: Argued from source-matched, not quotation-verified, passages.</text>
+  <text x="46" y="757" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">Bimba/Pratibimba primary texts remain intake work. Bimba Map design: Offered until its own experiments establish functioning consequences.</text>
+
+  <text x="520" y="788" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a7f70">Original own-work SVG · record: bimba-pratibimba-relational-office.md · 2026-09-25</text>
+</svg>

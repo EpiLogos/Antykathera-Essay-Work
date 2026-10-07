@@ -1,0 +1,73 @@
+---
+title: "§1 · #1 — Śūnya Becomes Operational"
+source_id: 14-s1-p1-sunya-operational
+node_type: section
+page_type: section-movement
+station: "§1"
+position: "#1"
+sequence: 14
+claim_status: "Derived (historical/mathematical); Argued (Indian mathematical-metaphysical braid)"
+evidence_status: historical-mathematical-with-authorial-braid
+source_ids:
+  - kaplan-1999-nothing-that-is
+  - colebrooke-1817-brahmagupta-bhaskara
+  - dutta-2023-zero-divided-numbers-india
+  - muller-ortega-1998-abhinavagupta
+  - scharf-2010-bijaganita-digital
+  - abhinavagupta-singh-1988-paratrisika-vivarana
+  - dyczkowski-2000-doctrine-vibration
+  - taylor-2026-advent-zero-subject
+transverse_threads: [zero-subject-advent]
+quote_ids:
+  - colebrooke-1817-brahmagupta-bhaskara-q001
+  - colebrooke-1817-brahmagupta-bhaskara-q002
+  - colebrooke-1817-brahmagupta-bhaskara-q003
+tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/return-zero, argument-map/historical, argument-map/mathematical, station/s1, position/p1]
+---
+# §1 · #1 — Śūnya Becomes Operational
+
+<!-- reader-navigation -->
+Movement 14 of 48 · [This room](../ROOM-02-return-of-zero.md) · [← Previous](13-s1-p0-sign-migrates.md) · [Next →](15-s1-p2-empty-set-generates-one.md)
+<!-- /reader-navigation -->
+
+## Movement thesis
+
+Brahmagupta's *Brāhmasphuṭasiddhānta* (628, chapter 18) gives *śūnya* the permissions of a number. It sets the empty beside fortune (*dhana*) and debt (*ṛṇa*) and states what happens when any of the three meets another, so that zero stops being the mark of a vacant position and becomes a quantity arithmetic must pass through. Five centuries later Bhāskara II presses the same sign to the edge where division fails, keeps the zero-denominator expression (*khahara*) unevaluated, and compares its invariance to God, who is neither enlarged by the creation of worlds nor diminished by their destruction. Absence thereby acquires operational force: it changes calculations, and it stays unlike the positive magnitudes among which it operates. Its mathematical history is **Derived**; the braid with Kashmir Śaivism that closes the movement is **Argued**.
+
+## Formal payload
+
+Zero has three offices in these verses and the manuscript separates them. As additive identity, `a+0=a`, it leaves a determination as it was. As multiplicative absorber, `a·0=0`, it sends every quantity to one result and keeps no record of which went in: $6\cdot0=0=17\cdot0$, so that anyone who cancelled the common zero would conclude six equals seventeen (Kaplan's wall, derived in [[17-s1-p4-zero-outside-math|§1 · #4]]). Multiplication by zero is the extreme of what §0/1 met in Kripke's dice, an account that retains a total and loses the difference between the throws. As divisor, `a/0`, it exposes the limit or the transformation of the containing algebra.
+
+In plain arithmetic the verses also carry the two logics. A fortune added to an equal debt gives, in Colebrooke's English, "their difference; or, if they be equal, nought": that is cancellation, `(−1)+(+1)=0`, the zero of a settled account. Subtraction gives appropriation in both chiralities, `(+1)−(−1)=+2` and `(−1)−(+1)=−2`, the whole span counted to the pole from which the reckoning starts, so that the creditor's `+2` is the debtor's `−2`, one span read from its two ends. Kṛṣṇa's gloss on Bhāskara gives the held polarity: the sign of a quantity is a relation to a reference point ("negation is of three sorts, according to place, time, and things. It is, in short, contrariety"). With Benares as the zero, Patna fifteen *yojanas* east and Prayāga eight west are contraries because each is defined by its direction from the same place, and the twenty-three *yojanas* between them are found by adding their magnitudes. That is `(−1)/(+1)` as travel, zero kept as the axis through which each pole has its direction. Pacioli's double-entry ledger (1494) is Brahmagupta's cancellation at the scale of an enterprise, a balance that answers how much remains and says nothing of what passed between the parties.
+
+## Derivation — retention, the infinite and the Indian hinge
+
+### Division and retention
+
+Brahmagupta gave two rules for division (zero divided by zero is nought; a positive or negative divided by cipher is a fraction with that for denominator, *tac-cheda*), and later arithmetic rejected the first. In the *Līlāvatī* Bhāskara answers multiplication's destruction of the record by keeping it: a number multiplied by zero is held as "a multiple of cipher", and if a later step divides by zero the two cancel and the number returns. His example, in which fourteen emerges after the zero that multiplied and the zero that divided cancel, shows retention in plain arithmetic: the relation is kept through the moment at which an ordinary account would have closed it. In the *Bījagaṇita* (1150) the quantity divided by *kha* is kept as *khahara* and left unevaluated, and the commentators reason toward the infinite: Gaṇeśa calls it indefinite, Ranganātha argues that the smaller the divisor the greater the quotient, and Kṛṣṇa concludes that no specified quotient is the greatest, so it is rightly called infinite. His illustration is the gnomon's shadow, infinite at sunrise and sunset whatever the pole's height, so that finite additions to the numerator do not alter the quotient. Dutta reconstructs the Indian regime in which such expressions are retained, cancellation and cross-multiplication are not permitted for them, and evaluation waits until the zero has been removed from the denominator. Kaplan's cancellation argument decides the question inside an ordinary field; Dutta shows what a regime with restricted operations can keep without collapse.
+
+### The wager in negative
+
+Kaplan's remark that dividing by zero would make all numbers the same states the essay's wager in negative form. A register in which all numbers were the same would be one in which multiplicity had collapsed into oneness, and arithmetic forbids the division to prevent it, so arithmetic is not the register in which the many can be seen as one without ceasing to be many. Bhāskara's image points to one that is: the divine whole, unchanged as worlds come forth and return, holds the many as its manifestation without being reduced to their sum. §0/1 reached the same relation through Whitehead's creative advance, in which the many become one and are increased by one while the One that `0` writes is neither added to nor diminished. An older arithmetic of its own states it in the *Bṛhadāraṇyaka* verse that "from the full the full comes forth", which the manuscript offers as an aside and for which the house carries no card yet.
+
+### The hinge
+
+Abhinavagupta is conventionally placed c. 975–1025 and the *Bījagaṇita* is dated 1150, about a century and a quarter later. His tradition produced the fullest Indian account of a consciousness that is the source of manifestation and is unchanged by manifesting: *prakāśa*, the light of appearing, and *vimarśa*, its reflexive awareness, with Śiva and Śakti read as Mono and Poly. Bhāskara is not shown to have known Abhinavagupta's works, and the argument does not need him to have. Within one civilisation, over little more than a century, a philosophical school gave systematic form to the relation between an unchanging source and its many manifestations, and a mathematical tradition meeting the zero denominator described its behaviour in the image of that relation. Their co-presence is the historical fact on which the return of zero rests, and Jung's strict sense of synchronicity fits it: neither caused the other, and each discloses in its own register the relation the other states. Gebser's co-presence of structures gives the fact its methodological form. History then runs from metaphysics into number and later back into ontology: the sign travelled west carrying the rules and leaving the image, and the return of zero brings back what stayed home, with everything the rules have since made rigorous.
+
+### Trust before warrant
+
+Brahmagupta's pupils memorised the verses before they could prove them and used them to compute eclipses checked against the sky. This is *fides* in §0/1's sense, reliance already in force before arbitration; the axioms came a thousand years later and were chosen so that the rules would follow, and the warrant, once built, revealed where the trust had gone wrong, in the rule that zero divided by zero is zero. A rule precise enough to be followed without understanding is also the condition of mechanical computation, and the same independence of correct procedure from understanding let this error pass undetected until someone asked what the rule meant.
+
+## Source boundary
+
+[[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara|Colebrooke — Brahmagupta and Bhāskara (1817)]] is the selected public-domain English carrier. Its cards `colebrooke-1817-brahmagupta-bhaskara-q001` (Brahmagupta's addition and multiplication rules), `q002` (the retained zero denominator) and `q003` (Bhāskara's comparison with divine immutability) are among the passages the manuscript uses, with further cards (q004–q013) for the other Colebrooke passages the manuscript quotes. [[symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/dutta-2023-zero-divided-numbers-india|Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] **sources** the changed cancellation regime and **qualifies** Kaplan's treatment, and [[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is|Kaplan]] stays in the account for the plural historical movement without sole authority. [[symbolon/episteme/sources/indian-philosophy/muller-ortega/muller-ortega-1998-abhinavagupta/muller-ortega-1998-abhinavagupta|Muller-Ortega's chronology]] and [[symbolon/episteme/sources/mathematics-logic/bhaskara/scharf-2010-bijaganita-digital/scharf-2010-bijaganita-digital|the Sanskrit Library's Bījagaṇita record]] **source** the dates; [[symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/abhinavagupta-singh-1988-paratrisika-vivarana|Abhinavagupta / Singh]] and [[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/dyczkowski-2000-doctrine-vibration|Dyczkowski]] **source** the Śaiva field.
+
+## Tension / limit
+
+It claims no line of influence from Kashmir Śaivism to Bhāskara's algebra; Brahmagupta's rules are five centuries older than 1150, and 1150 is not the date of zero's invention. Colebrooke's Bhāskara supplies a theological comparison inside a source, and that comparison is an analogy within it: arithmetic does not demonstrate a doctrine of God and an image does not prove arithmetic. Brahmagupta's rules for signed quantity are correct and remain so; reading them through the two logics is the essay's step. Open carriers are a critical Sanskrit edition (a philological task), the page for the *Bṛhadāraṇyaka* verse, the Pacioli edition and folio, the CW 8 paragraph defining synchronicity, and the dates as given by Scharf and Muller-Ortega.
+
+Operative śūnya **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md#name-through-count) at the difference between an unfilled place and a sign permitted to act in calculation: naming an absence confers no arithmetic rule, and the receiving count supplies the permission. Reliance enacted in a rule, a notation and a transmitted practice **returns-to** [Fides before arbitration](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md#fides-before-arbitration), and each permission can be examined without first manufacturing all the relations on which examination depends. Colebrooke's three witnesses have different offices, and the [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md#1--zero-enters-calculation-and-exposes-its-laws) **historicises** them: Brahmagupta's zero in addition and multiplication, Bhāskara's retained denominator, and the translated comparison with divine immutability.
+
+## Transition
+
+By the twelfth century zero had been placed, named, given rules and pressed to the edge where division fails, where an Indian mathematician set it beside the image of the unchanging source of worlds. Its next step is formal: at the turn of the twentieth century logicians asked whether number itself could be built from nothing and found that it could, provided one counted the nothing. [[15-s1-p2-empty-set-generates-one|§1 · #2 — The Empty Set Generates One]] follows that construction.

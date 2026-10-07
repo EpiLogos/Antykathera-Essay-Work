@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="1010" viewBox="0 0 780 1010" role="img" aria-labelledby="fig-title fig-desc">
+  <title id="fig-title">The straight Vāk layering of the four publication registers</title>
+  <desc id="fig-desc">A vertical descent of four bands. Symbolon carries parā, Matheme carries paśyantī, Mytheme carries madhyamā, and Episteme carries vaikharī. Each band names the register office on the left and the speech-level office on the right. The order is the straight order ratified on 7 September 2026; the earlier proposal to permute Matheme and Mytheme is historical provenance.</desc>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#5b5347"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="780" height="1010" fill="#fdfcf8"/>
+
+  <!-- heading -->
+  <text x="390" y="46" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2c2620">The straight Vāk layering of the four registers</text>
+  <text x="390" y="72" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#6b6156">Ratified 2026-09-07 (central plan, mythic rule and Amendment 2026-09-07) — straight order, no permutation</text>
+
+  <!-- descent rail -->
+  <text x="38" y="240" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#8a7f70" transform="rotate(-90 38 240)">prior to determination</text>
+  <line x1="52" y1="170" x2="52" y2="856" stroke="#c9bfae" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="38" y="740" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#8a7f70" transform="rotate(-90 38 740)">instituted, audible form</text>
+
+  <!-- band 1: Symbolon / para -->
+  <rect x="110" y="112" width="610" height="158" rx="8" fill="#f3ece0" stroke="#a89a83" stroke-width="1.5"/>
+  <rect x="126" y="128" width="270" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="146" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2c2620">Symbolon</text>
+  <text x="146" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#55493c">holds the relation</text>
+  <rect x="428" y="128" width="276" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="448" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#4a3a5e">parā</text>
+  <text x="448" y="192" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">the Supreme Word prior to determination,</text>
+  <text x="448" y="210" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">from which letters and words derive</text>
+  <line x1="396" y1="191" x2="424" y2="191" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <line x1="415" y1="274" x2="415" y2="300" stroke="#5b5347" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="432" y="292" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a7f70">descent</text>
+
+  <!-- band 2: Matheme / pashyanti -->
+  <rect x="110" y="304" width="610" height="158" rx="8" fill="#efe6db" stroke="#a89a83" stroke-width="1.5"/>
+  <rect x="126" y="320" width="270" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="146" y="360" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2c2620">Matheme</text>
+  <text x="146" y="388" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#55493c">gives the visionary operative logic</text>
+  <rect x="428" y="320" width="276" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="448" y="360" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#4a3a5e">paśyantī</text>
+  <text x="448" y="384" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">formative, “seeing” speech — before the</text>
+  <text x="448" y="402" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">hard partition of visual and acoustic objects</text>
+  <line x1="396" y1="383" x2="424" y2="383" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <line x1="415" y1="466" x2="415" y2="492" stroke="#5b5347" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="432" y="484" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a7f70">descent</text>
+
+  <!-- band 3: Mytheme / madhyama -->
+  <rect x="110" y="496" width="610" height="158" rx="8" fill="#f3ece0" stroke="#a89a83" stroke-width="1.5"/>
+  <rect x="126" y="512" width="270" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="146" y="552" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2c2620">Mytheme</text>
+  <text x="146" y="580" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#55493c">forms its lived visual and narrative</text>
+  <text x="146" y="598" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#55493c">operations, built through the logic</text>
+  <rect x="428" y="512" width="276" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="448" y="552" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#4a3a5e">madhyamā</text>
+  <text x="448" y="576" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">mental articulation — the formed</text>
+  <text x="448" y="594" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">inner word</text>
+  <line x1="396" y1="575" x2="424" y2="575" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <line x1="415" y1="658" x2="415" y2="684" stroke="#5b5347" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="432" y="676" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a7f70">descent</text>
+
+  <!-- band 4: Episteme / vaikhari -->
+  <rect x="110" y="688" width="610" height="158" rx="8" fill="#efe6db" stroke="#a89a83" stroke-width="1.5"/>
+  <rect x="126" y="704" width="270" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="146" y="744" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2c2620">Episteme</text>
+  <text x="146" y="772" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#55493c">articulates instituted knowledge,</text>
+  <text x="146" y="790" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#55493c">history and warrant</text>
+  <rect x="428" y="704" width="276" height="126" rx="6" fill="#fdfcf8" stroke="#c2b5a0" stroke-width="1"/>
+  <text x="448" y="744" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#4a3a5e">vaikharī</text>
+  <text x="448" y="768" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">explicit utterance — the achieved,</text>
+  <text x="448" y="786" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#55493c">shareable, addressable form</text>
+  <line x1="396" y1="767" x2="424" y2="767" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- guard note -->
+  <rect x="110" y="866" width="610" height="40" rx="6" fill="#f7f3ea" stroke="#c2b5a0" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="415" y="884" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">Descent, not permutation: the earlier proposal to swap Matheme and Mytheme</text>
+  <text x="415" y="900" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">is historical provenance, not a present authorial decision.</text>
+
+  <!-- status band -->
+  <rect x="30" y="922" width="720" height="52" rx="6" fill="#ece7db" stroke="#a89a83" stroke-width="1"/>
+  <text x="46" y="941" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#2c2620">Status: Argued</text>
+  <text x="150" y="941" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">Register/Vāk mapping: authorial ratification, 2026-09-07.</text>
+  <text x="46" y="960" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">Speech-level offices: Argued from the Singh / Abhinavagupta introduction leads; passage verification open (A06 Unresolved Delta).</text>
+
+  <text x="390" y="994" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a7f70">Original own-work SVG · record: vak-register-layering.md · 2026-09-25</text>
+</svg>

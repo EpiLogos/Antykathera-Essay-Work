@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="930" viewBox="0 0 1100 930" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">Twelve pure fifths overshoot seven octaves by the Pythagorean comma</title>
+<desc id="d">Left, the pitch-class circle, pitch reduced by whole octaves, with twelve equal steps ticked around it. Twelve pure fifths, each three halves, are plotted as a chain of points with chords; the twelfth lands a little beyond the starting point, and the red arc between them is the comma. Right, the same journey lifted to pitch height: seven octaves and twelve fifths drawn as two bars that differ by a sliver, then magnified on a ruler to show twelve fifths at 7.0196 octaves against seven octaves at exactly seven. The residual is 531441 over 524288, about 1.01364, or 23.46 cents, and it is not the whole tone nine eighths. Beneath, twelve-tone equal temperament closes exactly with twelve steps of two to the power one twelfth, its fifth being 700 cents against 701.955 for the pure fifth.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#211d18"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a2f2b"/></marker><marker id="ahm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6f6659"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e3a59"/></marker></defs>
+<rect x="0" y="0" width="1100" height="930" fill="#f5f0e6"/>
+<text x="550" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">DIAGRAM · TWELVE FIFTHS, SEVEN OCTAVES, ONE COMMA</text>
+<text x="550" y="94" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">the pitch-class circle closes on itself; the lifted height keeps the register difference</text>
+<text x="325" y="160" font-size="17" fill="#6f6659" text-anchor="middle" font-style="italic">pitch class:  log₂ f  mod 1</text>
+<circle cx="325" cy="440" r="200" fill="#efe8da" stroke="#211d18" stroke-width="2"/>
+<line x1="325" y1="250" x2="325" y2="230" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="420" y1="275.455" x2="430" y2="258.135" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="489.545" y1="345" x2="506.865" y2="335" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="515" y1="440" x2="535" y2="440" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="489.545" y1="535" x2="506.865" y2="545" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="420" y1="604.545" x2="430" y2="621.865" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="325" y1="630" x2="325" y2="650" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="230" y1="604.545" x2="220" y2="621.865" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="160.455" y1="535" x2="143.135" y2="545" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="135" y1="440" x2="115" y2="440" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="160.455" y1="345" x2="143.135" y2="335" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="230" y1="275.455" x2="220" y2="258.135" stroke="#b9ae9c" stroke-width="2" stroke-linecap="butt"/>
+<line x1="325" y1="240" x2="223.232" y2="612.172" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="223.232" y1="612.172" x2="500.216" y2="343.567" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="500.216" y1="343.567" x2="125.094" y2="433.859" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="125.094" y1="433.859" x2="493.967" y2="547.006" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="493.967" y1="547.006" x2="233.992" y2="261.906" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="233.992" y1="261.906" x2="312.724" y2="639.623" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="312.724" y1="639.623" x2="437.144" y2="274.399" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="437.144" y1="274.399" x2="144.195" y2="525.497" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="144.195" y1="525.497" x2="524.152" y2="458.399" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="524.152" y1="458.399" x2="162.92" y2="322.825" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="162.92" y1="322.825" x2="404.905" y2="623.344" stroke="#6f6659" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="404.905" y1="623.344" x2="349.506" y2="241.507" stroke="#8a2f2b" stroke-width="2.6" stroke-linecap="butt"/>
+<path d="M 325.0 226.0 A 214 214 0 0 1 351.2 227.6" fill="none" stroke="#8a2f2b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="325" cy="240" r="6.5" fill="#8a2f2b" stroke="#211d18" stroke-width="1"/>
+<circle cx="223.232" cy="612.172" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="500.216" cy="343.567" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="125.094" cy="433.859" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="493.967" cy="547.006" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="233.992" cy="261.906" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="312.724" cy="639.623" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="437.144" cy="274.399" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="144.195" cy="525.497" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="524.152" cy="458.399" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="162.92" cy="322.825" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="404.905" cy="623.344" r="6.5" fill="#2e3a59" stroke="#211d18" stroke-width="1"/>
+<circle cx="349.506" cy="241.507" r="6.5" fill="#8a2f2b" stroke="#211d18" stroke-width="1"/>
+<text x="208.985" y="642.277" font-size="17" fill="#2e3a59" text-anchor="middle">1</text>
+<text x="524.746" y="336.066" font-size="17" fill="#2e3a59" text-anchor="middle">2</text>
+<text x="97.1075" y="438.999" font-size="17" fill="#2e3a59" text-anchor="middle">3</text>
+<text x="517.622" y="567.987" font-size="17" fill="#2e3a59" text-anchor="middle">4</text>
+<text x="221.251" y="242.973" font-size="17" fill="#2e3a59" text-anchor="middle">5</text>
+<text x="311.005" y="673.57" font-size="17" fill="#2e3a59" text-anchor="middle">6</text>
+<text x="452.844" y="257.215" font-size="17" fill="#2e3a59" text-anchor="middle">7</text>
+<text x="118.883" y="543.466" font-size="17" fill="#2e3a59" text-anchor="middle">8</text>
+<text x="552.033" y="466.975" font-size="17" fill="#2e3a59" text-anchor="middle">9</text>
+<text x="140.229" y="312.42" font-size="17" fill="#2e3a59" text-anchor="middle">10</text>
+<text x="416.092" y="655.013" font-size="17" fill="#2e3a59" text-anchor="middle">11</text>
+<text x="304.954" y="216.875" font-size="17" fill="#8a2f2b" text-anchor="end" font-weight="bold">0</text>
+<text x="372.82" y="221.026" font-size="17" fill="#8a2f2b" text-anchor="start" font-weight="bold">12</text>
+<text x="325" y="432" font-size="16" fill="#6f6659" text-anchor="middle">k fifths up,</text>
+<text x="325" y="454" font-size="16" fill="#6f6659" text-anchor="middle">octaves removed</text>
+<text x="325" y="702" font-size="15" fill="#6f6659" text-anchor="middle">grey ticks: twelve equal steps · red arc: where twelve fifths land past the start</text>
+<text x="850" y="160" font-size="17" fill="#6f6659" text-anchor="middle" font-style="italic">lifted to pitch height, in octaves</text>
+<text x="650" y="188" font-size="15" fill="#211d18" text-anchor="start">seven octaves</text>
+<text x="1050" y="188" font-size="15" fill="#211d18" text-anchor="end" font-family="'Courier New', Courier, monospace">2⁷ = 128</text>
+<rect x="650" y="194" width="398.86" height="20" rx="0" fill="#b9ae9c" stroke="#211d18" stroke-width="1.4"/>
+<text x="650" y="238" font-size="15" fill="#8a2f2b" text-anchor="start">twelve fifths</text>
+<text x="1050" y="238" font-size="15" fill="#8a2f2b" text-anchor="end" font-family="'Courier New', Courier, monospace">(3/2)¹² ≈ 129.75</text>
+<rect x="650" y="244" width="399.974" height="20" rx="0" fill="#d9a9a2" stroke="#8a2f2b" stroke-width="1.4"/>
+<line x1="1048.86" y1="268" x2="690" y2="350" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1049.97" y1="268" x2="1050" y2="350" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<text x="870" y="330" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">magnified: the last 0.03 octave</text>
+<line x1="690" y1="400" x2="1050" y2="400" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="750" y1="393" x2="750" y2="407" stroke="#211d18" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="750" y="428" font-size="14.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">7.000</text>
+<line x1="810" y1="393" x2="810" y2="407" stroke="#211d18" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="810" y="428" font-size="14.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">7.005</text>
+<line x1="870" y1="393" x2="870" y2="407" stroke="#211d18" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="870" y="428" font-size="14.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">7.010</text>
+<line x1="930" y1="393" x2="930" y2="407" stroke="#211d18" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="930" y="428" font-size="14.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">7.015</text>
+<line x1="990" y1="393" x2="990" y2="407" stroke="#211d18" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="990" y="428" font-size="14.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">7.020</text>
+<line x1="1050" y1="393" x2="1050" y2="407" stroke="#211d18" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="1050" y="428" font-size="14.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">7.025</text>
+<circle cx="750" cy="400" r="8" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="750" y="380" font-size="15" fill="#211d18" text-anchor="middle">seven octaves</text>
+<circle cx="984.6" cy="400" r="8" fill="#8a2f2b" stroke="#8a2f2b" stroke-width="1.5"/>
+<text x="984.6" y="380" font-size="15" fill="#8a2f2b" text-anchor="middle">twelve fifths</text>
+<line x1="750" y1="462" x2="984.6" y2="462" stroke="#8a2f2b" stroke-width="2.4" stroke-linecap="butt" marker-end="url(#ahr)"/>
+<line x1="984.6" y1="462" x2="756" y2="462" stroke="#8a2f2b" stroke-width="2.4" stroke-linecap="butt" marker-end="url(#ahr)"/>
+<text x="870" y="492" font-size="17" fill="#8a2f2b" text-anchor="middle" font-weight="bold" font-family="'Courier New', Courier, monospace">(3/2)¹² / 2⁷ = 531441 / 524288</text>
+<text x="870" y="516" font-size="16" fill="#8a2f2b" text-anchor="middle" font-family="'Courier New', Courier, monospace">≈ 1.01364  ≈ 23.46 cents</text>
+<text x="870" y="542" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">the comma, not the whole tone 9/8</text>
+<line x1="60" y1="748" x2="1040" y2="748" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<text x="550" y="780" font-size="18" fill="#211d18" text-anchor="middle" font-style="italic">Twelve-tone equal temperament closes exactly by changing what it preserves</text>
+<text x="215" y="810" font-size="15.5" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">12 steps of 2^(1/12)</text>
+<text x="215" y="830" font-size="15.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">close at 2/1 exactly</text>
+<text x="550" y="810" font-size="15.5" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">its fifth 2^(7/12) ≈ 1.4983</text>
+<text x="550" y="830" font-size="15.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">700 cents</text>
+<text x="885" y="810" font-size="15.5" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">the pure fifth 3/2</text>
+<text x="885" y="830" font-size="15.5" fill="#6f6659" text-anchor="middle" font-family="'Courier New', Courier, monospace">701.955 cents</text>
+<text x="550" y="864" font-size="15.5" fill="#6f6659" text-anchor="middle">the question is which relationship the tuning serves and what adjustment it makes audible</text>
+</svg>

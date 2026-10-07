@@ -1,0 +1,436 @@
+---
+title: "Intents — Episteme · Source houses"
+source_id: navigation-episteme-sources--psychology
+page_type: navigation-intents
+generated: true
+generator: "tools/build-navigation.py v1.2.0"
+authority: generated-locator
+source_digest: "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb"
+---
+
+<!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
+
+# Intents — Episteme · Source houses
+
+**Where you are:** [Reading root](../../../../../README.md) › [#4 Episteme](../../../README.md) › [Maps](../../README.md) › [Navigation](../MOC.md) › Episteme · Source houses
+
+Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md). Each entry names what the page **implicates** through its written relations and what **reaches** it. The relation word is the one the sentence around the link names; `unnamed` marks a link whose sentence names none. This is a mirror of the written graph, never its substitute.
+Group: `psychology` · back to [Episteme · Source houses](episteme-sources.md).
+
+### [Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)](../../../sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/adleman-vanderwees-2021-lacan-rhetoric.md)
+
+`scholarly-article`
+
+**Implicates:** *consumed-by (declared)* → [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md)
+
+**Reached from:** *sources* ← [Language, Symbol and Dialogue — The Account Answers Back](../../../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md), [Language, Symbol, and Dialogue — How Meaning Moves](../../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Lacan — Talking to Brick Walls (Price, 2017)](../../../sources/psychology/lacan/lacan-2017-talking-to-brick-walls/lacan-2017-talking-to-brick-walls.md) · *qualifies* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md) · *unnamed* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Bache — LSD and the Mind of the Universe (2019)](../../../sources/psychology/bache/bache-2019-lsd-mind-universe/bache-2019-lsd-mind-universe.md)
+
+`book`
+
+**Implicates:** *consumed-by (declared)* → [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md), [Jung — Memories, Dreams, Reflections (Vintage rev. ed., 1989)](../../../sources/psychology/jung/jung-1989-memories-dreams-reflections/jung-1989-memories-dreams-reflections.md)
+
+**Reached from:** *sources* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Brady et al. — Emotion Shapes the Diffusion of Moralized Content in Social Networks (PNAS, 2017)](../../../sources/psychology/brady/brady-2017-emotion-diffusion-moralized-content/brady-2017-emotion-diffusion-moralized-content.md)
+
+`journal-article`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Courtney — The Salt-Point: Kairos Emergent from Chaos (2019)](../../../sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/courtney-2019-salt-point-kairos-chaos.md)
+
+`journal-article`
+
+**Implicates:** *consumed-by (declared)* → [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md)
+
+**Reached from:** *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *qualifies* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Csikszentmihalyi — Flow (Harper & Row, 1990)](../../../sources/psychology/csikszentmihalyi/csikszentmihalyi-1990-flow/csikszentmihalyi-1990-flow.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Darmon — Mathème (1992)](../../../sources/psychology/darmon/darmon-1992-matheme-ali/darmon-1992-matheme-ali.md)
+
+`reference-entry`
+
+**Implicates:** *consumed-by (declared)* → [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md)
+
+**Reached from:** *defines* ← [Language, Symbol and Dialogue — The Account Answers Back](../../../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md) · *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Language, Symbol, and Dialogue — How Meaning Moves](../../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md), [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Lacan — Talking to Brick Walls (Price, 2017)](../../../sources/psychology/lacan/lacan-2017-talking-to-brick-walls/lacan-2017-talking-to-brick-walls.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Desmet — The Psychology of Totalitarianism (2022 web essay)](../../../sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/desmet-2022-psychology-totalitarianism-web-essay.md)
+
+`web-page`
+
+**Implicates:** *consumed-by (declared)* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A23 — Trust, Faith and the Formal Limit](../../../../../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) · *unnamed* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A23 — Trust, Faith and the Formal Limit](../../../../../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md)
+
+**Reached from:** *sources* ← [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Technology, Politics and Institutions — Formation, Delegation and Return](../../../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md), [Technology, Politics, and Institutions — From Mass Formation to Planetary Technē](../../../histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md) · *compares* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md), [§2 · #4 — Complex Dynamism](../../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) · *unnamed* ← [§2 Room — Two Logics of Two — Dia-ballein and Sym-ballein](../../../../../section-rooms/03-two-logics/ROOM-03-two-logics.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Freud — “The Unconscious” (1915; Baines trans., Collected Papers 4, 1925)](../../../sources/psychology/freud/freud-1925-unconscious-baines-collected-papers/freud-1925-unconscious-baines-collected-papers.md)
+
+`book-chapter`
+
+**Implicates:** *unnamed* → [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md)
+
+**Reached from:** *sources (declared)* ← [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md) · *unnamed* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Freud — “The Unconscious” (1915; Strachey trans. 1957)](../../../sources/psychology/freud/freud-1915-unconscious-standard-edition/freud-1915-unconscious-standard-edition.md)
+
+`primary-text`
+
+**Implicates:** *consumed-by (declared)* → [A10 — Advent of Zero](../../../../../section-rooms/arguments/A10-Advent-of-Zero.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md)
+
+**Reached from:** *sources* ← [Zero and Subject — The History of an Admission and Its Return](../../../histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md), [Taylor — The Advent of Zero, Subject, and Integral Logic (2026)](../../../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/taylor-2026-advent-zero-subject.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../../zero-subject-advent.md) · *unnamed* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Gay Watson — The Resonance of Emptiness (1998)](../../../sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness.md)
+
+`book`
+
+**Implicates:** *companion notes (declared)* → [Watson 1998 Resonance Of Emptiness Notes](../../../sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness-NOTES.md) · *consumed-by (declared)* → [A01 — Subject, God and Faithful Definition](../../../../../section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md), [A06 — Vāk](../../../../../section-rooms/arguments/A06-Vak.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A33 — Epistemic Cultivation / Operational Parity](../../../../../section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md), [A01 — Subject, God and Faithful Definition](../../../../../section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md), [C01 — Subject / Defined Indefinability](../../../../../section-rooms/arguments/concepts/C01-Subject-Defined-Indefinability.md), [C34 — Individuation](../../../../../section-rooms/arguments/concepts/C34-Individuation.md), [C35 — Selfing / Self / Subjectivity / Self-Thing](../../../../../section-rooms/arguments/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [C41 — Objective Internality](../../../../../section-rooms/arguments/concepts/C41-Objective-Internality.md), [A33 — Epistemic Cultivation / Operational Parity](../../../../../section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md), [A06 — Vāk](../../../../../section-rooms/arguments/A06-Vak.md), [Māyā — Eye, Veil, Frame, Horizon](../../../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md) (+5 more)
+
+**Reached from:** *sources* ← [A01 — Subject, God and Faithful Definition](../../../../../section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md), [A06 — Vāk](../../../../../section-rooms/arguments/A06-Vak.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [A33 — Epistemic Cultivation / Operational Parity](../../../../../section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md), [C01 — Subject / Defined Indefinability](../../../../../section-rooms/arguments/concepts/C01-Subject-Defined-Indefinability.md), [C34 — Individuation](../../../../../section-rooms/arguments/concepts/C34-Individuation.md), [C35 — Selfing / Self / Subjectivity / Self-Thing](../../../../../section-rooms/arguments/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md), [C41 — Objective Internality](../../../../../section-rooms/arguments/concepts/C41-Objective-Internality.md), [Indian Philosophy — Articulation, Agency and the Sourceward Turn](../../../dossiers/indian-philosophy.md), [Arbitration, Hybris, Regard and Anamnesis — Historical and Relational Branches](../../../etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES-arbitration-hybris-regard-anamnesis.md), [Whole Field — Arbitration / Hybris / Regard / Anamnesis](../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md), [Noether: symmetry and conservation](../../../../matheme/formal-neighbours/noether-symmetry-conservation.md) · *companion notes (declared)* ← [Watson 1998 Resonance Of Emptiness Notes](../../../sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness-NOTES.md) · *sources (declared)* ← [§0 · #1 — The Inner Instrument](../../../../../section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md), [§0 · #5→0 — Objective Internality](../../../../../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [C01 — Subject / Defined Indefinability](../../../../../section-rooms/arguments/concepts/C01-Subject-Defined-Indefinability.md), [C35 — Selfing / Self / Subjectivity / Self-Thing](../../../../../section-rooms/arguments/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md), [Whole Field — Arbitration / Hybris / Regard / Anamnesis](../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md), [Noether: symmetry and conservation](../../../../matheme/formal-neighbours/noether-symmetry-conservation.md) · *unnamed* ← [§0 Room — Differentiating Mind — Tattvic Descent and Objective Internality](../../../../../section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Levinas — Totality and Infinity (Lingis, 1969)](../../../sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/levinas-1961-totality-and-infinity.md), [Māyā — Eye, Veil, Frame, Horizon](../../../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md)
+
+### [Giegerich — The End of Meaning and the Birth of Man (JJTP, 2004)](../../../sources/psychology/giegerich/giegerich-2004-end-of-meaning-birth-of-man/giegerich-2004-end-of-meaning-birth-of-man.md)
+
+`journal-article`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md), [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Hadamard — An Essay on the Psychology of Invention in the Mathematical Field (1945)](../../../sources/psychology/hadamard/hadamard-1945-psychology-invention/hadamard-1945-psychology-invention.md)
+
+`book`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](../../../sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/mcgilchrist-2022-resist-machine-apocalypse.md)
+
+`essay-web-article`
+
+**Implicates:** *sources* → [Iain McGilchrist — The Master and His Emissary (2009)](../../../sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/mcgilchrist-2009-master-emissary.md) · *unnamed* → [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md)
+
+**Reached from:** *sources* ← [Source Intake Queue](../../../sources/source-intake-queue.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Iain McGilchrist — The Master and His Emissary (2009)](../../../sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/mcgilchrist-2009-master-emissary.md)
+
+`book`
+
+**Implicates:** *consumed-by (declared)* → [C25 — Counterfeit Gathering](../../../../../section-rooms/arguments/concepts/C25-Counterfeit-Gathering.md) · *unnamed* → [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md), [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [C25 — Counterfeit Gathering](../../../../../section-rooms/arguments/concepts/C25-Counterfeit-Gathering.md)
+
+**Reached from:** *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](../../../sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/mcgilchrist-2022-resist-machine-apocalypse.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung and Pauli — Atom and Archetype (Meier, 2001)](../../../sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/jung-pauli-meier-2001-atom-archetype.md)
+
+`edited-correspondence`
+
+**Implicates:** *historicises* → [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md) · *figures* → [Pauli's egg dream — spontaneous division, conscious participation and the circle](../../../../mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md) · *consumed-by (declared)* → [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md) · *unnamed* → [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md), [A26 — Objective Internality — Mind as Worldhood](../../../../../section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [C64 — Paradox / Transforming the Containing Field](../../../../../section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md)
+
+**Reached from:** *historicises* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources* ← [The Return of Zero — Current Plain-English Full Flow](../../../../../quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md), [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [C30 — Psychoid Number](../../../../../section-rooms/arguments/concepts/C30-Psychoid-Number.md), [Psychoid Number](../../../../../section-rooms/arguments/concepts/psychoid-number.md), [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Eastern Corpus Program — Return of Zero](../../../sources/eastern-corpus-program.md), [Pauli's egg dream — spontaneous division, conscious participation and the circle](../../../../mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md) · *sources (declared)* ← [§0/1 · #1 — Define the Subject Without Making It an Object](../../../../../section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md), [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md), [Pauli's egg dream — spontaneous division, conscious participation and the circle](../../../../mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Aion, CW 9.2 (1978 corrected printing)](../../../sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2.md)
+
+`book`
+
+**Implicates:** *returns-to* → [Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow](../../../../mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md) · *consumed-by (declared)* → [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [C64 — Paradox / Transforming the Containing Field](../../../../../section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md), [A10 — Advent of Zero](../../../../../section-rooms/arguments/A10-Advent-of-Zero.md) · *unnamed* → [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [C64 — Paradox / Transforming the Containing Field](../../../../../section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md)
+
+**Reached from:** *sources* ← [The Return of Zero — Current Plain-English Full Flow](../../../../../quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md), [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md), [A19 — Complex as Local Arbitration Regime](../../../../../section-rooms/arguments/A19-Complex-as-Local-Arbitration-Regime.md), [A21 — Individuation / Recognition](../../../../../section-rooms/arguments/A21-Individuation-Recognition.md), [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [O:I — Technical Responsibility, Authored Ground and Source Return](../../../dossiers/oi-technical-responsibility.md), [Language, Law, Nation and Centralisation — Twelve Situated Histories](../../../histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT-language-law-nation-centralisation.md), [Indian Philosophy — Finite Powers and the Return of Recognition](../../../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT-indian-philosophy.md), [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md) (+10 more) · *qualifies* ← [Neumann images and plate relations](../../../../mytheme/archetypal-ground/neumann-images/WHOLE.md), [Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow](../../../../mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md) · *compares* ← [§1 — The Jungian Architecture](../../../../matheme/quilt/psychology.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md), [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md), [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md), [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../../zero-subject-advent.md), [Neumann images and plate relations](../../../../mytheme/archetypal-ground/neumann-images/WHOLE.md), [Uroboros, circulation and trickster](../../../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md), [Mother, Assumption and chiasm](../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Alchemical Studies, CW 13 (consulted carrier)](../../../sources/psychology/jung/jung-1983-alchemical-studies-cw13/jung-1983-alchemical-studies-cw13.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Analytical Psychology: Notes of the Seminar Given in 1925 (McGuire, 1989)](../../../sources/psychology/jung/jung-1989-analytical-psychology-seminar-1925/jung-1989-analytical-psychology-seminar-1925.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Jung — The Red Book: Liber Novus (Shamdasani, 2009)](../../../sources/psychology/jung/jung-2009-red-book-liber-novus/jung-2009-red-book-liber-novus.md)
+
+### [Jung — C. G. Jung Speaking: Interviews and Encounters (McGuire and Hull, 1977)](../../../sources/psychology/jung/jung-1977-jung-speaking/jung-1977-jung-speaking.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Letters, vol. 2: 1951-1961 (Adler and Jaffé, 1975)](../../../sources/psychology/jung/jung-1975-letters-vol2-1951-1961/jung-1975-letters-vol2-1951-1961.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Memories, Dreams, Reflections (Vintage rev. ed., 1989)](../../../sources/psychology/jung/jung-1989-memories-dreams-reflections/jung-1989-memories-dreams-reflections.md)
+
+`book`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Bache — LSD and the Mind of the Universe (2019)](../../../sources/psychology/bache/bache-2019-lsd-mind-universe/bache-2019-lsd-mind-universe.md)
+
+### [Jung — Mysterium Coniunctionis, CW 14 (consulted carrier)](../../../sources/psychology/jung/jung-1977-mysterium-coniunctionis-cw14/jung-1977-mysterium-coniunctionis-cw14.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md), [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Psychological Types, CW 6 (consulted carrier)](../../../sources/psychology/jung/jung-1976-psychological-types-cw6/jung-1976-psychological-types-cw6.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md), [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md)
+
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) · *unnamed* ← [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Psychologische Typen (1921 German)](../../../sources/psychology/jung/jung-1921-psychologische-typen/jung-1921-psychologische-typen.md)
+
+`scholarly-monograph`
+
+**Implicates:** *compares* → [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md#four-functions-two-attitudes-native-senarius) · *returns-to* → [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md#four-functions-two-attitudes-native-senarius)
+
+**Reached from:** *unnamed* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Psychology and Alchemy, CW 12 (consulted carrier)](../../../sources/psychology/jung/jung-1980-psychology-alchemy-cw12/jung-1980-psychology-alchemy-cw12.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Psychology and Religion: West and East, CW 11 (1969)](../../../sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md)
+
+`book`
+
+**Implicates:** *consumed-by (declared)* → [A10 — Advent of Zero](../../../../../section-rooms/arguments/A10-Advent-of-Zero.md) · *unnamed* → [Mother, Assumption and chiasm](../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-body-received), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md#job-jung-second-whole)
+
+**Reached from:** *sources* ← [A20 — Image / Valuation / Possession](../../../../../section-rooms/arguments/A20-Image-Valuation-Possession.md), [Zero and Subject — The History of an Admission and Its Return](../../../histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md), [Taylor — The Advent of Zero, Subject, and Integral Logic (2026)](../../../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/taylor-2026-advent-zero-subject.md), [Source Intake Queue](../../../sources/source-intake-queue.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md), [Avatar · image · mask · idol](../../../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md), [Mother, Assumption and chiasm](../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md), [Eros and Psyche](../../../../mytheme/worlds/roman-latin/eros-psyche/WHOLE.md) · *sources (declared)* ← [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../../zero-subject-advent.md), [Plate — The Psychoid Field: Two Descriptions Across One Seam](../../../../mytheme/plates/psychoid-field-one-seam.md), [Job](../../../../mytheme/worlds/biblical/job/WHOLE.md), [Mother, Assumption and chiasm](../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md) · *unnamed* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [The Book of Job — KJV, eBible eng-kjv2006 digital witness (2026-08-19)](../../../sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/biblical-job-kjv-ebible-eng-kjv2006.md)
+
+### [Jung — Symbols of Transformation, CW 5 (2nd ed., 1967)](../../../sources/psychology/jung/jung-1967-symbols-transformation-cw5/jung-1967-symbols-transformation-cw5.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — The Archetypes and the Collective Unconscious, CW 9, part 1 (consulted carrier)](../../../sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§3 · #5→0 — The Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md)
+
+**Reached from:** *sources (declared)* ← [§3 · #5→0 — The Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md) · *unnamed* ← [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — The Red Book: Liber Novus (Shamdasani, 2009)](../../../sources/psychology/jung/jung-2009-red-book-liber-novus/jung-2009-red-book-liber-novus.md)
+
+`book`
+
+**Implicates:** *unnamed* → [Jung — Analytical Psychology: Notes of the Seminar Given in 1925 (McGuire, 1989)](../../../sources/psychology/jung/jung-1989-analytical-psychology-seminar-1925/jung-1989-analytical-psychology-seminar-1925.md), [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md), [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — The Spirit in Man, Art, and Literature, CW 15 (consulted carrier)](../../../sources/psychology/jung/jung-1971-spirit-man-art-literature-cw15/jung-1971-spirit-man-art-literature-cw15.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — The Structure and Dynamics of the Psyche, CW 8 (consulted carrier)](../../../sources/psychology/jung/jung-1975-structure-dynamics-psyche-cw8/jung-1975-structure-dynamics-psyche-cw8.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§4 · #0 — The Psychoid Problem](../../../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md)
+
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md), [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — The Symbolic Life: Miscellaneous Writings, CW 18 (consulted carrier)](../../../sources/psychology/jung/jung-1976-symbolic-life-cw18/jung-1976-symbolic-life-cw18.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — The Undiscovered Self (Routledge, 2013)](../../../sources/psychology/jung/jung-2013-undiscovered-self-routledge/jung-2013-undiscovered-self-routledge.md)
+
+`book`
+
+**Implicates:** *consumed-by (declared)* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A23 — Trust, Faith and the Formal Limit](../../../../../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) · *unnamed* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A23 — Trust, Faith and the Formal Limit](../../../../../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md)
+
+**Reached from:** *sources* ← [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Technology, Politics and Institutions — Formation, Delegation and Return](../../../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md), [Technology, Politics, and Institutions — From Mass Formation to Planetary Technē](../../../histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md) · *extends* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) · *unnamed* ← [§2 Room — Two Logics of Two — Dia-ballein and Sym-ballein](../../../../../section-rooms/03-two-logics/ROOM-03-two-logics.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Jung — Two Essays on Analytical Psychology, CW 7 (2nd ed., 1966)](../../../sources/psychology/jung/jung-1966-two-essays-cw7/jung-1966-two-essays-cw7.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus](../../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [§2 · #4 — Complex Dynamism](../../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md), [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md)
+
+**Reached from:** *sources* ← [§2 Room — Two Logics of Two — Dia-ballein and Sym-ballein](../../../../../section-rooms/03-two-logics/ROOM-03-two-logics.md) · *sources (declared)* ← [§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus](../../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [§2 · #4 — Complex Dynamism](../../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Kettner et al. — From Egoism to Ecoism (2019)](../../../sources/psychology/kettner/kettner-2019-egoism-ecoism/kettner-2019-egoism-ecoism.md)
+
+`journal-article`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Kettner et al. — Psychedelic Communitas (2021)](../../../sources/psychology/kettner/kettner-2021-psychedelic-communitas/kettner-2021-psychedelic-communitas.md)
+
+`journal-article`
+
+**Implicates:** *unnamed* → [Return of Zero Source Bank](../../../sources/README.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Lacan — Encore, Seminar XX (Fink, 1998)](../../../sources/psychology/lacan/lacan-1998-encore/lacan-1998-encore.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Lacan — Four Fundamental Concepts (Sheridan, 1977)](../../../sources/psychology/lacan/lacan-1977-seminar-xi-four-fundamental-concepts/lacan-1977-seminar-xi-four-fundamental-concepts.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Lacan — Seminar IX, Identification (Gallagher typescript)](../../../sources/psychology/lacan/lacan-1962-seminar-ix-identification/lacan-1962-seminar-ix-identification.md)
+
+`unpublished-seminar-translation`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Lacan — Talking to Brick Walls (Price, 2017)](../../../sources/psychology/lacan/lacan-2017-talking-to-brick-walls/lacan-2017-talking-to-brick-walls.md)
+
+`primary-source`
+
+**Implicates:** *sources* → [Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)](../../../sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/adleman-vanderwees-2021-lacan-rhetoric.md), [Darmon — Mathème (1992)](../../../sources/psychology/darmon/darmon-1992-matheme-ali/darmon-1992-matheme-ali.md) · *consumed-by (declared)* → [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), [A03 — Immutable Gap / Formal Limit](../../../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md)
+
+**Reached from:** *historicises* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Language, Symbol and Dialogue — The Account Answers Back](../../../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md), [Language, Symbol, and Dialogue — How Meaning Moves](../../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Neumann — The Origins and History of Consciousness — reading notes](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness-NOTES.md)
+
+### [Lacan — The Psychoses (Grigg, 1993)](../../../sources/psychology/lacan/lacan-1993-seminar-iii-psychoses/lacan-1993-seminar-iii-psychoses.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§1 Room — The Return of Zero — History, Empty Set, and Symbolic Linkage](../../../../../section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md), [§1 · #3 — The Crossed Zero](../../../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Lacan — Écrits (Fink, 2006)](../../../sources/psychology/lacan/lacan-2006-ecrits-fink/lacan-2006-ecrits-fink.md)
+
+`book`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md)
+
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md) · *sources (declared)* ← [§0/1 · #2 — Definition as Cut, Gift, and Danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md), [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Le Bon — The Crowd: A Study of the Popular Mind (1895)](../../../sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/le-bon-1895-crowd-popular-mind.md)
+
+`book`
+
+**Implicates:** *consumed-by (declared)* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A23 — Trust, Faith and the Formal Limit](../../../../../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) · *unnamed* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A23 — Trust, Faith and the Formal Limit](../../../../../section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md)
+
+**Reached from:** *historicises* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources* ← [§2 Room — Two Logics of Two — Dia-ballein and Sym-ballein](../../../../../section-rooms/03-two-logics/ROOM-03-two-logics.md), [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Technology, Politics and Institutions — Formation, Delegation and Return](../../../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md), [Technology, Politics, and Institutions — From Mass Formation to Planetary Technē](../../../histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md) · *sources (declared)* ← [§2 · #1 — Dia-Ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md), [§2 · #2 — Sym-Ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Marie-Louise von Franz — Number and Time](../../../sources/psychology/von-franz/von-franz-1974-number-time/von-franz-1974-number-time.md)
+
+`scholarly-monograph`
+
+**Implicates:** *historicises* → [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md)
+
+**Reached from:** *sources* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md) · *unnamed* ← [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Mumford, Rose and Goslin — An Evaluation of Remote Viewing: Research and Applications (AIR, 1995)](../../../sources/psychology/mumford/mumford-1995-air-evaluation-remote-viewing/mumford-1995-air-evaluation-remote-viewing.md)
+
+`report`
+
+**Implicates:** *unnamed* → [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Neumann — The Origins and History of Consciousness (1954)](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness.md)
+
+`book`
+
+**Implicates:** *companion notes (declared)* → [Neumann — The Origins and History of Consciousness — reading notes](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness-NOTES.md) · *consumed-by (declared)* → [A10 — Advent of Zero](../../../../../section-rooms/arguments/A10-Advent-of-Zero.md) · *unnamed* → [Neumann images and plate relations](../../../../mytheme/archetypal-ground/neumann-images/WHOLE.md), [Gebser — The Ever-Present Origin (1985)](../../../sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/gebser-1985-ever-present-origin.md)
+
+**Reached from:** *historicises* ← [Uroboros, circulation and trickster](../../../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md) · *sources* ← [Zero and Subject — The History of an Admission and Its Return](../../../histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md), [Taylor — The Advent of Zero, Subject, and Integral Logic (2026)](../../../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/taylor-2026-advent-zero-subject.md), [Source Intake Queue](../../../sources/source-intake-queue.md), [Neumann images and plate relations](../../../../mytheme/archetypal-ground/neumann-images/WHOLE.md), [Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow](../../../../mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md), [Pauli's egg dream — spontaneous division, conscious participation and the circle](../../../../mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md), [The Meal — Epistemic Metabolism and the Shared Table](../../../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md), [Mother, Assumption and chiasm](../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md), [The travelling jigsaw — from box-lid to atlas](../../../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md) · *extends* ← [Avatar · image · mask · idol](../../../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) · *compares* ← [Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms](../../../dossiers/jung-pauli-psychoid.md), [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md), [Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation](../../../../mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md), [Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim](../../../../mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md) · *companion notes (declared)* ← [Neumann — The Origins and History of Consciousness — reading notes](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness-NOTES.md) · *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md), [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md), [The Advent of Zero, Subject, and Integral Logic — Transverse Thread](../../zero-subject-advent.md), [Neumann images and plate relations](../../../../mytheme/archetypal-ground/neumann-images/WHOLE.md), [Uroboros, circulation and trickster](../../../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md), [Pauli's egg dream — spontaneous division, conscious participation and the circle](../../../../mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md), [Antikythera as Attunement Instrument](../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md), [The Meal — Epistemic Metabolism and the Shared Table](../../../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md), [Mother, Assumption and chiasm](../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md), [The travelling jigsaw — from box-lid to atlas](../../../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Neumann — The Origins and History of Consciousness — reading notes](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness-NOTES.md), [Māyā — Eye, Veil, Frame, Horizon](../../../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md)
+
+### [Neumann — The Origins and History of Consciousness — reading notes](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness-NOTES.md)
+
+**Implicates:** *companion notes (declared)* → [Neumann — The Origins and History of Consciousness (1954)](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness.md) · *unnamed* → [Neumann — The Origins and History of Consciousness (1954)](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness.md), [Bimba-Pratibimba](../../../../../section-rooms/arguments/concepts/bimba-pratibimba.md), [Chang Chung-yuan — Tao: A New Way of Thinking (2014)](../../../sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/chung-yuan-chang-tao-a-new-way-of-thinking-2014.md), [Lacan — Talking to Brick Walls (Price, 2017)](../../../sources/psychology/lacan/lacan-2017-talking-to-brick-walls/lacan-2017-talking-to-brick-walls.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md)
+
+**Reached from:** *sources* ← [Neumann images and plate relations](../../../../mytheme/archetypal-ground/neumann-images/WHOLE.md), [Uroboros, circulation and trickster](../../../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md) · *companion notes (declared)* ← [Neumann — The Origins and History of Consciousness (1954)](../../../sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness.md)
+
+### [Smythe — The Dialogical Jung (2013)](../../../sources/psychology/smythe/smythe-2013-dialogical-jung/smythe-2013-dialogical-jung.md)
+
+`journal-article`
+
+**Implicates:** *consumed-by (declared)* → [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md) · *unnamed* → [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [Eight Determinations — The Complete Traversal](../../../../eight-determinations.md)
+
+**Reached from:** *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *qualifies* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources (declared)* ← [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Torbay — The Work of Donald Ewen Cameron: From Psychic Driving to MK Ultra (2023)](../../../sources/psychology/torbay/torbay-2023-cameron-psychic-driving-mkultra/torbay-2023-cameron-psychic-driving-mkultra.md)
+
+`journal-article`
+
+**Implicates:** *unnamed* → [Project MKULTRA, the CIA’s Program of Research in Behavioral Modification](../../../sources/political-theory-institutions/united-states-senate/senate-1977-project-mkultra-hearing/senate-1977-project-mkultra-hearing.md), [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md)
+
+**Reached from:** *sources (declared)* ← [§0/1 · #4 — Gebserian Diaphaneity](../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) · *unnamed* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Van Eenwyk 1997 Archetypes Strange Attractors Notes](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors-NOTES.md)
+
+**Implicates:** *companion notes (declared)* → [Van Eenwyk — Archetypes and Strange Attractors (1997)](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md)
+
+**Reached from:** *companion notes (declared)* ← [Van Eenwyk — Archetypes and Strange Attractors (1997)](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md)
+
+### [Van Eenwyk — Archetypes and Strange Attractors (1997)](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md)
+
+`book`
+
+**Implicates:** *companion notes (declared)* → [Van Eenwyk 1997 Archetypes Strange Attractors Notes](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors-NOTES.md) · *consumed-by (declared)* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md), [Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)](../../../sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/van-eenwyk-1991-strange-attractors.md)
+
+**Reached from:** *historicises* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources* ← [The Return of Zero — Current Plain-English Full Flow](../../../../../quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md), [Agentworld Response Matrix](../../../../../quilt/agentworld-response-matrix.md), [§2 · #4 — Complex Dynamism](../../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [A19 — Complex as Local Arbitration Regime](../../../../../section-rooms/arguments/A19-Complex-as-Local-Arbitration-Regime.md), [A20 — Image / Valuation / Possession](../../../../../section-rooms/arguments/A20-Image-Valuation-Possession.md), [A21 — Individuation / Recognition](../../../../../section-rooms/arguments/A21-Individuation-Recognition.md), [C19 — Pratyabhijñā / Recognition](../../../../../section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition.md), [C21 — Living Symbol / Idol](../../../../../section-rooms/arguments/concepts/C21-Living-Symbol-Idol.md), [C31 — Complex](../../../../../section-rooms/arguments/concepts/C31-Complex.md), [C32 — Archetype](../../../../../section-rooms/arguments/concepts/C32-Archetype.md) (+18 more) · *compares* ← [Attractors, Basins and a Bifurcation](../../../../matheme/formal-neighbours/chaos-attractors.md) · *companion notes (declared)* ← [Van Eenwyk 1997 Archetypes Strange Attractors Notes](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors-NOTES.md) · *sources (declared)* ← [§2 · #4 — Complex Dynamism](../../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md), [§3 · #2 — Mark, Re-entry, and Complex Orientation](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md), [§4 · #1 — Individuation through QL `X/x`](../../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md), [§4 · #5→0 — MEF and Prompt Thrownness](../../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md), [A19 — Complex as Local Arbitration Regime](../../../../../section-rooms/arguments/A19-Complex-as-Local-Arbitration-Regime.md), [C19 — Pratyabhijñā / Recognition](../../../../../section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition.md), [C21 — Living Symbol / Idol](../../../../../section-rooms/arguments/concepts/C21-Living-Symbol-Idol.md), [C31 — Complex](../../../../../section-rooms/arguments/concepts/C31-Complex.md), [C33 — Image / Valuation](../../../../../section-rooms/arguments/concepts/C33-Image-Valuation.md), [C36 — Complexio Oppositorum](../../../../../section-rooms/arguments/concepts/C36-Complexio-Oppositorum.md), [C64 — Paradox / Transforming the Containing Field](../../../../../section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md), [A19′ — The Local Regime](../../../../../section-rooms/arguments/conjugate/A19-prime-The-Local-Regime.md) (+4 more) · *unnamed* ← [§2 Room — Two Logics of Two — Dia-ballein and Sym-ballein](../../../../../section-rooms/03-two-logics/ROOM-03-two-logics.md), [§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos](../../../../../section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md), [Language, Symbol and Dialogue — The Account Answers Back](../../../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md), [Language, Symbol, and Dialogue — How Meaning Moves](../../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+
+### [Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)](../../../sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/van-eenwyk-1991-strange-attractors.md)
+
+`journal-article`
+
+**Implicates:** *consumed-by (declared)* → [A13 — Two Logics of Two — Dia / Syn](../../../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A16 — Arche-Topos as Differential Field](../../../../../section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md), [A14 — Computational Process Ontology](../../../../../section-rooms/arguments/A14-Computational-Process-Ontology.md) · *unnamed* → [Return of Zero Source Bank](../../../sources/README.md), [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../../README.md), [The Return of Zero — The Rooms](../../../../../section-rooms/README.md)
+
+**Reached from:** *historicises* ← [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md) · *sources* ← [A19 — Complex as Local Arbitration Regime](../../../../../section-rooms/arguments/A19-Complex-as-Local-Arbitration-Regime.md), [Psychology — Formation, Symbolic Transformation and the Return of Responsibility](../../../histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md), [Psychology — Crowd, Complex, Psychoid, and Provisional Self](../../../histories/traditions-and-disciplines/psychology/HISTORY-psychology.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [A19 — Complex as Local Arbitration Regime](../../../../../section-rooms/arguments/A19-Complex-as-Local-Arbitration-Regime.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Van Eenwyk — Archetypes and Strange Attractors (1997)](../../../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md)
+
+### [Watson 1998 Resonance Of Emptiness Notes](../../../sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness-NOTES.md)
+
+**Implicates:** *companion notes (declared)* → [Gay Watson — The Resonance of Emptiness (1998)](../../../sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness.md)
+
+**Reached from:** *companion notes (declared)* ← [Gay Watson — The Resonance of Emptiness (1998)](../../../sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness.md)
