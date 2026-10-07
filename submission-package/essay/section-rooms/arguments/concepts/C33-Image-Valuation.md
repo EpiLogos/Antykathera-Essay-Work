@@ -21,6 +21,8 @@ An archetypal image is a concrete appearance, and archetype-as-such is the order
 
 Valuation gathers associations and redistributes psychic investment, so that what looks threatening, desirable, authoritative or negligible changes with the organisation of the field. A complex can settle this distribution before reflective judgment, and the image can reinforce a familiar psychic trajectory, expose its boundary, or help move between regimes. Its force is therefore more than resemblance to a depicted object.
 
+Valuation is [significance](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance) in its psychic distribution, the felt weight a determination carries for the one it bears upon. A complex is a standing distribution of that weight gathered under one signification, which is why a remark, a delay and a memory can all arrive as the same rejection before any of them has been understood.
+
 ## #3
 
 Possession is an office change. The image stops answering to encounter and requires what it represents to conform to its assigned value. A self-image can rule which experiences count as mine, and an enemy-image can make a response legible only as confirmation of threat. In the technical extension a profile or a score occupies the same office when contrary testimony can alter neither its categories nor the decisions authorised through them. The issue is insulation from revision, and the intensity of feeling or the mere use of representation is beside it.

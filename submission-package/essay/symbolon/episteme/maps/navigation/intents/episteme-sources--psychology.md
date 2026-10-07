@@ -5,7 +5,7 @@ page_type: navigation-intents
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "860d707b76480e7bb40e20a4d164492bb344118947b18487624039d3254174b3"
+source_digest: "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -199,7 +199,7 @@ Group: `psychology` · back to [Episteme · Source houses](episteme-sources.md).
 
 **Implicates:** *unnamed* → [§4 · #2 — Complexio, Quaternity, and Senarius](../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md), [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md)
 
-**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) · *unnamed* ← [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [§0/1 Room — The Integral Threshold — The Subject at the Formal Limit](../../../../../section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md), [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md) · *sources (declared)* ← [§0/1 · #5→0 — The Return to Zero](../../../../../section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md), [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) · *unnamed* ← [Whole Field — Symbol / Account / Trust](../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Jung — Psychologische Typen (1921 German)](../../../sources/psychology/jung/jung-1921-psychologische-typen/jung-1921-psychologische-typen.md)
 

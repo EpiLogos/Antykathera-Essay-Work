@@ -28,7 +28,7 @@ Lewis, Charlton T., and Charles Short. *A Latin Dictionary*. Oxford: Clarendon P
 
 ## Use and return
 
-The dictionary **sources** Latin semantic distinctions in [E2 Arbitration](../../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md) and [E3 Fides–Credere](../../../../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md). Their generated relations remain authorial register 3. The lexical evidence supplies particular attested senses and a recoverable citation chain; it does not derive the QL field or establish an institutional chronology.
+The dictionary **sources** Latin semantic distinctions in [E2 Arbitration](../../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md) and [E3 Fides–Credere](../../../../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md), and the *signum* / *significatio* family in [Symbol / Account / Trust](../../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance). Their generated relations remain authorial register 3. The lexical evidence supplies particular attested senses and a recoverable citation chain; it does not derive the QL field or establish an institutional chronology.
 
 <a id="passages"></a>
 ## Selected lexical witnesses
@@ -202,3 +202,61 @@ The entry **sources** [E6’s historical branch](../../../../etymologies/apporti
 - **Source relation:** Paraphrased
 - **Evidential action:** Closes the debt left in q004 (“Plautus … has not been collated”): the citation is exact; the attested wording is *parvam mihi fidem arbitrarier*, so *fidem alicui arbitrari* is the lexicon’s lemmatised formula.
 - **Consumers:** essay §0/1, M03, marker s01-arbiter
+
+<!-- Cards q418–q421 added 2026-10-07 for the significance/signification integration: Symbol / Account / Trust historical branch, its whole-field, and essay §0/1 M02. -->
+
+<a id="lewis-short-1879-latin-dictionary-q418"></a>
+### q418 — Signum — mark, token, sign; Cicero’s definition of the sign
+
+**Paraphrase:** The entry gives *signum* first, in general, as “a mark, token, sign, indication,” with uses for recognition tokens, footprints, scars, a signal given with the eyes, and signs of feeling (*signa doloris*, *timoris*); particular senses follow for military standards and further technical uses. Its definitional witness is Cicero, *De inventione* 1.30.47, which the entry quotes: “Signum est, quod sub sensum aliquem cadit et quiddam significat, quod ex ipso profectum videtur” — a sign is what falls under some sense and signifies something that appears to have proceeded from it. The etymological bracket offers only “perh. Sanscr. *sag-*, to cling to, adhere; cf. *sigilla*.”
+
+**Locator:** headword *signum*, etymological bracket and I (general sense), with the Cicero citation.
+
+**Verification:** quotation-ready for the short lexical gloss and for the Ciceronian sentence **as dictionary wording only**
+
+- **Status:** [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=signum), headword block and sense I read 2026-10-07. The *De inventione* sentence has not been collated against an independent edition of Cicero.
+- **Source relation:** Paraphrased
+- **Evidential action:** Attests the Latin sign as a sensed mark that points to what it came from; the bracketed derivation is the editors’ hedged guess and is not adopted.
+- **Consumers:** [Symbol / Account / Trust historical branch — signum and significatio](../../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-symbol-account-and-trust.md#signum-significatio-and-the-double-sense-of-meaning).
+
+<a id="lewis-short-1879-latin-dictionary-q419"></a>
+### q419 — Significo — to make a sign; to betoken; to mean
+
+**Paraphrase:** The entry derives *significo* from *signum* and *facio* (“[signum-facio]”) and gives, in general, “to show by signs; to show, point out, express, publish, make known, indicate; to intimate, notify, signify”; in particular, “to betoken, prognosticate, foreshow, portend, mean” (II.A), “to call, name” (II.B) and, “of words,” “to mean, import, signify” (II.C), citing Cicero, *Tusculan Disputations* 1.36.88 and Varro, *De lingua Latina* 5.3. Its participle *significans* is, in rhetorical use, “full of meaning, expressive, significant” (Quintilian 9.2.44).
+
+**Locator:** headword *significo*, etymological bracket, I, II.A–C; participle *significans*.
+
+**Verification:** quotation-ready for the short lexical glosses only
+
+- **Status:** [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=significo), full entry read 2026-10-07.
+- **Source relation:** Paraphrased
+- **Evidential action:** Supplies philological descent (register 1) for the verb: signifying is sign-making, *signum* + *facere*.
+- **Consumers:** as q418.
+
+<a id="lewis-short-1879-latin-dictionary-q420"></a>
+### q420 — Significatio — pointing out; approbation; emphasis; meaning of a word
+
+**Paraphrase:** The entry gives *significatio* (from *significo*) as I. “a pointing out, indicating, denoting, signifying; an expression, indication, mark, sign, token,” glossed with *indicium*, *signum* and Greek ἐπισημασία. In particular: II.A, “like the Gr. ἐπισημασία, a sign or token of assent, an expression of approbation, applause” (Cicero, *Pro Sestio* 49.105); II.B, a weather-sign (Pliny); II.C, “in rhet. lang., significance, emphasis,” with the definition from the *Rhetorica ad Herennium* 4.53.67, “significatio est, quae plus in suspicione relinquit, quam positum est in oratione” — the figure that leaves more to be surmised than is set down in the speech — noted as “a transl. of the Gr. ἔμφασις”; II.D, “in gram., meaning, sense, import, signification of a word or phrase” (Varro, Cicero, Quintilian), with the titles *De verborum significatione* of Aelius Gallus, Verrius Flaccus and Festus; II.E, “meaning, intent.”
+
+**Locator:** headword *significatio*, I and II.A–E.
+
+**Verification:** quotation-ready for the short lexical glosses and for the *Ad Herennium* definition **as dictionary wording only**
+
+- **Status:** [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=significatio), full entry read 2026-10-07. The *Ad Herennium* and Quintilian passages have not been collated against independent editions.
+- **Source relation:** Paraphrased
+- **Evidential action:** Attests (register 2) that one Latin noun holds the determining sense of meaning (II.D), the surplus over what is said (II.C) and the token of assent (II.A). The Greek equivalents ἐπισημασία and ἔμφασις are the lexicon’s; neither is σύμβολον, and no shared descent with Greek *symbolon* or *logos* follows.
+- **Consumers:** as q418; essay §0/1, M02.
+
+<a id="lewis-short-1879-latin-dictionary-q421"></a>
+### q421 — Significantia — force or energy of words; later, meaning
+
+**Paraphrase:** The entry gives *significantia* (from *significo*, post-Augustan) as I. “force, energy, significancy of words,” citing Quintilian 10.1.121, and II. “in gen., meaning, import, signification” (Tertullian, Arnobius, Lactantius). The related *significatus* (post-Augustan for *significatio* II.B and D) gives a prognostic sign and “meaning, import, signification of a word.”
+
+**Locator:** headwords *significantia* and *significatus*.
+
+**Verification:** quotation-ready for the short lexical glosses only
+
+- **Status:** Alatius transcriptions of [*significantia*](https://www.alatius.com/ls/index.php?met=up&ord=significantia) and [*significatus*](https://www.alatius.com/ls/index.php?met=up&ord=significatus), full entries read 2026-10-07.
+- **Source relation:** Paraphrased
+- **Evidential action:** Shows the Latin pair from which English *significance* and *signification* are formed already present, with *significantia* first naming the force of words. The English route through Old French and the dates of the English words are not witnessed here.
+- **Consumers:** as q418.

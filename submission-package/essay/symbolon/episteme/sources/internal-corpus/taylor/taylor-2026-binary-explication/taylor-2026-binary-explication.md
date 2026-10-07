@@ -61,6 +61,29 @@ The [core-theorems spine](../taylor-2026-core-theorems-pithy/taylor-2026-core-th
 - **q005** — file-one line 495: "Definition gives the ground. Process gives the passage. Quilting gives the arrival. The musical-epistemic return gives the whole back…"
 - **q006** — file-two line 254: "None of these is imported from music theory. Each is a face of the base frame's own factorisation."
 - **q007** — file-four lines 342–344: "So the Binary Explication closes where it opened," followed by the full chain.
+- **q008**, **q009** — file-three's etymological circuit and the Self as equation; cards below.
+
+<a id="taylor-2026-binary-explication-q008"></a>
+### q008 — file-three §0: the VALUE → SOLVE circuit
+
+**Locator:** file-three-quilting.md, lines 24–64 (§0, "The Etymological Ground").
+
+**Quotation status:** internal provenance; quotable as the author's own wording, not as public warrant for the root descents it proposes.
+
+**Provenance:** local copy `canonical-candidate/file-three-quilting.md` at the house's `local_copy`; read by agent 2026-10-07.
+
+file-three lines 24–64 (§0, "The Etymological Ground"): the six-root circuit VALUE (#0) → MEASURE (#1) → RATIO (#2) → EQUATION (#3) → PRODUCT (#4) → SOLVE (#5), read as the reification/release cycle of consciousness, with Being, Becoming and Knowing/unKnowing as its three pairs. The PIE root assignments inside the file are authorial leads; each lexical descent needs its own dictionary witness before public use. Consumed by [Symbol / Account / Trust](../../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance) and [A15](../../../../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md), added 2026-10-07.
+
+<a id="taylor-2026-binary-explication-q009"></a>
+### q009 — file-three §1: the Self as equation, `(X = x) = X/x`
+
+**Locator:** file-three-quilting.md, lines 66–115 (§1, "The Jungian Architecture" / "The Self as Equation"); `(X = x) = X/x` at lines 85, 103 and 115.
+
+**Quotation status:** internal provenance; quotable as the author's own wording.
+
+**Provenance:** local copy `canonical-candidate/file-three-quilting.md` at the house's `local_copy`; read by agent 2026-10-07.
+
+file-three lines 66–115 (§1, "The Self as Equation"): the psychic unfolding of `X/x` as `X = x`, with X the unconscious reserve, x the conscious determination, and the equals sign the Self as "the power of equation as such"; the six views run from Unconscious (#0) to Self as Self, **`(X = x) = X/x`** (#5), "the named equation and the nameless threshold are one operation." The file frames this register through Jung; the notation and its derivation are Taylor's, and the Jungian reading is a refraction of them (see the project's notation law). Consumed by [the X/x root](../../../../../X-x.md), [Symbol / Account / Trust](../../../../etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance) and essay §0/1 M04, added 2026-10-07.
 
 ## Relations
 

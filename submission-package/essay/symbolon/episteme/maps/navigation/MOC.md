@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "860d707b76480e7bb40e20a4d164492bb344118947b18487624039d3254174b3"
+source_digest: "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -22,18 +22,18 @@ This map is generated from the relations authors wrote into the publication body
 |---|---|---|---|---|---|---|
 | #5 | The sovereign essay | 1 | 13 | 8% | [Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 1074 | 19% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
-| #0 | The 48 movements | 48 | 505 | 45% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
-| #1 | Symbolon — the twelvefold root | 14 | 188 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
+| #0 | The 48 movements | 48 | 508 | 45% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
+| #1 | Symbolon — the twelvefold root | 14 | 191 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 109 | 911 | 55% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 148 | 1008 | 49% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 23 | 22% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
-| #0 | Arguments A01–A36 | 37 | 1053 | 13% | [Canonical Arguments A01–A36](../../../../section-rooms/arguments/README.md) | [intents](intents/episteme-arguments.md) |
+| #0 | Arguments A01–A36 | 37 | 1058 | 13% | [Canonical Arguments A01–A36](../../../../section-rooms/arguments/README.md) | [intents](intents/episteme-arguments.md) |
 | #0 | Conjugate arguments A01′–A36′ | 38 | 537 | 11% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../../../section-rooms/arguments/conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
-| #0 | Concepts C01–C64 and provenance | 179 | 1492 | 18% | [Concepts](../../../../section-rooms/arguments/concepts/README.md) | [intents](intents/episteme-concepts.md) |
+| #0 | Concepts C01–C64 and provenance | 179 | 1496 | 18% | [Concepts](../../../../section-rooms/arguments/concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #0 | Product field S / S0–S5 | 8 | 80 | 18% | [Episteme — S Product Field](../../../../section-rooms/arguments/products/README.md) | [intents](intents/episteme-products.md) |
-| #4 | Episteme · Etymology whole-fields | 25 | 587 | 18% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
+| #4 | Episteme · Etymology whole-fields | 25 | 602 | 17% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 655 | 50% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
-| #4 | Episteme · Source houses | 393 | 1737 | 11% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
+| #4 | Episteme · Source houses | 393 | 1744 | 11% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 203 | 58% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 13 | 76 | 20% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
 | #4 | Episteme · Maps and curated paths | 5 | 129 | 5% | [Maps](../README.md) | [intents](intents/episteme-maps.md) |
@@ -53,8 +53,8 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 8303 |
-| sources | 1487 |
+| unnamed | 8335 |
+| sources | 1492 |
 | sources (declared) | 1033 |
 | consumed-by (declared) | 299 |
 | returns-to | 263 |

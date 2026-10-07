@@ -1,5 +1,5 @@
 {
-  "source_digest": "860d707b76480e7bb40e20a4d164492bb344118947b18487624039d3254174b3",
+  "source_digest": "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb",
   "builder_version": "1.2.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -28,8 +28,8 @@
   },
   "max_depth": 4,
   "relation_totals": {
-    "unnamed": 8303,
-    "sources": 1487,
+    "unnamed": 8335,
+    "sources": 1492,
     "sources (declared)": 1033,
     "consumed-by (declared)": 299,
     "returns-to": 263,
@@ -78,27 +78,27 @@
     },
     "movements": {
       "pages": 48,
-      "links": 505,
-      "named": 227,
-      "unnamed": 278,
+      "links": 508,
+      "named": 228,
+      "unnamed": 280,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1053,
-      "named": 136,
-      "unnamed": 917,
+      "links": 1058,
+      "named": 137,
+      "unnamed": 921,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1492,
+      "links": 1496,
       "named": 270,
-      "unnamed": 1222,
+      "unnamed": 1226,
       "orphans": 0,
       "no_return": 64,
       "unreachable": 0
@@ -123,9 +123,9 @@
     },
     "symbolon-root": {
       "pages": 14,
-      "links": 188,
+      "links": 191,
       "named": 66,
-      "unnamed": 122,
+      "unnamed": 125,
       "orphans": 0,
       "no_return": 2,
       "unreachable": 0
@@ -168,9 +168,9 @@
     },
     "episteme-etymologies": {
       "pages": 25,
-      "links": 587,
-      "named": 103,
-      "unnamed": 484,
+      "links": 602,
+      "named": 105,
+      "unnamed": 497,
       "orphans": 0,
       "no_return": 6,
       "unreachable": 0
@@ -213,9 +213,9 @@
     },
     "episteme-sources": {
       "pages": 393,
-      "links": 1737,
-      "named": 187,
-      "unnamed": 1550,
+      "links": 1744,
+      "named": 188,
+      "unnamed": 1556,
       "orphans": 0,
       "no_return": 91,
       "unreachable": 0
@@ -894,9 +894,9 @@
       "| [S0](S0-Central.md) | **Central — meaningful continuity** | L0 Quaternal × L5′ Divine Logos | [M37 — Central](../../06-objective-internality/movements/37-s5-p"
     ],
     "symbolon-root": [
+      "The [Symbol / Account / Trust field](episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance) **dev",
       "[Compassion's vocation](../section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) extends this relation into conduct",
-      "[Determining capacity becomes legible through its particular face](X-x.md)",
-      "[Identity survives the change of person](../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md) through a personal circuit: *I = Is*, *Who I"
+      "[Determining capacity becomes legible through its particular face](X-x.md)"
     ],
     "episteme-root": [
       "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#4` Episteme",

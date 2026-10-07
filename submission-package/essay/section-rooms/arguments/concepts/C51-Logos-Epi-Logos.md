@@ -24,6 +24,8 @@ Articulation does real work. [Vāk](../A06-Vak.md) **defines** a distinct Śaiva
 
 This gives the paradigm-return an ontological force that a merely documentary reading would miss. An articulated pattern can alter the field from which later articulation proceeds: a named assumption can be released, a permission changed, a relation disclosed, a tool made available, a source restored to authority, a question re-formed. The explicit model matters because it re-enters practice, and a diagram that leaves every governing relation untouched is representation without the Epi-Logos return.
 
+Logos articulates by signifying. *Legein* picks out, lays together, counts and says, and what it achieves is a determination that can be carried: something counts as something for anyone able to follow the account. [Signification and significance](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance) names the relation articulation does not supply by itself, the significance under which the account is heard, its sense, weight and value for those it bears upon. Epi-Logos is the recognitive return in which that significance re-enters the account. The achieved signification asks for whom it counts, at what cost and toward what end, and the answer changes how it is said next.
+
 ## #2
 
 A completed account can hide the conditions that gave it authority. The return therefore asks who speaks, through which instrument, under what permission, with which exclusions and costs. Name needs its coequal Power relation, since Truth/Mind/Word/Logos/Son/Image cannot replace Play/Need/Sacrifice/Decision/Love/Work, and an articulated result has passed through work and decision as well as words.

@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "860d707b76480e7bb40e20a4d164492bb344118947b18487624039d3254174b3"
+source_digest: "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -38,18 +38,18 @@ Workspace lookup reaches 1155 of 1180 pages. The tables below describe that larg
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 13 | 1 | 12 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 1074 | 204 | 870 | 0 | 0 | 0 |
-| The 48 movements | 48 | 505 | 227 | 278 | 0 | 0 | 0 |
-| Symbolon — the twelvefold root | 14 | 188 | 66 | 122 | 0 | 2 | 0 |
+| The 48 movements | 48 | 508 | 228 | 280 | 0 | 0 | 0 |
+| Symbolon — the twelvefold root | 14 | 191 | 66 | 125 | 0 | 2 | 0 |
 | Matheme — exact operations | 109 | 911 | 502 | 409 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 148 | 1008 | 496 | 512 | 0 | 118 | 0 |
 | Episteme — the register root | 1 | 23 | 5 | 18 | 0 | 0 | 0 |
-| Arguments A01–A36 | 37 | 1053 | 136 | 917 | 0 | 0 | 0 |
+| Arguments A01–A36 | 37 | 1058 | 137 | 921 | 0 | 0 | 0 |
 | Conjugate arguments A01′–A36′ | 38 | 537 | 59 | 478 | 0 | 0 | 0 |
-| Concepts C01–C64 and provenance | 179 | 1492 | 270 | 1222 | 0 | 64 | 0 |
+| Concepts C01–C64 and provenance | 179 | 1496 | 270 | 1226 | 0 | 64 | 0 |
 | Product field S / S0–S5 | 8 | 80 | 14 | 66 | 0 | 2 | 0 |
-| Episteme · Etymology whole-fields | 25 | 587 | 103 | 484 | 0 | 6 | 0 |
+| Episteme · Etymology whole-fields | 25 | 602 | 105 | 497 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 655 | 327 | 328 | 0 | 2 | 0 |
-| Episteme · Source houses | 393 | 1737 | 187 | 1550 | 0 | 91 | 0 |
+| Episteme · Source houses | 393 | 1744 | 188 | 1556 | 0 | 91 | 0 |
 | Episteme · Dossiers | 8 | 203 | 118 | 85 | 0 | 1 | 0 |
 | Episteme · Lenses | 13 | 76 | 15 | 61 | 0 | 13 | 0 |
 | Episteme · Maps and curated paths | 5 | 129 | 7 | 122 | 0 | 1 | 0 |
@@ -547,9 +547,9 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - **Product field S / S0–S5:** `[S — World and Life] (S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality (Life / Mind) the means, World`
 - **Product field S / S0–S5:** `/ [S0] (S0-Central.md) / **Central — meaningful continuity** / L0 Quaternal × L5′ Divine Logos / [M37 — Central] (../../06-objective-internality/movements/37-s5-p`
 - **Product field S / S0–S5:** `/ [S0] (S0-Central.md) / **Central — meaningful continuity** / L0 Quaternal × L5′ Divine Logos / [M37 — Central] (../../06-objective-internality/movements/37-s5-p`
+- **Symbolon — the twelvefold root:** `The [Symbol / Account / Trust field] (episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md#signification-and-significance) **dev`
 - **Symbolon — the twelvefold root:** `[Compassion's vocation] (../section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) extends this relation into conduct`
 - **Symbolon — the twelvefold root:** `[Determining capacity becomes legible through its particular face] (X-x.md)`
-- **Symbolon — the twelvefold root:** `[Identity survives the change of person] (../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md) through a personal circuit: *I = Is*, *Who I`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `**Where you are:** [Reading root] (../../README.md) › [#1 Symbolon] (../README.md) › '#4' Episteme`
 - **Episteme — the register root:** `- [Arguments A01–A36] (../../section-rooms/arguments/README.md) — the canonical semantic Argument identities`
