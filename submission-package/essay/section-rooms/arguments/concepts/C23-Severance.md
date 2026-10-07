@@ -43,6 +43,6 @@ Severance begins where the other's removal is imagined to complete the whole, or
 
 ## #5→0
 
-[[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Proportion among differentiated terms]] returns through the respect in which they stay related. Reconnection states what is shared and what remains distinct, since a real conflict keeps its particular stakes and a vague assertion of unity cannot do their work.
+[[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy|Proportion among differentiated terms]] returns through the respect in which they stay related. Reconnection states what is shared and what remains distinct, since a real conflict keeps its particular stakes and a vague assertion of unity cannot do their work.
 
 The productive [cut](C50-Dia-Syn.md) enters a [living relation](C21-Living-Symbol-Idol.md) where its source and consequences can be recovered. A divided task can return an incompatible premise to the commissioning condition, and a corrected source or authorised task can then enter recomposition while the local result remains credited. The next act inherits what the return warranted, and distinction thus serves inquiry, autonomy and action without claiming to create an independently grounded world.

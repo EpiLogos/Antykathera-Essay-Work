@@ -55,7 +55,7 @@ Through [Māyā's eye, veil, frame and dream](../../../symbolon/mytheme/worlds/f
 
 A corrected answer or application can follow under a fitting rule. If the rule, representation, permission or commission itself failed, the return reaches the office able to change that condition, and if inquiry warrants retaining it, the later act inherits the reasons for that judgment and the source relation through which it was reached. A claim that processing changed has to identify what changed and where the next operation received it, and reasoned retention is not reported as a new engineering intervention.
 
-[[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] carries the corresponding relation: an articulation answers to the appearing it discloses and refrains from usurping its source. The return preserves the differentiated powers while releasing an achieved determination's claim to contain the whole.
+[[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust|Symbol / Account / Trust]] carries the corresponding relation: an articulation answers to the appearing it discloses and refrains from usurping its source. The return preserves the differentiated powers while releasing an achieved determination's claim to contain the whole.
 
 ### Source scope
 

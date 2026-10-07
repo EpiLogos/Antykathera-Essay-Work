@@ -1,5 +1,5 @@
 {
-  "source_digest": "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb",
+  "source_digest": "4b49f27492cd558ba698f4699659131957b55a863fb455d892cee8575c701ed0",
   "builder_version": "1.2.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -8,7 +8,7 @@
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 265,
-      "missing-vault-path": 111,
+      "missing-vault-path": 67,
       "missing-fragment": 2,
       "ambiguous-filename": 8
     },
@@ -28,7 +28,7 @@
   },
   "max_depth": 4,
   "relation_totals": {
-    "unnamed": 8335,
+    "unnamed": 8338,
     "sources": 1492,
     "sources (declared)": 1033,
     "consumed-by (declared)": 299,
@@ -38,7 +38,7 @@
     "extends": 158,
     "returns-to (declared)": 125,
     "compares": 115,
-    "qualifies": 112,
+    "qualifies": 113,
     "historicises": 77,
     "derives": 60,
     "figures": 54,
@@ -87,9 +87,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1058,
+      "links": 1060,
       "named": 137,
-      "unnamed": 921,
+      "unnamed": 923,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -231,9 +231,9 @@
     },
     "mytheme": {
       "pages": 148,
-      "links": 1008,
-      "named": 496,
-      "unnamed": 512,
+      "links": 1010,
+      "named": 497,
+      "unnamed": 513,
       "orphans": 0,
       "no_return": 118,
       "unreachable": 0

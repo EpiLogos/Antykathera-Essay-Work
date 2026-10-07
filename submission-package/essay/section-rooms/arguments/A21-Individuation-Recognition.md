@@ -43,7 +43,7 @@ A [[section-rooms/arguments/concepts/C36-Complexio-Oppositorum|complexio opposit
 
 In the [[A09-Tattvic-Differential-Field|Śaiva differentiated field]], recognition returns through manifestation without erasing its history. The present comparison follows that retained difference through an achieved determination which can become answerable to its source. [[section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition|Pratyabhijñā]] retains integral self-awareness as its specific Śaiva office; Jung’s Self retains its psychological one. Operational comparison does not make either a historical synonym or turn the Śaiva return into a psychological treatment.
 
-[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Resolution in reconciliation]] returns a determination through its history as **Anamnesis / Recognition / Return**. A resolution can be retained, narrowed or resituated by remembering how it arose. Its previous cycle remains consequential. Greek anamnesis, Sanskrit recognition and Jungian individuation have separate genealogies; their operational comparison follows the changed relation through which the achieved history enters another act.
+[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis|Resolution in reconciliation]] returns a determination through its history as **Anamnesis / Recognition / Return**. A resolution can be retained, narrowed or resituated by remembering how it arose. Its previous cycle remains consequential. Greek anamnesis, Sanskrit recognition and Jungian individuation have separate genealogies; their operational comparison follows the changed relation through which the achieved history enters another act.
 
 ## #5→0
 

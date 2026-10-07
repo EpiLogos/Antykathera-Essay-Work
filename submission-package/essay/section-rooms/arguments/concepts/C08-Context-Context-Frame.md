@@ -58,6 +58,6 @@ The [travelling jigsaw's prior rule of fit](../../../symbolon/mytheme/worlds/fra
 
 [Diaphaneity](C09-Diaphaneity.md) makes the shaping conditions readable through their effects. Contextualisation succeeds when the account can show how its means, exclusions and position shaped what it says, and when returned resistance can reach those terms for correction or warranted retention.
 
-[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Con-text-through-Diaphaneity]] makes the held relations available to Regard. Con-text-through-Diaphaneity is the generated relation, and Regard is the operation that becomes available there: it can turn toward the exposed relation and answer what the frame's inclusions and exclusions have done.
+[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis|Con-text-through-Diaphaneity]] makes the held relations available to Regard. Con-text-through-Diaphaneity is the generated relation, and Regard is the operation that becomes available there: it can turn toward the exposed relation and answer what the frame's inclusions and exclusions have done.
 
 [Another participant can externalise enough of its ground to meet this one](../A30-Objective-Co-Internality.md) while retaining its own source-relations. What each frame has disclosed can change their encounter without absorbing either into the other's account. A bounded frame stays useful through its corrigibility within [the world that bears it](C07-Conditions-of-Worldhood.md).

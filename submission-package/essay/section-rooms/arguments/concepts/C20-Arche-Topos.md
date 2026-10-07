@@ -43,6 +43,6 @@ In symbolic amplification, a symbolic appearance opens a local view, neighbourin
 
 ## #5→0
 
-A [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|situated place]] bears the history, permissions, relations and commitments through which someone can act there, and its meaning changes as those conditions change.
+A [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere|situated place]] bears the history, permissions, relations and commitments through which someone can act there, and its meaning changes as those conditions change.
 
 [Place-making](../A16-Arche-Topos-as-Differential-Field.md) returns through [circulation](../A17-Toroidal-Circulation-and-the-Arche-Topos.md): a formed position becomes a point of departure, and a travelled route can change how that position is understood. The achieved location can disclose the field that made it possible, and a return can preserve the path that changed the location's meaning. Place-making stays operative when its account can be entered, transformed and returned from.

@@ -23,7 +23,7 @@ The [[quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|return of delegated labour]] re
 
 A commission distributes authority rather than creating all the conditions of work. The executing office draws on capacities, tools, knowledge, infrastructure and prior labour it did not originate. An evaluator determines adequacy under an inherited purpose. The source of permission, the performer, the recipient of value and the bearer of consequence can be different participants. [[section-rooms/arguments/concepts/C53-Power-Delegated-Labour|Delegated power]] acts through this distribution; its visible occupant does not contain the whole relation.
 
-[[symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment distributes shares]] within a common ordering. Labour, permission and consequence acquire finite offices in that distribution. The concrete account identifies what was entrusted, by whom, under what terms, and to whom the consequence returns. Household and distribution have their particular lexical histories; the allocation of a resource or obligation requires the terms of the actual relation.
+[[symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy|Apportionment distributes shares]] within a common ordering. Labour, permission and consequence acquire finite offices in that distribution. The concrete account identifies what was entrusted, by whom, under what terms, and to whom the consequence returns. Household and distribution have their particular lexical histories; the allocation of a resource or obligation requires the terms of the actual relation.
 
 ## #2
 

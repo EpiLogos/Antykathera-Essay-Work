@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb"
+source_digest: "4b49f27492cd558ba698f4699659131957b55a863fb455d892cee8575c701ed0"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -25,9 +25,9 @@ This map is generated from the relations authors wrote into the publication body
 | #0 | The 48 movements | 48 | 508 | 45% | [The Return of Zero — The Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 191 | 35% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 109 | 911 | 55% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
-| #3 | Mytheme — whole lived images | 148 | 1008 | 49% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
+| #3 | Mytheme — whole lived images | 148 | 1010 | 49% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 23 | 22% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
-| #0 | Arguments A01–A36 | 37 | 1058 | 13% | [Canonical Arguments A01–A36](../../../../section-rooms/arguments/README.md) | [intents](intents/episteme-arguments.md) |
+| #0 | Arguments A01–A36 | 37 | 1060 | 13% | [Canonical Arguments A01–A36](../../../../section-rooms/arguments/README.md) | [intents](intents/episteme-arguments.md) |
 | #0 | Conjugate arguments A01′–A36′ | 38 | 537 | 11% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../../../section-rooms/arguments/conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
 | #0 | Concepts C01–C64 and provenance | 179 | 1496 | 18% | [Concepts](../../../../section-rooms/arguments/concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #0 | Product field S / S0–S5 | 8 | 80 | 18% | [Episteme — S Product Field](../../../../section-rooms/arguments/products/README.md) | [intents](intents/episteme-products.md) |
@@ -53,7 +53,7 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 8335 |
+| unnamed | 8338 |
 | sources | 1492 |
 | sources (declared) | 1033 |
 | consumed-by (declared) | 299 |
@@ -63,7 +63,7 @@ This map is generated from the relations authors wrote into the publication body
 | extends | 158 |
 | returns-to (declared) | 125 |
 | compares | 115 |
-| qualifies | 112 |
+| qualifies | 113 |
 | historicises | 77 |
 | derives | 60 |
 | figures | 54 |

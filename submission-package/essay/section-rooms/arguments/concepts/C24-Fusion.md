@@ -49,6 +49,6 @@ In [Indra's jewel-net simile](../../../symbolon/mytheme/worlds/chinese-huayan/in
 
 The [receiving mouth](../../../symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork) **tests** fusion: a response must remain different enough to change the relation that receives it.
 
-[[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Agreement in an operation or proportion]] does not make the compared objects univocally identical, and a successful synthesis specifies both the relation achieved and the differences through which it remains intelligible.
+[[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy|Agreement in an operation or proportion]] does not make the compared objects univocally identical, and a successful synthesis specifies both the relation achieved and the differences through which it remains intelligible.
 
 Identification through difference becomes possible again when cutting and gathering retain the differences that permit answerability. A shared form can then continue through those differences, and source and account, I and You, distinct participants and common work can remain related without requiring one term to speak as all the others.

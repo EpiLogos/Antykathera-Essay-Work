@@ -53,7 +53,7 @@ The mirror's paradigm-disclosure is the technical correlate of cultural individu
 
 ## #5→0
 
-[[section-rooms/arguments/concepts/C51-Logos-Epi-Logos|Achieved articulation becomes reflexive]] where accounts repeatedly return to their conditions through ordinary shared practice. [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Prior reliance becomes situated account, instituted order, inherited belonging and examined entrustment]], and their different histories remain consequential to what can be entrusted again, so culture, nation and commons cannot become interchangeable names for a single bearer.
+[[section-rooms/arguments/concepts/C51-Logos-Epi-Logos|Achieved articulation becomes reflexive]] where accounts repeatedly return to their conditions through ordinary shared practice. [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere|Prior reliance becomes situated account, instituted order, inherited belonging and examined entrustment]], and their different histories remain consequential to what can be entrusted again, so culture, nation and commons cannot become interchangeable names for a single bearer.
 
 Within [the wider economy of a commons](../../../symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy.md#commons-preserves-the-wider-economy), a culture can revise inherited names and measures while retaining the origins and particular lives through which they matter. The institutional change remains answerable to those who bear its costs and can refuse its terms, and changed shared conditions do not make Culture the owner of every local world.
 

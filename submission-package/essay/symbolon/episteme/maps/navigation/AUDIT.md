@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.2.0"
 authority: generated-locator
-source_digest: "cb49609e90697681084d255146b90994f3616cf6fa3e8131c037495ee0905ceb"
+source_digest: "4b49f27492cd558ba698f4699659131957b55a863fb455d892cee8575c701ed0"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -41,9 +41,9 @@ Workspace lookup reaches 1155 of 1180 pages. The tables below describe that larg
 | The 48 movements | 48 | 508 | 228 | 280 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 191 | 66 | 125 | 0 | 2 | 0 |
 | Matheme — exact operations | 109 | 911 | 502 | 409 | 0 | 13 | 0 |
-| Mytheme — whole lived images | 148 | 1008 | 496 | 512 | 0 | 118 | 0 |
+| Mytheme — whole lived images | 148 | 1010 | 497 | 513 | 0 | 118 | 0 |
 | Episteme — the register root | 1 | 23 | 5 | 18 | 0 | 0 | 0 |
-| Arguments A01–A36 | 37 | 1058 | 137 | 921 | 0 | 0 | 0 |
+| Arguments A01–A36 | 37 | 1060 | 137 | 923 | 0 | 0 | 0 |
 | Conjugate arguments A01′–A36′ | 38 | 537 | 59 | 478 | 0 | 0 | 0 |
 | Concepts C01–C64 and provenance | 179 | 1496 | 270 | 1226 | 0 | 64 | 0 |
 | Product field S / S0–S5 | 8 | 80 | 14 | 66 | 0 | 2 | 0 |

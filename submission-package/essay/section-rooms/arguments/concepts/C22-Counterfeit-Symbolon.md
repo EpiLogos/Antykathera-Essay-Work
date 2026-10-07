@@ -51,7 +51,7 @@ The Antichrist/counterfeit-source braid gives these cases one direction of failu
 
 ## #5→0
 
-An [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|account answers to a source it does not possess]]. The repair follows the actual loss: a severed term needs its constitutive relation restored, fusion needs distinction, a captive gathering needs an answerable criterion, and a protected account needs a viable route to source and consequence. A fitting rule may remain where the return corrects a source or its application.
+An [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust|account answers to a source it does not possess]]. The repair follows the actual loss: a severed term needs its constitutive relation restored, fusion needs distinction, a captive gathering needs an answerable criterion, and a protected account needs a viable route to source and consequence. A fitting rule may remain where the return corrects a source or its application.
 
 A [renewed symbolic relation](C21-Living-Symbol-Idol.md) permits differentiation, commitment, refusal and revision through the participants who can answer it, and correction can preserve disagreement. No one product acquires the whole's office by gathering the others, since the relation lives through their capacity to change how they are gathered.
 

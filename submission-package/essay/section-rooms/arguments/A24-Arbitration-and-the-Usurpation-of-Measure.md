@@ -17,7 +17,7 @@ source_relation: "Argued from ratified Etymology field and source-specific polit
 
 Arbitration makes a finite decision where conditions do not decide themselves. A [[A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|valid measure]] distinguishes terms according to a criterion; a [[A19-Complex-as-Local-Arbitration-Regime|local psychic regime]] orders affect and response; [[A23-Trust-Faith-and-the-Formal-Limit|trust]] carries an account into an undertaking. Each has real competence within its relation. A decision must have standing enough to act while remaining answerable to what its action concerns.
 
-The [[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|whole conjugate arbitration relation]] gives that decision its complete movement:
+The [[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis|whole conjugate arbitration relation]] gives that decision its complete movement:
 
 | Operative face | Conjugate face | Generated relation | Flowering |
 |---|---|---|---|

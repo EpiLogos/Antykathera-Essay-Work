@@ -7,7 +7,7 @@
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 265,
-      "missing-vault-path": 111,
+      "missing-vault-path": 67,
       "missing-fragment": 2,
       "ambiguous-filename": 8
     },
@@ -155,7 +155,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
       "sha256": "2aaaca68e2b1a957a94a67ade05d7a75b8c5e0f97e1d4e239b474779537a8b7c",
       "exists": true,
-      "current_sha256": "20d68735e9ff4037d6f41221054939bc3f02092f15d547ae37d7431070ed7469",
+      "current_sha256": "f99e45abee454f551e19a4d3682033cfb95ba967224640c4580a0b2b50de291b",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -166,7 +166,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A14-Computational-Process-Ontology.md",
       "sha256": "ed6f66be85c65976415eba83bd3a16baa36f686c8c222b461e37ab7bdfcbc78b",
       "exists": true,
-      "current_sha256": "3c7c5a6a6ceaba77cdd9c9721d2961c1edf8aad629e53296eb42f60f628376aa",
+      "current_sha256": "c3ddab89eb7072f71bec8e4a14c8038f72c25986ae0dce432de0876513a27d20",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -177,7 +177,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
       "sha256": "d17b542ac1bf1263359f066ca730d78ba1d7685f2e8fdbd7b14cdda2522f24a3",
       "exists": true,
-      "current_sha256": "184abb9819ae19ae0216e23e3f068d50e80ce0a08da4e26275dd233e2e83c8e4",
+      "current_sha256": "36f16991fd77f305e0b02cf4f4fd88ccfd04f3d9425b9be5fb3e260910d00cd5",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -188,7 +188,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md",
       "sha256": "cdc6de84c48394ab442682a024bdfc92098f59d7911686710782df72896ef832",
       "exists": true,
-      "current_sha256": "8982d8d00235e51a25f358cff7fef626be0c1f0f31ff022d57fe558572a92937",
+      "current_sha256": "4b26aabfeb0b2cafd5f485fb3e03fb976d0501bf585156a4650cf2292f51d15b",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -232,7 +232,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A20-Image-Valuation-Possession.md",
       "sha256": "7a7b2e06d2f10e187ff317428bd92dd114bf9a3daa54a319613d4ed598aba98a",
       "exists": true,
-      "current_sha256": "b9b41fd388d0b542542cb8b4f2ed5667afc1844c78784f83a54b8517a7b12e96",
+      "current_sha256": "2991e24d37bb1f2224ec8099a6dca1050798d47e55301474f932cb8c42e51d06",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -243,7 +243,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A21-Individuation-Recognition.md",
       "sha256": "6282b3064ac6968760811dc404faee5c7e0927fcd8336736fd49da2977c7d9bb",
       "exists": true,
-      "current_sha256": "418fbfa4b9341dc3f0190a1be6b8832c388a52516531abafa41f1507d71fd30f",
+      "current_sha256": "399d8f03f21befbaa0ff214be7e4eea0d812bf4483126ce51c898514ea161058",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -254,7 +254,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A22-World-Picture-to-World-Atlas.md",
       "sha256": "7d4f2ebfecf2452712ca7c9adf9bf12620341903a9d0958669f3ae97336e9777",
       "exists": true,
-      "current_sha256": "2c8af930f45350315bc28f364d97efd20c21981de0cfc20029bef9c742ce86b2",
+      "current_sha256": "55e147624e2620d93c33105d8872df3d50c6c4e8aa09366e4ab8481514eb54cc",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -276,7 +276,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
       "sha256": "9e58b3daeb52d4d228572b75def9a25f32a7c4dbc859a8d04350dacf7384c649",
       "exists": true,
-      "current_sha256": "b642be7acf25d105c171a41768b14f98359265754b794b6bfef99f68e8b2e303",
+      "current_sha256": "480f155c1a499d77538731eb3d079ef2f8ed4347716c101c429ff540ef1108dc",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -298,7 +298,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
       "sha256": "d9f6d37faafdcac6994e5b71b851cecb543d9c61d274c759d44046a8e4162ae9",
       "exists": true,
-      "current_sha256": "e4c36575abb0633941cd2012280b062dbac61ce70a509dbfa7ed3623a0519801",
+      "current_sha256": "fb5eab61ecd8841c31727d61939e96c4df361b0f52ed7d17194cafdb41abef87",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -331,7 +331,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A29-Power-Delegated-Labour-Return.md",
       "sha256": "af93124ddfabe3cae89886540e39d885b1a6381f5841ea4654ef7e60ac308fe6",
       "exists": true,
-      "current_sha256": "5cb3692a8e08c32c11a2e220399b9d143d067613e52301217c025e80981dfd55",
+      "current_sha256": "dca1c0a791539e67ac7b01fa667b4480ef9ce360e73b25afb48bcdf41d80425b",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -397,7 +397,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
       "sha256": "4b4d54eca313f3b9a88dd6dcc7556a0d34035883ca1fde4dff4c555fcba05499",
       "exists": true,
-      "current_sha256": "e04d681418fd8efdc394da54492b076c240c3a4c0f45125d1453f1a103d0c062",
+      "current_sha256": "7001c80f9cf8e17a37aa46234fb98ab0246378a4ca7910127873d46e9ce13a4e",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -419,7 +419,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C01-Subject-Defined-Indefinability.md",
       "sha256": "bc60dbe87148e3b4295da67ed7f6d4501c6a928850f23e4454186f28d5051d79",
       "exists": true,
-      "current_sha256": "ece6ea2b7f438e3b6ec8606923f154444599b8a53aae66d4ed9e6e579bde6080",
+      "current_sha256": "e96603226e952b6200378cfb8c80faa9dd01d8a2a3ab649a3941e52ead861ef3",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -441,7 +441,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C03-Determination.md",
       "sha256": "5d2f34e4a003531cc392364343af15de05c505bf81ce71edf04368bfc6ad782c",
       "exists": true,
-      "current_sha256": "36582828aaefcd4c9fa9602ad6cafc18db10a6cad76311df512e0e2048b9da80",
+      "current_sha256": "2008b90431c7c8fa02e5538c3646eab2f91dacad7b82f1d053a04752b0b7a24a",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -452,7 +452,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C04-Formal-Limit.md",
       "sha256": "bfa390f0a038c324e5f02a2b1249bc6a6bc52f37f6eedaffd5e36bcb310c0eb5",
       "exists": true,
-      "current_sha256": "96b318f10aa7add5b0ec87f13067fa3a908d54f72cef9e9016dc6c99738158ae",
+      "current_sha256": "92d237347564cc8d9681c1e09d519e701d8573bab2cbc784967406fae420cbc5",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -463,7 +463,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C05-Immutable-Gap.md",
       "sha256": "d4a8faa625a735e24c1468a82a2e20e563a98c472b41a3ea92ada8e9074e9066",
       "exists": true,
-      "current_sha256": "6a52e068b2896b81d3c6dc0cf67db35a073521fd1928fe9e5ea1d1f1580e9067",
+      "current_sha256": "c378e63b2c07c3fa963ce7aa4c49e03370b695f424ca59e4e1fb0a324738b89e",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -485,7 +485,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C07-Conditions-of-Worldhood.md",
       "sha256": "046770c77b4b988fad2d42f51c24612bb91d4a7317984ea120c4687050c2b2f9",
       "exists": true,
-      "current_sha256": "b832f677dd76f0ba8c47a2e30d1a68767e35ffca97f9c81252c5d0866d53e50b",
+      "current_sha256": "c7a09ee4ed94dcb93cc8d50ddef2ffd358ef847ba00fb8da35221e4e50eeb523",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -496,7 +496,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C08-Context-Context-Frame.md",
       "sha256": "9cdfafabb4c2ba0389bef0af65191c64f0e6a24cec73c0969b7fead5901b406d",
       "exists": true,
-      "current_sha256": "e40a71a3d71c9fceab83fed3ad78520df99ac0957ca4a24f5d618ac54911a4f0",
+      "current_sha256": "9b51d70f8e6f6b479cb11167ceb41199e4bdf8a35d9f372d5a938156f46413fd",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -507,7 +507,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C09-Diaphaneity.md",
       "sha256": "95e4df5bd1e61e9efdc41668cbf9602a9ae1171311c615e26ddcb8fe7e43f628",
       "exists": true,
-      "current_sha256": "4fcb3dbabeb4c749b91a2c39842ede0823d595f352bbdbc44673700c8dae11f7",
+      "current_sha256": "59b55dc71f391e0892e76bf9f22e52727365188d61fb98cb332eebd19987b312",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -518,7 +518,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C10-Mediation-Pramana.md",
       "sha256": "425229cb6001a04c25720fb397838be5d2221b7262bee0d432333be6eb3f79b4",
       "exists": true,
-      "current_sha256": "4a4ef8abef70760bbe584c8a1de991cb0bb1115e7a050063076654eae591d8e5",
+      "current_sha256": "cb5bb5f179378bb2a8062581acde4193fea9969a251094e97b4910ad0f49b1e0",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -551,7 +551,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C13-Prakasa-Vimarsa.md",
       "sha256": "f81fea579ebb38191863e4411e3bb851dfadadf8fe35e874a3d649ca2416f807",
       "exists": true,
-      "current_sha256": "8e8a93bf59ae662d8ab130e2e04652c3b881e9ef0f5510c9dfc7554b8b2fc56b",
+      "current_sha256": "973ba5341352e550177134214d6fc5f2463e4d89f0ddc246b6e922ffd9829cd6",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -562,7 +562,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C14-Maya-Operative-Measure.md",
       "sha256": "a6a192e8362b27b5740dc7934d2fe8ad783662573266f65cde553dd17c251ee1",
       "exists": true,
-      "current_sha256": "8903fc16ef348cecffd6a178fdcac6f02eb295cef877b9b4e9fa2181fcbf9177",
+      "current_sha256": "c87e239dd546205b141ced912d9ed90016708d6d1f55d850e57379d279020c82",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -573,7 +573,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C15-Pasu-Bounded-Subject-Position.md",
       "sha256": "16751a45802cadd08dddf8586f3532ab1853c5dae7f08b70103e4cbe4d2f5a25",
       "exists": true,
-      "current_sha256": "a8f17510133844b0ed1d08ae4f3f6a4ffd96ad7bc82c0ccdea637bdb2a5b0947",
+      "current_sha256": "10d5fb716a6f7fe5d12fd7c045e8c51cef7a7600bba5bd5066abc3479396102f",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -606,7 +606,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C18-Apoha.md",
       "sha256": "61e0a844845817077bb94bf56b921dd5d9d00ab396f189e8015842afd4bc7159",
       "exists": true,
-      "current_sha256": "df6fd6b7d692ff2d9174e305d557a3d2109ba4040b164ffb533a6f0514ff86e6",
+      "current_sha256": "280e915a3815825ab605ce3f7da1f05d2e19617bc7b7829665df7fd5b3fd2400",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -617,7 +617,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition.md",
       "sha256": "55c54b95adb8ef1080d8fa51377523a29050973e63b1baec7bc76cb7732bf19a",
       "exists": true,
-      "current_sha256": "202f567224ef4970d99c354d524bbd38db5d7bc8901e91cef45cc2709609648f",
+      "current_sha256": "810e85546340eed7ee255b467a3ef853818fd1c98618ba8700680de7772e7cfa",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -628,7 +628,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C20-Arche-Topos.md",
       "sha256": "c6efb9912c7b312974d2f66873ce990c9e46af913ae7b86ae3e3a86e63742bf3",
       "exists": true,
-      "current_sha256": "3c9a23dc122577a61cee66e749921a130b147e1d5d486b12f71dcfc83cf5924d",
+      "current_sha256": "a075314167421b3113aa6065b268b95da384d16be8fb8e36eab69c04bca79266",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -650,7 +650,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C22-Counterfeit-Symbolon.md",
       "sha256": "ec39dfb831da8d66fc1823dcf15fa555d27892e12a85f269c759737678f28094",
       "exists": true,
-      "current_sha256": "98a57e7f58b28fe7354a9988b6024e0a248be74b69b4d4735c19ee4d0c78387e",
+      "current_sha256": "3f8d4368feffdbb69fe51bbebffef54a59a763230efe9f35dfa7df4ed7c3bd40",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -661,7 +661,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C23-Severance.md",
       "sha256": "6918b65c625f653835b701ccac6ce73dd18ca37ee6ded8cdcfe43a5e0390295d",
       "exists": true,
-      "current_sha256": "a782a99ead0235fe05170db691424b5483a49d686ba5ce0ed3e141a0cba99f0f",
+      "current_sha256": "cfd3362bd31740477d241f3179cae4c5a0fa51c674bf807004daa0bd6b96c745",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -672,7 +672,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C24-Fusion.md",
       "sha256": "6e72d27be391251dd6c742c1b2a306dd8cedea1a4455ac2702d6167461ce6966",
       "exists": true,
-      "current_sha256": "c932e87de3064e49552116536a11c3fdf57d8ea0bb1ef5611eb59b3a3c3a4d86",
+      "current_sha256": "231b392a347c757ad1c945bbf7df7b37008cb8003ff94e670651364878f884f3",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -738,7 +738,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C30-Psychoid-Number.md",
       "sha256": "dfc5efe246bdc5bc097e3bcc368b43b9881650ff856bce83cb7464c1b72a65fb",
       "exists": true,
-      "current_sha256": "52cf08174188d29e5c0c0aae4c93c448e48d78b9ea1997c405971d324e9252c3",
+      "current_sha256": "56e917251d7293e8f816fb817be45fb0da4f411087ef4934be69dee0d53d9086",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -749,7 +749,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C31-Complex.md",
       "sha256": "b2c1142693b9320a3f2441a96e65ad53961922285a9c2e3605a592c432f938ad",
       "exists": true,
-      "current_sha256": "61a64fa287af9c4d26b8a8c02dfeb02ec16bc4bd51938856350818b2eb307e64",
+      "current_sha256": "214852116390a86fce7b7019d8cd1198e19ba830804061e2e169da30f740941a",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1013,7 +1013,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
       "sha256": "8437e92035569a17d5c2ecbf0980783e72d1f2d61f69186c19065b032a77e4e9",
       "exists": true,
-      "current_sha256": "fedde5aaf81f8b443aca28c9e220d96450994f24aec838e531845e7ee2ebf062",
+      "current_sha256": "236dc84697d292b76d516cc512e3591548e5a33ff659f64d45ea87c31dd56acd",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1024,7 +1024,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C56-Compassion-Sensitivity-to-Origins.md",
       "sha256": "873607a61c72d262c30e8a772d531075dc47cae31d6598f9c3c151b72be42e51",
       "exists": true,
-      "current_sha256": "39d99a05b7b8cb2d720636fd1722c338aa61786a70a0ce07ed64f42a91ab3455",
+      "current_sha256": "9a9a064f775d6ecfb6d182a5591d17e5794af5eb984b9a7ecd7106e1783dcd94",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1035,7 +1035,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C57-Agentworld.md",
       "sha256": "de72e2b914abcabca02670dca5fe4f7f63bbf68396cb1565c99f9f08010664ce",
       "exists": true,
-      "current_sha256": "88809ff60b01fcceeb0b37da92a6286761b269303bb4c545f8e5263bf18ae82f",
+      "current_sha256": "15903fe71005adc3eab2133b2039f3ca608a53971cae6978227c5f11774f473e",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1057,7 +1057,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
       "sha256": "7afcad5a2d1bdb07de5cc6c5139670ede61880442a7bf21f9b39287622870c1d",
       "exists": true,
-      "current_sha256": "1d0c5b60b9d055facdc9a75d25384e417ec74ab970aa66e5916e31c05be53155",
+      "current_sha256": "cf1e25cf22bfaf34f8d825d154959f7e5781d508a6dedacbc1f3ddacfe6b1ff0",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1090,7 +1090,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C62-Planetary-Computation.md",
       "sha256": "3e9206397fe4728b02c8521f69b0cc0027782fa91aa35b2336cffb1dcdd31ca8",
       "exists": true,
-      "current_sha256": "a4c3633f781c7fff6a3fb45454b5f7342ee09a1ba278bdb8a765a14574095b05",
+      "current_sha256": "e7066823c76b1e6d24cff3172e66a03d31412a4670cace32c8634080c645f1c5",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1101,7 +1101,7 @@
       "canonical_home": "submission-package/essay/section-rooms/arguments/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
       "sha256": "075500bd66e6696d82bf7d34648b3b6c3898834d1dbb8d509b0a6ccefa13162c",
       "exists": true,
-      "current_sha256": "cb5538d496a3abc78b659f46fe63fe9683e3c158dfc40941125620b35982d401",
+      "current_sha256": "37121e84d9983244ff5588f3f00414af2b1e85140c4387a785cc55e16458fa17",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -1596,7 +1596,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
       "sha256": "bcec539408eea9e1abd71de3eeb92ab7725d657f1e1c3762f5ca8f1216883805",
       "exists": true,
-      "current_sha256": "972f824a5ea4085713419f37b0a6eee0b0875646a7c066b2978563f92faeaf02",
+      "current_sha256": "74a578be7f63076885e78317f2a4043499201d519c135f20af5ee1a51c219aff",
       "changed_since_acceptance": true,
       "reader_depth": 3
     },
@@ -2003,7 +2003,7 @@
       "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
       "sha256": "bcb4796c614408294ea4775545f0a51be2ec76a5f6cb775e7fd1dc14ab4b8665",
       "exists": true,
-      "current_sha256": "7dbd0bff1ff85c6f11fcf03dc836bc126afc5abff3f7e262974f4918e2bfa182",
+      "current_sha256": "9b79e172503f31b90d287a8619ed0e934d9a82bd524273022a9b9021ae6c2f9b",
       "changed_since_acceptance": true,
       "reader_depth": 2
     },
@@ -3265,406 +3265,6 @@
       "line": 5941,
       "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md",
       "status": "title-or-alias-only"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD",
-      "start": 32711,
-      "end": 32773,
-      "line": 132,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A14-Computational-Process-Ontology.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD",
-      "start": 8972,
-      "end": 9039,
-      "line": 69,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 2158,
-      "end": 2227,
-      "line": 29,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD",
-      "start": 2380,
-      "end": 2447,
-      "line": 29,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD",
-      "start": 1956,
-      "end": 2035,
-      "line": 24,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A20-Image-Valuation-Possession.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 15844,
-      "end": 15910,
-      "line": 64,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A21-Individuation-Recognition.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 6210,
-      "end": 6287,
-      "line": 46,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A22-World-Picture-to-World-Atlas.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD",
-      "start": 2932,
-      "end": 3007,
-      "line": 28,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A22-World-Picture-to-World-Atlas.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 7660,
-      "end": 7729,
-      "line": 50,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 1057,
-      "end": 1134,
-      "line": 20,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 19694,
-      "end": 19763,
-      "line": 99,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A29-Power-Delegated-Labour-Return.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD",
-      "start": 2195,
-      "end": 2262,
-      "line": 26,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD",
-      "start": 7178,
-      "end": 7257,
-      "line": 50,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 7288,
-      "end": 7365,
-      "line": 50,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD",
-      "start": 7408,
-      "end": 7483,
-      "line": 50,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C01-Subject-Defined-Indefinability.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 17956,
-      "end": 18022,
-      "line": 77,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C03-Determination.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 8276,
-      "end": 8345,
-      "line": 55,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C04-Formal-Limit.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD",
-      "start": 8796,
-      "end": 8875,
-      "line": 49,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C05-Immutable-Gap.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 10377,
-      "end": 10443,
-      "line": 59,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C07-Conditions-of-Worldhood.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 9398,
-      "end": 9467,
-      "line": 53,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C08-Context-Context-Frame.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 8742,
-      "end": 8819,
-      "line": 61,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C09-Diaphaneity.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 12556,
-      "end": 12633,
-      "line": 64,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C10-Mediation-Pramana.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 6579,
-      "end": 6645,
-      "line": 46,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C13-Prakasa-Vimarsa.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 8451,
-      "end": 8517,
-      "line": 58,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C14-Maya-Operative-Measure.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD",
-      "start": 10656,
-      "end": 10723,
-      "line": 64,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C15-Pasu-Bounded-Subject-Position.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD",
-      "start": 7086,
-      "end": 7165,
-      "line": 54,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C18-Apoha.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 8540,
-      "end": 8609,
-      "line": 56,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 5854,
-      "end": 5931,
-      "line": 46,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C20-Arche-Topos.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD",
-      "start": 5762,
-      "end": 5841,
-      "line": 46,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C22-Counterfeit-Symbolon.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 6296,
-      "end": 6362,
-      "line": 54,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C23-Severance.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD",
-      "start": 4484,
-      "end": 4546,
-      "line": 46,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C24-Fusion.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD",
-      "start": 6023,
-      "end": 6085,
-      "line": 52,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C30-Psychoid-Number.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD",
-      "start": 5746,
-      "end": 5808,
-      "line": 34,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C31-Complex.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 4136,
-      "end": 4213,
-      "line": 33,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 13748,
-      "end": 13814,
-      "line": 66,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C56-Compassion-Sensitivity-to-Origins.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 10996,
-      "end": 11073,
-      "line": 67,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C57-Agentworld.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD",
-      "start": 6756,
-      "end": 6825,
-      "line": 42,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD",
-      "start": 8773,
-      "end": 8852,
-      "line": 56,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C62-Planetary-Computation.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD",
-      "start": 11749,
-      "end": 11816,
-      "line": 58,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/section-rooms/arguments/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD",
-      "start": 6311,
-      "end": 6373,
-      "line": 46,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
     },
     {
       "source": "submission-package/essay/section-rooms/arguments/concepts/reference-notes/0-1-matheme.md",
@@ -7065,46 +6665,6 @@
       "line": 84,
       "target": "working/sources-texts-references/the-meal-video-essay-outline.md",
       "status": "title-or-alias-only"
-    },
-    {
-      "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 18610,
-      "end": 18676,
-      "line": 100,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 18821,
-      "end": 18898,
-      "line": 100,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
-      "start": 26574,
-      "end": 26651,
-      "line": 141,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
-    },
-    {
-      "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
-      "kind": "wiki",
-      "href": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
-      "start": 27897,
-      "end": 27963,
-      "line": 143,
-      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
-      "status": "missing-vault-path"
     }
   ],
   "outside_body": [

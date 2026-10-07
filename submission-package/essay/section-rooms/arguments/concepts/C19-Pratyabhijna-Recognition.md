@@ -43,7 +43,7 @@ Changing one statement about a paradigm can leave its enactment untouched. Its r
 
 ## #4
 
-[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Resolution in reconciliation]] returns a determination through its history as **Anamnesis / Recognition / Return**. The judgment can be retained, narrowed or resituated while its earlier consequences remain effective, and remembering how it arose gives that authority a relation it can answer.
+[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis|Resolution in reconciliation]] returns a determination through its history as **Anamnesis / Recognition / Return**. The judgment can be retained, narrowed or resituated while its earlier consequences remain effective, and remembering how it arose gives that authority a relation it can answer.
 
 [Individuation](C34-Individuation.md) carries the psychic movement into a life capable of bearing its differentiated relations. Greek anamnesis, Śaiva pratyabhijñā and Jungian individuation have distinct histories and evidence, and their comparison follows changed relation and return, since a shared word or image alone cannot establish doctrinal identity.
 

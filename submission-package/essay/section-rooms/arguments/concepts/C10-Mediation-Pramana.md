@@ -43,7 +43,7 @@ At the local comparison the judging agent is the functional knower, the dated re
 
 The [Sanskrit enumeration case](../../../symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-symbol-account-and-trust.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a particular taxonomy, since Sāṃkhya Kārikās 4–6 distinguish perception, inference and trustworthy testimony. Śaiva sources concern the co-presence of knower, means and known, and this Sāṃkhya case supplies its own account of valid cognition. By appointing Objective Internality to the office of means, the essay preserves such differences of warrant.
 
-An [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|account answers to source]] by retaining how its claim was formed and by allowing the counterpart to correct or refuse it. The [appointed bearer](C29-Mediating-Office-Derivative-Sovereignty.md) can exercise real discretion within a commission, and authority to convey or act upon a report remains different from having originated the event it reports.
+An [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust|account answers to source]] by retaining how its claim was formed and by allowing the counterpart to correct or refuse it. The [appointed bearer](C29-Mediating-Office-Derivative-Sovereignty.md) can exercise real discretion within a commission, and authority to convey or act upon a report remains different from having originated the event it reports.
 
 ## #5→0
 
