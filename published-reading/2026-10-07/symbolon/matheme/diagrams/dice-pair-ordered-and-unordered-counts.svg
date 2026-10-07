@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">A pair of dice counted three ways: 36 ordered states, 21 unordered outcomes, 11 totals</title>
+<desc id="d">A six-by-six grid of die A against die B holds the thirty-six ordered states of the pair. The six doubles lie on the diagonal; the thirty other cells fold across it into fifteen mirrored pairs. The pair A=1,B=2 and A=2,B=1 is highlighted: two ordered states with the same values and the same total of three. Three ledgers to the right give the counts under three accounts: thirty-six when each die is tracked, twenty-one when the labels are dropped, eleven when only the total is recorded.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#211d18"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a2f2b"/></marker><marker id="ahm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6f6659"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e3a59"/></marker></defs>
+<rect x="0" y="0" width="1100" height="800" fill="#f5f0e6"/>
+<text x="550" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">DIAGRAM · A PAIR OF DICE, COUNTED THREE WAYS</text>
+<text x="550" y="94" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">the account changes what it retains, and the count changes with it</text>
+<text x="348" y="178" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">B shows</text>
+<text x="80" y="409" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">A shows</text>
+<text x="183" y="197" font-size="16" fill="#6f6659" text-anchor="middle">1</text>
+<text x="136" y="244" font-size="16" fill="#6f6659" text-anchor="end">1</text>
+<text x="249" y="197" font-size="16" fill="#6f6659" text-anchor="middle">2</text>
+<text x="136" y="310" font-size="16" fill="#6f6659" text-anchor="end">2</text>
+<text x="315" y="197" font-size="16" fill="#6f6659" text-anchor="middle">3</text>
+<text x="136" y="376" font-size="16" fill="#6f6659" text-anchor="end">3</text>
+<text x="381" y="197" font-size="16" fill="#6f6659" text-anchor="middle">4</text>
+<text x="136" y="442" font-size="16" fill="#6f6659" text-anchor="end">4</text>
+<text x="447" y="197" font-size="16" fill="#6f6659" text-anchor="middle">5</text>
+<text x="136" y="508" font-size="16" fill="#6f6659" text-anchor="end">5</text>
+<text x="513" y="197" font-size="16" fill="#6f6659" text-anchor="middle">6</text>
+<text x="136" y="574" font-size="16" fill="#6f6659" text-anchor="end">6</text>
+<rect x="150" y="205" width="66" height="66" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="183" y="244" font-size="17" fill="#211d18" text-anchor="middle">1·1</text>
+<rect x="216" y="205" width="66" height="66" rx="0" fill="#ecc9c2" stroke="#8a2f2b" stroke-width="2.4"/>
+<text x="249" y="244" font-size="17" fill="#8a2f2b" text-anchor="middle" font-weight="bold">1·2</text>
+<rect x="282" y="205" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="315" y="244" font-size="17" fill="#6f6659" text-anchor="middle">1·3</text>
+<rect x="348" y="205" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="381" y="244" font-size="17" fill="#6f6659" text-anchor="middle">1·4</text>
+<rect x="414" y="205" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="447" y="244" font-size="17" fill="#6f6659" text-anchor="middle">1·5</text>
+<rect x="480" y="205" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="513" y="244" font-size="17" fill="#6f6659" text-anchor="middle">1·6</text>
+<rect x="150" y="271" width="66" height="66" rx="0" fill="#ecc9c2" stroke="#8a2f2b" stroke-width="2.4"/>
+<text x="183" y="310" font-size="17" fill="#8a2f2b" text-anchor="middle" font-weight="bold">2·1</text>
+<rect x="216" y="271" width="66" height="66" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="249" y="310" font-size="17" fill="#211d18" text-anchor="middle">2·2</text>
+<rect x="282" y="271" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="315" y="310" font-size="17" fill="#6f6659" text-anchor="middle">2·3</text>
+<rect x="348" y="271" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="381" y="310" font-size="17" fill="#6f6659" text-anchor="middle">2·4</text>
+<rect x="414" y="271" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="447" y="310" font-size="17" fill="#6f6659" text-anchor="middle">2·5</text>
+<rect x="480" y="271" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="513" y="310" font-size="17" fill="#6f6659" text-anchor="middle">2·6</text>
+<rect x="150" y="337" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="183" y="376" font-size="17" fill="#6f6659" text-anchor="middle">3·1</text>
+<rect x="216" y="337" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="249" y="376" font-size="17" fill="#6f6659" text-anchor="middle">3·2</text>
+<rect x="282" y="337" width="66" height="66" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="315" y="376" font-size="17" fill="#211d18" text-anchor="middle">3·3</text>
+<rect x="348" y="337" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="381" y="376" font-size="17" fill="#6f6659" text-anchor="middle">3·4</text>
+<rect x="414" y="337" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="447" y="376" font-size="17" fill="#6f6659" text-anchor="middle">3·5</text>
+<rect x="480" y="337" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="513" y="376" font-size="17" fill="#6f6659" text-anchor="middle">3·6</text>
+<rect x="150" y="403" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="183" y="442" font-size="17" fill="#6f6659" text-anchor="middle">4·1</text>
+<rect x="216" y="403" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="249" y="442" font-size="17" fill="#6f6659" text-anchor="middle">4·2</text>
+<rect x="282" y="403" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="315" y="442" font-size="17" fill="#6f6659" text-anchor="middle">4·3</text>
+<rect x="348" y="403" width="66" height="66" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="381" y="442" font-size="17" fill="#211d18" text-anchor="middle">4·4</text>
+<rect x="414" y="403" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="447" y="442" font-size="17" fill="#6f6659" text-anchor="middle">4·5</text>
+<rect x="480" y="403" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="513" y="442" font-size="17" fill="#6f6659" text-anchor="middle">4·6</text>
+<rect x="150" y="469" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="183" y="508" font-size="17" fill="#6f6659" text-anchor="middle">5·1</text>
+<rect x="216" y="469" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="249" y="508" font-size="17" fill="#6f6659" text-anchor="middle">5·2</text>
+<rect x="282" y="469" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="315" y="508" font-size="17" fill="#6f6659" text-anchor="middle">5·3</text>
+<rect x="348" y="469" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="381" y="508" font-size="17" fill="#6f6659" text-anchor="middle">5·4</text>
+<rect x="414" y="469" width="66" height="66" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="447" y="508" font-size="17" fill="#211d18" text-anchor="middle">5·5</text>
+<rect x="480" y="469" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="513" y="508" font-size="17" fill="#6f6659" text-anchor="middle">5·6</text>
+<rect x="150" y="535" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="183" y="574" font-size="17" fill="#6f6659" text-anchor="middle">6·1</text>
+<rect x="216" y="535" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="249" y="574" font-size="17" fill="#6f6659" text-anchor="middle">6·2</text>
+<rect x="282" y="535" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="315" y="574" font-size="17" fill="#6f6659" text-anchor="middle">6·3</text>
+<rect x="348" y="535" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="381" y="574" font-size="17" fill="#6f6659" text-anchor="middle">6·4</text>
+<rect x="414" y="535" width="66" height="66" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="447" y="574" font-size="17" fill="#6f6659" text-anchor="middle">6·5</text>
+<rect x="480" y="535" width="66" height="66" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="513" y="574" font-size="17" fill="#211d18" text-anchor="middle">6·6</text>
+<rect x="150" y="622" width="22" height="22" rx="0" fill="#d9cfba" stroke="#211d18" stroke-width="1.2"/>
+<text x="182" y="639" font-size="15" fill="#211d18" text-anchor="start">double (the diagonal): one state, its own mirror</text>
+<rect x="150" y="655" width="22" height="22" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="182" y="672" font-size="15" fill="#211d18" text-anchor="start">mirrored pair: two ordered states, one unordered outcome</text>
+<rect x="150" y="688" width="22" height="22" rx="0" fill="#ecc9c2" stroke="#8a2f2b" stroke-width="2"/>
+<text x="182" y="705" font-size="15" fill="#8a2f2b" text-anchor="start">the essay's pair: (A=1, B=2) and (A=2, B=1), both with total 3</text>
+<rect x="640" y="190" width="410" height="130" rx="6" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.5"/>
+<text x="660" y="222" font-size="17" fill="#6f6659" text-anchor="start" font-style="italic">keep which die is which</text>
+<text x="702" y="288" font-size="58" fill="#211d18" text-anchor="middle">36</text>
+<text x="764" y="264" font-size="18" fill="#211d18" text-anchor="start">ordered states (A, B)</text>
+<text x="764" y="290" font-size="15" fill="#6f6659" text-anchor="start">6 doubles + 30 off-diagonal cells</text>
+<rect x="640" y="380" width="410" height="130" rx="6" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.5"/>
+<text x="660" y="412" font-size="17" fill="#6f6659" text-anchor="start" font-style="italic">stop caring which die is which</text>
+<text x="702" y="478" font-size="58" fill="#211d18" text-anchor="middle">21</text>
+<text x="764" y="454" font-size="18" fill="#211d18" text-anchor="start">unordered outcomes</text>
+<text x="764" y="480" font-size="15" fill="#6f6659" text-anchor="start">6 doubles + 15 mirrored pairs</text>
+<rect x="640" y="570" width="410" height="130" rx="6" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.5"/>
+<text x="660" y="602" font-size="17" fill="#6f6659" text-anchor="start" font-style="italic">record only the total</text>
+<text x="702" y="668" font-size="58" fill="#8a2f2b" text-anchor="middle">11</text>
+<text x="764" y="644" font-size="18" fill="#211d18" text-anchor="start">totals, from 2 to 12</text>
+<text x="764" y="670" font-size="15" fill="#6f6659" text-anchor="start">the total 3 keeps (1,2) and (2,1) as one entry</text>
+<line x1="702" y1="318" x2="702" y2="372" stroke="#8a2f2b" stroke-width="1.8" stroke-linecap="butt" marker-end="url(#ahr)"/>
+<text x="720" y="350" font-size="15" fill="#8a2f2b" text-anchor="start">drop the labels: 30 cells fold in pairs</text>
+<line x1="702" y1="508" x2="702" y2="562" stroke="#8a2f2b" stroke-width="1.8" stroke-linecap="butt" marker-end="url(#ahr)"/>
+<text x="720" y="540" font-size="15" fill="#8a2f2b" text-anchor="start">drop the values: keep the total</text>
+<text x="550" y="770" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">Nothing mysterious has happened: the account has changed what it retains, so the number answers a different question each time.</text>
+</svg>
