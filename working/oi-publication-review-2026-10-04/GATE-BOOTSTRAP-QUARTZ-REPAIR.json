@@ -1,0 +1,39 @@
+{
+  "schema": "oi.gate-bootstrap-quartz-repair/v1",
+  "observed_at_utc": "2026-10-04T15:27:57.188651+00:00",
+  "standing": "Scoped site bootstrap repair stable in working tree; parent owns commit/push and exact-source native CI replay",
+  "path": "gates/manifest.json",
+  "sha256": "d040d14362f5d4caed9c379d72873364a9f877ef8c563be7e1b3b60ea556e134",
+  "failure_log": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/publication-integration-2026-10-04/.legacy-ci-receipts/gates/receipts/logs/2026-10-04T151035/site-essay-builders.log",
+  "failure": "globby unresolved by actual vendored Quartz util/glob.ts import; 9/10 essay tests passed before that module failed to load",
+  "added_command": "if [ ! -d site/vendor/quartz/node_modules/globby ] || [ ! -d site/vendor/quartz/node_modules/yargs ]; then npm ci --prefix site/vendor/quartz --no-audit --no-fund; fi",
+  "selection": "Runs only through the existing site-area bootstrap",
+  "conditional": "Install vendored Quartz from its native lock when globby or yargs is absent from its own node_modules",
+  "preservation": {
+    "all_gate_definitions_commands_tests_provenance_identical": true,
+    "landing_gate_count": 19,
+    "total_gate_count": 38,
+    "remaining_manifest_identical_after_removing_one_added_command": true,
+    "runner_untouched": true
+  },
+  "validation": [
+    {
+      "check": "Actual manifest JSON parsed",
+      "passed": true
+    },
+    {
+      "check": "Added bootstrap shell command parses with bash -n",
+      "passed": true
+    },
+    {
+      "check": "Only one site bootstrap command was added",
+      "passed": true
+    }
+  ],
+  "not_run": [
+    "No local npm installation",
+    "No full root gate run",
+    "Native CI replay awaits parent publication"
+  ],
+  "product_rebuild_required": false
+}

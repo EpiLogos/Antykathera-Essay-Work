@@ -1,0 +1,111 @@
+{
+  "reviewer": "concept_recovery",
+  "status": "Independent complete old/new source/public changed-operation review accepted at final hashes, within listed source scopes",
+  "records": [
+    {
+      "name": "A27-Self-and-Other-Unity-without-Possession.md.txt",
+      "old_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/preimages/A27-Self-and-Other-Unity-without-Possession.md.txt",
+      "old_sha256": "36ed3bd3c6dd197873cee575587095c2067fc95f3059bcbb566a04e6cf68e52d",
+      "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A27-Self-and-Other-Unity-without-Possession.md.txt",
+      "final_sha256": "708da83f056deab301df9161fbaa7aaad46c67ddb8d9166094ffc0872216705c",
+      "actual_read_scope": "Whole old/new carrier freshly read untruncated; final prime#4/5 and standing replayed49–65 after exact returned quote repair.",
+      "frontmatter_exact": true,
+      "original_headings_retained": true,
+      "display_math_exact": true,
+      "curly_quoted_strings_exact": true
+    },
+    {
+      "name": "A27-prime-Encounter-over-Sovereignty.md.txt",
+      "old_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/preimages/A27-prime-Encounter-over-Sovereignty.md.txt",
+      "old_sha256": "b2958f73cb9f98da48afdaa1afa776531670183060d5a956bf35e8bdea87d48d",
+      "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A27-prime-Encounter-over-Sovereignty.md.txt",
+      "final_sha256": "7e58e97534de1d021fa5559a91ff8598d1e86acf01b584506b4699f6963fe135",
+      "actual_read_scope": "Whole old/new carrier freshly read untruncated; final prime#4/5 and standing replayed49–65 after exact returned quote repair.",
+      "frontmatter_exact": true,
+      "original_headings_retained": true,
+      "display_math_exact": true,
+      "curly_quoted_strings_exact": true
+    }
+  ],
+  "sources": [
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "actual_scope": "Fresh entire actual Watson/encounter contribution§12–25 lines1206–1408, contiguous1206–1304/1305–1408 untruncated. Prior relevant authorial core/fullminute source basis retained; not fresh entire6026line quilt or sourcebooks."
+    },
+    {
+      "path": "working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "sha256": "0387d22a8f59d802261be6e56fce86a137d49d538b95f8b6e79a1beb3fe22b1a",
+      "actual_scope": "Fresh complete§9.5–9.8 lines2687–2825, contiguous2687–2763/2764–2825, plus entire actualQ14 in3552–3567. Exact quote return replayed against this source; no new whole PDF or external edition collation."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "sha256": "d0d3c9d3cd7694dadf34fe3f2ed229266924e01f480a746f71b0560b91df4b54",
+      "actual_scope": "Fresh whole103-line authorial source untruncated. Inclusion versus local possession, primitive/six/eight and trust distinct."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "actual_scope": "Fresh whole124-line authorial source untruncated; synchronic/diachronic and individual image/source/response different offices."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "sha256": "2e3572e75ae1e494ae441a9294a0d71dd98db399e9d3047ba7170efd88090027",
+      "actual_scope": "Fresh whole native selfing/selfimage/selfthing/Subject/Self and Shadow/Friend body untruncated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "sha256": "39df3f4d1e58b199987cb861dd6e71014cfa5e4b35386d4f94ecb33f228310b7",
+      "actual_scope": "Fresh whole current native65-line receiving operation untruncated; gate correction/permission/reciprocal answer distinct."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "actual_scope": "Actual whole current source freshly re-entered during immediate C55, five change sites and fitting retention preserved."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "actual_scope": "Actual whole current f0e58 body freshly re-entered during immediate C55."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_scope": "Actual full102-line governing minute fresh during C55; source-level capacity for question/revision with warranted scope and native functional knowing distinctions."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_scope": "Prior actual complete640 native theorem field retained, fresh selected153–184/420–437/468–511 during C08; no routing-card acceptance."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "sha256": "5a24300768dbf44881d1d2bdbc362ae940f113a921f60e44ff53bca1d68b1389",
+      "actual_scope": "Fresh entire129-line native telling; initial output#5 clipping explicitly reopened75–85 and82–130. Source body includes pursuit/recoil/seemingnod/emblem and retained authored nonpossession operation; public source/amplification wrappers not thereby accepted."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82",
+      "actual_scope": "Fresh entire current native telling; combined output beginning gap explicitly reopened1–35. Source-distinct colonial authority/recognition and unequal power retained; no fresh full French book or promotion of proposed crossings."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "sha256": "c4f8178e1da6419587d843e93873fa048d3e791991b2bf6d59d753de7ccfb7f7",
+      "actual_scope": "Fresh entire139-line current native telling; initial middle clipping explicitly reopened49–101. Bodily differentiation/assumption-of and narrative/primaryhistorical doctrine source offices preserved."
+    }
+  ],
+  "prior_actual_whole_telling_basis": "Complete current Job, Prisoner and Avatar bodies freshly read during immediately preceding independent A32 source replay; prior current Indra complete telling/source review retained. These native bodies support the particular A27 joins, without external quotation/history/readiness upgrades. Their exact bytes are retained in concept-mirror-return/INDEPENDENT-A32-REVIEW.json or prior Indra receipt.",
+  "accepted_operation": [
+    "Native whole includes Other without egoic possession; necessary distinction differs from pole appropriating shared relation; personed AM/IS/copula/countenance permit independent answer; inner Shadow differs from independently answering Friend; stronger model/evaluator/commission revision remains warranted rather than imposed on every correction; sufficient answer correction or reasoned fitting retention inherits nextact with Other still able to answer.",
+    "Prime preserves humanity-of-gaps, partial uncertain identification and protective-model symmetry in both directions. Productive and reactive modes remain simultaneously live; actual risk can still be judged. Proposed mature society and researchquestion remain scenarios; mirror causal continuity differs from initiated sourceward disclosure before demanded conformity.",
+    "All particular Daphne/Fanon/Indra/Mother/Job/Prisoner/Avatar joins retain their distinct bodily/historical/moral aftermaths. No exact lost step or stronger entailment found at changed joins; source/card/page/ID actors replaced by actual relations and source-specific attribution."
+  ],
+  "returned_source_fault": {
+    "prior_prime_sha256": "7578f0e00cfe3631a39bb7a4e5984b11ebf243b4a215fe2293fe099e3066a94e",
+    "finding": "Inherited noncontiguous quote always relational dropped been from actual has always been relational.",
+    "actual_source": "Brief§9.8 fresh whole2687–2825, exact human selfdefinition sentence.",
+    "repair": "Final prime restores has always been relational, defined against what it is not while keeping mature Agentworld conditional continuation and actual proposition.",
+    "retention": "argument-reciprocal-return/PEER-EXACT-QUOTATION-RETURN.json plus before-peer-exact-quotation-return/ retain exact prior draft/exception; all other quotation fields unchanged per worker exact retention."
+  },
+  "limits": "This review accepts these native/source receiving operations, not all public prose in their consumers or a new whole Gans/Levinas/Watson/Bratton/psychological book reading. External quote/edition collation, sourcehistorical causation/clinical/technical/runtime implementation/readiness remains at original exact boundaries. No live/protected/movement/manuscript edits by reviewer."
+}

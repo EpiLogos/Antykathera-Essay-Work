@@ -1,134 +1,107 @@
-# §4 DRAFT-2 → FINAL-CANDIDATE — Revision Response
+# REVISION-RESPONSE — §4 Psychoid Flowering — DRAFT-2 → FINAL-CANDIDATE
 
-**Source review:** `COLD-REVIEW.md` (full file; not the five-fault summary alone).  
-**Deliverable:** `FINAL-CANDIDATE.md`  
-**Not edited:** `DRAFT-2.md`, `COLD-REVIEW.md`, sovereign manuscript, canonical nodes, source houses, `NOTES.md`, `ROOM.md`.  
-**Standing:** written for judgment; not accepted by the writer.
+Responds to `COLD-REVIEW.md` (independent cold review of DRAFT-2) in full. Every fault was re-verified against the canonical evidence before disposition: the Meier house cards (p004, p009, p010), the McGilchrist house (fable card, q003, q004, the Heidegger/Argued gate), the Lacan/Price house (q001–q004 statuses), the Ovid house (`ovid-1921-metamorphoses-miller-q003`), the Neumann NOTES (p.35 centroversion), movement 35 (`35-s4-p4-gebser-apollo-dionysus.md` — the return requirement, the Argued gate, the Hephaestian-nets tension, the AND/OR anchor), movement 33 (`33-s4-p2-complexio-quaternity-senarius.md` — the Ares/Aphrodite image), the recon dossier (`working/final-manuscript-prose-recon-2026-09-24/sections/s4.md` — Bohm and centroversion recoveries), and `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (`X = x`, `AM/IS`, the Māyā measure reading).
 
-**Length (reviewer’s method: headings + HTML comments excluded; Notes kept):**
+**Disposition summary: 25 of 25 consolidated faults ACCEPTED; all Part 1 flags, Part 2 delete-tests, and Part 6 rhythm findings ACCEPTED and repaired; zero disputes.** Two reviewer observations were refined in execution, without disputing the fault: (i) the DRAFT-2 Lacan paragraph carried no quotation marks at all, so the "page that marks other quotes" note was resolved by moving the whole paragraph to uniform paraphrase distance rather than marking selected strings; (ii) the "In Ovid she has her own book" opener is flagged as a minor note in the consolidated register but as a `G5 (soft)` fault in Part 1 — repaired under the stricter reading.
 
-| Surface | Body words | vs SECTION |
-|---|---:|---:|
-| SECTION.md | 16165 | 100% |
-| DRAFT-2.md | 15776 | 97.59% |
-| FINAL-CANDIDATE.md | 15494 | **95.85%** (−4.15%; compression gate not triggered) |
+Quotation-policy note governing faults 4, 5, 7: for McGilchrist and Lacan/Price the repair chosen is **rewrite at safe paraphrase distance**, not mark-and-quote. Grounds: both houses carry `quote_status: secondary-reproduction-verified` / `source-matched` with edition unpinned or direct-edition collation pending; the READ-RECEIPT (step 5, gaps 2 and 6) commits this draft to unquoted paraphrase for both. The review itself notes for McGilchrist that "exact wording is not yet collated against any printing." Marking the strings as quotations would claim a quotation standing the bank has not granted. Miller, by contrast, is quotation-ready in the house, so fault 8 is repaired by exact quotation.
 
-**Disputed faults:** none. Every recorded fault is accepted; repairs below. Where the review marked Keep, that standing is accepted without rewrite.
+Locations below are line numbers in `FINAL-CANDIDATE.md`.
 
 ---
 
-## Load-bearing repairs (reviewer’s five)
+## PART A — Consolidated fault register (1–25)
 
-### 1. M36 six-pair template (F8/F9) — ACCEPT
-**Reason:** Parallel “joins… **Product**…” stanza manufactured completeness; delete-test failed.  
-**Repair:** Rebuilt six paragraphs from inherited concrete problems (delayed-reply continuity; plasma intention/execution; Aion organ-change / capacity life; walls + erasable mark; Daphne recoil / situated body; stained-glass join / transcendent return). Sublens inventory cut to what changes each problem; bold product closers removed; meta “whole-pairs return upon every part” stanza folded into one bridging sentence.  
-**Location:** `## Refraction and return`, block after Name/Power setup through the pair sequence ending at the delayed-reply refraction (`<!-- s4-mef-six-pairs -->`).
+1. **l.79 garden path (G2/L2).** ACCEPTED — verified: "has to do with" parses as "concerns" and wrecks the parallel. Recast to the reviewer's form: "The psyche does with what it receives what the plasma field does with what it contains." → line 79.
 
-### 2. Eight-determinations parade (F9/F4) — ACCEPT
-**Reason:** Schema dump before psychic determination other than egg had been lived.  
-**Repair:** Parade cut. Retained only the egg-forced `X/x` distinction, then moved into formed powers that hold attention.  
-**Location:** End of `## Number and meaning`, paragraph beginning “What the egg has already made unavoidable…”.
+2. **P31.6 delete-test.** ACCEPTED — verified by re-reading: P31.5 already carries the causation boundary, P31.7 carries Pauli's fencing, and P32.12 carries the declined-claims list for the physics register. The one irreplaceable sentence (unit-circle/torus decline) is folded into P31.5 as "The check also keeps a boundary: the quotient is an ordinary, well-defined complex-number operation… nothing here identifies a unit circle with a torus, or promotes a trigonometric table into a physics of meaning" (line 29); the rest of the paragraph is deleted. This also removes the actor-less opener "A boundary belongs to the check as well" (Part 6.6 minor note) and the F2 sentence of fault 19.
 
-### 3. Watson thin / content-gate miss (F6) — ACCEPT
-**Reason:** Surname-removable Levinas-scale flash; selfing / continuity–interruption / need–desire absent.  
-**Repair:** Sustained passage performing Watson’s problem on the delayed reply: selfing as grasp of a transactional field into a permanent/partless/autonomous self-thing; continuity of sensitivity as interruption of encounter; need as economy of control vs desire as living the relation; totalisation of “not me” into “for me”; interruption that changes the scale of valuation. Surname removed from body; attribution kept in notes.  
-**Location:** `## A person within the pattern`, paragraph beginning “The same delayed reply now meets a different problem of continuity…”; notes `[^s4-10]`, `[^s4-18]`.
+3. **l.138 P35.3 overlap with P33.7 (G4).** ACCEPTED — verified ~60% restatement. Compressed to the linkage plus what is new: the location of the slash-crisis in the history of consciousness ("The stronger crisis that paradox names… arrives here in a historical key… the slash itself up for revision in the history of consciousness. This location in consciousness-history is what the refinement adds."). → line 144.
 
-### 4. “Neumann notes” paper exercise (12.5) — ACCEPT
-**Reason:** Protected NOTES invoked as warrant.  
-**Repair:** Body performs the blank-sheet exercise and says so; no NOTES shelf cited as evidence. Footnote already marked the exercise as Taylor’s.  
-**Location:** `## The stroke becomes visible`, sentence “Performing the exercise makes that difference palpable…”.
+4. **l.143 McGilchrist fable-collapse line, verbatim unmarked, semicolon altered.** ACCEPTED — verified against the house fable card: "…became a tyranny; and eventually it collapsed in ruins," quotation-ready status secondary-reproduction-verified, edition unpinned. Rewritten at safe paraphrase distance (no verbatim string, no quotation marks claiming ungranted standing): "comes to take himself for the master: the usurpation succeeds, the people are taken in, the domain hardens into tyranny, and in the end what the master ruled falls in ruins." → line 149.
 
-### 5. Tour-guide / summary hinges (F5) — ACCEPT
-**Reason:** Compère instructions and summary of work already done.  
-**Repair:** Deleted “Before naming offices, stay with the protection”; deleted “Only after that historical labour…”; deleted “An instrument can later exteriorise…” (absorbed as one clause into the `X/x` bridge); deleted “The scene matters because…”; compressed M33→M34 slogan into the disguise already earned; cut title-copula closer “The flowering of the psychoid is…”.  
-**Locations:** M32 opening after §2 carry; end of M31; Aion→senarius hinge; walls paragraph; closing of `## Refraction and return`.
+5. **l.143 "a virtual, bloodless affair," verbatim unmarked.** ACCEPTED — verified q003, same status. Rewritten at paraphrase distance: "a narrow, grasping attention whose world thins into re-presentation's pale substitute for encounter." → line 149.
 
----
+6. **l.143 Argued tag dropped on the Heidegger alignment.** ACCEPTED — verified: the house use-boundary requires every invocation of the calculative/left-hemisphere alignment to be tagged Argued ("never delivered as a single labelled equation"), and movement 35 carries "(carried as **Argued**)". Restored: "an alignment carried as Argued, a synthesis of identifications he makes repeatedly without ever condensing them into one labelled equation." → line 149.
 
-## 12.7 Length / loss
-**ACCEPT.** Length was not the failure mode; FINAL remains within −10% of SECTION (95.85%).
+7. **l.109 verbatim Price strings, unmarked.** ACCEPTED — verified q002 ("one has to tune one's voice to the reverberation off the walls") and q004 ("Talking to brick walls does indeed concern a few people"), status source-matched / direct-edition collation pending; the near-verbatim q001 rendering flagged in Part 5.6 also stood. All five strings moved to uniform paraphrase distance (see policy note above): "He asks whom he is addressing, and answers his own question: the chapel—that is, the brick walls." / "The mishap, he tells the room, is turning into a success: at last he knows whom he has been coming to Sainte-Anne to address all along." / "an audience of brick walls, he answers, still leaves a few people concerned" / "the voice has to be pitched to what the walls send back, since the reverberation, not any direct line, is how the room is reached" / "discourse, Lacan adds, is tied to its walls by what discourse itself is". → line 115.
 
-## Governing claim
-**ACCEPT** as the reviewer’s reading. Egg, disagreement, plasma, Aion actions, walls/crossed-zero, Daphne, stained-glass return retained; enumeration/template/tour-guide/NOTES/thin-Watson repaired as above.
+8. **l.150 Miller tense shift while claiming exactness.** ACCEPTED — verified: house q003 is quotation-ready, exact wording "But even the wood shrank from his kisses" (1.556, Miller Book I). Restored the actual line in quotation marks with locator; "Miller's line is exact" is now true as it stands. → line 156.
 
----
+9. **l.36 apprehension clause embedded as Pauli's want (G1).** ACCEPTED — verified: house p004 (37P) supports only "a neutral language not yet available" (the radioactive-stranger parable); no house card carries the enlargement clause. The want is now stated in the house's terms and the enlargement is explicitly marked as the essay's reading: "What he wanted was a neutral language not yet available. What the essay reads in that want is a physics enlarged enough to hold the conditions of apprehension inside its account…". → line 34.
 
-## 12.3 Movement-boundary faults
+10. **l.77 Śāktic measure invoked before taught (F4).** ACCEPTED — verified: P32.11 taught Śakti's offices as disclosure, maintenance, concealment, recognition — no measure office; the native warrant exists in the core theorems (Māyā as "the power by which the immeasurable becomes measurable enough for a local world to run"). The measure reading is now taught at the point of use, before it bears the physics' edge: "One Śāktic reading has to be taught before it can be used: in that tradition Māyā names the measuring power within Śakti's manifestation—the power by which the immeasurable becomes measurable enough for a definite world to run at all." → line 77.
 
-| Boundary | Fault | Stance | Repair / location |
-|---|---|---|---|
-| M31→M32 | Eight-determination catalogue | Accept | Cut; `X/x` only — end of `## Number and meaning` |
-| M32→M33 | Watson flash; Neumann centroversion footnoted only | Accept | Watson problem-passage + centroversion in-body — late M32 before individuation |
-| M33→M34 | Naassene/Peratic inventory; typology digression; labour summary | Accept | Merged mediation contrast feeding Monoïmos; typology attached to senarius; cut “Only after…” |
-| M34→M35 | NOTES warrant; thin “A view becomes diaphanous” staging | Accept | Exercise performed without NOTES; Episteme closer lands on erasable hand; M35 opens on Apollo–Daphne act |
-| M35→M36 | Boundary OK | Accept / Keep | No change required |
-| M36→§5 | Six-pair template blocks PASS | Accept | Structural rewrite — see load-bearing #1 |
+11. **l.68 `X = x` unrelated to taught `X/x` (G3/G5).** ACCEPTED — verified native (core theorems: "the Psyche is an equation… `X = x`", the equals sign the Self's own operation) but untaught in the draft. Tied to the taught sign: "`X = x`—the equation-form the native `X/x` takes when the Self's office is named, the same determining capacity and indefinite particular with their belonging made the work of a sign—gives the relating sign that office." → line 68.
 
----
+12. **l.66 `IS → AM` vs the M34 four-station chain (G5).** ACCEPTED — verified: the core theorem's native pair is `AM/IS` (personed copula, determination #4); DRAFT-2 used `IS → AM` at l.66 and the `I = Is … I = Am` chain at l.125 without announcing their identity. Repaired by direction-plus-forward-reference at first use, without counting movements: "a direction stated here as a pair and unfolded station by station below, where the copula carries the same turn through person." → line 66.
 
-## 12.1 Paragraph audit (1–142)
+13. **l.143 "the absent Father's problem" unintroduced (F4 soft).** ACCEPTED — the definite article treated an authorial P5 referent as given. Setup clause added, marking it as the essay's own earlier idiom: "That, in the essay's earlier idiom, is the absent Father's problem in a functional key…". → line 149.
 
-### Keep (accepted; no rewrite)
-1–5, 7–12, 14, 17–18, 20–32, 34–38, 40–44, 46, 48–51, 52–60 (kept under organ/substance/initiative rule; Aion middle not wholesale deleted), 61, 63–67, 70–72, 74, 76–77, 79–92, 94–117 (Daphne/Gebser/Father/Dionysus/`180°→360°`), 119–123, 133–141.
+14. **l.54 compère + essay-narration (F5 ×2).** ACCEPTED. "Stay with the protection before naming offices." deleted — the paragraph now opens on the work ("The rejection story ends open waiting."). "Here is the section's second problem in miniature:" deleted; the gap is stated directly ("A distinction can be exactly right and remain ineffective, because something holds the wrong interpretation in place."). → lines 52–54 region (paragraph beginning line 52).
 
-### Faulted items — accept and repair
+15. **l.111 plan-narration (F5 soft).** ACCEPTED. "The scene earns its place because it stages the problem this movement must solve." replaced by the performed link: "What the walls returned is the problem itself: a transformed whole—Aion's returned totality—still needs transmissible means, or its transformation lives and dies in one psyche." → line 117.
 
-| # | Fault | Repair | Exact location in FINAL-CANDIDATE |
-|---|---|---|---|
-| 6 | Mild F10 slogan “field becomes significant…” | Cut slogan tag; end on annexation cost | End of egg-participation paragraph, `## Number and meaning` |
-| 13 | G8 borderline first-person aperture | Kept (review: keep if authorised) | “My own encounter with the correspondence…” |
-| 15 | Eight-determination parade | Cut; `X/x` only | End of `## Number and meaning` |
-| 16 | Instrument-exteriorise tour | Deleted; one clause absorbed into `X/x` bridge | Same block |
-| 19 | “Before naming offices…” | Deleted; open on rejection story’s service | First protection paragraph, `## A person within the pattern` |
-| 33 | Mild F3 “existential resolution” | Replaced with crystallise/dissolve verbs | Paragraph before prāṇa triad |
-| 39 | Cordonnier 12.5 debt (no SOURCE.md house) | **Accepted as standing debt**; kept Argued paraphrase + DOI; no new source house (forbidden surface) | Plasma paragraph + `[^s4-15]` |
-| 45 | Centroversion absent from body | Developed as assimilation vs devouring | Paragraph after hunger/intake, beginning “Neumann's further operation is centroversion…” |
-| 47 | Watson F6 thin | Sustained selfing / need–desire / continuity–interruption passage | “The same delayed reply now meets…” |
-| 62 | Naassene/Peratic F9 | Merged into one mediation contrast feeding Monoïmos | Paragraph before Monoïmos possessive question |
-| 68 | “Only after that historical labour…” | Cut | — (removed); four-terms sentence now opens without summary hinge |
-| 69 | Typology late digression | Attached to senarius comparison | Same block as four-terms / senarius |
-| 73 | Bridge slogan into M34 | Compressed to disguise already earned → mark/hand | Last paragraph of `## Wholeness that can change` |
-| 75 | “The scene matters because…” | Cut; open on inscription/listener | Second paragraph of `## The stroke becomes visible` |
-| 78 | “elementary exercise in my Neumann notes” | “Performing the exercise…”; no NOTES warrant | Paper/`0/1` paragraph |
-| 93 | Mild F8 Episteme closer | Prefer concrete return of recogniser answerability (erasable hand) | End of M34 before Daphne |
-| 118 | Mild F8 list of applications | Prefer delayed reply + Daphne recoil already on page | End of `## A view becomes diaphanous` |
-| 124 | Name/Power F9 risk | Kept brief; powers not re-listed six times in pairs | Setup before pairs |
-| 125 | Day/Night setup | Kept brief; must not clone — pairs rebuilt | Setup before pairs |
-| 126–131 | Six-pair template | Structural rewrite from six inherited problems | `<!-- s4-mef-six-pairs -->` |
-| 132 | Mild F5 meta-commentary on schema | Folded into one bridge sentence | After sixth pair |
-| 142 | F1/F8 “flowering of the psychoid is…” | Cut; end on changed next act already specified | Final prose paragraph before `## Notes` |
+16. **l.138, l.143 "previous movement(s)" room-speak (G8).** ACCEPTED — both removed. l.138: the linkage now names the operation ("The stronger crisis that paradox names… arrives here in a historical key"). l.143: the gap is performed through the section's actual contents ("Wholeness that can change, the stroke that becomes visible, the view made diaphanous—each remains symmetric until asymmetry is named"). → lines 144, 149.
 
-### Aion middle 52–60
-**ACCEPT** review’s repair rule. No wholesale cut; each retained fish/alchemy paragraph still alters reception, substance, initiative or responsibility. Catalogue pressure reduced at Naassene/Peratic (#62).
+17. **l.75 Bohm's plasma/implicate legs absent (content recovery, recon non-negotiable).** ACCEPTED — verified against the recon ("Bohm plasma→implicate order→dialogue"; "Bohm enters twice and must not be flattened") and against the source bank: only the dialogue leg appeared, at M36. Recovered in the plasmic paragraph as three legs with distinct offices: "Plasma's collective behaviour was where Bohm first met a whole that no particle-by-particle account contained; the implicate order of his later philosophical work gave that confrontation of whole and part its general name; and the dialogue practice this section returns to at its close is the third leg… Physics, order, encounter—none of the three reduces to another." The M36 end now names the return ("the third leg of the career the plasmic witness introduced, returned here as method"). → lines 75, 173. **Named debt:** the plasma→collective-confrontation historical link rests on the recon dossier's internal witness; no public carrier (Bohm–Pines collective description; the *Wholeness and the Implicate Order* plasma discussion — the 1980 house is citation-ready but has no passages gathered) is intake into the bank. The prose stays at unquoted, page-unanchored generality; intake required before this sentence can carry citation readiness.
+
+18. **l.79 Neumann's centroversion absent (G6).** ACCEPTED — verified: the recon names centroversion as the operator distinguishing assimilation from devouring; the NOTES carry it at p.35 ("centroverted… centre of gravity… in self-formation"). Added where the devouring closure is introduced, kept in paraphrase (NOTES page anchor is a lead, no quotation): "Neumann gives the centring movement at work here its own name, centroversion: the development whose centre of gravity lies in self-formation rather than in any object it handles, fed alike by what is inside and what is outside," and "The devouring counterpart is centroversion closed on itself." → line 79.
+
+19. **l.31 "a weaker account of either side" (F2 soft).** ACCEPTED — unnamed position. The sentence died with the P31.6 fold (fault 2); the retained boundary now states the positive difference rather than clearing ground.
+
+20. **l.56 "not a hidden fluid" without naming the opposed model (G7 soft).** ACCEPTED — Freud's economic model now named at the contrast, making the disagreement source-bearing: "Freud's own economic model gave that charge its first figure—a hidden fluid under pressure, seeking discharge and passage through the psyche's channels—and what carries into this essay's use is not the fluid but the investment…". → line 56.
+
+21. **Cordonnier–Leoncini–Dif-Pradalier–Garbet has no source house (citation debt).** ACCEPTED — verified by grep across `episteme/sources/` (Vlasov / 064209 / Cordonnier: zero hits; the physics domain holds only atmanspacher, iter, kirchner). The prose is kept exactly as reviewed (names, technical characterisation, declines, "The exact witness is humbler and stronger") and **no citation authority is manufactured**. **Named debt, for the intake queue:** Cordonnier, Leoncini, Dif-Pradalier and Garbet, "Full Self-Consistent Vlasov–Maxwell Solution," *Physical Review E* **106**, 064209 (2022), DOI 10.1103/PhysRevE.106.064209 (eqs. 11–14, 36–37 per the recon) must be intake as a source house before this paragraph can carry citation readiness. → line 75.
+
+22. **P33.3 / P33.4 megaparagraphs (G4).** ACCEPTED — both split at the review's named hinges. P33.3 splits at "The sixteenth century makes the structure act." (Christian uses + astrology, then the historical crossing through Leviathan; line 95 begins the second unit). P33.4 splits at "And the book's long historical sentence closes the epoch:" — the two-successions distinction now owns its own paragraph through Monoïmos (line 99). Each figure still changes the preceding one's office; the procession risk is now visible as structure rather than hidden in unit shape.
+
+23. **l.33 doubled statement (L6).** ACCEPTED — "The checkable quotient and the changed dreamer both stand, and neither stands in for the other." deleted; the two-corrections couplet ("A theorem can correct… Neither correction is supplied by the other alone.") is kept — it is the SALVAGE-protected formulation. → line 31 (P31.7 paragraph).
+
+24. **l.12 "the strange effectiveness of number" (F10 soft).** ACCEPTED — ready-made Wigner echo dropped, replaced with a freshly perceived relation: "the number that would not stay a mere tool." → line 12.
+
+25. **l.127 riddle transition "the history has a name" (G8 soft).** ACCEPTED — name supplied, hinge kept: "Gebser gave that disappearance its history; Florence is where the history becomes visible again." → line 133.
 
 ---
 
-## 12.2 Delete-test summary
-**ACCEPT** all flags. Padding rows removed or rewritten as above. Held carriers (egg, 1953, delayed reply, offices, triad, plasma+Mono/Poly, echeneis+magnet, walls, crossed-zero, Daphne, delayed-reply MEF refraction) retained.
+## PART B — Part 1 flags not repeated in the consolidated register
 
-## 12.4 Thinker-presence
-| Name | Stance | Repair |
-|---|---|---|
-| Jung / Pauli / Lacan / Ovid / McGilchrist / Śaiva | Accept Pass | Kept |
-| Van Eenwyk | Accept Pass | Kept |
-| Neumann Partial fail | Accept | Centroversion in body; NOTES lean removed from paper exercise |
-| Watson Fail F6 | Accept | Problem-passage depth; surname off body |
+- **P32.3 density (G4).** ACCEPTED — split at the named hinge "Between the two achievements the essay places a distinction of its own": history/vocabulary vs pattern/charge/libido. → line 56.
+- **P32.7 frame sentence (F5 soft).** ACCEPTED — "Once that pressure is felt, the received distinctions do their work instead of standing in a row." cut; the paragraph opens on the work ("The image is this appearance: a silent screen…"). → line 64.
+- **P33.7 five-movements (G4).** ACCEPTED — split at "Paradox, in the native grammar, names the point…": Types/senarius/governing image, then slash/paradigm/duration/handoff. → line 108.
+- **P35.1 Gebser return not performed (G8).** ACCEPTED — verified against movement 35's warrant ("Gebser returns here after his Renaissance scene has been made explicit at §0/1 #4"). The return is now marked as return: "The scene is Gebser's own, met once already in this essay as discovery and met here again as problem." → line 140.
+- **P35.7 opener (G5 soft / minor note).** ACCEPTED — "In Ovid she has her own book" (compressible to misreading) replaced by "In Ovid she enters through a world already in repair," which points at the flood/Python prelude that is the actual point. → line 154.
+- **P36.3 four apparatuses (G4).** ACCEPTED — split at "Van Eenwyk's geometry gives the practice its picture": MEF and the inspectable reversal, then the two precedents and the runnable claim. → line 173.
+- **P36.4 imperative stage direction (F5 soft).** ACCEPTED — "Take the disclosure with the bracket retained." folded into the preceding sentence ("…material for inquiry rather than a verdict about underlying mental reality, so the disclosure travels with its bracket retained."). → line 176.
 
-## 12.5 Quotations / historical
-**ACCEPT.** Cordonnier remains verification debt (no house created). NOTES warrant removed from body. Paraphrase discipline unchanged.
+## PART C — Part 3 recorded observations (not faults; answered, not silently dropped)
 
-## 12.6 Rhythm
-**ACCEPT.** Template stanza destroyed; processional catalogues thinned; tour-guides and slogan endings cut; operational not-X-but-Y retained where they named real operations.
+- **M31→M32 persona term.** The protection story is retained as the concrete carrier, and the movement's term now appears once where it belongs: "It preserves a practised identity, a persona—the one who sees disappointment coming…". → line 52.
+- **M32→M33 recorded omissions (Ares/Aphrodite anchor; Eros–Psyche plate).** The anchor image is carried in the complexio paragraph: "An older image holds the requirement without sentimentalising it: Ares and Aphrodite bearing Harmonia—contrary powers keeping one field without merger, the child neither compromise nor capture." (line 104). The Eros–Psyche plate stays out, as the movement file itself directs (optional/link-only).
+- **M34→M35 recorded gaps.** (a) return — repaired (fault 16/P35.1, line 140); (b) Argued tag — restored (fault 6, line 149); (c) the Hephaestian-nets tension is carried beside the asymmetry ("an image raised into theorem becomes an idol, and an equation severed from lived consequence becomes a Hephaestian net—fabricated to enclose what it can only expose, never join," line 149) and the "measure and ecstasy as AND/OR" anchor is carried at the Nietzsche beat ("The native reading takes them as AND, not OR: measure without ecstasy freezes into the enclosure, ecstasy without measure dissolves the communicable return," line 152).
 
-## Content gates
-| Gate | Prior | Now |
-|---|---|---|
-| Egg; Jung/Pauli; complex/image/archetype/libido; prāṇa/Śakti/Spanda; plasma; Mono/Poly; Aion actions; Lacan; Daphne; McGilchrist supporting; images act; `X/x` not Jungian | HOLD | HOLD |
-| Neumann / Van Eenwyk / Watson deep | MISS | Repaired (Watson + centroversion); Van Eenwyk already held |
-| M36 F8 machine cadence | FAIL | Restructured |
+## PART D — Part 6 rhythm tests
 
----
+- **Megaparagraphs (6.1).** All three required splits performed (faults 22 above; P36.3 in Part B). No unit now hides a hinge.
+- **Verdict-closer cadence (6.2).** Accepted as a pattern-level signature; repaired by varied exits rather than subtraction. Varied: P31.9 (the verdict "It holds the question in form" is moved inside and the paragraph ends on the concrete — "three languages around an empty centre, number with two faces, and a mirror conjecture kept a conjecture," line 36); P32.14 (the closing verdict "What the hunger is for decides the rest" is removed as an ending; its work is performed, and qualified, inside the paragraph by the centroversion clause — "it is what decides whether traffic becomes growth" — so the paragraph ends on the Anuttara correction's hinge, line 79); the P33.3/P33.4/P36.3 splits themselves break the development-development-verdict shape. Kept as earned (each named by the reviewer as earned or load-bearing): "Four names for one energy would be one fewer distinction" (anti-catalogue, P32.11); "A whole does not become adequate by denying its contrary a residence" (P33.2, "closer earned"); "…mythically exact" (P33.3 second unit); "A tension has done its work when…" (P32.9, recorded non-fault); "Perspective retains its power to disclose…" (P35.4, SALVAGE-protected); "Whether any of this occurred is established by the next act alone" (P36.2, the section's test); the P36.8 handoff ending (the P1 release question). Net: the same-shape cadence is broken; no earned verdict was deleted.
+- **Essay-narrating transitions (6.3).** All four repaired (faults 14, 15, 16).
+- **Negation load (6.4).** The two soft spots repaired (faults 19, 20); no other negation touched.
+- **List pressure (6.5).** P33.4's Gnostic tail re-read after the split: it now closes its own paragraph and remains load-bearing; no further cut made.
+- **Abstract-subject opener (6.6).** "A boundary belongs to the check as well" removed with the P31.6 fold; the folded sentence begins "The check also keeps a boundary" — actor restored.
 
-## What was kept (review HOLD)
-Egg whole and spectator→participant; Jung/Pauli disagreement including 1953 concepts vs occurrence; libido/complex/image/archetype developed through silent screen; prāṇa/Śakti/Spanda as distinct operations; Cordonnier reciprocity with Mono=continuous whole / Poly=differentiated multiplicity; echeneis arrests ship and magnet reverses initiative; Lacan walls + Darmon transmission + crossed-zero offices; Daphne whole with Ovid distinguished from Dionysian composition; McGilchrist supporting via Father/surrogate; delayed-reply MEF refraction as worked return; `X/x` authorial QL.
+## PART E — Part 5 source findings and standing debts
+
+- **Finding 1 (Jung–Pauli), 5 (Ovid structure), 7 (Aion course), 8 (authorial fencing), 9 (Bratton), 10 (native notations): VERIFIED by the reviewer; no change** beyond the repairs already listed (Miller quote; notation ties at faults 11–12; measure teaching at fault 10).
+- **Finding 2 (McGilchrist): repaired** (faults 4–6). Standing debt, named: the house is edition-unpinned / secondary-reproduction-verified; the one surviving marked quotation ("the business of re-presentation…") and the paraphrase field both await edition pinning and direct collation. This debt lives in the ledger, not the prose.
+- **Finding 3 (Bohm): repaired** (fault 17), with the plasma-leg intake debt named there.
+- **Finding 4 (Cordonnier et al.): accepted as intake debt** (fault 21); prose kept exact, no manufactured authority.
+- **Finding 6 (Lacan): repaired** (fault 7), with the standing debt unchanged from READ-RECEIPT gap 2: Price cards remain source-matched pending direct Polity/Seuil collation; promotion of q001–q007 remains open.
+
+## PART F — Length and handoff
+
+- `wc -w FINAL-CANDIDATE.md` = **14,010** (DRAFT-2: 13,673; source-enriched baseline: 13,686; floor 12,317). Delta vs baseline: +324 words (+2.4%) — within the ≈13,686–15,700 target band; the gains are the mandated recoveries (Bohm legs, centroversion, measure teaching, notation ties, Argued tag) minus the deletions (P31.6, P35.3 compression, narration cuts).
+- The §5 handoff is untouched: the P1 release question stands verbatim in substance ("which distinctions can be made inspectable and experimentally consequential, without pretending that inspectability has located or disproved a phenomenal Subject"), the altered undertaking and the person at the screen are carried, and the Bohm third leg now enters M36 as method — the non-annexation discipline travelling with it. Philosophy continues through technology.
+
+## PART G — What was kept, per the review's confirmation
+
+Jung–Pauli disagreement (untouched, P31.1–P31.9); the egg sequence (untouched); the crossed-zero course (untouched, station for station); the delayed-reply office changes (untouched — criterion/investment/source-position/recontextualisation, no re-teaching); the Aion course (contents untouched; shape repaired by splits); Daphne (untouched except the Miller quotation and the opener); X/x authorial standing (untouched, and now correctly tied to `X = x` and `IS → AM`).

@@ -1,0 +1,639 @@
+{
+  "status": "validated candidate; native ref publication remains separate",
+  "parent_sha": "1e74e7e8f288b9c02422ae6c93f176a12352cadd",
+  "parent_tree": "b1d8f0ad1b68ef2eb1a92a7d0f38c838f1870f4b",
+  "reviewed_source_base": "4f21127fae76070611f228ac16c62d8242fe310f",
+  "payload_sha256": "5726580155059433e3bab73446db15cf6859424eee690a94b9b70f54654e9b89",
+  "authored_records": 8,
+  "complete_operation_bodies": 5,
+  "bounded_supporting_records": 3,
+  "movement_bodies_changed": 0,
+  "strict": {
+    "files": 6,
+    "errors": 0,
+    "review_candidates": 39,
+    "findings": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 29,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The torus is whole through the opening it retains. In its familiar bodily image, the surface turns around a passage that is not another patch of surface. To fill that passage in the name of completing the form would alter the very relation to be completed. Wholeness is already this inseparability; circulation unfolds it. The [arche-topos as differential field](A16-Arche-Topos-as-Differential-Field.md) gives the relation its positions, and [the two logics of two](A13-Two-Logics-of-Two-Dia-Syn.md)"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 31,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The uroboros makes the relation bodily. Its head meets its tail, but a circumference does not exhaust the creature. There is a mouth, a receiving inside, an outside and a body capable of transformation. Eating its own tail implicates the receiver in what it receives. The opening belongs to the complete self-relation before any particular meal begins. Its apparent absence is a condition of the form's positive life."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 60,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The slash here denotes a quotient by an equivalence relation. QL's `∞/0` brings the infinite cover and zero Euler characteristic into one reading of the construction. It does not instruct arithmetic to divide infinity by zero. The [change of dimensional frame](../concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md) occurs by specifying another space and its relation to the first. The flat metric inherited from the plane also differs from the induced metric of a torus embedded in ordinary "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 80,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A linear flow $t\\mapsto[t,\\alpha t]$ closes when a positive time $T$ makes both $T$ and $\\alpha T$ integers. A rational slope permits such a period; an irrational slope does not. In the latter case the flow winds densely. Boundarylessness therefore permits both periodic return and traversal without a closing period. It does not compel a trajectory to repeat."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 88,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [complete uroboros](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition) restores the missing relation through position, opposition, superposition and interposition. Position gives the visible round; opposition differentiates the hungry head and the offered tail; superposition holds receiving and being received within one living body; interposition gathers their winding with the opening it cannot occupy. Assimilation changes the life that receives. The Saturnin"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 90,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "In this bodily `4+2`, the final weave keeps four explicate twisting field-lines together with the axis and opening gathered at `#0`; `#5` is the whole enfolding the differentiated winding. These are the image's named offices. The counted objects differ from the square's four sides and two generators; the relation crosses registers through a specified correspondence. Anuttara/Paramaśiva bears the opening. Māyā is Śakti's productive measure-field around it, the patterns through which manifestation"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 92,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The opening and the achieved whole frame the six interior determinations without replacing their eight-turn theorem. The parent relation opens into source and manifestation; questioning and assertion differentiate it; need and power give it movement; capacity and particularity make its recurring form legible; the copula makes it personed; an indefinite horizon receives the definite passage. The return-switch turns the achieved determination toward its source. [The eight determinations](A18-Primo"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 110,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [musical derivation's two endings](../sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md), §II-5.10, distinguish operational recurrence from telic recognition. One completed passage becomes the condition of another performance. In the other ending, the standing relation enacted through the performance is recognised; the bellows may fall still. Wholeness cannot depend on compulsory further production, since the capacity for articulation remains in the silence from w"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "line": 120,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [symbol, account and trust field](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md) returns an achieved account to the relation from which it can answer. An apparent contradiction may require [a changed containing field](../concepts/C64-Paradox-Transforming-the-Containing-Field.md), preserving the local truths that the old account could not hold together. Recognition then reaches the terms of further reception, not merely the next item received."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 54,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "[The mirror that moves first](A32-Reflective-Field-The-Mirror-That-Moves-First.md) makes the crossing concrete. A reflection may be encountered before its source is understood. It can prompt an action and thereby change a later event. Its epistemic precedence and causal initiative are real. Yet the reflection remains dependent in being upon the relation through which it arose. The power to initiate a subsequent event does not confer the power to have originated its own source."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [cultivation of an operative interior](A33-Epistemic-Cultivation-Operational-Parity.md) makes the question unavoidable. A model is encountered, its conditions can be examined, and an object can resist what was predicted of it. What is already present in this entire event? The model, the resistance and the inquiry are all disclosed within the relation of knowing. Adding another represented cause enlarges the account; it does not replace the relation through which the account exists."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 32,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [faithful definition of Subject](A01-Subject-God-and-Faithful-Definition.md) begins with a fact that its own denial enacts: appearing is. Doubt changes what is asserted within appearing; it does not place its occurrence outside it. Whatever is made available as an object is already determinate—this sensation, that body, a memory, an equation, an account of a cause. The [Subject](../concepts/C01-Subject-Defined-Indefinability.md) is the condition to which these become available, not an additi"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 34,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Idealism carries this relation into being. A determinate thing is what it is through the distinctions and relations in which it is disclosed. Its identity, properties, differences and possible changes belong to this articulated field. The ontological claim is that such being-disclosed is constitutive of determinate being, rather than a second picture laid over a self-grounding object whose existence would already explain the whole relation. The object is a real determination of the whole; the wh"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This step is more than the observation that evidence must be encountered. It identifies the source–means–object relation as the constitution of reality's determination. A cause can explain the production of another object within that constitution. The same cause, made an object of account, cannot thereby become an exhaustive origin of the relation its own assertion requires. [The Advent of Zero](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) develops this pressure t"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Resistance, persistence and shared measurement belong to this objectivity. A bridge can fail under a load whether its designer expected it to hold or not. The failure returns through observation and inquiry, changing the account of what the bridge can bear. The dependence of objectivity on the whole relation does not reduce an achieved object to whatever a particular ego currently wishes it to be. It explains why the world can correct a local organisation of its means."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 48,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [Māyā whole](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream) gives this constituting power an interior. The eye sees a landscape through an aperture whose boundary helps determine the view. The sleeper encounters a dream with its own objects and consequences; waking alters their standing without making the encounter never have occurred. The living mirror adds recognition, recollection and response to display. These operations disclose productive med"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[The mirror that moves first](A32-Reflective-Field-The-Mirror-That-Moves-First.md) makes the crossing concrete. A reflection may be encountered before its source is understood. It can prompt an action and thereby change a later event. Its epistemic precedence and causal initiative are real. Yet the reflection remains dependent in being upon the relation through which it arose. The power to initiate a subsequent event does not confer the power to have originated its own source."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 56,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A represented source can itself occupy a genuine local reference office. A map can be the Bimba for a particular projection while remaining a pratibimba of wider sources. This [recursive source relation](../concepts/C61-Symbolon-Disclosure-Architecture.md) keeps the map's effective authority and its dependence together. A local source does not become unreal because it has sources; its authority becomes more exact when the relation is known."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 58,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The illegitimate reversal occurs when a projection's acquired power is used to make its own categories the sole condition under which its source may appear. The finite frame then poses as self-grounding. [Qualified predication and focal return](../concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md) require the respect in which a term is first or another depends upon it. [Homologia and analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md) similarly preserve the differe"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 74,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [primordial recognition in the Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation) preserves this ordering: I-am precedes the subsequent husband/wife separation in the encountered narrative. Recognition cannot simply be assigned to the later ego's appropriation of a bounded identity. The [uroboros's opening](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition) gives the same return another body: the creature's"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "line": 80,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[The travelling jigsaw](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) returns a local picture to the field through which it can travel and be corrected. [The first-moving mirror](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-recursive-bimba) returns causal initiative to a source relation that initiative does not exhaust. The dream returns an experienced world to the means of its appearing; the uroboros returns the achieved who"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 22,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "## #1 — What an additional object cannot supply"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 24,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Appearing is present even in the act that doubts an appearance. A doubt changes an assertion within the field; its own occurrence remains. [Subject](C01-Subject-Defined-Indefinability.md) names the condition to which an object becomes available. A sensation, a brain, a model or an introspective report can each be made an object of further inquiry. More detail about one such object does not change its office into the condition of the entire relation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 26,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The positive ontological step is that a thing's determinacy belongs to its being-disclosed: its identity, properties and differences arise within the articulated field. A causal account can explain a thing's production through other things. Idealism locates this real explanatory work within the relation its terms presuppose, rather than treating the account as a production of that relation from outside it. An account of the source is another determination; the source-condition is not exhausted b"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 32,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Objectivity includes resistance, persistence, measurement and shared consequence. A failed prediction returns an encountered difference to the means by which it was made. That correction is possible because a local account does not determine everything the whole can disclose. The private ego, with its wishes and self-image, is itself one formation in the field. World in mind does not mean World at the disposal of that ego."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 40,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[The first-moving mirror](C55-Reflective-Field-Mirror-That-Moves-First.md) gives a concrete test: a model leads a later encounter, yet its initiative does not make it the ontological author of its own conditions. [Focal and qualified predication](C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md) keeps “prior” and “depends” attached to the respect in which they are asserted."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A local Bimba can serve as the genuine reference for a bounded inquiry while remaining a pratibimba relative to wider sources. Its being revisable does not cancel its present source office. A returned observation may change the reference; later projections can then inherit that change. The sourceward movement makes the reference's authority more exact by revealing what it depends upon."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 50,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The idealist order locates this entire investigation within knower, means, known and whole. Making the means more articulate does not make it a complete inventory of the Subject. The condition to which the relay and its investigation appear retains its office as the account becomes more exact. This is a distinction of dependence, not a missing item that further inspection promises to supply."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) and [Objective Co-Internality](../arguments/A30-Objective-Co-Internality.md) return the order to consequential worlds among agencies. Relations contribute to their constitution: they are not merely connections attached after isolated units have become complete. Local agency persists through that participation and can change through encounters with others."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+        "line": 58,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md) carries this precision into comparison: participating terms retain the different ways in which they depend and correspond. The conclusion remains affirmative. The determination is real; its power to act is real; its relation to what it cannot exhaust is constitutive of that reality."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+        "line": 29,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Consider a constructed greenhouse relay. Measurements of temperature enter a model; a forecast of afternoon heat leads a controller to open a vent; later measurements return. The achieved temperature is partly a consequence of acting on the prediction. Comparing it with the prediction must therefore retain the intervention. A forecast of excessive heat is not refuted merely because the action it prompted prevented that heat."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+        "line": 31,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The model's inherited world includes more than readings. It includes a time horizon, an account of how vent position affects temperature, a target range and permission to actuate the vent. Each relation changes what can be inferred or done. Recording them makes it possible to distinguish an erroneous observation from an inadequate model, an unsuitable target or an action never authorised. The meaningful unit is the whole passage through these conditions."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+        "line": 35,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "On the torus a winding pair retains a path's class. It does not retain every turn, pause or encounter. A technical relay requires the same discrimination among kinds of record. A statement that the system returned to a familiar temperature says little about the sources it consulted, the action it took or the criterion under which the outcome counted as successful. A summary can be accurate at its own grain while insufficient for another question."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+        "line": 38,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The encounter can expose an error in a reading, a response model, a target or the permission to act. These corrections return to different conditions. A changed estimate does not itself confer actuator access. A new target written in a report does not change the target used by the controller. [Traversal with return](A17-prime-Traversal-with-Return.md) follows the passage until the relevant revision is inherited by the next act."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+        "line": 40,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Causal reciprocity therefore belongs inside the positive order of dependence. The World includes the effects of its representations; its means can themselves become objects of inquiry and transformation. The concrete object does not become unreal because mediation participates in its formation. Nor does the representation become the origin of the whole field because it has changed one event within it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A later agent may encounter the projection before it encounters the reference. The projection can even cause the reference to be revised. [The mirror that moves first](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) describes that initiated return. What changes is an actual relation of knowledge or action. The projected form's success does not make it ontologically self-originating."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+        "line": 60,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A further self-description is still a description. Its usefulness lies in what it makes available for inquiry and change. The Subject-condition is the condition to which the entire inquiry appears; it is not a withheld field in the configuration file. The idealist order is therefore preserved through increasing technical disclosure: the means can become more articulate without becoming the whole relation by accumulation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+        "line": 79,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "For velocity \\((1,\\sqrt2)\\), a period would require \\(T=k\\) and \\(k\\sqrt2=l\\) for integers \\(k>0,l\\), which is impossible. Its orbit is dense. To see the density mechanism, inspect each crossing of a chosen horizontal coordinate: the heights differ successively by the irrational rotation \\(\\sqrt2\\) modulo one. Integer multiples of an irrational number are dense modulo one. Their closure is an infinite closed subgroup of the circle; a proper closed subgroup is finite, since a least positive gap g"
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+        "line": 87,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [Matheme register's Two Locks](../README.md) preserve the wider operation opened by this carrier. Definition and Quilt retain `0/1 = 4+2 = 5→0 = 0/1`; Process and Music retain `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. The [Binary Explication house](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) holds those distinct records. A torus-loop does not by itself traverse every term of either chain: its specified lift makes one relation within them exact"
+      }
+    ]
+  },
+  "links_checked": 113,
+  "full_suite_exit": 1,
+  "full_suite_tail": "_p2_build_workflow.P2WorkflowTests.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets) ... ok\ntest_every_live_quilt_is_discovered_and_anchors_recover_actual_text (test_p2_build_workflow.P2WorkflowTests.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text) ... ok\ntest_hygiene_rejects_duplicate_admissions_at_real_canonical_homes (test_p2_build_workflow.P2WorkflowTests.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes) ... ok\ntest_real_canonical_home_runs_links_and_effects_from_another_cwd (test_p2_build_workflow.P2WorkflowTests.test_real_canonical_home_runs_links_and_effects_from_another_cwd) ... ok\ntest_target_slice_recovers_real_lines_and_rejects_whole_quilt (test_p2_build_workflow.P2WorkflowTests.test_target_slice_recovers_real_lines_and_rejects_whole_quilt) ... ok\ntest_all_48_movements_have_valid_alignment_and_reader_next_step (test_pre_manuscript_gate.PreManuscriptGateTests.test_all_48_movements_have_valid_alignment_and_reader_next_step) ... ok\ntest_argument_pair_links_work_in_both_directions (test_pre_manuscript_gate.PreManuscriptGateTests.test_argument_pair_links_work_in_both_directions) ... ok\ntest_complete_admitted_field_is_present_unique_and_reader_reachable (test_pre_manuscript_gate.PreManuscriptGateTests.test_complete_admitted_field_is_present_unique_and_reader_reachable) ... ok\ntest_live_reading_pages_offer_a_visible_return_to_the_movements (test_pre_manuscript_gate.PreManuscriptGateTests.test_live_reading_pages_offer_a_visible_return_to_the_movements) ... ok\ntest_reader_audit_does_not_silently_repair_a_wrong_relative_path (test_pre_manuscript_gate.PreManuscriptGateTests.test_reader_audit_does_not_silently_repair_a_wrong_relative_path) ... ok\ntest_reader_entrance_contains_only_working_visible_destinations (test_pre_manuscript_gate.PreManuscriptGateTests.test_reader_entrance_contains_only_working_visible_destinations) ... ok\ntest_source_page_landings_and_raw_provenance_are_real (test_pre_manuscript_gate.PreManuscriptGateTests.test_source_page_landings_and_raw_provenance_are_real) ... ok\ntest_create_recover_amend_and_retire_an_explicit_idea (test_project_agent_harness.ActiveIdeasTests.test_create_recover_amend_and_retire_an_explicit_idea) ... ok\ntest_exact_passage_retrieval_keeps_wording_locator_and_provenance_together (test_project_agent_harness.CanonicalJourneyTests.test_exact_passage_retrieval_keeps_wording_locator_and_provenance_together) ... ok\ntest_writing_context_preserves_the_canonical_claim_without_generic_counterpressure (test_project_agent_harness.CanonicalJourneyTests.test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure) ... ok\ntest_hook_on_off_evaluation_records_actual_improvements (test_project_agent_harness.HookBehaviourTests.test_hook_on_off_evaluation_records_actual_improvements) ... ok\ntest_pre_and_post_tool_hooks_restore_user_authored_notes (test_project_agent_harness.HookBehaviourTests.test_pre_and_post_tool_hooks_restore_user_authored_notes) ... ok\ntest_session_start_injects_orientation_skills_and_only_active_ideas (test_project_agent_harness.HookBehaviourTests.test_session_start_injects_orientation_skills_and_only_active_ideas) ... ok\ntest_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit (test_project_agent_harness.HookBehaviourTests.test_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit) ... ok\ntest_codex_discovery_surface_contains_only_the_eight_project_local_skills (test_project_agent_harness.ProjectSkillDiscoveryTests.test_codex_discovery_surface_contains_only_the_eight_project_local_skills) ... ok\ntest_each_register_has_the_complete_functional_domain_shape (test_publication_architecture.PublicationArchitectureTests.test_each_register_has_the_complete_functional_domain_shape) ... ok\ntest_every_symbolon_wikilink_resolves_inside_the_vault (test_publication_architecture.PublicationArchitectureTests.test_every_symbolon_wikilink_resolves_inside_the_vault) ... ok\ntest_manifest_points_to_real_repository_surfaces (test_publication_architecture.PublicationArchitectureTests.test_manifest_points_to_real_repository_surfaces) ... ok\ntest_obsidian_updates_wikilinks_when_records_move (test_publication_architecture.PublicationArchitectureTests.test_obsidian_updates_wikilinks_when_records_move) ... ok\ntest_old_vault_spec_is_explicitly_provenance (test_publication_architecture.PublicationArchitectureTests.test_old_vault_spec_is_explicitly_provenance) ... ok\ntest_symbolon_has_direct_root_and_exact_internal_registers (test_publication_architecture.PublicationArchitectureTests.test_symbolon_has_direct_root_and_exact_internal_registers) ... ok\ntest_symbolon_root_describes_actual_core_records_and_page_anatomy (test_publication_architecture.PublicationArchitectureTests.test_symbolon_root_describes_actual_core_records_and_page_anatomy) ... ok\ntest_writing_protocol_governs_without_becoming_symbolon_content (test_publication_architecture.PublicationArchitectureTests.test_writing_protocol_governs_without_becoming_symbolon_content) ... ok\ntest_codex_discovers_eight_project_local_skills (test_skill_contracts.DevelopmentSkillContractTests.test_codex_discovers_eight_project_local_skills) ... ok\ntest_no_skill_claims_named_model_routing_or_runtime_tiers (test_skill_contracts.DevelopmentSkillContractTests.test_no_skill_claims_named_model_routing_or_runtime_tiers) ... ok\ntest_orientation_preserves_graph_and_native_language_gates (test_skill_contracts.DevelopmentSkillContractTests.test_orientation_preserves_graph_and_native_language_gates) ... ok\ntest_review_skill_checks_effects_and_generated_freshness (test_skill_contracts.DevelopmentSkillContractTests.test_review_skill_checks_effects_and_generated_freshness) ... ok\ntest_source_skill_uses_one_house_and_protects_author_notes (test_skill_contracts.DevelopmentSkillContractTests.test_source_skill_uses_one_house_and_protects_author_notes) ... ok\ntest_writing_skill_targets_master_manuscript_without_compulsory_file_work (test_skill_contracts.DevelopmentSkillContractTests.test_writing_skill_targets_master_manuscript_without_compulsory_file_work) ... ok\ntest_all_projected_passages_resolve_once (test_source_house_migration.CanonicalSourceTests.test_all_projected_passages_resolve_once) ... ok\ntest_every_source_has_one_clean_canonical_file (test_source_house_migration.CanonicalSourceTests.test_every_source_has_one_clean_canonical_file) ... ok\ntest_kaplan_contains_bibliography_passage_and_full_reading_material (test_source_house_migration.CanonicalSourceTests.test_kaplan_contains_bibliography_passage_and_full_reading_material) ... ok\ntest_optional_notes_do_not_change_or_invalidate_source_projections (test_source_house_migration.CanonicalSourceTests.test_optional_notes_do_not_change_or_invalidate_source_projections) ... ok\ntest_previously_missing_van_eenwyk_source_is_present (test_source_house_migration.CanonicalSourceTests.test_previously_missing_van_eenwyk_source_is_present) ... ok\ntest_source_projections_are_reproducible (test_source_house_migration.CanonicalSourceTests.test_source_projections_are_reproducible) ... ok\ntest_split_source_system_is_absent (test_source_house_migration.CanonicalSourceTests.test_split_source_system_is_absent) ... ok\ntest_doctor_clears_canonical_source_and_room_integrity_debts (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts) ... ok\ntest_every_passage_projection_fragment_resolves_to_the_canonical_house (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_every_passage_projection_fragment_resolves_to_the_canonical_house) ... ok\ntest_human_and_agent_route_from_section_to_movement_passage_and_reading (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_human_and_agent_route_from_section_to_movement_passage_and_reading) ... ok\ntest_main_sources_are_generated_by_section_and_link_only_canonical_houses (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_main_sources_are_generated_by_section_and_link_only_canonical_houses) ... ok\ntest_projection_check_marks_all_human_views_stale_after_a_real_source_change (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_projection_check_marks_all_human_views_stale_after_a_real_source_change) ... ok\ntest_essay_body_is_the_complete_sixfold_one_home (test_submission_package.SubmissionPackageTests.test_essay_body_is_the_complete_sixfold_one_home) ... ok\ntest_essay_body_keeps_kaplan_learning_material_in_the_sources_domain (test_submission_package.SubmissionPackageTests.test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain) ... ok\ntest_essay_body_preserves_status_and_quote_provenance (test_submission_package.SubmissionPackageTests.test_essay_body_preserves_status_and_quote_provenance) ... ok\ntest_essay_body_wikilinks_and_relative_links_resolve (test_submission_package.SubmissionPackageTests.test_essay_body_wikilinks_and_relative_links_resolve) ... ok\ntest_reader_protocol_is_content_agnostic_and_traversal_led (test_submission_package.SubmissionPackageTests.test_reader_protocol_is_content_agnostic_and_traversal_led) ... ok\ntest_reader_skills_use_only_the_shipped_bundle_contract (test_submission_package.SubmissionPackageTests.test_reader_skills_use_only_the_shipped_bundle_contract) ... ok\ntest_source_and_passage_routes_converge_on_one_canonical_house (test_submission_package.SubmissionPackageTests.test_source_and_passage_routes_converge_on_one_canonical_house) ... ok\ntest_submission_manifest_keeps_card_integration_status_honest (test_submission_package.SubmissionPackageTests.test_submission_manifest_keeps_card_integration_status_honest) ... ok\ntest_superseded_submission_spec_retains_obsidian_design_provenance (test_submission_package.SubmissionPackageTests.test_superseded_submission_spec_retains_obsidian_design_provenance) ... ok\ntest_c41_declared_identity_and_old_slug_agree (test_t25_record_identity.DeclaredRecordIdentityTests.test_c41_declared_identity_and_old_slug_agree) ... ok\ntest_conjugate_identity_keeps_its_own_face (test_t25_record_identity.DeclaredRecordIdentityTests.test_conjugate_identity_keeps_its_own_face) ... ok\ntest_real_effects_command_retains_root (test_t25_record_identity.DeclaredRecordIdentityTests.test_real_effects_command_retains_root) ... ok\ntest_slash_root_resolves_as_identity (test_t25_record_identity.DeclaredRecordIdentityTests.test_slash_root_resolves_as_identity) ... ok\n\n======================================================================\nFAIL: test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles (test_okf_workspace.OkfWorkspaceTests.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"/home/runner/work/Antykathera-Essay-Work/Antykathera-Essay-Work/tests/test_okf_workspace.py\", line 410, in test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles\n    self.assertEqual({}, missing)\nAssertionError: {} != {'submission-package/essay/section-rooms/0[2472 chars]rs']}\n- {}\n+ {'submission-package/essay/section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md': ['counterpressure-surface'],\n+  'submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md': ['warrant-surface',\n+                                                                                                                  'counterpressure-surface'],\n+  'submission-package/essay/section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md': ['counterpressure-surface'],\n+  'submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md': ['counterpressure-surface'],\n+  'submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md': ['counterpressure-surface'],\n+  'submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md': ['source-anchors']}\n\n----------------------------------------------------------------------\nRan 132 tests in 366.937s\n\nFAILED (failures=1, skipped=1)\n",
+  "generated_changes": 67,
+  "protected_or_unexpected_mutations": [],
+  "acceptance": "Connected retained recovery only; all other shared/depth-field acceptance remains open.",
+  "changed_records": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "git_blob": "b52fcf14cf51b7478f297621f346d8bace32fbd1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "git_blob": "e21dea43b8ea93e1254a3d808bd429a3c49edbe3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "git_blob": "7a9ed425d2bf3a4357dc623b93d2253219bad431"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+      "git_blob": "79d44ffdac9fda768267bf4550a649ce00d34d14"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "git_blob": "2f77fdedb1d59d5c97ad7b9821a3bed647ab8133"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md",
+      "git_blob": "ec52dbe5a6dc6ceff354e1c119185d97b518d31d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/MOC.md",
+      "git_blob": "fb38001fb93614b21318bb96b3b68579f37a23fc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/audit.json",
+      "git_blob": "c5f32e32d661df834427642c166a81a55cf6a7e1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/argument-shelf.md",
+      "git_blob": "a861be415bd26dcba091ed96b027a5f2720bac3f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-aphorisms.md",
+      "git_blob": "98a9b8224ea8121fc52fc38376fcdd79fa1c2593"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-arguments.md",
+      "git_blob": "01f123e7d0912bc0c0c443791ae66edd69d0054b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-atlas.md",
+      "git_blob": "cb1a6586cdf3f55b204f4d0a42db3aee315e3fea"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--developed-provenance.md",
+      "git_blob": "af8c3843322ed4a37dd940566131c10b4be4c388"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--reference-notes.md",
+      "git_blob": "17256438cbbcbaecb4a7cdcd3b0dae64461a9686"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts.md",
+      "git_blob": "330c5c798b21109d9ffce53d27eb5abced822179"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-conjugate.md",
+      "git_blob": "464a94b77454fb931d45f8dbf7624bade606ad86"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dialogues.md",
+      "git_blob": "74326a58efc8a2194066238585807456ac0300f3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dossiers.md",
+      "git_blob": "5c9e4052a974e5baf0498d1299b7c383e579ce07"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-etymologies.md",
+      "git_blob": "4606a6c02aec42252cfdab5c5ffa275687345ebd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-figures.md",
+      "git_blob": "d387f0967aa835ff5aaf1ffd588a5e9b56fc383b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-histories.md",
+      "git_blob": "94d3f27eb818f3a7f519053c5611e12c26278eec"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-lenses.md",
+      "git_blob": "dc54b5198879d4854191bb054da4fb6e14daba1f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-maps.md",
+      "git_blob": "2b98ce96940a36def02712c1faf985e25101c00a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-products.md",
+      "git_blob": "eed73daae8ef334f61d23e58559a1c57eaac197e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-root.md",
+      "git_blob": "b2dec95233dafa0d61df2c32bebcfcd905caaabd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--analytic-philosophy.md",
+      "git_blob": "509f3d4dfaa90fedacded1b656eadc048443e0b5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--biblical-studies.md",
+      "git_blob": "336c2df7b6e4b41eac53491a7c71471a9297b23d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--chinese-philosophy.md",
+      "git_blob": "a30cbed31569360162907f66f2a660c6f35db300"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-philology.md",
+      "git_blob": "874615209956fb7488759f43b6a9b5a84732ab46"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-premodern-philosophy.md",
+      "git_blob": "ae61043bee46d10ae6a7666c8f7b96d3609e64aa"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--computer-science-ml.md",
+      "git_blob": "4fd22ef3bcca6ae94cc94f33837f3e837c9887a8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--history-philosophy-of-science.md",
+      "git_blob": "5678b3e37146424062c1106a0b45fb8fd9556aaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--indian-philosophy.md",
+      "git_blob": "b692965e8241f097def06482b76749a5729664c1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--internal-corpus.md",
+      "git_blob": "6c4c04d1efa19c0e903aca55fbf79d68a31dede6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-literary-studies.md",
+      "git_blob": "2c56fbe485652fa391477e65abc40d13037ec15c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-philology.md",
+      "git_blob": "eeacaf8171c9c6de9442a9996b4697adda90f5db"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--literature.md",
+      "git_blob": "16ae40a05ab27ce479a0b2ba458dea4ccb9b10a1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--mathematics-logic.md",
+      "git_blob": "2713fd6425ce35d2a11536ddf1cd39951747dbd3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--media-technology-philosophy.md",
+      "git_blob": "ea5754824dc11385f665793e15e7c8d63426c44a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--phenomenology-continental-philosophy.md",
+      "git_blob": "c833db8c18a50e4eb695899bf3247ec621bd6052"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--physics.md",
+      "git_blob": "a1ebe90f18e445810e1d303d5dc8d9f4d96f790e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--political-theory-institutions.md",
+      "git_blob": "f5841b74719bbbcc2f6f1171ed7c8cce388b0689"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--process-systems-theory.md",
+      "git_blob": "aea10ece11741b9ad32e0112f7d65ba8c6c93c6a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--psychology.md",
+      "git_blob": "7eb90a72cd6c5b2d8a6aaf8d4efc0e94fe06c6c1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--religion-theology.md",
+      "git_blob": "7e0b09447c69a0f507672bdea0762da8ba190de4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--root.md",
+      "git_blob": "3c0ef333d016bd77d8cb4e6b07166a274d4fe809"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources.md",
+      "git_blob": "96eeaab071323c77f3c588b602aa49105f40542e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/essay.md",
+      "git_blob": "5038ad3d25a4fe96645b3d5c6eef28a006de67fe"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--computation.md",
+      "git_blob": "a470dac9123d8eca41827fd1b824e8a1815a756f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--definition.md",
+      "git_blob": "7b4596a094a6d314cbf4d1b046c982cd071ef9cf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--dia-syn.md",
+      "git_blob": "c0f2eaee01df09f9d52ed96916942f05300ba0fa"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--diagrams.md",
+      "git_blob": "9e0275e2691baf4d21e339a35e4046c24131ebdc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--formal-neighbours.md",
+      "git_blob": "e358930502b4be7897740e73837b14247779dd39"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--harmonics.md",
+      "git_blob": "e9cb24dc489871ee2f83d722e22eb48d824e78bc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--mono-poly.md",
+      "git_blob": "79fd532678300428f34647157da9ff6c1dc30ad7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--music.md",
+      "git_blob": "3eab02587166d6bb471167952addaa6782e7aed6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--process.md",
+      "git_blob": "340a1538e5894f5073be44b13f97de157f0b1913"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--ql.md",
+      "git_blob": "b0e50f9ee5abb1f3b383b7a86502e793e26c2a20"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--quilt.md",
+      "git_blob": "0b54defab5b11ee9b47b4c452cf8dc3e2c7d8c12"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--root.md",
+      "git_blob": "554131a1777aa9df8290211195949de165b7ffb4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--spanda.md",
+      "git_blob": "bf9b6bf945d3d03387496a06e9faeebdfe618336"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--topology.md",
+      "git_blob": "43ab262637ce78e7e0309e27fb35320b5cecddb6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme.md",
+      "git_blob": "d9156ef9bc05d879d9c87b27aea32cd8b5fa8588"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/movements.md",
+      "git_blob": "d1b9adad6a7b942bf3757a1e0d6ee8e20928d069"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/mytheme.md",
+      "git_blob": "ecd56505b23398b885a305a563ee2316cde7f015"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/quilt.md",
+      "git_blob": "acd618de43908fe857890720e7ea49abba106317"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/rooms.md",
+      "git_blob": "a87484b93f4c08cec2f85d402d35734bd6424fcd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/symbolon-root.md",
+      "git_blob": "891e6592b4a9bbe43c031848b12cc50d1930fd8d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/reader-audit.json",
+      "git_blob": "273aa41bd4794a19da26c9305004c9a4ea218979"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/MAIN-SOURCES.md",
+      "git_blob": "ac15d059835bf71a6607408f20e8d04a17760dfc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md",
+      "git_blob": "86e0b056bde05307953ee48b977ee5439529fc97"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/SOURCE-INDEX.md",
+      "git_blob": "0d207800e2d828f768cf2bcb129ac64c9f88161b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "git_blob": "010aff8be41bc52fb24b0c46c4e9d839878b681f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "git_blob": "ab35ce8bec524ca69e3cb8ec382e904c362df88e"
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "git_blob": "ba87a3f80e3b3d44e8c869366deda40f6cb989e7"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/COLD-REVIEW-CORRECTIONS.json.gz",
+      "git_blob": "b0783e56abc7f7de1b49d5b3635eae5119afad3a"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/NEGATION-REVIEW.json.gz",
+      "git_blob": "178ce7318ccdc2f4066a9c3f5d467a717568df18"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md.gz",
+      "git_blob": "f34a73ebe714222a93ff1686106d19e8ed53ffa5"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md.gz",
+      "git_blob": "d6e9aa47df60bd87e53cd7b8ed2025033b800671"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md.gz",
+      "git_blob": "36427a31e827b94cb50b490548fffb05d18263c6"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md.gz",
+      "git_blob": "9993a0e08302bd75e5222ad6f953120b6febb7a6"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md.gz",
+      "git_blob": "58d692939e717eae2c4a70fc6cfdddf2675b37e7"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md.gz",
+      "git_blob": "cebdc9c26539ad5adc4fb7b068b8ed85c14f9f41"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md.gz",
+      "git_blob": "446651072620755bf940ce0ef7a7e1555729892d"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/return-dependence-2026-09-29/integration-preimages/the-return-of-zero-central-plan.md.gz",
+      "git_blob": "4389815b69388d6b5c2bea90b7a98acc2bfcc88c"
+    }
+  ]
+}

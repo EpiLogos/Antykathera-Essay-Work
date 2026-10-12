@@ -1,0 +1,17 @@
+{
+  "key": "ARES-WHOLE",
+  "path": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+  "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-before.md.txt",
+  "preimage_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+  "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-candidate.md.txt",
+  "candidate_sha256": "54b44cc6a38bb9d684013c6f9e62bbe3e7b33c8271eac602b9b1f64b3f3b4485",
+  "status": "Independent whole/source/public cold accepted at exact54b44cc6; frozen non-live, parent inclusion pending",
+  "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-effects-before.json",
+  "effects_depth": 4,
+  "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-SOURCE-READINGS.json",
+  "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-DIRECT-CONSUMERS.json",
+  "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-LIGHTWEIGHT-CHECKS.json",
+  "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ARES-WHOLE-QUALIFICATION-REVIEW.json",
+  "independent_review": "argument-measure-return/INDEPENDENT-ARES-WHOLE-REVIEW.json",
+  "independent_review_sha256": "2c03cb8ea3a9150d7e9ec74117541bb146ae8f41689b405482f62dac58a22466"
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "name": "strict.json",
+    "args": [
+      "python3",
+      "tools/audit-canonical-argument-recovery.py",
+      "--strict",
+      "--json",
+      "--path",
+      "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "--path",
+      "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "--path",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "--path",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "--path",
+      "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "detector-tests.txt",
+    "args": [
+      "python3",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-p",
+      "test_canonical_argument_recovery_audit.py",
+      "-v"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "build-source-projections.py.build.txt",
+    "args": [
+      "python3",
+      "tools/build-source-projections.py"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "build-source-projections.py.check.txt",
+    "args": [
+      "python3",
+      "tools/build-source-projections.py",
+      "--check"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "build-section-rooms.py.build.txt",
+    "args": [
+      "python3",
+      "tools/build-section-rooms.py"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "build-section-rooms.py.check.txt",
+    "args": [
+      "python3",
+      "tools/build-section-rooms.py",
+      "--check"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "build-navigation.py.build.txt",
+    "args": [
+      "python3",
+      "tools/build-navigation.py"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "build-navigation.py.check.txt",
+    "args": [
+      "python3",
+      "tools/build-navigation.py",
+      "--check"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "room-depth.txt",
+    "args": [
+      "python3",
+      "tools/audit-room-depth.py",
+      "--project-root",
+      ".",
+      "--require-deepened",
+      "--room",
+      "00-integral-threshold",
+      "--room",
+      "01-differentiating-mind",
+      "--room",
+      "02-return-of-zero",
+      "--room",
+      "03-two-logics",
+      "--room",
+      "04-mathematical-substrate",
+      "--room",
+      "05-psychoid-flowering",
+      "--room",
+      "06-objective-internality",
+      "--room",
+      "07-instrument-returns"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "pre-manuscript.txt",
+    "args": [
+      "python3",
+      "tools/audit-pre-manuscript.py",
+      "--project-root",
+      ".",
+      "--output",
+      "/mnt/data/recovery-current/working/canonical-argument-recovery-2026-09-25/reframing-paradox-2026-09-29/checks-final/pre-manuscript.json"
+    ],
+    "exit": 0
+  },
+  {
+    "name": "full-suite.txt",
+    "args": [
+      "python3",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-v"
+    ],
+    "exit": 1
+  },
+  {
+    "name": "diff-check.txt",
+    "args": [
+      "git",
+      "diff",
+      "--check"
+    ],
+    "exit": 0
+  }
+]

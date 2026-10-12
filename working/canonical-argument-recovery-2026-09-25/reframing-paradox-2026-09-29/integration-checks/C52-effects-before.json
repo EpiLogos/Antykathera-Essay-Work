@@ -1,0 +1,42 @@
+{
+  "root": {
+    "id": "C52-Dimensional-Reframing-at-Zero-and-Infinity",
+    "title": "C52 — Dimensional Reframing at Zero and Infinity",
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "artifact_type": "concept",
+    "authority": "canonical-argument",
+    "headings": [
+      "C52 — Dimensional Reframing at Zero and Infinity",
+      "#0",
+      "#1",
+      "#2",
+      "#3",
+      "#4",
+      "#5→0"
+    ],
+    "sha256": "e1c7a0be0cd6a1c0e82e2b7c8c4458e474e810f3fe9c417ef166f6e4a8139c46",
+    "record_id": "C52",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

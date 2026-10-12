@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "4fd97eafcde1b793",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ebda58c1ef9a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8249c4f667d6d21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/epi_logos_coordinate_system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "epi_logos_coordinate_system"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daca50f1013a67f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "65aa9a351e67a559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a90b447ce81079e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9001f607ccbed26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01974d0c90134987",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37fef7328f84cc75",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f7716347d169ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cd628b6d487146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4abf7ced52482b5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7b152894d9c03c31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7db076ca6b0099d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "432899112f8ed4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8249c4f667d6d21c",
+  "lastOpenFiles": [
+    "working/s01-hardening-2026-10-01/M05-SECOND-HALF-PLAN.md",
+    "submission-package/essay/THE-RETURN-OF-ZERO.md",
+    "working/final-manuscript-prose-pass-2026-09-24/WHOLE-ARGUMENT-AND-SOURCE-REVIEW.md",
+    "working/final-manuscript-prose-pass-2026-09-24/WHOLE-PROSE-PATTERN-REVIEW.md",
+    "working/final-manuscript-prose-pass-2026-09-24/WHOLE-COLD-READ.md",
+    "working/p2-binding-test-s6b0yz4a/packet.json",
+    "working/p2-binding-test-s6b0yz4a/queue.json",
+    "working/p2-binding-test-s6b0yz4a/acceptance.json",
+    "working/p2-binding-test-s6b0yz4a",
+    "working/p2-binding-test-i_r050ep/queue.json",
+    "working/p2-binding-test-i_r050ep/acceptance.json",
+    "working/p2-binding-test-i_r050ep",
+    "working/p2-binding-test-7xqyau_7/queue.json",
+    "working/p2-binding-test-7xqyau_7/acceptance.json",
+    "working/p2-binding-test-7xqyau_7",
+    "working/p2-binding-test-92ytpk9w/README.md",
+    "working/final-manuscript-prose-pass-2026-09-24/ASSEMBLED-CANDIDATE.md",
+    "working/final-manuscript-prose-pass-2026-09-24/COORDINATOR-VERIFICATION.md",
+    "submission-package/essay/symbolon/episteme/lenses/L3-prime-chronological.md",
+    "submission-package/essay/symbolon/episteme/lenses/L3-processual.md",
+    "submission-package/essay/symbolon/episteme/lenses/L2-prime-alchemical-elemental.md",
+    "submission-package/essay/symbolon/episteme/lenses/L2-logical.md",
+    "submission-package/essay/symbolon/episteme/lenses/L4-prime-scientific.md",
+    "submission-package/essay/symbolon/episteme/lenses/L4-phenomenological.md",
+    "submission-package/essay/symbolon/episteme/lenses/L1-prime-phenomenal.md",
+    "submission-package/essay/symbolon/episteme/lenses/L1-causal.md",
+    "submission-package/essay/symbolon/episteme/lenses/L5-prime-divine-logos.md",
+    "submission-package/essay/symbolon/episteme/lenses/L5-para-vak.md",
+    "submission-package/essay/symbolon/episteme/lenses/L0-prime-archetypal-numerical.md",
+    "submission-package/essay/symbolon/episteme/lenses/L0-quaternal.md",
+    "working/_to_delete/2026-09-25-retire/lenses-register/foucault.md",
+    "working/_to_delete/2026-09-25-retire/lenses-register/baudrillard.md",
+    "working/final-manuscript-prose-pass-2026-09-24/sections/s50/FINAL-REVIEW.md",
+    "submission-package/essay/symbolon/mytheme/plates/salem-sign-migration-field.md",
+    "submission-package/essay/symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.md",
+    "submission-package/essay/symbolon/mytheme/plates/psychoid-field-one-seam.md",
+    "submission-package/essay/symbolon/episteme/figures/ac-suite-field-shape.svg",
+    "submission-package/essay/symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.svg",
+    "submission-package/essay/symbolon/episteme/figures/bimba-pratibimba-relational-office.svg",
+    "submission-package/essay/symbolon/mytheme/plates/salem-sign-migration-field.svg",
+    "submission-package/essay/symbolon/mytheme/plates/psychoid-field-one-seam.svg",
+    "submission-package/essay/symbolon/mytheme/plates/mechanism-gearing-non-closure.svg",
+    "submission-package/essay/symbolon/mytheme/plates/two-nets-indra-hephaestus.svg",
+    "submission-package/essay/symbolon/mytheme/plates/crossed-zero-stroke-does-not-fill.svg",
+    "submission-package/essay/symbolon/matheme/diagrams/atlas-two-chart-circle.svg",
+    "submission-package/essay/symbolon/matheme/diagrams/spanda-4-2-attunement-stack.svg",
+    "working/_to_delete/2026-09-25-retire/essay-argument-map.canvas"
+  ]
+}

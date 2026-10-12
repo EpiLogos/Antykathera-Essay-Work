@@ -1,0 +1,9 @@
+{
+  "path": "/Users/admin/Central/Work/O-I/site/.publication-verification",
+  "concrete_reason": "Read-only native source build of one identified reader candidate; the live shared home is being edited concurrently and must not be overwritten or shipped accidentally.",
+  "owner": "/root publication integrator",
+  "storage_budget_bytes": 1000000000,
+  "existing_free_bytes": 18873761792,
+  "standing": "One reusable source verification cache, no development branch/index, no dependency installation. Existing compatible dependency modules are reused; local product imports are pinned to materialized source.",
+  "retirement": "Rebuildable source/output cache may be retired by owner after exact-tip build and delivery evidence is retained. Unpublished original work remains in the primary tree and preservation refs."
+}

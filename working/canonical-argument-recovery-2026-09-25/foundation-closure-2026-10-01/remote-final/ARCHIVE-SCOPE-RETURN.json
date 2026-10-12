@@ -1,0 +1,8 @@
+{
+  "fault": "Wilson candidate has no candidates subdirectory; two-parent folder selection included the entire working field and older unrelated archive payloads.",
+  "original_archive_sha256": "1db5cc1911f666a61cf001ba7fbb0192ffe91519344b98d61f01f19f5cda488b",
+  "original_archive_entries": 4194,
+  "retained_original_archive": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-final/overbroad-scope-evidence-retained.tar.xz",
+  "repair": "Scope every actual candidate/peer/final operation folder explicitly, plus all direct originals; every selected entry hash and lossless extraction reverified.",
+  "native_body_or_source_changes": 0
+}

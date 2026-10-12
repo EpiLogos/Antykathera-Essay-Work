@@ -1,0 +1,25 @@
+{
+  "base_main": "01dcff08cfa52febd072f9a0fe1470dabdccda7e",
+  "status": "Two exact independently reviewed complete operations included locally for next remote packet",
+  "records": [
+    {
+      "key": "ZERO-RECEPTION",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-candidate.md.txt",
+      "preimage_sha256": "0b575a5bbf767de1cadbb40822c05f6addc022a39eac3498b74ec8ee39eabeb5",
+      "postimage_sha256": "b096de7176cf73433b6e413090e346f2253f57d6569755fd07ffb3c615100e7c",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-ZERO-RECEPTION-REVIEW.json",
+      "effects_depth": 4
+    },
+    {
+      "key": "A33",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A33-Epistemic-Cultivation-Operational-Parity.md.txt",
+      "preimage_sha256": "7b8bf49372c3ce1f1cbfc71b793682d22aa26ebc7852309baa69de85483b0ec3",
+      "postimage_sha256": "2b0bec9be729636b03e871b6a49cfc89543eb9f0326d45f6a2b89443982f22b2",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A33-NATIVE-REVIEW.json",
+      "effects_depth": 4
+    }
+  ],
+  "scope": "Native A33 and zero-reception receiving operations; no movement or sovereign body edits; source and implementation readiness retained"
+}

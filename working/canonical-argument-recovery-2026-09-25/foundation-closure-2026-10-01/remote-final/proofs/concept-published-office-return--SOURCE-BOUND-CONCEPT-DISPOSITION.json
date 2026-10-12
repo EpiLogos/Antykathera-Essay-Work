@@ -1,0 +1,616 @@
+{
+  "count": 64,
+  "accepted_bounded_operations": 53,
+  "unchanged_bounded_comparisons": 11,
+  "independent_review_pending": 0,
+  "census_is_semantic_acceptance": false,
+  "records": [
+    {
+      "key": "C01",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/candidates/C01-Subject-Defined-Indefinability.md.txt",
+      "accepted_sha256": "7f5ef2bc2793f81f5ef89b4276e280d25e911157456ff22599b31553097885c9",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "current_native_sha256": "7205c36f464a9dc6848c53ad19421341bf946a4a0e5629f436e0f1cb3213b678",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C02",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-six/candidates/C02-Faithful-Definition.md.txt",
+      "accepted_sha256": "53c1d91d0e3dfc9d351e31a41f2ac18c91876ae78c74513d3ab43360ee2c830c",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+      "current_native_sha256": "53c1d91d0e3dfc9d351e31a41f2ac18c91876ae78c74513d3ab43360ee2c830c",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C03",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-six/candidates/C03-Determination.md.txt",
+      "accepted_sha256": "8ef38395ec9fbca7a7b902d330163a3e41a1fe4fb5d2cefd4c5801c04a21f199",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+      "current_native_sha256": "8ef38395ec9fbca7a7b902d330163a3e41a1fe4fb5d2cefd4c5801c04a21f199",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C04",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/candidates/C04-Formal-Limit.md.txt",
+      "accepted_sha256": "a7321a1210ce48a2921876c445365e3e2c7b8a50c05d2486fa27a71defbbdd29",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "current_native_sha256": "898ef576047fec7564bbe8cf4fc3c8bce987fc1fc0782490c94fd158304314d4",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C05",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/candidates/C05-Immutable-Gap.md.txt",
+      "accepted_sha256": "0c05582dc713dea6990c3c52aa6ab11cdad32410cc3132a261cb2281f0694ade",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "current_native_sha256": "c150218c33bf5f763b9509f9292207320796d824283d1f524ec79025ff0b23d5",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C06",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "compared_sha256": "0cd6df580d0a91fff1fa2a79e93df8a8712f5e24a64f710e21162911a8c72ebe",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C07",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-continuation/candidates/C07-Conditions-of-Worldhood.md.txt",
+      "accepted_sha256": "6fbbf906e01fc01d6a99e30eb4d00cff94fef7b45d4abed69db679d76d5c3e1d",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "current_native_sha256": "6fbbf906e01fc01d6a99e30eb4d00cff94fef7b45d4abed69db679d76d5c3e1d",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C08",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/candidates/C08-Context-Context-Frame.md.txt",
+      "accepted_sha256": "ddf23193e7ec6c05da0572f541484bb4b1d77e00092901de4e3529ec9bab580d",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "current_native_sha256": "a44ae3540ab84419b43d1a1c92888d58b5acfad86473bfb6e462724f2da00308",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C09",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/candidates/C09-Diaphaneity.md.txt",
+      "accepted_sha256": "7b971863dd5e3feaada597579a3e025bfe74a02459814b264407025bcba4fb21",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "current_native_sha256": "6fbce4abc380427cad540bac28f7f840909a713e9cc2708fa1b74e10419d2dd3",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C10",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C10-Mediation-Pramana.md.txt",
+      "accepted_sha256": "d795b6a0e9912295a286740246ddc29a306e54eabb482e6c33a2cabe073f8507",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "current_native_sha256": "1f3828896d63ec5910df6403db91b79633f1d753cc2bb8b9f31f0c1a0c71df25",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C11",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+      "compared_sha256": "591f56055efab108236d3039a76aa87fa9a456c22d7d00f4e6054e5b720d878b",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C12",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C12-Script-Frozen-Conditioned-Will.md.txt",
+      "accepted_sha256": "d151bee5b70b68b64cde5da7abea8cb07c412b7546b54505ca16f2f81f9de3dd",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "current_native_sha256": "917a09f99970a7b980cf2a02da9552df8c6713c7e1e9e5a89705731fb8ebd554",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C13",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/candidates/C13-Prakasa-Vimarsa.md.txt",
+      "accepted_sha256": "4be0fd5c42f98a500a198d7c76b24e30b7f90e441c230022a02714268a3c0962",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "current_native_sha256": "ddb2f20724428a4f4ffef0c75ab1756b59a5feca94213e72a391fbc6b813b230",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C14",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-six/candidates/C14-Maya-Operative-Measure.md.txt",
+      "accepted_sha256": "0cdd5b5903c1555106b4eb83a7033a400da4a3a3f9618a427c93d01b91d0fb18",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "current_native_sha256": "0cdd5b5903c1555106b4eb83a7033a400da4a3a3f9618a427c93d01b91d0fb18",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C15",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/candidates/C15-Pasu-Bounded-Subject-Position.md.txt",
+      "accepted_sha256": "5c300d0883dc749410ebeb3de8f873af3010732672f61664175403d80cd11213",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "current_native_sha256": "30ee526178086804f2b15aeb001516d8ff3678c229d1fbaa67f2311de064d243",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C16",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/candidates/C16-Antahkarana-Inner-Instrument.md.txt",
+      "accepted_sha256": "df486b8070136400c9930c6cf1351ef28528dfd676831cdef8584451ad62eaff",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "current_native_sha256": "dce28d241a2049afcdedd3f058d04d262fb234799bf36b99e38f7328d88da4f3",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C17",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-script-return/candidates/C17-Vikalpa-Samkalpa.md.txt",
+      "accepted_sha256": "fa350f80cc5f330fad8c04cce5e5edbed562a328e7e2b6a201c0785e31d0a4dd",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "current_native_sha256": "b739e4b6feee7a949eeca41bcb9a6eb9c8660bf6af99045f2dc1b46d42675c54",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C18",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C18-Apoha.md.txt",
+      "accepted_sha256": "0c4c11b64c9607e2863125b24efc82078a6159d862b93f47170fdf88f577e904",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "current_native_sha256": "0c4c11b64c9607e2863125b24efc82078a6159d862b93f47170fdf88f577e904",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C19",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C19-Pratyabhijna-Recognition.md.txt",
+      "accepted_sha256": "3630bceca9f086cbda0f5574fc2d91ce885930d0e5e2b2c8b6cf70018e79ce7f",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+      "current_native_sha256": "3630bceca9f086cbda0f5574fc2d91ce885930d0e5e2b2c8b6cf70018e79ce7f",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C20",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-six/candidates/C20-Arche-Topos.md.txt",
+      "accepted_sha256": "922f3d971fcfbf5be2d3a9a2313a69048bd8acebe24d68f80a4fea5fc2a127bd",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "current_native_sha256": "922f3d971fcfbf5be2d3a9a2313a69048bd8acebe24d68f80a4fea5fc2a127bd",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C21",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/candidates/C21-Living-Symbol-Idol.md.txt",
+      "accepted_sha256": "62b99e255fcdacc7729dde40c13642e2a1101dc738599a745e10451ffc1b6788",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "current_native_sha256": "cf992e142ff1d5b09316bbd1bca9cbb42d39dd821c759168097076d23175300a",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C22",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C22-Counterfeit-Symbolon.md.txt",
+      "accepted_sha256": "59fbb1ec6a8ef5c178f637127879ec4e6fe3876ad43ab09f75a96debc8f1e2b9",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "current_native_sha256": "59fbb1ec6a8ef5c178f637127879ec4e6fe3876ad43ab09f75a96debc8f1e2b9",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C23",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C23-Severance.md.txt",
+      "accepted_sha256": "f5a48613de0b8b130a2ea59cfd32acf21b2101b250a756cdeb8a2216624f3cd2",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "current_native_sha256": "f5a48613de0b8b130a2ea59cfd32acf21b2101b250a756cdeb8a2216624f3cd2",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C24",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-continuation/candidates/C24-Fusion.md.txt",
+      "accepted_sha256": "f9b4ebfecb6294e5b4a9b084e192aa0f415dc7e2aa09c5434066bd0b8ca22b6b",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "current_native_sha256": "f9b4ebfecb6294e5b4a9b084e192aa0f415dc7e2aa09c5434066bd0b8ca22b6b",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C25",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C25-Counterfeit-Gathering.md.txt",
+      "candidate_sha256": "80af1441b206a6a3f0a9ac624e03b36367408c27fd43b04ad0a0de4ae4758607",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C26",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C26-Monoisation-Counter-Generation.md.txt",
+      "candidate_sha256": "cff7a77455de8ffc06959926ffd34387f19a793dfe3f0007f9a15b30423429a4",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C27",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-six/candidates/C27-Protected-Account-Occupied-Zero-Source-Claim.md.txt",
+      "accepted_sha256": "ff05d9d423c021a0ad5c93cad2d5cb1b525d3bf55f6d1d4566ba611c06f9c993",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "current_native_sha256": "ff05d9d423c021a0ad5c93cad2d5cb1b525d3bf55f6d1d4566ba611c06f9c993",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C28",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C28-Covenant-Primary-Arbitration.md.txt",
+      "candidate_sha256": "61d4b68bbb06fc30664609eca0545a2c03424cacb66dc9a9c276286ceb4a148d",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C29",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C29-Mediating-Office-Derivative-Sovereignty.md.txt",
+      "accepted_sha256": "ef418c0835881952ab2dfb25f59946afddcd2cd932b30f30c4ff8e6494ec6abd",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "current_native_sha256": "ef418c0835881952ab2dfb25f59946afddcd2cd932b30f30c4ff8e6494ec6abd",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C30",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-six/candidates/C30-Psychoid-Number.md.txt",
+      "accepted_sha256": "75fd61855147170c97faa9f36cdde54c3cfae8a950a09153ea2c09e58e58af0e",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "current_native_sha256": "75fd61855147170c97faa9f36cdde54c3cfae8a950a09153ea2c09e58e58af0e",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C31",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-continuation/candidates/C31-Complex.md.txt",
+      "accepted_sha256": "4f2ccd445c25d71b56913408433986f20ee639950722584e06674c501268ad59",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "current_native_sha256": "4f2ccd445c25d71b56913408433986f20ee639950722584e06674c501268ad59",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C32",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/candidates/C32-Archetype.md.txt",
+      "accepted_sha256": "df2fb88536c00a768531b0cea9fcaeb70c0f9c683d2edb2517be28b8287c7a3d",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "current_native_sha256": "03575aa22e3fc5683412324bbd4db500944c24228f919b2bccd2265737053ae1",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C33",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C33-Image-Valuation.md.txt",
+      "candidate_sha256": "ca328413696385737e15569b945621953f29941a69885c4d51c48533c1723891",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C34",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C34-Individuation.md.txt",
+      "accepted_sha256": "0f423733ff86670ed7295f78f056d6ad290b22c801ff92721d9c22d95575dd52",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "current_native_sha256": "0f423733ff86670ed7295f78f056d6ad290b22c801ff92721d9c22d95575dd52",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C35",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "compared_sha256": "2e3572e75ae1e494ae441a9294a0d71dd98db399e9d3047ba7170efd88090027",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C36",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C36-Complexio-Oppositorum.md.txt",
+      "candidate_sha256": "3d118ee891fec3f1cc6bc63c26d368692276f640c2661a21e66c54c6e5540a68",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C37",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C37-World-Picture-to-World-Atlas.md.txt",
+      "candidate_sha256": "5d84fcdc196d353d97c64bc0ef76e3baeeb5ae1ffa4a27c840f0abd158a505f6",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C38",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/candidates/C38-Bimba-Pratibimba-Bimba-Map.md.txt",
+      "accepted_sha256": "0b9b57f5f4232377f4a773ff97eebdf70caaab32dd8ff80e4f2b38d76b583945",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "current_native_sha256": "3c0608f874c8dc147bcc3b96b3c0895c66f5dc0744c1d145a6c567ef3fe9dcac",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C39",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "compared_sha256": "532ac97d8ff361cdfcce8ba923f5feeb0effe9849419dae328ed8d97f8579a91",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C40",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C40-Model-Internality-Judgment-Field.md.txt",
+      "accepted_sha256": "c77b53031dd3ffb6bb90fdcfdde53e44680a4f03f946be3710be4930d53c10ac",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "current_native_sha256": "e503782e6e41b4292036dde94491ec4c18344a2dc739d0a6b3bb757f614e2631",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C41",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C41-Objective-Internality.md.txt",
+      "accepted_sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "current_native_sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C42",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "compared_sha256": "39df3f4d1e58b199987cb861dd6e71014cfa5e4b35386d4f94ecb33f228310b7",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C43",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "compared_sha256": "eff7081fbc9d81573d381a46028a5f79ede26dcf7de6938388d294cef649cf8b",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C44",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C44-Prompt-Thrownness.md.txt",
+      "accepted_sha256": "cc8ccd9c2378e3c16100c9a047ea61ed227388ee5c1432eb59518e99eb74dbc0",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "current_native_sha256": "61720fce4e55f37e76b5f9d87383893c52135841c4ad8359bc4d72fd03726184",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C45",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C45-Operational-Parity.md.txt",
+      "accepted_sha256": "05a6f75646e857540db45ef5ce2517fa62ae0ba63feda80d79489399f636b2be",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "current_native_sha256": "66cd6a5d3c6de3f269660063deccbb7c163d80b5c8aaf3626c553795574d205d",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C46",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "compared_sha256": "506f9833fcdba8b22355463e0fdd03b8d8301f4980fa49c1639216107e488cdc",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C47",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "compared_sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C48",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C48-Trust-Faith-under-Formal-Limit.md.txt",
+      "candidate_sha256": "de2b7e8516afdde34218609d7860830e8cdb570e7b2401e426628e131def171b",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C49",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C49-The-Two-Ones-0-One-1-All.md.txt",
+      "candidate_sha256": "6d14e1a0ea126027b1c4dbffe90931d528f900e1e66604a7b59619afa8970ee7",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C50",
+      "disposition": "Complete bounded native operation independently source/public accepted; parent inclusion/publication separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C50-Dia-Syn.md.txt",
+      "candidate_sha256": "c92b9feb6d201cc7c9c8472c778488d1f69c313e0f7695bebe57ce59250e198a",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "scope": "Exact preimage, complete source operation, depth-four byte reopening, whole final self-read and individual qualification inspection retained in this packet.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "independent_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63"
+    },
+    {
+      "key": "C51",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C51-Logos-Epi-Logos.md.txt",
+      "accepted_sha256": "a8e2a14e2c579e868a0d473b5204c7ba7c4f3e79e0432a6370d11193fec7e6f2",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "current_native_sha256": "b14ca2e156b40124077743c23e59a04e4828e3dbeb2bd99b7ecbfc241b5907a6",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C52",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C52-Dimensional-Reframing-at-Zero-and-Infinity.md.txt",
+      "accepted_sha256": "0fa140db15f7a45426a36534a4c3ee5d8de38e759da0697f87aef4698feb2df4",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "current_native_sha256": "0fa140db15f7a45426a36534a4c3ee5d8de38e759da0697f87aef4698feb2df4",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C53",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/candidates/C53-Power-Delegated-Labour.md.txt",
+      "accepted_sha256": "78e7fb05971490d9b8fca7be5cf30ae8dc67600329dff80758599b3ffed4e0d1",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "current_native_sha256": "78e7fb05971490d9b8fca7be5cf30ae8dc67600329dff80758599b3ffed4e0d1",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C54",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-commons-planetary-return/candidates/C54-Commons-Non-Monopoly.md.txt",
+      "accepted_sha256": "f471e9ba617efe750f1f34ca11cae9e3df92444f7276e501ea9a1df20a49864f",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "current_native_sha256": "f471e9ba617efe750f1f34ca11cae9e3df92444f7276e501ea9a1df20a49864f",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C55",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/candidates/C55-Reflective-Field-Mirror-That-Moves-First.md.txt",
+      "accepted_sha256": "fcb68fcf165c89f5df42fd10262b9e1e1dee4092461325f2380d251048f48396",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "current_native_sha256": "ecd24e273a2fa1d8f99080d05a1fa6b877081bfef6eb327ca09ff8fa3275f36c",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C56",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-continuation/candidates/C56-Compassion-Sensitivity-to-Origins.md.txt",
+      "accepted_sha256": "2bf6987ae236ca824471a4098a78c37383f98fb663cf2d7de451ce265bea53e9",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "current_native_sha256": "2bf6987ae236ca824471a4098a78c37383f98fb663cf2d7de451ce265bea53e9",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C57",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/candidates/C57-Agentworld.md.txt",
+      "accepted_sha256": "03842214b9bc260089870b6b0102c3f433712a4459a6c8f7bda97e7396b698f7",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "current_native_sha256": "03842214b9bc260089870b6b0102c3f433712a4459a6c8f7bda97e7396b698f7",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C58",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C58-Anthropomorphization.md.txt",
+      "accepted_sha256": "4c0310ff959c0ac146ffc0ea99810dc8c36530b3e095e667e9fdf42eea05d5a9",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+      "current_native_sha256": "4c0310ff959c0ac146ffc0ea99810dc8c36530b3e095e667e9fdf42eea05d5a9",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C59",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C59-Cultural-Individuation-Epi-Logos-as-Culture.md.txt",
+      "accepted_sha256": "048034e8446c31dac7eb832222713adacd56d82c10bc27276459ff7254249134",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "current_native_sha256": "8eb09177ce53ebab485dd75862e8775c153a9983df797bee901112dc6a53a675",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C60",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "compared_sha256": "5f133655a24a388a3273136f8d0115b4da7f0d44ce994671d3a464ecad57c1a1",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C61",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "compared_sha256": "85130b9b572c97c3903fffb42c530e7251c199fee0bf9e7e7a593a31aa3382e6",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    },
+    {
+      "key": "C62",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-commons-planetary-return/candidates/C62-Planetary-Computation.md.txt",
+      "accepted_sha256": "35ddda2b51115aa4b378889bef2e5d6e53e06eb43add386e2ec50398c5e492a3",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "current_native_sha256": "35ddda2b51115aa4b378889bef2e5d6e53e06eb43add386e2ec50398c5e492a3",
+      "current_native_matches_accepted": true,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C63",
+      "disposition": "Complete bounded native operation independently source/public accepted; inclusion/publication separately owned by parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md.txt",
+      "accepted_sha256": "e73e48f70d2c9db31b170ba218e8875dfc506f0ea7cae5f3289d1f4f1c632419",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "current_native_sha256": "c7217559a6225117025f3891e0e320f9836bad94c6b8683560830ef8e3f8495b",
+      "current_native_matches_accepted": false,
+      "scope": "Whole native preimage and complete candidate read; changed source-operation joins accepted within the exact packet source and qualification receipts, not entire external histories/books/quotation/runtime."
+    },
+    {
+      "key": "C64",
+      "disposition": "Whole current native source-operation comparison retained unchanged; no exact repair required in compared operation",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "compared_sha256": "20b04c38e392dc57bb71f9f7770cb96a3c818811eabeb664a67215bf31a58249",
+      "scope": "Actual complete-body re-entry and source-bound comparison; stronger changed-processing/cultural transformation requirements are preserved where the actual operation claims those changes. External historical/quotation scopes are not globally closed."
+    }
+  ]
+}

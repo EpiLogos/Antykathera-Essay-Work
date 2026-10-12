@@ -1,0 +1,373 @@
+build	Verify the public receiving route before publication	﻿2026-10-04T17:08:18.4563689Z ##[group]Run python -m pip install playwright==1.51.0 pillow
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4563939Z [36;1mpython -m pip install playwright==1.51.0 pillow[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4564137Z [36;1mpython -m playwright install --with-deps chromium[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4564310Z [36;1mmkdir -p evidence/library[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4564477Z [36;1mgit rev-parse HEAD > evidence/library/commit.txt[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4564742Z [36;1mnode tests/publication-fixtures.mjs > evidence/library/publication-test-fixture.json[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4565052Z [36;1mnpm run preview -- --host 127.0.0.1 --port 4173 > evidence/library/server.log 2>&1 &[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4565354Z [36;1mfor i in $(seq 1 40); do curl -fsS http://127.0.0.1:4173/ >/dev/null && break; sleep 1; done[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4565566Z [36;1mresult=0[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4565714Z [36;1mpython tests/library-acceptance.py || result=1[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4565908Z [36;1mpython tests/library-regressions.py || result=1[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4566124Z [36;1mpython tests/publication-acceptance.py || result=1[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4566318Z [36;1mpython tests/essay-host-smoke.py || result=1[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4566506Z [36;1mpython tests/essay-reader-controls.py || result=1[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4566674Z [36;1mexit "$result"[0m
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4617000Z shell: /usr/bin/bash -e {0}
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4617132Z env:
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4643716Z   OI_LIBRARY_PUBLICATIONS: ["/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/world-publication.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-a-arguments.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-a-prime-conjugates.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-ac-root.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-c-concepts-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-c-concepts-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-dossiers.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-etymologies.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-histories.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-lenses-aphorism.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-s-products.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-matheme-computation.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-matheme-formal-neighbours.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-matheme-four-files.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-matheme-logics.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-matheme-ql-spanda.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-matheme-topology-harmonics.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-symbolon-spine.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-symbolon-whole.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-antikythera-attunement.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-apollo-dionysus-daphne.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-apollo-eros-daphne-peneus.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-ares-aphrodite-hephaestus-poseidon.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-avatar-image-mask-idol.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-eros-psyche.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-goethe-permanence-change.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-indra-net.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-job.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-maya-eye-veil-frame-horizon.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-meal-epistemic-metabolism.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-mirror-that-moves-first.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-mother-assumption-chiasm.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-myth-attica-athena-poseidon-cecrops.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-myth-hypostasis-archons-norea-sophia.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-narrative-fanon-language-gaze-mask-recognition.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-neumann-images.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-pauli-egg-dream.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-stained-glass-refraction.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-taylor-authored-images.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-the-prisoner.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-travelling-jigsaw-atlas.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-uroboros-trickster.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-mytheme-valentinian-sophia-horos-achamoth.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-essay-reading.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-00-integral-threshold.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-01-differentiating-mind.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-02-return-of-zero.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-03-two-logics.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-04-mathematical-substrate.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-05-psychoid-flowering.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-06-objective-internality.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-roz-room-07-instrument-returns.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-docs.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-now-day-2026-09-11-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-now-day-2026-09-11-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-now-day-2026-09-12-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-now-day-2026-09-12-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-product.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-projectcentral-governance.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-comparison.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-deep-prime.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-experiment-trees-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-experiment-trees-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-foundations.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-protocols.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-reviews-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-ql-runtime-reviews-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-rust-refoundation-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-rust-refoundation-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation-skills.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-actuation.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-adr-implementation.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-docs-p1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-docs-p2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-ground.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-periphery.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-plans.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-skills-p1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-skills-p2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-v2-p1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit-fd-v2-p2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-aikit.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-ctrl-defaults.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-docs-connectors.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-docs-governance.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-docs-operations.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-docs-vision.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-projectcentral.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-root-and-connectors.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-skills.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central-surfaces.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-central.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-docs-canon-modules.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-docs-canon.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-docs-program-research.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-claude-front.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-orchestrator.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-overview-appdocs.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-prompts.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-specs.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-sssf-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-sssf-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-inkwell-templates-adws.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-product-root.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-ql-core.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-ql-experiments.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-seed-docs.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-sites.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-skills.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-sssf-1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory-fd-sssf-2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-factory.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-craft.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-docs-p1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-docs-p2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-epi-logos-p1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-epi-logos-p2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-epi-logos-p3.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-epi-logos-p4.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-fixtures.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-geometry.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-ground.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-kernel-rebuild-p1.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-kernel-rebuild-p2.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-kernel-rebuild-p3.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-periphery.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-ql-fd-skills.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell-docs-connectivity.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell-docs-operations.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell-docs-platform.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell-docs-sources.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell-projectcentral.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell-sdk-and-skills.json","/home/runner/work/O-I/O-I/site/publications/return-of-zero-curated/expression-sp-workcell.json"]
+build	Verify the public receiving route before publication	2026-10-04T17:08:18.4670960Z ##[endgroup]
+build	Verify the public receiving route before publication	2026-10-04T17:08:19.9060023Z Defaulting to user installation because normal site-packages is not writeable
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.1472744Z Collecting playwright==1.51.0
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.2023000Z   Downloading playwright-1.51.0-py3-none-manylinux1_x86_64.whl.metadata (3.5 kB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.3592527Z Collecting pillow
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.3719549Z   Downloading pillow-12.3.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (9.1 kB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.4013931Z Collecting pyee<13,>=12 (from playwright==1.51.0)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.4140116Z   Downloading pyee-12.1.1-py3-none-any.whl.metadata (2.9 kB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.5313308Z Collecting greenlet<4.0.0,>=3.1.1 (from playwright==1.51.0)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.5439026Z   Downloading greenlet-3.5.6-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (3.8 kB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.5626600Z Requirement already satisfied: typing-extensions in /usr/lib/python3/dist-packages (from pyee<13,>=12->playwright==1.51.0) (4.10.0)
+build	Verify the public receiving route before publication	2026-10-04T17:08:21.5760959Z Downloading playwright-1.51.0-py3-none-manylinux1_x86_64.whl (45.2 MB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.1222254Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.2/45.2 MB 31.5 MB/s eta 0:00:00
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.1378529Z Downloading pillow-12.3.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (6.9 MB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.1926533Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.9/6.9 MB 130.6 MB/s eta 0:00:00
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.2058498Z Downloading greenlet-3.5.6-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (621 kB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.2104575Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 621.4/621.4 kB 192.2 MB/s eta 0:00:00
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.2245149Z Downloading pyee-12.1.1-py3-none-any.whl (15 kB)
+build	Verify the public receiving route before publication	2026-10-04T17:08:22.4448769Z Installing collected packages: pyee, pillow, greenlet, playwright
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.1773240Z Successfully installed greenlet-3.5.6 pillow-12.3.0 playwright-1.51.0 pyee-12.1.1
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.4492507Z Installing dependencies...
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.4541340Z Switching to root user to install dependencies...
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.5129378Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.5470632Z Hit:2 http://azure.archive.ubuntu.com/ubuntu noble InRelease
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.5471690Z Get:6 https://packages.microsoft.com/ubuntu/24.04/prod noble InRelease [3600 B]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.5483166Z Get:3 http://azure.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.5513669Z Get:4 http://azure.archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.5530477Z Get:5 http://azure.archive.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6422911Z Get:7 https://packages.microsoft.com/ubuntu/24.04/prod noble/main armhf Packages [12.6 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6511524Z Get:8 https://packages.microsoft.com/ubuntu/24.04/prod noble/main amd64 Packages [511 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6579474Z Get:9 https://packages.microsoft.com/ubuntu/24.04/prod noble/main arm64 Packages [458 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6805954Z Get:10 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [1364 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6871884Z Get:11 http://azure.archive.ubuntu.com/ubuntu noble-updates/main Translation-en [304 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6876898Z Get:12 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [181 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6890362Z Get:13 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1699 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6948799Z Get:14 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe Translation-en [341 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6968256Z Get:15 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [388 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.6988051Z Get:16 http://azure.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [1720 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7059618Z Get:17 http://azure.archive.ubuntu.com/ubuntu noble-updates/restricted Translation-en [394 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7072641Z Get:18 http://azure.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7239863Z Get:19 http://azure.archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [5776 B]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7685415Z Get:20 http://azure.archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [12.6 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7697674Z Get:21 http://azure.archive.ubuntu.com/ubuntu noble-security/main amd64 Packages [1069 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7735806Z Get:22 http://azure.archive.ubuntu.com/ubuntu noble-security/main Translation-en [221 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7750156Z Get:23 http://azure.archive.ubuntu.com/ubuntu noble-security/main amd64 Components [46.4 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7760513Z Get:24 http://azure.archive.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1216 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7802657Z Get:25 http://azure.archive.ubuntu.com/ubuntu noble-security/universe Translation-en [244 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7817542Z Get:26 http://azure.archive.ubuntu.com/ubuntu noble-security/universe amd64 Components [76.4 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7827733Z Get:27 http://azure.archive.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [1566 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:23.7878934Z Get:28 http://azure.archive.ubuntu.com/ubuntu noble-security/restricted Translation-en [361 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:29.5804904Z Fetched 12.6 MB in 1s (12.5 MB/s)
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.1319709Z Reading package lists...
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.1514351Z Reading package lists...
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.3315447Z Building dependency tree...
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.3321097Z Reading state information...
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4572099Z libasound2t64 is already the newest version (1.2.11-1ubuntu0.3).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4572862Z libasound2t64 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4573440Z libatk-bridge2.0-0t64 is already the newest version (2.52.0-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4573713Z libatk-bridge2.0-0t64 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4573957Z libatk1.0-0t64 is already the newest version (2.52.0-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4574171Z libatk1.0-0t64 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4574396Z libatspi2.0-0t64 is already the newest version (2.52.0-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4574617Z libatspi2.0-0t64 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4574834Z libcairo2 is already the newest version (1.18.0-3build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4575036Z libcairo2 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4575266Z libcups2t64 is already the newest version (2.4.7-1.2ubuntu7.14).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4575491Z libcups2t64 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4575711Z libdbus-1-3 is already the newest version (1.14.10-4ubuntu4.1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4575939Z libdbus-1-3 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4576173Z libdrm2 is already the newest version (2.4.125-1ubuntu0.1~24.04.2).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4576387Z libdrm2 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4576607Z libglib2.0-0t64 is already the newest version (2.80.0-6ubuntu3.9).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4576830Z libglib2.0-0t64 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4577057Z libnspr4 is already the newest version (2:4.35-1.1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4577257Z libnspr4 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4577464Z libnss3 is already the newest version (2:3.98-1ubuntu0.2).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4577660Z libnss3 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4577876Z libpango-1.0-0 is already the newest version (1.52.1+ds-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4578292Z libpango-1.0-0 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4578857Z libx11-6 is already the newest version (2:1.8.7-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4579156Z libx11-6 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4579405Z libxcb1 is already the newest version (1.15-1ubuntu2).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4579742Z libxcb1 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4579955Z libxcomposite1 is already the newest version (1:0.4.5-1build3).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4580171Z libxcomposite1 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4580388Z libxdamage1 is already the newest version (1:1.1.6-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4580594Z libxdamage1 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4580801Z libxext6 is already the newest version (2:1.3.4-1build2).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4581102Z libxext6 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4581419Z libxfixes3 is already the newest version (1:6.0.0-2build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4581736Z libxfixes3 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4581973Z libxkbcommon0 is already the newest version (1.6.0-1build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4582188Z libxkbcommon0 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4582403Z libxrandr2 is already the newest version (2:1.5.2-2build1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4582604Z libxrandr2 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4582818Z xvfb is already the newest version (2:21.1.12-1ubuntu1.8).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4583100Z fonts-noto-color-emoji is already the newest version (2.047-0ubuntu0.24.04.1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4583393Z libfontconfig1 is already the newest version (2.15.0-1.1ubuntu2).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4583615Z libfontconfig1 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4583843Z libfreetype6 is already the newest version (2.13.2+dfsg-1ubuntu0.1).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4584066Z libfreetype6 set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4584285Z fonts-liberation is already the newest version (1:2.1.5-3).
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4584499Z fonts-liberation set to manually installed.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4584714Z The following additional packages will be installed:
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4584980Z   libgl1-mesa-dri libglx-mesa0 mesa-libgallium xfonts-encodings xfonts-utils
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4585211Z Recommended packages:
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4585362Z   fonts-ipafont-mincho fonts-tlwg-loma
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4734164Z The following NEW packages will be installed:
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4734585Z   fonts-freefont-ttf fonts-ipafont-gothic fonts-tlwg-loma-otf fonts-unifont
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4737291Z   fonts-wqy-zenhei xfonts-cyrillic xfonts-encodings xfonts-scalable
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4737587Z   xfonts-utils
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4739787Z The following packages will be upgraded:
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4742282Z   libgbm1 libgl1-mesa-dri libglx-mesa0 mesa-libgallium
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4875909Z 4 upgraded, 9 newly installed, 0 to remove and 21 not upgraded.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4876286Z Need to get 32.1 MB of archives.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4876515Z After this operation, 79.5 MB of additional disk space will be used.
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.4876780Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.5443067Z Get:2 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-ipafont-gothic all 00303-21ubuntu1 [3513 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.6033375Z Get:3 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 fonts-freefont-ttf all 20211204+svn4273-2 [5641 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.6816553Z Get:4 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-tlwg-loma-otf all 1:0.7.3-1 [107 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.7098738Z Get:5 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-unifont all 1:15.1.01-1build1 [2993 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.7640481Z Get:6 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-wqy-zenhei all 0.9.45-8 [7472 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.8596945Z Get:7 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgl1-mesa-dri amd64 25.2.8-0ubuntu0.24.04.4 [38.0 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.8877035Z Get:8 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libglx-mesa0 amd64 25.2.8-0ubuntu0.24.04.4 [110 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.9162646Z Get:9 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgbm1 amd64 25.2.8-0ubuntu0.24.04.4 [34.2 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:30.9439561Z Get:10 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 mesa-libgallium amd64 25.2.8-0ubuntu0.24.04.4 [10.8 MB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.0844802Z Get:11 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 xfonts-encodings all 1:1.0.5-0ubuntu2 [578 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.1177371Z Get:12 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 xfonts-utils amd64 1:7.7+6build3 [94.4 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.1486941Z Get:13 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 xfonts-cyrillic all 1:1.0.5+nmu1 [384 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.1779193Z Get:14 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 xfonts-scalable all 1:1.0.3-1.3 [304 kB]
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.3689409Z Fetched 32.1 MB in 1s (45.7 MB/s)
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.3856091Z Selecting previously unselected package fonts-ipafont-gothic.
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4109108Z (Reading database ... 
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4109528Z (Reading database ... 5%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4109904Z (Reading database ... 10%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4110123Z (Reading database ... 15%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4110325Z (Reading database ... 20%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4110542Z (Reading database ... 25%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4110733Z (Reading database ... 30%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4110865Z (Reading database ... 35%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4110994Z (Reading database ... 40%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4111123Z (Reading database ... 45%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4111256Z (Reading database ... 50%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.4148366Z (Reading database ... 55%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.5359400Z (Reading database ... 60%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.7391457Z (Reading database ... 65%
+build	Verify the public receiving route before publication	2026-10-04T17:08:31.9436191Z (Reading database ... 70%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.1315821Z (Reading database ... 75%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.2904428Z (Reading database ... 80%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.4776988Z (Reading database ... 85%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.6836023Z (Reading database ... 90%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.8504095Z (Reading database ... 95%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.8504490Z (Reading database ... 100%
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.8504732Z (Reading database ... 202296 files and directories currently installed.)
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.8541204Z Preparing to unpack .../00-fonts-ipafont-gothic_00303-21ubuntu1_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:32.8615790Z Unpacking fonts-ipafont-gothic (00303-21ubuntu1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.0760789Z Selecting previously unselected package fonts-freefont-ttf.
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.0858868Z Preparing to unpack .../01-fonts-freefont-ttf_20211204+svn4273-2_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.0865115Z Unpacking fonts-freefont-ttf (20211204+svn4273-2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.1652882Z Selecting previously unselected package fonts-tlwg-loma-otf.
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.1750389Z Preparing to unpack .../02-fonts-tlwg-loma-otf_1%3a0.7.3-1_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.1755648Z Unpacking fonts-tlwg-loma-otf (1:0.7.3-1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.1927869Z Selecting previously unselected package fonts-unifont.
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.2022428Z Preparing to unpack .../03-fonts-unifont_1%3a15.1.01-1build1_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.2029194Z Unpacking fonts-unifont (1:15.1.01-1build1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.3924972Z Selecting previously unselected package fonts-wqy-zenhei.
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.4019210Z Preparing to unpack .../04-fonts-wqy-zenhei_0.9.45-8_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.4102128Z Unpacking fonts-wqy-zenhei (0.9.45-8) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.8508860Z Preparing to unpack .../05-libgl1-mesa-dri_25.2.8-0ubuntu0.24.04.4_amd64.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.8645593Z Unpacking libgl1-mesa-dri:amd64 (25.2.8-0ubuntu0.24.04.4) over (25.2.8-0ubuntu0.24.04.2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.9086357Z Preparing to unpack .../06-libglx-mesa0_25.2.8-0ubuntu0.24.04.4_amd64.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:33.9115278Z Unpacking libglx-mesa0:amd64 (25.2.8-0ubuntu0.24.04.4) over (25.2.8-0ubuntu0.24.04.2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.0789816Z Preparing to unpack .../07-libgbm1_25.2.8-0ubuntu0.24.04.4_amd64.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.1284161Z Unpacking libgbm1:amd64 (25.2.8-0ubuntu0.24.04.4) over (25.2.8-0ubuntu0.24.04.2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.3483971Z Preparing to unpack .../08-mesa-libgallium_25.2.8-0ubuntu0.24.04.4_amd64.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.3503858Z Unpacking mesa-libgallium:amd64 (25.2.8-0ubuntu0.24.04.4) over (25.2.8-0ubuntu0.24.04.2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.6636051Z Selecting previously unselected package xfonts-encodings.
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.6729259Z Preparing to unpack .../09-xfonts-encodings_1%3a1.0.5-0ubuntu2_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.6736415Z Unpacking xfonts-encodings (1:1.0.5-0ubuntu2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.6958724Z Selecting previously unselected package xfonts-utils.
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7053533Z Preparing to unpack .../10-xfonts-utils_1%3a7.7+6build3_amd64.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7059683Z Unpacking xfonts-utils (1:7.7+6build3) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7343228Z Selecting previously unselected package xfonts-cyrillic.
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7438505Z Preparing to unpack .../11-xfonts-cyrillic_1%3a1.0.5+nmu1_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7444504Z Unpacking xfonts-cyrillic (1:1.0.5+nmu1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7698284Z Selecting previously unselected package xfonts-scalable.
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7791880Z Preparing to unpack .../12-xfonts-scalable_1%3a1.0.3-1.3_all.deb ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.7797535Z Unpacking xfonts-scalable (1:1.0.3-1.3) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8208947Z Setting up mesa-libgallium:amd64 (25.2.8-0ubuntu0.24.04.4) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8226659Z Setting up libgbm1:amd64 (25.2.8-0ubuntu0.24.04.4) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8241543Z Setting up libgl1-mesa-dri:amd64 (25.2.8-0ubuntu0.24.04.4) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8298883Z Setting up fonts-wqy-zenhei (0.9.45-8) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8383081Z Setting up fonts-freefont-ttf (20211204+svn4273-2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8396826Z Setting up fonts-tlwg-loma-otf (1:0.7.3-1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8411404Z Setting up xfonts-encodings (1:1.0.5-0ubuntu2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8425241Z Setting up fonts-ipafont-gothic (00303-21ubuntu1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8472210Z update-alternatives: using /usr/share/fonts/opentype/ipafont-gothic/ipag.ttf to provide /usr/share/fonts/truetype/fonts-japanese-gothic.ttf (fonts-japanese-gothic.ttf) in auto mode
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8484701Z Setting up fonts-unifont (1:15.1.01-1build1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8500309Z Setting up libglx-mesa0:amd64 (25.2.8-0ubuntu0.24.04.4) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8515597Z Setting up xfonts-utils (1:7.7+6build3) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8547551Z Setting up xfonts-cyrillic (1:1.0.5+nmu1) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8785023Z Setting up xfonts-scalable (1:1.0.3-1.3) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:34.8997245Z Processing triggers for libc-bin (2.39-0ubuntu8.9) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.0771492Z Processing triggers for man-db (2.12.0-4build2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.0791646Z Not building database; man-db/auto-update is not 'true'.
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.0803134Z Processing triggers for fontconfig (2.15.0-1.1ubuntu2) ...
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5876445Z 
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5877111Z Running kernel seems to be up-to-date.
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5877372Z 
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5877506Z No services need to be restarted.
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5877700Z 
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5877828Z No containers need to be restarted.
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5877979Z 
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5878322Z No user sessions are running outdated binaries.
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5878520Z 
+build	Verify the public receiving route before publication	2026-10-04T17:08:35.5878768Z No VM guests are running outdated hypervisor (qemu) binaries on this host.
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.3504085Z Downloading Chromium 134.0.6998.35 (playwright build v1161) from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1161/chromium-linux.zip
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.6344145Z |                                                                                |   0% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.7660453Z |■■■■■■■■                                                                        |  10% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.8187794Z |■■■■■■■■■■■■■■■■                                                                |  20% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.8716017Z |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.9241305Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:36.9939934Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:37.0614865Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:37.1299383Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:37.2044227Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:37.2780863Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:37.3386023Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 164.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.2436219Z Chromium 134.0.6998.35 (playwright build v1161) downloaded to /home/runner/.cache/ms-playwright/chromium-1161
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.2437907Z Downloading FFMPEG playwright build v1011 from https://cdn.playwright.dev/dbazure/download/playwright/builds/ffmpeg/1011/ffmpeg-linux.zip
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4084168Z |                                                                                |   0% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4273015Z |■■■■■■■■                                                                        |  10% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4380642Z |■■■■■■■■■■■■■■■■                                                                |  20% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4462900Z |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4535074Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4617206Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4631739Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4652501Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4711835Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4730920Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.4743077Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 2.3 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.5065413Z FFMPEG playwright build v1011 downloaded to /home/runner/.cache/ms-playwright/ffmpeg-1011
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.5066425Z Downloading Chromium Headless Shell 134.0.6998.35 (playwright build v1161) from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1161/chromium-headless-shell-linux.zip
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.6387613Z |                                                                                |   0% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.7494831Z |■■■■■■■■                                                                        |  10% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.8648371Z |■■■■■■■■■■■■■■■■                                                                |  20% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:39.9253934Z |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.0034251Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.0716721Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.1258361Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.1861661Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.2499430Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.3059053Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:40.3602449Z |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 100.9 MiB
+build	Verify the public receiving route before publication	2026-10-04T17:08:41.4940165Z Chromium Headless Shell 134.0.6998.35 (playwright build v1161) downloaded to /home/runner/.cache/ms-playwright/chromium_headless_shell-1161
+build	Verify the public receiving route before publication	2026-10-04T17:08:41.6159608Z curl: (7) Failed to connect to 127.0.0.1 port 4173 after 0 ms: Couldn't connect to server
+build	Verify the public receiving route before publication	2026-10-04T17:08:44.5873739Z PASS retained-home-to-library
+build	Verify the public receiving route before publication	2026-10-04T17:08:45.2645908Z PASS gallery-native-covers-search-and-no-eager-gpu
+build	Verify the public receiving route before publication	2026-10-04T17:08:47.1462189Z PASS bounded-column-scenes-open-exact-ref
+build	Verify the public receiving route before publication	2026-10-04T17:08:48.0649164Z PASS scene-source-full-return-and-reload
+build	Verify the public receiving route before publication	2026-10-04T17:08:49.9508001Z PASS direct-subject-selection-overlay-and-focus-containment
+build	Verify the public receiving route before publication	2026-10-04T17:08:51.5716385Z PASS real-frame-loop-pauses-in-library-and-restores-one-stage
+build	Verify the public receiving route before publication	2026-10-04T17:08:51.8803361Z PASS keyboard-camera-and-source-crossing
+build	Verify the public receiving route before publication	2026-10-04T17:08:52.8165848Z PASS detached-source-redock-preserves-subject
+build	Verify the public receiving route before publication	2026-10-04T17:08:53.5281025Z PASS edition-drift-and-unavailable-exact-scene-refuse-silent-substitution
+build	Verify the public receiving route before publication	2026-10-04T17:08:54.0012916Z PASS source-account-depth-and-no-authoring-or-write-requests
+build	Verify the public receiving route before publication	2026-10-04T17:08:55.0950071Z PASS responsive-and-reduced-motion-320
+build	Verify the public receiving route before publication	2026-10-04T17:08:56.2290635Z PASS responsive-and-reduced-motion-390
+build	Verify the public receiving route before publication	2026-10-04T17:08:57.3612758Z PASS responsive-and-reduced-motion-768
+build	Verify the public receiving route before publication	2026-10-04T17:08:58.7619139Z PASS responsive-and-reduced-motion-1440
+build	Verify the public receiving route before publication	2026-10-04T17:08:59.3356867Z PASS storage-unavailable-still-readable
+build	Verify the public receiving route before publication	2026-10-04T17:08:59.9687013Z PASS failed-publication-read-and-real-retry
+build	Verify the public receiving route before publication	2026-10-04T17:09:00.2544768Z {"passed": 16, "failed": 0, "renderer": "native ProductionAdapter; software WebGL2", "standing": "Controlled browser evidence, not owner visual acceptance or deployment"}
+build	Verify the public receiving route before publication	2026-10-04T17:09:01.6048486Z /home/runner/work/O-I/O-I/site/tests/library-regressions.py:23: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+build	Verify the public receiving route before publication	2026-10-04T17:09:01.6049571Z   pixels=list(image.crop((x-35,y-35,x+35,y+35)).getdata())
+build	Verify the public receiving route before publication	2026-10-04T17:09:03.8665954Z PASS 4 returned-reality regressions
+build	Verify the public receiving route before publication	2026-10-04T17:09:04.9470972Z PASS production build reflects its actual publications and excludes development/test datasets
+build	Verify the public receiving route before publication	2026-10-04T17:09:05.2419686Z PASS Library → actual-ref collection membership → subject; source revision pinned in URL
+build	Verify the public receiving route before publication	2026-10-04T17:09:05.5234234Z PASS accepted NativeStage renders native Expression; separate revisions and reduced motion retained
+build	Verify the public receiving route before publication	2026-10-04T17:09:06.0413032Z PASS Expression → same subject and paragraph; refresh and back/forward preserve exact reading
+build	Verify the public receiving route before publication	2026-10-04T17:09:06.3419704Z PASS permitted native graph/source depth and standalone edition return to unchanged reading
+build	Verify the public receiving route before publication	2026-10-04T17:09:06.3599381Z PASS missing exact edition is unavailable, never replaced with latest or fixture fallback
+build	Verify the public receiving route before publication	2026-10-04T17:09:06.5838842Z PASS narrow screen has no horizontal overflow; keyboard focus reaches controls
+build	Verify the public receiving route before publication	2026-10-04T17:09:06.9442679Z PASS native Library and retained Explore direct addresses open the same subject after refresh
+build	Verify the public receiving route before publication	2026-10-04T17:09:07.3685574Z PASS uncached offline native reading reports unavailability without local/key fallback
+build	Verify the public receiving route before publication	2026-10-04T17:09:07.4280524Z {"passed": 9, "fixture_scope": "tests only", "hosted_acceptance": false}
+build	Verify the public receiving route before publication	2026-10-04T17:09:09.1304638Z PASS http://127.0.0.1:40177/essay
+build	Verify the public receiving route before publication	2026-10-04T17:09:09.9654820Z PASS http://127.0.0.1:40177/essay/symbolon/matheme/README
+build	Verify the public receiving route before publication	2026-10-04T17:09:10.8436164Z PASS http://127.0.0.1:40177/essay/section-rooms/00-integral-threshold/ROOM-00-integral-threshold
+build	Verify the public receiving route before publication	2026-10-04T17:09:11.8061049Z PASS http://127.0.0.1:40177/essay/section-rooms/arguments/A01-Subject-God-and-Faithful-Definition
+build	Verify the public receiving route before publication	2026-10-04T17:09:12.7890844Z PASS http://127.0.0.1:40177/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding
+build	Verify the public receiving route before publication	2026-10-04T17:09:14.2142674Z PASS http://127.0.0.1:40177/essay/THE-RETURN-OF-ZERO
+build	Verify the public receiving route before publication	2026-10-04T17:09:15.2062828Z PASS http://127.0.0.1:40177/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism
+build	Verify the public receiving route before publication	2026-10-04T17:09:15.9740498Z PASS http://127.0.0.1:40177/essay/section-rooms
+build	Verify the public receiving route before publication	2026-10-04T17:09:17.1260701Z PASS http://127.0.0.1:40177/essay/not-a-real-page
+build	Verify the public receiving route before publication	2026-10-04T17:09:17.9554424Z PASS http://127.0.0.1:40177/symbolon/matheme/README
+build	Verify the public receiving route before publication	2026-10-04T17:09:19.0889889Z PASS http://127.0.0.1:40177/manuscript
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.2018419Z PASS http://127.0.0.1:38111/O-I/essay
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.4266636Z PASS http://127.0.0.1:38111/O-I/essay/not-a-real-page
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.5661260Z PASS pages non-essay 404 stays out of the essay
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7029767Z ----------------------------------------
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7030556Z Exception occurred during processing of request from ('127.0.0.1', 52962)
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7033383Z Traceback (most recent call last):
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7035366Z   File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7035773Z     self.finish_request(request, client_address)
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7036266Z   File "/usr/lib/python3.12/socketserver.py", line 362, in finish_request
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7036712Z     self.RequestHandlerClass(request, client_address, self)
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7037166Z   File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7037566Z     self.handle()
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7037840Z   File "/usr/lib/python3.12/http/server.py", line 436, in handle
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7038291Z     self.handle_one_request()
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7038643Z   File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7038978Z     method()
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7039320Z   File "/home/runner/work/O-I/O-I/site/tests/essay-host-smoke.py", line 126, in do_GET
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7039759Z     self.wfile.write(body)
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7040427Z   File "/usr/lib/python3.12/socketserver.py", line 840, in write
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7040773Z     self._sock.sendall(b)
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7041155Z ConnectionResetError: [Errno 104] Connection reset by peer
+build	Verify the public receiving route before publication	2026-10-04T17:09:20.7041712Z ----------------------------------------
+build	Verify the public receiving route before publication	2026-10-04T17:09:21.1559813Z PASS vercel / retains the original hero and developed home
+build	Verify the public receiving route before publication	2026-10-04T17:09:52.0394707Z PASS vercel-1440
+build	Verify the public receiving route before publication	2026-10-04T17:09:53.1851405Z FAIL vercel-1100 focus escaped modal
+build	Verify the public receiving route before publication	2026-10-04T17:09:54.3474887Z FAIL vercel-900 focus escaped modal
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0601485Z FAIL vercel-390 Locator expected to be visible
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0602884Z Actual value: hidden 
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0603130Z Call log:
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0603312Z   - LocatorAssertions.to_be_visible with timeout 5000ms
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0603629Z   -   - waiting for locator("#essay-connections").locator(".toc")
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0604292Z   -     9 × locator resolved to <div class="toc">…</div>
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0604579Z   -       - unexpected value "hidden"
+build	Verify the public receiving route before publication	2026-10-04T17:10:16.0604780Z 
+build	Verify the public receiving route before publication	2026-10-04T17:10:37.2891080Z FAIL vercel-deep-routes-and-search Locator expected to be visible
+build	Verify the public receiving route before publication	2026-10-04T17:10:37.2891515Z Actual value: <element(s) not found> 
+build	Verify the public receiving route before publication	2026-10-04T17:10:37.2891759Z Call log:
+build	Verify the public receiving route before publication	2026-10-04T17:10:37.2891992Z   - LocatorAssertions.to_be_visible with timeout 20000ms
+build	Verify the public receiving route before publication	2026-10-04T17:10:37.2892246Z   -   - waiting for locator(".pl")
+build	Verify the public receiving route before publication	2026-10-04T17:10:37.2892401Z 
+build	Verify the public receiving route before publication	2026-10-04T17:11:07.4690441Z PASS pages-1440
+build	Verify the public receiving route before publication	2026-10-04T17:11:08.6435306Z FAIL pages-1100 focus escaped modal
+build	Verify the public receiving route before publication	2026-10-04T17:11:09.8143871Z FAIL pages-900 focus escaped modal
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0873987Z FAIL pages-390 Locator expected to be visible
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0892079Z Actual value: hidden 
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0892751Z Call log:
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0893360Z   - LocatorAssertions.to_be_visible with timeout 5000ms
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0893953Z   -   - waiting for locator("#essay-connections").locator(".toc")
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0894823Z   -     9 × locator resolved to <div class="toc">…</div>
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0895353Z   -       - unexpected value "hidden"
+build	Verify the public receiving route before publication	2026-10-04T17:11:33.0895640Z 
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.2701552Z FAIL pages-deep-routes-and-search Locator expected to be visible
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.2702096Z Actual value: <element(s) not found> 
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.2703373Z Call log:
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.2703663Z   - LocatorAssertions.to_be_visible with timeout 20000ms
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.2703959Z   -   - waiting for locator(".pl")
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.2704103Z 
+build	Verify the public receiving route before publication	2026-10-04T17:11:54.8962092Z ##[error]Process completed with exit code 1.

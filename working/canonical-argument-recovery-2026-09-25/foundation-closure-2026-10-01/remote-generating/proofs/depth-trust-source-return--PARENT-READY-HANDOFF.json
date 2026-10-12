@@ -1,0 +1,37 @@
+{
+  "status": "One complete independently accepted source-house operation frozen nonlive; parent native inclusion/checks/publication separate.",
+  "candidate": {
+    "key": "TRUST-SOURCE",
+    "native": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-trust-source-return/SOURCE-before.md.txt",
+    "preimage_sha256": "0c1213e82486b887d96caf169c318cae4e2bac7cc579509f8726cbe82d95b71b",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-trust-source-return/EFFECTS-BEFORE.json",
+    "effects_sha256": "401b5345f1778ec09c385e3ec5b96e30323034c454a05637bf3d4c0fe1ab5c8e",
+    "depth": 4,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-trust-source-return/SOURCE-candidate.md.txt",
+    "candidate_sha256": "1bb7c8d8f45b9fcf6b2835fb900736567329d88ee807f6e8749db9f90e563926",
+    "source_readings": {
+      "raw": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd",
+      "coverage": "Entire57532chars/309lines freshly read in contiguous0–12000/12000–24000/24000–36000/36000–48000/48000–end; no clipping in these full reads."
+    },
+    "changed_operation": "The source-house description now identifies the actual trust fork plus complete later inverse/crux/musical/mythic coordination without falsely binding an absent quotation or a separate full downward-responsibility account to this raw copy.",
+    "retained": "Entire metadata/quote_status/edition_status/chicago/consumers/passages/Essay use/local-copy identity unchanged; immutable full raw source unchanged.",
+    "quotation_exception": "The unlocated quotation claim is removed from the source description, with exact preimage/line/diff preserved. This does not assert that the human never uttered it elsewhere; it was not present in the declared source.",
+    "cold_status": "Independently accepted at exact1bb7c8d8; frozen nonlive for parent inclusion/native gates.",
+    "independent_cold": {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/INDEPENDENT-TRUST-SOURCE-REVIEW.json",
+      "sha256": "cf53f564df2d07c301c1646cbd11b70d2f39118d48fb0bdf5e8e55a2bc9d027d",
+      "scope": "Complete309-line actual raw/whole house old-new and exact description repair; no all197 receiving acceptance."
+    }
+  },
+  "manifest": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-trust-source-return/CANDIDATES.json",
+    "sha256": "82ebd418e130e2254055de9a60e65de0f98a936b36c70f01f32f2d754b7adb01"
+  },
+  "ledger": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-trust-source-return/EXECUTION-LEDGER.json",
+    "sha256": "066702ed0b235ab3ee1c780d47a99826132ff60eb73c4e14e01affa976712a8a"
+  },
+  "separate_from_frozen_38": true
+}

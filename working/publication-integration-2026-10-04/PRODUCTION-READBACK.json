@@ -1,0 +1,194 @@
+{
+  "url": "https://oi.epi-logos.org",
+  "deployment": "https://oi-epi-logos-c65d3gfdh-frankgtaylor97-8457s-projects.vercel.app",
+  "verified_at": "2026-10-04T18:01:19.600274+00:00",
+  "status": 200,
+  "input_sha256": "807b776ed061abc919a89b66321658d4cb568bc3d8c40f4f856e23d19c9e2bc3",
+  "files": 890,
+  "canonical_main": "44e4da181e9795ede293b3004c2293bbf7ad73e6",
+  "snapshot_commit": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "every_input_hash_matches": true,
+  "formal_svg_byte_match": true,
+  "code_commit": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "pr": "https://github.com/EpiLogos/O-I/pull/582",
+  "favicon_declared": true,
+  "favicon_byte_match": true,
+  "exact_live_file_checks": [
+    {
+      "path": "essay/index.html",
+      "url": "https://oi.epi-logos.org/essay/",
+      "status": 200,
+      "bytes": 54547,
+      "sha256": "0675617179f502d4c87c78104c3097a920ff9807f4dd31e11ced77b4fce64049",
+      "byte_match": true
+    },
+    {
+      "path": "index.html",
+      "url": "https://oi.epi-logos.org/",
+      "status": 200,
+      "bytes": 790,
+      "sha256": "43568206c1c2d7ab0e61aabf76e13075fab8b3612b3716273a0ae900b846fba1",
+      "byte_match": true
+    },
+    {
+      "path": "essay/quartz-source.json",
+      "url": "https://oi.epi-logos.org/essay/quartz-source.json",
+      "status": 200,
+      "bytes": 191200,
+      "sha256": "5bf5b12bf9f8ac996b40ea996ebcba9b3d29c48d33b3f349a0ff4f52891e1961",
+      "byte_match": true
+    },
+    {
+      "path": "essay/index.css",
+      "url": "https://oi.epi-logos.org/essay/index.css",
+      "status": 200,
+      "bytes": 42475,
+      "sha256": "c4082424fe90722f2f8f94e1bfc5b339379e8961ee42f585b90a79e9b2a54c3b",
+      "byte_match": true
+    },
+    {
+      "path": "essay/prescript.js",
+      "url": "https://oi.epi-logos.org/essay/prescript.js",
+      "status": 200,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byte_match": true
+    },
+    {
+      "path": "essay/postscript.js",
+      "url": "https://oi.epi-logos.org/essay/postscript.js",
+      "status": 200,
+      "bytes": 728120,
+      "sha256": "ba7eb8cd029d590fee29e17adb3268ed44ce7905378014b70c0f75ca4fcfd872",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/public-site.md",
+      "url": "https://oi.epi-logos.org/data/library/public-site.md",
+      "status": 200,
+      "bytes": 45977,
+      "sha256": "f68a9fe565705a2de1c83b4b40144649d7f1bcb3cb0c76cf225de95dc6aca3d4",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/index.json",
+      "url": "https://oi.epi-logos.org/data/library/index.json",
+      "status": 200,
+      "bytes": 51461,
+      "sha256": "1df4d00f24f33b3555312f00bfc2c537d19e2debde5dc427ea24e5c6c81f80f6",
+      "byte_match": true
+    },
+    {
+      "path": "essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding.svg",
+      "url": "https://oi.epi-logos.org/essay/symbolon/matheme/diagrams/torus-square-quotient-and-winding.svg",
+      "status": 200,
+      "bytes": 3240,
+      "sha256": "d0c2dbfa664208b535e50930218d929a05344af98fddc70f74255c6178b1ab00",
+      "byte_match": true
+    },
+    {
+      "path": "assets/main-COig66Ro.js",
+      "url": "https://oi.epi-logos.org/assets/main-COig66Ro.js",
+      "status": 200,
+      "bytes": 514818,
+      "sha256": "f6230656065b227509a569c5c2e715097c6f056de48bad51bf345ff6996baed6",
+      "byte_match": true
+    },
+    {
+      "path": "assets/main-DFHOPj5T.js",
+      "url": "https://oi.epi-logos.org/assets/main-DFHOPj5T.js",
+      "status": 200,
+      "bytes": 28,
+      "sha256": "6a5ce075ce4abc0429e4517b6f53e639fff47fb62983607fd7744f79a936ac3d",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/central.json",
+      "url": "https://oi.epi-logos.org/data/library/central.json",
+      "status": 200,
+      "bytes": 51748,
+      "sha256": "69075fd721f8e10fa90302c4852e4c44c3d86d5c9d98380ce4d0c68c1cd15fde",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/actuation.json",
+      "url": "https://oi.epi-logos.org/data/library/actuation.json",
+      "status": 200,
+      "bytes": 49633,
+      "sha256": "d07f7eeb28af2a65230c9de495b761248592986483a322fdcf852eb70e6b1381",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/aikit.json",
+      "url": "https://oi.epi-logos.org/data/library/aikit.json",
+      "status": 200,
+      "bytes": 47972,
+      "sha256": "921eed3ae78e3a0fc7f5d1389020a80510e17c9576852f50bd963ef8b655dc92",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/factory.json",
+      "url": "https://oi.epi-logos.org/data/library/factory.json",
+      "status": 200,
+      "bytes": 48577,
+      "sha256": "c8e59e47d4608a3fd4bb8e5b1f3ef0c01e9b914ab9b3f46bd5f5a108205e16e4",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/workcell.json",
+      "url": "https://oi.epi-logos.org/data/library/workcell.json",
+      "status": 200,
+      "bytes": 49207,
+      "sha256": "69abb8e9c1827b3dfdb9c318cd0eb8278a019d8e80f09334dd2cbe9558b9cf19",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/ql.json",
+      "url": "https://oi.epi-logos.org/data/library/ql.json",
+      "status": 200,
+      "bytes": 47290,
+      "sha256": "331239be4c71e0302150c53d8d1509960b02b583504e25c020cfa4b352c1c31a",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/oi.json",
+      "url": "https://oi.epi-logos.org/data/library/oi.json",
+      "status": 200,
+      "bytes": 91600,
+      "sha256": "8902dd38bad6f1be2038d4cc4caf93d1f15b9e1b1e49a4b9e467a4813940d1dc",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/research.json",
+      "url": "https://oi.epi-logos.org/data/library/research.json",
+      "status": 200,
+      "bytes": 96994,
+      "sha256": "537f5061f1c4f48b80236a7c49bcba3611bd87577e6cc368af7e49397158b0a6",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/shared-field.json",
+      "url": "https://oi.epi-logos.org/data/library/shared-field.json",
+      "status": 200,
+      "bytes": 53249,
+      "sha256": "bfb890fc973b4570834b01a913b02e3461603dabb05abc313cc4f220db3b000d",
+      "byte_match": true
+    },
+    {
+      "path": "data/library/build.json",
+      "url": "https://oi.epi-logos.org/data/library/build.json",
+      "status": 200,
+      "bytes": 43617,
+      "sha256": "14bd3600c95fb0be25b958f52b73eec82e19b085cea93de786f18f1ac2969f3d",
+      "byte_match": true
+    },
+    {
+      "path": "media/brand/oi-cube.svg",
+      "url": "https://oi.epi-logos.org/media/brand/oi-cube.svg",
+      "status": 200,
+      "bytes": 713,
+      "sha256": "7d96509b6afb711411cd00a7cff959dbb7288469bf6ce6c773d085d273a33c4b",
+      "byte_match": true
+    }
+  ]
+}

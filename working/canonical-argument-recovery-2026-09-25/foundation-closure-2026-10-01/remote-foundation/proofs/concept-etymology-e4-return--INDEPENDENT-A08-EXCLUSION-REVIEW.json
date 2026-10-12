@@ -1,0 +1,94 @@
+{
+  "kind": "independent complete source/public cold",
+  "reader": "concept_recovery",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/candidates/A08-Apoha-Constitutive-Exclusion.md.txt",
+  "candidate_sha256": "6a716929b3e2210ec0b66c21935a4b7e6c3acaec6e246614c3dbfb2867111a5a",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/preimages/A08-Apoha-Constitutive-Exclusion.md.txt",
+  "preimage_sha256": "97d09b4d0c5454c50b603b528d2094ebbbdb3d1b73a25fcd8afc2739415c0d1b",
+  "writer_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/CANDIDATE-MANIFEST.json",
+  "writer_manifest_sha256": "6f819fb65de4d7035a40e0a1928e65653d5e5379d40ca332cf1fc3d3eef46aa0",
+  "disposition": "accepted bounded complete native A08 constitutive-exclusion operation",
+  "actual_whole_read": "Entire76-line immutable native preimage and83-line final candidate freshly read untruncated before receipt; complete50-line current published prime also freshly read. Candidate42–83 freshly replayed after source unit re-entry. Worker source ledger read only opening3700characters, not claimed complete. No canonical writes.",
+  "fresh_actual_sources": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+      "sha256": "6480239f5230c10cba11452c098f59f3215f4b24420d558034863132e8859c02",
+      "scope": "Fresh entire109-line house. Both translated passages and provisional qualified-preclusion fragment are source-distinct; no additional primary manuscript/edition verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+      "sha256": "cf3e407b478cadf36c930e0568fcd8eaa66a5e00edef01b6cd559b42c491fb5b",
+      "scope": "Fresh complete SOURCE in1–110 and111–end untruncated; collection review/publisher transmission and nominal/verbal distinction remain secondary, printed chapter collation uncompleted."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "sha256": "9a8ea4a1308e687196609b2d609d9f543d4393030f23e62a4409f0fd6e31786c",
+      "scope": "Fresh entire97-line house; 1980 selected edition versus1981 intake ID and no verified book quotation preserved."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "sha256": "8dc5a0cad0c263cd88df188216f0ba54af9b0a8d815d9d10442a344d25224d8b",
+      "scope": "Fresh complete protected16-long-line6852-character notes read only; Taylor/Frank encounter is not new verified Kripke wording."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+      "sha256": "a4f358342a722c9a5ff2fea5e53567020ed4ef5591d310c8207a0e3c456f11a3",
+      "scope": "Fresh entire103-line source house; epistemic relation versus historically particular real-power dispute preserved."
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "sha256": "e8089310447b4c53764271a53e0880f0cb2cc9e1bac025a6adc9364f138b9b7f",
+      "scope": "Fresh completeD0–D5 in41–103 including adjacentD6–D8 and completeC5 with adjacentC6/C7 in144–160. Authorial bare-counter/circumstance/rigidity comparison and own momentary svalaksana objection/depth ordering remain argued construction, not comparative consensus."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "scope": "Fresh complete Buddhist–Saiva owning sections14–16 in409–476, plus adjoining17 opening. Prior actual whole corrected contribution2817–3213 retained. No new whole-quilt sourcebook claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "sha256": "6ba3ab0964e1eb83aeac8133db8e391b0d92b3557f8a564f7a6372e05a318d23",
+      "scope": "Fresh whole selected southwest jewel/recursive question/ink-dot transmission unit17–38, not new whole current carrier acceptance. Prior actual complete source-linked Huayan operation retained; source translation/authorship limits remain."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "scope": "Fresh151–188 and337–437 in this return, clipped337–360 explicitly reopened; prior actual entire640-line field retained. Parent/six/return, recursive local knower/means/known and containing Life govern."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "scope": "Fresh entire102-line minute; fresh complete anti-anti-overclaim correction also retained. Positive local functions and particular warrant/retention conditions preserved."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md",
+      "sha256": "69f19a43f34d97638d15ee4bd006456a2cc054c35f0ff63b3960e486d418e739",
+      "scope": "Fresh entire50-line published prime unchanged; complete paired semantic operation read without claiming all future receiving consumers closed."
+    }
+  ],
+  "accepted_operations": [
+    "Positive exclusion-constituted term retains active constitutive alternatives; centered Dia differs from cancellation or arrogation and syn retains difference.",
+    "Pind word excluding other referents and qualified thing positive reach remain two textual offices; verified translated wording does not erase provisional fragment assignment.",
+    "Nominally bound term formation versus verbally bound denial remains review/publisher received; exclusion-that-remembers is Taylor operational gloss, not literal stored inventory or original translated phrase.",
+    "Kripke trans-circumstantial tracking and momentary efficacious ineffable particular remain distinct positive objects; authorial disagreement or depth ordering remains live.",
+    "Buddhist critique of self-thing remains while Taylor Saiva luminous/reflexive relation holds present and absent alternatives; historically particular relation dispute is not collapsed.",
+    "Constructive selection, semantic nonapplication, formal noncoincidence, centered polarity and relational gathering remain different operations.",
+    "Relative score, normalized distribution and selected index preserve numerical differences; only relevant constitutive gauge/contrast needs recoverability, compatible with privacy and terse delivery.",
+    "Unique emptyset remains formal object distinct from semantic nonapplication and nonobjectifiable knowing; full parent/six/return eight order retained.",
+    "Maya aperture positive cut and frame totality claim differ; region/count and selected southwest Huayan jewel retain distinct semantic/doctrinal offices.",
+    "Local classifier functional knower, requirements/rules/records/alternatives means, fitness known, and whole apparatus means in person inquiry; further inspection does not inventory firstperson condition.",
+    "Adequate-rule source correction versus failed-rule capable criterion/commission authority and reasoned fitting retention inherit next decision; final winner/rejection list alone lacks actual return."
+  ],
+  "findings": [],
+  "actual_retention_checks": {
+    "native_still_exact_preimage": true,
+    "published_prime_exact": true,
+    "old_headings_retained": true
+  },
+  "limits": [
+    "No new primary Buddhist fragment/manuscript, collection printed chapter, Kripke edition, external whole book or quotation/readiness upgrade.",
+    "No clinical/repression identity, deployed classifier, runtime measured processing change or universal phenomenality conclusion.",
+    "Effects bytes, names and unchanged audit do not supply semantic acceptance of all173 receiving impacts or entire source/consumer field.",
+    "No movement/manuscript edit or global foundation closure. Parent owns inclusion/native validation/publication."
+  ]
+}

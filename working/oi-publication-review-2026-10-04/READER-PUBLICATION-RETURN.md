@@ -1,0 +1,25 @@
+# Recovered Quartz reader — publication return
+
+4 October 2026. Built source 73a06f0e108dfb417ea42ac50130a6b681bd5e58; selected reading b2b5b706105891f69e2a68ecd160dbe4add3828e. Parent owns Git/publication and confirmed deployment to the existing production project; this lane completed the final live replay.
+
+Parent publication is complete: [PR #582](https://github.com/EpiLogos/O-I/pull/582) merged to main at 336e2141b1e10e1d5ec21968d3cbe0d157e85716 after all applicable CI passed. Its tree matches the validated source. The independent Site CI also passed all 12 reader cases; 22 deployed files match the tested build byte-for-byte. The primary reader is live. GitHub Pages follows its normal main workflow separately. The shared checkout's active home-copy inputs remain preserved; the exact source, recovery patch, logs, receipts and screenshots are retained after retiring the temporary verification materialization.
+
+The repair uses the recovered saved September follow-on, 5cbd50eda28cdae3968ec56424614b6532680fbb, following the partial 4ce readability work. Its actual native Explorer naming, local-tag default and global namespace filter survive. Metadata suppression, night skin, genuine graph/tree/Search, source links, contents and backlinks remain operative.
+
+Pages and Connections now have independent desktop controls and accessible native modal drawers below 1280px. The graph stays at the top of the right drawer and redraws when opened/resized. The native modal contains focus, first Escape closes a nested graph/Search and next Escape closes its drawer, and background reading scroll stays locked. The phone Pages heading, Close and Search precede the tree. Reading remains within 54rem with no measured horizontal overflow at 1440, 1100, 900 or 390px.
+
+The opening now has one exact full title and direct routes to §0/1, its working six movements, the developing manuscript and sources. The renderer preserves explicitly authored §0/1 aliases. This was navigation/orientation work, not a rewrite of philosophical records or manuscript bodies. The earlier restored O:I hero is held for this release; concurrent newer home copy and sovereign-manuscript collation remain untouched in the working source.
+
+Native Search now cleans up its actual named open callback and owned dynamic result/preview nodes, invalidates stale asynchronous work, and shares one complete index population promise. Its active overlay covers the toolbar. The toolbar mounts outside native preview hints so actual previews cannot clone it. The original leak from three to five button handlers and intermittent empty-results failure are retained in SEARCH-LIFECYCLE-DIAGNOSIS.json and REPEAT-SEARCH-TRACE.json; the same original query remains in the regression.
+
+## Verification
+
+The exact immutable native public build passed. All 12 real Chromium regression cases passed: both Vercel root and Pages /O-I host bases, four controls widths, plus the same query repeated after actual SPA navigation at 900 and 1440px. Checks include rendered graph pixels, real filter selection, focus/Escape/scroll, viewport redraw, foundation/backlinks, O:I exit and root/deep routes, real Search results/previews, preview toolbar uniqueness and actual desktop hit testing. Earlier failures remain in separate evidence folders. See QUARTZ-READER-REPAIR.json, FINAL-SEARCH-FIXED-READER-CONTROLS.log and final-search-fixed-reader-controls/reader-controls.json.
+
+Parent independently reports 15/15 unchanged native host smoke and full clean exact-source 19/19 native landing gates. Its receipts retain all 890 reading-input matches, the held manuscript, excluded concurrent section, 17 protected inputs, original home bytes and ten native Library source commits. This lane did not substitute those source proofs with screenshot names.
+
+All five production cases passed against [the actual published reader](https://oi.epi-logos.org/essay/): controls at 1440/900/390px, and repeated Search/deep routes at 1440/900px. Every logged document returned HTTP 200; HTTP, console and JavaScript error arrays are empty. The opened graph is at y=123px on both narrow and phone views, and document width equals viewport width. See production-reader-controls/production-reader.json and PRODUCTION-READER-REPLAY.log. The runner uses the exact same native functions and records document status, HTTP/console/JavaScript errors and actual screenshots. Installed Chromium with real ANGLE/SwiftShader graphics was used; no Firefox/WebKit pass is claimed by this reader replay. Website checks are distinct from evidence of a person using the installed O:I application.
+
+## Copy handoff
+
+CLAUDE-COPY-BRIEF.md contains the actual native README/site reconnaissance, warranted current-address corrections, S/S0–S5 integration direction and concrete target paths. No blanket native README readiness rewrite is warranted. Its proposed reader composition starts with the undertaking and the §0/1 entrance, retaining the complete wider field. It distinguishes the previously published restored home from concurrent newer working copy and applies the later authorial no-word-ceiling correction.

@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "key": "A14",
+      "native_path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "preimage_sha256": "fad3e50cfe3b57498519141905c635dc4451abb3e9c0147a702b1ecaaa09410f",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-process-return/candidates/A14-Computational-Process-Ontology.md.txt",
+      "candidate_sha256": "70f03e9436edec5cb68e06e06d91b75df025d69a55c9156d9dcad86423e2f0ea",
+      "status": "Frozen complete source/public operation; independently accepted at exact final candidate; parent inclusion/gates pending",
+      "effects_depth": 4,
+      "qualification_reviews": 5,
+      "hard_errors": 0,
+      "retention": "EXACT-RETENTION.json"
+    }
+  ],
+  "live_writes": false,
+  "pre_edit_operation": "PRE-EDIT-RECOVERY.json",
+  "direct_receiving_bodies": 13,
+  "transverse_whole_maps": 3,
+  "returned_byte_paths": 182,
+  "cold_limits": "No detector-only acceptance, new whole external books, quotation readiness, deployed ecology or blanket receiving closure.",
+  "independent_cold_review": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/INDEPENDENT-A14-PROCESS-REVIEW.json",
+    "sha256": "5ee3d453767a083d258920865544c2bafb9b9fe344ea2425c5f9630c7349734b",
+    "result": "accepted exact full candidate70f03e94 with bounded source/public operation review",
+    "reviewer": "concept_recovery"
+  },
+  "status": "frozen; independently source/public accepted; parent integration gates pending"
+}

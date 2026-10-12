@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-02",
+  "reviewer": "/root/argument_recovery",
+  "canonical_writes": 0,
+  "records": [
+    {
+      "key": "C18",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C18-Apoha.md.txt",
+      "candidate_sha256": "0c4c11b64c9607e2863125b24efc82078a6159d862b93f47170fdf88f577e904",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/preimages/C18-Apoha.md.txt",
+      "preimage_sha256": "c7923ca8d5c196e0016dcdb6f597e560d9c7e7c09e7a0958101284ab05c500cc",
+      "actual_read": "complete current candidate and whole old preimage read, no truncation in these four full outputs",
+      "source_public_disposition": "bounded complete changed operation accepted; no exact lost step, false source attribution, mandatory criterion change or remaining semantic address/schema wrapper found"
+    },
+    {
+      "key": "C19",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C19-Pratyabhijna-Recognition.md.txt",
+      "candidate_sha256": "3630bceca9f086cbda0f5574fc2d91ce885930d0e5e2b2c8b6cf70018e79ce7f",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/preimages/C19-Pratyabhijna-Recognition.md.txt",
+      "preimage_sha256": "2597e4c29a6ead2d1b388a568bcc1746addd466473156c8ed189c4533b29fe77",
+      "actual_read": "complete current candidate and whole old preimage read, no truncation in these four full outputs",
+      "source_public_disposition": "bounded complete changed operation accepted; no exact lost step, false source attribution, mandatory criterion change or remaining semantic address/schema wrapper found"
+    },
+    {
+      "key": "C22",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C22-Counterfeit-Symbolon.md.txt",
+      "candidate_sha256": "59fbb1ec6a8ef5c178f637127879ec4e6fe3876ad43ab09f75a96debc8f1e2b9",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/preimages/C22-Counterfeit-Symbolon.md.txt",
+      "preimage_sha256": "2a460b278d7d9a16340f897b85d2974cf512e58dc4ff1588e0f43eddf99dd4ab",
+      "actual_read": "complete current candidate and whole old preimage read, no truncation in these four full outputs",
+      "source_public_disposition": "bounded complete changed operation accepted; no exact lost step, false source attribution, mandatory criterion change or remaining semantic address/schema wrapper found"
+    },
+    {
+      "key": "C23",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/candidates/C23-Severance.md.txt",
+      "candidate_sha256": "f5a48613de0b8b130a2ea59cfd32acf21b2101b250a756cdeb8a2216624f3cd2",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/preimages/C23-Severance.md.txt",
+      "preimage_sha256": "808f3958f452f8738d688bbd016b6fddc5971d4a09ea399e0f6939b805f6ff4c",
+      "actual_read": "complete current candidate and whole old preimage read, no truncation in these four full outputs",
+      "source_public_disposition": "bounded complete changed operation accepted; no exact lost step, false source attribution, mandatory criterion change or remaining semantic address/schema wrapper found"
+    }
+  ],
+  "fresh_source_units": [
+    "Full current Pind SOURCE137 lines and Siderits SOURCE complete, including q001–q004 and their exact secondary/fragment status.",
+    "Dyczkowski complete local transcript pp71–75 (SOURCE257–326): internal/external awareness, four functions/three levels, contracted/expanded ascent/descent and recognition; publication text-check not newly performed.",
+    "Complete Q27 §16 lines440–477, §10 lines5661–5676 and §12 lines5694–5712, all actual untruncated units.",
+    "CoreIV248–334 plus completeXI572–640, clipped tiny609 paragraph explicitly reopened607–611. Prior actual complete core640/Dynamics/latestminute and complete current A13/A13prime, A08/A08prime, A21/A21prime source basis retained."
+  ],
+  "precise_acceptances": {
+    "C18": "Nominal/verbal negations and qualified positive referent remain source-distinct; deciding material alternatives can remain recoverable without exhaustive output catalog; source correction under fitting criterion vs faulty criterion authority retained. Not a Buddhist normalisation theorem.",
+    "C19": "Recollection/content vs integral knowing relation, x→X→x and crossedzero mediation, actual changed future and differentiated destinations survive; functional local triad enters containing Life, not substitution for the source specific integral self awareness.",
+    "C22": "Productive representation distinct from counterfeit closure; severance/fusion/captive gathering/monoisation/occupied source/fabricated provenance remain differentiated; actual evidence reaches specific condition and inherited next act.",
+    "C23": "Signed arithmetic results exact, philosophical collapsed relation separate; productive divide AND recomposition, legitimate refusal/separation and credited result survive; return does not compel merger or agreement."
+  },
+  "limits": [
+    "No new selected book/PDF primary publication or quotation readiness/clinical/empirical deployment acceptance. Pind fragment attribution remains provisional; Siderits chapter page collation remains open; Dycz/Van copy leads not promoted.",
+    "No untouched consumer, entire history, deferred movement or sovereign manuscript acceptance inferred from effects or peer byte access."
+  ],
+  "heavy_execution": "none; unchanged parent gates separate from source cold acceptance"
+}

@@ -1,0 +1,17 @@
+{
+  "basis": "Original immutable 8f4a11c6589e5047b0a4b7fb20f1f8547bdde3ef, reading b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "observed": [
+    "Full replay failed repeated native Search in both host modes; targeted trace separately failed first Search, then a second targeted trace passed both same-query searches. This is intermittent, not an unchanged-input suppression.",
+    "Both before-fill input values are empty; both query input events fire.",
+    "Reused native Search button has 3 click handlers before first fill and 5 before the second; input listener remains single.",
+    "Native source registers anonymous click callbacks and removes a different fresh callback; asynchronous setup/results lack navigation/disposal ownership guards."
+  ],
+  "repair": [
+    "Use the same named click callback for add/remove; dispose dynamic native result/preview containers and pending query/preview work on navigation.",
+    "Invalidate pending setup with prenav generation; share one complete native index population promise and await it for a query.",
+    "Raise active native Search sidebar to40 and restore on hide; open a closed native Pages panel for its existing keyboard shortcut.",
+    "Repeat identical actual query after native SPA result/return route on desktop1440 and narrow900 for both host bases, record input/container state, require a real matching result, prove desktop overlay with actual hit testing."
+  ],
+  "trace": "REPEAT-SEARCH-TRACE.json",
+  "limitation": "Confirmed listener leak and unsafe asynchronous ownership are defects. A targeted passing original-build trace by itself does not prove their precise contribution to every intermittent failure. Completed repaired-build replay is required."
+}

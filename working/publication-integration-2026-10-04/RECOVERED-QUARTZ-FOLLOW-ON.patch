@@ -1,0 +1,209 @@
+diff --git a/site/tests/essay-host-smoke.py b/site/tests/essay-host-smoke.py
+index 04845370..dab7c5e8 100644
+--- a/site/tests/essay-host-smoke.py
++++ b/site/tests/essay-host-smoke.py
+@@ -177,6 +177,22 @@ def main():
+                         if has_body:
+                             lh = page.evaluate('parseFloat(getComputedStyle(document.querySelector("article .body p")).lineHeight) / parseFloat(getComputedStyle(document.querySelector("article .body p")).fontSize)')
+                             assert lh >= 1.6, f'body line-height too tight: {lh}'
++                        fade_left = page.locator('button[aria-label="Toggle explorer"]')
++                        fade_right = page.locator('button[aria-label="Toggle graph rail"]')
++                        expect(fade_left).to_be_visible()
++                        expect(fade_right).to_be_visible()
++                        if 'THE-RETURN-OF-ZERO' in url:
++                            folder_color = page.locator('.explorer .folder-container a').first.evaluate('el => getComputedStyle(el).color')
++                            file_color = page.locator('.explorer li:not(:has(.folder-container)) > a').first.evaluate('el => getComputedStyle(el).color')
++                            assert folder_color != file_color, 'explorer folders and files share one color'
++                            labels = page.locator('.explorer ul a').all_text_contents()
++                            assert not any('§0/1 ·' in t for t in labels), 'station prefix repetition still in explorer'
++                        graph_btn = page.locator('.global-graph-icon')
++                        if graph_btn.count() == 1:
++                            graph_btn.click()
++                            expect(page.locator('.global-graph-outer .tag-filter')).to_be_visible(timeout=20000)
++                            assert page.evaluate('localStorage.getItem("oi-graph-tag-namespaces")') is not None, 'graph tag filter state missing'
++                            page.keyboard.press('Escape')
+                         background = page.evaluate('getComputedStyle(document.body).backgroundColor')
+                         assert background == NIGHT_BG, f'essay background {background}, expected the night ground'
+                         if heading:
+diff --git a/site/vendor/quartz/quartz.layout.ts b/site/vendor/quartz/quartz.layout.ts
+index d3431c2a..514cf7c8 100644
+--- a/site/vendor/quartz/quartz.layout.ts
++++ b/site/vendor/quartz/quartz.layout.ts
+@@ -21,6 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
+       condition: (page) => page.fileData.slug !== "index",
+     }),
+     Component.ArticleTitle(),
++    Component.FadeToggles(),
+   ],
+   left: [
+     Component.PageTitle(),
+@@ -33,7 +34,17 @@ export const defaultContentPageLayout: PageLayout = {
+         },
+       ],
+     }),
+-    Component.Explorer(),
++    Component.Explorer({
++      // Display names only: strips repeated station prefixes from movement
++      // titles and humanises numbered folder slugs. Slugs and URLs untouched.
++      mapFn: (node) => {
++        if (node.isFolder) {
++          node.displayName = node.displayName.replace(/^\d{2}-/, "").replace(/-/g, " ")
++        } else {
++          node.displayName = node.displayName.replace(/^§[^ ]+ · /, "")
++        }
++      },
++    }),
+   ],
+   right: [
+     Component.Graph(),
+@@ -44,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
+ 
+ // components for pages that display lists of pages  (e.g. tags or folders)
+ export const defaultListPageLayout: PageLayout = {
+-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle()],
++  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.FadeToggles()],
+   left: [
+     Component.PageTitle(),
+     Component.MobileOnly(Component.Spacer()),
+@@ -56,7 +67,17 @@ export const defaultListPageLayout: PageLayout = {
+         },
+       ],
+     }),
+-    Component.Explorer(),
++    Component.Explorer({
++      // Display names only: strips repeated station prefixes from movement
++      // titles and humanises numbered folder slugs. Slugs and URLs untouched.
++      mapFn: (node) => {
++        if (node.isFolder) {
++          node.displayName = node.displayName.replace(/^\d{2}-/, "").replace(/-/g, " ")
++        } else {
++          node.displayName = node.displayName.replace(/^§[^ ]+ · /, "")
++        }
++      },
++    }),
+   ],
+   right: [Component.Graph()],
+ }
+diff --git a/site/vendor/quartz/quartz/components/Graph.tsx b/site/vendor/quartz/quartz/components/Graph.tsx
+index 907372e9..9ed4cbf0 100644
+--- a/site/vendor/quartz/quartz/components/Graph.tsx
++++ b/site/vendor/quartz/quartz/components/Graph.tsx
+@@ -37,7 +37,7 @@ const defaultOptions: GraphOptions = {
+     linkDistance: 30,
+     fontSize: 0.6,
+     opacityScale: 1,
+-    showTags: true,
++    showTags: false,
+     removeTags: [],
+     focusOnHover: false,
+     enableRadial: false,
+diff --git a/site/vendor/quartz/quartz/components/index.ts b/site/vendor/quartz/quartz/components/index.ts
+index cece8e61..3289a3f9 100644
+--- a/site/vendor/quartz/quartz/components/index.ts
++++ b/site/vendor/quartz/quartz/components/index.ts
+@@ -11,6 +11,7 @@ import ContentMeta from "./ContentMeta"
+ import Spacer from "./Spacer"
+ import TableOfContents from "./TableOfContents"
+ import Explorer from "./Explorer"
++import FadeToggles from "./FadeToggles"
+ import TagList from "./TagList"
+ import Graph from "./Graph"
+ import Backlinks from "./Backlinks"
+@@ -37,6 +38,7 @@ export {
+   Spacer,
+   TableOfContents,
+   Explorer,
++  FadeToggles,
+   TagList,
+   Graph,
+   Backlinks,
+diff --git a/site/vendor/quartz/quartz/components/scripts/graph.inline.ts b/site/vendor/quartz/quartz/components/scripts/graph.inline.ts
+index a669b054..efce450d 100644
+--- a/site/vendor/quartz/quartz/components/scripts/graph.inline.ts
++++ b/site/vendor/quartz/quartz/components/scripts/graph.inline.ts
+@@ -68,6 +68,18 @@ type TweenNode = {
+   stop: () => void
+ }
+ 
++/** Tag namespaces the fullscreen graph includes; empty = tags hidden.
++ * The local graph never shows tags. */
++let tagNamespaces: string[] = []
++const readNamespaceFilter = (): string[] => {
++  try {
++    const raw = JSON.parse(localStorage.getItem("oi-graph-tag-namespaces") ?? "[]")
++    return Array.isArray(raw) ? raw.map(String) : []
++  } catch {
++    return []
++  }
++}
++
+ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
+   const slug = simplifySlug(fullSlug)
+   const visited = getVisited()
+@@ -110,8 +122,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
+     }
+ 
+     if (showTags) {
++      const isGlobal = !!graph.closest(".global-graph-outer")
++      const ns = isGlobal ? readNamespaceFilter() : []
+       const localTags = details.tags
+         .filter((tag) => !removeTags.includes(tag))
++        .filter((tag) => !isGlobal || ns.includes(tag.split("/")[0]))
+         .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
+ 
+       tags.push(...localTags.filter((tag) => !tags.includes(tag)))
+@@ -122,6 +137,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
+     }
+   }
+ 
++  const namespaceFreq = new Map<string, number>()
++  for (const d of data.values()) {
++    for (const t of d.tags ?? []) {
++      const ns = t.split("/")[0]
++      if (!ns) continue
++      namespaceFreq.set(ns, (namespaceFreq.get(ns) ?? 0) + 1)
++    }
++  }
++  tagNamespaces = [...namespaceFreq.entries()].sort((a, b) => b[1] - a[1]).slice(0, 15).map(([ns]) => ns)
++
+   const neighbourhood = new Set<SimpleSlug>()
+   const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
+   if (depth >= 0) {
+@@ -610,6 +635,37 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+       if (graphContainer) {
+         globalGraphCleanups.push(await renderGraph(graphContainer, slug))
+       }
++
++      // Namespace filter: tags stay hidden until a namespace is switched on.
++      if (!localStorage.getItem("oi-graph-tag-namespaces")) {
++        localStorage.setItem("oi-graph-tag-namespaces", "[]")
++      }
++      let filter = container.querySelector(".tag-filter") as HTMLElement | null
++      if (!filter) {
++        filter = document.createElement("div")
++        filter.className = "tag-filter"
++        container.prepend(filter)
++      }
++      filter.replaceChildren()
++      const label = document.createElement("span")
++      label.className = "tag-filter-label"
++      label.textContent = "tags"
++      filter.appendChild(label)
++      const included = readNamespaceFilter()
++      for (const ns of tagNamespaces) {
++        const chip = document.createElement("button")
++        chip.className = "tag-chip"
++        chip.textContent = ns
++        chip.setAttribute("aria-pressed", String(included.includes(ns)))
++        chip.addEventListener("click", () => {
++          const cur = readNamespaceFilter()
++          const next = cur.includes(ns) ? cur.filter((x) => x !== ns) : [...cur, ns]
++          localStorage.setItem("oi-graph-tag-namespaces", JSON.stringify(next))
++          cleanupGlobalGraphs()
++          void renderGlobalGraph()
++        })
++        filter.appendChild(chip)
++      }
+     }
+   }
+ 

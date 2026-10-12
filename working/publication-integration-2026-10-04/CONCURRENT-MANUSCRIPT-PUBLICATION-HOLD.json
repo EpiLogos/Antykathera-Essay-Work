@@ -1,0 +1,16 @@
+{
+  "snapshot_commit": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "input_sha256": "807b776ed061abc919a89b66321658d4cb568bc3d8c40f4f856e23d19c9e2bc3",
+  "verified_input_files": 890,
+  "withheld_new_section": true,
+  "held_manuscript": [
+    {
+      "path": "THE-RETURN-OF-ZERO.md",
+      "publication_basis": "8265f382177086daff1fbd461c932b521babc971",
+      "publication_sha256": "c6056eeab059f505d03b8542268e1ac81a97630012a2aa4c885f9d60b8844b28",
+      "current_live_sha256": "cd889da562a281c93dea9a5843c96bfdc070d6cb3f5f6bd84491e1f426d146ef"
+    }
+  ],
+  "unpublished_capture_absent_from_published_history": true,
+  "live_source_files_untouched": true
+}

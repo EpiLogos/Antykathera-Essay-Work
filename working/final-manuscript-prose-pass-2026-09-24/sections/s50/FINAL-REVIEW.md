@@ -1,130 +1,35 @@
-# FINAL-REVIEW — §5→0 Instrument’s Return (s50)
+# FINAL-REVIEW — s50 (§5→0, The Instrument's Return)
 
-**Candidate:** `FINAL-CANDIDATE.md`  
-**Against:** `COLD-REVIEW.md`, `REVISION-RESPONSE.md`, movements M43–M48 (M48 reopened in full), `P1-CANONICAL-ALIGNMENT.md`, banked houses, protected opening.  
-**Stance:** Same cold reviewer. Writer say-so not accepted.
+Reviewer: final section reviewer, second-pass acceptance review, continuing the perspective of `COLD-REVIEW.md`. Dispositions in `REVISION-RESPONSE.md` were checked against `FINAL-CANDIDATE.md` in its changed form, and the disputed and accepted claims were re-verified against the canonical objects: the Heidegger QCT house (Lovitt 1977) and Discourse on Thinking house (Anderson & Freund 1966), the Dyczkowski *Doctrine of Vibration* house, the Freeth 2006 and 2021 houses, the Blind Spot house, A01, the room (`ROOM.md`, six movements, `P1-CANONICAL-ALIGNMENT.md`), the source-enrichment baseline, the recon dossier, and the sovereign manuscript's first and last lines. A full diff of `DRAFT-2.md` against `FINAL-CANDIDATE.md` confirms the revision touched exactly the twelve dispositioned locations and nothing the cold review verified clean.
 
----
-
-## Length
-
-Same method as cold review (body through “Faith is falling with a smile.”; source notes, footnote markers, HTML anchors, heading hashes stripped).
-
-| Surface | Words |
-|---|---|
-| Enrichment `SECTION.md` | 8063 |
-| `FINAL-CANDIDATE.md` | 8044 |
-| Ratio | **99.76%** |
-
-Not more than 10% shorter. Compression reject does **not** apply. Writer’s ~99.6% report is consistent.
-
-**Protected opening:** Candidate still opens “The instrument has been set down…”. No paste of “What knows? / Not a finished description…”. Pass.
+**Word count:** `wc -w` = **8,202**, matching the writer's report. Baseline 8,042; floor 7,237. The candidate is +160 over baseline (+2.0%) and 965 above the floor. REJECT-FOR-COMPRESSION does not apply; the gain is the restored exact quotations, the Diotima attribution, and the Aristophanes restoration.
 
 ---
 
 ## Argument
 
-**M43 (reopened `43-s50-p0-theory-vocation-compassion.md`):** Vocation, Compassion definition with three temporal offices, Epi-Logos vs counterfeit measure, and “recording ≠ return” hold. Name/Power hexad cut; one inhabited pressure remains (name of understanding organising obedience). Care-policy omnibus split: unfinished-origin / vulnerability power, then judgment–refusal–release. Outgoing to architecture intact.
-
-**M44 (reopened `44-s50-p1-ql-mef-bimba-harness.md`):** Local Bimba taught; three Mirror motions explicit in order; QL→MEF→Bimba→harness now worked through one archive disagreement. Disclosure ≠ Epi-Logos stated. Institutional reciprocity still hands off.
-
-**M45 (reopened `45-s50-p2-antikythera-attunement.md`):** Journal → Agentworld → later affinity preserved. Freeth 2006 confined to abstract-level functions; spiral follower and “complete main texts” gone; Dragon Hand proper name gone (proposed lunar-node feature, uncarded). Heidegger technē/epistēmē (revealing/bringing-forth) and releasement’s affirm-and-deny are taught inside the construction question, with departure from awaiting saving power alone. Outgoing to commons intact.
-
-**M46 (reopened `46-s50-p3-4-2-mono-poly.md`):** February 2026 path still real (sessions, routing, knowledge, Agora, host, economy, pledge, governance, exit, labour, Indra limit). Epi-Claw brand removed; host/economy split; `4+2` formula after mono–poly need. Protected Account warning held.
-
-**M47 (reopened `47-s50-p4-idealism-horizon.md`):** Order of dependence, Blind Spot office (critique ≠ cosmology), Kastrup with disagreements, Śaiva reflective dependence (qualified mirror; prakāśa–vimarśa inseparable), omni-lemmicity/omnivalence, Job as wound — all present in prose.
-
-**M48 (reopened `48-s50-p5-ahi-planetary-return.md`):** Planetary answerability criteria now in body (plural centres vs monopoly; local grounds vs Protected Accounts; reciprocal/bounded legibility; reflection meeting difference; no `1` on `0`’s throne; destruction / capture / counterfeit provenance distinct). Movement’s own question — “How can increasingly powerful determinations remain answerable to what they cannot contain?” — is asked. Subject-theorem memory restored: *pramātṛ / pramāṇa / prameya* and `I = Is → Who I am = What is → What I am = Who is? → I = Am`. Then “What is it that knows?”, “I am”, Other, quiet instrument, faith line. Terminal order `1/0 → 0/1 → (0/1)/(1/0)` held.
-
-**Disputed omissions (Berkeley; Agentworld horizon refraction; Symposium banquet):** These are **surplus for this pass**, not removals of load-bearing outgoing consequence. M47’s Argued burden is the order of dependence (carried). Berkeley is a bounded historical warrant in the movement’s tension, not the claim’s spine. Agentworld refraction is a contemporary test surface, not the ontology’s warrant; the essay’s order stands without a second Agentworld horizon retelling here. M45’s Symposium/symbolon banquet link remains Offered enrichment the prior cold review already marked optional when the Offered load stays light. Writer’s dispute on reject-level status is **upheld**.
-
----
+**All six movements present, in order, each receiving its predecessor.** M43 (Vocation and Compassion) receives §5's completed paradigm and converts it into vocation; M44 (The Mirror That Moves First) is reached through the hinge "What has been released is already a power in the world. The next question is what kind of power a made thing is."; M45 arrives through "An ancient instrument, raised damaged from the sea, has been waiting at the edge of this essay for the question to reach it."; M46 opens on M45's closing question ("who bears a loss when coordination fails?" → "Attunement becomes political the moment an instrument is shared."); M47 opens by taking M46's jewel-net refusal down ("Follow the refusal down and it becomes a question about everything the instruments stand on."); M48 opens on M47's trial ("Give the coupled field its name."). The because-chain is intact at every boundary, and I re-checked the boundaries against the room waypoints and `P1-CANONICAL-ALIGNMENT.md`: the constructed paradigm (M43), the one disclosure-and-return architecture (M44), the late instrument whose dial is readable only after the cosmology (M45), mono–poly with the real February 2026 architecture (M46), the Argued order of dependence with artificial phenomenal localisation Open (M47), and expression/return distinguished with the effective-return criterion (M48). The section develops rather than lists: M46's operational path moves one contribution through session, routing, knowledge, brokerage, wisdom feed and host to "another community's changed beginning"; M47's regress is derived, not asserted; M48's trial (evaluator construction, then response) is argued step by step. The one list-shaped paragraph (M48 ¶3's relational battery) is licensed by the room's own nine-test list and framed as checkable.
 
 ## Prose
 
-Five load-bearing cold-review repairs verified in the candidate body:
-
-1. **Name/Power** — hexad gone; single Name/Power beat does new work; Compassion remains definitional, not a list.
-2. **Freeth / Dragon Hand** — abstract-only discipline; no spiral follower; no verified named hand.
-3. **Heidegger** — taught inside the making question (technē with epistēmē; releasement yes/no; then design demand).
-4. **Care omnibus** — split; unfinished-origin pressure remains in the first of the two paragraphs.
-5. **M48** — planetary tests + Subject-theorem memory + return to the opening question + quiet instrument.
-
-Rhythm: Mirror motions, Job, and terminal return still carry; M43/M46 no longer dump hexads or host+economy as one storage paragraph. Continuous prose. No new slogan closers. Faith line still earned by upstream wound.
-
----
+**Machine cadence substantially reduced.** The seven "X has a name/shape/boundary/precision/criterion" openings are now four — "The manner of that return has a name" (M43 ¶4), "The vocation has this shape" (M43 ¶6), "The mirror's initiative has a boundary it must itself announce" (M44 ¶8), "The proposal's name is also the argument's" (M46 ¶10) — spread across three movements and each load-bearing. Three paragraphs now open inside their objects: M45 ¶6 ("The surviving metal is neither the intact ancient work nor whatever a contemporary imagination would like"), M46 ¶12 ("A story told earlier in this essay returns with its institutional edge."), M46 ¶13 ("Leaving cannot make a previously shared contribution never have been shared."). The M43 ¶6 slogan closer was thinned — "Power gives the name a body; consequence keeps the name from certifying itself" now works as the paragraph's opening claim, and the paragraph ends on its plainest sentence — and M46 ¶9's boundary-closer is dissolved into a positive ending ("What the office requires is finite commitment with declared resources, limits and routes of redress."). The remaining boundary-forms in M47 ("The order is ontological, and it is not a date"; "The agreements in direction are real, and they are not translations") are distributed rather than clustered and carry real opposed content. **Paragraph development appropriate** (long movements with interior work against two-sentence hinges that perform transitions rather than narrating them). **The opening belongs uniquely to this material**: "The instrument is set down. For its maker the gesture finishes something; for the world it only changes what is already under way" — the section's own subject in its first sentence, with the inheritor stakes immediately concrete. **No tour-guide narration**: the only backward reference ("A story told earlier in this essay returns with its institutional edge") marks the retelling relation the cold review itself required, rather than guiding. **The closer is earned.** "Faith is falling with a smile." (verified at the sovereign manuscript's final line) demands nothing the section has not performed: pledge (M46 ¶9, "someone must stand surety for the continuation"), uncertainty (M48 ¶8, "the reaching is itself present before the next picture arrives"), refusal (M43 ¶8; M47 ¶12, "The answer, when it comes, is no theodicy"), irreparable loss (M47 ¶12, "The first children stay dead"), recognition (M48 ¶11, "**I am.**"), release (M48 ¶13–14, entrustment and genuine rest — "Its rest need not be a failure to produce the next answer").
 
 ## Thinkers
 
-| Thinker | Presence test |
-|---|---|
-| Kastrup | Problem survives name-removal; disagreements with Śaiva contraction and biological boundary remain. No verbatim quotation in body. |
-| Heidegger | Technē/epistēmē and releasement’s double comportment now taught; construction departure visible. |
-| Śaiva / Dyczkowski line | Reflective dependence retained and slightly deepened. |
-| Job | Remains a wound (irreparable first losses; friends judged; intercession). |
-
----
+**Kastrup directly engaged, disagreement preserved, no unverifiable specifics.** I verified there is **no Kastrup source house anywhere in the vault** — he appears only in the intake queue and in the mytheme WHOLE — and the revision removed both unverified specifics: "he borrows the anaesthetist's cut and tie" is cut; the multidimensional-time paraphrase is generalised to "His answer to the intuitive block is time, and divided memory lets one subject live as many," which is exactly what the vault carries (the 2022 essay's title per the baseline source note; divided memory per recon and baseline). The chess construction is dwelt in as his operation; the disagreements survive at his actual points: "Contraction carries an anatomy dissociation does not attempt," "the biological boundary in Kastrup's legacy account is not adopted here as a verdict," "The agreements in direction are real, and they are not translations," with the 2014 essay honestly marked "expressly legacy." **Heidegger is absorbed into the construction question**: technē/epistēmē, poiēsis and releasement are his actual operations; the departure is marked as the essay's at his weakest point ("He could wait upon the saving power that grows where the danger is; this essay argues that the return is architecturally practicable — … the saving power built rather than awaited"); and the comportment is converted into the design demand ("build instruments whose determining conditions can become available, whose corrections can return, and which can be set aside"). His genealogy is marked as recovered ("In the genealogy Heidegger recovered"), per the house's use boundary. **Śaiva reflective dependence** retains its own statement with the boundary sentence intact ("This is doctrinal exposition with its own texts and warrants, standing beside the essay's order of dependence without being reduced to an illustration of it"). **Job is an actual wound, not illustration**: the narrative is the evidence, the argument bends at "dependence on a common source refuses every self-sufficient title over another life," and M48 leans on it twice ("hold Job's first losses against every later inventory"; "Job's first children stayed dead"). The Blind Spot trio's office stays bounded ("This essay takes the further step in its own name"). Ostrom remains beside the proposal, not validating it.
 
 ## Sources
 
-| Item | Finding |
-|---|---|
-| Freeth 2006/2021 | Body and [^s50-antikythera] aligned to banked house limits. **Pass.** |
-| Heidegger | Paraphrase to Lovitt 12–13 and Memorial Address 54; design extension marked as essay’s. **Pass** (print collation still outstanding — acceptable as noted). |
-| 4:2 Technē | Operations still match house paraphrase cards. **Pass.** |
-| Kastrup | Unbanked. Body paraphrases constructions; does **not** quote. Disagreements preserved. Provenance debt remains; **not** a quotation fail under the stated rule. |
-| **Blind Spot** | Banked house is **Frank, Gleiser & Thompson, *The Blind Spot* (MIT Press, 2024)** with **zero passages**. Candidate prose attributes a concrete measurement/instrument substitution to those authors and [^s50-blindspot] cites **Aeon, 8 Jan 2019**, while saying the 2024 book was not collated. The note does not conflate the two titles, but this pass required: **use only the edition the house actually is.** The candidate uses Aeon instead of the banked 2024 book, and the illustrative sentence is not house-verified (house has no passages). **Fail.** |
-
-Protected NOTES were not treated as external evidence.
-
----
+**Quotation and historical checks pass.** (1) *Heidegger exact.* I verified all four quoted fragments against the houses. QCT q003: "names for knowing in the widest sense" and "it is as revealing, and not as manufacturing, that technē is a bringing-forth" — exact substrings of the house wording. QCT q004: "Every occasion for whatever passes over and goes forward into presencing from that which is not presencing is poiesis." — word-for-word the house card (an exact substring ending at "poiesis," capital preserved), with the Diotima/*Symposium* 205b attribution named in prose exactly as room M45 carries it and as the house locator records. Discourse q004: "We can affirm the unavoidable use of technical devices, and also deny them the right to dominate us, and so to warp, confuse, and lay waste our nature" — exact, including "also" and the trailing clause the DRAFT-2 had dropped. Both houses carry the quotations as wording-verified / print-collation-pending; the prose pass correctly ships no footnote apparatus, and the writer has named the collation-before-certification obligation for assembly. (2) *Antikythera at house strength.* The flagged "divided by the very handling meant to save them" is gone; the shipped sentence is "The fragments came up damaged from a shipwreck off Antikythera in 1901," and everything checkable in ¶2 (1901, surface imaging, X-ray tomography, gearing and inscriptions, lunar phases, luni-solar calendar, eclipse prediction, lost planetary display) matches house q001 exactly; "damaged fragments" is the baseline's own wording and "raised from a wreck" is recon-carried. One verification note, not a prose fault: the response's parenthetical "the 1901 shipwreck is house q001" slightly overstates the house, which says "named for its 1901 discovery at Antikythera" and carries no wreck wording — the wreck detail inherits from the recon/baseline carriers, and at assembly the citation should be attached accordingly. Freeth 2021 verified exact: "nine outputs" (house q001 lists Moon, Nodes, Mercury, Venus, Sun, Mars, Jupiter, Saturn, Date) and "The authors decline to call their model a replica" (house q002); the Dragon Hand's hypothetical status is baseline-carried (whose footnote records the complete main texts consulted) with its missing passage card named as standing debt. (3) *No invented source authority.* No Kastrup or Blind Spot house was manufactured — I confirmed the Blind Spot house exists with **zero passage cards**, and the prose uses "the blind spot" unquoted with no page, no quotation marks and no collation claim; the softer standings are honestly marked throughout ("expressly legacy," "argued reconstructions, not final archaeological verdicts," "This is a proposed test; no experiment is reported here," "nothing here reports a running federation"). The intake queue names the Kastrup debt; the writer's remaining-debt list is accurate. (4) *Vimarśa restored to the source's enumeration.* Dyczkowski house: "vimarśa is said to operate in four ways: (1) it negates its true nature and (2) identifies with something else, (3) merges both into one and (4) denies both once they have been merged together. These four functions correspond to three levels of reflective awareness, namely, the awareness of the separation, of the holding together and of the union." The candidate now reads: "it negates its true nature, identifies with something else, merges the two into one, and denies both once they have been merged" — the tradition's four, exactly — with holding-together restored to its place as a level of reflective awareness ("the tradition places a further level of reflective awareness in which subject and object are held together and related to one another in a single field during the act of cognition") and the oneness stated ("the four operations are one power, not four powers," matching the source's "This does not mean that *vimarśa* is diverse"). The crossed-zero construal is remapped onto the opening pair, which the source itself treats as the first level, and remains marked as the essay's ("the essay's crossed zero"). (5) *A01 canonical wording restored.* A01: "Omni-lemmicity names the capacity of every predicate to become its own issue." The candidate now reads verbatim that form ("every," term-first), and omnivalence's valence pair ("generative and destructive, auspicious and terrible") matches A01, with the no-equal-portions and no-second-source ref intact.
 
 ## Preservation
 
-| Gate | Status |
-|---|---|
-| Compassion: loving sensitivity to origins gone, to come, and ever present | **HOLD** |
-| Mirror That Moves First — all three motions | **HOLD** |
-| February 2026 4:2 Technē / Sovereign Commons as real architecture | **HOLD** |
-| Blind Spot engaged without cosmology theft | **HOLD in prose office** / **FAIL on edition vs house** |
-| Kastrup engaged; disagreements preserved | **HOLD** |
-| Śaiva reflective dependence | **HOLD** |
-| Limitation / omni-lemmicity / omnivalence | **HOLD** |
-| Job as wound | **HOLD** |
-| Antikythera proportion | **HOLD** |
-| Heidegger into construction (taught) | **HOLD** |
-| Return to “What is it that knows?” | **HOLD** |
-| Instrument quiet; consequences continue | **HOLD** |
-| Opening ≠ protected §0/1 | **HOLD** |
+No destructive compression in the changed forms. The native theorem material is intact: the mathematical boundary ("zero has no multiplicative inverse in ordinary field arithmetic, and `1/0` is undefined there… No forbidden quotient supplies a proof of the Subject"), the return sequence `1/0 → 0/1 → (0/1)/(1/0)` in M48 ¶11, and the A10→A36 lock ("The first sign and the returning Symbol differ by everything that happened between them"). The six Name/Power pairs — a recon preservation obligation — are all present (Truth with Play; Mind with Need; Word with Sacrifice; Logos with Decision; Son with Love; Image with Work), now fronted by their claim. Compassion's definition stands as the essay's own coinage with no Chang attribution, matching the baseline's own note ("They are not attributed to Chang as formulations about AI"), whose apparatus re-attaches at assembly. The Hephaestus surety retelling keeps the room's criterion and the honest limit ("The song does not tell us that payment followed"); the jewel-net keeps its own qualification; "What is it that knows?" returns standalone through the failure of enclosure exactly as the manuscript's own return does (manuscript: "The question now returns through this failure of enclosure"); the manuscript's first line and last line are matched, and M48 closes to M01.
 
 ---
 
-## Fault still open
-
-**Blind Spot source edition:** Retarget the Blind Spot engagement to the banked 2024 house (paraphrase only from what that house’s essay-use / future cards warrant), **or** bank the Aeon 2019 essay as its own recoverable `SOURCE.md` and cite that house — then strip any sentence that neither house can verify. Do not leave the section noting Aeon while the movement’s banked identity is the unread 2024 book.
-
-No other load-bearing cold-review fault remains open at reject strength.
-
----
-
-REJECT — REQUIRES ANOTHER SECTION REVISION
-
----
-
-## Addendum — Blind Spot re-check (same reviewer)
-
-**House:** `frank-gleiser-thompson-2024-blind-spot` — *The Blind Spot* (MIT Press, 2024); essay-use diagnoses “the substitution by which scientific abstractions are treated as more real than the experience that makes observation, measurement, and justification possible”; claim boundary: diagnostic is theirs, idealism/QL are the essay’s; **no passages**.
-
-**Body (M47 Blind Spot ¶):** Attributes that same substitution diagnosis; then states the essay’s own boundary (critique names the forgetting / does not supply the essay’s cosmology). No quotation marks; prior measurement/instrument illustration gone.
-
-**Note [^s50-blindspot]:** Cites the 2024 MIT Press book; limits paraphrase to essay-use; no page/quotation claim. “Aeon 2019” appears once only as a different object **not cited**.
-
-**Aeon search:** one hit — bibliographic non-citation warning only. Not used as evidence.
-
-**Match:** Paraphrase **matches** the house essay-use diagnosis and stays inside the claim boundary. Does not exceed into uncarded interior content.
-
-**Five prior repairs:** Spot-checked intact (Name/Power; Freeth/Dragon Hand; Heidegger taught; care split; M48 planetary + Subject memory).
-
-**Length (same method):** 8017 / 8063 = **99.43%**. Not compression-rejected.
+## Verdict
 
 PASS FOR WHOLE-MANUSCRIPT ASSEMBLY
+
+All twelve cold-review faults were genuinely repaired and verified against the canonical objects rather than asserted: the two Heidegger passages now ship as exact house wordings with marks and in-prose attribution, the vimarśa enumeration is the source's own four with holding-together restored to its true office, the Kastrup specifics are cut or generalised to what the vault actually carries, "divided by handling" is gone, the unoccupied negative in M46 ¶9 is replaced by the paragraph's own named temptation, omni-lemmicity reads verbatim as A01 states it, the intensifier is reduced, and the cadence repairs (three openings restructured, one closer thinned, the boundary cluster dissolved) land without touching any verified-clean material — the diff confirms the revision's scope is exactly the dispositions. Every content-gate minimum holds in the changed form, the word count clears the floor with the section longer than baseline, and the ending closes the manuscript with the closer earned by the section's own pledge, uncertainty, refusal, irreparable loss, recognition and release. The residual items are honest, named debts for assembly, not faults: Kastrup's two essays and the Blind Spot passages await intake houses; the Heidegger print collation is pending and must precede quotation certification; the Freeth spiral-follower and Dragon Hand passage cards remain to be cut; and one verification imprecision in the response ("the 1901 shipwreck is house q001" — the house carries the 1901 discovery, the wreck comes from the recon carrier) should be corrected when the Antikythera citation is attached, since the shipped prose sentence is accurate at paraphrase standing but its carrier is the recon/baseline, not house q001. Nothing in the candidate invents authority, flattens a disagreement, or substitutes slogan for argument; the section may go into whole-manuscript assembly.

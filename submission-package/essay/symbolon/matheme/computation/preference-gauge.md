@@ -11,7 +11,7 @@ source_relation: "Exact technical construction; argued native relation and offer
 
 ## #0 — State the comparison model
 
-For a fixed context `x`, let `r_i,r_j` be real scores for two alternatives. The logistic paired-comparison model is `P(i≻j|x)=σ(r_i−r_j)`, where `σ(t)=1/(1+e^(−t))`. The [DPO source house](../../episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md) gives this exact formulation and its reference-policy reparameterisation. The [Bradley–Terry house](../../episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md) retains the original model's distinct source identity and pending passage locator.
+For a fixed context `x`, let `r_i,r_j` be real scores for two alternatives. The logistic paired-comparison model is `P(i≻j|x)=σ(r_i−r_j)`, where `σ(t)=1/(1+e^(−t))`. [The DPO formulation](../../episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/rafailov-et-al-2023-dpo.md) gives this comparison and its reference-policy reparameterisation. [Bradley and Terry’s historical paired-comparison work](../../episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/bradley-terry-1952-paired-comparisons.md) is a separate historical attribution. The reward-difference construction specified here follows the DPO formulation and cites no passage of the older work.
 
 ## #1 — Prove the additive freedom
 
@@ -23,7 +23,7 @@ A chosen constraint, such as fixing one score or setting the mean to zero, picks
 
 Take scores `(0,ln3)`. The probability that the second beats the first is `σ(ln3)=3/4`. Shift both by −20 and the probability remains 3/4. Swap their order and it becomes 1/4. Multiplying both scores by 2 changes the difference to `ln9`, giving 9/10: scale is not the additive invariance unless another parameter compensates it.
 
-The formal result concerns an unidentifiable common level. It does not establish that the level is an invisible political governor or that every choice of origin is a normative defect. Those are different empirical and institutional questions.
+The formal result is that a common level cannot be identified from differences. Whether a given choice of level carries political weight, or is a normative defect, is a question about the institution that made the choice, and the algebra leaves that question to its own evidence.
 
 ## #3 — Derive the DPO cancellation
 
@@ -45,6 +45,6 @@ The source records that the reference can be chosen or estimated when the genera
 
 ## #5→0 — Return the judgment through its comparisons
 
-The result gives the essay's hidden-zero argument a bounded exact carrier: differences can be fully legible while a shared numerical origin remains unidentified. The [core's](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) broader accounting asks whether the conditions of comparison are declared and revisable. Numerical invariance and governance interpretation keep their distinct standing.
+Differences can be fully legible while a shared numerical origin stays unidentified, and the two ways of touching that origin are different acts. Specifying it fixes a representation and leaves every comparison as it was. Changing the alternatives, the evaluators or the reference policy changes which differences are obtained at all. The [native account](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **defines** the return that fits this structure: an achieved comparison goes back to the sources and conditions through which it was made. The additive proof gives the exact numerical freedom, and the institutional question stays open as a question of fact, namely who sets the consequential conditions and whether returned evidence can reach that authority.
 
-This record returns-to [Movement40](../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md), [softmax](softmax-argmax.md), and [operational parity](operational-parity.md). A technical gauge experiment must distinguish harmless reparameterisation from a changed policy or evaluative field.
+The [hidden-origin inquiry](../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **returns-to** this page for the demonstrated difference between an unidentified common level and an actual change of comparison. [Softmax](softmax-argmax.md) keeps its distribution operation beside the inference of a selected output, and [operational parity](operational-parity.md) **tests** the stated invariance and the reference intervention separately. With the two consequences kept apart, the particular policy and evaluative conditions become available for correction or for a reasoned decision to keep them.

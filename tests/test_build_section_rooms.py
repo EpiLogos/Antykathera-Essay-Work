@@ -51,15 +51,15 @@ class SectionRoomV2Tests(unittest.TestCase):
         for slug in ROOMS:
             room = root / slug
             files = {path.name for path in room.iterdir() if path.is_file()}
-            self.assertIn("ROOM.md", files)
+            self.assertIn(f"ROOM-{slug}.md", files)
             self.assertIn("P1-CANONICAL-ALIGNMENT.md", files)
             self.assertFalse(files & LEGACY_NAMES)
             self.assertTrue(files <= {
-                "ROOM.md", "READING.md", "SCRATCH.md", "VISUALS.md",
+                f"ROOM-{slug}.md", f"READING-{slug}.md", "SCRATCH.md", "VISUALS.md",
                 "P1-CANONICAL-ALIGNMENT.md",
             })
 
-            text = (room / "ROOM.md").read_text(encoding="utf-8")
+            text = (room / f"ROOM-{slug}.md").read_text(encoding="utf-8")
             words = len(re.findall(r"\b[^\s]+\b", re.sub(r"---.*?---", "", text, count=1, flags=re.DOTALL)))
             self.assertGreaterEqual(words, 500)
             self.assertLessEqual(words, 900)
@@ -76,18 +76,18 @@ class SectionRoomV2Tests(unittest.TestCase):
         self.assertEqual(text.count('<a id="section-'), 8)
         self.assertEqual(len(re.findall(r"^## §", text, re.MULTILINE)), 8)
         for slug in ROOMS:
-            self.assertIn(f"section-rooms/{slug}/ROOM.md", text)
+            self.assertIn(f"section-rooms/{slug}/ROOM-{slug}.md", text)
 
     def test_builder_never_changes_manuscript_or_reading_routes(self) -> None:
         protected = [PROJECT / "submission-package/essay/THE-RETURN-OF-ZERO.md"]
-        protected.extend((PROJECT / "submission-package/essay/section-rooms").glob("*/READING.md"))
+        protected.extend((PROJECT / "submission-package/essay/section-rooms").glob("*/READING-*.md"))
         before = {path: digest(path) for path in protected}
         run([sys.executable, str(BUILDER), "--project-root", str(PROJECT)])
         self.assertEqual(before, {path: digest(path) for path in protected})
 
     def test_real_room_links_and_fragments_resolve(self) -> None:
         run([sys.executable, str(BUILDER), "--project-root", str(PROJECT), "--check"])
-        for reading in (PROJECT / "submission-package/essay/section-rooms").glob("*/READING.md"):
+        for reading in (PROJECT / "submission-package/essay/section-rooms").glob("*/READING-*.md"):
             text = reading.read_text(encoding="utf-8")
             for destination in re.findall(r"\[[^]]+\]\(([^)]+)\)", text):
                 path_part, _, _fragment = destination.partition("#")
@@ -99,9 +99,6 @@ class SectionRoomV2Tests(unittest.TestCase):
             for relative in (
                 "submission-package/essay/section-rooms",
                 "submission-package/essay/symbolon/episteme/sources",
-                "submission-package/essay/symbolon/episteme/arguments",
-                "submission-package/essay/symbolon/episteme/concepts",
-                "submission-package/essay/symbolon/episteme/conjugate",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
@@ -112,9 +109,9 @@ class SectionRoomV2Tests(unittest.TestCase):
                 target.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(PROJECT / relative, target)
             for slug in ("00-integral-threshold", "02-return-of-zero"):
-                source = PROJECT / "submission-package/essay/section-rooms" / slug / "READING.md"
+                source = PROJECT / "submission-package/essay/section-rooms" / slug / f"READING-{slug}.md"
                 if source.is_file():
-                    target = copy / "submission-package/essay/section-rooms" / slug / "READING.md"
+                    target = copy / "submission-package/essay/section-rooms" / slug / f"READING-{slug}.md"
                     target.parent.mkdir(parents=True, exist_ok=True)
                     shutil.copy2(source, target)
 

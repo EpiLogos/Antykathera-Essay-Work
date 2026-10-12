@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "key": "AC",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "preimage_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-root-product-return/AC-before.md.txt",
+      "preimage_sha256": "d9bc3c1e0fc18c415e4852352da9352747353e0236360078cdabf5ad0f11dab4",
+      "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-root-product-return/AC-candidate.md.txt",
+      "candidate_sha256": "1adca4e275dfc11a86fdfb5c0b18703b10adfc40e395d83361c453fab24e152a",
+      "scope": "Accepted native complete receiving operation; global verification pending serialized resource slot or remote CI.",
+      "live_application": true,
+      "independent_review": "argument-public-continuation/INDEPENDENT-PARENT-AC-S1-REVIEW.json"
+    },
+    {
+      "key": "S1",
+      "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "preimage_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-root-product-return/S1-before.md.txt",
+      "preimage_sha256": "34d5e8614fc9eb5a9bf6e9a34d7d2671490dfec6145efdf8075c7a8a2f80cc0b",
+      "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-root-product-return/S1-candidate.md.txt",
+      "candidate_sha256": "dcb19e2f95ff92a1416b5ee1c02782ed5d239f70953f7a74a80164eee885c5a0",
+      "scope": "Accepted native complete receiving operation; global verification pending serialized resource slot or remote CI.",
+      "live_application": true,
+      "independent_review": "argument-public-continuation/INDEPENDENT-PARENT-AC-S1-REVIEW.json"
+    }
+  ]
+}

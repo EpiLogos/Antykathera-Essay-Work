@@ -32,19 +32,19 @@ class SubmissionPackageTests(unittest.TestCase):
             len(list((ESSAY / "section-rooms").glob("*/movements/*.md"))),
         )
         self.assertEqual(
-            21,
-            len(list((ESSAY / "section-rooms/arguments").glob("*.md"))),
+            36,
+            len(list((ESSAY / "section-rooms/arguments").glob("A[0-9][0-9]-*.md"))),
         )
+        self.assertTrue((ESSAY / "section-rooms/arguments/README.md").is_file())
         self.assertEqual(
             8,
-            len(list((ESSAY / "section-rooms").glob("*/ROOM.md"))),
+            len(list((ESSAY / "section-rooms").glob("*/ROOM-*.md"))),
         )
         expected = {f"C{i:02}" for i in range(1, 65)}
-        concepts = list((ESSAY / "symbolon/episteme/concepts").glob("C[0-9][0-9]-*.md"))
+        concepts = list((ESSAY / "section-rooms/arguments/concepts").glob("C[0-9][0-9]-*.md"))
         self.assertEqual(expected, {frontmatter(p)[0]["record_id"] for p in concepts})
-        self.assertEqual(36, len(list((ESSAY / "symbolon/episteme/arguments").glob("A[0-9][0-9]-*.md"))))
-        self.assertEqual(36, len(list((ESSAY / "symbolon/episteme/conjugate").glob("A[0-9][0-9]-prime-*.md"))))
-        self.assertEqual("A/C", frontmatter(ESSAY / "symbolon/episteme/conjugate/AC.md")[0]["record_id"])
+        self.assertEqual(36, len(list((ESSAY / "section-rooms/arguments/conjugate").glob("A[0-9][0-9]-prime-*.md"))))
+        self.assertEqual("A/C", frontmatter(ESSAY / "section-rooms/arguments/conjugate/AC.md")[0]["record_id"])
         self.assertEqual(
             4,
             len(
@@ -56,8 +56,8 @@ class SubmissionPackageTests(unittest.TestCase):
             ),
         )
         self.assertEqual(
-            187,
-            len(list((ESSAY / "symbolon/episteme/sources").rglob("SOURCE.md"))),
+            379,  # one-work houses, after the §0/1 and section source-locking passes of 2026-10-04/05
+            sum(1 for p in (ESSAY / "symbolon/episteme/sources").rglob("*.md") if p.stem == p.parent.name),
         )
         self.assertTrue((ESSAY / "symbolon/episteme/histories").is_dir())
         self.assertTrue((ESSAY / "symbolon/episteme/etymologies").is_dir())
@@ -83,7 +83,7 @@ class SubmissionPackageTests(unittest.TestCase):
         rs.loader.exec_module(reader)
         audit = reader.ReaderAudit(PROJECT, ws=workspace)
         for path in ESSAY.rglob("*.md"):
-            if "reference-notes" in path.parts or path.name in {"AUTHORIAL-TEXT.md", "NOTES.md", "HISTORY.md"}:
+            if "reference-notes" in path.parts or path.name in {"AUTHORIAL-TEXT.md", "NOTES.md"} or path.name.startswith("HISTORY-") or path.name.endswith("-NOTES.md"):
                 continue  # protected/provenance links remain explicit reader-audit debt
             source = str(path.relative_to(PROJECT))
             for item in reader.links(path.read_text(encoding="utf-8")):
@@ -101,11 +101,11 @@ class SubmissionPackageTests(unittest.TestCase):
 
     def test_essay_body_preserves_status_and_quote_provenance(self):
         argument, _ = frontmatter(
-            ESSAY / "section-rooms/arguments/02-objective-internality.md"
+            PROJECT / "working/legacy/section-rooms-arguments/02-objective-internality.md"
         )
         source, body = frontmatter(
             ESSAY
-            / "symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md"
+            / "symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/le-bon-1895-crowd-popular-mind.md"
         )
         self.assertEqual("Argued", argument["claim_status"])
         self.assertEqual("citation-ready", source["citation_status"])
@@ -116,7 +116,7 @@ class SubmissionPackageTests(unittest.TestCase):
     def test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain(self):
         source, body = frontmatter(
             ESSAY
-            / "symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md"
+            / "symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is.md"
         )
         self.assertEqual(["§1 · narrative and learning spine"], source["main_source_for"])
         self.assertIn("## Scholarly reading and worked material", body)
@@ -131,7 +131,7 @@ class SubmissionPackageTests(unittest.TestCase):
         self.assertIn("`colebrooke-1817-brahmagupta-bhaskara-q001`", section)
         house = (
             ESSAY
-            / "symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md"
+            / "symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara.md"
         )
         self.assertTrue(house.is_file())
         self.assertIn(

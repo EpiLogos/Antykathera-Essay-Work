@@ -15,7 +15,7 @@ import json
 import re
 import subprocess
 import sys
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 from typing import Any
 
 QUILT_DIRECTORY = Path("submission-package/essay/quilt")
@@ -23,8 +23,15 @@ DEPTH_DIRECTORY = Path("working/p2-enrichment/argument-depth")
 
 
 def live_quilts(root: Path) -> list[Path]:
-    """Admit every live file; a historical list cannot delimit recovery."""
-    return sorted(p for p in (root / QUILT_DIRECTORY).iterdir() if p.is_file())
+    """Admit every live quilt file; a historical list cannot delimit recovery.
+
+    The register index (README.md) is navigation furniture, not quilting
+    material, so it is neither a depth-recovery input nor quilt-bound state.
+    """
+    return sorted(
+        p for p in (root / QUILT_DIRECTORY).iterdir()
+        if p.is_file() and p.name != "README.md"
+    )
 
 
 def depth_inputs(root: Path, quilts: list[Path]) -> list[dict[str, str]]:
@@ -205,7 +212,8 @@ def validate_queue(root: Path, queue_path: Path) -> tuple[dict[str, Any], list[d
 
 
 def extract_slice(root: Path, item: dict[str, Any]) -> dict[str, Any]:
-    path = input_file(root, item["path"])
+    relative = house_file(item["path"])
+    path = input_file(root, relative)
     lines = path.read_text(encoding="utf-8").splitlines()
     start, end = item["start_line"], item["end_line"]
     if not isinstance(start, int) or not isinstance(end, int) or not 1 <= start <= end <= len(lines):
@@ -214,8 +222,23 @@ def extract_slice(root: Path, item: dict[str, Any]) -> dict[str, Any]:
         raise ValueError("Page packets use target-keyed quilt slices, never whole-quilt dumps")
     if not item.get("relation") or not item.get("provenance"):
         raise ValueError("Every source slice needs its relation and provenance")
-    return {**item, "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
+    return {**item, "path": relative, "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
             "text": "\n".join(lines[start - 1:end])}
+
+
+def house_file(relative: str) -> str:
+    """Map a legacy source-bank house path to the house-file law.
+
+    `<source_id>/SOURCE.md` becomes `<source_id>/<source_id>.md`; the sibling
+    authorial note `<source_id>/NOTES.md` becomes `<source_id>/<source_id>-NOTES.md`.
+    Frozen provenance surfaces (the P2 dispatch queue) still carry the old names.
+    """
+    path = PurePosixPath(relative)
+    if path.name == "SOURCE.md":
+        return str(path.parent / f"{path.parent.name}.md")
+    if path.name == "NOTES.md":
+        return str(path.parent / f"{path.parent.name}-NOTES.md")
+    return relative
 
 
 def cmd_packet(args: argparse.Namespace) -> int:
@@ -240,14 +263,15 @@ def cmd_packet(args: argparse.Namespace) -> int:
         if element.get("register_contract_domain"):
             required_paths.append(element["register_contract_domain"])
         for relative in dict.fromkeys(required_paths):
-            path = input_file(root, relative)
+            path = input_file(root, house_file(relative))
             inputs.append({"path": relative, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()})
         sources = []
         for relative in element["source_houses"]:
+            relative = house_file(relative)
             source = input_file(root, relative)
-            if source.name != "SOURCE.md":
-                raise ValueError(f"Source-house input must name SOURCE.md: {relative}")
-            notes = source.with_name("NOTES.md")
+            if source.stem != source.parent.name:
+                raise ValueError(f"Source-house input must be the house file <source_id>.md: {relative}")
+            notes = source.with_name(f"{source.stem}-NOTES.md")
             sources.append({"source": relative, "source_sha256": hashlib.sha256(source.read_bytes()).hexdigest(),
                             "notes": str(notes.relative_to(root)) if notes.is_file() else None,
                             "notes_sha256": hashlib.sha256(notes.read_bytes()).hexdigest() if notes.is_file() else None,

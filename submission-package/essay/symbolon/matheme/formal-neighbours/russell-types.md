@@ -45,7 +45,7 @@ $$
 
 Let `r` abbreviate `R ∈ R`. If `r` holds, the forward implication yields `¬r`. Hence `¬r`; but the reverse implication then yields `r`. The assumptions derive both assertions. This is a proof of contradiction, not an unresolved choice between two possible membership values.
 
-The negative condition is perfectly explicit. The difficulty lies in permitting its unrestricted collection to count as another member of the same domain over which the condition ranges. [Russell's 1908 source house](../../episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md) sources his restriction of such circular definitions. At §IV, p.237, the vicious-circle principle prohibits a totality from containing members defined through that totality. The mathematical response changes what may be formed.
+The negative condition is perfectly explicit. The difficulty lies in permitting its unrestricted collection to count as another member of the same domain over which the condition ranges. [Russell’s vicious-circle principle](../../episteme/sources/mathematics-logic/russell/russell-1908-theory-types/russell-1908-theory-types.md), §IV, p.237, prohibits a totality from containing members defined through that totality. This restriction changes what may be formed; the displayed contradiction identifies the combined permissions it answers.
 
 ## #2 — A type restriction acts before evaluation
 
@@ -65,11 +65,11 @@ fails already in its defining predicate. It is not a well-formed expression with
 
 Writing `xⁿ ∈ yⁿ⁺¹` is valid, but it introduces two appropriately typed places. Calling both variables “x” would not make them the same object. This matters for the paradox: changing one occurrence's type changes the purported self-membership test, so it does not reproduce the original construction under a harmless typographical variation.
 
-This simple hierarchy illustrates the type barrier. Russell's 1908 **ramified** theory also distinguishes orders associated with the quantifiers used to define functions; its full restrictions exceed the membership-level illustration. The [relative-type passage at p.237](../../episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md#russell-1908-theory-types-q002) grounds the relevant point here: admissibility concerns the relations among a formula's variable types, not an intrinsically privileged number attached to a level.
+This simple hierarchy illustrates the type barrier. Russell's 1908 **ramified** theory also distinguishes orders associated with the quantifiers used to define functions; its full restrictions exceed the membership-level illustration. The [relative-type passage at p.237](../../episteme/sources/mathematics-logic/russell/russell-1908-theory-types/russell-1908-theory-types.md#russell-1908-theory-types-q002) grounds the relevant point here: admissibility concerns the relations among a formula's variable types, not an intrinsically privileged number attached to a level.
 
 ## #3 — Typed formation still constructs new objects
 
-Let type0 contain two distinct individuals, `a⁰` and `b⁰`. Form
+Let the type0 domain consist of exactly two distinct individuals, `a⁰` and `b⁰`. Form
 
 $$
 A^1=\{a^0\},\qquad B^2=\{A^1\}.
@@ -85,7 +85,7 @@ $$
 
 Its condition is meaningful for every type0 individual. It can exclude one individual and admit another without applying a collection to itself. Likewise, `V¹={x⁰:x⁰=x⁰}` contains every type0 individual, not every object of every type. The label “all” retains its range.
 
-The restriction therefore preserves discrimination and construction. It answers a precise problem about formation. [Whitehead and Russell's *Principia Mathematica*](../../episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md) is the jointly authored logical project in this historical relation. Its source identity gives no basis for treating typing as Russell's personal refusal of a philosophical possibility, or for deriving Whitehead's later process thought from this construction.
+The restriction therefore preserves discrimination and construction. It answers a precise problem about formation. [Whitehead and Russell's *Principia Mathematica*](../../episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/whitehead-russell-1910-1913-principia.md) is the jointly authored logical project in this historical relation. Its source identity gives no basis for treating typing as Russell's personal refusal of a philosophical possibility, or for deriving Whitehead's later process thought from this construction.
 
 ## #4 — Restricting collection differs from erasing a contradiction
 
@@ -104,14 +104,14 @@ $$
 
 If `R_S ∈ S`, the old contradiction returns. Consequently `R_S ∉ S`, and the displayed equivalence also gives `R_S ∉ R_S`. There is no inconsistency: separation did not promise that its result belonged to its input set. Here the definition remains meaningful, but the unrestricted collecting permission is absent. Typing blocks formation of the self-membership predicate; separation restricts the set over which the condition collects. These are different repairs.
 
-[A03, Formal Limit](../../episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), compares the local change of permissions with the native determining-field argument. Representing a condition creates another determination whose present occurrence still has conditions. Russell's contradiction has its own displayed premises; the native non-coincidence has its own proposition. [A02, the Copula](../../episteme/arguments/A02-Copula-Self-Identity-through-Difference.md), qualifies any proposed sameness by asking which objects and which relation are being identified.
+[The determining-field argument](../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md) **compares** the change of permissions with its own operation: representing a condition creates another determination, whose present occurrence still has conditions. Russell’s contradiction has the displayed premises, and this native non-coincidence concerns the determining and the determined. In [the copula](../../../section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md), a proposed sameness has to specify the objects and the relation being identified, which is the discipline that typing enforces on membership.
 
-[A13, Dia/Syn](../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), extends the practical distinction between a necessary cut and loss of the relation through which it operates. A type rule can make a cut precisely while retaining its rationale. [A18's native field](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) grounds the broader return through the slash and its determinations. Neither operation requires restoring unrestricted comprehension. [Homology and Analogy](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md) keeps the comparison accountable to these differences.
+[Distinguishing and gathering](../../../section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) **grounds** the practical relation between a necessary cut and the field through which it operates, and a type rule is such a cut made precisely, with its rationale kept. The [native eight-determination traversal](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) carries the same relation through the slash and its qualitative offices. The achieved distinction keeps the restricted formation together with its reason, and it gives no ground for restoring unrestricted comprehension. [Homology and analogy](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md) **qualifies** the comparison by stating the corresponding operations and the differences between them.
 
 ## #5→0 — Return a restriction with its reason
 
-This record returns-to [§0/1 · #3, The Formal-Limit Genealogy](../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md) with an actual contradiction and actual repairs. Russell's contribution is not a general declaration that reflection must stop. The contradiction identifies a combination of formation and substitution permissions that cannot all remain in force.
+The [formal-limit genealogy](../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md) **returns-to** an actual contradiction and the differentiated repairs of it. Formation and substitution jointly permit the problematic totality, and typing or separation changes the specific permission implicated in it. The revised range and the constructions that remain available can then carry further mathematical work.
 
-[A33, Operational Parity](../../episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md), tests a technical invocation of types accordingly: show the malformed expression, identify the conflicting argument positions, and exhibit a valid construction that remains available. A rejected input without a stated typing rule does not enact this distinction. [A01, Faithful Definition](../../episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), receives the return as a definition answerable to its range and operation.
+[Operational parity](../../../section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md) **tests** any technical invocation of types against the actual malformed expression, the conflicting argument positions and the valid construction that remains. An input rejected with no stated typing rule has not performed the distinction. [Faithful definition](../../../section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md) keeps a definition's range and operation attached wherever its result is carried.
 
-The restriction can itself become explicit knowledge. Its rationale, scope and consequences remain available for comparison with other formalisms. The formal work continues because the account now states which totality it formed and what that totality may contain.
+The restriction can itself become explicit knowledge, with its rationale, scope and consequences open to comparison with other formalisms. The formal work goes on because the account now says which totality it formed and what that totality may contain.

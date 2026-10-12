@@ -1,0 +1,22 @@
+{
+  "key": "KRIPKE-SOURCE",
+  "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/KRIPKE-SOURCE-before.md.txt",
+  "preimage_sha256": "176ecc26400d8d2cd340136309c19c65838558159d3f13c8bf078aff69cb2203",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/KRIPKE-SOURCE-candidate.md.txt",
+  "candidate_sha256": "9a8ea4a1308e687196609b2d609d9f543d4393030f23e62a4409f0fd6e31786c",
+  "status": "Independently complete source/public accepted; frozen for parent inclusion",
+  "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/KRIPKE-SOURCE-effects-before.json",
+  "effects_depth": 4,
+  "consumer_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/KRIPKE-SOURCE-DIRECT-CONSUMERS.json",
+  "source_ledger": {
+    "source_current": "176ecc26400d8d2cd340136309c19c65838558159d3f13c8bf078aff69cb2203",
+    "protected_notes_sha256": "8dc5a0cad0c263cd88df188216f0ba54af9b0a8d815d9d10442a344d25224d8b",
+    "actual_read": "Fresh whole currentSOURCE and full protectedNOTES before draft, including allpp8–15 entries/finaldiceoperation. Six currentargument/fourconcept/dossier bodies fresh or exactearlierwhole personallyread/versionbound; currentIndian preimage separate from acceptednonlive3b74bb5d."
+  },
+  "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/KRIPKE-SOURCE-CHECKS.json",
+  "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/KRIPKE-SOURCE-QUALIFICATION-REVIEW.json",
+  "scope": "ExistingTaylorencounter consumption only. No citation/quote/edition/chicago/raw/sourceid change, no passagecard/acquisition/runtime/humanapproval or allreceivingpublic closure.",
+  "independent_cold_review": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-KRIPKE-BINDING-REVIEW.json",
+  "independent_cold_review_sha256": "0eb92091ed60d178c0771ebb03e0ad948a25727d65a36c494350851c4c5c09b6"
+}

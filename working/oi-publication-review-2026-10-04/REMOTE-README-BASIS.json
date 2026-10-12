@@ -1,0 +1,42 @@
+{
+  "schema": "oi.publication-review.remote-readme-basis/v1",
+  "scope": "Read-only remote main lookup; no branch or ref mutation",
+  "repositories": [
+    {
+      "repo": "EpiLogos/Central",
+      "main": "1dbca8bc456c35c3de4cd368120982c8fab4aafa",
+      "readme_blob": "8bf818d952414f87fa3a02792728832eac915968",
+      "size": 11907
+    },
+    {
+      "repo": "EpiLogos/Actuation",
+      "main": "7a685ad38bc723fd45cb60cc139d47f3d4de76b9",
+      "readme_blob": "413390e13da4df482bbecc4a53662485cee165f0",
+      "size": 22773
+    },
+    {
+      "repo": "EpiLogos/ai-kit",
+      "main": "12ccb272f46a655fd95a7201d9468410a96990c7",
+      "readme_blob": "4fe28db0efed2596085e8193f219e48cd06e542e",
+      "size": 16635
+    },
+    {
+      "repo": "EpiLogos/Workcell",
+      "main": "c7261e23bc9306a7ce3481405db79dbee26dffe6",
+      "readme_blob": "5cedaccf873d5595278004d97c7644a74d7ce46e",
+      "size": 8795
+    },
+    {
+      "repo": "EpiLogos/QL-MEF",
+      "main": "f9089b1ab22b9b34a6992c99ba157c6c1b71ae39",
+      "readme_blob": "2894689cc09723bce7837156a191b30ead900fb6",
+      "size": 15013
+    },
+    {
+      "repo": "EpiLogos/Factory",
+      "main": "24ea8944b40c177362e59ef446b1a87658ac8af3",
+      "readme_blob": "ac3d59853a4f1ff36cb068dbcc0510728060a32b",
+      "size": 16788
+    }
+  ]
+}

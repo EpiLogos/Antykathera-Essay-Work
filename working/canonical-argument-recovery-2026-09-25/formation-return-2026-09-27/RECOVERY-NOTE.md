@@ -1,0 +1,21 @@
+# Formation and return — pre-edit recovery note
+
+Base: `27bcc5fcd915b3c6fc6b4c74f3ff29bfc2ad2d3e`, exact native tree `0adf10c30b557fec86dc1c19d456b9d997bd558c`.
+
+The constructive operation is not a precaution about machine consciousness. An inherited circumstance is differentiated into qualified possibilities; retained experience can be recalled and recomposed; a selected formation becomes a course; the course changes the field of a later act. The contraction is specifically the loss of access to the formation, not useful recurrence or conditioning as such. In the computational example, a generated result becomes a legitimate new condition while retaining provenance, or conceals that provenance and replaces its source. Restoration reopens the criterion and the relevant alternatives, rather than merely changing a conclusion inside the same insulated criterion.
+
+Read the complete core theorem and Symbolon Dynamics, the complete protected Kripke encounter, the complete relevant Q27 section 19 (including its closing distinction of run-level circularity from training-generation collapse), the complete Draft 3 units “Māyā and the Code” and “Epi-Logos”, Dyczkowski's housed pp.71–72, and MacCracken's complete source record. These supply the operation; newer C17/C12/A07 prose is its object of comparison. Draft 3's local units were read, not the entire draft. No new historical edition collation or computational experiment has occurred.
+
+C17: recover the circumstance, differentiation, remembered/imaginative movement, achieved course, contextual self-revision and return within its particular sixfold. Preserve nirvikalpa's non-conceptual office and the pure-notion operation from the actual Draft 3 unit. The operational use of śuddha-vikalpa is not a newly verified attribution to a particular classical passage. Keep that source task in this packet rather than making it organise the concept.
+
+C12 and A07: recover the field/trajectory distinction and the complete source/result recurrence. Explain the notation through the distinct determining and produced offices. Carry the operational differences between retained trace, recalled appearance, imaginative recomposition, formed intention and effective next act. Preserve real distinctions between semantic exclusion, constructive gathering, a psychic complex and a technical procedure. Remove declared-consumer narration, source-status rhetoric and internal addresses from public argument without discarding their provenance.
+
+M09: perform the world-forming pulse between the inner-instrument and apoha movements. Retain the process inheritance and constitutive contrast; remove the standing machine-phenomenality guard and the premature QL formula. The movement precedes the point at which the linear essay earns that notation. Technical sequential dependence is an operation within means, not a new functional knower. Keep the actual before/after movement links.
+
+A31 and C47: repair the missing source relation by reopening the actual Epi-Logos unit in Draft 3 and Q27's complete local section 12. Retain the substantive argument already present. State the fixed-evaluator formula's variables and distinguish its proposed second-order revision from an executed update rule. This is a bounded source/operation repair, not re-certification of every mythic and historical source of these records.
+
+The three transverse paths: synchronise their product handoff to Actuation's current office and expand only the directly recovered local formal handoff. Preserve their longitudinal path structure. Do not label the entire historical/trust/Mytheme field source-recovered merely because these routes have been reopened.
+
+Genesis whole-field: repair three mechanically incorrect relative paths against the existing source homes. This is link integrity only, not acceptance of the whole etymological argument.
+
+All complete preimages, including displaced administrative and source-debt language, will be retained as historical working evidence. The protected originals, source-house NOTES, authorial HISTORY, frozen ethic and manuscript remain untouched. Generated surfaces will be rebuilt by their actual builders. Validation results are to be recorded only after execution; no remote publication is implied by the local baseline or a local patch.

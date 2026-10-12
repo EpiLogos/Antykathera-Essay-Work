@@ -62,7 +62,7 @@ Each step ends on a checkable completion criterion.
    - `episteme/README.md` for instituted knowledge.
    *Done when you can state the record form the register demands without importing a generic six-heading glossary.*
 
-2. **Resolve the canonical home and ratified office.** Use `tools/source_resolver.py` or `tools/okf-workspace.py find` to locate the element's one home. Read existing frontmatter and any `NOTES.md` (read-only), plus the ratified census/decision that created, retained, merged, split, or rehomed the record. *Done when you have the record's stable identity, declared register, publication office, and exact reason it exists as its own page.*
+2. **Resolve the canonical home and ratified office.** Use `tools/source_resolver.py` or `tools/okf-workspace.py find` to locate the element's one home. Read existing frontmatter and any `<source_id>-NOTES.md` (read-only), plus the ratified census/decision that created, retained, merged, split, or rehomed the record. *Done when you have the record's stable identity, declared register, publication office, and exact reason it exists as its own page.*
 
 3. **Open the raw QL skeleton.** Start with exactly the six positions `#0`, `#1`, `#2`, `#3`, `#4`, `#5→0`. Do not assign generic semantic names yet. *Done when the blank page has the six positions and no inherited semantic boilerplate.*
 

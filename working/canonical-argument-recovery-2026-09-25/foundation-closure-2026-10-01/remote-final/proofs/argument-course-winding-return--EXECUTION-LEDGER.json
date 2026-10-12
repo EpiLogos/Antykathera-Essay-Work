@@ -1,0 +1,57 @@
+{
+  "records": [
+    {
+      "id": "A07",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.txt",
+      "preimage_sha256": "029cafa745ac346f0fc3dfd96b732a7d13763624b75bcd8d4f9d5d1426cd2941",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/candidates/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.txt",
+      "candidate_sha256": "b661814c563477d67ee9d42d5c5a0b02aea738f5cb97ba35127f48ad6e7ef5bd",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete actual whole old/new/source/public own read; independent source-cold pending. Non-live."
+    },
+    {
+      "id": "A17",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A17-Toroidal-Circulation-and-the-Arche-Topos.md.txt",
+      "preimage_sha256": "1525064c85512bf700b1b93206fd9b3679246cf1031386af0e9600863f3e2a8b",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/candidates/A17-Toroidal-Circulation-and-the-Arche-Topos.md.txt",
+      "candidate_sha256": "9c82c18fa20d687b09bb1323ff054a2e7754355886042f6d3870c36c4b5e1d40",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete actual whole old/new/source/public own read; independent source-cold pending. Non-live."
+    },
+    {
+      "id": "A17p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/preimages/A17-prime-Traversal-with-Return.md.txt",
+      "preimage_sha256": "783c5357f5bc985bb3a5b58b96ddc154e67b0e8d9c63b2ad4b75e78b76805199",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/candidates/A17-prime-Traversal-with-Return.md.txt",
+      "candidate_sha256": "3672a8b96cfbdf71d44f8130994f6892d5dbbb3aa5e6f5dfb4a988ab199117cc",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-course-winding-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete actual whole old/new/source/public own read; independent source-cold pending. Non-live."
+    }
+  ],
+  "actual_operation": "PRE-EDIT-RECOVERY complete nativecourse/formalwinding/constructedrelay recovered before draft; whole old+final candidates read untruncated, with prime final#0/#3/#5 adjoining replay after retained selfreturn. All three sixfold fields semantically developed, no mechanical quota.",
+  "actual_changes": "Source/page/history duties become actual trace/recall/recomposition, productsource substitution, frame/dream recognition, countedselection/circumstance, directedcentredpolarity/gathering, class/path/time, musicaloperational/telic endings, actual relay interventions/recomposinggroups and entrusted nextact. A17prime source/title duties and compulsory changedbeginning recovered; every defined strong changedprocessing requires identifiedchange.",
+  "preserved": "Alloriginalmetadata/headings/pairednavigation/quote spans/displaymath/tables/original resolvedtargets exact. Underlying greenhouse is constructed and mathematical/domain/psychic/doctrinal offices staydistinct. A07prime untouched; no other ownerwrites.",
+  "actual_source_limits": "Named whole/selected/earlier current-equal sources in SOURCE-READINGS. No fresh whole externalbooks/PDF/print/quotedsource/readiness/acoustics/clinical/runtime/deployed result; depth4byteopens only impact.",
+  "remaining": "Independent complete source/public cold pending. Separate currentnativeA31/A34 actual sourcepublic joins remain in authorised receiving scope, ownershipcoordination pending."
+}

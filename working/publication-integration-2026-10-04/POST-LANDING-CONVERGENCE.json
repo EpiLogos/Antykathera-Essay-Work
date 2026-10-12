@@ -1,0 +1,27 @@
+{
+  "verified_at": "2026-10-04T18:07:12.320862+00:00",
+  "remote_main": "336e2141b1e10e1d5ec21968d3cbe0d157e85716",
+  "merged_pr": "https://github.com/EpiLogos/O-I/pull/582",
+  "validated_source": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "merged_tree_matches_validated_candidate": true,
+  "primary_head_before": "5c74f16120e688b2969ea848e797d1062485ed77",
+  "primary_head_after": "5c74f16120e688b2969ea848e797d1062485ed77",
+  "primary_index_unchanged": true,
+  "shared_primary_not_switched": true,
+  "local_publication_branch_retained": true,
+  "active_foreign_authoring_overlap": [
+    "site/content/public-site.md",
+    "site/index.html",
+    "site/public-content.test.mjs",
+    "site/src/shell/ShellApp.tsx",
+    "site/src/shell/ShellNav.tsx",
+    "site/src/shell/content.ts",
+    "site/src/shell/public-entrance.css",
+    "site/src/shell/shell.css",
+    "site/tests/library-acceptance.py",
+    "site/tests/library-regressions.py",
+    "site/tests/read-shell-source.mjs",
+    "site/tests/shell-v2-acceptance.py"
+  ],
+  "standing": "Remote main received without resetting the shared authoring checkout. Active concurrent home-copy inputs overlap incoming paths and remain preserved; no checkout merge, stash or reset was attempted."
+}

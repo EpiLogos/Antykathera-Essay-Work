@@ -1,0 +1,46 @@
+[
+  {
+    "key": "E2",
+    "native": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E2-before.md.txt",
+    "preimage_sha256": "a2bf352f2127ef1bbf03716a7579b5165c7cb8216264f189303a94cb10c572eb",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E2-effects-path-replay.json",
+    "effects_sha256": "50b3942d16838c0da16e05c4bdb31b89b7c3da812c3dc06831a0077def6ea1dc",
+    "depth": 4,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E2-candidate.md.txt",
+    "candidate_sha256": "c9dc0e14f9279669db22620b0b6d8b624834b7ac0e2340cfe533df6c1b78aee0"
+  },
+  {
+    "key": "E4",
+    "native": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E4-before.md.txt",
+    "preimage_sha256": "ee31b6b2dd382fead1c4f9f0396c3ef7982e3d90f8c2309d289828164afd93d7",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E4-effects-path-replay.json",
+    "effects_sha256": "8b4d5f313bfeb8d2405ea836b3f6b779d615f24a6d5f1719465dbbd89cf036ef",
+    "depth": 4,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E4-candidate.md.txt",
+    "candidate_sha256": "4dc4c6e216f2e6668aa76b53b786fdaa89c411408af73faad7493c23ba2bfc67"
+  },
+  {
+    "key": "E6",
+    "native": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E6-before.md.txt",
+    "preimage_sha256": "832de0e3ada0a397f898c2f215eb36045475ddd33cc9bf143a81e935027df7e7",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E6-effects-path-replay.json",
+    "effects_sha256": "b4ef0e363fb7daa8abd9b2525dbcc4023aa195790a998cce1de31a1efc6d8830",
+    "depth": 4,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E6-candidate.md.txt",
+    "candidate_sha256": "bd22197d57d4d26a8f4c54f71321e4fcc42911bc9c90d47fd039be7a08cbc9b1"
+  },
+  {
+    "key": "E5",
+    "native": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E5-before.md.txt",
+    "preimage_sha256": "6147665e44cc51fbd28d98c5e9d6d3eb4f8587e9d95c28e1369f55a5224dc873",
+    "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E5-effects-path-replay.json",
+    "effects_sha256": "8e0c81de7a6b5e187a8155380b41451d8b631d49591e351afde2ce5d186cbdcd",
+    "depth": 4,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E5-candidate.md.txt",
+    "candidate_sha256": "3b531e82cb7c67280ec5a41e343e91c5d9ac55b2d3c8b90de5e9677b293e8124"
+  }
+]

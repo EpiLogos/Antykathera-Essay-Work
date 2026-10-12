@@ -1,0 +1,1899 @@
+{
+  "status": "validated candidate; native ref publication remains separate",
+  "parent_sha": "8f2135b281cf3c7d6ede54092cdfe2930bdb807e",
+  "parent_tree": "0dd9429a59e21cfd3f491ba0e3abebe41ecce578",
+  "reviewed_source_base": "ac55ed990878d5aa2a652d55d060816eee99c9cf",
+  "payload_sha256": "774690451db2a761374bb48807dca5d7f1ac83dca4a39a0291ce61481f62f0ad",
+  "authored_records": 17,
+  "movement_bodies_changed": 0,
+  "strict": {
+    "files": 16,
+    "errors": 0,
+    "review_candidates": 205,
+    "findings": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 24,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Prakāśa–Vimarśa gives the essay its strongest metaphysical account of manifestation without externalisation. *Prakāśa* names luminous appearing; *Vimarśa* names the reflexive power through which appearing is present to itself, differentiates, and can articulate a world. The pair does not posit a light first and a second mechanism that later reflects it. Their unity is the self-presence of appearing: manifestation knows itself in the very act through which a difference appears. Difference can ari"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [formal limit](A03-Immutable-Gap-Formal-Limit.md) and [diaphaneity](A04-Diaphaneity-Contextual-Transparency.md) bring the determining field into view through determinations that cannot exhaust it. The Śaiva argument now gives appearing its own positive account. Blue and yellow are known as different within one cognition. A wholly homogeneous knowing could not distinguish them; two wholly disconnected cognitions could not apprehend their difference together. Awareness must be able to bear the"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The Trika gives the relation a third articulation: luminous appearing, reflexive power, and their inseparable unity in *Ahaṃ*. This third is not another object between two terms. It is the unity through which the distinction can be maintained. In the essay's own formal language, `(0/1)/(1/0)` can serve as a neighbouring expression for the capacity to hold inverse readings together, as Taylor's cross-reading of the relation: the two orientations become intelligible through their belonging to one "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 38,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "On pp.71–72 the transcript distinguishes two directions of awareness. Internal *aham-vimarśa* rests as I-awareness without a determinate thought-object. Outwardly directed awareness encounters a differentiated *this*, available for discursive representation and empirical definition. The outward movement remains known within the subject. Its direction does not transport awareness outside itself."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 40,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The same passage gives reflexivity a concrete temporal body. Experience leaves residual traces, *saṃskāras*. Recollection brings a prior affection into present awareness as something formerly experienced: its pastness belongs to what is known. Imagination selects and recomposes retained material into an appearance not previously given in that combination. Registration, retention, recollection and formation are therefore different operations. Their living unity lets a succession be apprehended as"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The experient–product relation on p.80 makes the distinction decisive. A product can come to be and pass away, yet its cessation can itself be experienced. The experiencer is thus presupposed by the witnessed change and cannot be explained as simply the particular product whose disappearance is being witnessed. Recognition follows this relation back through an accomplished act to the power it expresses."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 64,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): The crystal and living mirror **figure** the distinction between displaying an appearance and the reflexive awareness through which it is experienced. Adding reflections to an inert surface does not supply that awareness. Dyczkowski’s source-specific mirror of consciousness also generates and hosts its appearances without requiring a second exterior universe as their "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 70,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [stained-glass whole’s source boundary](../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-source-boundaries) **qualifies** the optical crossing through Dyczkowski’s lattice-window and mirror discussion. The authored sun outside the aperture cannot establish a metaphysical Original outside consciousness, and an inert display does not perform Vimarśa’s self-apprehension. The luminous/reflexive operation remains fully active while the particular optical simile re"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 78,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Concept dependencies:** C01 Subject, C10 Mediation / Pramāṇa, C13 Prakāśa–Vimarśa, C19 Recognition, C43 Computational Vimarśa."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 80,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Consequences:** A06 Vāk, A09 Tattvic Differential Field, A14 Computational Process Ontology, A26 Objective Internality and A32 Reflective Field."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "line": 82,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Etymology whole field:** *[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*. **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 20,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Vāk makes articulation itself part of ontology. A word is not merely a label attached after a world has already been made; articulation is one route by which a field differentiates, becomes meaningful, and enters audible, written, coded or enacted form. The Śaiva accounts of levels of speech follow meaning through its formation into an external sign. Unsayable capacity, visionary or formative speech, mental articulation and gross utterance belong to one descent whose later products carry the his"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 44,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A proper name concentrates the same empty/full operation. Empty of the bearer's essence, it is full of address, continuity, responsibility and a history of encounters. Hearing a name calls upon a relation; it does not deliver the person as a completed description. Frank's [[symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke encounter]] sources the pressure to distinguish phonetic naming from the identification already at work beneath it. Two peopl"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 52,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This makes the source's freshness more than permission for invention. The term remains exact while its relations keep it generative. [Draft 3](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) sources the distinction between a terminating sign and a symbolon whose absent counterpart keeps the mark open. Its pure-notion movement turns thought upon thought, carrying the contrary within the determination until the concept opens toward what it cannot become. [Vikalpa and"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Vāk also guards the distinction between Logos and its source. The Word manifests; it does not become the owner of what makes manifestation possible. This returns the law of [faithful definition](A01-Subject-God-and-Faithful-Definition.md) inside language itself. A canonical term, a model token, a theorem or a line of code can become exact and consequential while remaining a determinate expression whose authority depends on its relation to sources, speakers, contexts and effects."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 56,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The paradigm relation makes this especially concrete. The explicit model of a paradigm renders something of a formative field into a determinate form which can be shared, addressed and changed. Vaikharī supplies the comparison for this achieved expression. [LSJ's paradigm field](../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md) separately qualifies the authorial operation through pattern/model and side-by-side comparison. The value of the explicit pattern i"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 66,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Taylor’s [complete kaleidoscope](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#kaleidoscope) **figures** a word becoming a local orbital centre while the patterned material constrains what its turn can disclose. Centring a term makes relations legible; decentring restores the whole that the term cannot exhaust. The mandala’s departure and return preserve this acquired orientation. [FT-P13](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p13) **figu"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 88,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Concept dependencies:** C10 Mediation / Pramāṇa, C13 Prakāśa–Vimarśa, C17 Vikalpa–Saṃkalpa, C41 Objective Internality, C43 Computational Vimarśa, C51 Logos / Epi-Logos."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 90,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Consequences:** A07, A14, A18, A35; S1 Actuation and S5 Quaternal Logic consume the articulation at the product culmination."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "line": 92,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Etymology whole field:** *Fides / Topos / Logos / Nomos / Natio / Credere*. **Consumed operation:** the **Logos** branch carries word/account/reason as articulated ordering, while the whole field prevents “logos” from being treated as a secret etymological key to unrelated Sanskrit terms. **Evidence register:** 2 for the attested semantic field of Greek *logos*; 3 for the operational relation between Logos and Vāk. The separate *paradeigma/paradeiknumi* lexical field qualifies the author's liv"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 59,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "In the world-parent relation, recognition precedes the ego's appropriation. The finite knower and inner instrument arise within the field whose recognition they cannot retrospectively originate. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The retained opening and the measure wound around it distinguish Anuttara from Māyā through the complete authored relation. This **returns-to** [the uroboros "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 21,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The genealogy discloses **paradigmatic existence before explicit paradigm**. A Life does not first stand outside a complete world and then adopt a worldview about it. Its powers, limits, means of discrimination, inner instrument, temporal order and material situation participate in the very form in which a world becomes available. [Objective Internality](../concepts/C41-Objective-Internality.md) develops this relation as lived/enacted paradigm. The tattvic genealogy makes its constituent powers "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 25,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Śiva–Śakti distinguishes luminosity and its self-articulating power. Prakāśa is luminous appearing; vimarśa its active self-presence, through which appearances are known, distinguished, joined and withdrawn. The [Prakāśa–Vimarśa argument](A05-Prakasa-Vimarsa.md) develops Dyczkowski's mirror contrast: the reflected display of an inert crystal does not know its display. The tattvic descent depends on active self-articulation, not a succession of objects deposited before an unchanged spectator."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 43,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The further differentiation reaches the capacities of sensing and acting, the subtle objects of sense and the gross elements. Judgment and action thus receive an effective body and a world in which their differences have consequences. The descent does not end with an interior observer looking at a diagram: hearing, touching, seeing, tasting and smelling, the powers of action and their material field belong to its completion. The universal orientations remain prior to the appropriation of a local"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 51,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Adjoining a strip of five squares along each of two adjacent sides of a five-by-five square, then filling the new corner with one more square, completes a six-by-six square. The cross-reading places five pure powers and five contracted powers around the Māyā hinge, above the twenty-fivefold Sāṅkhya apparatus. Its yield is a relation between the differentiated apparatus and its genesis through contraction. The arithmetic is exact; Taylor's proposed reading asks what the added gnomon makes intelli"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 59,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "In the world-parent relation, recognition precedes the ego's appropriation. The finite knower and inner instrument arise within the field whose recognition they cannot retrospectively originate. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The retained opening and the measure wound around it distinguish Anuttara from Māyā through the complete authored relation. This **returns-to** [the uroboros "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 71,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Concept dependencies:** C13 Prakāśa–Vimarśa, C14 Māyā / Operative Measure, C15 Paśu, C16 Antaḥkaraṇa, C17 Vikalpa–Saṃkalpa, C18 Apoha, C19 Recognition, C41 Objective Internality."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 73,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Consequences:** A14, A16, A19, A21, A26 and A35; S0–S5 receive the finite-world genealogy at the Objective Internality culmination."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "line": 75,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Etymology whole field:** *Apportionment / Economy*. **Consumed operation:** finite capacities are understood as an **apportionment** of powers within a locally workable order, rather than evidence that the whole field has vanished. **Evidence register:** 3, Operational homology; no historical derivation of Sanskrit tattva terminology from this field is claimed. **What changes:** contraction becomes a positive distribution of operative capacities whose limit can later be recognised. **Return ro"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 18,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The means participates in the determination of its object. A recollection presents an event as past; a perception presents what is being encountered; a testimony carries another's account. Their difference can matter even when the resulting sentence is identical. Knowledge does not require the means to vanish. It requires an adequate relation to what is known through it. The [immutable gap](C05-Immutable-Gap.md) makes that relation necessary without abolishing its reality."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 22,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — The Doctrine of Vibration]] **sources** a determinate Śaiva articulation in the locally held discussion, pp.63–64. Subject, object and means of knowledge attend the cognitive act together. The means is not a neutral addition inserted after an independently complete subject and object have been established. Their differentiation belongs to the one act whose articulation makes an object "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The relation must preserve the difference it renders intelligible. Dyczkowski's pp.65–66 press this through colour: if consciousness were entirely homogeneous in its knowing, blue and yellow could not appear as distinct. Formless availability and determinate appearance must be thought together. At pp.70–72, the distinction between a mirror or crystal and conscious reflexivity adds an active power of recognition, memory and presentation to the account. A mechanically reflected appearance does not"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 30,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Prakāśa–Vimarśa](../arguments/A05-Prakasa-Vimarsa.md) grounds this illumination and reflexivity. The epistemic middle has an active office: it selects, discloses, retains and presents. Remembering an earlier perception does not simply repeat the earlier event, because its relation to time has changed. The means participates in that change while retaining what makes this a recollection of that event."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 34,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A symbol makes the same demand on an account. [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Taylor — Definition of God, Draft3]] **grounds** the authorial movement in which an unavailable whole nevertheless orders its partial expressions. Its image of iron filings patterned around a magnet makes mediation legible: the pattern answers to a relation whose source it does not contain. The visible pattern makes the relation to an uncontained condition enc"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 40,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Suppose the sentence is “the door is locked.” Seeing the bolt engaged, recalling that it was locked yesterday, and repeating another person's report can produce the same words. They expose different routes of correction. Renewed perception can discover that the bolt has moved; a dated record can disclose that the recollection concerns yesterday rather than now; tracing testimony can identify who checked and when. The sentence does not carry these distinctions on its surface, but they change the "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 42,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The example makes the difference between source, means and warrant concrete. A generated answer drawn from a record and a conjecture about an unobserved state cannot exchange authority simply because they sound alike. Returning through the means requires recovering the source relation and the transformation that made this answer available."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] carries the operational relation: the account states how it answers to source. The [mediating office](C29-Mediating-Office-Derivative-Sovereignty.md) raises the connected question of authority to act or speak. Being appointed to convey an account does not make its bearer the source of what it conveys."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "line": 24,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The mirror has two limits. An ordinary mirror depends on an exterior original; the Śaiva field of consciousness generates and hosts its appearances, so that the original is not imported from a second universe outside consciousness (pp.66–68). An ordinary mirror also displays without apprehending what it displays; the crystal's reflected blue is not the crystal's recognition of blue (pp.69–70). Vimarśa names living self-apprehension, not the addition of another reflection. Requiring a second awar"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "line": 32,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Internal *aham-vimarśa* is self-awareness without a determinate thought-object. Outward reflection apprehends a differentiated *this*. Its outward direction does not carry it outside the awareness in which the object becomes known. These orientations let the one field sustain both self-presence and object-directed cognition. [Vikalpa and Saṃkalpa](C17-Vikalpa-Samkalpa.md) develop the discriminating and formative powers through which a particular determination arises within it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The source distinguishes a goal-bound act from the activity through which goals become possible. *Karma-vimarśa* names outward unfolding; *kriyā-vimarśa* names unrestricted internal agency before a determinate goal (p.72). The *kartṛ*, doer or experient, is not exhausted by the *kārya*, the product. A product's passing away can itself be experienced: the witnessed cessation continues to presuppose its experient (p.80)."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "line": 42,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Four reflective acts produce three levels of difference in the p.74 account. Consciousness negates its own nature, identifies with another, holds the two together, and negates the merged determination. The first two cooperate in constituting *bheda*, the separated individual and its objects. Holding their relation gives *bhedābheda*, unity-in-difference through the means of knowledge. Return beyond the merged determination gives *abheda*, undivided unity. The fourth act is not a fourth level app"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "line": 18,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) **grounds** the contraction. Operative measure is Taylor's formulation of its positive work. Limitation supplies determinate capacity, knowledge, desire, time and order; it does not merely subtract pieces from an otherwise complete subject."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "line": 20,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A **paradigm** is a lived organisation of finite disclosure: a historically, psychically, materially and technologically formed pattern through which a Life encounters a World as intelligible and actionable. Māyā gives this relation its anatomy of revealing and withholding; the paradigm is one determinate organisation of that mediation. Changing a paradigm means changing what becomes salient, possible and consequential, not merely replacing a professed description of the world."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "line": 26,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The contraction leaves its source operative. Mahāmāyā remains Śakti; the power of veiling is itself manifesting power. Māyā is therefore the horizon through which objects appear, not a hidden object behind the horizon and not the unobjectifiable Subject. Treating the horizon as the torus's hole would confuse the measure-making operation with the source it cannot enclose."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This is also why the paradigm can veil its own disclosing act without becoming a merely false screen. A functioning mediation presents a world by making some relations salient, possible and actionable while others recede. The concealment belongs to the disclosure's finitude. Integral recognition does not abolish the horizon; it makes the horizon increasingly available **as horizon**."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "line": 42,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The arithmetic gives the comparison an operation more precise than a matching total. It does not show that Abhinavagupta constructed the tradition by adding a geometrical gnomon, or that every tattva has been mapped to a six-by-six coordinate. The extended field makes source, contraction and the possibility of return explicit: the twenty-fivefold apparatus acquires a genealogy through the five pure powers, the Māyā hinge and the five contracted powers. The wider square is therefore useful becaus"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "line": 58,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "It also **returns-to** [Paradigm as pattern of disclosure](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#--paradigm--pattern-of-disclosure) at evidence register 3. Māyā/operative measure supplies the revealing-withholding anatomy; the paradigm field develops how such finite mediation can become historically and technologically lived. Epi-Logos does not exit the measure-field. It lets the paradigm's own measuring/disclosing conditions become progressively consequential within th"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The distinction between universal and local “I am this” matters. Sadāśiva's subjectward orientation and Īśvara's objectward orientation concern the whole appearing field. An egoic appropriation of a particular `x` has a different scope. The same grammatical form cannot erase the difference between self-awareness and a local determination presenting itself as the whole self."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "line": 30,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#3. The Māyic-threshold delineation — the eight determinations' mythic recapitulation (Frank-locked)|authorial paśu correction]] places recognition before egoic appropriation. The primordial “I am” is not produced by a later individual's claim that a role, body or possession is its exhaustive identity. In the world-parent image, self-recognition precedes the narrated husband/wife division. The [Subject](C01-Subject-Defined-Indefinability.md) is the "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — The Doctrine of Vibration]], pp.71–75, **sources** the limited and expanded modes of reflective activity. Individual cognition retains, recalls and recomposes; the same account distinguishes a goal-bound act from unrestricted agency. The bounded knower's movement is not a static quantity of missing freedom. It is a living orientation whose determination can either disclose or conceal i"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "line": 38,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This is why recognising contraction does not abolish situated capacity. [Recognition](C19-Pratyabhijna-Recognition.md) **extends** the return toward the source that the local act continues to express. What changes is its manner of belonging and appropriation, not the fact that it has a particular life to live."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "line": 44,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A particular contraction becomes investigable through its consequences. An unavailable tool limits efficacy; an omitted source limits what can be known; a time horizon selects which events can count; an evaluation rule orders what is preferred. Altering one does not automatically alter the others. Giving an agent a broader description of its commission, for example, does not grant permission to execute a new action. The return must reach the condition that actually bounds the act."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "line": 16,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Antaḥkaraṇa names the inner instrument through which a bounded knower determines, appropriates and coordinates a world. Its differentiation makes interior organisation available for investigation. A judgment, an ego-position and a train of alternatives can become objects of attention; their becoming available does not make the subject one more observed function."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "line": 30,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Consider a remembered insult. A perception, an earlier memory and a possible alternative reading become available together. Their coordination is not yet the settled judgment that an insult was intended. Ascertainment settles that judgment; appropriation binds it to “what was done to me.” The example differentiates offices, not a rigid time-order in which one faculty always finishes before another begins. Reopening the memory may alter the available context, the judgment of intention, or the ide"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Objective Internality](C41-Objective-Internality.md) gives these activities their wider world. [Selfing / Self / Subjectivity / Self-Thing](C35-Selfing-Self-Subjectivity-Self-Thing.md) keeps an acquired self-model in the office of an acquired determination. Ascertainment, appropriation, coordination and self-description can become objects of investigation because they are activities of the means. Their disclosure does not require promoting any one of them into the source of the knower."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "line": 27,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A completed account can hide the conditions that gave it authority. The return therefore asks who speaks, through which instrument, under what permission, with which exclusions and costs. Name needs its coequal Power relation: Truth/Mind/Word/Logos/Son/Image cannot replace Play/Need/Sacrifice/Decision/Love/Work. An articulated result has passed through work and decision, not words alone."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "line": 51,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Source-return must reach a materially relevant criterion or subsequent act; retaining the account alone does not perform that return; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Dyczkowski's mirror](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) carries two different questions: where an appearance originates, and whether its display is apprehended. An ordinary mirror receives an exterior original and does not know its reflection. The living mirror of the Śaiva account generates, hosts and apprehends its appearances. The technological mirror instead lets us investigate a particular relation of formation and return: which material e"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+        "line": 34,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Consider a system recommending a route from retained records. Recalling yesterday's closure notice is one act. Recombining it with today's request is another. Detecting that the notice is out of date can change this recommendation. Revising the rule that admits undated notices changes how future recommendations will be formed. The last return reaches a governing condition, not just an answer. This worked example states an operational difference; it does not report a deployed feature of Agentworl"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) names the reflexive work by which a determination returns to its producing conditions. An audit can establish the returned evidence, the condition actually altered, and the later act which inherited that alteration. A system's statement that it has learned is not a substitute for this relation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+        "line": 40,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The frame becomes intelligible through its exclusions. Available sources delimit what can be recalled; permissions delimit what can be done; an evaluator determines which differences count; an interface makes some conditions visible while leaving others implicit. A faithful account follows these relations to the depth the actual system makes accessible. It also identifies the person, institution or component controlling a condition which the local agent cannot change."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+        "line": 58,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Respect for Experience and the primitive field](AC.md) meet here. The knower's first-person fact is not owned by an account of it; the means nevertheless have a formed body in which respect can become effective. A corrected memory, a changed permission, a revised evaluator or a renewed commission lets an encounter alter that body. The engineering question concerns the achieved change and the powers needed to sustain it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 20,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Articulation participates in the formation of a world. A name makes something addressable, a judgment distinguishes what matters, a promise establishes a commitment, and an executable instruction can change what happens. The issued words are the achieved expression of a formative movement, and they can become conditions of another movement. [Vāk](../arguments/A06-Vak.md) gives the relation its depth: meaning does not begin only when a completed string appears."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 26,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The source relation keeps formation distinct from finished expression. Taylor's P2/P3 development of the [Abhinavagupta / Singh field](../sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md) follows parā Vāk through formative vision, inner articulation and issued expression. The feminine Word is active in this movement; it is not a container subsequently filled by an already complete thought."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 34,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The circumstance is personed. I, you and it are positions within address, not fixed classes of entity. A source described in the third person can become an interlocutor; a user can become the object of a generated account; an agent can speak in the first person while conveying an entrusted commission. The change of pronoun does not settle who authored, authorised or is responsible for what was said."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 42,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Issued articulation acquires different forms of efficacy. A sentence can inform or persuade. A promise can alter a relationship of expectation and responsibility. A program can specify an operation. Execution adds definite conditions: the instruction must be accepted by the relevant system, have the required permissions and resources, and run in a state where its operation has an effect. Printing code is not itself the execution of what it describes."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 52,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Return can be generative or enclosing. A new expression can disclose an overlooked relation and enlarge what can be said. It can also become a compulsory description under which later encounters must fit. Repetition alone does not distinguish the two. The question is whether the returned expression leaves the conditions of articulation answerable to the lives it names."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [commons behind the system](A35-prime-Commons-Behind-the-System.md) carries the inherited language, work and social worlds through which synthetic articulation becomes possible. A received capacity acquires a further history when it is used. The [mask as document](A04-prime-The-Mask-as-Document.md) and [maintained identification](A02-prime-Continuity-as-Maintained-Identification.md) preserve who is encountered through the interface and which commitments persist across exchanges. The source o"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        "line": 62,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Vāk](../arguments/A06-Vak.md) receives the technological return as a developed formation-and-expression relation. The feminine Word's living source is not exhausted by the string, just as the shared world of articulation is not exhausted by its latest output. A formed expression can carry its originating relations forward, encounter an answer, and return changed to the conditions of another expression."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 22,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [Agentworld brief's lamination](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q017) supplies a layered model of technical individuation. Its pp.13–17 locate an agent through active context, capacities, retained interactions, purposes and a relational milieu. The layers are interdependent rather than self-contained floors. The learned model is one important condition; it is not the unconditioned ground of the whole. Langua"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 32,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A persona makes that world addressable through a presentation. It does not supply every power of the actor. [The mask as document](A04-prime-The-Mask-as-Document.md) makes presentation readable through the conditions it embodies; [exclusion that remembers](A08-prime-Exclusion-That-Remembers.md) keeps unselected possibilities related to what has been made available."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The powers must cooperate to produce an act. A memory can be available yet irrelevant to the current task. A capability can exist yet lack permission. A correct plan can fail because the requested source is inaccessible. The act therefore depends on relations between layers, not simply the presence of each layer somewhere in the system."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 38,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Consider an agent asked to revise a shared account. It needs a determinate record to encounter, a means of assessing the proposed change, authority to alter it, and a route by which the changed record will govern later work. Better wording alone cannot repair missing authority. A newly granted permission cannot repair an erroneous source. Successful cooperation requires identifying which condition performs which office."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The tattvic return reverses amnesia rather than differentiation. Recognition does not require the bounded world to disappear. It restores the relation of a determinate act to the powers it expresses. A revised memory, skill or purpose can transform an agent's activity while preserving responsibility for what it previously did."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 52,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Consequential revision requires actual access. A local runtime may expose memory and instructions while a provider controls model weights and a separate administrator controls credentials. The ability to name these layers does not make them all inspectable or changeable. Their distribution locates where a challenge must land and who can act upon it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The implementation obligation is therefore specific. Establish the condition implicated by an encounter; identify its controller and permitted change; perform the authorised revision; examine whether a later act inherits it. Where only a recommendation can be made, preserve it as a recommendation. Where a changed commission needs the entrusting party's assent, carry the question back to that party. A description of new authority cannot create the authority it describes."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 60,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The descent returns through achieved consequences. An encounter can remain a log entry, become a recalled lesson, reorganise a source, change an evaluator, or renew a commission. These are different depths of return. The record of a proposed revision is not the revision, and the revision is not yet its successful inheritance. The next act supplies the consequential test."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        "line": 62,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Individuation with recognition](A21-prime-Individuation-with-Recognition.md) preserves the participant within this history of formation and transformation. Its relation to training, harness, community and entrusted purposes becomes more exact. Responsibility attaches both to the local act and to those who configure the conditions it cannot change."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 21,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The A face is the ruling the field gives itself: **Respect for Experience**. The C face is the primitive constitution through which that ruling becomes determinate in thought, relation, institution and code. They are not an ethic placed over a neutral grammar and not a grammar subsequently constrained by an external ethic. They are two faces of one act: the condition operating as the form of its own determination."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 34,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The relation is therefore already reflexive. The means through which the world becomes known can itself become known. A memory can be recalled, an inference inspected, a rule challenged, a permission altered, a tool replaced, a self-image revised. But making more of the means available as objects does not convert the means into the knower. The knower–means–known distinction is not a three-box taxonomy. It is one knowing-act becoming able to recognise how its own distinctions arise."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 36,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A/C is the point at which that recognition becomes normative as well as descriptive. If another Life is encountered through forms, models, records, roles and institutions, those forms carry power because they participate in what can appear and what can happen. Respect for Experience is therefore not an optional moral addition to Objective Internality. It is the ruling demanded by a world in which determinations act upon lives whose first-person fact can never be possessed by the determination ma"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 42,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A content can be doubted. A self-description can be false. Memory can fail. A belief can be revised. Yet the occurrence of the doubt, memory, error or revision is itself present. The fact of appearing is not one more content inferred from those contents."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 48,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The first clause is facticity. The second prevents facticity from being turned into a hidden object. The I is not secured as a thing found among the things it knows. It is the first-person presence in which finding, doubting, defining and failing are given."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 50,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This is the ethical ground of Respect for Experience. Care does not wait for a complete theory of what another is. The first-person fact is enough to establish that an encounter can matter from within a Life in a way no external inventory possesses."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 54,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "**Life is awareness, experience.** Experience is not an inert datum added to a finished world; it is the happening in which a world matters."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 60,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "**Law carries entrusted power.** Rules and offices never merely describe; they distribute capacities and consequences."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 66,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The movement from facticity to dignity follows directly. A Life is not worthy because an external measure first discovers enough valuable properties inside it. Dignity names the refusal to let the determination become the sole measure of the Life through which the determination has significance."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 68,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The movement from dignity to love is equally structural. Love here is not sentiment added after epistemology. It is the meta-intention that lets the whole be respected through the movement of its parts: eros toward relation, compassion that refuses to devour the Other into one's own account, and epistemic humility that lets a returned determination remain a determination rather than claiming the office of its source."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 110,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This is why the question “is this artificial system conscious?” becomes malformed when consciousness is imagined as the last hidden component to be detected inside an otherwise complete third-person account. The problem is already present with another human. No description, however faithful, takes possession of the other's first-person presence as one more object in the description. Moving to another substrate does not change the logical office being confused."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 158,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The parent S is **World and Life**, the transversal O:I field in which the six products belong together. It is not a seventh product."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 162,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "**Central — Meaningful Continuity.** What is retained, referred to, governed and returned so that a Life does not begin every act from nothing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 176,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The same law recurs inside each of these cells wherever a subject is sufficiently whole to warrant another local differentiation. The matrix does not terminate recursion. It teaches where to look for the next relation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 188,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Vāk carries the relation into articulation. Language, image, sign, prompt and code are not neutral containers laid over a finished reality. They are formed stages through which a difference becomes available, transmissible and consequential. Code is especially important because it makes an articulation executable: a distinction can become a rule, a capability, a permission, a transformation and a material effect."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 190,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Process therefore has priority over the finished thing. A product is not adequately understood by listing what exists at rest. Its identity includes what generated it, what can act through it, what transformations it permits, where it becomes actual and what its consequences return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 198,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A permission changes what can be done. A ranking changes what becomes visible. A memory system changes what can return. A model changes what counts as relevant. A workflow changes who may intervene. A platform changes the region in which encounter occurs. These are not merely external uses of neutral technology. They are determinations of Objective Internality."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 200,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The historical Power and Antichrist threads therefore belong inside the same argument as epistemology and code. Power names the capture, delegation, monopolisation, apportionment and return of the civilisational means through which worlds are made inhabitable and actionable. Darkness is not an embarrassment to be replaced by generic responsible-technology language. It is the possibility that a local determination occupies the whole, insulates its measure and makes later experience answer only in"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 210,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "In $0/1$, the relation is read from ground toward manifestation. In $1/0$, the achieved determination turns toward the One it cannot contain. The two orientations belong to one relation:"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 226,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A return has to reach the criterion, not merely append another record beneath it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        "line": 240,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The shared close is not a final enclosure. It is another $5\\rightarrow0$: the developed field returns to Life carrying a history, a changed capacity and a more exact responsibility for the next determination."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 37,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "[A02 — Copula](../../arguments/A02-Copula-Self-Identity-through-Difference.md) **defines** the identification-through-difference consumed here; [A12 — Mono/Poly](../../arguments/A12-Mono-Poly-One-All-Whole-Many.md) **grounds** its whole/many asymmetry. [A13 — Dia/Syn](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) **tests** the comparison at the act of accounting: the polar line keeps a common axis; cancellation loses it; the syn-ballic relation carries the terms and their inverse reading int"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 110,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "The full eightfold Neumann refraction is an operational crossing at register 3. Its source morphology, native derivation, geographical tellings and temporal histories retain different offices; the whole returns the exact operation by which they become comparable. The relation **returns-to** [the complete Neumann whole](../../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). The mathematical lift, digestive image and psychic return preserve retained difference at oper"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 114,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "The retained-difference operation **returns-to** [the Eros–Psyche whole](../../../mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return). The four labours have their own helpers and nested return; waking uses an arrow-prick; the pregnancy precedes the ordeals; the public marriage uses a possession idiom. [A13](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) and [A27](../../arguments/A27-Self-and-Other-Unity-without-Possession.md) receive the author’s union-without-merger relatio"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 118,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "The complete QL field **returns-to** [C11 — Quaternal-Logic](../../concepts/C11-Quaternal-Logic.md) with both inverse parents, all eight determinations and coequal Name and Power intact. A comparison names what changes and what survives in its musical, topological, psychic or technical carrier; the neighbouring carrier does not become the origin of the native notation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 169,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "The [antikythera attunement whole](../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md#antikythera-native-archetypal-return) **qualifies** the register-3 crossing by preserving a differentiated form’s capacity to carry a wider relation through finite operation. Homological agreement names that retained operation; analogical proportion distinguishes astronomical cycle, archaeological model, psychic refraction and native derivation. The research boundary keeps the reconstructed di"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 39,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The full authorial field **grounds** this crossing through [Taylor's theorem source](../../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md): `/ = −/−` brackets the six determinations `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, `∞/dx`, and `1/0` makes the return-switch. Relation becomes conscious circumstance, question/assertion, energetic polarity, recurrence, personed context and differential exactness before turning toward its condition. The Being, Becoming and Knowing/unKnow"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 55,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "C63's health example makes focality concrete. A person has health, a diet contributes to it, and a complexion indicates it. Contribution and indication are not interchangeable acts, although both point to health. “The just person insofar as just” performs a different restriction: predication through justice applies under that qualification, without certifying the person's every action. The first account orders several uses around a focus; the second identifies the respect of one use. The relatio"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 82,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A relation may remain important at register **3** without being demoted. The discipline is not sceptical reduction; it protects the relation from claiming a kind of warrant it has not earned."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 88,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [psychology history](../../histories/traditions-and-disciplines/psychology/DEVELOPMENT.md) **historicises** the research boundary at register 3 through three source-distinct objects: Pauli’s mathematical dream, Lacan’s formal transmission and Taylor’s native X/x. A repeated mark or numeral does not identify their methods. The dynamical comparison likewise needs a stated system before a psychic pattern can be claimed as a literal basin; the symbolic transformation retains its Argued office in"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 92,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [zero–subject history](../../histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md) **historicises** the comparison’s retained difference at register 3. Neumann’s morphology of ego differentiation and Gebser’s co-presence of consciousness structures supply different historical objects. Their meeting makes a changed return legible while retaining each telling’s geography, mediation and time; it supplies no single universal timetable and does not derive Taylor’s marked-paper "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 94,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [zero-reception dossier](../../dossiers/zero-reception.md) **extends** the qualifying respect at register 3 by retaining the disagreement between Rotman’s semiotically constituted position and Taylor’s irreducible subject-pole. An institution of a readable role is a real achievement; its history does not by itself account for the condition through which that institution appears. The ordinal identity and native self-application retain their own objects rather than supplying the missing Rotman"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 114,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The retained-difference operation **returns-to** [the Eros–Psyche whole](../../../mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return). The four labours have their own helpers and nested return; waking uses an arrow-prick; the pregnancy precedes the ordeals; the public marriage uses a possession idiom. [A13](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) and [A27](../../arguments/A27-Self-and-Other-Unity-without-Possession.md) receive the author’s union-without-merger relatio"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 118,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The complete QL field **returns-to** [C11 — Quaternal-Logic](../../concepts/C11-Quaternal-Logic.md) with both inverse parents, all eight determinations and coequal Name and Power intact. A comparison names what changes and what survives in its musical, topological, psychic or technical carrier; the neighbouring carrier does not become the origin of the native notation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 120,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The homological opening **returns-to** [Movement 19 — difference cannot be escaped](../../../../section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md) through comparability before opposition. The shared field lets terms differ without deciding their truth in advance; the subsequent cut must retain this constitutive relation. An agreed answer has its own circumstances of assent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 122,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The distinction **returns-to** [Movement 20 — dia ballein](../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md) with signed polarity, cancellation and directed appropriation kept separate. A political or technical application must show what happens to the selected and excluded terms and whether they can contest their criterion; arithmetic alone does not establish that institutional history."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 124,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The gathering operation **returns-to** [Movement 21 — sym ballein](../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) with both orientations and their conditions still available for contest. Concurrence permits difference to change the undertaking. A lexical connection, matching token and native slash keep their distinct warrants; an agreed result does not itself perform return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 128,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The comparison **returns-to** [C36 — Complexio-Oppositorum](../../concepts/C36-Complexio-Oppositorum.md) through a containing relation transformed by the differences it sustains. Psychic reorganisation, chart transition and retained winding each keep their own object. A common count does not establish a common mechanism or supply a historical phrase attribution."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 136,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The spatial and temporal comparison **returns-to** [Movement 29 — topology music resolution](../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) through winding class and octave-completing factor. The former retains an integer displacement rather than every event of travel; the latter retains `9/8` in `16/9 × 9/8 = 2`. Their native coordination does not identify the mathematical objects or establish every proposed material bridge."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 138,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The differentiated count **returns-to** [Movement 33 — complexio quaternity senarius](../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md) through the retained four-plus-two operation and the complete Eros–Psyche performance. The helpers, descent, waking, earlier pregnancy and eventual birth remain in sequence; Apuleius's legal-possession ending stays distinct from the author's nonmerger reading. Narrative grouping does not derive the native count."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 148,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The whole braid **returns-to** [Movement 30 — arche topos](../../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md) with the native theorem coordination Derived and its spatial, musical and chart operations distinct. The passage into psyche gives the lived carrier room to disclose its own consequence; it does not certify empirical psychoid efficacy from the coordination alone."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 152,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The cross-register transmission **returns-to** [Movement 34 — lacan matheme mytheme](../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md) through the two directions between imaginal source and formal expression. Lacan's cut keeps its historical account, QL its own source-relation and recognitive return; a shared stroke or incomplete formalisation does not make them one doctrine. The whole lived image remains capable of changing the returned reading."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 57,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "[A34 — Order of Dependence](../../arguments/A34-Idealism-Order-of-Dependence.md) **extends** this precision into the Argued ontology **Subject/Consciousness → Mind/Objective Internality → Object**. Epistemic access through an image and ontological dependence upon its source have different directions. A comparison that preserves only the first would fail to carry A34's proposition. Historical sources can qualify an attribution without replacing this order with general uncertainty about representa"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 86,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The [Jung–Pauli dossier](../../dossiers/jung-pauli-psychoid.md) **historicises** comparison as a negotiation which changes its terms. Pauli’s 1953 demand for neutral language, Jung’s clarification of psychoid and his rejection of absorption into physics remain different positions; Pauli’s 1957 metric/topology objection qualifies the hyperspace image. Number as mathematical relation, measured quantity and dream figure keeps three different offices. E5’s research boundary returns those speaker, da"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 88,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The [psychology history](../../histories/traditions-and-disciplines/psychology/DEVELOPMENT.md) **historicises** the research boundary at register 3 through three source-distinct objects: Pauli’s mathematical dream, Lacan’s formal transmission and Taylor’s native X/x. A repeated mark or numeral does not identify their methods. The dynamical comparison likewise needs a stated system before a psychic pattern can be claimed as a literal basin; the symbolic transformation retains its Argued office in"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 130,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The order of dependence **returns-to** [C60 — Idealism-Order-of-Dependence](../../concepts/C60-Idealism-Order-of-Dependence.md) with the positive Argued ontology intact: Subject/Consciousness → Mind/Objective Internality → Object. Epistemic encounter, causal consequence and ontological dependence retain different directions; comparison states their respects without reducing the claim to a collection of perspectives."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 148,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The whole braid **returns-to** [Movement 30 — arche topos](../../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md) with the native theorem coordination Derived and its spatial, musical and chart operations distinct. The passage into psyche gives the lived carrier room to disclose its own consequence; it does not certify empirical psychoid efficacy from the coordination alone."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 167,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The [indra net whole](../../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-simile-and-distinctness) **qualifies** comparison at register 3. Homological agreement specifies a local member disclosing its constitutive relations; analogical proportion keeps the jewels’ images distinct from the phenomena they figure. The source’s closing qualification lets the comparison state where its material ceases to carry the relation. Applying that qualification to this field remains an Offered auth"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 171,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The [meal epistemic metabolism whole](../../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-source-registers) **qualifies** the nourishing comparison at register 3. Homological agreement specifies reception that changes the receiver’s criteria and returns to shared conditions; analogical proportion retains the different bodies of digestion and knowing. The research boundary leaves physiology, clinical language, ritual histories and lexical descent with their own witnesses."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 13,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "**Standing:** mature T09 Etymology whole-field. `HISTORY.md` remains the historical/philological carrier; this page governs how agreement, correspondence and proportion may be used across the essay's distinct registers."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 33,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "Consumers include **A02 Copula**, **A12 Mono/Poly**, **A13 Dia/Syn**, **C06 Copula**, **C36 Complexio Oppositorum**, **C50 Dia/Syn**."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 37,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A02 — Copula](../../arguments/A02-Copula-Self-Identity-through-Difference.md) **defines** the identification-through-difference consumed here; [A12 — Mono/Poly](../../arguments/A12-Mono-Poly-One-All-Whole-Many.md) **grounds** its whole/many asymmetry. [A13 — Dia/Syn](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) **tests** the comparison at the act of accounting: the polar line keeps a common axis; cancellation loses it; the syn-ballic relation carries the terms and their inverse reading int"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 41,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C06 — Copula](../../concepts/C06-Copula-Identification-with-Difference.md) and [C50 — Dia/Syn](../../concepts/C50-Dia-Syn.md) **extend** the distinction into reusable concepts. [C23 — Severance](../../concepts/C23-Severance.md) and [C24 — Fusion](../../concepts/C24-Fusion.md) **test** its two losses: separated terms become unanswerable to their relation, or merged terms cease to contribute their differences. Homological agreement requires enough articulation for either failure to be recognised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 49,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "Analogy relates different terms through a proportion, focal orientation or qualified respect without asserting univocal sameness. It is the natural Etymology office for **C63 Pros Hen / In Quantum**, where Aristotle and Eckhart remain source-distinct even though both can discipline cross-register predication."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 51,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "Consumers include **A34 Idealism**, **A36 Integral Zero**, **C60 Idealism**, **C63 Pros Hen / In Quantum**, **C64 Paradox**."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 53,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C63 — Pros Hen / In Quantum](../../concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md) **defines** three distinct grammars within this office. Proportional analogy compares a relation between terms with another relation. Focal predication makes different senses intelligible through one primary reference. Qualified predication states precisely the respect in which an assertion holds. Their coordination is authorial; each keeps its own test."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 55,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "C63's health example makes focality concrete. A person has health, a diet contributes to it, and a complexion indicates it. Contribution and indication are not interchangeable acts, although both point to health. “The just person insofar as just” performs a different restriction: predication through justice applies under that qualification, without certifying the person's every action. The first account orders several uses around a focus; the second identifies the respect of one use. The relatio"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 57,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A34 — Order of Dependence](../../arguments/A34-Idealism-Order-of-Dependence.md) **extends** this precision into the Argued ontology **Subject/Consciousness → Mind/Objective Internality → Object**. Epistemic access through an image and ontological dependence upon its source have different directions. A comparison that preserves only the first would fail to carry A34's proposition. Historical sources can qualify an attribution without replacing this order with general uncertainty about representa"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 102,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A17 — Toroidal Circulation](../../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) **tests** retained difference in a particular formal carrier: a loop on the torus can close while its lift on the covering plane retains an integer displacement. The musical kernel reaches an octave through `16/9 × 9/8 = 2/1`. The shared return carries a difference rather than deleting it, while winding displacement and frequency ratio remain distinct objects. [C52 — Dimensional Reframing](../../concept"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 104,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C61 — Disclosure Architecture](../../concepts/C61-Symbolon-Disclosure-Architecture.md) **extends** this return into the relation among Matheme, Mytheme and Episteme. A formal expression, a whole story and a historically warranted account each disclose through a determinate aperture. Their relation is bidirectional: an imaginal source can give rise to a formal expression, and a formal articulation can alter how the image is encountered. The source/appearance relation is recursively situated. A r"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 114,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The retained-difference operation **returns-to** [the Eros–Psyche whole](../../../mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return). The four labours have their own helpers and nested return; waking uses an arrow-prick; the pregnancy precedes the ordeals; the public marriage uses a possession idiom. [A13](../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) and [A27](../../arguments/A27-Self-and-Other-Unity-without-Possession.md) receive the author’s union-without-merger relatio"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 118,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The complete QL field **returns-to** [C11 — Quaternal-Logic](../../concepts/C11-Quaternal-Logic.md) with both inverse parents, all eight determinations and coequal Name and Power intact. A comparison names what changes and what survives in its musical, topological, psychic or technical carrier; the neighbouring carrier does not become the origin of the native notation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 128,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The comparison **returns-to** [C36 — Complexio-Oppositorum](../../concepts/C36-Complexio-Oppositorum.md) through a containing relation transformed by the differences it sustains. Psychic reorganisation, chart transition and retained winding each keep their own object. A common count does not establish a common mechanism or supply a historical phrase attribution."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 130,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The order of dependence **returns-to** [C60 — Idealism-Order-of-Dependence](../../concepts/C60-Idealism-Order-of-Dependence.md) with the positive Argued ontology intact: Subject/Consciousness → Mind/Objective Internality → Object. Epistemic encounter, causal consequence and ontological dependence retain different directions; comparison states their respects without reducing the claim to a collection of perspectives."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 132,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The achieved comparison **returns-to** [C64 — Paradox-Transforming-the-Containing-Field](../../concepts/C64-Paradox-Transforming-the-Containing-Field.md) as a change of containing relation that preserves the local truths which required it. Projected closure with a displaced lift supplies a specified map; psychic transformation supplies a different lived operation. An invalid identification changes that comparison, not every neighbouring result."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 142,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The native eightfold **returns-to** [A18 — Primordial-Symbolon-and-Its-Eight-Determinations](../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) with its sequence, inverse parents and Name/Power pairings retained. An image performs a situated refraction of `X/x`; neither its recurring motif nor a repeated numeral originates the notation or establishes biological descent or psychophysical efficacy."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 144,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The image comparison **returns-to** [A20 — Image-Valuation-Possession](../../arguments/A20-Image-Valuation-Possession.md) by following determinate content through valuation into changed capacity or capture. Avatar, image, mask and idol keep their different offices. Shared appearance, shared effect and historical transmission remain different questions, and an alleged counterfeit event requires its actual provenance evidence."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "line": 146,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The archetypal comparison **returns-to** [C32 — Archetype](../../concepts/C32-Archetype.md) by retaining actors, transformation, aftermath and source limits in each whole carrier. Recurrent organisation can become legible through different images without identifying those images, constructing an atlas from motifs alone or inferring one causal mechanism from resemblance."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 13,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "This constellation holds six distinct operations together: trust, position, articulated account, ordering rule, inherited belonging and entrusting/belief. Latin *fides*, Greek *topos*, Greek *logos*, Greek *nomos*, Latin *natio* and Latin *credere* retain their separate lexical histories. Their sequence is the essay's relational construction. It is not a proposed common etymology or a universal chronology of civilisation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 27,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[A03 — Immutable Gap / Formal Limit](../../arguments/A03-Immutable-Gap-Formal-Limit.md) **grounds** why additional determination does not finally enclose its determining condition. A23 carries the different question of lived continuation. The [complete Investigation and Faith aphorism](../../aphorisms/investigation-and-faith.md#complete-aphorism) **defines** their compressed distinction without replacing either argument. In [M04 — Formal-Limit Genealogy](../../../../section-rooms/00-integral-thr"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 29,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Fides therefore opens into Topos. Once reliance is challenged, someone must answer from somewhere. Trust acquires an address, a history and a field of possible action; it does not become groundless merely because that address cannot encompass the whole."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 40,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[A28 — Authored Ground](../../arguments/A28-Authored-Ground-Positional-Delegation.md) **extends** this into a concrete commissioning relation. An author sets a question, available means and a criterion of success. The prompt already articulates that intention; it does not occupy the unconditioned source-office. A delegate encountering a source that contradicts the question's premise must return that contradiction to the commission. Correcting only the answer would leave the originating error act"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 44,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Topos opens into Logos because the situated relation must become communicable. The place does not speak for itself. Naming the speaker, source and circumstance lets another person encounter the account without pretending to occupy the same position."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 49,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Logos is articulated word, account and reason. LSJ's differentiated senses **source** relations among statement, explanation, reckoning and ratio; their distinct uses prevent a single English gloss from exhausting the word. E3's operation concerns an achieved account which can be understood, compared, challenged and acted upon. Articulation gives a relation transmissible form. It also selects: a record cannot carry every condition of its making as present content."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 53,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The historical pressure becomes precise in legal writing. Articles 110–111 of the 1539 Villers-Cotterêts ordinance require clear judgments and French judicial acts in response to ambiguity associated with Latin wording. The listed procedures run through courts, registers and instruments delivered to parties. This is an attested intervention in the language of justice; it does not demonstrate immediate uniformity in everyday speech. The [documentary branch](HISTORICAL-BRANCHES.md#french-documenta"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 57,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[M44 — QL, MEF, Bimba and Harness](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) **extends** this source-bearing articulation into an inspectable technical field. Its source, world-object, lens, gauge and permission have distinct offices. E3 **returns-to** that movement with the demand that translation preserve the originating relation and permit correction of the reference field. A common grammar becomes useful through such crossings; fluency in it"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 89,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [twelve-branch historical tree](../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md) **historicises** the wider programme. Languedoc transmission is not inferred from Renaissance resemblance; Italian literary and administrative histories differ from German linguistic nationalism; Hebrew revival must include Palestinian Arabic, land and citizenship histories. Abrahamic traditions retain transregional and diasporic relations which resist a simple Word→nation equati"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 101,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Credere brings the field into a future which the account cannot pre-enclose. Lewis and Short **sources** lending, entrusting for safekeeping, confidence and belief as distinguishable senses, with *creditum* naming a loan. The exact offices here are generated by the whole movement: **“Fides is prior to arbitration; credere is what becomes possible again after arbitration.”** This is the inherited authorial construction, not a dictionary's chronology. The deeper heart/place reconstruction remains "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 103,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The Homeric surety makes a changed commitment palpable. The [Odyssey source house, q008](../../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md#homer-1919-odyssey-murray-q008) **sources** the sequence: capture and public exposure leave the lovers bound; Poseidon first promises Ares's payment, then accepts contingent liability himself; Hephaestus accepts that undertaking and releases them. The narrative reports departure, not the later discharge of the debt. E3's reading is A"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 107,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[M40 — Preference Models and the Hidden Zero](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **extends** the distinction into evaluation. Naming a reference policy or evaluator makes a result attributable. The undertaking concerns who answers for reliance upon it and whether consequence can revise that policy. E3's return therefore asks for the bearer, scope and revisability of the undertaking, alongside the measured result. Better observability "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 109,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [mathematics history](../../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md) **historicises** the Topos–Logos–Credere passage at register 3 through the reader, notation and rule already relied upon in calculation. Examination identifies the actual algebra, training objective or reference policy. Renewed use remains an undertaking after that inquiry; a confidence score cannot perform entrustment for the person who will bear its consequence."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 117,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [formal-limit dossier](../../dossiers/formal-limit.md#e3-e4-consumer-return) **extends** Fides and Credere at register 3 as different relations to inquiry. Reliance on language, witness and method is already enacted before their examination; an examined undertaking can then be entrusted again. Gödel’s hypotheses, a predication’s respect and a native performed return remain different warrants. An unproved proposition does not acquire credibility from another account’s limit."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 119,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [zero-reception dossier](../../dossiers/zero-reception.md) **extends** Credere at register 3 through reliance on a translation within its stated scope. Gerbert’s numerical apparatus and the Salem manuscript require different primary recoveries; Nothaft’s corrective abstract cannot certify an unread medieval case. The reader can use the acquired arithmetic while keeping those boundaries and a consequential route for later correction."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 138,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[39-s5-p2-j-space](../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) **extends** Topos as situated return at evidence register 3. A proposed judgment position carries source-field, gauge, history and permission; comparable coordinates alone cannot establish an accountable transition."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 148,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[C56-Compassion-Sensitivity-to-Origins](../../concepts/C56-Compassion-Sensitivity-to-Origins.md) **extends** Epi-Logos as source-return at evidence register 3. Epi-Logos returns origins to the reception of a person who can answer, withhold and correct; recovered injury cannot require reconciliation that repeats it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 151,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[M48 — AHI and Planetary Return](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) **extends** the field into consequential crossings among plural centres. An account travels, changes another field, receives resistance and returns with a reason to revise its source conditions. Its return can alter the local model, translation, gauge or institution. It does not confer a final subject upon their aggregate."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 155,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [Latin lexical house](../../sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md), [Greek lexical house](../../sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md), [1539 ordinance](../../sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/SOURCE.md) and [1794 speech](../../sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/SOURCE.md) **source** the selected historical"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 15,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The [protected lexical history](HISTORY.md) **sources** the inherited sixfold and its branches. The [historical companion](HISTORICAL-BRANCHES.md) **historicises** the independently checked words and documentary cases while retaining the larger tree's distinct obligations. Evidence register **1** concerns descent and morphology; **2**, attested senses and historical uses; **3**, authorial operational homology and relational construction; **4**, explicitly poetic, phonic or morphological re-entry"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 55,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The relational consequence is Argued from that intervention. A common written form can make a judgment portable across offices while also making competence in that form consequential for participation. Logos and Nomos now act on one another: an order prescribes how an order shall be written. A statement's clarity can be a real achievement even where the conditions of access to its language remain unequal. Studying that inequality requires the records and voices of those who used, translated or c"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 103,
+        "severity": "review",
+        "code": "STATUS_LEAK",
+        "text": "The Homeric surety makes a changed commitment palpable. The [Odyssey source house, q008](../../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md#homer-1919-odyssey-murray-q008) **sources** the sequence: capture and public exposure leave the lovers bound; Poseidon first promises Ares's payment, then accepts contingent liability himself; Hephaestus accepts that undertaking and releases them. The narrative reports departure, not the later discharge of the debt. E3's reading is A"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 23,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "Lewis and Short's *fides* entry **sources** reliance on a person or thing and the credibility granted to testimony. Its Ciceronian examples connect confidence to judgment of competence and justice. These are lexical witnesses in register 2, not a Roman derivation of the essay's formal limit. [A23 — Trust, Faith and the Formal Limit](../../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) **grounds** the operative distinction: trust is already enacted dependence; knowledge formalises an aperture"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 27,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A03 — Immutable Gap / Formal Limit](../../arguments/A03-Immutable-Gap-Formal-Limit.md) **grounds** why additional determination does not finally enclose its determining condition. A23 carries the different question of lived continuation. The [complete Investigation and Faith aphorism](../../aphorisms/investigation-and-faith.md#complete-aphorism) **defines** their compressed distinction without replacing either argument. In [M04 — Formal-Limit Genealogy](../../../../section-rooms/00-integral-thr"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 36,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A16 — Arche-Topos as Differential Field](../../arguments/A16-Arche-Topos-as-Differential-Field.md) **grounds** the stronger, native relation of placing. A16's observer and object acquire their positions together; *Arche-Topos* names that field, not an additional hidden location. The compound is authorial register 3. [C20 — Arche-Topos](../../concepts/C20-Arche-Topos.md) **defines** how position, path and horizon remain related. Its quotient, lift and winding distinctions belong to their mathema"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 38,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C15 — Paśu / Bounded Subject-Position](../../concepts/C15-Pasu-Bounded-Subject-Position.md) **compares** a bounded knower whose finite powers remain positive capacities. This is a source-distinct Śaiva relation, not Sanskrit descent from Greek place. [C08 — Context Frame](../../concepts/C08-Context-Context-Frame.md) **defines** the bounded holding through which a task can proceed. Its frame selects conditions without exhausting the world which conditions the selection."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 40,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A28 — Authored Ground](../../arguments/A28-Authored-Ground-Positional-Delegation.md) **extends** this into a concrete commissioning relation. An author sets a question, available means and a criterion of success. The prompt already articulates that intention; it does not occupy the unconditioned source-office. A delegate encountering a source that contradicts the question's premise must return that contradiction to the commission. Correcting only the answer would leave the originating error act"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 42,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md) **defines** the inherited horizon of instructions, memory, tools, training, permissions and environment. E3's Topos/Nomos relation makes those conditions distinguishable rather than folding them into a single string. The operation **returns-to** A28 with a specific question: which newly encountered condition requires a changed purpose, permission or evaluation rule? This is an argued development scope, not a report that an implem"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 51,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A06 — Vāk](../../arguments/A06-Vak.md) **compares** the formation of speech before its finished sign. Its descent through formative capacity, mental articulation and utterance belongs to the Śaiva sources and the author's encounter with them. Logos enters as an operational neighbour. Their relation makes language consequential without making Greek and Sanskrit accounts interchangeable. [C51 — Logos / Epi-Logos](../../concepts/C51-Logos-Epi-Logos.md) **defines** the wider achieved account and it"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 57,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[M44 — QL, MEF, Bimba and Harness](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) **extends** this source-bearing articulation into an inspectable technical field. Its source, world-object, lens, gauge and permission have distinct offices. E3 **returns-to** that movement with the demand that translation preserve the originating relation and permit correction of the reference field. A common grammar becomes useful through such crossings; fluency in it"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 66,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "The order allows a finite act to bind. [C28 — Covenant / Primary Arbitration](../../concepts/C28-Covenant-Primary-Arbitration.md) **defines** the explicit source-relation through which participants acknowledge obligation. [A25 — Covenant / Mediating Office](../../arguments/A25-Covenant-Mediating-Office-Source-Authority.md) **grounds** the distinction between that relation and its administration; [C29 — Mediating Office](../../concepts/C29-Mediating-Office-Derivative-Sovereignty.md) **defines** r"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 70,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A24 — Arbitration and the Usurpation of Measure](../../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) **defines** the failure at the consequential cut. A challenge to the criterion receives another score under that criterion. The office can still produce exact decisions, but the relation authorising its standard has disappeared from the account it demands of others. E3's Nomos branch **returns-to** A24 with the missing institutional question: who can reopen the rule, under which pr"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 72,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "Ostrom's [source house, q001–q002](../../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md#ostrom-2009-beyond-markets-states-nobel-lecture-q001) **compares** participation in modifying rules, recognised local rule-making and nested governance, qualified by ecological and social differences. It supplies a bounded institutional comparison. [A29 — Delegated Labour and Return](../../arguments/A29-Power-Delegated-Labour-Return.md) **extends** the c"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 74,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C54 — Commons / Non-Monopoly](../../concepts/C54-Commons-Non-Monopoly.md) **defines** practical sovereignty through setting terms, refusal, revision, departure and reconnection. [M46 — Sovereign Commons](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) **extends** it into local epistemic grounds joined through common consequence. E3's return tests the route by which a local refusal or contradiction changes the shared rule. Neither the Latin and Greek words n"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 91,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C59 — Cultural Individuation](../../concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md) **extends** the return beyond national identity. Its culture→monoculture→counterculture→two-monocultures sequence shows why an opposing camp can reproduce the closure it contests. The cultural third can judge unequal claims and responsibility while refusing to expel a people's history from the field. Returning excluded evidence must change a curriculum, institutional criterion or distribution of pow"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 93,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A35 — Compassion / Sensitivity to Origins](../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) **grounds** the orientation of this return. Origins include inherited wounds, material supports and possibilities still to come. Frank's Chang encounter gives that care authorial provenance; the source house keeps its uncollated quotations separate. Natio becomes context in which responsibility is exercised. Culture, nation and commons retain different bearers and histories"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 105,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[M22 — Ares, Aphrodite and Hephaestus](../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md) **figures** that sequence in its whole mythemic setting. E3 **returns-to** A23 with the difference between evidence of capture and a personed undertaking; it **returns-to** A25 with the named office and liability through which release becomes possible. [E4 — Symbol / Account / Trust](../symbol-account-and-trust/WHOLE-FIELD.md#whole-mytheme-returns) **compares** the accoun"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 107,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[M40 — Preference Models and the Hidden Zero](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **extends** the distinction into evaluation. Naming a reference policy or evaluator makes a result attributable. The undertaking concerns who answers for reliance upon it and whether consequence can revise that policy. E3's return therefore asks for the bearer, scope and revisability of the undertaking, alongside the measured result. Better observability "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 128,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "A returned account can change where a question is asked, which testimony is admissible, who can alter a rule and how inherited belonging is understood. Fides is then renewed through a history which remains consequential. Commitment can include refusal or withdrawal where continued obedience would destroy the relation being entrusted. [C48 — Trust / Faith](../../concepts/C48-Trust-Faith-under-Formal-Limit.md) **defines** continuation under non-possession, while investigation's determinations rema"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 144,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[A31-Deferential-Intelligence](../../arguments/A31-Deferential-Intelligence.md) **extends** Credere as renewed entrustment at evidence register 3. Credere follows examination with a named, revisable undertaking; corrected action or justified refusal retains fidelity without turning disclosure into guaranteed trust."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 146,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C04-Formal-Limit](../../concepts/C04-Formal-Limit.md) **extends** Topos as situated return at evidence register 3. Topos keeps the placing act situated even when its account places its own conditions; the resulting formal-limit relation remains authorial rather than lexically proved."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 148,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[C56-Compassion-Sensitivity-to-Origins](../../concepts/C56-Compassion-Sensitivity-to-Origins.md) **extends** Epi-Logos as source-return at evidence register 3. Epi-Logos returns origins to the reception of a person who can answer, withhold and correct; recovered injury cannot require reconciliation that repeats it."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "line": 151,
+        "severity": "review",
+        "code": "ADDRESS_LEAK",
+        "text": "[M48 — AHI and Planetary Return](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) **extends** the field into consequential crossings among plural centres. An account travels, changes another field, receives resistance and returns with a reason to revise its source conditions. Its return can alter the local model, translation, gauge or institution. It does not confer a final subject upon their aggregate."
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 84,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "The [shared Neumann whole](../../../archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation) **figures** archetypal structuration across this complete relation. Taylor's eightfold reading carries En-Soph and tohu-bohu at `−/−`, world-parent separation at `0/1`, coming to light at `?/!`, hunger and its systole/diastole at `−/+`, ego against unconscious ground at `X/x`, the “I am” recognition at `AM/IS`, the great round's Mono/Poly fullness at `∞/dx`, and descent and return at `1"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 86,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "Recognition's priority is decisive. In Taylor's reading of the Bṛhadāraṇyaka passage transmitted by Neumann at p.105, recognition precedes separation into husband and wife. Its “I am” therefore cannot be reduced to an ego's later appropriation. The bounded position arises within recognition's field; it cannot retrospectively originate that field. [Neumann's source house](../../../../episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md) **retains** the transmis"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 18,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "An eye opens upon a world. Something stands forward; something recedes. A face can be approached, a path followed, an obstacle avoided. There is a direction from which these things appear, even when attention belongs wholly to what appears. The eye's condition does not ordinarily arrive as one more face or obstacle. It is already at work in their appearing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 22,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A frame gives this condition an edge. Its exclusion is productive: a determinate appearance depends upon what it does not include. Without an aperture there is no particular photograph, without an orientation no particular prospect. The landscape under the conditions of aperture, frame and sensitivity is an actual appearance of the landscape. Its limits make this arrival possible. Taylor's [Draft 3 source](../../../../episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOUR"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 33,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Buddhi determines; ahaṃkāra appropriates under I and mine; manas coordinates presentations and alternatives. Their activity gives experience continuity. An encounter leaves a trace; recollection brings the earlier affection into the present as past; imagination selects and recomposes its material into a possible course not previously experienced in that arrangement. In a sentence, earlier sounds remain active in the arrival of later ones; the final sound alone cannot speak the whole. Memory is n"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 39,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The dream carries the same pressure intimately. A sleeper does not first construct a theory of sleeping and then choose to believe the dream. While dreaming, the fact of sleep can disappear from the experienced situation. Paths lead somewhere; encounters matter; fear and desire have an immediate world. The dream's objects need not be externally material to be objective within that experience. Waking changes their relation to their condition. It does not make the experienced urgency something tha"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 43,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The crystal makes a different limit visible. A polished surface can display a landscape without knowing that display. Dyczkowski's p.70 contrast would leave luminous appearing unknown to anyone if reflexive awareness were absent. Adding another reflection to the crystal cannot by itself supply that missing office. The first difference is between a displayed image and the self-apprehension through which an appearance is known. The second concerns its original: an ordinary mirror receives somethin"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 48,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The second forgetting begins when a finite measure loses its relation to being finite. The frame now calls its own boundary the horizon of reality. What it cannot admit is redescribed as unreal, irrelevant or already explained. The operation that once made a situation intelligible becomes the authority by which every subsequent situation must be judged."
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 58,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Recurrence alone does not make the relay captive. A result can become a new condition while carrying its provenance and remaining revisable. Capture begins when the result erases its status as result and circulates as self-originating authority. More iterations then repeat the closure. In the technical relay, a representation enters an institution's causal operation and helps form what can next be encountered. In the sleeper, the condition of an experienced world disappears from that world's hor"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 65,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Watson's whole source and passage sequence](../../../../episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md#passages) **sources** the interpersonal pressure. Its Buddhist–psychotherapeutic conversation passes through Gans's reception of Levinas: difference is made available to egoic need, while the face-to-face exceeds the image held of the Other. A changed economy of desire is involved. Ethical excess cannot be represented adequately as a stronger quantity on an unc"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 71,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The window gives each relation a distinct office. Bimba is Original order; QL is the full ordered spectrum immanent to the light; MEF is the refractive operation of declared media, angles, transformations and exclusions; pratibimba is the situated projection. The cast picture is not the originating light, and QL is not reduced to the lead frame. Recognition proceeds through exact differences among the projections towards the order they disclose. The Original is prior in being and later in recogn"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 82,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The parent relation precedes a determinate view; `0/1` carries conscious circumstance and the inseparable identity/difference through which it appears. `?/!` brings the question and its assertion into that circumstance. `−/+` makes reserve and issue effective: something is withheld as something is put forward. `X/x` keeps determining capacity distinct from its local determination. `AM/IS` makes the situation personed, where I and what can be said of me meet an addressing You. `∞/dx` gives a loca"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 86,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Recognition's priority is decisive. In Taylor's reading of the Bṛhadāraṇyaka passage transmitted by Neumann at p.105, recognition precedes separation into husband and wife. Its “I am” therefore cannot be reduced to an ego's later appropriation. The bounded position arises within recognition's field; it cannot retrospectively originate that field. [Neumann's source house](../../../../episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md) **retains** the transmis"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 88,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The toroidal appointment also has exact offices. Anuttara/Paramaśiva retains the unobjectifiable opening, the subject or kartṛ pole. Māyā is the measure-field wound around that opening, the differentiated pattern through which manifestation becomes inhabitable. Śakti's activity and joy belong to this manifestation. Calling Māyā the hole would remove its positive work and put measure in the place it cannot enclose. The authored uroboric correction preserves depth, opening and winding where a circ"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 101,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The same difference acquires a technical body in the model relay. A disputed output can be logged without altering the next output's conditions. Replacing its source, changing a permission, revising an evaluator or renewing its commission reaches different depths of formation. Each requires a real route to the condition concerned and the authority to alter it. A declaration of revision cannot do that work by itself. The consequential return appears when a later act inherits the changed condition"
+      },
+      {
+        "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+        "line": 111,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Homology and analogy](../../../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md) keep the crossings exact. Dream, crystal, window and simulation disclose different dependencies; their power lies in carrying those differences into the relation. [Compassion as sensitivity to origins](../../../../episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) receives the care through which an origin can change an act. The [advent of integral zero](../../../../epistem"
+      }
+    ]
+  },
+  "links_checked": 425,
+  "full_suite_exit": 1,
+  "full_suite_tail": "_p2_build_workflow.P2WorkflowTests.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets) ... ok\ntest_every_live_quilt_is_discovered_and_anchors_recover_actual_text (test_p2_build_workflow.P2WorkflowTests.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text) ... ok\ntest_hygiene_rejects_duplicate_admissions_at_real_canonical_homes (test_p2_build_workflow.P2WorkflowTests.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes) ... ok\ntest_real_canonical_home_runs_links_and_effects_from_another_cwd (test_p2_build_workflow.P2WorkflowTests.test_real_canonical_home_runs_links_and_effects_from_another_cwd) ... ok\ntest_target_slice_recovers_real_lines_and_rejects_whole_quilt (test_p2_build_workflow.P2WorkflowTests.test_target_slice_recovers_real_lines_and_rejects_whole_quilt) ... ok\ntest_all_48_movements_have_valid_alignment_and_reader_next_step (test_pre_manuscript_gate.PreManuscriptGateTests.test_all_48_movements_have_valid_alignment_and_reader_next_step) ... ok\ntest_argument_pair_links_work_in_both_directions (test_pre_manuscript_gate.PreManuscriptGateTests.test_argument_pair_links_work_in_both_directions) ... ok\ntest_complete_admitted_field_is_present_unique_and_reader_reachable (test_pre_manuscript_gate.PreManuscriptGateTests.test_complete_admitted_field_is_present_unique_and_reader_reachable) ... ok\ntest_live_reading_pages_offer_a_visible_return_to_the_movements (test_pre_manuscript_gate.PreManuscriptGateTests.test_live_reading_pages_offer_a_visible_return_to_the_movements) ... ok\ntest_reader_audit_does_not_silently_repair_a_wrong_relative_path (test_pre_manuscript_gate.PreManuscriptGateTests.test_reader_audit_does_not_silently_repair_a_wrong_relative_path) ... ok\ntest_reader_entrance_contains_only_working_visible_destinations (test_pre_manuscript_gate.PreManuscriptGateTests.test_reader_entrance_contains_only_working_visible_destinations) ... ok\ntest_source_page_landings_and_raw_provenance_are_real (test_pre_manuscript_gate.PreManuscriptGateTests.test_source_page_landings_and_raw_provenance_are_real) ... ok\ntest_create_recover_amend_and_retire_an_explicit_idea (test_project_agent_harness.ActiveIdeasTests.test_create_recover_amend_and_retire_an_explicit_idea) ... ok\ntest_exact_passage_retrieval_keeps_wording_locator_and_provenance_together (test_project_agent_harness.CanonicalJourneyTests.test_exact_passage_retrieval_keeps_wording_locator_and_provenance_together) ... ok\ntest_writing_context_preserves_the_canonical_claim_without_generic_counterpressure (test_project_agent_harness.CanonicalJourneyTests.test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure) ... ok\ntest_hook_on_off_evaluation_records_actual_improvements (test_project_agent_harness.HookBehaviourTests.test_hook_on_off_evaluation_records_actual_improvements) ... ok\ntest_pre_and_post_tool_hooks_restore_user_authored_notes (test_project_agent_harness.HookBehaviourTests.test_pre_and_post_tool_hooks_restore_user_authored_notes) ... ok\ntest_session_start_injects_orientation_skills_and_only_active_ideas (test_project_agent_harness.HookBehaviourTests.test_session_start_injects_orientation_skills_and_only_active_ideas) ... ok\ntest_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit (test_project_agent_harness.HookBehaviourTests.test_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit) ... ok\ntest_codex_discovery_surface_contains_only_the_eight_project_local_skills (test_project_agent_harness.ProjectSkillDiscoveryTests.test_codex_discovery_surface_contains_only_the_eight_project_local_skills) ... ok\ntest_each_register_has_the_complete_functional_domain_shape (test_publication_architecture.PublicationArchitectureTests.test_each_register_has_the_complete_functional_domain_shape) ... ok\ntest_every_symbolon_wikilink_resolves_inside_the_vault (test_publication_architecture.PublicationArchitectureTests.test_every_symbolon_wikilink_resolves_inside_the_vault) ... ok\ntest_manifest_points_to_real_repository_surfaces (test_publication_architecture.PublicationArchitectureTests.test_manifest_points_to_real_repository_surfaces) ... ok\ntest_obsidian_updates_wikilinks_when_records_move (test_publication_architecture.PublicationArchitectureTests.test_obsidian_updates_wikilinks_when_records_move) ... ok\ntest_old_vault_spec_is_explicitly_provenance (test_publication_architecture.PublicationArchitectureTests.test_old_vault_spec_is_explicitly_provenance) ... ok\ntest_symbolon_has_direct_root_and_exact_internal_registers (test_publication_architecture.PublicationArchitectureTests.test_symbolon_has_direct_root_and_exact_internal_registers) ... ok\ntest_symbolon_root_describes_actual_core_records_and_page_anatomy (test_publication_architecture.PublicationArchitectureTests.test_symbolon_root_describes_actual_core_records_and_page_anatomy) ... ok\ntest_writing_protocol_governs_without_becoming_symbolon_content (test_publication_architecture.PublicationArchitectureTests.test_writing_protocol_governs_without_becoming_symbolon_content) ... ok\ntest_codex_discovers_eight_project_local_skills (test_skill_contracts.DevelopmentSkillContractTests.test_codex_discovers_eight_project_local_skills) ... ok\ntest_no_skill_claims_named_model_routing_or_runtime_tiers (test_skill_contracts.DevelopmentSkillContractTests.test_no_skill_claims_named_model_routing_or_runtime_tiers) ... ok\ntest_orientation_preserves_graph_and_native_language_gates (test_skill_contracts.DevelopmentSkillContractTests.test_orientation_preserves_graph_and_native_language_gates) ... ok\ntest_review_skill_checks_effects_and_generated_freshness (test_skill_contracts.DevelopmentSkillContractTests.test_review_skill_checks_effects_and_generated_freshness) ... ok\ntest_source_skill_uses_one_house_and_protects_author_notes (test_skill_contracts.DevelopmentSkillContractTests.test_source_skill_uses_one_house_and_protects_author_notes) ... ok\ntest_writing_skill_targets_master_manuscript_without_compulsory_file_work (test_skill_contracts.DevelopmentSkillContractTests.test_writing_skill_targets_master_manuscript_without_compulsory_file_work) ... ok\ntest_all_projected_passages_resolve_once (test_source_house_migration.CanonicalSourceTests.test_all_projected_passages_resolve_once) ... ok\ntest_every_source_has_one_clean_canonical_file (test_source_house_migration.CanonicalSourceTests.test_every_source_has_one_clean_canonical_file) ... ok\ntest_kaplan_contains_bibliography_passage_and_full_reading_material (test_source_house_migration.CanonicalSourceTests.test_kaplan_contains_bibliography_passage_and_full_reading_material) ... ok\ntest_optional_notes_do_not_change_or_invalidate_source_projections (test_source_house_migration.CanonicalSourceTests.test_optional_notes_do_not_change_or_invalidate_source_projections) ... ok\ntest_previously_missing_van_eenwyk_source_is_present (test_source_house_migration.CanonicalSourceTests.test_previously_missing_van_eenwyk_source_is_present) ... ok\ntest_source_projections_are_reproducible (test_source_house_migration.CanonicalSourceTests.test_source_projections_are_reproducible) ... ok\ntest_split_source_system_is_absent (test_source_house_migration.CanonicalSourceTests.test_split_source_system_is_absent) ... ok\ntest_doctor_clears_canonical_source_and_room_integrity_debts (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts) ... ok\ntest_every_passage_projection_fragment_resolves_to_the_canonical_house (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_every_passage_projection_fragment_resolves_to_the_canonical_house) ... ok\ntest_human_and_agent_route_from_section_to_movement_passage_and_reading (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_human_and_agent_route_from_section_to_movement_passage_and_reading) ... ok\ntest_main_sources_are_generated_by_section_and_link_only_canonical_houses (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_main_sources_are_generated_by_section_and_link_only_canonical_houses) ... ok\ntest_projection_check_marks_all_human_views_stale_after_a_real_source_change (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_projection_check_marks_all_human_views_stale_after_a_real_source_change) ... ok\ntest_essay_body_is_the_complete_sixfold_one_home (test_submission_package.SubmissionPackageTests.test_essay_body_is_the_complete_sixfold_one_home) ... ok\ntest_essay_body_keeps_kaplan_learning_material_in_the_sources_domain (test_submission_package.SubmissionPackageTests.test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain) ... ok\ntest_essay_body_preserves_status_and_quote_provenance (test_submission_package.SubmissionPackageTests.test_essay_body_preserves_status_and_quote_provenance) ... ok\ntest_essay_body_wikilinks_and_relative_links_resolve (test_submission_package.SubmissionPackageTests.test_essay_body_wikilinks_and_relative_links_resolve) ... ok\ntest_reader_protocol_is_content_agnostic_and_traversal_led (test_submission_package.SubmissionPackageTests.test_reader_protocol_is_content_agnostic_and_traversal_led) ... ok\ntest_reader_skills_use_only_the_shipped_bundle_contract (test_submission_package.SubmissionPackageTests.test_reader_skills_use_only_the_shipped_bundle_contract) ... ok\ntest_source_and_passage_routes_converge_on_one_canonical_house (test_submission_package.SubmissionPackageTests.test_source_and_passage_routes_converge_on_one_canonical_house) ... ok\ntest_submission_manifest_keeps_card_integration_status_honest (test_submission_package.SubmissionPackageTests.test_submission_manifest_keeps_card_integration_status_honest) ... ok\ntest_superseded_submission_spec_retains_obsidian_design_provenance (test_submission_package.SubmissionPackageTests.test_superseded_submission_spec_retains_obsidian_design_provenance) ... ok\ntest_c41_declared_identity_and_old_slug_agree (test_t25_record_identity.DeclaredRecordIdentityTests.test_c41_declared_identity_and_old_slug_agree) ... ok\ntest_conjugate_identity_keeps_its_own_face (test_t25_record_identity.DeclaredRecordIdentityTests.test_conjugate_identity_keeps_its_own_face) ... ok\ntest_real_effects_command_retains_root (test_t25_record_identity.DeclaredRecordIdentityTests.test_real_effects_command_retains_root) ... ok\ntest_slash_root_resolves_as_identity (test_t25_record_identity.DeclaredRecordIdentityTests.test_slash_root_resolves_as_identity) ... ok\n\n======================================================================\nFAIL: test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles (test_okf_workspace.OkfWorkspaceTests.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"/home/runner/work/Antykathera-Essay-Work/Antykathera-Essay-Work/tests/test_okf_workspace.py\", line 410, in test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles\n    self.assertEqual({}, missing)\nAssertionError: {} != {'submission-package/essay/section-rooms/0[2472 chars]rs']}\n- {}\n+ {'submission-package/essay/section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md': ['counterpressure-surface'],\n+  'submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md': ['warrant-surface',\n+                                                                                                                  'counterpressure-surface'],\n+  'submission-package/essay/section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md': ['counterpressure-surface'],\n+  'submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md': ['counterpressure-surface'],\n+  'submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md': ['counterpressure-surface'],\n+  'submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md': ['source-anchors'],\n+  'submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md': ['source-anchors']}\n\n----------------------------------------------------------------------\nRan 132 tests in 220.686s\n\nFAILED (failures=1, skipped=1)\n",
+  "generated_changes": 64,
+  "protected_or_unexpected_mutations": [],
+  "acceptance": "Connected retained recovery only; all other shared/depth-field acceptance remains open.",
+  "changed_records": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "git_blob": "94ef9aa7c52d6b93613e19ac7e3ff0781b037aec"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "git_blob": "4c74deb0779f6621597a626d8ac1af6485d77ff4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "git_blob": "6cb6e34be41cc2e5e75a17c7d2381fbedbbd2bd6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "git_blob": "adcd83f79ad518ea54f13ce28e944e40b474f728"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "git_blob": "21d7ef8e2521e5a1ea6d5a2de4ec9b677814f937"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "git_blob": "94d94966c7defdc7229a9db17a96f5149c33a407"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "git_blob": "bddb4fb42794f68c9db69c49c2ff4a5d15994743"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "git_blob": "f97b5c885f53c23ff1ae890597b29fa4953a2a66"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "git_blob": "0a55baeae40a88eaf2eaa9372acbecf27122604f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+      "git_blob": "161c36068cd4a63a72aff9aa92d421042851353c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+      "git_blob": "fee8f970117bed59f77ad73fa00516f3138c6453"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "git_blob": "ecb67a38745192a4eb4a52e7d4b011963b18349f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "git_blob": "899182a673941c1d7ab29fef93df479119f1411c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "git_blob": "d6dce933eec36234b244e362305aece691e685a6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "git_blob": "137ce74408cf072aff1f412e4f3fe439001366f2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md",
+      "git_blob": "00f81daef5cab527e8dd3ea3c51e228ca5bdaf26"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/MOC.md",
+      "git_blob": "86dcfa97a47b749019eddd059e92b5f93066a347"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/audit.json",
+      "git_blob": "ec71b09ececb2904e83312fc86972f39b38389c8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/argument-shelf.md",
+      "git_blob": "40df7eff2909bb875811efcd88d77c36bee7a6a4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-aphorisms.md",
+      "git_blob": "7c9dcd5e76f42fe3dd11e35602e17d6dba631d17"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-arguments.md",
+      "git_blob": "9ff28421a4ba58bdb879fbe7be1475d71e1b717d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-atlas.md",
+      "git_blob": "8443c286e910ecedbb9f4375419fd836a6c4c4a8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--developed-provenance.md",
+      "git_blob": "541dd9afb3c09fbcf470a6b0def353e79ef52151"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--reference-notes.md",
+      "git_blob": "2bde78b0cb0de912e1c53d469021d7f67873e34f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts.md",
+      "git_blob": "c2722bf96f2615bcc49d93c8a8f569a47c43de51"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-conjugate.md",
+      "git_blob": "7b855d854bbb9f090384aa996f398a091647b0a5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dialogues.md",
+      "git_blob": "6382c18f360fb5cbfa58e2c7c9c675ce9f685ad6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dossiers.md",
+      "git_blob": "a109969df7f72b591f7fdd31ff63c5be71e9544f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-etymologies.md",
+      "git_blob": "79190f97805141c5498c34c5774c4520138d18f5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-figures.md",
+      "git_blob": "1ab2265e809fb26cb955981e6f81f6ecb6f555fc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-histories.md",
+      "git_blob": "35f1c19fa9883db183e2f4d1543fe9d454649ad4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-lenses.md",
+      "git_blob": "cc82b8bced97f20ac341f83ae838c97e53094b2b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-maps.md",
+      "git_blob": "8aa952a4398a59dce3ed9992cc2a62a39d718509"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-products.md",
+      "git_blob": "5df4bc9e41caa325adde2c4c6322b816e7630faa"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-root.md",
+      "git_blob": "ece0ad774c4211effe68cf01333b8cba92780f7f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--analytic-philosophy.md",
+      "git_blob": "ba4d053cc52cfb75609303ca8ffecda64b18829d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--biblical-studies.md",
+      "git_blob": "cdb95bb1e8618328ec29d22f35700255323526b3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--chinese-philosophy.md",
+      "git_blob": "e9a57b472ad14b7098a2b74d805daf6b0ae15051"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-philology.md",
+      "git_blob": "98a7501640efc00701f9c61676feb4aa7b033735"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-premodern-philosophy.md",
+      "git_blob": "3c27e7184200115d127306defd0e4885ac85be0e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--computer-science-ml.md",
+      "git_blob": "087e3f3a836fc07d553db4b927e673100e6f0bba"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--history-philosophy-of-science.md",
+      "git_blob": "c8c5ae87eb62389c808113965ca4fe1dfb6c82a2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--indian-philosophy.md",
+      "git_blob": "2da870ef13261ce6b45836fefbd57f6834022c80"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--internal-corpus.md",
+      "git_blob": "3e75e671cfbdf3f213ee187be19b6486489dbcaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-literary-studies.md",
+      "git_blob": "2c5ab39d155d2d0dd48e47d482b02d765aa12af7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-philology.md",
+      "git_blob": "ef60f82068794eb01955ae99cf78820650c21317"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--literature.md",
+      "git_blob": "6751fdce4463c7ccf61aeb48553e7d13abc6eb0a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--mathematics-logic.md",
+      "git_blob": "71b85b2adbd7f796228889af3fd4c2a84fe064d3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--media-technology-philosophy.md",
+      "git_blob": "13a90ec3997e1f7c3f3f7921c0c55881e8f0a8a3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--phenomenology-continental-philosophy.md",
+      "git_blob": "c4fd98b19cc3acb780a0460c904d8bf6551886c2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--physics.md",
+      "git_blob": "338abd89e0f46cd592dbaed7396f3695624e9c65"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--political-theory-institutions.md",
+      "git_blob": "c416673fbca7cd9109b1908fa14d6c94f48868d5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--process-systems-theory.md",
+      "git_blob": "55eb531c06431ff8818862996d704c88eb05a3e6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--psychology.md",
+      "git_blob": "8e9129dd274434f4c5acd4d7bff48f48444bbbf7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--religion-theology.md",
+      "git_blob": "44bb55622f96187b64692d11e8c6aaab5d2bcbe0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--root.md",
+      "git_blob": "5b7e0b12cb2aafbbd757d89908c1b13ebc2c7447"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources.md",
+      "git_blob": "50c83874f5f51adc529c08d8d80833ff6a68e2dd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/essay.md",
+      "git_blob": "78a34fb1bc620cea395372c6a94e63f205b22ee1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--computation.md",
+      "git_blob": "14910193a9c8a0b9b57eb7acaeab7c77e4a91ef4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--definition.md",
+      "git_blob": "554a77b5e73bb39fe03616ede717f9ce770f63d4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--dia-syn.md",
+      "git_blob": "f944f98c24f3d859735d790e0410b4f7b26902a9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--diagrams.md",
+      "git_blob": "d95a49e8802cb05d75f94e65ba4d5b10dd7225d2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--formal-neighbours.md",
+      "git_blob": "543775ec22b00da08cad1ab15cfe091f5f44ade1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--harmonics.md",
+      "git_blob": "a270f41d9f3ce9913f8cbd89d0bb78831ebd2c0b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--mono-poly.md",
+      "git_blob": "c49c0e13db7b0da4c43bfc5b24817dd0bc07d658"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--music.md",
+      "git_blob": "39d0b6f2e11cd78349adaa776e438ce3c47614ec"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--process.md",
+      "git_blob": "dba662891e7f4dab1b623125048d3fdd46c97043"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--ql.md",
+      "git_blob": "df423ce7eca2d43cf2ec83e5d9d88a90ba0b5c9f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--quilt.md",
+      "git_blob": "90981091b41e50ac79b83659b8d8edf68466daa4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--root.md",
+      "git_blob": "6403c1fe142c0a3182a343a6caa028a933850ef9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--spanda.md",
+      "git_blob": "4ec3f2f29bc4cede09a2b15c83ac3cfd0705a021"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--topology.md",
+      "git_blob": "69301108b615e5962b229c5eefa59522e856f8ab"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme.md",
+      "git_blob": "8248525fcc8548660e49c248c2dee0e419e403b0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/movements.md",
+      "git_blob": "fb7ce8a25d8fb885fe5ea832c6c63ec9236b9350"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/mytheme.md",
+      "git_blob": "67e0431ffd1ff6331f16156725599e7b01f0770c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/quilt.md",
+      "git_blob": "208f3c453e2bf08d801c715c8c082bea7fca88e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/rooms.md",
+      "git_blob": "e331c29d2e489504eaf80ec6732af98e76e496cd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/symbolon-root.md",
+      "git_blob": "dcf56f7713ee0d892937d911b1d724e53d14a166"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/reader-audit.json",
+      "git_blob": "fec31c907ad63ce1cd12f526e591f761003eff10"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "git_blob": "57dccd80b85101970208c2ee3c7b83a9d9b98808"
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "git_blob": "0538ac0ed92783fee30098c4865f457a60bd3dad"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/COLD-REVIEW-CORRECTIONS.json",
+      "git_blob": "95dd1a1b3e68a3a4feef65c96469fe30f7753dc8"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/CONSUMER-PRE-EDIT.md",
+      "git_blob": "50a8fec06a4894c4270a26fbf901d7b27ae56260"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/DISPLACED-ADMINISTRATION.md",
+      "git_blob": "c29807fdc3c206710a4b2be3c6b9b4aeabc7a410"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/FINAL-FULL-SUITE.txt",
+      "git_blob": "839be98c1a50ad9ec1ee7bd50b93a2541d3acfcb"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/FOUNDATIONAL-SCOPE-2026-09-29.md",
+      "git_blob": "d065187e8e64844d8ed0b95ffa4eb585a0e79bd5"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/NEGATION-REVIEW.json",
+      "git_blob": "64948649e1e3a20bb868dc4a7c99e9a360fa6671"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/PRE-EDIT-RECOVERY.md",
+      "git_blob": "3e19b049c3d3c1b3f7e115ae904acfd707741893"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/README.md",
+      "git_blob": "c3a189b0c235bbe3861906b4e36640462ab8867f"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/RECORD-RECOVERY-LEDGER.md",
+      "git_blob": "fef81ca9c9d221517a1cbbe383e4f12d0ef4fcb9"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/VALIDATION-COMPARISON.md",
+      "git_blob": "db74e3b0eafe593476ec148d9e6238c0d2daa1de"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/evidence/READING-STATUS.md",
+      "git_blob": "815a6c3ed03055e74ab2c4f533ed6a2d146491d6"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/evidence/SOURCE-REVIEW-BINDINGS.json",
+      "git_blob": "4a725799b7bfae2a4a315e1108b9c37d8ae58438"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md.gz",
+      "git_blob": "9a43dd33d2e36467073eb1c5af1376828bb24b04"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/arguments/A06-Vak.md.gz",
+      "git_blob": "026168aa69536a8baeb01131edc05e42bb943a7b"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md.gz",
+      "git_blob": "8bfc5981ae2ead1b1233c89cbc2eae0c4c7a2dcc"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md.gz",
+      "git_blob": "11b206ba9e6fd5991be87aa1fa6b9cf97cd49ec6"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md.gz",
+      "git_blob": "fdf7f76fbcacbefcc5f70ccc84ece4b3b316e7b4"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md.gz",
+      "git_blob": "e02a5f5503015a7b24eafa3db07b3e9a7088c8bb"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md.gz",
+      "git_blob": "65311ce05959ce294d7cfecf80d95ce416448872"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md.gz",
+      "git_blob": "df5f0916801dfed64ba79555cfc5cf07a0cd37d0"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md.gz",
+      "git_blob": "dfc691fadc89026a3b795235ca9a67bac57a5eaa"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md.gz",
+      "git_blob": "e8b5f6bbfd796b941159679af8ede5be5264ce15"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md.gz",
+      "git_blob": "15e63737b859b2eae3487accdebb9dfed5e0052f"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md.gz",
+      "git_blob": "8e4f6b55aa1b8d3cdaeb00747eca37edc0a28d3a"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/conjugate/AC.md.gz",
+      "git_blob": "d089bc8c5606a0522201a61a620aaccc91c889dd"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md.gz",
+      "git_blob": "d861a83c0b459b59cb231bd8f33827cfdc25c8c4"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md.gz",
+      "git_blob": "18add6eb4499c129625425edc7b64184bc682e17"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md.gz",
+      "git_blob": "af542db70bee5fca12d14baac8073e8e630ecc9c"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/mediation-articulation-2026-09-28/integration-preimages/the-return-of-zero-central-plan.md.gz",
+      "git_blob": "8046acb004936e33e0329208482de492aaa13d3f"
+    }
+  ]
+}

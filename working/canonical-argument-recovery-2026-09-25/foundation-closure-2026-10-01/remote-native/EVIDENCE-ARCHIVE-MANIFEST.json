@@ -1,0 +1,897 @@
+{
+  "scope": "Lossless retained source-first preimages, effects-depth4, candidates, diffs, ledgers and independent cold evidence for the22 accepted operations. Any wider candidate captured in a ledger or snapshot is not accepted by archive membership.",
+  "archive_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-native/RECOVERY-EVIDENCE.zip",
+  "archive_sha256": "ff60a1d33973f4e86a042c5738c660c4c018724da4b6dd5fdd272ae42c1c9a1b",
+  "entries": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/ARGUMENT-NATIVE-THREE-INCLUSION.json",
+      "sha256": "1ddf4a591eb5f33caed1c76f163017021e2a1a831229ea09f7461d655ebb196a",
+      "bytes": 2695
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/COMPUTATION-THREE-INCLUSION.json",
+      "sha256": "c62c7a4ca160dbd14349c3c18a6c3a1cf0d595b8c3d6249cf9fc17d6a4070769",
+      "bytes": 6212
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/CONCEPT-OFFICE-SEVEN-INCLUSION.json",
+      "sha256": "aaf1814fb7d2589e1129efa976dfe751427043ee7236cca57c696278ae951cc7",
+      "bytes": 5682
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/FORMAL-SEVEN-INCLUSION.json",
+      "sha256": "e13b26f23979f66950754ca5a6238aa7dabda9b7a991043f6579ed742a381b78",
+      "bytes": 12683
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/NATIVE-ZERO-TWO-INCLUSION.json",
+      "sha256": "6b40a389043bfa54fc309ff86ebe1165de302c5f56db336cca3de5d2e8c4a430",
+      "bytes": 1732
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A20-EFFECTS-BEFORE.json",
+      "sha256": "704ce2dc4fdfa155df7aa871631b22df6ab9b70a3a29bfa61a80f1d8e6127d24",
+      "bytes": 785598
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A20-NATIVE-DETECTOR.json",
+      "sha256": "9fa053b32351227857f6e1120ce8c5acee43537f86004382dda51356c3283b64",
+      "bytes": 7229
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A20-QUALIFICATION-REVIEW.json",
+      "sha256": "aaab191f8eb6777d962b7f3365b124e113c84775de0dea366cf3eaaa814a8895",
+      "bytes": 10775
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A20-WHOLE-CHANGED-UNITS.json",
+      "sha256": "b5b548c8a3e26407ba3b3a24e7e8d41c2f6be7a9bd6df207bad096b018bb0d91",
+      "bytes": 33845
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A20.diff",
+      "sha256": "ad0aff38dd5355b0cae27992da325317919ce60626aa42644a6cd96635c4f79f",
+      "bytes": 32816
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A21-EFFECTS-BEFORE.json",
+      "sha256": "42d4619d830824b5c4f625dc6b6505cc6bede64bca7a5ed450f67ca47f991a80",
+      "bytes": 776761
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A21-NATIVE-DETECTOR.json",
+      "sha256": "891abadf1280320894b86b56f97bf08d77f72da3089805df1ee8dc9fe8c9b0cc",
+      "bytes": 6400
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A21-QUALIFICATION-REVIEW.json",
+      "sha256": "5055f3d34b99511b7d8d366ce29284e0e3b7e6f91a9742c21f9cf5d10e65ec6f",
+      "bytes": 8992
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A21-WHOLE-CHANGED-UNITS.json",
+      "sha256": "69d0d75a196d6a47a6e867bd08a5fcf8eb1879754de190e7fb253382d575615c",
+      "bytes": 23767
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A21.diff",
+      "sha256": "1e5e96c87623f85058d2610b585d1f2c10a0d9a95656316f5077b9aae2d83fee",
+      "bytes": 24400
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A22-EFFECTS-BEFORE.json",
+      "sha256": "e42ff3bd422e966c37b2ca7b3bf44469fe8d8ad76e9a4fe2e71491f780aafccf",
+      "bytes": 798618
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A22-NATIVE-DETECTOR.json",
+      "sha256": "2402b0a03f8a963b2c40735b994e1137c1cdf5507ea8c87815eaa70b33174d26",
+      "bytes": 4897
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A22-QUALIFICATION-REVIEW.json",
+      "sha256": "ec455799195cc36bee9fd65dcc2499407f235e0fd92ac5a3bd1972987975e96f",
+      "bytes": 6869
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A22-WHOLE-CHANGED-UNITS.json",
+      "sha256": "7b9e580f06dd66ff8169d78b37bfcc31527608c70209709ba2cda4f5ad453f73",
+      "bytes": 26125
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A22.diff",
+      "sha256": "1330de8c10676b26f0ef762aa02d7bfe8fb0e174a5702cc872b90efcaafd6adf",
+      "bytes": 25827
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A33-EFFECTS-BEFORE.json",
+      "sha256": "9335d5f271158f7131453f93731ce9ce647b6d95bd4abe4290125ba4b725617b",
+      "bytes": 769076
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A33-NATIVE-DETECTOR.json",
+      "sha256": "7e5ca24d38d38742a2156194e76be1fcf073ab5d6365dd217eac74886ff99db2",
+      "bytes": 8612
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A33-WHOLE-CHANGED-UNITS.json",
+      "sha256": "ed1119d606418914036c1631ddcce597c0e8170c81d539e5d036188dc717912b",
+      "bytes": 20932
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/A33.diff",
+      "sha256": "c7382fa8551c150c8e31d22e49ec0fcf3588e9dc47b244c8bb5eafbf0215739e",
+      "bytes": 22500
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/CANDIDATE-MANIFEST.json",
+      "sha256": "79a080e8764653d6363491548bfe4b2c9cc0a4516a67252a0819d9835282ebd9",
+      "bytes": 10806
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/EXECUTION-LEDGER.json",
+      "sha256": "4cb0873fedb596e7e6c2e21f3e120c628400dc9c1541a62580032ee054e38cc1",
+      "bytes": 11490
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/FINAL-A20-ACCOUNT-SOURCE-RETURN.json",
+      "sha256": "c292bcd0b298471ac793173ecbe30cbebc7a10242ee728acf83f9efac03be7b8",
+      "bytes": 2090
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/FOUR-BOUNDED-RETENTION.json",
+      "sha256": "6264c2937f2c0aca746606b723fb165c66dae3c2d9ee8f7a354e3e1735e620a6",
+      "bytes": 1864
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-EXCLUSION-FOUR-REVIEW.json",
+      "sha256": "7098c597fde03721698c842abe11585c3023820e4ec85a81f9c973c53bad0f8a",
+      "bytes": 6022
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-CONCEPT-OFFICE-SEVEN-REVIEW.json",
+      "sha256": "ecb623196f01cba9b85740bbd4381c9999da803274626d08eff0948161c9a838",
+      "bytes": 9931
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-FRACTAL-SCOPE-RETURN.json",
+      "sha256": "02fce03db1c05452307a22e37259128465ef4d79bb24b1febdfd0bdba845a5ca",
+      "bytes": 2530
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-MATRIX-SEVEN-RESPONSES-REVIEW.json",
+      "sha256": "ca530f364a5c5ede950235a44219a6f4192025018f6dd7248c0452fcf1e465d2",
+      "bytes": 23073
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-PROJECT-RETENTION-RETURN.json",
+      "sha256": "7468cf7ef1a8cf6c0169cac86508cbd42934e7a19086546effea56a8ae07f212",
+      "bytes": 2333
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-REMOTE-FORMAL-TRANSPORT-REVIEW.json",
+      "sha256": "ee8675834e82a7c1608a7be68187184d296bdd00d024924bccba9d6f14188aad",
+      "bytes": 3319
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/MAYA-CURRENT-CONSUMER-BOUNDARIES.json",
+      "sha256": "da34e94274e2cf58172539a2ca69f71d52395975981f0741aaf2089bea478865",
+      "bytes": 5728
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "03023ba1c5070648bcd48fde59c30075e583936ca35576ba97c6b5e9427c1f35",
+      "bytes": 7061
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/before-final-public-join/A20-Image-Valuation-Possession.md.txt",
+      "sha256": "41fb872e210c94303ee82014dd584fc011aeb86fe209f85af216d55a2ec9ee1a",
+      "bytes": 16622
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/before-fractal-scope-return/A20-Image-Valuation-Possession.md.txt",
+      "sha256": "48573a7596c373bc06e08977a09e3bd943bc9d2747afccd030cb257c79e8729f",
+      "bytes": 16956
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/before-project-retention-return/A22-World-Picture-to-World-Atlas.md.txt",
+      "sha256": "560c994f3b79f12e46b26b750daa2ddfe2780404a8b2d64c3d29740d78ae5e5c",
+      "bytes": 13647
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A20-Image-Valuation-Possession.md.txt",
+      "sha256": "3d03e6ae7d415abc8acea87da90fe39c32eac2f85049f0c62f1cd106397407be",
+      "bytes": 17163
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A21-Individuation-Recognition.md.txt",
+      "sha256": "10fc631bd7b0be1a125cd2a3e320f6f6f4464b3a82eb1c5174cc050cb05076ac",
+      "bytes": 13777
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A22-World-Picture-to-World-Atlas.md.txt",
+      "sha256": "38551d85900528b9ec7d68531e8fddfdadc5c6f114fdb95fab330476f68a210d",
+      "bytes": 13868
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/candidates/A33-Epistemic-Cultivation-Operational-Parity.md.txt",
+      "sha256": "2b0bec9be729636b03e871b6a49cfc89543eb9f0326d45f6a2b89443982f22b2",
+      "bytes": 14026
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/preimages/A20-Image-Valuation-Possession.md.txt",
+      "sha256": "1f93c4ffe6710848861d880ad8bb31712e8b52a29f75dc272c0b429c3d1e80a1",
+      "bytes": 16773
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/preimages/A21-Individuation-Recognition.md.txt",
+      "sha256": "69f6ba0eac569a2fe22db1cf2c816a09e72055badd35fe18f7f040e64580c2b5",
+      "bytes": 13412
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/preimages/A22-World-Picture-to-World-Atlas.md.txt",
+      "sha256": "84e915c622d4a62a96be8b174bf63c2b5ded3d185924f4003f9571bac233c826",
+      "bytes": 13556
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/preimages/A33-Epistemic-Cultivation-Operational-Parity.md.txt",
+      "sha256": "7b8bf49372c3ce1f1cbfc71b793682d22aa26ebc7852309baa69de85483b0ec3",
+      "bytes": 13642
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/APOHA.diff",
+      "sha256": "10514a8a4fc9d1cc1a3499d4ebf11adedfd33a69bdb417df06865d09890bd64e",
+      "bytes": 5814
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/C29.diff",
+      "sha256": "980e1768379004af174ab62d59e3acbeb6eacd0042bafc0d4cba44343ca574bb",
+      "bytes": 10369
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/C34.diff",
+      "sha256": "413b528b72ff6d0b52634f7c43e454a0138b96299107132f94362cf8743d5d11",
+      "bytes": 4071
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/C41.diff",
+      "sha256": "a3089661f458cfecf7d7e0e5ddd32d0c9c76f2bfe82f6da856ba1d20441a4887",
+      "bytes": 20151
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/C52.diff",
+      "sha256": "7c1c7fdd59ac0b72be9ae5e2216bf2ecb48b36e381e9e3462ab137f451632036",
+      "bytes": 3430
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/C58.diff",
+      "sha256": "112cc2e4bfd77eaddff19842380515296bbb4696b63669b7a587bbfd509266ef",
+      "bytes": 8331
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/CANDIDATES.json",
+      "sha256": "3d252c669f2d0f1d6ae482e16e1b85de2e6e742ba71763bed09aaac3d1391475",
+      "bytes": 10514
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/EXACT-RETENTION.json",
+      "sha256": "8de04aa57a11be7a01c9796a40cac870d532840dad95d12ea2b6593c6f97fb4c",
+      "bytes": 2517
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/EXECUTION-LEDGER.json",
+      "sha256": "df986699d8155e4479550c1dffddebe3eaee78f7e40357c8779de3f41ea6b36d",
+      "bytes": 11924
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/EXECUTION-LEDGER.md",
+      "sha256": "deac9105fc9eef2e1b1273c5a9747514d651eaec5838b2c9b280a0310738f888",
+      "bytes": 2605
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-ARGUMENT-NATIVE-THREE-REVIEW.json",
+      "sha256": "c781471d336d31aff26222f8f0eaa449b868955089fde406cb49b90168dc9e7f",
+      "bytes": 4972
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-ARGUMENT-NATIVE-THREE-REVIEW.md",
+      "sha256": "06d65d9dc6da8d0bd3060b3e056cc2ad55fe5eb6bfff72926d358869a93a22f4",
+      "bytes": 1005
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-PARENT-COMPUTATION-THREE-REVIEW.json",
+      "sha256": "0bbde13407c8bef0f1badcc167752219818f8a0b7adc3355cd19647b9e7dd2ef",
+      "bytes": 5750
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/INDEPENDENT-PARENT-COMPUTATION-THREE-REVIEW.md",
+      "sha256": "1bd767afa26e5634ffa0d4d89ab0df610062f9e93c0b746edc347e82a420a855",
+      "bytes": 1024
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/LINK-RESOLUTION.json",
+      "sha256": "9c7e731f10cbd44975c6c25031ed5e7077d09b3de69e3efb465485f52d4151b0",
+      "bytes": 36321
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/PLANETARY.diff",
+      "sha256": "207824b7a7a143e5beaee6f211b17f68ba4758374ca3ba1ceeeebf3026ba8716",
+      "bytes": 3477
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/PRE-EDIT-RECOVERY.md",
+      "sha256": "20452967f3fbc29f808852d6c234c10efd08fa96f102f3620b20ce324481d1e4",
+      "bytes": 6454
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/PREIMAGE-MANIFEST.json",
+      "sha256": "663dd54dd61950a15b526e9fc35d6737f8a672b248afbbfda5568e9dc5f5432d",
+      "bytes": 6168
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/RETAINED-OPERATIONS.json",
+      "sha256": "2d30c6024e28a25db53bc2d4c8c822a6ec00b936943e394824ae89ff65c8d2ec",
+      "bytes": 357
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/SOURCE-VERSIONS.json",
+      "sha256": "5d54eccfa46f2a4c2d6c51c2a7a126a4b269bf1d032d11df602304dfe1626ba3",
+      "bytes": 2957
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C29-Mediating-Office-Derivative-Sovereignty.md.txt",
+      "sha256": "ef418c0835881952ab2dfb25f59946afddcd2cd932b30f30c4ff8e6494ec6abd",
+      "bytes": 7057
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C34-Individuation.md.txt",
+      "sha256": "0f423733ff86670ed7295f78f056d6ad290b22c801ff92721d9c22d95575dd52",
+      "bytes": 4413
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C41-Objective-Internality.md.txt",
+      "sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "bytes": 14724
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C52-Dimensional-Reframing-at-Zero-and-Infinity.md.txt",
+      "sha256": "0fa140db15f7a45426a36534a4c3ee5d8de38e759da0697f87aef4698feb2df4",
+      "bytes": 14795
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/C58-Anthropomorphization.md.txt",
+      "sha256": "4c0310ff959c0ac146ffc0ea99810dc8c36530b3e095e667e9fdf42eea05d5a9",
+      "bytes": 6682
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/apoha.md.txt",
+      "sha256": "cd200dd898bf1199ad0ca50d468b51884e763aab8d48b312b67b72eb7df0192c",
+      "bytes": 7263
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/candidates/planetary-computation.md.txt",
+      "sha256": "db527b35ae7ed014326f53bbd771641709fb7a2a9f90e73328854cd965017fa4",
+      "bytes": 6985
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/APOHA-RETURNED-PATH-BYTES.json",
+      "sha256": "092bf83ae6d1ab859cafd0d8f5b780db0271a8f067f676459375c90eca0e438a",
+      "bytes": 59348
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/APOHA-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/APOHA.json",
+      "sha256": "c86fe4e794066a2cac7b297cb0f778d77f07d30df928799095f105c2c4a1ce5b",
+      "bytes": 684015
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C29-RETURNED-PATH-BYTES.json",
+      "sha256": "801cd8e53bc4af918c444b6a787b782125f94fd2828f53891e72c6babcb0d8b9",
+      "bytes": 54459
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C29-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C29.json",
+      "sha256": "0ed44437bdca22d76f4ef9ab43beb8a40661381f89219f5a45e464833e50d6e5",
+      "bytes": 607215
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C34-RETURNED-PATH-BYTES.json",
+      "sha256": "d414f3abaea5f3dc9dae3df8e05408536f68357f55a860b96bf3fcec28dfa4d8",
+      "bytes": 331
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C34-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C34.json",
+      "sha256": "8c6c16532faaaff61ec7cbb37068409087595b241d065af495b83f3f439042db",
+      "bytes": 951
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C41-RETURNED-PATH-BYTES.json",
+      "sha256": "5a575f7077a518ec36ac40f2fce923c973125f862337c9d7e83fa6b46da69855",
+      "bytes": 61751
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C41-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C41.json",
+      "sha256": "52c688db91697d573c0d4239b95097dc7cad27f5e5b4601ff316bb8c85ced89c",
+      "bytes": 725054
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C52-RETURNED-PATH-BYTES.json",
+      "sha256": "2dd5210bffc72d7dca6fc48698b976400b5bea2e2b2b9773f8ce3fde5d237922",
+      "bytes": 52791
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C52-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C52.json",
+      "sha256": "edbf03b68f741a7a40d69c8709f648b8795347cda8c5e7d127e9d090cf2348a2",
+      "bytes": 569495
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C58-RETURNED-PATH-BYTES.json",
+      "sha256": "964e3903c196b9f944b114b82d826dfef9d69a34b9f800d801e5d92a2771e04b",
+      "bytes": 58623
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C58-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/C58.json",
+      "sha256": "5c43a41b52a32136fec94753d5967b642ca37cf870c9b5e05c08bce026bd58c0",
+      "bytes": 649148
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/PLANETARY-RETURNED-PATH-BYTES.json",
+      "sha256": "8f3391d613639145919beb356aa242d08b94987607975c822f81e88821557f2b",
+      "bytes": 63270
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/PLANETARY-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/effects/PLANETARY.json",
+      "sha256": "47ae63bc9af8304b8e2643c35f76bfcd4c65c6b7e9bb001ad90be62d2b62713a",
+      "bytes": 676784
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/C29-Mediating-Office-Derivative-Sovereignty.md.txt",
+      "sha256": "9799ec535b2bada9322d48867332671659185f124a12c4abd63f23e97c753bef",
+      "bytes": 6242
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/C34-Individuation.md.txt",
+      "sha256": "ae1483dd932d9f9266c03daed15457d2c8a642a5897940f23c8bcb9c9ffaace9",
+      "bytes": 3722
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/C41-Objective-Internality.md.txt",
+      "sha256": "e7796b391b7eacf5ca43ba59baf132f18c7269eb43dc7d922fd7332d90933d4f",
+      "bytes": 13492
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/C52-Dimensional-Reframing-at-Zero-and-Infinity.md.txt",
+      "sha256": "8cb431031a0d716c35ecf700769ec13cead4caeb0c42297a10decae5d576c7ec",
+      "bytes": 14740
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/C58-Anthropomorphization.md.txt",
+      "sha256": "6e26e69f7a4fa653ff195cbb783a4f3425f9f1cd05be8a07f7af065facdf8721",
+      "bytes": 5110
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/apoha.md.txt",
+      "sha256": "1d53636f3e2881f9550b27b8bb9901cd88c381039b9fa10edb1cbd317e79a34c",
+      "bytes": 5956
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-office-interface-return/preimages/planetary-computation.md.txt",
+      "sha256": "16602316d6405941ac9400dc3152c6bab66f3269eaeb46afdb8765120f65fec5",
+      "bytes": 5603
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A33-NATIVE-REVIEW.json",
+      "sha256": "ec367afc9f7a3da02edcc20b85ff071d4b5f5224c4662c197e975857d1b3de7a",
+      "bytes": 2296
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-SEVEN-REVIEW.json",
+      "sha256": "add6a0cb1ec4b8ca5edb0c43f2ab64f21ad65087841d7ca3da8ec240385f10fb",
+      "bytes": 10586
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-ZERO-RECEPTION-REVIEW.json",
+      "sha256": "cfc73991b6738f06f7455ad48b4d14d3065b3f34cfdf6de567c2eda9bdc261a0",
+      "bytes": 2525
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-CANDIDATE.json",
+      "sha256": "7601e1f45948bca1fbab643eff2442c50e9e7ed173f7c28d20083173f705ea4f",
+      "bytes": 961
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-DIRECT-CONSUMERS.json",
+      "sha256": "00a5b04cdade924bd25a999af8abef1855001736961c8dd6de5dd85bc9220233",
+      "bytes": 8922
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-PRE-EDIT.json",
+      "sha256": "d4338898f2be519f9f1849e8e95d82a3bff61bcfb70a98aff717d1c557bfa2c0",
+      "bytes": 817
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-QUALIFICATION-REASONS.json",
+      "sha256": "0021e18ca30e6663793df06705f4938f4256d5d59fa9aabe36500e5a5f55dae7",
+      "bytes": 13319
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-SOURCE-READINGS.json",
+      "sha256": "eb135a193a9f9e5e56472adc895301a01c33deeb9ada2e738edcaac459a09603",
+      "bytes": 7648
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-WHOLE-CHANGED-UNITS.json",
+      "sha256": "cb60662ff822932d19ef332c67fbfbbed8aa040fa198403efc00c2b6778ee3b3",
+      "bytes": 30766
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-before.md.txt",
+      "sha256": "0b575a5bbf767de1cadbb40822c05f6addc022a39eac3498b74ec8ee39eabeb5",
+      "bytes": 15806
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-candidate.md.txt",
+      "sha256": "b096de7176cf73433b6e413090e346f2253f57d6569755fd07ffb3c615100e7c",
+      "bytes": 15735
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION-effects-before.json",
+      "sha256": "7733fa70e532188a3db94ca8ed92cfc66e3997a1656bf9caf552d33901645f90",
+      "bytes": 732824
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-RECEPTION.diff",
+      "sha256": "fd37a5c8ccda30bf51474ca6c416bae98da8a8dd9d5a7415635df4aee7e3a9a3",
+      "bytes": 29220
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/CANDIDATES.json",
+      "sha256": "a75b6f301a7bbb5730e91f87fdf88031969d503a1ddcce1593228dc962f7e7ad",
+      "bytes": 4605
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-before-peer-return.md.txt",
+      "sha256": "fcd92c7bf72f46a5313176bdc21000abc3a9af2272ba9747c9004140a582eb53",
+      "bytes": 5120
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-before.md.txt",
+      "sha256": "0b2226a938407080fe7b2d7e5ff5e8d0b634d35344264cbc70523c71b7187340",
+      "bytes": 4514
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-candidate.diff",
+      "sha256": "fa43d4f6450d584bd3557e3340773ec8f581ddfef92a9184f7cfccab98d7ede6",
+      "bytes": 2999
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-candidate.md.txt",
+      "sha256": "514795248ccd02730c6e86f4af325fabcf93dbb0bf7d1a75b44454002c1e17ea",
+      "bytes": 5364
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-effects-before.json",
+      "sha256": "cb761697e03409dba9bb4c8101315991fbc0bebefe2dc302b1b3e32a98835b23",
+      "bytes": 317509
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/EBM.diff",
+      "sha256": "b70cd403fc065c811e0eb3781051c0646e453ee48c80a494048e9f436b6eef0f",
+      "bytes": 3835
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-before-peer-return.md.txt",
+      "sha256": "39916c73308690cbbce93b0554c2ff141cb566f181dc1448db37cc327098637a",
+      "bytes": 5779
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-before.md.txt",
+      "sha256": "a320666260589b486b6f830a515baf5db2717d447f31c87a34e206cf1f7630ea",
+      "bytes": 5457
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-candidate.diff",
+      "sha256": "8198c2c868dae95dbf085e926574521deac8ffbecc79c52e45f6ce294256d994",
+      "bytes": 1378
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-candidate.md.txt",
+      "sha256": "1abb674ec26899bc047882733c4264053274939de1265adfdb25ae48ac9b4b19",
+      "bytes": 5890
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-effects-before.json",
+      "sha256": "a3041952adcd8bacbe6f0ef4aafb018041b3b81871c207f07a7078afe249073c",
+      "bytes": 317529
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PARITY.diff",
+      "sha256": "eb00879a9ce6caaba50ab3831c1246e3e0393d793554856199c25bb051f6a343",
+      "bytes": 3029
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "9c3af728716dca9ddc83191d8d77022cee36cb0c6eac3249bfe9f8e0784a12cd",
+      "bytes": 3762
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-before-peer-return.md.txt",
+      "sha256": "e01bced40b4d84f5b9fe0230e6d2f68665c2ea3ee85f0d06467f1b88ffde809b",
+      "bytes": 4672
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-before.md.txt",
+      "sha256": "15323374335cb2834a8d837eeb7808f2ded3a7ea8d694dc42c9450ff64369ee0",
+      "bytes": 4383
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-candidate.diff",
+      "sha256": "17bfb6529d36c572bc73a04664c210a204f5d378a95519956144fe450a54f8fd",
+      "bytes": 2665
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-candidate.md.txt",
+      "sha256": "0d3c0a2bc911abf9770f3b40b0953eb526e9536ce50d293c6b411241eca0b8ea",
+      "bytes": 4942
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-effects-before.json",
+      "sha256": "b8fbea3032d0bd14400116763eb957dc57803c4822178d455914b01cb0ead9f1",
+      "bytes": 259252
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PREFERENCE.diff",
+      "sha256": "433fb1a6d3cc2e00f03ebdad0f9380f46912518af63608e7f1001a17250b6b36",
+      "bytes": 3619
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/PUBLIC-JOIN-RETURN.json",
+      "sha256": "71fbfd8e36b04ccfc7f2e8098516be9e6d0dc18f670d7c42ecf1022b69e91f10",
+      "bytes": 731
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-computation-return/draft.py",
+      "sha256": "1196de3108b8421f693df1e766a5d22777c0b3bc0b60bd7e6de0ff29ae638dde",
+      "bytes": 4513
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CALCULUS-before.md.txt",
+      "sha256": "7065c58175076854296aae758cd7a39e348bf241f0b91d0361172ed9dd614bbf",
+      "bytes": 3728
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CALCULUS-candidate.diff",
+      "sha256": "6376ca6c8479793e099c348711412163b295de721dd20b9e44fd2206147b8ae4",
+      "bytes": 2322
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CALCULUS-candidate.md.txt",
+      "sha256": "b5dc7bf4db524ad251b08cf1ce2618269f7b4699a8e6fba91e67f8d246018c0c",
+      "bytes": 3982
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CALCULUS-effects-before.json",
+      "sha256": "266a31d06f15ba9c1b686dff6bfca3f0167133d50221304aec7c8d7591bfd921",
+      "bytes": 351319
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CALCULUS-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CANDIDATES.json",
+      "sha256": "2dc71fb708abc3a85a6f580e6b74115898219f2229dcaad77e78fc940e7b6d63",
+      "bytes": 9497
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CHAOS-before.md.txt",
+      "sha256": "a233295a47894c3c9274a72cd88e52ede7b2e46d4e7343c3ee6728d8c541e2d9",
+      "bytes": 4248
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CHAOS-candidate.diff",
+      "sha256": "4fb24f539c404cab1a5a20ff56ff7ffda7b0c3cb91158eef2ba9a83b4c74f555",
+      "bytes": 3781
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CHAOS-candidate.md.txt",
+      "sha256": "d9647172084b52ba39809209faa9160aa4a26b4f3236ea970fffbcf66fdd5448",
+      "bytes": 4613
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CHAOS-effects-before.json",
+      "sha256": "e4ee04c6ba948eccc96f45678fa09319bc3c9e121b949d8ce0213efb237c0da2",
+      "bytes": 317549
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CHAOS-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CROSS-RATIO-before.md.txt",
+      "sha256": "1c5123237f479f5fec3ddf7dd397ed02f3176b727aa787b190f4ffb6c6309272",
+      "bytes": 3778
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CROSS-RATIO-candidate.diff",
+      "sha256": "84a918672e2f676d3fde80bf75f57af98c7c3da68a1b70fa339ecf5888935c5c",
+      "bytes": 2184
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CROSS-RATIO-candidate.md.txt",
+      "sha256": "1f3d4577025edaacf02bf4393ba48534d47cdd5ba2e8d601f8573dc0b7d34e2f",
+      "bytes": 4039
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CROSS-RATIO-effects-before.json",
+      "sha256": "903282878aa4ae7cd257eb9dc610340b2b0675c439efc2676cbbe2b33bc20b59",
+      "bytes": 133151
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CROSS-RATIO-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ITERANT-before.md.txt",
+      "sha256": "a5b6d9bfdc902a79c682e2c971493058394e79b028d7f8e55ed2367a44390b90",
+      "bytes": 8897
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ITERANT-candidate.diff",
+      "sha256": "f6c6fa82200a633ed0237db99bae210be15fee94971ebbb190566250dd8457b4",
+      "bytes": 3234
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ITERANT-candidate.md.txt",
+      "sha256": "97af6084f8f71bce8816b51fdf85f90cfc50c81d2278adddcd6efe8df78530b8",
+      "bytes": 8946
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ITERANT-effects-before.json",
+      "sha256": "84cd33550ae48e26f722606994d8ee3bab7f113dedfdc306573edd33bd10452f",
+      "bytes": 733672
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ITERANT-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/NOETHER-before.md.txt",
+      "sha256": "b04b6fb015cd1795c8446e5fe7888d729429e99f2e647bc8aec5a8e5d55142d6",
+      "bytes": 10840
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/NOETHER-candidate.diff",
+      "sha256": "a873aa6aa4e1471f6eda54b6ffa46654412f9a4cbf628e8b34a78115a4fcc151",
+      "bytes": 6998
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/NOETHER-candidate.md.txt",
+      "sha256": "8986499aa9adff48da7a5f5f524bc286f514da33030b8e7f6a15a030f922a268",
+      "bytes": 11218
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/NOETHER-effects-before.json",
+      "sha256": "81d1de68b324063d28946747ef2d35a475811023f20790553f691916d2dd09a8",
+      "bytes": 742637
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/NOETHER-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ORDINAL-before.md.txt",
+      "sha256": "c64f53a4dec926e0e03402bf3e8dbcb758334e27917a25fcd62ed0c1dcda9b8a",
+      "bytes": 8858
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ORDINAL-candidate.diff",
+      "sha256": "328f84867462ec213cc5a9aac3c727807d507764ff5b7645ca041c918b43472c",
+      "bytes": 4337
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ORDINAL-candidate.md.txt",
+      "sha256": "cbd5b7a8682452a19ed58b961e8e611d18653e4ba55d3b59c02c13e30a7ca38a",
+      "bytes": 8839
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ORDINAL-effects-before.json",
+      "sha256": "87f4105845d6316512f61d6f4ec44c10617f6e5f3f46421c24e94b8e0ec6b075",
+      "bytes": 724289
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ORDINAL-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/PRE-EDIT-RECOVERY.json",
+      "sha256": "9d5672943c3845f151c1259665142f03f2e3833469161807a82541e743a846e0",
+      "bytes": 7462
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/VARELA-before.md.txt",
+      "sha256": "17bb8a1679b9f500d9460f1654144cf26b9bfb6268ad4251451fad2d88697038",
+      "bytes": 8335
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/VARELA-candidate.diff",
+      "sha256": "46249c8efa6ef3da1210971eca2e56a2d40d94c069fefff9ad8026df3d931244",
+      "bytes": 7383
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/VARELA-candidate.md.txt",
+      "sha256": "ff98a29467f57c885790ae7b6a162703144b682f151e29d3b270573bb0b330cd",
+      "bytes": 8285
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/VARELA-effects-before.json",
+      "sha256": "f36c380340ce8ba4c8ce36b5f0498bb1498371d5e94eb79be9541f3de33b2f6e",
+      "bytes": 748561
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/VARELA-effects-before.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/draft.py",
+      "sha256": "cc98fb0b74a7587cb5c0c0defbbe76924e9bf9add90bcdb8f451ad14394a66ac",
+      "bytes": 14828
+    }
+  ]
+}

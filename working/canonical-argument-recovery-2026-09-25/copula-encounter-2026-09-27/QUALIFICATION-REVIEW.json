@@ -1,0 +1,208 @@
+{
+  "review_type": "same-agent separate cold pass, not an independent reviewer or authorial ratification",
+  "record_paths": {
+    "A02": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+    "C06": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+    "Encounter": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+    "Matheme-copula": "submission-package/essay/symbolon/matheme/definition/copula.md",
+    "Harmonic-recount": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md"
+  },
+  "findings": [
+    {
+      "line": 23,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Two occurrences of an inscription are distinct occurrences. Removing that distinction would remove the event across which the copula identifies them.",
+      "record": "A02"
+    },
+    {
+      "line": 29,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "The act now recognising differs from the finished self-image it can recognise. Their identity-through-difference is the argument, not a machine-capacity caveat.",
+      "record": "A02"
+    },
+    {
+      "line": 35,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "The two-person/same-name and changed-name/same-person examples distinguish reference from the sound carrying it. This prevents the naming/counting claim from becoming a claim that a word individuates by itself.",
+      "record": "A02"
+    },
+    {
+      "line": 45,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "The equality of numerical value does not identify the physical inscriptions. The explicit respect makes the example exact.",
+      "record": "A02"
+    },
+    {
+      "line": 51,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Proposed-relative-to-circumstance means criterion-governed identification. It would be stronger and false to let the word proposed mean unconstrained choice.",
+      "record": "A02"
+    },
+    {
+      "line": 53,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "A bare formula and its situated use carry different information. Speaker, intended possibility and respect of comparison are the positive constituents at issue.",
+      "record": "A02"
+    },
+    {
+      "line": 87,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "The fourth is contextual holding of three persons, not a fourth person; 3:3/3:1 and 4:2 count different offices. This protects the actual personed derivation.",
+      "record": "A02"
+    },
+    {
+      "line": 91,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "An exact third-person model and the first-person presence it concerns remain different offices in the interpersonal encounter. The statement asserts that relation positively; it is not an open-phenomenality disclaimer.",
+      "record": "A02"
+    },
+    {
+      "line": 17,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Agreement and opposition require a shared register. The immutable gap leaves identification possible across a non-coincidence; it is not a denial of identity.",
+      "record": "C06"
+    },
+    {
+      "line": 21,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Predication supplies a determinate presentation and identification maintains the bearer. The paired conditions distinguish those operations.",
+      "record": "C06"
+    },
+    {
+      "line": 23,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "A repeated name cannot on its own distinguish two bearers. The source is the protected authorial Kripke encounter, not a newly verified Kripke theorem.",
+      "record": "C06"
+    },
+    {
+      "line": 23,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "An account with no route for consequences to revise its terms prevents the return being argued. This is the defined failure of Count-to-Account.",
+      "record": "Encounter"
+    },
+    {
+      "line": 32,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Memory, permission and material arrangement constitute possible action. Treating them as scenery would contradict the explicit intervention examples.",
+      "record": "Encounter"
+    },
+    {
+      "line": 34,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "A selected context frame differs from the region that can affect it. The finite frame is usable without being exhaustive.",
+      "record": "Encounter"
+    },
+    {
+      "line": 36,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "A rule orders an expanse; an account of that rule differs from the expanse. Country Path and calque collation remain separate historical tasks, not a reason to suppress this philosophical relation.",
+      "record": "Encounter"
+    },
+    {
+      "line": 46,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "The counted participant is distinguished through occurrence and circumstance, rather than automatically multiplied by descriptions or individuated by repeated sound.",
+      "record": "Encounter"
+    },
+    {
+      "line": 48,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Constitutional priority of discrimination gives naming its referent. No historical chronology of the invention of numbers and names is asserted.",
+      "record": "Encounter"
+    },
+    {
+      "line": 54,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Place-marker, operand and boundary expression admit different operations. The sign alone does not confer every arithmetic permission.",
+      "record": "Encounter"
+    },
+    {
+      "line": 64,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Arithmetic admission and psychic investigation concern distinct histories and objects. A represented item cannot take over the determining capacity whose representation it is.",
+      "record": "Encounter"
+    },
+    {
+      "line": 74,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Configuration and trajectory disclose different information. Neither is an adequate substitute for the other where history changes the available transitions.",
+      "record": "Encounter"
+    },
+    {
+      "line": 113,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Adding the saying to the count produces a further act of counting. The return recognises that activity instead of treating a final numeral as its enclosure.",
+      "record": "Encounter"
+    },
+    {
+      "line": 115,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "A world-account remains an act within Life/Mind; an increase of represented detail does not invert the order of dependence.",
+      "record": "Encounter"
+    },
+    {
+      "line": 121,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "A numeral alone does not contain the dataset, evaluator, comparison class and permission through which it governs an act. These distinct causes must remain reachable by a correction.",
+      "record": "Encounter"
+    },
+    {
+      "line": 37,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Identity is equal to difference in articulation and unequal in its identifying office. OR/AND preserves the different respects of the copula rather than asserting an unqualified contradiction.",
+      "record": "Matheme-copula"
+    },
+    {
+      "line": 45,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "The two are the operations composing the four appearances, not two unrelated extra objects. This is the actual 4+2 derivation.",
+      "record": "Matheme-copula"
+    },
+    {
+      "line": 53,
+      "code": "DEFENSIVE_NEGATION",
+      "decision": "retain-specific-operation",
+      "reason": "Early File One loads 1 as a mark; core theorem IX loads it as integrated recognition. X also changes office between X/x and the object-field. Removing those distinctions would silently conflate actual source developments.",
+      "record": "Matheme-copula"
+    },
+    {
+      "line": 43,
+      "code": "STATUS_LEAK",
+      "decision": "lexical-false-positive",
+      "reason": "False-positive status match: Open is an imperative to open the middle hinge, not the epistemic status Open.",
+      "record": "Matheme-copula"
+    },
+    {
+      "line": 19,
+      "code": "STATUS_LEAK",
+      "decision": "lexical-false-positive",
+      "reason": "False-positive status match: Open is the action in the sixfold heading, not an epistemic-status declaration.",
+      "record": "Harmonic-recount"
+    }
+  ]
+}

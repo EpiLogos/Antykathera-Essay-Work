@@ -1,0 +1,32 @@
+{
+  "status": "Receipt-path return only; frozen38 manifest/candidates unchanged",
+  "reason": "Independent reviewer attached owner final checks after frozen inclusion packet. The exact prior acceptance bytes survive at the archived receipt path; source/public acceptance and both candidates remain unchanged.",
+  "prior_review_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/INDEPENDENT-APOLLO-TWO-REVIEW-before-owner-receipt-return.json",
+  "prior_review_sha256": "f9c4b38deb99075382555862007ea72e6946f53f9318f821f0e000bb5a0257ac",
+  "current_review_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/INDEPENDENT-APOLLO-TWO-REVIEW.json",
+  "current_review_sha256": "8c4dcf545dce18e58465f836dc944af2071a0887dfb367202b9ed6d91076d6a8",
+  "receipt_delta_keys": [
+    "final_owner_receipt_return"
+  ],
+  "candidates": [
+    {
+      "key": "APOLLO-DAPHNE",
+      "expected_candidate_sha256": "b4e3d73f215a97e5e95b841f148de79a5e2cfd9b43434b3b4727a10865fa8dfb",
+      "manifest_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DAPHNE-CANDIDATE.json",
+      "manifest_sha256": "d64ba8b7f15ea7fe3d3d97e49282a06da45b9fea66c510b5e24db15a96a9f8b4",
+      "candidate_path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DAPHNE-candidate.md.txt",
+      "actual_candidate_sha256": "b4e3d73f215a97e5e95b841f148de79a5e2cfd9b43434b3b4727a10865fa8dfb",
+      "manifest_candidate_sha256_equal": true
+    },
+    {
+      "key": "APOLLO-DIONYSUS",
+      "expected_candidate_sha256": "f1a6ef68941f883d492420f4d61e203bd1a1d36ae1a93d5f93a54c4fbeb81ef2",
+      "manifest_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DIONYSUS-CANDIDATE.json",
+      "manifest_sha256": "fdd9449fd5b662c7f9e779994eed99605eaf804a76ce3b74d6be5b4297fe847e",
+      "candidate_path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DIONYSUS-candidate.md.txt",
+      "actual_candidate_sha256": "f1a6ef68941f883d492420f4d61e203bd1a1d36ae1a93d5f93a54c4fbeb81ef2",
+      "manifest_candidate_sha256_equal": true
+    }
+  ],
+  "instruction_for_parent_inclusion": "Bind frozen source acceptance to the preserved f9c4b38d receipt or record the current 8c4dcf54 receipt-only attachment; do not infer a body edit or new source review."
+}

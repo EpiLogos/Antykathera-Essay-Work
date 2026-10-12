@@ -156,7 +156,12 @@ ob publish-site-options \
 ob publish --dry-run
 ```
 
-The exact include/exclude selection should follow the repository's existing publication/public-status rules rather than invent a second classification.
+The exact include/exclude selection is locked in
+`submission-package/essay/.obsidian/publish-selection.json`:
+`quilt/`, `symbolon/episteme/concepts/reference-notes/`, source-house
+`<source_id>-NOTES.md` (and legacy `NOTES.md`), and navigation audit
+JSONs are excluded. Index file and site options are recorded there;
+apply them through Publish path filters or the headless flags below.
 
 ## Styling
 

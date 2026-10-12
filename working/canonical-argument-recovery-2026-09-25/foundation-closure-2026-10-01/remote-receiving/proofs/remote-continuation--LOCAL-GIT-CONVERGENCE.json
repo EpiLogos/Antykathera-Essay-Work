@@ -1,0 +1,13 @@
+{
+  "source_parent": "c2a64aa59afd52a495a97812e8a4b6b86ecd7775",
+  "local_HEAD": "5e0b0a716a1ed750d98562d2d60031ed13c2c4d0",
+  "remote_main": "5e0b0a716a1ed750d98562d2d60031ed13c2c4d0",
+  "incoming_files": 166,
+  "exact_existing": 79,
+  "written_incoming": 86,
+  "preserved_reviewed_later_operations": [
+    "submission-package/essay/quilt/agentworld-response-matrix.md"
+  ],
+  "heavy_jobs": false,
+  "scope": "Exact published tree convergence with later reviewed matrix operation retained. Untracked source/cold/effects candidates preserved."
+}

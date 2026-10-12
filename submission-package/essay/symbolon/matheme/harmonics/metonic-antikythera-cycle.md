@@ -5,13 +5,20 @@ record_type: matheme
 register: matheme
 claim_status: Argued
 source_relation: "Exact cycle arithmetic; source-constrained astronomical and mechanism witness"
+figures:
+  - asset: "images/freeth-2021-fig1-antikythera-inscriptions-and-reconstructed-plates.jpg"
+    asset_format: "image/jpeg"
+    rights: "CC-BY-4.0"
+    rights_note: "Figure from an open-access Scientific Reports article, licensed CC BY 4.0 on Wikimedia Commons; credit to the authors required."
+    source_url: "https://commons.wikimedia.org/wiki/File:41598_2021_84310_Fig1_HTML.png"
+    credit: "Tony Freeth, David Higgon, Aris Dacanalis, Lindsay MacDonald, Myrto Georgakopoulou and Adam Wojcik, \"A Model of the Cosmos in the Ancient Greek Antikythera Mechanism,\" Scientific Reports 11 (2021): 5821, fig. 1. CC BY 4.0."
 ---
 
 # Metonic Cycle and Antikythera: Maintained Fit
 
 ## #0 — Two periods brought into relation
 
-The Metonic relation joins approximately nineteen solar years to 235 synodic months. The [recovered note](../../episteme/concepts/reference-notes/metonic-cycle.md) admits this cycle; [NASA's period table](https://eclipse.gsfc.nasa.gov/LEsaros/LEperiodicity.html) supplies a directly checked astronomy witness. The [Freeth source house](../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md) supplies the distinct Antikythera reconstruction evidence.
+The Metonic relation joins approximately nineteen solar years to 235 synodic months. The [recovered note](../../../section-rooms/arguments/concepts/reference-notes/metonic-cycle.md) admits this cycle; [NASA's period table](https://eclipse.gsfc.nasa.gov/LEsaros/LEperiodicity.html) supplies a directly checked astronomy witness. The [Freeth source house](../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md) supplies the distinct Antikythera reconstruction evidence.
 
 The input periods are a year `Y` and a mean synodic month `M`, expressed in the same unit. The relation is `19Y≈235M`. The approximation sign is load-bearing: a calendrical fit is not a claim of timeless exact commensurability.
 
@@ -19,7 +26,7 @@ The input periods are a year `Y` and a mean synodic month `M`, expressed in the 
 
 Nineteen twelve-month years contain `19×12=228` months. Reaching 235 requires seven additional months. Thus a calendar pattern with twelve ordinary years and seven thirteen-month years has `12×12+7×13=235` months.
 
-This is an exact count under the declared pattern. It does not prescribe where the seven intercalations belong in a historical calendar or determine the length of every month. Those are additional calendrical rules and evidence tasks.
+This is an exact count under the declared pattern. The positions of the seven intercalations and the length of particular months belong to the selected historical calendar. They determine how the count is enacted through a year's succession; the total alone leaves them unspecified.
 
 ## #2 — Keep the residual visible
 
@@ -35,12 +42,18 @@ A lunar phase match alone does not establish the nodal geometry needed for an ec
 
 ## #4 — Read the mechanism through surviving evidence
 
-Freeth and colleagues'2021 reconstruction coordinates nine outputs in its proposed front display: Moon, Nodes, Mercury, Venus, Sun, Mars, Jupiter, Saturn and Date. Their [verified source cards](../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md#passages) explicitly retain uncertainty from lost evidence and distinguish the model from a replica of the original.
+Freeth and colleagues' 2021 reconstruction coordinates nine outputs in its proposed front display: Moon, Nodes, Mercury, Venus, Sun, Mars, Jupiter, Saturn and Date. Their [display and conclusion passages](../../episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md#passages) retain the model's dependence on surviving inscriptions and fragments. Lost evidence limits the reconstruction: a fitting model remains different from a replica of the original.
 
-The admitted Metonic count does not by itself establish a particular tooth count or gear train. Likewise a pin-and-slot mechanism would require its own exact kinematic and archaeological account before a claim about variable motion is made. The housed 2021 cards support the constrained multi-output reconstruction and its limits; they are not silently extended into those uncollated details.
+![A composite figure. Top row: four views of a computer-rendered brass instrument in a wooden case, left to right a front cover labelled Planet Cycles, the front plate with a ringed dial and the labels Star Events above and below, the back plate with two dials labelled Month Names, Eclipse Characteristics and Eclipse Glyphs, and a back cover labelled Cosmos Description, Calendar Structure and Moon-Sun Cycles. Bottom row: two grey X-ray tomography images of small inscribed fragments, one with the sections for Mercury, Venus, Mars, Jupiter and Saturn outlined and the other with some Greek words picked out in red, each with a centimetre scale.](images/freeth-2021-fig1-antikythera-inscriptions-and-reconstructed-plates.jpg)
+
+> Figure 1 of Freeth and colleagues (2021). Panel a shows the reconstructed covers and plates with the inscriptions each carries; the back plate bears the Metonic Calendar with its month names, and the Saros eclipse dial below it. Panels b and c are X-ray tomography images of the inscribed cover fragments from which the planet cycles and the description of the cosmos were read. It is the evidence the record's last section relies on, the surviving inscriptions together with the model fitted to them, and it is not a photograph of the original. The `235:19` count is the arithmetic behind the Metonic dial, and the figure does not compute it.
+>
+> Credit: Tony Freeth, David Higgon, Aris Dacanalis, Lindsay MacDonald, Myrto Georgakopoulou and Adam Wojcik, "A Model of the Cosmos in the Ancient Greek Antikythera Mechanism," *Scientific Reports* 11 (2021): 5821, fig. 1. CC BY 4.0.
+
+The Metonic count specifies the relation 235:19. A particular gear train further needs tooth counts, linkages and a kinematic arrangement, and variable lunar motion needs its own account of the mechanism that produces the variation. The 2021 front-display proposal is a selected multi-output arrangement supported by the surviving evidence, and its display and conclusion passages keep that scope. These more particular mechanical questions belong to other parts of the reconstruction.
 
 ## #5→0 — Return as maintained fit
 
-The result holds an exact mechanical or calendrical count beside the approximate natural cycles it serves. The [native ratio field](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) reads this as attunement whose conditions remain visible. Its philosophical use is Argued from that maintained relation, not proved by the number 235.
+The result sets an exact mechanical or calendrical count beside the approximate natural cycles it serves. [Attunement](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **defines** how the relation is kept: the chosen unit, the period model and the residual are made available together, so an observed discrepancy can alter the next comparison while the established count stays exact under its rule.
 
-This record returns-to [Movement45](../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) and [cycle, interval and octave](cycle-interval-octave.md). The instrument's return earns precision by declaring the fit, the residual and the evidence that constrains its reconstruction.
+The [attunement instrument](../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) **extends** the maintained relation into a situated use, and [cycle, interval and octave](cycle-interval-octave.md) **compares** what kind of recurrence each is. A reader can carry the fit, the residual and the reconstruction evidence into the next query, and precision grows when that query keeps in view what the selected cycle coordinates and what its indication leaves open.

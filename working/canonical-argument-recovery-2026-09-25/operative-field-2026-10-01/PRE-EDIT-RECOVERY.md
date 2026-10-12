@@ -1,0 +1,25 @@
+# Operative field — pre-edit recovery
+
+Base: live main dda066102193ca24d3af1c26a87dc2e2f36ab6e9, exact tree 334e6cde0386cef26066a93a8078e04ba46d2c9e. The complete native local tree matches. All forty-eight movement bodies and the sovereign manuscript are outside the write set.
+
+## Generating operation
+
+The direct theorem's VIII and XI make identification, process, achieved determination and consequential inheritance one developing relation. The topological quotient earns its identification through a specified equivalence relation. Harness composition is the technical continuation of constitutive relation, not evidence that deployment states have been quotiented by that equivalence relation. Code makes selected distinctions executable; its answer remains dependent on the real conditions of execution. Inspection becomes reflexive return only when an encounter can reach a constituting condition and a later act can inherit the difference.
+
+The later paradigm minute distinguishes changing a result from changing its governing means. The whole MEF product reading gives six complementary lens pairs and six product offices; these are not one sublens per product. The twelve-lens compilation's full two hexads, rotations and grounding faces must be developed, not used as labels. Its older scientific sequence differs from the later retained product account; the later account governs product interpretation. The actual rotation preserves both Name and Power at every position. The optical correction places Bimba as Original, QL as ordered spectrum, MEF as apparatus and pratibimba as projection; a local reference remains a derived original for its own consumers.
+
+The world-first contribution makes a participant's products conditions of another's actual reception and action. Reciprocal constitution requires an answering route; one-way instruction and a common database do not alone show reciprocity. A worked shared-path scenario will distinguish changed source, permission, criterion and commission, and preserve the two participants' different authority. This is an explicitly constructed example of the existing operation, not a deployment claim.
+
+Parity is the technical obligation invoked by a claimed mapping. A comparison must activate the distinction, hold or account for competing changes, identify what the removed route prevents, and inspect later inheritance. Equal results in a case that never engages the distinction do not show that the distinction has no operation. A design that names its gate has specified a test, not passed it. Cultivation preserves the corrected condition, previous history and continuing possibility of deeper revision without requiring every useful update to be a paradigm change.
+
+## Current corruptions and repair limits
+
+A14′ asserts a literal quotient without supplying a technical equivalence relation, reduces alignment to inspection despite its source-return argument, and spends its return naming the arc. Rebuild its technical operation within its sixfold. A14's bounded corresponding passages retain the positive process thesis, while misplaced metaphysical disclaimers and source-status prose move out of the argument. No new verification of Whitehead/Bohm books is claimed.
+
+C39 has the right architecture but omits how a whole rotation changes an inquiry. Recover that operation, Name/Power meanings, distinct twins/complements and a worked lens pair. Preserve the whole images and six product relation. C42/C43/C45/C46 already contain much of their correct generating operation. Their repairs develop the missing causal steps and exact distinctions, retain their unique sixfold and reciprocal links, and bind the sources actually used. C38 receives only the bounded reference/representation correction and source binding; its whole source genealogy is not accepted by that edit. A33/A33′ receive only the corresponding stale-locality and test/design corrections.
+
+## Sources and protection
+
+Read the complete core theorem; governing recovery/writing/refinement rules and writing laws/rubric; complete retained MEF product reading, Relational Logos exploration and paradigm minute; full twelve-lens compilation and its source house; exact Q27 world-first and later optical-correction units; exact Agentworld representation and harness units. Later recovery instructions supersede the earlier generic machine-phenomenality fences in those inputs. The source ledger will distinguish complete documents from contributing units and inspected canonical recipients from fully accepted records.
+
+Depth-four effects for the eight initial roots are retained. Their broad transitive closure is a routing field, not an assertion of complete semantic acceptance. Reopen direct receiving operations and preserve unrelated recipients; no automatic graph rewrite. Preimages retain every displaced sentence and original link. Cold review must inspect the new operation and all remaining qualification candidates before publication. Tests and authorial originals stay unchanged.

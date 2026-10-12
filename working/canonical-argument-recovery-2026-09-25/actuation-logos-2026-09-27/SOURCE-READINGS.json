@@ -1,0 +1,176 @@
+{
+  "base": "2e7a22890b9623c433e39902a2d21404d90e2c84",
+  "readings": [
+    {
+      "path": "docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md",
+      "scope": "complete governing recovery protocol, refreshed this turn",
+      "sha256_read": "7a354829498ef3699d6bf9d6a9070463844739f65333bfe715c12f51a61b7324",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "AGENTS.md",
+      "scope": "complete repository instructions, refreshed this turn",
+      "sha256_read": "1e4c3e89aee7e485c9c9c5d511b6186a8e74c91c8a4c8d9eab7fe2d7be10233f",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "WRITING-PROTOCOL.md",
+      "scope": "recovery gate and relevant preparation/writing instructions; no manuscript release asserted",
+      "sha256_read": "15b98455c7e9710d552e5d130f70411a9c78761837b37183707fd9780f99d91a",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "scope": "complete accepted authorial minute",
+      "sha256_read": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md",
+      "scope": "complete retained product-pair reading",
+      "sha256_read": "ceebd3e8a5ce5408070cb535c7c0f4784c1c5ea270b4055c1a4b58ab438b3b1b",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md",
+      "scope": "complete retained exploration, including the operative compass and later authorial corrections",
+      "sha256_read": "047d76f8fac64e9b4a2b9e464fc91ff8b4c76d54787ef08efb853d21ecdaadaa",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "scope": "complete authorial-return minute",
+      "sha256_read": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "scope": "complete direct theorem, all eight determinations, both Spanda readings, internal harmonics and recognition sequence",
+      "sha256_read": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "scope": "complete protected direct authorial writing, unchanged",
+      "sha256_read": "ba7b16ed0a51c4c91957336ff784cecf98153805281d5d6848b1b0d2450bcc78",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md",
+      "scope": "complete older twelve-lens reference; older Scientific sequence retained as earlier development, not substituted for later commission",
+      "sha256_read": "1e1ee72c6445eea2e7df057798bd1b0441f6e5eeac289dddb65d680d7ca6bb51",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "scope": "complete local section 12 (A model of encounter that can change its own energy landscape), section 11 and relevant surrounding units; NOT the entire 794KB quilt",
+      "sha256_read": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md",
+      "scope": "complete existing provenance/routing house; not substituted for the retained minute or product reading",
+      "sha256_read": "8d5125717ddddc22e1b5972b82c5d39c44e72483ade0fdb045a46df2162fa7ca",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "scope": "complete existing house; direct twelve-lens original independently reopened",
+      "sha256_read": "e9961bbb76cbf10afcc4dabc347d652fb32afd009bd370dde5261d755de9bc2d",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "scope": "complete existing source-house account, preserving its quotation/edition limits; no adjacent NOTES exists and no fresh external edition collation claimed",
+      "sha256_read": "2c0cb8fa3c11e920fb398eef9b9aba8d9f8ff3f9b8515f1587ef08a211922ab2",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "scope": "complete current governing root; external frozen ethic remains referenced and untouched",
+      "sha256_read": "70615835023525e2558f60affb8654f310eff52f668a2b1a6fec1a5ac2071414",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "scope": "governing whole and complete relevant Actuation/Product/MEF units; this is not a claim of cover-to-cover source verification of the plan",
+      "sha256_read": "251f0ec2bf180ebc5e5200f642cb82833031e79af139cd8db4be0986b9b2a10d",
+      "protected_original_unchanged": false
+    },
+    {
+      "path": "writing-guidance-tools/references/WRITING-LAWS.md",
+      "scope": "complete writing laws",
+      "sha256_read": "c1d207f6c458c8bc16c036fb2bc370392f0a519f3df3c4b3855338b22248c001",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "writing-guidance-tools/references/WRITING-RUBRIC.md",
+      "scope": "complete rubric",
+      "sha256_read": "bf295105352e243f474835a38d9547bba322503337c0fb981f6909522613e45a",
+      "protected_original_unchanged": true
+    },
+    {
+      "path": "writing-guidance-tools/references/comparative-and-negation-gate.md",
+      "scope": "complete gate, reread for the separate cold pass",
+      "sha256_read": "16d2fed75b5b552226184ee9f32a59c7f66b1f1c0643f059a4cebadd455291fa",
+      "protected_original_unchanged": true
+    }
+  ],
+  "effects": {
+    "depth": 4,
+    "roots": [
+      "S1",
+      "C40",
+      "C43"
+    ],
+    "commands_run": true,
+    "canonical_consumer_bodies_reopened": [
+      "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+      "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "submission-package/essay/section-rooms/01-differentiating-mind/movements/11-s0-p4-tattvic-compression.md",
+      "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A26-prime-The-Essay-Inside-the-Film.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "submission-package/essay/symbolon/episteme/products/S-World-and-Life.md",
+      "submission-package/essay/symbolon/episteme/products/S0-Central.md",
+      "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "submission-package/essay/symbolon/episteme/products/S2-AIKit.md",
+      "submission-package/essay/symbolon/episteme/products/S3-Software-Factory.md",
+      "submission-package/essay/symbolon/episteme/products/S4-Workcell.md",
+      "submission-package/essay/symbolon/episteme/products/S5-Quaternal-Logic.md"
+    ],
+    "complete_transverse_threads_reopened": [
+      "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md"
+    ]
+  },
+  "limits": [
+    "Consumer re-entry checks the changed relation; it does not certify every consumer against its own entire generating corpus.",
+    "The technical, philological and mythic passages carried forward in S1 retain their prior source standing. No new external empirical result, source quotation or implementation is certified by relocating them.",
+    "M09 and several transverse paths still carry standing-guard, address or obsolete-product residue. Those records are not accepted as recovered by this batch.",
+    "The central plan is repaired only in the stated Actuation/MEF handoff and relational-Logos/E6 units. Other plan-wide residues remain for the wider recovery."
+  ]
+}

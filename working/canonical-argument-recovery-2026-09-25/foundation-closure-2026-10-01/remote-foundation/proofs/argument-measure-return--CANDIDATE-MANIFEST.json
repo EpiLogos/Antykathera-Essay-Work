@@ -1,0 +1,25 @@
+{
+  "status": "Independent complete source/public receiving review accepted at exact final; parent native inclusion and unchanged gates separate",
+  "native": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+  "preimage": "preimages/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md.txt",
+  "preimage_sha256": "9c4744739c5554dac3f5cf17f7d0c16ca64f004ac364b3e6ed182ec8a8eeb436",
+  "candidate": "candidates/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md.txt",
+  "candidate_sha256": "0a6a45166e3d4e1c651321b72a128ab481dbcd82f1ed720eccb734a53885e725",
+  "paired_prime_sha256": "4471441c7703de576b535405813857d17f0d1fca31e61ab3f44c9c64a1b972c3",
+  "paired_prime_disposition": "Entire published current operation preserved after actual full source comparison; no new prime mutation.",
+  "effects_depth": 4,
+  "returned_byte_paths": 173,
+  "semantic_current_version_rows": 14,
+  "public_changed_paragraphs": 20,
+  "hard_findings": 0,
+  "detector_reviews_individually_disposed": 7,
+  "manual_source_boundaries": 11,
+  "reader_links": 28,
+  "missing_reader_targets": 0,
+  "independent_review": {
+    "path": "depth-generating-continuation/INDEPENDENT-A15-MEASURE-REVIEW.json",
+    "sha256": "03cf8232f6d42d650308f024e8e6ed8edaa77a2ae689843ecc5a2da2024119dc",
+    "reviewer": "/root/depth_recovery"
+  },
+  "tests_builders_protected": "Parent integration/unchanged gates separate; no local heavy execution."
+}

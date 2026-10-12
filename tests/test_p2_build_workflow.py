@@ -17,7 +17,7 @@ spec.loader.exec_module(workflow)
 class P2WorkflowTests(unittest.TestCase):
     def test_every_live_quilt_is_discovered_and_anchors_recover_actual_text(self):
         files = workflow.live_quilts(ROOT)
-        self.assertEqual(files, sorted(p for p in (ROOT / workflow.QUILT_DIRECTORY).iterdir() if p.is_file()))
+        self.assertEqual(files, sorted(p for p in (ROOT / workflow.QUILT_DIRECTORY).iterdir() if p.is_file() and p.name != 'README.md'))
         self.assertGreaterEqual(len(files), 6)
         found = 0
         for path in files:
@@ -39,7 +39,7 @@ class P2WorkflowTests(unittest.TestCase):
             workflow.canonical_targets(ROOT, {'elements': candidates})
 
     def test_real_canonical_home_runs_links_and_effects_from_another_cwd(self):
-        home = 'submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md'
+        home = 'submission-package/essay/section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md'
         with tempfile.TemporaryDirectory() as temporary:
             manifest = Path(temporary) / 'target.json'
             report = Path(temporary) / 'hygiene.json'
@@ -72,9 +72,9 @@ class P2WorkflowTests(unittest.TestCase):
 
     def test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes(self):
         first = {'record_id': 'A01', 'register': 'episteme', 'canonical_home':
-                 'submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md'}
+                 'submission-package/essay/section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md'}
         second = {'record_id': 'A02', 'register': 'episteme', 'canonical_home':
-                  'submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md'}
+                  'submission-package/essay/section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md'}
         self.assertEqual(len(workflow.canonical_targets(ROOT, {'elements': [first, second]})), 2)
         with self.assertRaisesRegex(ValueError, 'one canonical home'):
             workflow.canonical_targets(ROOT, {'elements': [first, {**first, 'record_id': 'A02'}]})

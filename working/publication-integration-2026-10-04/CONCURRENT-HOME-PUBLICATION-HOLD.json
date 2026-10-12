@@ -1,0 +1,93 @@
+{
+  "observed_at": "2026-10-04T16:57:51.596776+00:00",
+  "hold_reason": "Active concurrent home/copy writer is outside this reader operation; live source files are preserved and this publication keeps the restored original home from its preceding published code.",
+  "files": [
+    {
+      "path": "site/content/public-site.md",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "f68a9fe565705a2de1c83b4b40144649d7f1bcb3cb0c76cf225de95dc6aca3d4",
+      "live_sha256": "944c5984e6f9a17837c548942564f5a0ae378445a9b3c8d8d27af361aaf4a0a6",
+      "live_mtime": "2026-10-04T16:36:01.364175+00:00"
+    },
+    {
+      "path": "site/index.html",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "9ae86d9165f3f58c0ae52f8fb7ddd8c369208a3286d5c82388072db4b951cbbc",
+      "live_sha256": "580b1057fad31900b343228237dcc7a9792abf764f1f4dc8f22cafd1221019ae",
+      "live_mtime": "2026-10-04T15:53:56.096183+00:00"
+    },
+    {
+      "path": "site/public-content.test.mjs",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "e4eac9239361d48a326f6249690d832e3aa391c4cb0512a047ba8300c082bb2e",
+      "live_sha256": "7d3533a5262081da25ecb0116bed5807b3fb1b76337eded5308e51f254457919",
+      "live_mtime": "2026-10-04T16:36:18.976334+00:00"
+    },
+    {
+      "path": "site/src/shell/ShellApp.tsx",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "8830aea83f2a1cd7309971ed79e22433e972371c9cc72f9b79892fd306f1b417",
+      "live_sha256": "10fcca395478dc5dafe23b8c9080bbfbfc2267f6f72b26b712fdaa995e849deb",
+      "live_mtime": "2026-10-04T16:29:53.882620+00:00"
+    },
+    {
+      "path": "site/src/shell/ShellNav.tsx",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "ee2d5e9bbf98743fd4c5a1eeced33763bf55af844f5f5eb431b3e8e23ad13074",
+      "live_sha256": "145d61af39a1fd8b814a21840dac7f45e2a9b49749afb624b3a9a3a7f6e4ae24",
+      "live_mtime": "2026-10-04T16:30:26.251261+00:00"
+    },
+    {
+      "path": "site/src/shell/content.ts",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "48f925540796b77e44852c7677eb23e27cdd160c644093090bcc149c93768973",
+      "live_sha256": "c4e0ca08e63f97222ed3dc3e838bb11c22de7f2eaa72ad2fed24367ba80aceca",
+      "live_mtime": "2026-10-04T16:36:18.975377+00:00"
+    },
+    {
+      "path": "site/src/shell/public-entrance.css",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "e24a9536ca2a7ab59c7b34c18e61c6160f2da5e5065ccda3ccc1aef74f6584da",
+      "live_sha256": "7d011c54e2a0ca77dc0ccea30144a61342d6e8d106bff73f4f6854a1ad1203c3",
+      "live_mtime": "2026-10-04T16:30:26.251997+00:00"
+    },
+    {
+      "path": "site/src/shell/shell.css",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "76f5c7e4b3cdd32013d159d4fde5c4d1b5f63670ba71e64430a0b46b32de6a18",
+      "live_sha256": "ac72db2c789f9480046418f2af6e895b2ccac589ab215476318fee8ede75790a",
+      "live_mtime": "2026-10-04T16:30:26.251739+00:00"
+    },
+    {
+      "path": "site/tests/library-acceptance.py",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "819b90dec04bcd59bf1ab4221cfc087927e23f1a6cc8dc0c2c42a10bb9bd56c8",
+      "live_sha256": "803ed4daf45f1290155b056df3bbf966cfb3404337026097cb930b336fe15ed9",
+      "live_mtime": "2026-10-04T16:31:32.543428+00:00"
+    },
+    {
+      "path": "site/tests/library-regressions.py",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "e51c1501d0867de4457227efc6a2e6b9945fd3ba2b43fadfe1776d2718ebe4c1",
+      "live_sha256": "db0d5134a69114b3166e2d6ca4c0c59665066e1eb2dd6ea47c7db503228ef14f",
+      "live_mtime": "2026-10-04T16:31:32.545413+00:00"
+    },
+    {
+      "path": "site/tests/read-shell-source.mjs",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "0b085a9823b08f482de99dd03d2bbf80cecf091f287a94e8f887dcb1fff926ce",
+      "live_sha256": "665156147ef1f89f5a660dedbc7201fd68fc73cbcbfe18cd5b0e10db837090a7",
+      "live_mtime": "2026-10-04T15:54:24.416310+00:00"
+    },
+    {
+      "path": "site/tests/shell-v2-acceptance.py",
+      "published_basis": "cd0fcd3dbc6a5997109373c6359230922a6bbed4",
+      "published_sha256": "db6fadef7d6a51782b739f33f699fbf31a86c5c2b123f0b7cffc69783b296e09",
+      "live_sha256": "11a08da0977d22f0969db76fb8f843a2a56f52feba620634b7078421626f6a82",
+      "live_mtime": "2026-10-04T16:36:18.977943+00:00"
+    }
+  ],
+  "local_retained_capture": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/publication-integration-2026-10-04/.legacy-withheld-home-inputs",
+  "unpublished_code_capture": "3d6fbea3df2b2442a44074896040d162a72c79ea",
+  "standing": "No live source file was overwritten; these snapshots are continuity, not accepted copy."
+}

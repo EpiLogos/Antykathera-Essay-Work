@@ -1,0 +1,439 @@
+{
+  "status": "native-checks-passed; candidate-tree-prepared; ref-publication-separate",
+  "staging_parent": "6646676a91e33b33132c7dfb7a6ba46ad793f7c4",
+  "staging_parent_tree": "f4b1607e21b3f28a6fb58ac89874fa834b60f11e",
+  "reviewed_source_base": "27bcc5fcd915b3c6fc6b4c74f3ff29bfc2ad2d3e",
+  "payload_sha256": "10564ce77b40bc659fe91a309713ec39df24b6f3e963e917ab96172e9b04316f",
+  "authored_records": 11,
+  "preserved_preimages": 11,
+  "generating_source_hashes_checked": 14,
+  "strict_files": 11,
+  "strict_errors": 0,
+  "strict_review_candidates": 40,
+  "detector_tests": 17,
+  "links_checked": 143,
+  "generated_freshness": "all three native builders pass",
+  "generated_changes": 65,
+  "unexpected_mutations": [],
+  "protected_source_mutations": [],
+  "validation_scope": "Fresh scoped recovery, detector, link, builder and whitespace checks. No new full-suite execution or whole-field semantic acceptance is asserted.",
+  "historical_full_suite": "Retained FULL-SUITE.txt records 132 tests, one global quality-coverage failure and one AIKit-unavailable skip.",
+  "changed_records": [
+    {
+      "path": "submission-package/essay/section-rooms/01-differentiating-mind/ROOM.md",
+      "git_blob": "5ec24064cde1072589caa3859acd86866a18f9e4"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "git_blob": "faf4503a9ad8888de7d0f0f1ecae36e9fcd43986"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "git_blob": "5d820904d54bdfafe2950831860b32ae5b743232"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "git_blob": "bfdd12fde04c97ce23cb2745eb96216aabe862a7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "git_blob": "fb606eee6c0023be43e65afb8fcb182c308b73a2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "git_blob": "6a850326e65dbee06e3691116913d3879539f8b9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "git_blob": "9a78f18b004c74caeec05214c2b33b9eae404fd1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "git_blob": "67fd17aab4aae2c8a927df68c4162956217cc9e1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "git_blob": "bfa3aa9a6c6d46d35541c38b22b57cb18f3d0275"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "git_blob": "5189c17a21b5d3cfd0e2397d5594ce8f44fdbb59"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md",
+      "git_blob": "50254f307405d11032c0c501bdc64c567165c742"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/MOC.md",
+      "git_blob": "24bf972e93ad589ac6e60af7dba4fcb1817751e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/audit.json",
+      "git_blob": "702f9adc0bd03d9f96e8721e02aa48c94776d571"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/argument-shelf.md",
+      "git_blob": "fc24a138f6520a736bb252bf1b68f361383a724e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-aphorisms.md",
+      "git_blob": "d1f431490032494693337b38728d48a0a8123661"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-arguments.md",
+      "git_blob": "41f20e206ea0afdf0c1accd0f508fa5c66d5e2a1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-atlas.md",
+      "git_blob": "c846cd61b172a4549f4166a8123dcd5b14c4eccf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--developed-provenance.md",
+      "git_blob": "aeaed576a68a9d910c296ef4438d0460bc3d7401"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--reference-notes.md",
+      "git_blob": "dd3de6cdf3da3d5abbd63062450db61d7b8e2205"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts.md",
+      "git_blob": "0f1ac9b34e04a801d07e15322caa12c71420b487"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-conjugate.md",
+      "git_blob": "3cce11e740d2a72e78ba871d4ffed0aa922a93b4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dialogues.md",
+      "git_blob": "97e2843d5ff94acca3567231a2d2c85cf1f64791"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dossiers.md",
+      "git_blob": "91a2154d81d788f519aff48070ab9f41da6f7c24"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-etymologies.md",
+      "git_blob": "132f96b7b38da00793f095c2703ee6c1f03e6e8b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-figures.md",
+      "git_blob": "23b9e34e9e2d346fe9e0cbe83c7da8e82cc67afd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-histories.md",
+      "git_blob": "b6d08c3f4980b52d27b43d6aee33bfb3f6cf6646"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-lenses.md",
+      "git_blob": "5e3b80db51b19cf10352fca349a24e205bccdc94"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-maps.md",
+      "git_blob": "752d2c35e19908f5a2db29d3e667ff07947e2859"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-products.md",
+      "git_blob": "b7f61bcb40f61163201afc784bf44758ab0e6efd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-root.md",
+      "git_blob": "c932c0a0da58e1755cf5fa6fe9fabadf4b95b5d8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--analytic-philosophy.md",
+      "git_blob": "9e98a0875c221145786738c283249519eafda682"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--biblical-studies.md",
+      "git_blob": "b10f0c4f22b3a0e5d22282d94b30feae9836f035"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--chinese-philosophy.md",
+      "git_blob": "452bbde25036d8962bbfe68530bd50654bc888e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-philology.md",
+      "git_blob": "25471b5d3addcb1a2eb0c08180b9372b09bb8850"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-premodern-philosophy.md",
+      "git_blob": "cd0858da73df310c0ce3b052991c895b4fe93267"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--computer-science-ml.md",
+      "git_blob": "5aac3415479238eed520d376249164d3bb0bd4c6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--history-philosophy-of-science.md",
+      "git_blob": "fa7fd629f061bfb0148551b2e38387ded6cf0e35"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--indian-philosophy.md",
+      "git_blob": "945e925a4f41a795b5a236c9927d617248795fb0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--internal-corpus.md",
+      "git_blob": "1ec5b8fcc88c9df715f21b4fcfbbef1669c5a340"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-literary-studies.md",
+      "git_blob": "e7a810421c51bbf749cdd2a4a69846bf529cdfd5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-philology.md",
+      "git_blob": "9665205d5dd734e2dbd1c0e1410b835c5620e078"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--literature.md",
+      "git_blob": "afe15ad03ac25fb40fc4c4ab37854a00bc4d9420"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--mathematics-logic.md",
+      "git_blob": "f5f552216df1fcaf705dacb095c8d025345f78e4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--media-technology-philosophy.md",
+      "git_blob": "733778ed9ae0b32eda4b3e7b96c29895b1b0f6da"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--phenomenology-continental-philosophy.md",
+      "git_blob": "3e0aae7545b8cb3f4eeaa9985a07d7227579296a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--physics.md",
+      "git_blob": "79dc0d20a3e11ad9223ac27181c161d21848cf40"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--political-theory-institutions.md",
+      "git_blob": "e05f86e5292488635be3dbc80750d0f2b5eda398"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--process-systems-theory.md",
+      "git_blob": "5cbed86e5d1582eb9d9ab626dd6ea155f089b74e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--psychology.md",
+      "git_blob": "a7b456928a559d3ce44f022432f31d6471c20028"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--religion-theology.md",
+      "git_blob": "d7011e0fb1a757a1abcc3a74c0a8967c38411d7d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--root.md",
+      "git_blob": "f0d1ea84bd27f58f1d5eb194b7078f34211aace0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources.md",
+      "git_blob": "c228d8097da0a4e9d7f1f6c361a293e837fb8e2f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/essay.md",
+      "git_blob": "d82f3ffefa2b3f5ee64b890d1132b280f0d3c0a0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--computation.md",
+      "git_blob": "956dcae81bf3f2db0489f4c451e8420f1d92d5c7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--definition.md",
+      "git_blob": "debe60504eb0de9b7de07ec7b6b4fb4239d80216"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--dia-syn.md",
+      "git_blob": "9055eab25ff123f8af484d551bbea63a2684cb2e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--diagrams.md",
+      "git_blob": "93929a62ff01946714c0946c308872e2a8445fd8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--formal-neighbours.md",
+      "git_blob": "21b95f73a8ac3a1ba3b2fd7f3803dc79723a8f96"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--harmonics.md",
+      "git_blob": "e3f022a72d602d69c0a592c02a6769e81690d2c3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--mono-poly.md",
+      "git_blob": "f7f09b4d92287255da313b0093fafb3411d26f98"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--music.md",
+      "git_blob": "16331063a80cc38189a82b03656d858b9817efa9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--process.md",
+      "git_blob": "7d55ad828c1104b07a66114abb095d1336751d2d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--ql.md",
+      "git_blob": "a6bbc93b0f88239d4ee941eb8b276d0172992a1e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--quilt.md",
+      "git_blob": "e69211c6a924832afc50c1ce91e5cf40eccba7c9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--root.md",
+      "git_blob": "97b27f1e63c96a415a16c40d2d8c8c74c400f82d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--spanda.md",
+      "git_blob": "ecc7cf45a607129a6cc0c79794af41774208fa5f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--topology.md",
+      "git_blob": "efdd3f9e91a3158cc233a317097e0d9ba3ecc903"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme.md",
+      "git_blob": "408148b031b80168dc0a7b08fada2f5160942990"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/movements.md",
+      "git_blob": "56f019f239ee23bec23de872555f95c4e6bc8f88"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/mytheme.md",
+      "git_blob": "cb547b906ff64fab42057487a0f80c9cd88fe570"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/quilt.md",
+      "git_blob": "e1e9545bcd91f5038d29ec9758f3dcf078f2f5f0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/rooms.md",
+      "git_blob": "967b9868e2edfe347ef4e58c671bf856667bbeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/intents/symbolon-root.md",
+      "git_blob": "7ef4f80f0f5d01df78e07bf93bac041d3d255680"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/navigation/reader-audit.json",
+      "git_blob": "7c5379c934061b898be5d1a8ba45b0330dcde658"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "git_blob": "dfc129d4da967caa6d03a72d1b7a4808f4b3261b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "git_blob": "fbe547e33a69aab18ec1ae4f33a354692e64a375"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/BATCH-INTEGRITY.json",
+      "git_blob": "b8bd4abf1ddc8ce44137a3ab0dea36fdaa3bf760"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/BUILD-CHECKS.json",
+      "git_blob": "5781fa1c06219e1da931788b68360491b2c7e26e"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/DETECTOR-TESTS.txt",
+      "git_blob": "c630e06e35e383e72112d67e16beaa1eed884b4d"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/EFFECTS-REENTRY.json",
+      "git_blob": "495dc23856975ee5940e70de089be284b06a9a02"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/FULL-SUITE-before-heading-alignment.exit",
+      "git_blob": "d00491fd7e5bb6fa28c517a0bb32b8b506539d4d"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/FULL-SUITE-before-heading-alignment.txt",
+      "git_blob": "defede6fee1a18160b59aaab3ec31848315d590b"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/FULL-SUITE.exit",
+      "git_blob": "d00491fd7e5bb6fa28c517a0bb32b8b506539d4d"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/FULL-SUITE.txt",
+      "git_blob": "41b5f5eae07ab8829448bc7f65435187ba3e9241"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/LINK-CHECK-DRAFT.json",
+      "git_blob": "39e0c7190398f75681358c0f5d7ce9398868512a"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/LINK-CHECK.json",
+      "git_blob": "f2d904527fd305f44b9dcf9a77251b8eb1c98f07"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/PREIMAGES.json",
+      "git_blob": "df1b2319fc651b5f7a2d06af434fe26a5ae1cde5"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/QUALIFICATION-REVIEW.json",
+      "git_blob": "8a2d10c5ef752d6bbbcf377aed76c553ecc9e661"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/README.md",
+      "git_blob": "dfe2c28d8d688603f95e15e57703eeadef1a4031"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/RECOVERY-NOTE.md",
+      "git_blob": "271ab5fdc4f9903d9a7e8a1ff287c6d9d1e5f7c4"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/SOURCE-READINGS.json",
+      "git_blob": "7ab653f7052bfdb4ac53025f7041495ea16ce8ab"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/STRICT-AUDIT.json",
+      "git_blob": "d7f0c02a67424e58603e0bec9bcedf7c2d4c5433"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/STRICT-DRAFT.json",
+      "git_blob": "86517e75e40bd444b243a8d18cbd719903f0598e"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/09-s0-p2-vikalpa-samkalpa.md.txt.gz",
+      "git_blob": "de39f6d52cb26ec01dd79b7d270772708d9c56b6"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.txt.gz",
+      "git_blob": "7df79f1c9a619bfecdf9a7dbadd40585c6c2eb54"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/A31-Deferential-Intelligence.md.txt.gz",
+      "git_blob": "34e8af18f56dfae17bc1375b4ae3788f449a78a9"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/C12-Script-Frozen-Conditioned-Will.md.txt.gz",
+      "git_blob": "4dd2ebd49c6df1d726402f43459da5521a1b639b"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/C17-Vikalpa-Samkalpa.md.txt.gz",
+      "git_blob": "c25f851382da76e2b2304e290908b68ac446dde3"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/C47-Deferential-Intelligence.md.txt.gz",
+      "git_blob": "20a56097bd5aa8506a34be3e19f9aecf037b68a5"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/WHOLE-FIELD.md.txt.gz",
+      "git_blob": "aac94d8ee25a790722fec4affc620bc593a946bc"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/mono-poly-two-ones.md.txt.gz",
+      "git_blob": "10f0d5ac16c70bbef48621e00d58283ec7354f50"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/trust-faith-formal-limit.md.txt.gz",
+      "git_blob": "b0e9f43be13426c66039fe0f940bdf772493d7e0"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/vikalpa-samkalpa.md.txt.gz",
+      "git_blob": "54538c0f8e8a2ba44fec808b6332a20a85850a22"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/formation-return-2026-09-27/before/zero-subject-advent.md.txt.gz",
+      "git_blob": "7a7b68fae02352022a41fc8768943ca305aff2d8"
+    }
+  ]
+}

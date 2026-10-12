@@ -1,0 +1,76 @@
+{
+  "base_commit": "b6b220850be6ca088d1b2a41ce0dde7ebb123bbb",
+  "records": [
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "preimage_sha256": "89a4f3873b83b94146b0063ff51ae202192dc88f611894e124a3f9b532c36f59",
+      "postimage_sha256": "1e9a4ad47f084e729155fcfc2e08acf9725dee094e5d0a5f660363446da6e40e",
+      "pre_edit_recovery": "RECOVERY-NOTE.md",
+      "operation_ledger": "RECORD-RECOVERY-LEDGER.md",
+      "source_coverage": "SOURCE-READINGS.json",
+      "cold_review": "COLD-REVIEW.md",
+      "status": "stable for parent integration; not worker Git publication"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "preimage_sha256": "736781a36f8f0f698d8d0d5d10a67833824626abdcd89673127c3e1dc943591d",
+      "postimage_sha256": "a320666260589b486b6f830a515baf5db2717d447f31c87a34e206cf1f7630ea",
+      "pre_edit_recovery": "RECOVERY-NOTE.md",
+      "operation_ledger": "RECORD-RECOVERY-LEDGER.md",
+      "source_coverage": "SOURCE-READINGS.json",
+      "cold_review": "COLD-REVIEW.md",
+      "status": "stable for parent integration; not worker Git publication"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+      "preimage_sha256": "1401f67c11c984a126e6542bf314526828cabf4b3666be3ddeb0be669d05ba2e",
+      "postimage_sha256": "ebaec27e34d52f52373ebf6987a5a881079b7eefa8fc942803988defb281d27e",
+      "pre_edit_recovery": "RECOVERY-NOTE.md",
+      "operation_ledger": "RECORD-RECOVERY-LEDGER.md",
+      "source_coverage": "SOURCE-READINGS.json",
+      "cold_review": "COLD-REVIEW.md",
+      "status": "stable for parent integration; not worker Git publication"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "preimage_sha256": "5f16eb7a1bcd821cd7ec886783b34d94021f605bd048b691da98ea70a7395291",
+      "postimage_sha256": "eab3fa301b61d94380eee2d3e725732db85f18086cee4996816117b32df21216",
+      "pre_edit_recovery": "RECOVERY-NOTE.md",
+      "operation_ledger": "RECORD-RECOVERY-LEDGER.md",
+      "source_coverage": "SOURCE-READINGS.json",
+      "cold_review": "COLD-REVIEW.md",
+      "status": "stable for parent integration; not worker Git publication"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "preimage_sha256": "c972c1ca063731e65948e2e17b6d1ddca8711d47b0ed4ab95da07597819f2fc7",
+      "postimage_sha256": "b79faecfee117cbd075d482683be7d7ed250959e1ac52b9a5e1c976be8addf93",
+      "pre_edit_recovery": "RECOVERY-NOTE.md",
+      "operation_ledger": "RECORD-RECOVERY-LEDGER.md",
+      "source_coverage": "SOURCE-READINGS.json",
+      "cold_review": "COLD-REVIEW.md",
+      "status": "stable for parent integration; not worker Git publication"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+      "preimage_sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139",
+      "postimage_sha256": "db68a0609747d51b1fdacb83d09ebe4b2125d61aafc4c0eefec66e80ed2dc303",
+      "pre_edit_recovery": "RECOVERY-NOTE.md",
+      "operation_ledger": "RECORD-RECOVERY-LEDGER.md",
+      "source_coverage": "SOURCE-READINGS.json",
+      "cold_review": "COLD-REVIEW.md",
+      "status": "stable for parent integration; not worker Git publication"
+    }
+  ],
+  "hard_error_gate": {
+    "scope": "four detector-supported public carriers, sources excluded by native detector",
+    "files": 4,
+    "errors": 0,
+    "review_candidates": 48,
+    "dispositions": "REVIEW-CANDIDATE-DISPOSITIONS.json"
+  },
+  "source_integrity": "SOURCE-INTEGRITY.json",
+  "effects": "DOWNSTREAM-REENTRY.json",
+  "pause": "No new canonical writes until parent completes stable first packet publication; read-only next generating comparisons continue.",
+  "protected_scope": "no raw/NOTES/HISTORY/movement/manuscript/poetry/test/tool/builder change by worker"
+}

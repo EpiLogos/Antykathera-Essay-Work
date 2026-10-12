@@ -1,6 +1,6 @@
 # Submission support
 
-This directory is a sibling support surface to the published [`symbolon/`](../symbolon/README.md) vault. It is not a container around the ontology and it does not carry a second copy of the essay.
+This directory is a sibling support surface to the published [`symbolon/`](essay/symbolon/README.md) vault. It is not a container around the ontology and it does not carry a second copy of the essay.
 
 It contains the submission manifest, reader-companion package, optional Epi-Card work, validation and release material, and superseded design provenance. [`MANIFEST.json`](MANIFEST.json) records the actual status and repository-root paths of those artifacts.
 

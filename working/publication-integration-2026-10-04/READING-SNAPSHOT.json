@@ -1,0 +1,4475 @@
+{
+  "schema": "essay.curated-reading-snapshot/v1",
+  "canonical_main": "44e4da181e9795ede293b3004c2293bbf7ad73e6",
+  "input_sha256": "807b776ed061abc919a89b66321658d4cb568bc3d8c40f4f856e23d19c9e2bc3",
+  "foundation_slug": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0177fe34df476d8e2a504f5f5f129e7d12cc3940fd121437370cd35a3063a665",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md",
+      "sha256": "95c9c631b943758a497194acd1712a0a452fe06a026129d3667e5b7bf09d3f37",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "sha256": "53edc623953730ae95e6d36d101c7fb8719f766b24628d10db3c0e44ec932ee0",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+      "sha256": "36e3857cd0fa0a8d3287c5e14de3315a60bd9e234cefb2fe9d621ff857d0f344",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "sha256": "e678e663eae1a132d93b93179acdbf7e52e7d919f6d9cac05ccee4ac087a2479",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "sha256": "02779fb48584d2c8aaf59bcaf68eb1d09535ffa33254bb4e03399b613aa1ff9e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+      "sha256": "67c3c6b96d433a7caa239c2a3919b13d3bdddb3a57c155028d550f9a1b616abc",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "0fc6d41040eb98e62c2438b3e0f8cad5e698f104e086f8af8e7eceaac0258a3b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/READING-00-integral-threshold.md",
+      "sha256": "580a43a6f82d18a0fcc504869a95791bcd660141cf13448cb2fa997e7da8110f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/00-integral-threshold/ROOM-00-integral-threshold.md",
+      "sha256": "b8c09cc0d02a1b16f00c402586e38537ca69c6daede60da1ce1931b566399f2a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md",
+      "sha256": "72d5ab3ed3a3de5df91348cd71ccb0bee6e1e3a7ed29f967557888ac8dded9b8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+      "sha256": "4ef48bb603824132c219bf222ef782fe04f6468beee081789f3f1d1bac66b138",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "sha256": "4dc618bafeefeaf514eb106c01a3a07806fc7072334c79f6e21c75fecdf6cf41",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "sha256": "f595b3d8c4cde3e3024cd3bbc5725542ef9b9ef8eb46fb0e22eafb2f81c74c88",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/movements/11-s0-p4-tattvic-compression.md",
+      "sha256": "e113e0faf04bce2d425c83d86cc5b618feec50b1800e2c20fe2fba2082cdd9ef",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+      "sha256": "d3e7f561cd1436756c160531038d0e8f218eb60ec3d254bf91be563106ae7cea",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "830cc48aaf736cd8f2c449329fb9810c3e1e3c29c9a4d709716c1256f353fe75",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/01-differentiating-mind/ROOM-01-differentiating-mind.md",
+      "sha256": "9ce297715cf16f750e395fb2dcf7385fef53969912785e2b73f07e68a177cce1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md",
+      "sha256": "a74e707261fadd6b2dc9d0c5b8493d31cb12490a69c04a42b20b316151c387e7",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "sha256": "0ccc15766f8f6c70be0c1a74ee189df357b7c0b5c92608fed6c918572e1259be",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md",
+      "sha256": "ee15bf5c7f40c1ad4c8a1b019a86dbcc3bb19315ee0b39b535019db8e7a0612b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md",
+      "sha256": "cbee373297a1c1c9a35ce236215d97bc77c4c6c1b236da076a4210b895cd6c5d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "sha256": "ddfd2f73c1ed48ed9c403a796f8cf7e5c71c39e507aedf1d428b9848d5c02a02",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+      "sha256": "71f7941a0ae16a92ed4ada7dc188b9df0036ad463bd151a335851e6f1f0feff9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "b37b75355e1b9a525fb760178db8185c8a6354ce90a1f851d2bbb0ba5e8b2f3d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/READING-02-return-of-zero.md",
+      "sha256": "bf0ac51cb8d156b98499d1e81b2878652cdf8df91b166ba7f8c59bd4e8aedf07",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/02-return-of-zero/ROOM-02-return-of-zero.md",
+      "sha256": "e135fc9fa1f99f9ee308a274cdff539c30446d5456461fea5b8e64cbd4ed48b1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+      "sha256": "52ff6ffcb3e952a939aa4fedfef1ceeae36bedb778c269b197d7b423ff86fdd6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "sha256": "34d6ccdbcf694e259adb32216a2c027e2e5c35bc544dbcb336c92bfd3572b41f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "sha256": "e3063157144c5b52982e373ad3ac488cf918f1476fadcab73e47b5c3fb6dda2c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "sha256": "7d2fbb2aec979045b761967d2a18a6fb5f5071d883b82abf8f4471cbfc91a4fa",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+      "sha256": "fb413a1ca8761e697ed318d29236d3779491950f10930efa1360f8ffe0993c37",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "sha256": "1616501759e14f910da4f4439e6af93243fb569bc6328778c579dbac726c800f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "462a782c32e430c163b185c8f99c9fe3a79db61aff525e8fee2f51ca30e5bf38",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/03-two-logics/ROOM-03-two-logics.md",
+      "sha256": "16e06f1e87136511c504461691230493dc0c79c7ead86f693d9599fc94e70c02",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "sha256": "de7c813aeb8c0e6f93199598455c78d2968d0b5c3eb0a11885ffb99176012cd1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "sha256": "243e15ea66f62a42ab510e349465606d4cf419eb218d09146f0aac2b731925a0",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "sha256": "e6186d4ec9e52c955fb31ab40482423fc39533628e75d33132ff58aa16567965",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "sha256": "ddd64d90938d15cc3cae7fce11c601ea2a03f82b47a5e4f11fc545f4bd252cd3",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "sha256": "bdf53cf7960876175b0e8eef6b5826e3ae10b77626c219fccbc60adff52e4f59",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "sha256": "75fb47199b204f3a28602031b37af610c9ecae18cb7bf750a56b1e34dd64bea9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "034c8557116d0cf1c7d144d86aedbc58a1ed411db83cb0633591c07a358b96ba",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/04-mathematical-substrate/ROOM-04-mathematical-substrate.md",
+      "sha256": "13cbefb39d4d52e941740581965f3fde403208372d8cd9181f6a19bd17580d0d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "sha256": "3620e283866a0ba7cdaedea86e27def1d59579eadb6994190a82f539e54a69cb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md",
+      "sha256": "2f75a0edfb0835445a7d742d2b72749574f178609dcdd492d7e7cf24cedcaba8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "sha256": "8a5def317b2fbd154d936b5b83613a81f2e24b6903f4a055a96e1f50e7e927e3",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+      "sha256": "87e92aaba603d409016ceea189913166522479b9498f08457bc5e952c99c9756",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "sha256": "5a6c8ea6bdc7d27714db00121af6b2e2507d6c7aa7d6222a54e697f6b9b3aeb2",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+      "sha256": "feb24065f11b446db7c28cca765e260fc7f068a0a4e511388f8302e698e4d62c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "aabe9ed96205ec5ba0db590e38737020511ab788406fd583bd75bb32b0b8f4c4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/05-psychoid-flowering/ROOM-05-psychoid-flowering.md",
+      "sha256": "2cf4c11fdf64582fddad5fbd5994ea6efedc8c53811fac78b0c47aa555ba7662",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+      "sha256": "8355950cd5c062555e83c99f36ec997948b201b233e7563fa0a1f07e88bf79f2",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "sha256": "5a8453c0518c4fc722f4f37cb558f57216b409dbca8d389ffed168b9d3b42ca1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "sha256": "2c53c2618b19082a7ddb9d736d14d308816e10fb98523162a5fb41f910e71cae",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "sha256": "2272479cb2250f9cda2545b5fc5d19f9226bfdabb1ba3fee0a4f964d3f6ef347",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "sha256": "ae36b473730a1c6b82bd25b289c2c16d8b81c026de30a01e146c58ec4100f003",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "sha256": "a7595a71f38e229bf2a89dbd82386d67ac32690c174b2a2738d169560c79d23a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "9343dad3c00e12953272041bd7c70f5474b540d2cab034d40e4ccb6bb6c0246d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/06-objective-internality/ROOM-06-objective-internality.md",
+      "sha256": "2287a75870eb98f620f323c3cde5564638229827e4aa2b52ec27dd54cad628e5",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+      "sha256": "ffe72598256afd6160cee9c645e8e71915f4a07106463259abc42ed08b8aef81",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "sha256": "18c98b34bfc8a5c4e0e5d2bd29ace34645effdcb9fcfd8b04ad93f3074d00da5",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "sha256": "527649173637e0fd764a11d4d5272be4643108d928bdaed74fb586ee3acc5df8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "sha256": "38c1d86fee3a8c420d88b7c7cf24e0183b0e4871c5055d18e0a271d9ce75d7d9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "sha256": "5102dd0294ec73267bd4f3a367a58eb58ff3d8e569fe2bc43113fc782ddbae5f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "sha256": "ce415c53af3e8d81c91a5a20a7fff28154f95703020716852add8cb24ff006d6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/P1-CANONICAL-ALIGNMENT.md",
+      "sha256": "2659181e8477d673eff0fe88ca957a9f1655dd483e9c073386f21f6dc159ffe1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/07-instrument-returns/ROOM-07-instrument-returns.md",
+      "sha256": "c7bc7d81e99e993d9392d5894c10a6ff9056baf7d825282dd9388a6a1133622c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "749d2358443da16a9eb76fe44005b80fe92cbd780169e40fb368a9f501cb6321",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "sha256": "33cc83226682c08b42ab3805c109c7451c5570524454aff8c4020d1a88c3a1dc",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "8d745a2ac6e9b9b22c5cc1734f31ccf690e7d23ca3e4356b25d24440115228c4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "64bf768747ffd4d3d3a4eacf36a4959eba408ee3b5167e4650049316667d0176",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A05-Prakasa-Vimarsa.md",
+      "sha256": "ca92f1c4f4516156a7614a74f206ba06f9b8f49cfdb442051f38d9e80d6327c4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A06-Vak.md",
+      "sha256": "8d1af138b3c21411e3538ac4b876803e52cd07e740b0da114efd143dab6c1abd",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "sha256": "7ae192e619bc85a535761e03b603f1eacf0e0b1ca10cace740721389a35a97d4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "sha256": "9926c34a9a65df45492aeb27a7fbf9b26880aba986dd36d0eba3181ffe67c3ea",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "dd8f41a359c0e1128c674359f42049352862b6d85242a51f0e27de28aef19b29",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A10-Advent-of-Zero.md",
+      "sha256": "06d59e2bc66546c724797b166e14fd12b0a7125d461860a8fd8eb7d77aa4941c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "3675edfd51e5895eb12e7c9bca00391fa1d63c29f0b4bfb97d82c97bc4a72966",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "b1b2603647a82bb6ff8b8b968098617a3a71575ba013143c6c9e84ab3f4bc534",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "2aaaca68e2b1a957a94a67ade05d7a75b8c5e0f97e1d4e239b474779537a8b7c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "ed6f66be85c65976415eba83bd3a16baa36f686c8c222b461e37ab7bdfcbc78b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "d17b542ac1bf1263359f066ca730d78ba1d7685f2e8fdbd7b14cdda2522f24a3",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "cdc6de84c48394ab442682a024bdfc92098f59d7911686710782df72896ef832",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "8f3a7c23764d9378311cc5dae08cb6b264a9fddfe7f742de5e4d14a908f7fac8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "48a7d8b50aceea79301e42aaa4c9cc681007075b2f8f5930dee515a8b4ea66f1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "6a0cdf18ba4390f5826e571719e007b654a5f3e1135de2c825ebe361e895a995",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "7a7b2e06d2f10e187ff317428bd92dd114bf9a3daa54a319613d4ed598aba98a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A21-Individuation-Recognition.md",
+      "sha256": "6282b3064ac6968760811dc404faee5c7e0927fcd8336736fd49da2977c7d9bb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "7d4f2ebfecf2452712ca7c9adf9bf12620341903a9d0958669f3ae97336e9777",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "7b51acfcf833ea755b678328f515afbd4a01a368100e90a46accbafe8437a88e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "9e58b3daeb52d4d228572b75def9a25f32a7c4dbc859a8d04350dacf7384c649",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "424103bbd896d1ac3fa4c990306f6f2e2fc708933e37a70306b53ec6b9c5e2e7",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "d9f6d37faafdcac6994e5b71b851cecb543d9c61d274c759d44046a8e4162ae9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "e321545aae4c8e7d8a1489b4cc56a033cebbb7d721639c017d0d1996e8dd15db",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "7c22951668fc8fe4dce2682c7efc48f2b5f71795dbcbbf0ea559ad214c8dcfa4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "af93124ddfabe3cae89886540e39d885b1a6381f5841ea4654ef7e60ac308fe6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "6bba7aff1dc4d5de1ee0046a236f301fcb5fc273256816721c925cc92c3df42f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "2ee7d4007484e36e295d64efd43dc642b3de94f3d64ee0737a903cc282d40b05",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "cb27220bb30ff0416d1bfe4e59cf8fb5139e1f3423461eded9d7045f6dd3b85e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "64350f380666189099812ebb375e29a62f0d60208e6476951ce53f79d10b6a2e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "8982dd35a6129eaad58a4395399b96dda29dd45ed7ab5697d45d350cbdf5fd01",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "4b4d54eca313f3b9a88dd6dcc7556a0d34035883ca1fde4dff4c555fcba05499",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "2e1add4ce164cac52a3cf0aea69fdb0910ce83efba0a9e6f55ad62317567f1ae",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/agentworld.md",
+      "sha256": "4793ddb39a2d2db269c52fb00e2739a24d200daa17db60c2f85991107565257b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/anthropomorphization.md",
+      "sha256": "a0760da200e41793a7cd4f628ce635f8eba31b6dcd846b89a1e332162030ccca",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/apoha.md",
+      "sha256": "328489819da082f6712120de164f33c1e3ce98ba7b5198eb058daaff15cba9d8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/bimba-pratibimba.md",
+      "sha256": "a92a1181bed2d84ad65276243ffa9a747ced6c7f93107a95d70dd14b0a866569",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C01-Subject-Defined-Indefinability.md",
+      "sha256": "bc60dbe87148e3b4295da67ed7f6d4501c6a928850f23e4454186f28d5051d79",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C02-Faithful-Definition.md",
+      "sha256": "4b08a37eb25a86bb7ffb7aa0cd161070d86280129d3e41e008ec331a7c3af3f0",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C03-Determination.md",
+      "sha256": "5d2f34e4a003531cc392364343af15de05c505bf81ce71edf04368bfc6ad782c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C04-Formal-Limit.md",
+      "sha256": "bfa390f0a038c324e5f02a2b1249bc6a6bc52f37f6eedaffd5e36bcb310c0eb5",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C05-Immutable-Gap.md",
+      "sha256": "d4a8faa625a735e24c1468a82a2e20e563a98c472b41a3ea92ada8e9074e9066",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C06-Copula-Identification-with-Difference.md",
+      "sha256": "3af83a80f90f869797c082455683639d34d8b9d847401437ce8619d19e69d368",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C07-Conditions-of-Worldhood.md",
+      "sha256": "046770c77b4b988fad2d42f51c24612bb91d4a7317984ea120c4687050c2b2f9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C08-Context-Context-Frame.md",
+      "sha256": "9cdfafabb4c2ba0389bef0af65191c64f0e6a24cec73c0969b7fead5901b406d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C09-Diaphaneity.md",
+      "sha256": "95e4df5bd1e61e9efdc41668cbf9602a9ae1171311c615e26ddcb8fe7e43f628",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C10-Mediation-Pramana.md",
+      "sha256": "425229cb6001a04c25720fb397838be5d2221b7262bee0d432333be6eb3f79b4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C11-Quaternal-Logic.md",
+      "sha256": "d79554e36bfc85942388a00ccd452e57036c60d613a25390caf2791628777692",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "sha256": "31e959a66c8fd42dc34001aecca21221e61f67eb541146ba5baf5d5c87591099",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C13-Prakasa-Vimarsa.md",
+      "sha256": "f81fea579ebb38191863e4411e3bb851dfadadf8fe35e874a3d649ca2416f807",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C14-Maya-Operative-Measure.md",
+      "sha256": "a6a192e8362b27b5740dc7934d2fe8ad783662573266f65cde553dd17c251ee1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "sha256": "16751a45802cadd08dddf8586f3532ab1853c5dae7f08b70103e4cbe4d2f5a25",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "sha256": "6e4b0cc038221386cb637172aa36168291f6ab50396dd67101bba944fccd6127",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C17-Vikalpa-Samkalpa.md",
+      "sha256": "00bea8df82d5ca0f0d763d06b0a425837fe0980aa6d814d9a4cc3a1657844afe",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C18-Apoha.md",
+      "sha256": "61e0a844845817077bb94bf56b921dd5d9d00ab396f189e8015842afd4bc7159",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C19-Pratyabhijna-Recognition.md",
+      "sha256": "55c54b95adb8ef1080d8fa51377523a29050973e63b1baec7bc76cb7732bf19a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C20-Arche-Topos.md",
+      "sha256": "c6efb9912c7b312974d2f66873ce990c9e46af913ae7b86ae3e3a86e63742bf3",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "584655a03da8dff62266079db821dde59a1bcacf7b90e9555ec510709f7668e0",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C22-Counterfeit-Symbolon.md",
+      "sha256": "ec39dfb831da8d66fc1823dcf15fa555d27892e12a85f269c759737678f28094",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C23-Severance.md",
+      "sha256": "6918b65c625f653835b701ccac6ce73dd18ca37ee6ded8cdcfe43a5e0390295d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C24-Fusion.md",
+      "sha256": "6e72d27be391251dd6c742c1b2a306dd8cedea1a4455ac2702d6167461ce6966",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C25-Counterfeit-Gathering.md",
+      "sha256": "ad5708951d5415951f26ac9bee065319307c78b6a648e9d77694ed21ed446d68",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C26-Monoisation-Counter-Generation.md",
+      "sha256": "8e68d342ae547a297fa3e14ac7467d1e91ef5191dfa32008c88e05a8b2c4241b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "1b7d2855985e54b00adf6b4a913f6c49ec98eae45dd5d147782354f2089d09ff",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C28-Covenant-Primary-Arbitration.md",
+      "sha256": "dd2f33358d118cc50fab21822ece495b2caa4f7c7517a681580418493ddc6dbb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "sha256": "5bee518616b9f6ac9a3dba6925423694e535e999441d070ff211e2a80c1650f2",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C30-Psychoid-Number.md",
+      "sha256": "dfc5efe246bdc5bc097e3bcc368b43b9881650ff856bce83cb7464c1b72a65fb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C31-Complex.md",
+      "sha256": "b2c1142693b9320a3f2441a96e65ad53961922285a9c2e3605a592c432f938ad",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C32-Archetype.md",
+      "sha256": "992c6b57cfc6037efadb93cef2b1ea22c0056fce3aa7e5e6c49e1f97c881a39e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C33-Image-Valuation.md",
+      "sha256": "e6160a3b31ff295b69074930214a95c84fe271d6ced9fef99b5519acaac495e4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C34-Individuation.md",
+      "sha256": "6acd0448ff61be7a3d8ca85baa4911bafac1b9efde24e52b842c1e587cf9deeb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "sha256": "3d9dea009929e6fce15cc543c9e70fc444e50cb6aeb41f345d4f6ad173dd8bb4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C36-Complexio-Oppositorum.md",
+      "sha256": "eeb40a846ec20f91686eff6b05951b4dff64720b7861734426b22329f5bba4e8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C37-World-Picture-to-World-Atlas.md",
+      "sha256": "cb76310c3d92cda9d0c99e2427398b207b66e8f3c21fb99eb13f6ac839b4d6ae",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "68cbd001b525a440f289e163faaab3aa07070bb5ee552795d611f5e05f1ab8a2",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C39-Meta-Epistemic-Framework.md",
+      "sha256": "abcba359b6905338ad8dda36897698aa1201cf5ae11da6eb8e273ac5f120acfb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "68b14224efbba6523c30d89f1ad9c512462b19125e67762378cd3be064b705ec",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C41-Objective-Internality.md",
+      "sha256": "00d002ca35bb7f5c72207369d872de3bbb2265c36a6c285d7a38af40ba3c9912",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C42-Objective-Co-Internality.md",
+      "sha256": "963eba902251dbf8a48fe43154a68c637c738e4d73c1237cf5c392fbc73b3800",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C43-Computational-Vimarsa.md",
+      "sha256": "d03478b2d6e6494f5ebf1a8afc4ab3ad509920dfaf9c26d6cf817f85bfd05594",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C44-Prompt-Thrownness.md",
+      "sha256": "dc646719689c3fe7e782d1a68285047f9b1e8baeaac8e590914f57b3630d23b9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C45-Operational-Parity.md",
+      "sha256": "85ea1d82dd04c566d6aae917b585bd701e02053e4cf9b9cd6eeb986d87fff336",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C46-Epistemic-Cultivation.md",
+      "sha256": "a10ba4dd0a7af5177dac76ee90a705a99f81b295e443dab842724bd3a0257f09",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "935a121108d8dce11b00af4fa405e86f1d647273e2e585f98f995000c4650fbb",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "sha256": "beae8bc75d185452568aeb63bda4dbf18d8f1440e2c6766744e2a968948bbfe3",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "d21698f5b76700062c1521da459e66e32007f0cc16f076484fcb446c67323a69",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C50-Dia-Syn.md",
+      "sha256": "24bd82e4a808e9a97baa9c676286a66ac5d9c2818d4fc0cfe0c82c20f6dca3dc",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C51-Logos-Epi-Logos.md",
+      "sha256": "86f48c1ef66cac461088e68853af0d40cd4e58cd251d7131a079b83573bd41dd",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "sha256": "618c5a9d6c8093c28ee1e1959dd1d42c942aefb069e01bb687ae6e866d8d7420",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "93e253a0e5388f9c9acea6356db08e91828f87436e88197d1770ca44632b92f6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C54-Commons-Non-Monopoly.md",
+      "sha256": "9a63c7d70ea8d717dcc4fe63e8b8598a4de0f841b43c084806f1c14d61517e1e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "8437e92035569a17d5c2ecbf0980783e72d1f2d61f69186c19065b032a77e4e9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "sha256": "873607a61c72d262c30e8a772d531075dc47cae31d6598f9c3c151b72be42e51",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C57-Agentworld.md",
+      "sha256": "de72e2b914abcabca02670dca5fe4f7f63bbf68396cb1565c99f9f08010664ce",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C58-Anthropomorphization.md",
+      "sha256": "942177fc21602295cb9b45a7bfe1ad8d27a0ad46c39f50a3a0bf4be399756c8a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "sha256": "7afcad5a2d1bdb07de5cc6c5139670ede61880442a7bf21f9b39287622870c1d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C60-Idealism-Order-of-Dependence.md",
+      "sha256": "98eb3830d7976b20d9adb8e2e5b71fef0e275066d06823eb0a4e6ab2b39c791b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "sha256": "0bbfe224a647d74bc4e17219a3a3f442c2d3d175fb070495cbded8c8bfeb5f74",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C62-Planetary-Computation.md",
+      "sha256": "3e9206397fe4728b02c8521f69b0cc0027782fa91aa35b2336cffb1dcdd31ca8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "sha256": "075500bd66e6696d82bf7d34648b3b6c3898834d1dbb8d509b0a6ccefa13162c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "fdb4ca0cc8f1b7f0fc0e264afdb30690d03ecb9e8508c8981feaac9997a37c0f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/CANONICAL-INDEX.md",
+      "sha256": "f9b452d1a89cad0a865d9caa3e1fc8a5ffb8b7d8b092b4f581bec365fdc33c9e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/centaur-societies.md",
+      "sha256": "572091074431c65c2d34561b254b2db83afd008b7981e7070cb9abe8e8872bff",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/compassion-as-sensitivity-to-origins.md",
+      "sha256": "4e01e0245ef1bb5aa95996cd371261c5241de98b6e3deec0fc18e805b0f14088",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/counterfeit-gathering.md",
+      "sha256": "6838f2cec86a7c8c6ab96b52b85b46dd7f9decdebd9624f5513a7bc634758880",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/diaphaneity.md",
+      "sha256": "cd403d858ffaaa4c5cefd873d98573a72240eae7e1b0dae0d51b04936f4c7af1",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/dimensional-reframing-at-zero-and-infinity.md",
+      "sha256": "6e69cf554a3f39e3e7b4adc76dac1187c61d4375dd1ec7e908355de8899020de",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/fusion-as-syns-shadow.md",
+      "sha256": "8cd3ddfb4352154b9e312cd2e945b40ee266d06a845844344ba49dd67260d1a2",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/index.md",
+      "sha256": "4bd7fab715a8df2cfc269727d4b544a2a7069452e6d915ab512e20ff86415aaf",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/j-space.md",
+      "sha256": "8117a761caff275a72246be2520d5d4730472416b0e7ce53db6fa12de1c0ebd7",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/mathematical-artistic-image-register.md",
+      "sha256": "64ffc923aae91dfdb3a7b0eb08ccb9290cef5f49e1b7ddd4107e0d30407587aa",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/parasociety.md",
+      "sha256": "a057a4d63d0dea691e07a5268c91096df074d0d68683489634c7e0c059603107",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/planetary-computation.md",
+      "sha256": "ecea9ad6c90e6045b5d85086f1dd057667bb7e40682ecfa1011369509bd6fca7",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/prompt-thrownness.md",
+      "sha256": "55ebcaafa05b4a68785ed02eb0b630a208ffe0d7062dbdefc2e907aa458580b7",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/psychoid-number.md",
+      "sha256": "6abdc0aadd47a63977f4636c216c7ea2e3f36d6b9d693743eb14f5dd11c09e47",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/README.md",
+      "sha256": "060c07f7bc232ee9bb169b813d13b76e1955103ec0099f706e1dc0d5e2bd2d03",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/register-grammar.md",
+      "sha256": "ba3fa2a23f25671d99797fd9765d28c4a6d1943a2073bc9f90a8296499601ad0",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/simulation.md",
+      "sha256": "ef8ad216c2e9b961ddde7d5dcd381250731d62ea59e70a59a5095cf7c6bfd6d4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/the-slash.md",
+      "sha256": "9c7507f497278e08b78d144d2d6792b2598c0832bbdc60aca324337b0f638a50",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/vikalpa-samkalpa.md",
+      "sha256": "330aaf89bb84305b890e29639fb5f842cca859aad583abe0411cb52857ed510e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/world-picture-to-world-atlas.md",
+      "sha256": "75349f00c93730fcc279f135a827c6a0b88fe2062b8b77301977ef3fcf628886",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/concepts/zero.md",
+      "sha256": "88f39c8664cbab5147a8f2339fa2e15956cfc85bd3ca3eef45610a432d70209a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+      "sha256": "b7586c5e9ecf16f31178061d04a94bfa81e8ffe956942cc648ca5d22047bfc03",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "sha256": "8803c5cc7d38e1765a286c351a4ee7a85c82efe9f925ee3f1545255361126c96",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "sha256": "bb65356f95f33dc26484554c9fadfbfc9e71e9198793fd5a954854ebf066429f",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A04-prime-The-Mask-as-Document.md",
+      "sha256": "12bcd367b8361251fda8899af49d4b8f67390e026b0ae937b4588728033c89f4",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A05-prime-Lights-Camera-Action.md",
+      "sha256": "88c3b01c8709e200a3b8de003b001e0d2502479bb4b41533dd020c199ab69807",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+      "sha256": "5099b6c1ba28a64d558d2f662fe740caeda23a0167647374c86fdcc779bab28b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+      "sha256": "a45567237ff4b18e35a421dfe6ffc3acb1439d861a1eab3a9e144b179511f126",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A08-prime-Exclusion-That-Remembers.md",
+      "sha256": "5e26acf4d5c8d855c7446ada2e19a292003126329698ce47e5399a225cb6d9c9",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "sha256": "ecd98c1693df15c59e605f7fb8391bedb7dc6adcd09f907368e4526c5555573b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A10-prime-Uncounted-Enters-the-Account.md",
+      "sha256": "4264ccd4fcd9075c11ca03d828815aed2f66e518af768a03dea12064a524e0c6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A11-prime-One-Field-Two-Faces.md",
+      "sha256": "0ded8a4fe31390ca509397a16ce9d4610e118d64ed7cdd5f0c47b7b01908585b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A12-prime-Against-Monoculture.md",
+      "sha256": "d0a97619b0f8b1e83f32942c2803eeca4d843f7795bd1794a3c3348db743505e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "sha256": "b5155d328ea5806b5cc65f5e2c7e6acf4aec025f1d84be4ef8355bc18df7130c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "sha256": "a7ba38609b769b67a8088545f264085f0e79867d7f808cb351eb8e80824a128b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A15-prime-The-Measure-Constitutes.md",
+      "sha256": "c3e2d3896ce25c3a229d6fe905bcdb212f30be463a1e8a553cd46d2bcc111251",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A16-prime-No-View-from-Nowhere.md",
+      "sha256": "392dcf5bd466f95fcec212e2f4f597f7d7fcc1471ffd0bb066223d6be078b02e",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A17-prime-Traversal-with-Return.md",
+      "sha256": "0d7a42e1e0046cda5d7f23ac362713bcc8402940c799a000439780f5afd64dfa",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "sha256": "316a81d9a3fca17d6a856f7f647f2ef8639af92453213ca0b1d2480981459090",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A19-prime-The-Local-Regime.md",
+      "sha256": "8657ba1100698f0a6643ce845f48a67eda7e236d52369752add3cad6c000869a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md",
+      "sha256": "07dde1db7eb980efa4f7983b932abcaa1c08e8e2bf72d2b1bbe7221c3b2cbe4a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "sha256": "acf728d9587ae91a25fdf7ff4838f81040711476aedc39c0439aaad366093149",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A22-prime-The-Atlas-Not-the-Camera.md",
+      "sha256": "a3ad0545eabd7e24c2875977eee6a92ad3dcb69b6db10a364ed34c97f2215b54",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "sha256": "d4d1ed8818561fc98a4ffa4db3d87bee2cb42a530119edf1e0515c7eb4bdb190",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A24-prime-The-Usurping-Criterion.md",
+      "sha256": "c5c584615b8b482225b607e8f7d4f1e8083b0859e296dad0dee12c7fd82d07e6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A25-prime-Covenant-Architecture.md",
+      "sha256": "29feb2f1dcb050bc9e0f660366ea8b61cebbef7585d0fa4c788cdf11f592bde5",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A26-prime-The-Essay-Inside-the-Film.md",
+      "sha256": "d6b81f4c1dd680b57cb0591de4353f3206886123263aa2f700a5186af41c5205",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "sha256": "0c9efb3498bca25289adc21498d8fbc27a7ce27977b6d0d9d33709721873bfac",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A28-prime-The-Authored-Session.md",
+      "sha256": "a3473c711994c5ecac36810b98c754be2457db5f94fd611c7a15ea2f0a78758d",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A29-prime-Return-or-Extraction.md",
+      "sha256": "4f90023280befbaa295d53b9e2642bc70bac5ff613f9386fb6bf19e812c546ca",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A30-prime-Shared-Worlds-Unmerged.md",
+      "sha256": "574a52c9de54a62e1944c225bce7f9b30c4bbba6566cd3c791c8d919a211f18b",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "sha256": "69717199017f007cf6622a8046d947b55bfbfd0374dd439eab86577a5b543884",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+      "sha256": "d337c22b1fa24bff0a098b842d7651a3c5331844165596cd744df188ef177375",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A33-prime-Parity.md",
+      "sha256": "b9d0fa6037dbdbcc22114f8722035ef9ed2a0caeab6d5844d484edcec5eeb607",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A34-prime-Direction-of-Dependence.md",
+      "sha256": "d25ca68dbb485f5f5e79e650f62fdc110a36bf477b399a2ea305a11d7b696ef2",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A35-prime-Commons-Behind-the-System.md",
+      "sha256": "de9c68801253d880cf033495bbc8f23cd551373d4f86ec370b52dd4a0e2372f8",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+      "sha256": "529fe5564e13ebd0e7192cee953e3f131cf7584fd62b7a6108e511ead4ca804a",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/AC.md",
+      "sha256": "5f6c15652d85d282c42d317047292414fcaa65dac6dcf550caaf623c3c3338b5",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/conjugate/README.md",
+      "sha256": "5912adede164145b525cd23a21bd93e10f93baf813b186cd0548f350f66abd22",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/README.md",
+      "sha256": "72a2de1acbb08bb07236ef359699deac326471771f4110f3ea7ee822a455f308",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S-World-and-Life.md",
+      "sha256": "a8276ffe0d10c2b05323131b428eea68c5dc0894a1e1cffad86f1d619b6ad755",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S0-Central.md",
+      "sha256": "c7fd7a116335268d7fbd83c0bb90f9f125601e9b1ebd5e2e15a47f2ed5073fa6",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S1-Actuation.md",
+      "sha256": "7ae2cf450964d78aba9d8ded085b5e121416069370c5096d01137f9552b962bf",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S2-AIKit.md",
+      "sha256": "b39a59c29f8649d8a2ce1dd0fa935c596a55dd72c160a5a3392efd1063fcce56",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S3-Software-Factory.md",
+      "sha256": "db2113eb6838289dff71d6265d25312dd8e8df2c0c5d22bb005c05a1bc3b0eaf",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S4-Workcell.md",
+      "sha256": "2785b0e2c0a38ba79d240422631d3781f1ca832942754a2c9492c11f7c371e06",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/products/S5-Quaternal-Logic.md",
+      "sha256": "b9bb541d31bbb1a727471d0350749ccdb7521585e6784d799574304f966e0757",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/arguments/README.md",
+      "sha256": "c4e92d94762ffb3035f0dfca6f935a8919c224e08c1673f01005dadd93d07a6c",
+      "kind": "markdown"
+    },
+    {
+      "path": "section-rooms/README.md",
+      "sha256": "76301672147844a536bb8a5bd0ed715e9d80a8c8ff73f8ba2624036e24194159",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/0-1.md",
+      "sha256": "f02d9aa21bf3aedba78985ef5ead7dddd5e10e25b6b3c9f97ffb19f3ddecc431",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/1-0.md",
+      "sha256": "f2ea53ee3e5d08eda4a5c62da8fb9abe96d6b3231d7748dbcb02082a87ffe77f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/AM-IS.md",
+      "sha256": "71b518d024b39285581616c5de739fef269a11a14ff4d6dea4444720f10880b4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/complexio-oppositorum.md",
+      "sha256": "f56f406ed411a1dd8c0b6c4be4cea343ece6a5446a11e92283a0e119982c02ed",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/eight-determinations.md",
+      "sha256": "a3513f416a41adb9f2914bdc742d913e1fcf32d5af99e364f537327cf2582e04",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/investigation-and-faith.md",
+      "sha256": "50af3dd491346d81ab34235488a36305f8ee9a7f6433e8f0e271bc1bef6a9bd6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/README.md",
+      "sha256": "dd343480fa19c97c67997ed404c3dd0b01898ef6b899611bf1d7a39f1c86220b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-a1-hero.md",
+      "sha256": "3c1dc7cecd8b96cd2219595a441d39aeb0b85dc0ae0d175747337f29af737640",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-a2-the-heart.md",
+      "sha256": "8d2fbae7a3da71317e17c03d6ab02125660653b89bd86be7535e916948d45555",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-a3-what-is-epi-logos-for.md",
+      "sha256": "c9d9c42a7dab0da9d1b65fcf2b422421e8e0dc37542d7a5def2c208cdfe1c7a0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-a4-the-question.md",
+      "sha256": "bf42ca105d3bb0b9b164f8e876e4a895fb9e8b91b8f15785f2afb91f50f0ef41",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-a5-install.md",
+      "sha256": "9ce69fdb2afc68cf3463bcb602d9d20c4964ab50dfd57b01c4b0df24caa4007f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-a6-portal-doorway-close.md",
+      "sha256": "19b0e8e87125240b571140ad3505b75e0ae8cb8671c9a4ced5e17409b902f170",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b1-intro-station.md",
+      "sha256": "b73530565303eaaa02b05dcef8d0624a31b7449455967b20977f7f0703d401b0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b2-m5-0-cosmology-gnostic-library.md",
+      "sha256": "02eea8d7e67ea5d6bf2450fa57b25ea12cb5fe84e578fedb7b753bb61638ba95",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b3-m5-1-thesis-canon-studio.md",
+      "sha256": "b0e78a9307b4ffcabe4f6831469cac0484f7748391fca67e1ee4253c7100418b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b4-m5-2-stack-backend-studio.md",
+      "sha256": "c0e4b4a9c0af6d6825c668e2030838d3949492375a2c2e2fe38a6a0ccf72ac8b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b5-m5-3-instrument-theia-workshop.md",
+      "sha256": "ccf8f985fccb4b3d563ad565c8918d65cc1e4759506038c84da27913c3e9db47",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b6-m5-4-agents-agentic-control-room.md",
+      "sha256": "183789b900eca5cbfb3cbbde7fbda47d83dfff7c3d7fd1c5cfeffe95ab379889",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b7-m5-5-cycle-logos-atelier.md",
+      "sha256": "ae46fb4557e12f829ca2abb88b6c686c33dddc52f5f068f89eb8146206f48d1b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b8-self-across-traditions.md",
+      "sha256": "0fa1f3b71b6b0e1732c54cc50bbcd0f2295a7227b4b6d85dd33eda438c62ad46",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-b9-blank-station-return.md",
+      "sha256": "876c60602a67a2d751688339638b61d3fb3cf74b5416c4caff8c73c927b3d43a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c1-grammar-page-intro.md",
+      "sha256": "6333005a6e42eedc28d5bf5baedad0b957d3b6be6e85734bdb392907b2f62be0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c2-what-ql-is.md",
+      "sha256": "1eccaadd99abe594fa02a6c8fb250fc1eada12eb9e19054715cc1a66a7dc0c13",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c3-the-giving.md",
+      "sha256": "0218b730a93c78409df2a7dd02b7681bdb087bee1e7e3dc3741fbed67bb82d3d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c4-positions-in-depth.md",
+      "sha256": "14b4c5dcec6ae1bf58a352eb58bd62fba8bd65516846dcf93fe1286c0951a161",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c5-the-lenses.md",
+      "sha256": "fdf47701dc6f7d6e2b3160a2517508e28a56ddeb32422e7339f877e216e17123",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c6-the-harmonics.md",
+      "sha256": "888feaf0455aa4e17d51d870c364103209dfe93db6e32711572863797154e8e6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c7-orchestration-note.md",
+      "sha256": "89baa4362e85e4b011a5bc7cd1a20f589283ae78d9fd57cd200c955de2ba76fa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-c8-closing.md",
+      "sha256": "8789bbc0bf8a26ddaffd412ce79ccf180f91731733882acd2d3c694fc3d574e6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/aphorisms/site-content-passages-june-15-21.md",
+      "sha256": "59f3ded9989708443c6c55d82fbc7a7da0fb1a03e1a000feb4448f0e5d15ac9b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/atlas/README.md",
+      "sha256": "e5131da883d35b1ce897eaa9ec6e381c245155f3b399428f54aaa72972487184",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/bohm.md",
+      "sha256": "49f5d049d18283c8071001a8d0683ef17274dc59afa2d2e5b0500b39c08f5574",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/formal-limit.md",
+      "sha256": "1498d8427f17980b3b774cebd2421789694b12fdd3b59f30a87af55aeec8e6e2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/indian-philosophy.md",
+      "sha256": "d155c98d785ca4a6b6ec5e853932c4953a6e13faf967f2a54f38918242e1718d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "sha256": "9bbb2bc8e9439d886d2d34e6c3c7daf8261a50f5035af61d1cfc565c70a64b2d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "65361f7e482cfffbbd3982dcb0b4d83588f9e72604cca0b57a840dd02305b1f5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/process.md",
+      "sha256": "aefd4560d52ddfd8401c348e922af29cdfb9d63d4be50b23e8da1c495657b12b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/README.md",
+      "sha256": "d17f9ab4e250a848f050d9acba185219e36e14cb702f4e5153354157ec670f2f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/dossiers/zero-reception.md",
+      "sha256": "6e04a07f72a3462bc4d04e134000738e8413a4d99e32d74c72ac0d6a7807369a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES-apportionment-and-economy.md",
+      "sha256": "3eefaadfd2adc9f3a7f00b5b4b1988f73d7adfb81e1660e39a8e6b7aad671261",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/apportionment-and-economy/HISTORY-apportionment-and-economy.md",
+      "sha256": "123e84ae5c38cec3cda4d05eed499225418450824bcb71072882be48fb2b09ea",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD-apportionment-and-economy.md",
+      "sha256": "fc2cb5e96de73010a14fdc54aea36cba756aa38deccf21165b13accab87f9baa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES-arbitration-hybris-regard-anamnesis.md",
+      "sha256": "7005adc5156d2a00aa1e9aa800f3ec26d87a9acbe18aa282e67f2b958c2459ff",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY-arbitration-hybris-regard-anamnesis.md",
+      "sha256": "93fdff9e43b0b53f63155a78bfb8cb8aff366abcbec2f39077138a1a421837cf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD-arbitration-hybris-regard-anamnesis.md",
+      "sha256": "e501ec889ae0a5d5a0754f27d84bcfbdb0c1128505d5c8cbf9844bab1833336f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/earth-taste-wisdom/HISTORY-earth-taste-wisdom.md",
+      "sha256": "c8b23d6a5dab32dc6ab9b511a5994ddc5c37d5315e6a64f09e9ea1e85fdff0b7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/encounter-region-name-count/HISTORICAL-BRANCHES-encounter-region-name-count.md",
+      "sha256": "3618e4ac7765d3cc903835479b86b52aa35dc5a4834f4d484d2451ab539589b2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/encounter-region-name-count/HISTORY-encounter-region-name-count.md",
+      "sha256": "c415a0af4dc6a8878dcd91d642814de8e14049a5edf174fdc7dd205a5bbfc1f5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD-encounter-region-name-count.md",
+      "sha256": "a225812447b66b382b66a0b77ccea6a11dae4bccdef59a261c2de66f47167b6c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/HISTORY-genesis-paradigm-project-epilogos.md",
+      "sha256": "e25948b804f33a58d9c199c6a25a0713d479a0dcc4ca662a1508b26e60fa1b8d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md",
+      "sha256": "8c71b8afb8af9239326c3c15d23a2c5327d55d7580e89c8f6a6e2a0dbd18d716",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD-genesis-paradigm-project-epilogos.md",
+      "sha256": "1409ad819d388de842d1f44dc09ef5fe59d393b2c419c3117f8741da9b342f58",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES-homology-and-analogy.md",
+      "sha256": "64527ef0d6a1a9a098926d323059c1524cd071ae137c0a76c19f958b545b19b3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/homology-and-analogy/HISTORY-homology-and-analogy.md",
+      "sha256": "29a044d6a73ae2915f26bd72f49102af9285754406a6ba649b192f591d59987e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md",
+      "sha256": "b2c0ece027252f6613f3f94c6b180754081f13990cd8213ee617d43dd0db8e74",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/README.md",
+      "sha256": "ee5abf7b70d407746f147eaa501c2c8fcf39303bc384271a3e6161a2f222c6b0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/RELATIONAL-FORM-GROWTH.md",
+      "sha256": "077c964c05d888e255e44241af251de08ecad438f628737724894290365365c8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES-symbol-account-and-trust.md",
+      "sha256": "210f793b16f85e707484ef2f6e66b850d8203ee32144eae18fb42473d677108e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY-symbol-account-and-trust.md",
+      "sha256": "4e9edd0ff65568fc5b1f60ff9d4f75c9fec1461858e9eebd2747a248c8166623",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD-symbol-account-and-trust.md",
+      "sha256": "432e5c8cc424add9b1a9f74a8e045e8e4bc1006f5bf72a27856c80f0ec56d2fd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
+      "sha256": "9fb1f4a91b138c56fbe734d30fe11fbadcb7646f774d55847e38b39345027ecf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES-trust-place-logos-nomos-natio-credere.md",
+      "sha256": "6757987689a3d6006901ec5cf77026d9185130011892fa43fa3eab1d9644a6b8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY-trust-place-logos-nomos-natio-credere.md",
+      "sha256": "35fb0c134c7e597c6779c4ce754c1ebdaf551c68b63a286afb3d34d3d2425f72",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD-trust-place-logos-nomos-natio-credere.md",
+      "sha256": "b6bcef6b9f2ee1b9cbcec5b6e1b082a4dcb9c6e4f514548bd00e290acab600f6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/figures/ac-suite-field-shape.md",
+      "sha256": "dccc69f0a4ab562a9b401b0b3a3ca190af9c43f10e0f96a8e1897a4ef26e40d5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/figures/ac-suite-field-shape.svg",
+      "sha256": "9f3f016c08ee176fb97143641ff775dc030787da0d6be4c2f199af87adfecd5d",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/episteme/figures/bimba-pratibimba-relational-office.md",
+      "sha256": "94fa782eb1c5a5e57ace2785e2fb1cf469533367ad1bc0cf3f1ee1e03d571db0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/figures/bimba-pratibimba-relational-office.svg",
+      "sha256": "0f230ec8174fcd3b87246e451fded1dc8c0116be7bc95e554274bb733087d407",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/episteme/figures/objective-internality-paired-disclosures.md",
+      "sha256": "fbf7f26a872d9b425052641d0a6c3cc0949185df2435fcebb4031ab3874d3f05",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/figures/objective-internality-paired-disclosures.svg",
+      "sha256": "1f40704a3d07f8f7c46d6ebe1b16607f5534f1d00f3a9b067563c757ce155e6f",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/episteme/figures/README.md",
+      "sha256": "9632a142b4bc79778e4d53369a818a02c7496eaf8a13aaba37c32dceb7793983",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/figures/vak-register-layering.md",
+      "sha256": "9e04c6d3a88ced38a1315df62a5018aa4d115e183b702f07691336e267d6def4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/figures/vak-register-layering.svg",
+      "sha256": "1154252715ba4842be40cec1250787ac3ce160753b1548bf8d38221ffccdb57d",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT-myth.md",
+      "sha256": "0b804554c18323da835b5f4d2a6cf972f8ca41a3fe745e5e720639cae473cc7d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/encounters-and-transmissions/myth/HISTORY-myth.md",
+      "sha256": "355707b66563909e9712e71946ac793cdb6fb8dadd2ceaf89afa7265d87478b3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT-language-law-nation-centralisation.md",
+      "sha256": "a8a48289a95b2fdd90562efaa5756a2f00fe1f1878c0ac5dc9a028118f005085",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY-language-law-nation-centralisation.md",
+      "sha256": "9c410adca67ab2af32cb2852b3b5e46da6a8c495e41a11acdd2898f15e4e70b1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/README.md",
+      "sha256": "49eef2561db3b18182229a8313170f8bc34bb04888a09076eefc5484ae3ccbc4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT-ancient-philosophy.md",
+      "sha256": "df829c888a70080f23424c92530418a2201792466a735d7cd689356cc9db72b5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY-ancient-philosophy.md",
+      "sha256": "decaf1f0f3951ec703d7d324c5ecd56cacfbf545a2f5bfa8728b2c7d879a1874",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT-indian-philosophy.md",
+      "sha256": "8e4767abf4f61e261565c1c67b9452fe17fb94c87b49654aa27859c864b00b48",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY-indian-philosophy.md",
+      "sha256": "32968462f2612192484a0ca18bc694ae1cb14de36204661d4261d54969114177",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT-language-symbol-dialogue.md",
+      "sha256": "cd365736f5b2d7ca32af88d7c9eb20d00268b3f40e74e23cad2576849533fa0a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY-language-symbol-dialogue.md",
+      "sha256": "e71bae9e33f58cf8b9ec40be3d9c25bdbebaab58050e59500202ec12264ec182",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT-mathematics.md",
+      "sha256": "ad805ea2670e2628bb02ccb3124480adf203385a6cbcdd7b11602e01a5091fd1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY-mathematics.md",
+      "sha256": "4c5e439efc255b8c6e33618f37d12939be50384f8bda87db01bf493e0832e167",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT-process-systems-science.md",
+      "sha256": "2ae209cdf56794ef40c786adaa24d94c53728690b9f6cd50dd1cf17389527ba3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/HISTORY-process-systems-science.md",
+      "sha256": "c4bf62a90f7fc1f057c3d20e2ca5b12b772c4d7d7236e8f631f192d412257982",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT-psychology.md",
+      "sha256": "ad5ed0bfa9fb11b346da26533b5e781e9bbee1a1c36d390e7828307da38d9226",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/psychology/HISTORY-psychology.md",
+      "sha256": "cb271ae1162888769914847c78c021bf2ad96377f4d9c5ca8d4c25d4a06e4d1a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT-technology-politics.md",
+      "sha256": "5e87488619f77da57808d3ad4931cff35e3a9a7ed48dc3dc015c37b11f347cbb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY-technology-politics.md",
+      "sha256": "eff67c60258068defff36d853f3e2d5c8bd97aa7832fff2bcc8c29c1c2852e7f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT-zero-subject-advent.md",
+      "sha256": "1c3508ed5beade7f24160139e38dbcca4d4b86f0e290ee8e5e4889ce391b5f20",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY-zero-subject-advent.md",
+      "sha256": "57e3dddec592502dd44037462e45f7b79f04be09d3f2135cbf85acb6e5c64521",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L0-prime-archetypal-numerical.md",
+      "sha256": "5b68b8b945ea1876a99a24d78769d9218cfc02e69082e1ddacb8130fd4d2c10d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L0-quaternal.md",
+      "sha256": "0780a3b2d96c4d56e71068f3ff33c359fba78a0748039ac65a70197e12f20bc3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L1-causal.md",
+      "sha256": "47829b531217f8c01eaf3d11175cbf9d903f5d5a144747562fb89defc9ec1fc4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L1-prime-phenomenal.md",
+      "sha256": "1e4e9e5776f2d0e01ba363513ea1fba21f4cb9614cf53bd88492799ebe3fcdbf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L2-logical.md",
+      "sha256": "b296aae4d9c13c2593389aff7ed6fe77fee3b71ddf5b01be38f9c92c6dfc5376",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L2-prime-alchemical-elemental.md",
+      "sha256": "e8a252439a1b57bde44eeaddb2b0284c023b1266f6864541694ee8f24662221c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L3-prime-chronological.md",
+      "sha256": "2b1310f0b965a41c5cc31124f836a8daafdf98c5bef998a4241e763c03dae0ac",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L3-processual.md",
+      "sha256": "e6e4cbad59bc8aea1fcb9f24816dccfec6fcd105e692cdcd82777766fa6d0cb4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L4-phenomenological.md",
+      "sha256": "04d01ce1fee977f6ffbda8b7ac420f4d87f6f51c33551501466d2556a96bb567",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L4-prime-scientific.md",
+      "sha256": "45ad65066ea5d4d3eac74bd5bf75e019d54ad96da21ae75999f34c204df084c5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L5-para-vak.md",
+      "sha256": "2d42904ca7ee60d297a3f173b07c4a71c815b081f9262b73888329b6c1878fcc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/L5-prime-divine-logos.md",
+      "sha256": "f9c68965343c91758c33917a161454c13688a678e201c9c69496dd56aa4f98c9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/lenses/README.md",
+      "sha256": "94df6a13686cbca1f80e9d3d2ce69ff2842f5025e6efb76c562b870ed2a647cd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "e978d7be4f429b91020f68d86f2fc5ca8db517ff3b220399d38245c290da8b44",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/AUDIT.md",
+      "sha256": "233ba06fa3bb599a43a01e53d2c238c5c313eb1d9e1d3235d8ce56ead4bf5a78",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-aphorisms.md",
+      "sha256": "2b2f37d12947b635810ce96755804397af6ff0afca2b4442fd8b6d8c2e37f7d4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-arguments.md",
+      "sha256": "b8832518c8fde6d004e3d7473cbddf1a933682eee6dda899de0f70af10def85a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-atlas.md",
+      "sha256": "a94fefc6b1282fdb3034f58311e59a24179b61306ad68828869d861a683570ed",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-concepts--developed-provenance.md",
+      "sha256": "a04863af6bec2ec0f53b0838d27c07ac727597b76a56eb4d269884bedf486203",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-concepts--reference-notes.md",
+      "sha256": "b2432378a992735159075bb20f84e1f98cb7ad53329d8d4f25488cf8930553fc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-concepts.md",
+      "sha256": "08d7fb4fe4f567d988dc40f6aea87f7069a3e2f7756460bdfffce4272de1f932",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-conjugate.md",
+      "sha256": "aa429ceda68c71234186b2fd123519614b8e79754b4ae7dbbe60f91aef1b03aa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-dossiers.md",
+      "sha256": "442434ad8a75726ea970a67e769134a3c94d19a3a3e1b82314f8fd284917b2e2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-etymologies.md",
+      "sha256": "990ae477595ce30dfedcfc5896c1a30850a9ede33acb810f0bd6f3a99fd97014",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-figures.md",
+      "sha256": "c59d3f01713304fd7ff1903fba7212597ea44bd286196a690b4802ca64b07319",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-histories.md",
+      "sha256": "00dce7cb42d8f4762eff12db059045af8d7075d1e597cdc6ad4f12d15cad8660",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-lenses.md",
+      "sha256": "c24d0b2cdeb3c1ef83f5ae0f6c95a247fbfab7d0d943f8b1349eebf65c61666e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-maps.md",
+      "sha256": "afa28692e921b2f6ed497dabd4bf95740dc5868e173289271ffefff557b3c3fe",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-products.md",
+      "sha256": "635032c1358c24aaae8ef7c1d0eeca79745a4338b4ede7eb9bc312553af2c24c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-root.md",
+      "sha256": "384536e94a3cb4d92c5ce26fbb5f4dbc86bb6a5f8b5b2d076d3c701bebba14ff",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--analytic-philosophy.md",
+      "sha256": "002dfe69daa2a5663043e114d93be1f5c2097ec84d445044f03457793f0f0491",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--biblical-studies.md",
+      "sha256": "a9b3adebf5203e65e521e6106969f8f14dcf25136245adb08be3243cc56224df",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--chinese-philosophy.md",
+      "sha256": "065c12f6a722f3cda0e1e2bb7fa2efec5f6bf2199ca1703df57ffc3b97e1146c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--classical-philology.md",
+      "sha256": "1f0fc62378f65ef24c1503f0e0c7c58f2b6aeadd625d27eb2908e91449d9e0c0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--classical-premodern-philosophy.md",
+      "sha256": "39e7f39e3c2fad47f65c0bc4e7bdb1da8b2c753680e76563d268d5213763e85b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--computer-science-ml.md",
+      "sha256": "347085a32d4d46f655f999a5f60246eb6ae10fb92441233ad285909769b7ffab",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--history-philosophy-of-science.md",
+      "sha256": "3beafacae6ec39712ca5cd28b0171f4f005a63ff10340099686a38b5eb0b9a5e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--indian-philosophy.md",
+      "sha256": "886017e6a2952e3578f41fbe05dfa75bb364a9e5547ab6cc42af234c2c8b3451",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--internal-corpus.md",
+      "sha256": "19e328732a0b21b437e9501e5fc290be483753a1dfcab931a5f890f22a42de41",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--language-literary-studies.md",
+      "sha256": "cc63b21ca231f4738b1a43db40567928558e5c54f7ddeccccd01c21a1f53e021",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--language-philology.md",
+      "sha256": "d0d66af4c2e101cad4b843077b1fb29873f8c9d32694521f7b100e842a018480",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--literature.md",
+      "sha256": "62e22250dfa418ac62cb931c8cadb75aa69b000c0f2ec0304339e6f57ac124a2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--mathematics-logic.md",
+      "sha256": "0226c50ede236cdbaf242850201aa856d2ba15f06c5fa3b4f14ae32212669131",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--media-technology-philosophy.md",
+      "sha256": "0fe4992962893487913daa9d3c08768adc2fde2dc4cb80362c838dea8faf4283",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--phenomenology-continental-philosophy.md",
+      "sha256": "ef8928d8f0abf06bdf1c61dc387f1b341cd219e8e54b782df1494b18bb52d160",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--physics.md",
+      "sha256": "6459b9b034916606f1ebfd092d461d72e0036974c98a986d21c2f7d8878f97a1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--political-theory-institutions.md",
+      "sha256": "fccf1fb93f70a8db349636bdcdb8daf0c5799e693b4775a39e0fcde088b2baf6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--process-systems-theory.md",
+      "sha256": "a1122b5cf1b711b20b47d577799ef7917a373db2c341ddfd55fd873e6c300127",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--psychology.md",
+      "sha256": "70a6b8815c793d18ead66d03cb0eebb7654bac9c3c1a87c14016ab9fa419f72b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--religion-theology.md",
+      "sha256": "eb2660c0060ff84c95579efdd7490985227d83d76ea55d879e328372565fa173",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources--root.md",
+      "sha256": "d0209209e3b69a11f3a612bc83f99cbe38cfaa26b450d3ffb29ac10ea36ddadc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/episteme-sources.md",
+      "sha256": "df4e7b28db7190df2a528b9863a58c332bc7bc528f122b84358b1d43d31a1dc8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/essay.md",
+      "sha256": "4b62b11fe08840c2ea6fa574e161706e859385b79db871dc4224a17641fe2ab6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--computation.md",
+      "sha256": "d21860a8fc87f90fca9fcd3c081bad54b6fa6a5908337a6c0d093bc4ccf51e03",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--definition.md",
+      "sha256": "b7919c7f0a8b4f4bb48c86b52ac64d516491dd6073eb765fa1d10d8383e8a388",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--dia-syn.md",
+      "sha256": "726b47c01c1216e7386a8d7e36c8188fad3cdc264bf557b9e77528c5071d8e7b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--diagrams.md",
+      "sha256": "523eef2603138731621679acc2fc7a178ec0083d4f845ec3c12427407bef48ad",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--formal-neighbours.md",
+      "sha256": "7e064c7f64c561b66bde3f1aadbe5cdb8999bbfd9afba4706836cd45711e031a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--harmonics.md",
+      "sha256": "1ca423c71244121e9a11920091cd30efdc8ec20d856f5bdee22c431fc14c10e5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--mono-poly.md",
+      "sha256": "92a41ebd0a54d699234ffb0d6dd7c3e94533fe75f1491d76068a0d6363a0db15",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--music.md",
+      "sha256": "2fbfb8d2653c4a54e1e22c9bb7822e2419fe6a69f47f55852c0652478790749f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--process.md",
+      "sha256": "ec9ca291671634abb697c00a9bafd2780fe9061d4712f9ffdabdf2ccfefe25d6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--ql.md",
+      "sha256": "ce2b2983a033a78b6a6cabe1749b4dd79a440369618c3cccb1fc5885ee96c4cb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--quilt.md",
+      "sha256": "8cdd8ac46cf82809e4370e2289e00b53f793aa75353c21af0a8102a97d08aca0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--root.md",
+      "sha256": "19f5adb62e08a6ac0c49b71f664669030e50b730a18b4225a5f44793ee2a958e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--spanda.md",
+      "sha256": "692ba8f55fcb02c58c1bc08a74e0216b56d1ac62de0a38f81198863983d694ae",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme--topology.md",
+      "sha256": "815c90ff633d73477f124a18d2841015494c42cfc2fc49707e3fbf6171b1dcb4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/matheme.md",
+      "sha256": "c038c419eb4bb46e968fe311eb1722e4d825d8472df329d6d1f14ad4ecc9b6a8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/movements.md",
+      "sha256": "39441bf9268ff2e6def721256cf56df90223d70e451c872c11a9619de403a7b5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/mytheme.md",
+      "sha256": "4a8be5814c14fec3faef8e1a957f5c27a361cf760571e335e95a67b111497759",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/quilt.md",
+      "sha256": "ae6328c2966cacc2f786fe3da135e47448a06a39c9b21720a08c2eab59b1d1da",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/rooms.md",
+      "sha256": "4ded00bab01b1d69c4a83d7731bad2127b3e0243be49ab7ca0db9ac280929b5b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/intents/symbolon-root.md",
+      "sha256": "a1b9fb43aeb5267661eec76ca26daea79c622c280183cfcc88c2cc0d276a2601",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/navigation/MOC.md",
+      "sha256": "dae1e2517aad19e455049e6416c5bbc390f0e9ab475cc2b78487feccabd9017a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/README.md",
+      "sha256": "1c52febe9f35864f8d5cdd962b6d8c9c4fee6293a2a55399798a6160c6038721",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/return-of-zero-braided-traversal.md",
+      "sha256": "b6c5dda7ae7f790734c87f2fa05366c51517187c83d8a11ae9f3f4644397a46c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "5d64848f1cdc5a032a14061d88e24a04145255d4d0ac53466f155d3294e4e197",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "88cc57642c27cc79639c02e4321a6b087f3a4b9b8cae32151fcccfef8fed325a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/README.md",
+      "sha256": "03197d82ff18f8923a5bf74b2b9b15980bb5297ca66da3f751e9becd67826780",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/analytic-philosophy/chalmers/chalmers-1995-facing-up-consciousness/chalmers-1995-facing-up-consciousness.md",
+      "sha256": "049261ebcfcc4399af48eb071cb77f40c56ce4878c11442c6f6fe1c6f50645b3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/kripke-1981-naming-and-necessity.md",
+      "sha256": "c169717a428f011468cb02fd3055b7d3cd52c5849b76dba553b3c3c6a985160e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/analytic-philosophy/tye/tye-2024-qualia-sep/tye-2024-qualia-sep.md",
+      "sha256": "17641a23eae17ed97de10f9e7bf593f5402de9dfb8b4564028f95ce079ca6035",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/wilson-et-al-2020-embodied-cognition-sep.md",
+      "sha256": "fdc1a3f1b8f97cc4d3ad56dbfc10d45f864f3d817c6a26d74fa9cbc63fb008e8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/wittgenstein-1922-tractatus.md",
+      "sha256": "9c117c52e4226e5d9c87bb6d1085fa560a637a38b6e3879979f95266abcee98c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/wittgenstein-1953-philosophical-investigations.md",
+      "sha256": "fce7ea3839a02b8e16d4ce771959ed00e3e7f97a4c7f32cc76a80360510833ce",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/biblical-job-kjv-ebible-eng-kjv2006.md",
+      "sha256": "569aad461e420b11b1e969d1050816bda589066218df53b2d34112d250cc7783",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/hebrew-bible-mechon-mamre-jps1917.md",
+      "sha256": "e8ccdfca58036deb46f86c8a8bd98a6bf98c3406665d6ab94de28d9f7f662b7a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/bdb-hebrew-english-lexicon-online.md",
+      "sha256": "de0d6e004676fb78926ab394c3f26c3db66bd52b16c4ee11d878651f2a88bab2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/hypostasis-archons-layton.md",
+      "sha256": "3d853641a1b88a467e1e02b7edec64b1d206c4d69b5475d9f8fc759b8c96093c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/ephesians-sbl-reverse-interlinear.md",
+      "sha256": "96cbbc58d7716063e251d45dde717a3f9c0cbb8ddec12e581cd34f889f83680a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/chung-yuan-chang-tao-a-new-way-of-thinking-2014.md",
+      "sha256": "3e0618474a57959908108a99c78c0bdd27ce016a43cc9456727fabcbdea28f7f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/analects-ctext-legge.md",
+      "sha256": "d74fe5f711efa1d67894491758acb7882b71f4b3f4b6853f93ec8bc27e244bc2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/laozi-legge-tao-teh-king.md",
+      "sha256": "4fbb332d9e8df0f9d52fa8f861b07f96b3e927fe49f8c4a4c54f4fd1ff0d8d3d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-erechtheion/acropolis-museum-erechtheion.md",
+      "sha256": "b3115eb04d5ae8cf89214ba89e669ad1af61b57fd7dbb1ffd2e89640524999cb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-west-pediment-poseidon/acropolis-museum-west-pediment-poseidon.md",
+      "sha256": "c58eeb7665226c1bfeccb0a261252d4be1acf240d45a123ad222ac17ca95d3a4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/apuleius-1913-psyche-cupido-purser.md",
+      "sha256": "51f18e5a4ba44ccdce28635a5563624441edf25907e018a65ff3d2247aa3995d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/brown-1989-ares-aphrodite-laughter.md",
+      "sha256": "0662bf995c11bb29ab0330efbfebb34f820d468982794b47554bdefa28b703d0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/burkert-1960-lied-ares-aphrodite.md",
+      "sha256": "2376c78be1a352b96173a1385b3cd6bdc9191eb0c781865fa7dbc14f02e4fd38",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/chinese-university-hong-kong/cuhk-multifunction-chinese-character-database/cuhk-multifunction-chinese-character-database.md",
+      "sha256": "9fb7fb1638a885c2fd1ca637e955531469fd2f50545c68941536e0b92dca75a6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/detienne-vernant-1978-cunning-intelligence.md",
+      "sha256": "d6fb8b3ac11e5ab44d8d95341c895824029add4ab4389e22077a92d858be8f53",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/herodotus/herodotus-histories-macaulay/herodotus-histories-macaulay.md",
+      "sha256": "f2156fd624910c3ffd6abc8659594ac64e4902f41174d438bbb5c7908ad1e739",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/hesiod-1920-theogony-evelyn-white.md",
+      "sha256": "86d574eb31dfa69f0a110f1c4598252e83e17599b7090383d6b82aea46bbf171",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/homer-1919-odyssey-murray.md",
+      "sha256": "88b978061a7df6a97e0d4ef38d9ae4208b0073b1608603c181a8efab710d7d98",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/hyginus/hyginus-fabulae-macfarlane-digital/hyginus-fabulae-macfarlane-digital.md",
+      "sha256": "bebf50f3a2044446328fed01f3d1e05eef28163968e9d05b78feb042e15f19ac",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/lane-arabic-english-lexicon-online.md",
+      "sha256": "60902ac61e25bccf40b834e06a83376fa4b7c70077b961a5924f8d8c1b2bb34b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/lewis-short-1879-latin-dictionary.md",
+      "sha256": "33425b084e37e61c5cd10b5f2d84b72b469bebcda17b10c1ec5f5f3182c2abc3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/lsj-1940-greek-english-lexicon.md",
+      "sha256": "76ef696a6aacb552b0c3b23b064c0048d67b7580a5a2bd126ee5e820bb46d6cb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/mackenzie-2021-heraclitean-allusion-odyssey.md",
+      "sha256": "50453102da4c9596f2f7a9a9158beb6dbaa63987774031d68a802d8eab741f5c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/moe-2021-revised-mandarin-dictionary.md",
+      "sha256": "e4d89b35ce45f422f0b1cb4eb25ba1f888e21a97280a352285e01f057bcd3d93",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/monier-williams-1899-sanskrit-english-dictionary.md",
+      "sha256": "c404146593de784c35df7300b3e400bc9f68f0050237db72ed25f531fb1f3db5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/ovid-1921-metamorphoses-miller.md",
+      "sha256": "067e41c08fa88f4d1765af4c72db458daa4e570930884d8fc348b9da72acc1c1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/pausanias/pausanias-description-greece-jones-1918/pausanias-description-greece-jones-1918.md",
+      "sha256": "fec983c212798ec7dfcd9faa1246121ff887c62915223442b3d7506931588ff0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/phillips-moicheia-unity-greek-law.md",
+      "sha256": "a2ececff226e70a4bca20119a1540ba594bc4fafa1539ba18a16c7755472a2fe",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/pseudo-apollodorus/pseudo-apollodorus-library-frazer/pseudo-apollodorus-library-frazer.md",
+      "sha256": "9b671dd0d0d9833a79f318841f1e8aa3e6b64ba5eb02ccb325b66088b7a52eaa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/tla-hieroglyphic-hieratic-lexicon.md",
+      "sha256": "58bf0dfb22ec556ee1316238a50fc375c16fd2afa35f8bda5d8ca54b5cd2f13b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/aristotle-metaphysics-ross.md",
+      "sha256": "710d6f8fe2f0f3ad7bfed3957881863e5f2e0adbb665fbb4cf58a834eef7eac6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-nicomachean-ethics-ross/aristotle-nicomachean-ethics-ross.md",
+      "sha256": "257c833ef273ba5fd7e6c921257cb9e5c5c388ac6772f91bb8d7b7ed2a3f4579",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-politics-jowett/aristotle-politics-jowett.md",
+      "sha256": "6e296e0d925b37e167c0197a2de5097d805622a798ab9e67845b9ab50dc9c0e9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/berkeley-1734-three-dialogues-wilkins-2002.md",
+      "sha256": "dd307b43c13b29c4457a474459142a2a4cf8996168f8b5fd54a958e2005533a7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/cusa-on-learned-ignorance.md",
+      "sha256": "88f0ee978bd2dc270458070f4bb7e10be0a1cf2e7acc62b3ae289d9dca7c5b2b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/descartes-1641-meditations.md",
+      "sha256": "a1503fd884d4f0a78077bebf7e4cbe6042fe2af9accd1b6eeefae9c31006919b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/flasch-2015-meister-eckhart.md",
+      "sha256": "b6f460397162124169a05010397f7b4a88b067f626036b563efbaad9149945d3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/irenaeus-1885-against-heresies-book-1.md",
+      "sha256": "daeab28818e337a39076260ec9715da48031f9432b1f9cc3e66a99bad666a9fe",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/plato/plato-jowett-phaedrus/plato-jowett-phaedrus.md",
+      "sha256": "b5f89835ad7a19333bc7f5cccec8329b7b668473e4d8f019ef1165d3e7c8213b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/spinoza-1674-letter-50-jelles.md",
+      "sha256": "ccff7ca38ff7c87d9cc600077ad93896d07adca00d8057a7c492fd78fea0dc88",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/bai/bai-2022-constitutional-ai/bai-2022-constitutional-ai.md",
+      "sha256": "692f2abd3a00e11de0db6fca845323990e3c4c806ecaa021977caae33d2f31e3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/bengio/bengio-2003-neural-probabilistic-language-model/bengio-2003-neural-probabilistic-language-model.md",
+      "sha256": "2c475421e03f6a8373f5549f1581284e6d709aac07e2d5d3997751332f5be2f4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/lecun-et-al-2006-energy-based-learning.md",
+      "sha256": "7c689a3fb2c5249eb73d835215b26b9ebb828b67ad94658da1ba44c5e082b34c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/oi-2026-responsibility-source-projection.md",
+      "sha256": "b53fb16ceaf06d5d92bcefeadb1f5c5e6d13a6d71b4163fcaad207ac4c8f41ac",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/ouyang-et-al-2022-instructgpt.md",
+      "sha256": "79bbad71fa4d6125b63f060dce67ca1ddd2e9e9c6d9ac0b93ba6313a28f5408f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/perdomo/perdomo-et-al-2020-performative-prediction/perdomo-et-al-2020-performative-prediction.md",
+      "sha256": "efe4b7f068a0db11dbf9e7b9eb9fa3abe8296dbca835fe1d84a9e9c2cd802157",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/pytorch-2-9-softmax-argmax-api.md",
+      "sha256": "231992eb60ba1cbc32d19a8b7d7e8282b19a8b5a05adc7cbfa82c8955288a6e7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/rafailov-et-al-2023-dpo.md",
+      "sha256": "3cd870a1ab1bd272a3c61067ba2d71a5c35f4804d661a290cf770a5099a9e552",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/vaswani-et-al-2017-attention.md",
+      "sha256": "cb11097516e6dd5602dcecfd8d6289384ae641023154a90adf2eb79148e476bb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/eastern-corpus-program.md",
+      "sha256": "76b325a482472ca31e197c6f440c813e6822174887f7f42704084f5165396715",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/frank-gleiser-thompson-2024-blind-spot.md",
+      "sha256": "5ab2201730800fc9d7290571b3bc7575bd21148ebf449ce1de7b00a93a6e9b4c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/freeth-et-al-2006-antikythera.md",
+      "sha256": "5ffdafb39db2f1fc05352ee48f07ad85d2ef861ed45a3a22f5081f12362b1abf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/freeth-et-al-2021-model-cosmos.md",
+      "sha256": "e34c95205cbec2def74fa53b2240bfa2c9b22594aa13eda8b8368d4ecd38188a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/nothaft-2020-satanic-ciphers.md",
+      "sha256": "0f2c8d4000f43872c531cef729b259fe61a63d70c42ced757eaf29375dd33ea6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/owen-1843-comparative-anatomy.md",
+      "sha256": "56d9c250c12b52174aac413bde670e67438b5f9ab624cc923cd87226d9fe41e6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/abhinavagupta-singh-1988-paratrisika-vivarana.md",
+      "sha256": "f6f123293d0b4f5d5fe72ca83d1e49702f94172f042ebe6de595570551b5ab40",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/das/das-2022-sriharsa-sep/das-2022-sriharsa-sep.md",
+      "sha256": "ef4005e7ad8be293031f661336082a18069bc91a9d427e1507ab9836e25a03d3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/dushun-cleary-2000-jewel-net-indra.md",
+      "sha256": "367fdd5b44bee0c71251cd0a5292d478806bc776ad4d7e884b4619f8674706d0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/dyczkowski-2000-doctrine-vibration.md",
+      "sha256": "437266f6110f105bf3cc4ee85237c8acba9d4a54ad3aad99e3edd9fcad38c351",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/isvarakrishna-colebrooke-wilson-1837-sankhya-karika.md",
+      "sha256": "4cb4a54cfc98fbdc9973a7aa977e03b3d20eb160137e789772f56d34e7ba1440",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/isvarakrishna-ruzsa-1998-samkhyakarika.md",
+      "sha256": "75a17778a2e0fe4472b0a2f84eb1455c6d39ab190fb7f472bb8550537bfe3b26",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/spandakarika-dyczkowski-1992-stanzas-vibration.md",
+      "sha256": "38b605f0c5964233422bc3226de00a7b40f4c23d073a1f8a5728814e890691a5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/maccracken-2017-recognizing-recognition.md",
+      "sha256": "d254db1d64a8a02efd4e1fd32febf1089470f092c895d7b12855c4e25df3dbde",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/muller-ortega/muller-ortega-1998-abhinavagupta/muller-ortega-1998-abhinavagupta.md",
+      "sha256": "21d8783ef73e39f55a375d2400a75444440615022232c98fc207d38db68ef3b2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/nagarjuna-garfield-1995-fundamental-wisdom.md",
+      "sha256": "fc145dbf8062754a63f864248a3461ab4bd787498af7779c8285ea1dafec0e1d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/pind-2009-dignaga-anyapoha-dissertation.md",
+      "sha256": "e39e42095f0ab9048b5ca6afee95080b9eade91de537b0e3d41e0cd8c9299e3d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/siderits-tillemans-chakrabarti-2011-apoha.md",
+      "sha256": "b7f8d2420940f7cde068b9ae014ec2be90a682bcec8ebe72c9014c71c555ebfa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/van-norden-jones-2024-huayan-sep.md",
+      "sha256": "7d3150ad80e70558db5ecf0a997220c3ed060a3dbeef4c0b233307ef9c54e739",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/taylor-2026-oi-product-field-commission.md",
+      "sha256": "1b617d2123d8cceb6aa2d97cafe0b6a986297191111dac8a10179c028b55f92e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/taylor-2026-skenfrith-cope-jung-ql.md",
+      "sha256": "8c5e64f2e4fa095859eaef1635c35dbf0f95396afb54503ae101530041c02b8b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-spirit-nature-man-humanity/taylor-2026-spirit-nature-man-humanity.md",
+      "sha256": "fc9e6de84a28aea66bdee398a9bb83886eececfbbca3373c195a35ae0646860b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/taylor-chatgpt-2026-symbolon-in-media.md",
+      "sha256": "796ebe0b4f2910fa1293fa4e4d624f39a719a5be1912a6dff81b2bd63b4f5962",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/taylor-claude-2026-derivational-chat.md",
+      "sha256": "b4ab68de815d63b559fbe3407eaa4f33725466cb1b64c8ce0674b80e16dd359d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/taylor-gemini-2026-pax-machina-body-without-organs.md",
+      "sha256": "d410387b3830722c2e219589109614abe67eaf40dd08e4c667015e5fd250143e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/taylor-gemini-2026-skenfrith-castle-power-history.md",
+      "sha256": "eb3ab1aa114b8b2f643d015c8af47523105639117dd72052a2c075f266ab41b1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md",
+      "sha256": "9505d32118524df0ae64e240b14b4959e935e2de7001af641bd51432411ecbe6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/taylor-2026-advent-zero-subject.md",
+      "sha256": "38ea87b29acfe30a2ab37b79940b57df6f42e823ba407822ef19edfd49a15475",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/taylor-2026-antykathera-csm-lecture-notes.md",
+      "sha256": "3648e51d0cf556243da77c86f97e4713d82c0a39fadd00830eb0ea50f8a1f6bb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md",
+      "sha256": "3573b76e859659202d67360b3a4500ec417f3333659451d8615df3973b36e6b2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-christ-mono-poly-theory/taylor-2026-christ-mono-poly-theory.md",
+      "sha256": "b13b17485bb0edf7107cedd17bbe591dc78fc665aa5aedf4aa5acc9b65cd67c7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md",
+      "sha256": "977670e8042c793c9db19196023aa922357696871f6692fffeafa26c7569e25f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/taylor-2026-definition-god-draft3.md",
+      "sha256": "eb582c0021dfeb009e48c0b3f2f7907ea36e0e2513cad079b4e700948a01f3e0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/taylor-2026-encounter-region-name-count.md",
+      "sha256": "66b10fc3900e5eaa94c0d30f798f5355e6b0b5745ac7315bd60fa20b08acb7aa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/taylor-2026-mef-twelve-lenses.md",
+      "sha256": "36719edb06f293e085c67ed6181c88bb6df39b21c6079e59fda5782aebae9e7f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/taylor-2026-mono-poly-two-ones.md",
+      "sha256": "1a2d6bc07ec06152a1624355bbb69b04214a98b7cc1b09a8ed19f00f55ce5513",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/taylor-2026-personal-poetry-corpus.md",
+      "sha256": "63bd1db6261689b518f6c6ae21785ba6c2e43bb98f8dce96c9fef32882fd84a8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/taylor-2026-ql-musical-derivation-v3.md",
+      "sha256": "f8481cde5554182466cbf0d4959227b89d36fb09abfbbc5e53e203e2fea2b833",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/taylor-2026-revision-notes-trust.md",
+      "sha256": "437bb38f5539c03f296873bbc2ad023cceaf200c3e760ee92c85399da15c2b8c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-sym-dia-ballein-views/taylor-2026-sym-dia-ballein-views.md",
+      "sha256": "eb59c6bb578558c8e61c6360a8e430aba3b5eaf2a28ecd3b6f61ff792d069c08",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/taylor-2026-symbolon-dynamics.md",
+      "sha256": "b15c41b10b276396933ea0b012769ffe2e1051a085f9a12406c52e60b0dde3ee",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/language-literary-studies/atilf/atilf-tlfi-regard/atilf-tlfi-regard.md",
+      "sha256": "95d37fd95e9e2618b6a82803f4bba8968c7937caf9106a0075ff41d9d0028738",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/merriam-webster-online-dictionary.md",
+      "sha256": "02b6008c71b0e7043663ca6ca4a0d61d795b700ae0d202204c9c9bbd91dde11f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/language-philology/lewis-short/lewis-short-proicio/lewis-short-proicio.md",
+      "sha256": "eccab27d58adaa5763a2e2851976d50942c62538578e5979a054d04baa2ed16c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/language-philology/liddell-scott-jones/lsj-genesis/lsj-genesis.md",
+      "sha256": "946b8e7588b55d1376370ceb0f832ce1fc1dedbd8630f3c9faf380aa10ba4949",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/lsj-paradeigma-paradeiknumi.md",
+      "sha256": "f1b4483e0569b929b356e3b0e2778294b8c10b78ab8395772034e12cdc0ba4d9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/goethe-1983-selected-poems-nims.md",
+      "sha256": "c61bea23502813f15c6c2a0cb8c39ff491eabe55660ccf8c5fdf3cbb95bccfff",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/MAIN-SOURCES.md",
+      "sha256": "dbed13d931afa2b956c4bc6711e7dc4204a2948b926e6cea80caba85ff6a4ee8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/bhaskara/scharf-2010-bijaganita-digital/scharf-2010-bijaganita-digital.md",
+      "sha256": "cff0a4261305b704bd129380f659e0c98b9dfbb9c0d8b4c1171ea9902a08ad5f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/bradley-terry-1952-paired-comparisons.md",
+      "sha256": "6d76f2e51cb419bb0d45698d8684f1e3e10dc806038a0931f0250a473b59aa9d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara.md",
+      "sha256": "a18284b99321a9cf41cf8311b7f703a000b965fe95102a6721954a87cf27bd6a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/daza-et-al-2016-basin-entropy.md",
+      "sha256": "040244a7abe5881edfb42e9d3b7316a4971f600e9d7f42f45bd2f12a3e8ecb4c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/dutta-2023-zero-divided-numbers-india.md",
+      "sha256": "b52733055d706ac85691f2e3138ad0ce6419e919849a4428b6b4ea5c9df6e47d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/garfield-priest-2003-limits-of-thought.md",
+      "sha256": "800a401f4bd77a3051986cddfe65e7df17af32a6f2c5a59faf2f1d7280247dc6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/godel-1931-undecidable-propositions.md",
+      "sha256": "a88cf4a521cc3dd2971a491c78bf99b91c9ec58209eee2b09e0be84294f62154",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/hatcher-2002-algebraic-topology.md",
+      "sha256": "03a5fb07f196143ebeb80f0124cc25090291b20c39d4916ca24fb4e40a3feee3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is.md",
+      "sha256": "a556d160ea78a3b62108c7dfc2594efc17bd9e8955393244064bde17b5f4539d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/kapsner-2020-cutting-corners.md",
+      "sha256": "669da91cfc28a240340ce0298415707ef44af52acf7bcfb9bbd51a09f5be3e84",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/kauffman-2014-iterants-fermions-dirac-arxiv.md",
+      "sha256": "d7deceb84f99609542c4566e8d23bea90f8c4e54b93fe61a3f17a194369c98d7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/nist-dlmf-2026-complex-variable.md",
+      "sha256": "85a022c7dcd0b4c470c708bffb6a426d971c41da53b1063cf2cba6233d27a01a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/priest-2010-logic-catuskoti.md",
+      "sha256": "029d03403424586fae5641b49408cfec4244f3eb96302a7cb598304a41f87b75",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/priest-2014-one.md",
+      "sha256": "1a5cca52a080510c57eb8093a47f780821cc8dad53a9c722495c8b3225bc6a20",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/priest-2018-fifth-corner.md",
+      "sha256": "f1087cb81e1080d278bddb451a7b3495289439c6fed5f5ff5a237a7c06e5f048",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/raatikainen-2026-godel-incompleteness-sep.md",
+      "sha256": "1eb6d413881058958d57b3f81e7c14433ca2b288623ca840fc2876f371b180c1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/rotman-1987-signifying-nothing.md",
+      "sha256": "f03fe35206ff7b59b4df620b184788934c7bbf2f355beaa1a22f63780e6c6cca",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/russell-1908-theory-types.md",
+      "sha256": "6a14291b59a8434dadc12bfdd74017c47a662b98da1cc620fee681ca580eb357",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/scholtz-1998-algorithms-diatonic-keyboard-tunings.md",
+      "sha256": "744302a20039b63c72ed2dedf013382797400e2b67f0410a83b3fd1b0310ab65",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/sheffer-1913-five-postulates.md",
+      "sha256": "7de5d9948da0c3e5594041814c5e12241fdd6851fcebec01b8a40d614b2187ac",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/spencer-brown-1969-laws-form.md",
+      "sha256": "6570394d986f2d653743714e1161dd53dd65f1445919c5fc2b7c224c50fc31bc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/strang-herman-2016-openstax-calculus-v1.md",
+      "sha256": "93f6d741a28c18a8bac9d7f355cc28044b1ea3f76e5118c8fbb448dec79422e0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/whitehead-russell-1910-1913-principia.md",
+      "sha256": "c51d965cc3556f63c4ca039570b33932a5d5acef72b37729676fce60218b9ea4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/42-techne-2026-sovereign-commons.md",
+      "sha256": "52ab5df0e15ec591fa2531db9efad3b159eaeee76f2fab35d6c6926e7be20c52",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/antikythera-2026-site-copy.md",
+      "sha256": "dcba6b8db8ef0873f69e887327b76f46f2d865e8efb6cd617c31b92960511bb2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/antikythera/ionescu-khan-milne-mocan-2025-minimum-viable-interiority/ionescu-khan-milne-mocan-2025-minimum-viable-interiority.md",
+      "sha256": "f4448351a707e7e1bcc3457ce468ce571a5266124e07f0d0ba94be94ab893c4e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/baudrillard-1976-symbolic-exchange-death.md",
+      "sha256": "8ee49a2fc9c4bf771f14dbebef1366905c871c749a90646ce461a1f20b665dd2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/baudrillard-1977-forget-foucault.md",
+      "sha256": "b75d6be7e96fd495589a96a2f4188af79b3afc2500fe659378ba18bfd18ad0e1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/baudrillard-1981-simulacra-and-simulation.md",
+      "sha256": "276dc72a802b3ff8540e795b0f82e76f7a8e2d02f3c89fe44f3e0d5bb674e5de",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/baudrillard-1983-fatal-strategies.md",
+      "sha256": "f699aeff302cc8079f2ca0cf728e7371a610a82695eb31b5bfa04492ad6b0819",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/baudrillard-1990-transparency-evil.md",
+      "sha256": "41c9d9b50d3ec3a571344a3cefe8cceb3fa762af1930eb897f7d09680f8b3d1e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/bratton-2026-agentworld-brief.md",
+      "sha256": "343786fba969ef5fd911de58f7bd00bd1605af7dee5d1f5f9044c3bafb096541",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/jorjani-2016-prometheus-atlas.md",
+      "sha256": "7e2dae91091a70190cc34a179a55bcadc087bb5573eb755f39292f983b75c2fb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/mcgoohan-markstein-1967-the-prisoner.md",
+      "sha256": "d68bd3626c317e8a06041afaa7735a3cb14faf7b973dbc04a2d1d42609ce39b0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/PASSAGE-LEDGER.md",
+      "sha256": "8fead3bfb00fe672c582824f48effc3b3b312e7c7814707f6fcdd3c961116009",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/foucault-1976-history-sexuality-v1.md",
+      "sha256": "a8245b7a67c55a382258efefe9a28cb0b0737e93e09d6da7355a0f1e87760980",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/gebser-1985-ever-present-origin.md",
+      "sha256": "fddaf532acf22d845096c0bfed4f2b8b3375ab90d27890815ac2b5783f2e532d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/heidegger-1966-discourse-on-thinking.md",
+      "sha256": "e6cc59c4d602021c3e4395526d9d85b0cf7431c5cd5beef8d60e5fdfd084bcec",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/heidegger-1975-early-greek-thinking.md",
+      "sha256": "8e4f6cf3a291120faf1c3be489f8024f12910b47164593ced01c84465a8daa2b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/heidegger-1977-question-concerning-technology.md",
+      "sha256": "aaad3e2e6c1ef1614db7f2a4980d3c89693f50cc7197498a397d99a632e0b601",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/levinas-1961-totality-and-infinity.md",
+      "sha256": "140293a343e0d4f69545e55c755c8ec959e73be26573e049fa8b2dccf92c6ef4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/levinas-1981-otherwise-than-being.md",
+      "sha256": "77868815f91530d2b7b8d7eb761f806f3410dc5348542224a28153d0eccf5114",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/maroski-2025-seeing-through-solid-words.md",
+      "sha256": "09e6c317756fa04a34ef689055f6b8ac5ea611b4417ad87bcb041e94a39ea2a8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/nietzsche-1910-birth-tragedy-haussmann.md",
+      "sha256": "d33b6864b3b6ebcbe70f63a8da943856f4c6d7feb1d5a2212def2200f31b1064",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/atmanspacher-2020-pauli-jung-conjecture.md",
+      "sha256": "1e8c551839b60dfc75dc2b066dcbbe1db1eb7d6c8bc709f7e475b7e32e1b5d9e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/physics/iter/iter-what-is-tokamak/iter-what-is-tokamak.md",
+      "sha256": "8f58e17297f6c5aead5f0112ca651b2d1f5d567b85bd1edde1710d423201f106",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering.md",
+      "sha256": "5257e11c4b08ee110b831a6eefd283816e39416bba3f74293cce6735d1c76788",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/bank-of-england-2019-payments-through-time.md",
+      "sha256": "0f1dd94df9f3006b36dd8df2e50a17a19093c8b276e2f4a50afd598cec7e3349",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/fanon-1952-peau-noire-masques-blancs.md",
+      "sha256": "6765d4588ff17aa0fa680b1ec5452e8f30b4ea6c71174692fd53d704887e0ad0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/francois-i-1539-villers-cotterets.md",
+      "sha256": "497766764150f0942da70ce7678e04c9d032104a576fd6a8aba837a38ae04dbd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/reich-1935-citizenship-law-first-regulation.md",
+      "sha256": "aa71c6d194dc39165c7b2e89102b242d328f397e39ba11a0a9e90cadb1bbb81c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/gregoire-1794-unite-de-langue.md",
+      "sha256": "044345ee13e6366b712d043ad6b77356061c5fc1c958191379bfc07a81636229",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/iakovou-2022-misuse-totalitarianism.md",
+      "sha256": "0839f0e6b8619bbd123a21afa32dcc61e68971d6aefb5ad8b29905fbbe88aaf2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/kinzer/kinzer-2026-mkultra-house-testimony/kinzer-2026-mkultra-house-testimony.md",
+      "sha256": "57816840b7eecf0272f709e0ea4ae631947ef2909482e50af11d8fd74dbff6a5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/national-archives/nara-2000-gehlen-disclosure/nara-2000-gehlen-disclosure.md",
+      "sha256": "98412365ee6c08bd24cff57f8733c91b107d6f378fc994b4c5c6bf737bb4ed9d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/ostrom-2009-beyond-markets-states-nobel-lecture.md",
+      "sha256": "a95843b39f60a0d75292ad069c663284692997ba415e0439d7825bf59caf088f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/united-states-doj/doj-2025-epstein-production-letter/doj-2025-epstein-production-letter.md",
+      "sha256": "accfb26303697d97c210d74e38843cc71db9bdc664758debc69f86fbb915cf1e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/us-1946-paperclip-policy-frus448.md",
+      "sha256": "8466d7b1620ca8f8b85f608d2ea9af33719b3553a85db6154d2bc36fd0037550",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/united-states-senate/senate-1977-project-mkultra-hearing/senate-1977-project-mkultra-hearing.md",
+      "sha256": "25316db411d22f1f8b7c2437793d827f069561f11af135a0c6c3a784bd8c5b19",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-exposed/wired-2026-dialog-exposed.md",
+      "sha256": "c052001ed634d6b1a4976b7bf37cc9745e22c921033f2ec04ba73dfd3c81484a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/political-theory-institutions/wired/wired-2026-dialog-rankings/wired-2026-dialog-rankings.md",
+      "sha256": "0c82559b3c348e3bbbfa9565329bc3bf04f17ae274520de4860934ceee99e085",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bergson/bergson-1913-time-free-will-pogson/bergson-1913-time-free-will-pogson.md",
+      "sha256": "e8e4e5398bc6134cc9a696f0e5bb2c3ec74944073e41dde5d3cd4d1410f557a6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/bohm-1980-wholeness-implicate-order.md",
+      "sha256": "e0b997775bd971ce2af338410101c3000d137fe3688cd0b72cb0ceaf41e0b700",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-1996-on-dialogue/bohm-1996-on-dialogue.md",
+      "sha256": "43d00440fadace0e753990aebad3b7b4e7bc8324304ffb33889ddb6e2895d8aa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/bohm-krishnamurti-1975-05-18-dialogue.md",
+      "sha256": "0697c2251d7427f109e9f286cfc6bc5f499c0c18c423c4f5042afea117dcd1d7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-on-dialogue-undated-handout/bohm-on-dialogue-undated-handout.md",
+      "sha256": "7defac2b1658f5af2ded4bc3936dbc660f3e47dc5e77216f69f8331599ae3dc8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-physics-and-beyond-interview/bohm-physics-and-beyond-interview.md",
+      "sha256": "31b6302d56e7d28cf0e6496a1e67078521a7d4cd934eb8f3c6e7c297bd519bdc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-postmodern-science-postmodern-world/bohm-postmodern-science-postmodern-world.md",
+      "sha256": "bfe1642199abe49c893ab4850fd9ab9ea9104d638cd40b9b3384ecad0b5ef7a9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/maturana-varela-1980-autopoiesis-cognition.md",
+      "sha256": "dbccb25ecaa45316e38829bafed839aba4c9628585a60b3b2b89c6722135a26f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/seed/seed-2010-language-spirit/seed-2010-language-spirit.md",
+      "sha256": "49df4ffbd3271c7dcf312cdb93c1fb94ea44e7e352a31aaac50bdea1d78bcc6e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/varela-1975-calculus-self-reference.md",
+      "sha256": "71ff321f509f7974d7eec9ef523a2ac3363007fb7cd45b913463fc9a07376d72",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/whitehead-1978-process-reality.md",
+      "sha256": "6402ab02d872f1be3ba6649937bfe03d9ff59295808269391336e24e6f126aa1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/adleman-vanderwees-2021-lacan-rhetoric.md",
+      "sha256": "bf23f79e8580a20005a3eb4c1547706c2ec749c90627f401f2a69197f4f26cfa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/bache/bache-2019-lsd-mind-universe/bache-2019-lsd-mind-universe.md",
+      "sha256": "bee47698b948e23fcea7f1cb5db3006b24658877b1a63db7316f4f8630fdae16",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/courtney-2019-salt-point-kairos-chaos.md",
+      "sha256": "599fc8c0b4b296c09e46ce49a77d9aa03c03d33ed30aca66045abfcdb316ab7d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/darmon-1992-matheme-ali.md",
+      "sha256": "d9d2be0b892dc0828227d0cb9282debb416192413a2e368bfc58c0021da928de",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/desmet-2022-psychology-totalitarianism-web-essay.md",
+      "sha256": "d63168e4c6d741da9b38ac5b1a2be723a83dc2f9425e2bc6402bc5a241f39bb8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/freud-1915-unconscious-standard-edition.md",
+      "sha256": "c5ddaa0f16059bc4e416d064f342da69eff164132bdde697a8dbd92f61a0eb7b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1921-psychologische-typen/jung-1921-psychologische-typen.md",
+      "sha256": "a9b10999f89248874c2d76edddb33ed4d245866f9b3c4756a9f81678494ad36d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/jung-1969-psychology-religion-cw11.md",
+      "sha256": "71ad3f6b60bac12ec1d81f57e60e3968bef28ba0d06d505fee471b99ce0fbdc0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1971-spirit-man-art-literature-cw15/jung-1971-spirit-man-art-literature-cw15.md",
+      "sha256": "70f13f348fb5b6800443a5b76b35b65534706180a8d66ce884aa85d4bb6bb86d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1975-structure-dynamics-psyche-cw8/jung-1975-structure-dynamics-psyche-cw8.md",
+      "sha256": "40125f8272e10e3df5fbc3dfeec07e625df5b9d18028518842ef5dad09c1cdfc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1976-psychological-types-cw6/jung-1976-psychological-types-cw6.md",
+      "sha256": "b34a1f647fa252c801f59a43a0ed139393ceb1dea7f3e8222f9dc55a8859a055",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1976-symbolic-life-cw18/jung-1976-symbolic-life-cw18.md",
+      "sha256": "3755cea2e96576350f987c8c5ad370e98b35ae4d22191be4f13704606aad2cc6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1977-mysterium-coniunctionis-cw14/jung-1977-mysterium-coniunctionis-cw14.md",
+      "sha256": "56e04ffc8a320733c629894b278e792187cd7c6a3a08f29630c96c7b9a75b05b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/jung-1978-aion-cw9-2.md",
+      "sha256": "e7692778bed873b3610ad323f88fe436fae6523ee6941f1649e3567c9259c883",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1980-psychology-alchemy-cw12/jung-1980-psychology-alchemy-cw12.md",
+      "sha256": "ee689de53c61e1551bcb19dae195e9425614936d603a67891fcd5353a4958fbe",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-1983-alchemical-studies-cw13/jung-1983-alchemical-studies-cw13.md",
+      "sha256": "1bb6b4817ea02675da41295c87bd8835c39302f2388ee414f11032d7d6fe1761",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/jung-2013-undiscovered-self-routledge.md",
+      "sha256": "52c906f575f8179663444442bd804f7228ae227a7b1756fe7ee18d1010c688ca",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-cw9i-hull-routledge-second-edition/jung-cw9i-hull-routledge-second-edition.md",
+      "sha256": "6e5b24039d602bd0ac5ef0e0fd70737d6c0720c07131755c9159bf0c919621fd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/jung-pauli-meier-2001-atom-archetype.md",
+      "sha256": "e765312f0ef900509b72e6398597b0187adb270329f9472a7e187ede47d77d5b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/lacan-2017-talking-to-brick-walls.md",
+      "sha256": "d22cb89b5a16070764a744540627e12434fa98ef2d09275617c54e297175e114",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/le-bon-1895-crowd-popular-mind.md",
+      "sha256": "e2fae2bd86a1d23fd7ea404ed531c8cce02fb9229b308352d18051051872a492",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/mcgilchrist-2009-master-emissary.md",
+      "sha256": "6e03816fc59d24bacecaf26ef40b26311ff3469e7c73f037795964f4502ae647",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/mcgilchrist-2022-resist-machine-apocalypse.md",
+      "sha256": "f6bc7294884e671690a58d2e9982184ae64079e0504349c99504a3277bc25d71",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/neumann-1954-origins-history-consciousness.md",
+      "sha256": "72499c98de3c0fa7763c3e6bc95881473a7c592fa803a3228beda2976f17651c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/smythe-2013-dialogical-jung.md",
+      "sha256": "39e0c6499ec0a0154a85d507eae6d263c76f01a6cc11a1a90533cfb1972bdfa3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/van-eenwyk-1991-strange-attractors.md",
+      "sha256": "ffdc813d2f00be36a42bff32efd3beff55bd2d1aaa8f41cf7dfbb8ec06be1ae4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/van-eenwyk-1997-archetypes-strange-attractors.md",
+      "sha256": "fe660c059b8e7e9df824326fd3c534eac501eca1bf94e83ff2001d6b50ddc2d6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/von-franz/von-franz-1974-number-time/von-franz-1974-number-time.md",
+      "sha256": "8b4c7d61c7fc828ed4b73e5142c3449a46962c76bf61a0783c21c001bdf786c6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/watson-1998-resonance-of-emptiness.md",
+      "sha256": "e6bdfbc3e2e00d8715cf5528300a5f9c777c44d4eb1ccbeb8b4c571bdfa79ce5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/README.md",
+      "sha256": "a94907113aaab33cf301f2fac9df9c692674f43708ca09f0134a5f2644ca15a1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/bukhari-sahih-sunnah-online.md",
+      "sha256": "af3e4572ebf6754fe9bda43f9fc118c790a87b20e1759eec54c0f99f001d600b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/religion-theology/augustine/augustine-city-god-dods-digital/augustine-city-god-dods-digital.md",
+      "sha256": "13f7a4b56925a6d0a3b35b1f66e39f01c87006d8bed9355d23e114cb0cc79419",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/quran-arberry-corpus-selected.md",
+      "sha256": "7c6733677f6c0ae0289cb55f8107686af28358b8949a46995dfeb0807c3f6a85",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/reri-ptolemaic-funerary-papyrus.md",
+      "sha256": "4ea5ca5e891b41189a5357055d556e4694222b81f0cf053f7ddca6f9f46d8904",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/research-intake-inbox.md",
+      "sha256": "13530f177be7ea002801388a13c188b0a1e7399ae8c59480d5a184349c32fca2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/SOURCE-INDEX.md",
+      "sha256": "5e407f6d5ac9578caaa05cbcb6c323df9f8f1e8d64ad03ef93975940d8be989a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/source-intake-queue.md",
+      "sha256": "dcfbd5cd964c85d67a4ac8608d2292b8c6e3a5c9afb58fbd3ea7150758ddab36",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/episteme/sources/SOURCE-TEMPLATE.md",
+      "sha256": "692a8f7254e0b6a716557f113bf37efc26a72a1de3a232b5446fd93985a267cf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/infinity-dx.md",
+      "sha256": "c7dd64d0676f438b8768930294aca9475da9314636037d51bb09221404dc8e0c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/computation/ebm-resonance.md",
+      "sha256": "906711078e10a17e801ee15ed0204adf5a9e6b934081a17d5521b6db6a9872d9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/computation/j-space.md",
+      "sha256": "f2d3c5c1511470afc148049a9e976ffd274108f8ceddc66ce8eca1641fe642dd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/computation/operational-parity.md",
+      "sha256": "07201bf1f81bf270be2a94b13ad290abf75c718408b6a6cc06aa58375aff3a97",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/computation/preference-gauge.md",
+      "sha256": "431a43dbe4e21b546af8696f6805b82252b6dd9104c040d01e7c30eaa1571520",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/computation/README.md",
+      "sha256": "2abc2ebc6ff6ded9a001a65325e852aa62b28fb819dfbc1afb5a6ec494fcde11",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/computation/softmax-argmax.md",
+      "sha256": "7b3854f8d36521a7ddf9f77edc4c40f35a677ce61c33969ec360ce2d9a4f628a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/catuskoti-crossing.md",
+      "sha256": "085ee2afcf2a3b8b7bacb3d3efe5aa902b18d1855a041a3961c750b8c6d126f5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/copula.md",
+      "sha256": "297bb20fd1a4020a786299fc23e795109f210683e1abe04cb6b8e0eead3d73a8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/harmonics-and-recount.md",
+      "sha256": "ceec978a946dbd068414270e1904a173bcc2c099381975e7b3eaaa24c0fab8b6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/immutable-subject.md",
+      "sha256": "0db92d57acb1f6b04d504b9c0fff63cee9684522619bafb45975e3165da0ee10",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/minus-over-minus.md",
+      "sha256": "77d73af7057d997f4f8870d9bb6f15ca9cec8a4059c855334e6247b498bccaeb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/README.md",
+      "sha256": "62f5d0ba36036ee5b4314d8077d4896324c432c21f1c1e3491a6398a4d56c1a3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/six-determinations.md",
+      "sha256": "979381b48395218417d52efdc4a6e6befe1ca3aca1285c8027d1bb357ca132e0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/definition/the-matheme.md",
+      "sha256": "6b9167b8b1e5042d1dda4c9a1e5475fd9ded38b9e2b5678dc1d0452179926d7b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/dia-syn/chronic.md",
+      "sha256": "9574f226ea5f5cb8a0fef18d9973e58ce98746fba77f16c4ea0779b88fd04950",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/dia-syn/dia.md",
+      "sha256": "9e8066b694bfecf2e1c46f2c63a4e5dcdeb5ececab88a2ebc16680d9a1a36d36",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/dia-syn/README.md",
+      "sha256": "e0ae0c72abe9680865e72ad041f1323c0bc83a23dc19a4ad0ec8182106cf88e1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/dia-syn/syn.md",
+      "sha256": "dea89b94106b04dd332d8e430e446d2900d0f002930f0ac51db6ed6d91d682a1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/atlas-two-chart-circle.md",
+      "sha256": "44007d8535bd2f488757d88def97c565affe1e53f25aa4d100635fe9e2cbb2c1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/atlas-two-chart-circle.svg",
+      "sha256": "cc8134185fe6a30ec5b08a8e5b4599d2d30ff91c2824ec2fec949b8d1f27e2d5",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/crossed-zero-recognition-chain.md",
+      "sha256": "bd326308191e219530aa56ae069dd0b6f981ab19ade73420c1b13901f0ea0f3b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/crossed-zero-recognition-chain.svg",
+      "sha256": "d91e9576fe275f03cade75489ee3650e2b1cb45f31a285693ea86d3739065b3b",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.md",
+      "sha256": "60ea42b1bf680ec62b6cf1589055cfbc844d7444cadb10eec8fc623b062a4ae3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/ql-unit-mandala-eight-determinations.svg",
+      "sha256": "34e01ac560b24c61ac50c57fe87c2e4439443b83e3454c5f9aa37d7280b04a3f",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/re-entry-projective-fork.md",
+      "sha256": "bcd55583789bd25aab0b419b3f0ac52b25291a1a519da9c1eee16b3ab9445689",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/re-entry-projective-fork.svg",
+      "sha256": "976e3c4ae9ee6e21efff844fd50f963e88a0c8e5287d5dbc92444e247c9b1f54",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/README.md",
+      "sha256": "1f5fb2de256d90b04d860928c7b17c1dcc78fe345373462c96bc85789b7de507",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/sheffer-nor-reduction.md",
+      "sha256": "809f0001db2c4f6f6d5d9f9d8d33e952dbff8ab8a4bb7f86396f5f2353e00e86",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/sheffer-nor-reduction.svg",
+      "sha256": "b139d2ce4c39abd2e39c7c5f3a08a2a1569d2f919042826bf0a7d5cd2acc17ec",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/spanda-4-2-attunement-stack.md",
+      "sha256": "024a64a18cd649294ec1a8c9029c3eb7d5f51601709e6dfa8828a5e33e72fd7c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/spanda-4-2-attunement-stack.svg",
+      "sha256": "4c3dc55467782e2b7f782c0ffeb7d8300f87f09b3f8eaf36facd728c39f0c7e1",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/torus-square-quotient-and-winding.md",
+      "sha256": "1cd39aa151c3e3aa99d5e7f8c17ae04a10069e66f9e35770bfa2c711eb5af1ff",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/diagrams/torus-square-quotient-and-winding.svg",
+      "sha256": "d0c2dbfa664208b535e50930218d929a05344af98fddc70f74255c6178b1ab00",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "sha256": "8ac431c2aad11acc18ebb94260a1b776fadbd9479679bdaa08d791dfe7c32db1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "sha256": "1dd8c1ba754d99e5ae9266250f526ec2b9d6f4fff672467fb24f9e8f5f1c4f24",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "sha256": "f1b439b72cb0163b910c12612d0b7c913459676e7a025b3566a9f9b93c7f794b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/crt-z6.md",
+      "sha256": "3f2bebf221b5df630cf4341ed132ec103c038616e0f289efdbcb6c163a02473b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "sha256": "f9496dfdf09ffa07d42a0c655528bc80029ab9ebbc00a0653473c955c6ee0cf5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "sha256": "d1669727556466992b3a306962b2cee24c9a6fd485b5d7c31af7ff0a8b8109ad",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "sha256": "81a6ad73e46b3ccca77590323ab7726f98354941a65ac40e9d91262eca5caf1e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "sha256": "7418a9a65edb798dcb6b261cab904b7bc6e6b86aeed666ac0768c38c66702248",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "sha256": "d6c48d7f2f5dbc39f57f77e003f7f7b07868911652cea4c88e5812c1d83b1eb6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "sha256": "54a0a10bf57f3b807b34742dd40a17aa1d696b698c3631f41fdb2c70c021d669",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "sha256": "b494a3c29947233726b0bc6067717fa0a2fe157ee56996467d7c2748136fad26",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "sha256": "1f736aa905ab2d7b60d8afbaf75d3f6ec41708d34c004fb2c1931dd14bf0d8b5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "sha256": "736c1cdea22c70c0954bb98a2f64ec49c8bccca210cdbfc411a0acdc9491eab3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/README.md",
+      "sha256": "cd51f54fc5c270567320e446a527c065d1deacc9bf1e80081ae54ff3b60ec7bc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/russell-types.md",
+      "sha256": "f70346647b10df245bd27355c6868df8047f2520740d9107872566ac40269d55",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "sha256": "87bf5714ea99ba71824bc8f887c7fc07bcd10e963354ec22d8fe83060f7fc16b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "sha256": "42a0f42eb41e61629d8296254518af928be0d9acf7cc5cfaa5dc40f121193226",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "sha256": "74fcfc8361f2702b4244b1b9df66da706aa9541370c5fc4fccac3042f320f8df",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "sha256": "0724085d55a5f6f0af2537f2a16fefbd276934409eec4f6505655eb3f4bf95ae",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/cycle-interval-octave.md",
+      "sha256": "8c28c39d30ae73e2105f76d3e18b40cc05242c0c73b4b08fee21f32b2f0b6865",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "sha256": "afa68b7b64e55803bd1a7baa54ff10630f597047aa822339ab747715324e9d39",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "sha256": "bc795764e7f7df04c08cc895e02bc0f12ba41ae35e921546bc107bee67a77cdb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/perfect-six.md",
+      "sha256": "4a77ee61fdc9af2fda90ee4e66c8499f5ba3151134104486ea3c3dddd3031c48",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/pythagorean-comma.md",
+      "sha256": "5cb280c10a1a2bae94f940a68f49d290b206c684783badde8edb3b21c4df38d8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/README.md",
+      "sha256": "c9e4c80cd848aa20aee7933e9e621ac2099e19646565f010e9ccb8d5e89c92d7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "sha256": "3bc21e5bb36e38e86c1e03566d3cc360f6ca0a8a0853e91c193551e35fd42dff",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/harmonics/whole-tone-return.md",
+      "sha256": "a86d98d0e212c5e749bfa592400253fad73379b81ad369ac7aaca0b10b61d4f3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/mono-poly/mono.md",
+      "sha256": "a688c4fb7942771da5628d096f9f9a97bdcde5aa53d33358d2080c190f5570ce",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/mono-poly/poly.md",
+      "sha256": "132554dac52bb88a0fc90141f63a9efc01007d44996f4ee2de448be86afcda45",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/mono-poly/README.md",
+      "sha256": "e5daaa1b93fe10d0bd9c21854eb87d3801c8de49712adcc8fd1f449b16f1b2af",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/mono-poly/translations.md",
+      "sha256": "17aa3c34a6b516b5820092d9828328c86fcfc6f74cbb03323c789dd7df7e91c2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/chromatic-substrates.md",
+      "sha256": "33661a1ca00cff8fe22077aeb625ad6fab2aba17509a58ea129d45dc3915d9a8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/diatonic-cf-grammar.md",
+      "sha256": "ff4833fea32b71b9970466734dbedea1f6a78dc3f507cb692bfce2214e595878",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/field.md",
+      "sha256": "e2dcbca924813c79636cd423c2b0160fecd857151de0d3b39d0e38e30c4e9560",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/foundational-ratios.md",
+      "sha256": "dc31d9522975c2de37ba5e039a84915d377aa19a4c9dd36acd831643940d7ac4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/lens-anchors.md",
+      "sha256": "288dbf52bd91e80f0c8affa1e35e612cc13b3640ce47732650a3d6061fc52f76",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/observer-instrument.md",
+      "sha256": "a085c8d67ec9c9cb1fff4a21804bb3c76b6c6011d2ade552e530aa6ae90b0180",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/pairing-grammar.md",
+      "sha256": "afc9d140de8a81f3fb99289a02de0db8425bf009b49ffabbea82505890c4e724",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/music/README.md",
+      "sha256": "62a36922dda89e61c1c0961a49cc8e5ab829893b3ea2c40e94da96951a78e864",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/harmonics-symmetries.md",
+      "sha256": "8b667d4d03b11a420bdc8da459761cd7db2821b9e2454e2b5ec9e25ba6443153",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/phase-flip.md",
+      "sha256": "aa3e52c8e49bf2d89e082caebde7dff8acd612413ab8712786a804f3658f58e1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/ql-positions.md",
+      "sha256": "d2f2affbff48dfb65dd6dd6e2272872f514cce9db8e66910ece7fb5532f33d52",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/ratio-threshold.md",
+      "sha256": "22ae6d0d65ca6bdbacd08be8f5199ba2db4d02566ea0d4ce3e86643487dfe92d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/README.md",
+      "sha256": "134d414263c8410d8b2f05c9a370845729b234ab0039113b8f0322b14df1c01f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/spanda.md",
+      "sha256": "7cde7e5d5d90fc6fc8ac355494d8571c2fbff7286ea8469e6980dbcfd61f5907",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/t0-onto-logic.md",
+      "sha256": "afd8be7a059a69e6761909c7cdff86155799be7297d52e360c1c206fba81da34",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/process/t1-geometry.md",
+      "sha256": "fe282d213f5d80a8ea579c2d61e537dc7832a8015bb9ecea1ad08ae307bf9f1f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/binary-and-binary-of-binary.md",
+      "sha256": "7d6981b1feffc94eb8ac2a1f089dafbc4ebbca6498cf0210eb080b29b88b9174",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/complex-orientation.md",
+      "sha256": "9910d3b1fd42ce760c5e64cc140b497112bb87d8f40e7c3c0403a86c07b9dbd9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/crossed-zero-re-entry.md",
+      "sha256": "f2728965bc8f72bb27d41716a24ef237daaa8f781f7dc238b5ef3dc5cbb39214",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/eight-determinations.md",
+      "sha256": "f7e97520ac473aee8797b8cbee18c8e695ba24cf595ea33cd06c7afed3129e0d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/primordial-symbolon.md",
+      "sha256": "5c12187b79afa3af9fb2c3fc702cdebc5b22a12cc9859f700d034069cb16b3cc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/README.md",
+      "sha256": "a3a98df3fc20139d7864850a1771e6a7f93b6d6206358c92c4899b7e084dce31",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/slash-and-or.md",
+      "sha256": "d10eb26a6f78a261d18ed314cf28400116c1eec2265ebce5f8a36bb4868194f4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/two-ones.md",
+      "sha256": "97b80469f162ac0bdd6a66f1e5e0d2055659aebadb2dfbc085b5afbe68226ef8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/ql/x-x.md",
+      "sha256": "b8144e53c695afa691e3646dc8cee784de9ef1121b2fffa2d15d158ea15f1b6f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/README.md",
+      "sha256": "f086fd2becbc6e4f6b3f15765b3cfba88302927bdbe2f718f46adb68939ffc26",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/spanda/README.md",
+      "sha256": "72c68cdcf3f86b8bdeffedb5ac1cc117441bf23dc5e984c6b9dd108de8d94245",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/spanda/spanda-equations.md",
+      "sha256": "835cc5dd7a1dc411a0e7875b1988f3a1bd93ead60051d38d337ef4788b74b9ee",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/manifold-atlas.md",
+      "sha256": "2764da7d6d196475cb99b9e633d0f61d95bdfa5aaa41b38a0389d6404bfb38f5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "sha256": "d8d675c6066d05c96b078a3f38fcf8c4f2aa478f299b3ad41fdcf07a151f7393",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/projective-completion.md",
+      "sha256": "f90a12cba0a14d7a787b6dad15895e4422f9dcc08efeee1028337da06a136816",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/projective-line.md",
+      "sha256": "91b117257fd11abc9a34772b85e47520c317bda5945711405860e6bfac33af4b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/README.md",
+      "sha256": "72c2cd5c807609290a0d7cc572dca3278ea9f2bf5862488946b5cb85a15da71c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/riemann-sphere.md",
+      "sha256": "eb39e75c2323fe15060b0616e9ee3d4ba5638ebe8863721eadbefb2861571b96",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "sha256": "17c9cd28bed3b388c161a89d2708f2b205750e11dec1fbc600f4d9abe3f75c53",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/matheme/topology/torus-cover-winding.md",
+      "sha256": "ed8ed183a2bfa2ed1c391aee5e315452d8dadd43b4b68dea971e4f7b85440bfd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/minus-plus.md",
+      "sha256": "9b9027f7546811aca89104e2f940215f1c40ab87e337c1836709082a1540596a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mono-poly.md",
+      "sha256": "04b9bd2b33bfb568c046986bdf30ce6c28572995d7b94db4fbe558d8b16d1547",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "sha256": "6d943c90f226955544e30abb31fb674a2b2e4ce3d5f9757c863ef1ba34ee1e8f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/archetypal-ground/README.md",
+      "sha256": "48bf69bee384cc4b9d2ef7db8bfc8b15a5f421031758f0ea581f9090085e430c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "sha256": "66f16143a1ce72f6baa78ad32ace1621749baf156c27e5b675d5f9b304ab0705",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/art/README.md",
+      "sha256": "827dab8bcf63bede7f28cc08c3fd3b79649e9babaee9b6ce812136241388d475",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/atlas/geography/README.md",
+      "sha256": "0dab65716120448eb97ca64c6b3a3a4aec46ac1696d4f5c04370cacaf757ebe2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/atlas/README.md",
+      "sha256": "67d50c267cf1cfc45053c6941d184b6eebfc6176dbab2a15bdf1089f75caec20",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/atlas/temporality/README.md",
+      "sha256": "ed24ed95947b795594cc285650a53cc0edfa6f36efc66dc1e29f3ae08739eaf4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/media/README.md",
+      "sha256": "a355e908cf1ff015a891cdfaa5fae4de74fda6baa6e4c50b8af0bd79eeba8172",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/music/README.md",
+      "sha256": "59b37be374b3a6d5fbb31a3153e74bf75e543ea61b15e18ded79d24f832a8110",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/myth/README.md",
+      "sha256": "157b257fc06aaf607d2d9624e53598b0cc614bffe55313a55529c8da154126e9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/narrative/README.md",
+      "sha256": "a7dba5d04e0fef5af7b8d5c4162c5ac7661511df5d0fd76b72547c26fb9e0f32",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/crossed-zero-stroke-does-not-fill.md",
+      "sha256": "d322b36b138c4776e15280266d9713c02cf3929889a557098e00c8b4d3ebd066",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/crossed-zero-stroke-does-not-fill.svg",
+      "sha256": "2774a8b08ed9777f4c6434cc2ce0422b5fa8ec9173b1e9c1cc137161357b0690",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/mytheme/plates/mechanism-gearing-non-closure.md",
+      "sha256": "0b9c3e3583de7304d2fb4b8bb8fc841cffa9f59bc1d9b3f1cae1386d591368f2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/mechanism-gearing-non-closure.svg",
+      "sha256": "2a5d5f17db2bf28d3772949b9dcafa5b08d6df51ca0e07d22b730641249d0cbf",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/mytheme/plates/psychoid-field-one-seam.md",
+      "sha256": "121c6206babe83ef73011523185d05972dae33ada5ce384f6470dfdfa48b8eaf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/psychoid-field-one-seam.svg",
+      "sha256": "14b0c9f58d893b0e8562093c6545795821777b29a23a7885e3857fb827adb7d2",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/mytheme/plates/README.md",
+      "sha256": "044c7ff5b76fc12c6f4363b8fce29af2f819006c013d0fc58856bba3970ec7b7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/salem-sign-migration-field.md",
+      "sha256": "5bf741ba6cbe11ab3a804b5009e6fc2e010621bcaf440c33e0b2d266d6f029e6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/salem-sign-migration-field.svg",
+      "sha256": "9ad58d125079fe9b16bec429f2d8ed805f0b1f956c0ab7d0141096027ea84f1f",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/mytheme/plates/two-nets-indra-hephaestus.md",
+      "sha256": "2e2498314bcf0fe6ab530b5c429cffad1c17792e2e5cc69364257c9cbeb51e20",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/plates/two-nets-indra-hephaestus.svg",
+      "sha256": "2f07f75282a172f2a40ccdc3ebd11d600d35a1a939b4d4d5d510d72ee2fdf899",
+      "kind": "asset"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/0-1-one-and-all.md",
+      "sha256": "96296913b4b749341f4bd9be01fdf56018446def2ec1d24173f5a698ae02d4d2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/a-product-of-no-means.md",
+      "sha256": "646da91abbb809923f1e433c6295337b4dbbd6f12642405afd796138256f2140",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/a-world-of-strangers.md",
+      "sha256": "88f18a17deec97ae7f60a335595c7a92d0c291c887c5af90a037c2087909c42a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/about-time.md",
+      "sha256": "013da9ac2a3bcacd9d149d93402809a36340acc3e66c211d2078b9d93e95868e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/authenticity.md",
+      "sha256": "187eb59d64878dc6ce092ee3d101e33ff9b83ef4cadf170730fe1f76c3ca7440",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/beauty-changes-our-way.md",
+      "sha256": "cc1f22dac2577ac712dd7c081bf1d1550d333bcee1bbd08c22281063770ee2bc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/being-being-a-being.md",
+      "sha256": "075a0fa360e191c4903713a8cd7dcd6c837a2729dd20a7c34e3fb476f394448c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/beyond-measure.md",
+      "sha256": "e81728b3374d4ec27ebaadbc3bb06fc11ce7fc6424be7a550d1a7f91cbde9519",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/beyond-without.md",
+      "sha256": "02a63b172c1e061d4d011ee6cf53e3898f6efe93c3dac9db2f7e50facdeec9d9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/bondage.md",
+      "sha256": "7952df7c48829d9b58a806012bf31a3531302fe610b797c1cdb016c03e3a970f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/cards-in-the-deck.md",
+      "sha256": "d472005ebadca2691cc6c8bac0d28bb1b6e3b41144e457226b401cab225741bd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/cat-and-king.md",
+      "sha256": "a1a79fab5ceb86b0e6fd67eb3d6e9df798c97521cd9a53b19329d80b85da1b6e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/cell-on-cell.md",
+      "sha256": "84392cb7ab584f140b46a73f85a576d50a137925585ae617eebaaa3d10affb61",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/certain-uncertainty.md",
+      "sha256": "391acba345d15fbac85b63d7a35c113057f8747a2888c3da2ac81c3e1fd84bd0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/conception-of-thing.md",
+      "sha256": "4791d728312b7968516a75ea0cc95cd6ff459d78d13008ee6f6119f37a2152fd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/consequence-inconsequential-april-2026.md",
+      "sha256": "3338f20dc29382edab32da6726ad4461ad4ba9ff5b78ae7ce3e2819cf0ff9cd6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/deal-with-the-unknown.md",
+      "sha256": "dd455dcf37cb8c635d86f0322f5ca5bf04b5594a287395336d4666b3cdbfd9d2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/dignity.md",
+      "sha256": "ed11c498caf7d87713f5a4dbe5b73e0eb5bab3544081fa5e5206c29442a260a3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/do-not-aim-for-rebirth.md",
+      "sha256": "016df2fc478401eac6c8ecaa334f42464ec8f05dd2545b283b65ad99741f228f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/every-field-is-a-way.md",
+      "sha256": "b3f503b637f9963fd98f321da93e8987f6d51688abf4d87a96afb14bd3754d22",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/family-dynamics.md",
+      "sha256": "7bdbcb8863702ef9d430c1edc024fd6e969ee60a7933f3d18e9084bb7a68f08b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/farewell.md",
+      "sha256": "455c02e3320b64048f4f17390c11f1e87830664a8c9a4172b83225bbfd52202f",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/feigning-unity.md",
+      "sha256": "ad1637e07123038e2ef1b79a28e0c4aa8411d82ae17a81b5a22ac9ad9b5f5ad0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/fire-unto-itself.md",
+      "sha256": "8315d48c8aba5ac5398b735c1b47e59e0f9f26e3fe186b994442306cad463f5c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/for-beauty.md",
+      "sha256": "756332e59e5b6c8c2c26017cb1224e9696af3775a9949166455b71b7b71f189a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/forget-the-assumption.md",
+      "sha256": "91e3c1ec334e54e2c99b906543c74d3854f1c84777bc5a4cc2d4a21ed9a64d5c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/free.md",
+      "sha256": "62c91e955a90c9d0611cc0038bec7049e863554beff7d107496eb2d6a3ec97eb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/getting-tired-of-the-bullshit.md",
+      "sha256": "e02ff85a4e5b49feed8ab02f5b213b65af7fc90e5767b099d13137a20d645032",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/god-doesnt-play-dice.md",
+      "sha256": "9359f59cecd76ed0739c6ce5ba0fb0025defe586b6f13b5c8301f3fe72f28f2d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/gods-art.md",
+      "sha256": "6bf300477cfc2b29dea77d6b6343bbe273b6bc936c677717e49b9c1fa13b8a34",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/good-jokes.md",
+      "sha256": "2d258e1d37b0db8e21972ffd5558f8730c88bc5ca286ee9a402a5c240c26e1b6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/heavens-inaugurator.md",
+      "sha256": "58239260284bea7ecf041c8488c82d311482cde4db6189f9039545c85d46220a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/history-march-to-june-2026.md",
+      "sha256": "ed6189ccad1487771ae365a62956505019f1b0668b1f8951aa84b6ea4b06135e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/how-many-layers-deep.md",
+      "sha256": "fd0fa283c07a4eb62a9d1b613e795365c687e7cc3b3c49708e5072d6865e6ea7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/in-need.md",
+      "sha256": "3a34544562ef66d6847a5eddb83a39d7b7ce8654719f909e40ab6b6df9340851",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/infinite-infinitessimal-may-2026.md",
+      "sha256": "cab9eac1534d0c005182a4af46ef0483fc3bf064eed80e11f1ab254b0a91ce6d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/intimacy-of-knowing.md",
+      "sha256": "ef903e99edb71c837c0cd73bedbc26f6b6dd9f9fc4e561543d98e24c83cb28a2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/it-takes-the-one.md",
+      "sha256": "83b3cfe2ed65b48f3fef6ff12aa2eb624da477c96b77a4252c65c128553b2dd3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/its-getting-late.md",
+      "sha256": "012e976a5d5a786b8e881ce3ba4b6ad7030b853dd337ebd0dd1ba7e471eb27b1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/its-not-enough-to-know-the-truth.md",
+      "sha256": "5ba439f30423510e7b253b63f44f706e58ba8b33e637450d4a104c1b3090be5d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/its-so.md",
+      "sha256": "6bcb3bf222c7bfd91b5cb62c030282798e7256fa2daabc04178f015e7654d5bc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/joys-estate.md",
+      "sha256": "f504272d236f7c8072e6839821aecb38808c9cf9b0941d5627f32995b6dfbb53",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/kalis-day.md",
+      "sha256": "608132aeb6a44748cf0f79c4f77a67ff8725193747b9ca9ded79de8fd30ce91d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/know-unknown.md",
+      "sha256": "935303b578a27111452c53a63a6d7ae02e0de8f144d8d83fb33cf43b9d37d4fa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/knowing-the-mystery.md",
+      "sha256": "920970b7ed8407ad17827c19bc3c9f446fc15f7a56783d9063ca95925a412247",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/knowledge-to-knowing.md",
+      "sha256": "97d39ad60c8ec10832d160a6daaad0fbb44abafd0153aeb454e2015efcc32f91",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/labour-of-leisure.md",
+      "sha256": "21d6c47bf50caa866f5b0dacf6877abca80d8ce43dadf9c411f01253844463df",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/language-has-2-options.md",
+      "sha256": "413975669f2478182e716cbb7ca8ac7ce999610b14dae7161c9d99dc041cc5f1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/leaves-in-the-fall.md",
+      "sha256": "f75945545d0b642c5ef13c5a60e3779b0a2eaec5faa916c7b3d3b704113b78bc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/lexicon-of-look.md",
+      "sha256": "3e6ab632a8f8cdce0ad0da736bcb10968ece8d02722f4946fa71a03db8c555f5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/lines-in-the-sand.md",
+      "sha256": "4d1dbeef41b62b58093d3ee3064cdd6ecaf592521c8743c076a94d7fc88f1cc9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/man-and-god.md",
+      "sha256": "24761d0fbfd6822b2c2f512f8ffeb79abe469c1e8792d88a3da359724cf79dd4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/mistaken-identity.md",
+      "sha256": "df202b93d637480a8afa9aeef670f72172f36f5613026f15e8b384fb52ab1f29",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/moon.md",
+      "sha256": "a63574fadeb5905fb9a1d8bcb38391a195c2861e913e72ec8e25f54cef291145",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/moonlight-sail.md",
+      "sha256": "ec0261316433852da35abb9efb3b6ce1fe4606757a6b999e84ce5fd5c8783a2c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/never-yet-to-come.md",
+      "sha256": "1af62d94eb04afa02ccb714ceebcf6d287ae02c6aebeb5fe159fe6535d5a0720",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/news.md",
+      "sha256": "4d1f9ce3446d4224ad73b66fe8111f476ac149fb85f2477e4f9f6934a8c3a2f1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/night-walk-at-gaia.md",
+      "sha256": "a9a3ebc2473c3726419dcdef0f6045bba8df95dcc0876b55c60705a233efbdd4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/nothing-but-the-miracle.md",
+      "sha256": "1fd59855cf4022d7e302ec0bb9790b3e65d447de0de44c7568ce8812547423bd",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/obviously.md",
+      "sha256": "13955270d0a885a29fa41c762467ac4b1638d530be62735b0ff89182e28520f7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/ode.md",
+      "sha256": "0fd149d5995119386651f7e54de1d7c015a82ffed765234293d5b85d6f4123d7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/one-infinite.md",
+      "sha256": "e02a723300f11a45b3be7a7a62cd3c4b05f8fb7510e797e76847a1e6596fd1e7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/one-thing.md",
+      "sha256": "52bc0a698ba8205a5d2ccc09c8015c2bce946d4725201dc9c0fcdcab0547b849",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/out-the-unknown.md",
+      "sha256": "c77f466cd8e39ae31cd1ab16ab0229ec7ff993b9ef8d1d063329e62fad90afa0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/petty-footnotes.md",
+      "sha256": "d3c73f8e3ae3818f68791ad8a8d8d752f661022f2a3e1b7ff700debf55133021",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/poem-07-06-2026.md",
+      "sha256": "d91111aabde73e2218060fe89f5cf818df047d4e6b3e309d7d8617dfeec5973d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/poem-p4-lines-rewrite.md",
+      "sha256": "9f51e0b4779707d32d4debf9f684fc22cadeca0fd5a17a25c89221cd900bddfb",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/poems-and-notes-france-trip-24-08-2026.md",
+      "sha256": "51dab42228111f161a5c6f25f63901409164ab29cb9d1a3a55282d202b49a886",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/practice.md",
+      "sha256": "5e89a7ba1a0637880808a19d08e988f374949db3038de7f041276a0c051840dc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/putting-up-with-bullshit.md",
+      "sha256": "dd3142992a244e9f60cdc4c3eb15d7b43ee78c71f9e529a3ba054ec79a0aff5c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/README.md",
+      "sha256": "387c148f16cbeb6e20ec1a984a5cce1c98570dfdf048faf333a4bb3901f56587",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/return.md",
+      "sha256": "75e9f7ad4bdbbb589c284e099ad388e6fd1d2e6b48ea780683c9a8fcb2bcd8e1",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/royally-reconciled.md",
+      "sha256": "fdc4d77785d9579c43d04ae3700377eb83642686828ed674eb9f58cb6d787033",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/shine-a-light.md",
+      "sha256": "c3a48e5681ccee3bb75ffc4e85e3a4384c8597a21645496b95dbfeefbafe94bf",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/site-poem-p0.md",
+      "sha256": "9e157ff47c70ede9ee4bf737c15732b7fb74d42371c883d1e5570ccde7707b8d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/site-poem-p1.md",
+      "sha256": "c3c0f1c5806c33526ab6cae32d7ccb1e5e033f613e8222e7073eb2797f89eaaa",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/site-poem-p2.md",
+      "sha256": "ebf744cfc2fdc5b06da56ae0492ec16a7156a520bc72fb91df90387ab4945520",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/site-poem-p3.md",
+      "sha256": "8e3b76c12d9ce6afcb7152ac5ea74384a3dc00629f900f44f21ded219fce32da",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/site-poem-p4.md",
+      "sha256": "16261cff361611638626c52ce5c48c508137edeba2b5ad6e5d50899e80fd09f6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/site-poem-p5.md",
+      "sha256": "978a65d26f3efd72e0cf70f513262d4ee6e5960f6513c4d30eea0761961cbb70",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/some-or-sum.md",
+      "sha256": "01cf694d1c5a52446aae0328571b25df05725372481e1c60d18dcfdeb45a9654",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/spanda-karikas-arguments-april-2026.md",
+      "sha256": "db77a59f208ad88846a810b8ec9f63bdf2e8230a88ad0c63cd7ddd4e89df05e7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/spiritual-isolation-may-2026.md",
+      "sha256": "7ce0d2aa40cf2f16733acbaf0d8d8c6598eb850f6a869c68183a6e0502e0e33b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/structure-of-present-march-2026.md",
+      "sha256": "a855d5c54ee66f512d6dfcd685f60f5a881d5569941ddc1070a8da2f7ba259b8",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/take-it-upon-oneself.md",
+      "sha256": "1d4427a9157aa4c165bb62433c0ab3589503eaf726cd52ef688ac46f4bc9d3c4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/the-garment-of-life-eternal.md",
+      "sha256": "e3755a1838d5064c7ec492a569f7e66a5c95b01215aa3fcae61aff73902a0e6c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/the-minds-shade.md",
+      "sha256": "7dc3e2933ff1a61a8899d7e28337628f422700c8a7b552d78a39a8ef08b5bdda",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/there-is-no-truth-coming.md",
+      "sha256": "c6b546da52bff9eead3de03292da364e840d2095a906145efc9d3fbd95d02280",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/thought-cannot-know.md",
+      "sha256": "a19f3a5febddf75d8f3b67ad1f533bd0a49ffec9209bb7d1d377a018623b695e",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/undercover.md",
+      "sha256": "6cdb19a01981d0ad464ed7ed00a5b449197489cbc4b5eab46169d895998cf9b4",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/utopia-and-the-mothers-house.md",
+      "sha256": "52734d2ce600c75e8bbad2d415fe93599c788b899368415ab299e587bd782d26",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/vernal-breath.md",
+      "sha256": "fe85bc50a0e022bb3445026152a596f530138bbf1506d4f0f1faa64bf942de07",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/what-is-it-to-feel-may-2026.md",
+      "sha256": "f821f793648bcaeb9eddca0e1a6bd3d1882338a13278992a92d14264a89f1963",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/what-of-belief.md",
+      "sha256": "0a130433080733cc47336a809d291bf67bfde89cca197ad180860ec4e66e7ae2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/who-decides.md",
+      "sha256": "c09983fe02695dd1dc1668e32b650ca23ff67f9f62862ed9f032e18ea67f2e60",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/poetry/youll-come-again.md",
+      "sha256": "2a19baf03042959d5b4805b313d3e4ae7442d5210abddfbf3288957df5dff5b2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/README.md",
+      "sha256": "a9af4a1c248fafc3d7002dfca111510721921898d6df6db641c0f1c2fa837408",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "sha256": "93fa34e4a0fb540ae0b966ba427a9402ca6f84ff3e432b6b6146f3e49c4a8f87",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "sha256": "f9d05820e9e7f1d8aa9adab4517b53d1caa0c0e389d99fbfb2e3abea3eb6c12b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/analytical-psychology/README.md",
+      "sha256": "33905f94a1eafc07f83f30b71c38cb1fb346c0b8d7cf1fee9025c9c22310ada0",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "sha256": "80e707efc77c86af9f9d9ba8ccdd16f87d916fcc57734651765b4c958622ee53",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/biblical/README.md",
+      "sha256": "133c5ee73a3aab8555047b0e22cb65aaf314065d73f6ce8f582fd298fd7583b5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/british-television/README.md",
+      "sha256": "90cdc18ce75629498b0d4cae9851e7c2c4412c6072cf87b6fda0e0750e13ddb6",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "sha256": "9d9adb258e82622d8edae19987119cacf7e7b69df0531565c064660802315cf5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "sha256": "2ed4918d2736edae3469f0b91b98afbb2cbeff150485e70f634bdfb2e78f4a0a",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/chinese-huayan/README.md",
+      "sha256": "d5622b8d3a3f007b2e3e892546e2e4f84009331cd10c9d203388aaecf55fc2dc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "sha256": "3926f56f107f8413ea403c74b16928704a1424fef51e6f4f2394d18995738844",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/francophone-anticolonial/README.md",
+      "sha256": "c732a877502271c2a879297b693752e7326a5c621bf5a88e58f2e3a7d65f4454",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "sha256": "5ead13a597c215fbd3d790c1c08243d60b666cf57fa10bfc7647d366d245bf52",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "sha256": "525297b2080cce2519b3109683ff5e3dc06169cd649b4f446c284f27e77da668",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "sha256": "eab6b0200072218dd9bcc8602c9b90a9ece7a547c28eade6ca7b684407ffff52",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "sha256": "57358d4a20710733190ff82be54f67096c091356a56974f99ff3928ffebb53ad",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "sha256": "b0ce931ef119d943f9b08f56754e8997f12165c164bb56e5abaa67cf11615819",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "sha256": "bcec539408eea9e1abd71de3eeb92ab7725d657f1e1c3762f5ca8f1216883805",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "sha256": "d342c1eda598ef65dbfc30c9cc90360140b8454cad0fe40c963a2c8b5e45eebc",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/README.md",
+      "sha256": "1f652567760d215d53943a326459dd6132ed83838158f3acc5367fd4a39571e9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "sha256": "6a16cafdce944d8d100d744c567517e030aadb114c52c05642b22230860445b9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "sha256": "c5c9d1f5b79c1acaa117dba5c76aba7db52aba0cf9c709dba29aec328ab96804",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "sha256": "d7b0f41d486379495edc24f6246c0a910f60abb372e149624afa003eef24f083",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "sha256": "96c239df8f03779eb37dccabf0aed810daf8663c28ed043af556324436da06b9",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/german-literature/README.md",
+      "sha256": "f23c0e729d54623ddb45c1c0607c2e4dc0f0cf09ec59281d7cc2b44e60332ba2",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "sha256": "5a357a596fc55aa90e11104c0a79f2911889b3e86f410a3ee0fb2d0202299a86",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+      "sha256": "e1c8286d3aa42a693e217fe48aee8d4a6c80daf6a0ba4336cbc44ef311e52b4c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/hellenic/README.md",
+      "sha256": "a6062b292a3f2c272980895c6c23d1d362a2e8be8be7b4e3565045a1bf67ceee",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "sha256": "207966881669f092dfb8f7f67318d34c3227ad269ff54e6262cfd3b77e3c2c6d",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/late-antique-gnostic/README.md",
+      "sha256": "2ad1e73c00938184a9b6948633f09311bdbbbb65c73f12f180f1a03cd037227c",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "sha256": "f30f72425818ff96603e9bd02374b0407569737bb0adf79bdf0b6934b883f809",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/README.md",
+      "sha256": "0f5fea794a7da8e21d987b44e0412543ed3b3dd17054246d8772810e2364c06b",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "sha256": "bcb4796c614408294ea4775545f0a51be2ec76a5f6cb775e7fd1dc14ab4b8665",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "sha256": "79c1b1875caeed84f24f9e299cb4fb14271d5d3bccb27d671589f130822d3ca5",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/mytheme/worlds/roman-latin/README.md",
+      "sha256": "92d263577b755fce00f7e267deb221f7a2b0292215647ee5e4492f2507f23a08",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/question-assertion.md",
+      "sha256": "e0dc04ebf9293205265a6d9d38c8d71ee4f38a27c39050d83ecd7b08295990f7",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/README.md",
+      "sha256": "e3b351741bec68722f70509211a21a5eb74bd2e318cf55e1acf38b82245fe229",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/self-identity.md",
+      "sha256": "c21726363295657841da34047da4192df4580e15ee140de4dd604683c9f29836",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/subject-logics.md",
+      "sha256": "28a45898cdcee2949d2c229b36c204763a3d848c33958ad9fe63a916c9d336a3",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/the-slash.md",
+      "sha256": "658724deb9696b5b2e42fe7744fab0d9cecad07c0649c6ee864beb958e38cd90",
+      "kind": "markdown"
+    },
+    {
+      "path": "symbolon/X-x.md",
+      "sha256": "4864c1f18aa151dfb4bb14d7f770e98b8ccc27699cd9b5c1322cd638ee764a92",
+      "kind": "markdown"
+    },
+    {
+      "path": "THE-RETURN-OF-ZERO.md",
+      "sha256": "c6056eeab059f505d03b8542268e1ac81a97630012a2aa4c885f9d60b8844b28",
+      "kind": "markdown"
+    }
+  ],
+  "withheld_current_paths": [
+    "CONFRONTING-THE-LIMIT-S01.md"
+  ],
+  "held_publication_objects": [
+    {
+      "path": "THE-RETURN-OF-ZERO.md",
+      "publication_basis": "8265f382177086daff1fbd461c932b521babc971",
+      "publication_sha256": "c6056eeab059f505d03b8542268e1ac81a97630012a2aa4c885f9d60b8844b28",
+      "current_live_sha256": "cd889da562a281c93dea9a5843c96bfdc070d6cb3f5f6bd84491e1f426d146ef"
+    }
+  ],
+  "standing": "Curated reading projection of recovered source and reader navigation. The concurrently collated §0/1 submission is withheld; the manuscript retains its previously published development-draft bytes under the existing deferral. Live authorial files are preserved. This snapshot is not new prose acceptance.",
+  "commit": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "tree": "d9b8b6e3d398e992a87063de2484b74bbc5ac04d",
+  "ref": "refs/heads/publication/reading-2026-10-04",
+  "prefix": "published-reading/2026-10-04",
+  "local_retained_inputs": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/publication-integration-2026-10-04/.legacy-reading-inputs"
+}

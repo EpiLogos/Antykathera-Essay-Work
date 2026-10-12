@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="770" viewBox="0 0 1040 770" role="img" aria-labelledby="fig-title fig-desc">
+  <title id="fig-title">Objective Internality — the six paired product disclosures</title>
+  <desc id="fig-desc">Six horizontal rows inside a frame labelled S, World and Life, the parent field. Each row joins one unprimed MEF lens on the left rail to one conjugate lens on the right rail through a product card in the centre: Central through L0 Quaternal and L5 prime Divine Logos; Actuation through L1 Causal and L4 prime Scientific; AIKit through L2 Logical and L3 prime Chronological; Software Factory through L3 Processual and L2 prime Alchemical-Elemental; Workcell through L4 Phenomenological and L1 prime Phenomenal; Quaternal Logic through L5 Para Vak and L0 prime Archetypal-Numerical. The lens indices of each pair sum to five.</desc>
+
+  <defs>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#5b5347"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1040" height="770" fill="#fdfcf8"/>
+
+  <!-- heading -->
+  <text x="520" y="42" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2c2620">Objective Internality — the six paired product disclosures</text>
+  <text x="520" y="66" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#6b6156">Each product is the subject of its whole MEF pair, not one subposition within a lens — central plan §5; A/C primitive constitution; S0–S5 records</text>
+
+  <!-- parent field frame -->
+  <rect x="30" y="82" width="980" height="580" rx="10" fill="none" stroke="#8a7f70" stroke-width="2"/>
+  <text x="48" y="106" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#55493c">S — World and Life · the parent field (not a seventh product)</text>
+
+  <!-- rail headers -->
+  <text x="165" y="128" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8a7f70">MEF LENS (UNPRIMED)</text>
+  <text x="520" y="128" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8a7f70">PRODUCT · MOVEMENT</text>
+  <text x="880" y="128" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8a7f70">CONJUGATE LENS (PRIME)</text>
+
+  <!-- row 1: S0 -->
+  <rect x="60" y="142" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="75" y="169" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L0 · Quaternal</text>
+  <line x1="270" y1="173" x2="368" y2="173" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="372" y="142" width="296" height="62" rx="6" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="390" y="169" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2c2620">S0 — Central</text>
+  <text x="390" y="189" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">meaningful continuity · M37</text>
+  <line x1="766" y1="173" x2="676" y2="173" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="770" y="142" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="785" y="169" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L5′ · Divine Logos</text>
+
+  <!-- row 2: S1 -->
+  <rect x="60" y="226" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="75" y="253" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L1 · Causal</text>
+  <line x1="270" y1="257" x2="368" y2="257" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="372" y="226" width="296" height="62" rx="6" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="390" y="253" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2c2620">S1 — Actuation</text>
+  <text x="390" y="273" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">living articulation · M38</text>
+  <line x1="766" y1="257" x2="676" y2="257" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="770" y="226" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="785" y="253" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L4′ · Scientific</text>
+
+  <!-- row 3: S2 -->
+  <rect x="60" y="310" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="75" y="337" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L2 · Logical</text>
+  <line x1="270" y1="341" x2="368" y2="341" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="372" y="310" width="296" height="62" rx="6" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="390" y="337" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2c2620">S2 — AIKit</text>
+  <text x="390" y="357" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">potency · M39</text>
+  <line x1="766" y1="341" x2="676" y2="341" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="770" y="310" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="785" y="337" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L3′ · Chronological</text>
+
+  <!-- row 4: S3 -->
+  <rect x="60" y="394" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="75" y="421" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L3 · Processual</text>
+  <line x1="270" y1="425" x2="368" y2="425" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="372" y="394" width="296" height="62" rx="6" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="390" y="421" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2c2620">S3 — Software Factory</text>
+  <text x="390" y="441" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">transformation · M40</text>
+  <line x1="766" y1="425" x2="676" y2="425" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="770" y="394" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="779" y="421" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#2c2620">L2′ · Alchemical-Elemental</text>
+
+  <!-- row 5: S4 -->
+  <rect x="60" y="478" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="75" y="505" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L4 · Phenomenological</text>
+  <line x1="270" y1="509" x2="368" y2="509" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="372" y="478" width="296" height="62" rx="6" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="390" y="505" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2c2620">S4 — Workcell</text>
+  <text x="390" y="525" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">situated existence · M41</text>
+  <line x1="766" y1="509" x2="676" y2="509" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="770" y="478" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="785" y="505" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L1′ · Phenomenal</text>
+
+  <!-- row 6: S5 -->
+  <rect x="60" y="562" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="75" y="589" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2c2620">L5 · Para Vāk</text>
+  <line x1="270" y1="593" x2="368" y2="593" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="372" y="562" width="296" height="62" rx="6" fill="#f3ece0" stroke="#6f6252" stroke-width="2"/>
+  <text x="390" y="589" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2c2620">S5 — Quaternal Logic</text>
+  <text x="390" y="609" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">Transcendent Relation · M42</text>
+  <line x1="766" y1="593" x2="676" y2="593" stroke="#5b5347" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <rect x="770" y="562" width="210" height="62" rx="6" fill="#efe6db" stroke="#a89a83" stroke-width="1.2"/>
+  <text x="779" y="589" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#2c2620">L0′ · Archetypal-Numerical</text>
+
+  <!-- invariant line -->
+  <text x="520" y="688" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" fill="#2c2620">Declared pairing: Lₙ × L₍₅₋ₙ₎′ — the two lens indices of every pair sum to 5; the product owns the whole pair.</text>
+
+  <!-- status band -->
+  <rect x="30" y="706" width="980" height="36" rx="6" fill="#ece7db" stroke="#a89a83" stroke-width="1"/>
+  <text x="46" y="729" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c"><tspan font-weight="700" fill="#2c2620">Status: Argued.</tspan> Pairs, product glosses and movement numbers as declared in the S0–S5 records; products reconstituted/developed under T25, T26 ratification pending.</text>
+
+  <text x="520" y="760" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a7f70">Original own-work SVG · record: objective-internality-paired-disclosures.md · 2026-09-25</text>
+</svg>

@@ -1,0 +1,1514 @@
+{
+  "archive": "EVIDENCE.tar.xz",
+  "bytes": 4483584,
+  "sha256": "cdc53988c0af9ab7d2455e3bd5425ba0609f009a94577216f64a4928d647ea09",
+  "files": [
+    {
+      "path": "arguments/FIRST-PACKET-MANIFEST.json",
+      "bytes": 14917,
+      "sha256": "1b432e669301b8e9e7aedf4c911858280dff25147e43b572b4627b13fb2aa0c2"
+    },
+    {
+      "path": "arguments/PAIR-DISPOSITIONS.md",
+      "bytes": 12885,
+      "sha256": "482e93aafd61e3270364ad240ccceb1a054d8f2b98b0e7f71ec6da84e0bfded8"
+    },
+    {
+      "path": "arguments/PRE-EDIT-RECOVERY.md",
+      "bytes": 13367,
+      "sha256": "b9d88437db98dd234aa40b2cd6030457de78157e0f65ded2ddec4238edb2c459"
+    },
+    {
+      "path": "arguments/PREIMAGES.json",
+      "bytes": 16382,
+      "sha256": "e1a8cb63e151ca80b5b3cdd249337e92d04040a0f063dccd1b34a9017696d43b"
+    },
+    {
+      "path": "arguments/STRICT-DRAFT.txt",
+      "bytes": 13518,
+      "sha256": "88729c9d4c73635d1aac5e08b9610a96cce269d3c54caac85bf81b76e5742457"
+    },
+    {
+      "path": "arguments/STRICT-FIRST-PACKET-8FILES.json",
+      "bytes": 55864,
+      "sha256": "036265510146a002e6ef7045d9886c8a68ba064f75de8108870b1c1ed2a898bc"
+    },
+    {
+      "path": "arguments/STRICT-FIRST-PACKET.json",
+      "bytes": 73060,
+      "sha256": "a33bf53d7143b8868b9236fd295faf5ed48d8fa3ddad36abd138e1c00cb6ecf9"
+    },
+    {
+      "path": "arguments/effects/A01.json.gz",
+      "bytes": 50897,
+      "sha256": "d49ac035bdd270c61492d095020969453bca3916d98503622dc84d5db47a7847"
+    },
+    {
+      "path": "arguments/effects/A01p.json.gz",
+      "bytes": 49016,
+      "sha256": "bf6424524e88110665acd6d15424cbad02436141cbc155b63493465925153dd3"
+    },
+    {
+      "path": "arguments/effects/A02.json.gz",
+      "bytes": 50243,
+      "sha256": "4a4520a59acc56b3920db73e5c36281496d59e8bb7a19ee671cee8b304838d37"
+    },
+    {
+      "path": "arguments/effects/A02p.json.gz",
+      "bytes": 45986,
+      "sha256": "a97367c268ea0dcbc502f6d2c609178cea952fe49437cc9657e614103ff7c40e"
+    },
+    {
+      "path": "arguments/effects/A03.json.gz",
+      "bytes": 47513,
+      "sha256": "6410361b6543370730338cea85d83d52ed50f9db9f75b9428e0551024fae6c15"
+    },
+    {
+      "path": "arguments/effects/A03p.json.gz",
+      "bytes": 48954,
+      "sha256": "70a5ea6e3488988f3bcce54196320e2a06528c9d5619c12e79ce044a3ab0c9cc"
+    },
+    {
+      "path": "arguments/effects/A04.json.gz",
+      "bytes": 52398,
+      "sha256": "84b7def42610c52c995ab7170151fb0353230a91799df297e85ab8a5a064fc8f"
+    },
+    {
+      "path": "arguments/effects/A04p.json.gz",
+      "bytes": 49782,
+      "sha256": "75b8ff1c6fd15e83a0bf7fcc81acce29666e0883402160668a7dfd4447604f9e"
+    },
+    {
+      "path": "arguments/effects/A05.json.gz",
+      "bytes": 48926,
+      "sha256": "5df565c6cacb4abd20d971c9493775acad4d5623c52eb63254ca53fe1f39952f"
+    },
+    {
+      "path": "arguments/effects/A05p.json.gz",
+      "bytes": 48452,
+      "sha256": "6fbbb914f9bf9bb0b449bb361affc3a9ec75ad2c0fd500a419dcd445d46c1946"
+    },
+    {
+      "path": "arguments/effects/A06.json.gz",
+      "bytes": 51534,
+      "sha256": "3a985390b5771ac3211de05b2c22ecbe3831fc45724f89fb8be2c52c5178ab17"
+    },
+    {
+      "path": "arguments/effects/A06p.json.gz",
+      "bytes": 48170,
+      "sha256": "eedd42c796dcb8f71a2e3f3d75220b2bd13deab1444d87700f6f2f22e80f8683"
+    },
+    {
+      "path": "arguments/effects/A07.json.gz",
+      "bytes": 48407,
+      "sha256": "1debc9fd133b3cd62b7cf1036b60342af482bd45756bad0ecdc8b2de10fb4127"
+    },
+    {
+      "path": "arguments/effects/A07p.json.gz",
+      "bytes": 48716,
+      "sha256": "6ac80954072041cfa9671a736c45072d955ea78af3b78af00c3ee7a61721ddf2"
+    },
+    {
+      "path": "arguments/effects/A08.json.gz",
+      "bytes": 48246,
+      "sha256": "b50959945037986dc5531e358197be8d374ca1f97f21b359fb3b76b424e24b61"
+    },
+    {
+      "path": "arguments/effects/A08p.json.gz",
+      "bytes": 49403,
+      "sha256": "8ea58f0eae5260d689cfa70178543f5ba7763abfff28142c118781af72f11290"
+    },
+    {
+      "path": "arguments/effects/A09.json.gz",
+      "bytes": 51502,
+      "sha256": "01cd8a9522861ad8e0f667d7b02e507ed747bac46ab7e1bda0b5871027a60044"
+    },
+    {
+      "path": "arguments/effects/A09p.json.gz",
+      "bytes": 49117,
+      "sha256": "b51b39882636d1e619e95783b4eb2b74b703d59ee9a504d900bb513d1e435b78"
+    },
+    {
+      "path": "arguments/effects/A10.json.gz",
+      "bytes": 46668,
+      "sha256": "f5acbcf3ff255599fe88ff67e67a2f39545827d9d5a7eab1bf2423b56ec15b61"
+    },
+    {
+      "path": "arguments/effects/A10p.json.gz",
+      "bytes": 43885,
+      "sha256": "a84fc95ac30c52a695d92bc64d9357fe87f6ce23ce365db884d9b8dcb8c2926d"
+    },
+    {
+      "path": "arguments/effects/A11.json.gz",
+      "bytes": 42618,
+      "sha256": "5ba054f122f8eb17acef50e0818399a5e89d47b05daca668a6adb9a66c39be7c"
+    },
+    {
+      "path": "arguments/effects/A11p.json.gz",
+      "bytes": 48741,
+      "sha256": "315c446e10c842074ba7f9088d0b47699beeaf10ae9e444cc0e9ad411bacafc1"
+    },
+    {
+      "path": "arguments/effects/A12.json.gz",
+      "bytes": 47036,
+      "sha256": "c206f2dac599037646bff6814e979e132d6bda61c07023c5b064d326be826303"
+    },
+    {
+      "path": "arguments/effects/A12p.json.gz",
+      "bytes": 44593,
+      "sha256": "169bcc6c3ceac266801c3484598e7704ba7ab47b4c9645ef2b119f0cbae96b9b"
+    },
+    {
+      "path": "arguments/effects/A13.json.gz",
+      "bytes": 48746,
+      "sha256": "54d2b29a56e6badfa2c3477976e08006c5452502e3b11f188d498572402c6388"
+    },
+    {
+      "path": "arguments/effects/A13p.json.gz",
+      "bytes": 44108,
+      "sha256": "70739a0fe92c77d1e4234cc0350a35b4333c33db9596e2373e5f8f76dc7d3e2f"
+    },
+    {
+      "path": "arguments/effects/A14.json.gz",
+      "bytes": 51496,
+      "sha256": "b8b99e16c3484024d7b4a929e3f9c07f54c34c0f1a65af8ddc62d44f2df2d747"
+    },
+    {
+      "path": "arguments/effects/A14p.json.gz",
+      "bytes": 51512,
+      "sha256": "714242cb8d1f93dffc244ef930e5f3d507adc303a764a65c6674c0ed4fbda4fe"
+    },
+    {
+      "path": "arguments/effects/A15.json.gz",
+      "bytes": 48258,
+      "sha256": "fef9247279042fbc44552cda7e9da986da069c3d44990b877de9d57ef55d7c3a"
+    },
+    {
+      "path": "arguments/effects/A15p.json.gz",
+      "bytes": 47349,
+      "sha256": "46b2cfb1406cc2f92ee2402c2e16698a75b204b969a4149ad466231e5bcd5113"
+    },
+    {
+      "path": "arguments/effects/A16.json.gz",
+      "bytes": 51195,
+      "sha256": "d00d1bb4d39f3e245b4a6e268714ccf58cd596022e522818d1ce07c8a1e2b39f"
+    },
+    {
+      "path": "arguments/effects/A16p.json.gz",
+      "bytes": 55024,
+      "sha256": "81217eb9bb9f81dd2031486a72b2a1e4af503015d601fd47835b93ca7d92549a"
+    },
+    {
+      "path": "arguments/effects/A17.json.gz",
+      "bytes": 45912,
+      "sha256": "c91e01d4dbc7b3578235156a178f5ba558b476d8044066ef7f9b623395b47b4e"
+    },
+    {
+      "path": "arguments/effects/A17p.json.gz",
+      "bytes": 45580,
+      "sha256": "2f6893c27e6e77690ec42c96f6a1c503b1ab3dc867f039d30f2ef54f98d028f3"
+    },
+    {
+      "path": "arguments/effects/A18.json.gz",
+      "bytes": 43527,
+      "sha256": "5f508dafbd3f4d7af2f8d43037ddbe2df01687e27ebefe6c6ecff3b13a18126b"
+    },
+    {
+      "path": "arguments/effects/A18p.json.gz",
+      "bytes": 50646,
+      "sha256": "e1f427662bb15b41c8161a5b0e68524130c11525b7d6afc6d52634e4eef8c955"
+    },
+    {
+      "path": "arguments/effects/A19.json.gz",
+      "bytes": 47935,
+      "sha256": "4c6f568033a1897e1719e6e9160c0e8395b1c607d60be38178c0cb3e266a641c"
+    },
+    {
+      "path": "arguments/effects/A19p.json.gz",
+      "bytes": 50598,
+      "sha256": "8ba375562a7264aed5277a7be4ecf039878d054147150f5223c71cad4f14b10c"
+    },
+    {
+      "path": "arguments/effects/A20.json.gz",
+      "bytes": 51489,
+      "sha256": "d6b4717060f20887c413f626cf427bcc02d15b3496050e486381235894151803"
+    },
+    {
+      "path": "arguments/effects/A20p.json.gz",
+      "bytes": 50676,
+      "sha256": "8ef196bcd6fd512ef417babbda0b19b26178f6c499977f60f2c892962b2294ae"
+    },
+    {
+      "path": "arguments/effects/A21.json.gz",
+      "bytes": 49210,
+      "sha256": "fb98187aadbae9c87a41a51bab56850a87cff80686dac796690b2c6cf68a54a4"
+    },
+    {
+      "path": "arguments/effects/A21p.json.gz",
+      "bytes": 46682,
+      "sha256": "fa7cc0af8d451b6bd83477da3e10711ede4b128f03e49d668bda96ecda85fc2d"
+    },
+    {
+      "path": "arguments/effects/A22.json.gz",
+      "bytes": 52241,
+      "sha256": "d50af344dd81e20559aa05093d355d28c752cc8ca1b3899dc623707bcdae805c"
+    },
+    {
+      "path": "arguments/effects/A22p.json.gz",
+      "bytes": 55166,
+      "sha256": "4c9a7875ecf5fbc43214e125f520c616c3ea448ec494a9a135904ad84ed8dc6d"
+    },
+    {
+      "path": "arguments/effects/A23.json.gz",
+      "bytes": 47054,
+      "sha256": "02e80e05a4ed62dfefd1ad27027e41ac6882fb2c635dfa9fa8003217df4f2812"
+    },
+    {
+      "path": "arguments/effects/A23p.json.gz",
+      "bytes": 47118,
+      "sha256": "7f7e657a7ee638eab10f4d68f3b67f63fce7a68e355902e2731929d6733af6a4"
+    },
+    {
+      "path": "arguments/effects/A24.json.gz",
+      "bytes": 48635,
+      "sha256": "60b77776a8b49c6d280981288760588ceb7604a4bc9e6961634d26b5f28d5196"
+    },
+    {
+      "path": "arguments/effects/A24p.json.gz",
+      "bytes": 49433,
+      "sha256": "dd2c04977804fa4ecc9f4c80f0e49b9bb5e5ef46604e1bfb25a7307b1be788b6"
+    },
+    {
+      "path": "arguments/effects/A25.json.gz",
+      "bytes": 49694,
+      "sha256": "afb401b73a39a3d414c002e6b3ed19162bc032c7231e006f9317bbc355e2d1db"
+    },
+    {
+      "path": "arguments/effects/A25p.json.gz",
+      "bytes": 47346,
+      "sha256": "ed2b536922f4b5f0fca4c14e225c74879b7663680461a3a9fce54c5f2e6b6d6c"
+    },
+    {
+      "path": "arguments/effects/A26.json.gz",
+      "bytes": 50282,
+      "sha256": "e9d9d68613d68d3149518f54aa12aadb6b35861734d92aaa74397d181e417572"
+    },
+    {
+      "path": "arguments/effects/A26p.json.gz",
+      "bytes": 42366,
+      "sha256": "e112cd115f1de06a612b08e62e238f5dee3f996d7099eeeef1e9fee51a7ea686"
+    },
+    {
+      "path": "arguments/effects/A27.json.gz",
+      "bytes": 51264,
+      "sha256": "39c59b540b8e3335ed56770aed0c8e86a37858b020b9959cb3598d251173d9b2"
+    },
+    {
+      "path": "arguments/effects/A27p.json.gz",
+      "bytes": 52865,
+      "sha256": "b4f4cd813fd40a053ba880f139261e64b88ce02950fad05f157f0ed440cb73bb"
+    },
+    {
+      "path": "arguments/effects/A28.json.gz",
+      "bytes": 47349,
+      "sha256": "991a5fe9e869fa0e53f70fac40f3b620c141aff2db905f3018e82f33e8b9e765"
+    },
+    {
+      "path": "arguments/effects/A28p.json.gz",
+      "bytes": 47483,
+      "sha256": "c31772b2b095239cb7da8a4088c44f81bf84d9e2101be423635c11142d16b348"
+    },
+    {
+      "path": "arguments/effects/A29.json.gz",
+      "bytes": 52149,
+      "sha256": "e3faafb7835e25cd755d8cd6a8b5ad16d6b9012de9d169b2bc5192f81a3dceac"
+    },
+    {
+      "path": "arguments/effects/A29p.json.gz",
+      "bytes": 46829,
+      "sha256": "267b5d9e5092260556658d08899a9f762a1fad34c8eea180cb8f0d086a34770f"
+    },
+    {
+      "path": "arguments/effects/A30.json.gz",
+      "bytes": 52094,
+      "sha256": "79a857d99fa07dbae9be06aacf5bad9fa037a8820f9e7e91cbdc2ddd2a7357a7"
+    },
+    {
+      "path": "arguments/effects/A30p.json.gz",
+      "bytes": 52475,
+      "sha256": "ce3f4ca308f62c4a064d7cc6a8241d26ddd55e147b73616dbca4a52dd4760b6e"
+    },
+    {
+      "path": "arguments/effects/A31.json.gz",
+      "bytes": 50722,
+      "sha256": "65c28699b37b586dbf444d1166f6a12eca154bac17f71a8a392167182864c663"
+    },
+    {
+      "path": "arguments/effects/A31p.json.gz",
+      "bytes": 49902,
+      "sha256": "f733e526daa3be05380d7f0c71203e50700493a967fc5e23ebfa98b4930d96c3"
+    },
+    {
+      "path": "arguments/effects/A32.json.gz",
+      "bytes": 54003,
+      "sha256": "4a452f636e73e1619d19589c7e67ebaf168145f52b73cdeb227ca5b76385a61e"
+    },
+    {
+      "path": "arguments/effects/A32p.json.gz",
+      "bytes": 49656,
+      "sha256": "9f81b24dba8a019b360a1754523645e37daa22435401eaef984ca7a77607599d"
+    },
+    {
+      "path": "arguments/effects/A33.json.gz",
+      "bytes": 49739,
+      "sha256": "56dc1491929ee77bf02a231c01940db3b18e425b0065049c548487d3bd4e1c90"
+    },
+    {
+      "path": "arguments/effects/A33p.json.gz",
+      "bytes": 50035,
+      "sha256": "86a6baaae75dadf249402dac1aaa896e8595f5f495e1d1ae4b18e62a50c0b9db"
+    },
+    {
+      "path": "arguments/effects/A34.json.gz",
+      "bytes": 50430,
+      "sha256": "715b07fe13615c6e06c495410efee2fd6ecf2459c3e42d61d98a0f1d5c813453"
+    },
+    {
+      "path": "arguments/effects/A34p.json.gz",
+      "bytes": 49087,
+      "sha256": "e88d675955c6fda200bc68f9245298e64947f6cc7e5b2703ab7b4321dfedf906"
+    },
+    {
+      "path": "arguments/effects/A35.json.gz",
+      "bytes": 50111,
+      "sha256": "e834f8f24da8b55625a41c28a538a004d0618e762ef0e6129fe4fde7a3cf6a85"
+    },
+    {
+      "path": "arguments/effects/A35p.json.gz",
+      "bytes": 49040,
+      "sha256": "1ba5dd8a446518abacf1fa1acb234ee985756585e6a2c0599c2f18fb05d46c5d"
+    },
+    {
+      "path": "arguments/effects/A36.json.gz",
+      "bytes": 49666,
+      "sha256": "bf2cd1fedc5a3daf910ca4e15579af245cd4e8088a2e59c471d9e59cc5bb03f1"
+    },
+    {
+      "path": "arguments/effects/A36p.json.gz",
+      "bytes": 42656,
+      "sha256": "0d43905af88f7f3a8f2647e2e225fe40a7b747fdc08029c45248a04536ec697e"
+    },
+    {
+      "path": "arguments/effects/CENSUS.json",
+      "bytes": 83370,
+      "sha256": "0cb57fcf76d8a5fb6cd1130cd3497ef60e36ed9d969e4da40c3eacb04e83f2f8"
+    },
+    {
+      "path": "arguments/effects/COMPRESSED-MANIFEST.json",
+      "bytes": 24663,
+      "sha256": "a0801f171f9717b5d1480680c328fa6356700fb2b99dd9f2646fc2eda4a30267"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md.gz",
+      "bytes": 9928,
+      "sha256": "f4046615f9248c296343545a1f611dca5df06e541ebf0e61e5f29b91719a9492"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md.gz",
+      "bytes": 6359,
+      "sha256": "abfe580b14f2fb5db2cdb9987728764861be60e7ad6a153699cbbfc485a8b366"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md.gz",
+      "bytes": 6449,
+      "sha256": "6cf5b93df465f8ba79e99a694f3286fd21b5b9bcfd3e850d099dd190adcbe61f"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md.gz",
+      "bytes": 7053,
+      "sha256": "91823b12b6277a899f7407474eaaef21ce0912098da2b3d4b37a8fa9ab657e9e"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md.gz",
+      "bytes": 5653,
+      "sha256": "14ae8f652352caf9d4ce3740710b82501c79364692aaee9155173e8c28cf7c05"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A06-Vak.md.gz",
+      "bytes": 7230,
+      "sha256": "96e5093a6efc810fb62cb2a9c415158722410e75683bc505e01dd7b115b56b8c"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.gz",
+      "bytes": 4836,
+      "sha256": "0d19f0414da41b1b3fbe96824b02e7967e2a2ff0cc8ed12164b5de281272419d"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md.gz",
+      "bytes": 4957,
+      "sha256": "5d803a29fe8e18a919aa7a4cefcedfa798e1ffb4ff4358c70f7f5c2a6902c40e"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md.gz",
+      "bytes": 5960,
+      "sha256": "07e6e68cdf95c563ff5bb0bae0cc8555110b0010436e706901547a0052584b09"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md.gz",
+      "bytes": 6112,
+      "sha256": "fc3ed49e1252ffe3fcf3474be5ca18083a0937268852804b3148017b1704464b"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md.gz",
+      "bytes": 4966,
+      "sha256": "0ac97ada94453cf1f0029cd04db9a5cc85b4089edf6a9c33876bf8f0c0d67f8f"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md.gz",
+      "bytes": 4759,
+      "sha256": "c24c1c4a92eedd7aa357bcbb9e3d3ae88aac8eb6ebacf499e4234c84c113ff9a"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md.gz",
+      "bytes": 7391,
+      "sha256": "dad6ddbd5180502ce7da316ec7ba6ad5cf11fcec6d30966944c14c9628b9b3b8"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md.gz",
+      "bytes": 5114,
+      "sha256": "6d41af855551e1eb2a16199086257130e1e9ffe0db293797f43c6e1cc5bcdd6e"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md.gz",
+      "bytes": 5812,
+      "sha256": "91d2d34c56250b6e2cca35f881d1e2823567054576f8bc87b99cb265308f8087"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md.gz",
+      "bytes": 5626,
+      "sha256": "03a957632e259a3db20d7463333d67126ff38bd6b7d302ebf66faef867c60b08"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md.gz",
+      "bytes": 6097,
+      "sha256": "78aaa96bddefbca5b51d68306ae2831211f4739310477166456bb1879074cbcf"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md.gz",
+      "bytes": 5105,
+      "sha256": "860575f30a00d0a8bcdb11f68aeeab3311aef340932f2c0b16d444ac1ae0e587"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md.gz",
+      "bytes": 5428,
+      "sha256": "40c86ce3e703ed1cbfca137908d2b8c408615e59361b07bb26a8527492abbaea"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md.gz",
+      "bytes": 6692,
+      "sha256": "6de27ed58aaf6e9d0c305f1eacde6f039c2ffeb6c7453f068a20bfe2dd17ff15"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md.gz",
+      "bytes": 5444,
+      "sha256": "9bd30788a67036cf9e6bd81bbfbb1c0a83eab1719734a902a3e0bcb9ab967ff9"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md.gz",
+      "bytes": 5556,
+      "sha256": "413b184858d83480fcb44fc7102410535d79700b990541e286cdd3eb69d74481"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md.gz",
+      "bytes": 5295,
+      "sha256": "e5be6d204bed12ecff79fe90d0db6a557bcd17e712b3cb87d60915b72ee9922c"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md.gz",
+      "bytes": 5351,
+      "sha256": "e8868c75b46288180cd7a7aead055d400f3c3fe7dc0df2d2c9d1085280cff6f4"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md.gz",
+      "bytes": 5976,
+      "sha256": "20ee878329dd09de3edee15af0f56a1d12299e9fc0988889a9ac668aee0168b2"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md.gz",
+      "bytes": 7654,
+      "sha256": "3142ae1b37f43b870e972074461dd8c4326c3ae9889a787dad7640a3d6693a4b"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md.gz",
+      "bytes": 5273,
+      "sha256": "08942052abe2a3c11eb5c6b85017ce204e9eb03c8bafc2279a528625b31b236e"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md.gz",
+      "bytes": 4518,
+      "sha256": "f77008855d48829451c63a44f7c41852ed249c29d3d008cf19d4799c32dcff3a"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md.gz",
+      "bytes": 6295,
+      "sha256": "623540e6f2244f4a6e1f252fe0af0a8fba7e667fec72006e0491ef258b064827"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md.gz",
+      "bytes": 4483,
+      "sha256": "21daa27d1e3fee200ff095fbaaafdf191691c7c32be541a9d8eb3cef5097139d"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md.gz",
+      "bytes": 4602,
+      "sha256": "653f5e60776be43c423935b052c624eadb07e419df7504cc8294dd1a68da385d"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md.gz",
+      "bytes": 6814,
+      "sha256": "b30ba2b8462798e5cc2f50e101278febf7d37dd98761d0cc0c6c6910ff5669f9"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md.gz",
+      "bytes": 5699,
+      "sha256": "71527fd0327345503531702bab6e9790aa7aa735ebc0745796cf9f35184c92a5"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md.gz",
+      "bytes": 5342,
+      "sha256": "7d7213d6704054a740347b7bfa352f1d9e3eb43f0a7da5fa512d123502bbd89b"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md.gz",
+      "bytes": 5780,
+      "sha256": "d056d68fedab15c485847631d600033775bd9e629cf22ddfcff42f83a642f9a5"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md.gz",
+      "bytes": 5619,
+      "sha256": "b1318601e1a098b5106719c5b061001f6b1c4fd474b09513309d0e63691d9fae"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md.gz",
+      "bytes": 2620,
+      "sha256": "0ca58aaebe1a0f64bc8d8c8dcbabdf660c915cd636a40c97d4f79e5234183b6d"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md.gz",
+      "bytes": 3170,
+      "sha256": "4a5896a5728f6592e32966c9f16d97a9281cde9f7a13cd458162c783c60523a6"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md.gz",
+      "bytes": 2810,
+      "sha256": "2ac81f1de190b6be6f1d0b3fe320c8c917cad6ec26ff48e73b532721791336e0"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A04-prime-The-Mask-as-Document.md.gz",
+      "bytes": 2704,
+      "sha256": "4f2b7f3fe4dc596a16d02974e4ef086ae34a736c1f141ee98ded406e9a9e02b7"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md.gz",
+      "bytes": 3605,
+      "sha256": "e1090c1395bee959d46cdfa065ba86a8c8e30dc1c5008f9bacc6a7a77761e181"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md.gz",
+      "bytes": 3403,
+      "sha256": "6c690814575b07f35ead31fb826a57caccd72bb4838389afd3929301d11d1a96"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md.gz",
+      "bytes": 2869,
+      "sha256": "b20f4d0efdc447fe8367873e828e4083d40c7d8603a079590d0a3de443b5f057"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md.gz",
+      "bytes": 2969,
+      "sha256": "ea15a56608a36f419364520b4de13f771eb3eb57c908af45c911a564aca0300b"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md.gz",
+      "bytes": 3755,
+      "sha256": "cf143d3f7e0c3310583231a18a331ba5485af94a80cccd95090b0272b54755b7"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A10-prime-Uncounted-Enters-the-Account.md.gz",
+      "bytes": 2963,
+      "sha256": "532978729fc3a133844ae8ab9bf5d4079d00cd31b813a43b1a09f7297486dc31"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md.gz",
+      "bytes": 2777,
+      "sha256": "793a8cfc7e6d6966b086e417263eab7f24ae9cf24328cb30ca0ae4bd2c93f585"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md.gz",
+      "bytes": 2756,
+      "sha256": "f0ffe045affc6a0ba43b338158afee8297b48ceb552cf5b92025ebc9e18ea760"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md.gz",
+      "bytes": 2904,
+      "sha256": "8ed7d662605659bf9f437155e1762c6f7939acd5f2304b38f63907f259ac3547"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md.gz",
+      "bytes": 4063,
+      "sha256": "fc92fbbb6d623b0eaff5c96d5288f17635963a52366a8e46bd50631c635c1f78"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A15-prime-The-Measure-Constitutes.md.gz",
+      "bytes": 2867,
+      "sha256": "a0317c1182e97f37dd3a716cd195cd7154fcca756e81cbfb1c9fee3d441a53af"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md.gz",
+      "bytes": 2847,
+      "sha256": "59e679563fad8a853f0150733d11185f7946f8c02ccf6410b901311064a1b16c"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md.gz",
+      "bytes": 3716,
+      "sha256": "b56430de8ea2cfcbef4361f09a402a4d595984a96f6589fd74eda28fd19e762b"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md.gz",
+      "bytes": 6050,
+      "sha256": "e40a01897da296e01a134bd65aae1cab0ab898d4bf55d5200976854823ff60e6"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md.gz",
+      "bytes": 3796,
+      "sha256": "5eb2d4b933264a4dd5de0ce640f742ad82bea3d81c921c2108905e0ee9f53046"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md.gz",
+      "bytes": 3861,
+      "sha256": "d949f0b5a00fc4d39310e65811cc9a05fd3f306f02b5dcf2af90d9f3ec7b69fc"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md.gz",
+      "bytes": 3208,
+      "sha256": "38f2d20cf9bfb50347f33db02cf692605fc3bcf37290af3b8e5ee897421d62f6"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A22-prime-The-Atlas-Not-the-Camera.md.gz",
+      "bytes": 4204,
+      "sha256": "0a655dea74f055332c82ce42950f939ce183d14a69d96ea5db68d46738b627ae"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md.gz",
+      "bytes": 3789,
+      "sha256": "ca45f5879380afe1d31c0d58023bbd270e12e1fe653da5be06653c7c76b1e6db"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md.gz",
+      "bytes": 3927,
+      "sha256": "7ec0b73f9fe5db7b2fa2b5d74b53d19888bbe5881331fc11f1077a521bca8bcb"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md.gz",
+      "bytes": 3661,
+      "sha256": "31c36aac24072d6277cbc9bf062586c6a20a1136f8fe9d42955c860d9ace67c7"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A26-prime-The-Essay-Inside-the-Film.md.gz",
+      "bytes": 4118,
+      "sha256": "df472578bd495d661a41f1b967bb4357ac2e994be7af5702ca8cab597411d6ee"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md.gz",
+      "bytes": 4523,
+      "sha256": "1d66900560b99ee44b68a6b9ae6efebd11369fb66cd7e9fd8f2fe82c374205d3"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md.gz",
+      "bytes": 3560,
+      "sha256": "0574942673107c64a49ffc7d29479eee2cc5b7fc497acaca793adc14928a16dc"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md.gz",
+      "bytes": 3666,
+      "sha256": "13f78161a07b7341981437becc4c31962edf37197f6d160bcb6ac9f372135b71"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md.gz",
+      "bytes": 3550,
+      "sha256": "5c233a2acaa28d209f98420c461dc7e2a52a985aec125bacca79d25ea48a347e"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md.gz",
+      "bytes": 3317,
+      "sha256": "f8984efaec343b92631e07be308b4e5db87feb47ebb181464b988598e4c65df9"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md.gz",
+      "bytes": 4104,
+      "sha256": "9db0c9fbc8bbcef9f213113cdf66128575d5a0b237fe9f004ef3609c00ed72e7"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md.gz",
+      "bytes": 3367,
+      "sha256": "e615490e594448c2d2cae53ee5b75a0a92ad5ca2e1ad656af871f1e4178f87ee"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md.gz",
+      "bytes": 3879,
+      "sha256": "1aa9a85bdba9adff6ebe5f0fca8ef60d5341ed1e56c5e9d131b5e4df173821d7"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md.gz",
+      "bytes": 3814,
+      "sha256": "7fcd7e907b46888b9de475961a897aa826fcabf6c15354c062175891a07226c6"
+    },
+    {
+      "path": "arguments/preimages/submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md.gz",
+      "bytes": 3501,
+      "sha256": "891d2456a982a65e01ebeb1563b4610a4d9c01d2c8345442643925d4d8b52e49"
+    },
+    {
+      "path": "concepts/C25-effects.json",
+      "bytes": 983,
+      "sha256": "f0ebb6b1673d0b30e7618b1d0e2dd3fd3f1fef0e4fbea669cde6673577cb292b"
+    },
+    {
+      "path": "concepts/C25-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C26-effects.json",
+      "bytes": 1023,
+      "sha256": "acbf0360a00414639bb730eece05675ae58dd5ddeaf1c165b285ba677f3f9409"
+    },
+    {
+      "path": "concepts/C26-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C28-effects.json",
+      "bytes": 1015,
+      "sha256": "7f5891064cec4dccb351e432d6766bec0d4823d7eb219de81b20d7dc9fc52b8a"
+    },
+    {
+      "path": "concepts/C28-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C33-effects.json",
+      "bytes": 963,
+      "sha256": "89baee2a5a5dcd360e35d6d977ab7eca76495e6f394b8cd33b5c730b5723ad04"
+    },
+    {
+      "path": "concepts/C33-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C36-effects.json",
+      "bytes": 983,
+      "sha256": "b9aabdfa796a9c36abb17ffaa4bd70f2cd7ac60753d528a21f86c6f4c2cef159"
+    },
+    {
+      "path": "concepts/C36-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C37-effects.json",
+      "bytes": 1013,
+      "sha256": "e7912c0989130481691e1735939e16de8491bd1b707f6289d1dc50b2b6f4264e"
+    },
+    {
+      "path": "concepts/C37-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C41-effects.json",
+      "bytes": 713596,
+      "sha256": "55770304606452c89c62f3df410ba4855446c88ba312b33ea8d206574e0cf141"
+    },
+    {
+      "path": "concepts/C48-effects.json",
+      "bytes": 1023,
+      "sha256": "5ccede19619b6571d018393fc59a47a4e0d9780de588fbd05de03686626bb341"
+    },
+    {
+      "path": "concepts/C48-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C49-effects.json",
+      "bytes": 1014,
+      "sha256": "86ef6e7daa2bd6d9ed1ae45a4ad8fe8f9f401df411d4254f6bb2b2bbf63fa2d6"
+    },
+    {
+      "path": "concepts/C49-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C50-effects.json",
+      "bytes": 725886,
+      "sha256": "e146e508c7de3d7fa6a46f60b63479f3c85a21e6591e1d7ed00b08598fd46f74"
+    },
+    {
+      "path": "concepts/C50-effects.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "concepts/C50-returned-paths.json",
+      "bytes": 130265,
+      "sha256": "bd4c0cbf051d15eb88189d7df9b3b63061679347d4b9e29c45024ee027f936ef"
+    },
+    {
+      "path": "concepts/C51-effects.json",
+      "bytes": 772288,
+      "sha256": "d33ff2c36133b638f3613b03f885cff509106dfb40523c7e597c4d9b30281b8d"
+    },
+    {
+      "path": "concepts/EXECUTION-LEDGER.md",
+      "bytes": 15492,
+      "sha256": "50dc1549b5f5d8a1983275915270c7bc10533ac1d36f9d9fb74fa3e03ce36dd9"
+    },
+    {
+      "path": "concepts/PRE-EDIT-RECOVERY.md",
+      "bytes": 8268,
+      "sha256": "096b5d23b3f7d0eb28c509e5757a1a9289e01da30aa665a76ae6082af9ef0731"
+    },
+    {
+      "path": "concepts/preimage-manifest.json",
+      "bytes": 2100,
+      "sha256": "b8eb40ee41dfbbea9d5416f6220064ce45bca7767182b90ea091db3ea820aeda"
+    },
+    {
+      "path": "concepts/preimages/C25-Counterfeit-Gathering.md.txt",
+      "bytes": 4752,
+      "sha256": "02fa7accec4abfca26fcf244fbc78daa34b6a39b35e322258bd81638dbd11a37"
+    },
+    {
+      "path": "concepts/preimages/C26-Monoisation-Counter-Generation.md.txt",
+      "bytes": 3747,
+      "sha256": "8f2cbfbf8a740b977e457b02cc5387464384ce8b0ca92694d6d88d0acdb466d5"
+    },
+    {
+      "path": "concepts/preimages/C28-Covenant-Primary-Arbitration.md.txt",
+      "bytes": 4528,
+      "sha256": "3c4432259a9d7c9e66305cf29b01827d7758ef6bf72f5364edc84c6256c1efba"
+    },
+    {
+      "path": "concepts/preimages/C33-Image-Valuation.md.txt",
+      "bytes": 3254,
+      "sha256": "3cf5dcd09404686fe6c267e17763176ee983c7bcf2527af14e808dd3630ef1ad"
+    },
+    {
+      "path": "concepts/preimages/C36-Complexio-Oppositorum.md.txt",
+      "bytes": 3580,
+      "sha256": "9600121cfe3a8b96e105953dae432d23208690092b761871fbf08269b2653e2c"
+    },
+    {
+      "path": "concepts/preimages/C37-World-Picture-to-World-Atlas.md.txt",
+      "bytes": 5410,
+      "sha256": "519bc5c6fa6d501396608b96a64ae72cf47c3d8edb5c23b430233af1efdbde7a"
+    },
+    {
+      "path": "concepts/preimages/C41-Objective-Internality.md.txt",
+      "bytes": 12230,
+      "sha256": "64782a68d430a7db62125b7966848b191e1fcac5671a3775a07d12237a3c2448"
+    },
+    {
+      "path": "concepts/preimages/C48-Trust-Faith-under-Formal-Limit.md.txt",
+      "bytes": 4773,
+      "sha256": "ed541f6b838f21315d3c2b85a28370ad97dca0c54e65e37670dfa5677f4d46f4"
+    },
+    {
+      "path": "concepts/preimages/C49-The-Two-Ones-0-One-1-All.md.txt",
+      "bytes": 4220,
+      "sha256": "14ddc1e98594883c26326677f089bf200f19620992d02eb8983bd8c0d93db7ea"
+    },
+    {
+      "path": "concepts/preimages/C50-Dia-Syn.md.txt",
+      "bytes": 8233,
+      "sha256": "4d87135506e51e1951e135a7280e3b2e0c53444c7e0fe8da2596c127bc2a835c"
+    },
+    {
+      "path": "concepts/preimages/C51-Logos-Epi-Logos.md.txt",
+      "bytes": 10806,
+      "sha256": "ce009a71ebe0a7be46a116b41a1f4ebc34bf38a0fa635d491fa4b748a1100ab6"
+    },
+    {
+      "path": "concepts/repair-manifest.json",
+      "bytes": 6523,
+      "sha256": "c68ff5e9cfc5d562f722dd47640f6efb0391db764ff92fd379c36bcaefcac3b1"
+    },
+    {
+      "path": "depth/COLD-REVIEW.md",
+      "bytes": 4068,
+      "sha256": "a45ad30fe36c13a0abd622e6fc954cf4bc89a2107bd60dd483ad438e191a0f05"
+    },
+    {
+      "path": "depth/DOWNSTREAM-REENTRY.json",
+      "bytes": 26807,
+      "sha256": "90398ad8863d8c3e7b05117f4282cb5f12f9e543fc9f0cce02b2eadb9c371a9c"
+    },
+    {
+      "path": "depth/EFFECTS-CHANG-BEFORE.json",
+      "bytes": 1466,
+      "sha256": "cb17a15226055267e1dc81fe7c13db954a1f915e0f6cc7f036c16f5e4a310a94"
+    },
+    {
+      "path": "depth/EFFECTS-CORE-BEFORE.json",
+      "bytes": 830896,
+      "sha256": "90e2c9313a9f3122283e07f64773899fbba9403fe12164d0151c1ef66216d6ad"
+    },
+    {
+      "path": "depth/EFFECTS-FORMAL-LIMIT-BEFORE.json",
+      "bytes": 737876,
+      "sha256": "2e7f1cedde495e99299f6cb8b3150fbf50388604405b85a437f2628d8d91ff8f"
+    },
+    {
+      "path": "depth/EFFECTS-IMMUTABLE-SUBJECT-BEFORE.json",
+      "bytes": 721616,
+      "sha256": "9ffffcd4d2a4b641b92cff569172dc54dd2bf3d9b49525fc3685959ec158b92e"
+    },
+    {
+      "path": "depth/EFFECTS-MIRROR-BEFORE.json",
+      "bytes": 784946,
+      "sha256": "4a00aca5e05e86858cbed5b778cb973ef08c0af71e5d2c26412a6d965408a80c"
+    },
+    {
+      "path": "depth/EFFECTS-PARITY-BEFORE.json",
+      "bytes": 313845,
+      "sha256": "d47085c13ebb03201d0df8fa9d94d023f6c4beb3b01fb31f8b7a62b871a37573"
+    },
+    {
+      "path": "depth/EXECUTION-LEDGER.json",
+      "bytes": 4131,
+      "sha256": "96bb4274add1331d4be615728b903ee39ff728f8cc65ba9cf111702da9448e66"
+    },
+    {
+      "path": "depth/PREIMAGES.json",
+      "bytes": 2653,
+      "sha256": "e423b8151573c51695168ad99635f07be684ed320d90c6e56e22be1673e75cb8"
+    },
+    {
+      "path": "depth/RECORD-RECOVERY-LEDGER.md",
+      "bytes": 12797,
+      "sha256": "26b3ddde5836a9f49ee3f73a63944608f86d304d20c77ccadd60965df2b59acf"
+    },
+    {
+      "path": "depth/RECOVERY-NOTE.md",
+      "bytes": 5379,
+      "sha256": "84c2f538cba7e8dcfbe7446f5dd6c14fdaf0670d655cf4b3c469bd521abdd4c2"
+    },
+    {
+      "path": "depth/REVIEW-CANDIDATE-DISPOSITIONS.json",
+      "bytes": 76396,
+      "sha256": "4ef92bdc15267b059fa991d77564fb8917c5a359513da83ae3d780f29cf5edb4"
+    },
+    {
+      "path": "depth/SOURCE-INTEGRITY.json",
+      "bytes": 2744,
+      "sha256": "cda4841999843047bc0aad3d5d827b93ee634c0a06a11a907f2dc13ab850db81"
+    },
+    {
+      "path": "depth/SOURCE-READINGS.json",
+      "bytes": 4425,
+      "sha256": "c3c00c9093e12cf5ce4ecc0f9677800d8bc334f059dd478f5c2229f37ed4265e"
+    },
+    {
+      "path": "depth/STRICT-AUDIT.json",
+      "bytes": 30815,
+      "sha256": "fc1fb03348e78e20f82d822029df17b888da01ded57cda6ccd4109f3b45c89b3"
+    },
+    {
+      "path": "depth/before/submission-package/essay/symbolon/episteme/dossiers/formal-limit.md.txt",
+      "bytes": 28771,
+      "sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    },
+    {
+      "path": "depth/before/submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md.txt",
+      "bytes": 10159,
+      "sha256": "1401f67c11c984a126e6542bf314526828cabf4b3666be3ddeb0be669d05ba2e"
+    },
+    {
+      "path": "depth/before/submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md.txt",
+      "bytes": 27298,
+      "sha256": "5f16eb7a1bcd821cd7ec886783b34d94021f605bd048b691da98ea70a7395291"
+    },
+    {
+      "path": "depth/before/submission-package/essay/symbolon/matheme/computation/operational-parity.md.txt",
+      "bytes": 5360,
+      "sha256": "736781a36f8f0f698d8d0d5d10a67833824626abdcd89673127c3e1dc943591d"
+    },
+    {
+      "path": "depth/before/submission-package/essay/symbolon/matheme/definition/immutable-subject.md.txt",
+      "bytes": 5162,
+      "sha256": "c972c1ca063731e65948e2e17b6d1ddca8711d47b0ed4ab95da07597819f2fc7"
+    },
+    {
+      "path": "depth/before/submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md.txt",
+      "bytes": 20562,
+      "sha256": "89a4f3873b83b94146b0063ff51ae202192dc88f611894e124a3f9b532c36f59"
+    },
+    {
+      "path": "integration-checks/AIKIT-SEARCH-FAILURE.json",
+      "bytes": 1843414,
+      "sha256": "8a2a69306fc58a3aa232d6d0913bb728a9017453a9f57f2d60cb3dd91850b089"
+    },
+    {
+      "path": "integration-checks/CHANGED-READER-PROBLEMS.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "integration-checks/CHECK-RESULTS.json",
+      "bytes": 5200,
+      "sha256": "3413c9c487fb0f07c0fb3bd55bf68a4854e16af387e678d65475819138b7e09e"
+    },
+    {
+      "path": "integration-checks/FINAL-STRICT-RESULT.json",
+      "bytes": 3746,
+      "sha256": "7143a6961f416972cf36e0c9862db7928acabcd59fe3a6eda1e675ebfd3f14ca"
+    },
+    {
+      "path": "integration-checks/FOUNDATION-CENSUS.json",
+      "bytes": 3425895,
+      "sha256": "be814144a3093d61f1a35e6a707d435c9e563ce04f6679afb6975afcd0a20dcb"
+    },
+    {
+      "path": "integration-checks/FOUNDATION-CENSUS.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/METADATA-CHECK-RESULTS.json",
+      "bytes": 4628,
+      "sha256": "c984099977274d9e84e81f16bc507d7759c1c1ad53a32a5f2e5903201e1be960"
+    },
+    {
+      "path": "integration-checks/PACKET-INPUTS.json",
+      "bytes": 6284,
+      "sha256": "0189514f8afc97636723258c13ce470724fb923a8e8368cfee8e8f725a73619b"
+    },
+    {
+      "path": "integration-checks/PRE-MANUSCRIPT.json",
+      "bytes": 155282,
+      "sha256": "4858027dc9db98812d98ef9addd4990776be10163e439ec6b6d2d0593221f904"
+    },
+    {
+      "path": "integration-checks/PROTECTED-COMPARISON.json",
+      "bytes": 224791,
+      "sha256": "181e306ded3e7d7c951523a6e1cbca8a5753ad0466b1e8fe751e16ae3366be18"
+    },
+    {
+      "path": "integration-checks/READER-NAVIGATION.json",
+      "bytes": 527878,
+      "sha256": "4357885804de23a5c0738c313e40b662cafb842d35843f47bb93a57809078dda"
+    },
+    {
+      "path": "integration-checks/aikit-isolated.stderr",
+      "bytes": 1638,
+      "sha256": "a907d49942dc702ae111fe6ec56ed8407ed90698ec7fe2e9a6c1a486a3a18eda"
+    },
+    {
+      "path": "integration-checks/aikit-isolated.stdout",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/diff-check.stdout",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/eight-room-depth.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/eight-room-depth.stdout",
+      "bytes": 213,
+      "sha256": "d1b58cc69af73f327a2632a22ab4a9909e5e6976f4d56bab5b18ad99e0b209ce"
+    },
+    {
+      "path": "integration-checks/final-navigation-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/final-navigation-build.stdout",
+      "bytes": 101,
+      "sha256": "50504e2a27b641b5806113cfc4434d59b906924b61dbe28c4cbda12b194f62ae"
+    },
+    {
+      "path": "integration-checks/final-navigation-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/final-navigation-freshness.stdout",
+      "bytes": 46,
+      "sha256": "c7fe7e60e283d863162186ed9fcd0fa48f3e978877181680738e67060befbae5"
+    },
+    {
+      "path": "integration-checks/final-packet-strict.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/final-packet-strict.stdout",
+      "bytes": 169583,
+      "sha256": "1fc69b6790aa4882d25b366b0588ea029a5b595b0ba51a29187255cddc568562"
+    },
+    {
+      "path": "integration-checks/final-rooms-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/final-rooms-build.stdout",
+      "bytes": 80,
+      "sha256": "37cdcd3c357cc82891c7ab06a9895f4272235726acb1f0abbfdfc66107471842"
+    },
+    {
+      "path": "integration-checks/final-rooms-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/final-rooms-freshness.stdout",
+      "bytes": 82,
+      "sha256": "2621d4e1b2f3c705831543cdb372de9340a15a0fb612dfa31f76441ac471f2e2"
+    },
+    {
+      "path": "integration-checks/final-source-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/final-source-freshness.stdout",
+      "bytes": 37,
+      "sha256": "8af48f7af2de53a05186d9faad1b0517aed7f4b47c5b2bcd3dd48012c8aea342"
+    },
+    {
+      "path": "integration-checks/full-suite.stderr",
+      "bytes": 28952,
+      "sha256": "69671bc4b7fe56036b0a5ab030c43ac53e27b8fe337774e92fbd8fca0f99dc3f"
+    },
+    {
+      "path": "integration-checks/full-suite.stdout",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-diff-check.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-diff-check.stdout",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-navigation-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-navigation-build.stdout",
+      "bytes": 101,
+      "sha256": "50504e2a27b641b5806113cfc4434d59b906924b61dbe28c4cbda12b194f62ae"
+    },
+    {
+      "path": "integration-checks/metadata-navigation-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-navigation-freshness.stdout",
+      "bytes": 46,
+      "sha256": "c7fe7e60e283d863162186ed9fcd0fa48f3e978877181680738e67060befbae5"
+    },
+    {
+      "path": "integration-checks/metadata-rooms-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-rooms-build.stdout",
+      "bytes": 80,
+      "sha256": "37cdcd3c357cc82891c7ab06a9895f4272235726acb1f0abbfdfc66107471842"
+    },
+    {
+      "path": "integration-checks/metadata-rooms-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-rooms-freshness.stdout",
+      "bytes": 82,
+      "sha256": "2621d4e1b2f3c705831543cdb372de9340a15a0fb612dfa31f76441ac471f2e2"
+    },
+    {
+      "path": "integration-checks/metadata-source-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-source-build.stdout",
+      "bytes": 28,
+      "sha256": "d50cc8a5aaf0ef57d22eee788ce7f735d995d440580ff91c23016db1ad1ca6bd"
+    },
+    {
+      "path": "integration-checks/metadata-source-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/metadata-source-freshness.stdout",
+      "bytes": 37,
+      "sha256": "8af48f7af2de53a05186d9faad1b0517aed7f4b47c5b2bcd3dd48012c8aea342"
+    },
+    {
+      "path": "integration-checks/metadata-strict.stderr",
+      "bytes": 305,
+      "sha256": "12e56244b72d4a01e5073babd325b62e64d00935f727ead3dd7c7bce25483fa5"
+    },
+    {
+      "path": "integration-checks/metadata-strict.stdout",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/navigation-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/navigation-build.stdout",
+      "bytes": 101,
+      "sha256": "50504e2a27b641b5806113cfc4434d59b906924b61dbe28c4cbda12b194f62ae"
+    },
+    {
+      "path": "integration-checks/navigation-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/navigation-freshness.stdout",
+      "bytes": 46,
+      "sha256": "c7fe7e60e283d863162186ed9fcd0fa48f3e978877181680738e67060befbae5"
+    },
+    {
+      "path": "integration-checks/pre-manuscript.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/pre-manuscript.stdout",
+      "bytes": 565,
+      "sha256": "18ee3903bd606cc3b2c5d7597747a1b7ce962cbd93fb9fae392e2b46f3ee3d23"
+    },
+    {
+      "path": "integration-checks/reader-navigation.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/reader-navigation.stdout",
+      "bytes": 271,
+      "sha256": "eb4036b15b0758980550765be4c43704a116b20c4ff816483b4d1fadd7ce61ad"
+    },
+    {
+      "path": "integration-checks/room-depth.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/room-depth.stdout",
+      "bytes": 1110,
+      "sha256": "82572974a9c93d09821d9d2d76f4dac7d6f011c8c83c7195e42322cce9cfbba6"
+    },
+    {
+      "path": "integration-checks/rooms-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/rooms-build.stdout",
+      "bytes": 80,
+      "sha256": "37cdcd3c357cc82891c7ab06a9895f4272235726acb1f0abbfdfc66107471842"
+    },
+    {
+      "path": "integration-checks/rooms-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/rooms-freshness.stdout",
+      "bytes": 82,
+      "sha256": "2621d4e1b2f3c705831543cdb372de9340a15a0fb612dfa31f76441ac471f2e2"
+    },
+    {
+      "path": "integration-checks/source-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/source-build.stdout",
+      "bytes": 28,
+      "sha256": "d50cc8a5aaf0ef57d22eee788ce7f735d995d440580ff91c23016db1ad1ca6bd"
+    },
+    {
+      "path": "integration-checks/source-freshness.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/source-freshness.stdout",
+      "bytes": 37,
+      "sha256": "8af48f7af2de53a05186d9faad1b0517aed7f4b47c5b2bcd3dd48012c8aea342"
+    },
+    {
+      "path": "integration-checks/strict-packet.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "integration-checks/strict-packet.stdout",
+      "bytes": 159557,
+      "sha256": "433877d9d05d3f6f0c27af9bda8e6114626b2b12b1ae72836abc107bb20ff6bb"
+    },
+    {
+      "path": "metadata-addressability/1-before.md.txt",
+      "bytes": 15719,
+      "sha256": "02e27877d801605e53d4ea4aefc02f4fca8a507ba14ff01f5f98ec24558b6622"
+    },
+    {
+      "path": "metadata-addressability/1-effects-before.json",
+      "bytes": 622399,
+      "sha256": "a6d9d910484ab92de5a2fba009bed68be2a42dc7a0ae6e3a8ef6a1cff40bdb6e"
+    },
+    {
+      "path": "metadata-addressability/2-before.md.txt",
+      "bytes": 5086,
+      "sha256": "cc70541a8b5885d8fe63096abb984423382be70edc560d6d2e158fe0a0e9fd79"
+    },
+    {
+      "path": "metadata-addressability/2-effects-before.json",
+      "bytes": 700425,
+      "sha256": "1ae8dd2d6a56d34a60718209b4f3b0bb364b18860e9471317a6bbc8177114001"
+    },
+    {
+      "path": "metadata-addressability/3-before.md.txt",
+      "bytes": 3551,
+      "sha256": "c34fbac9e9cc7d03f4fdbcdc410aea8ed1cdd171b1fd2e0491471f6ce90c7e22"
+    },
+    {
+      "path": "metadata-addressability/3-effects-before.json",
+      "bytes": 733901,
+      "sha256": "bda72bd09be65655ec3f82d6384792bd9689e1c94babfe85bf69784938f61354"
+    },
+    {
+      "path": "metadata-addressability/PREIMAGES.json",
+      "bytes": 1543,
+      "sha256": "a895cf961ad7db7b6ee96544715eae9d856951cf3061eb276375650f806598e7"
+    },
+    {
+      "path": "metadata-addressability/RECOVERY-NOTE.md",
+      "bytes": 3353,
+      "sha256": "ddad7d6bbab60c656edc86c4f6b51e676c7d90554bc68036ab674a0a8ae254a5"
+    },
+    {
+      "path": "metadata-addressability/REPAIR-MANIFEST.json",
+      "bytes": 3328,
+      "sha256": "f48a62f6eb9f1c2d2d2c631547d8863ce2d0101a570da10b8b8dc97eb3f326e6"
+    },
+    {
+      "path": "products/EXECUTION-LEDGER.md",
+      "bytes": 14383,
+      "sha256": "3517d9f9872595f2471b9ac5dc94cec119e7e13d57c94abd8d56cf141ee600f5"
+    },
+    {
+      "path": "products/effects/AC-before.json",
+      "bytes": 782736,
+      "sha256": "04ee46bb1af4d1430774cb8a137c9be4e7a338ee828c895535ed3f6d84da616f"
+    },
+    {
+      "path": "products/effects/S-before.json",
+      "bytes": 792871,
+      "sha256": "ee97fa72e8d4bdd179d23b539582779b5255016ccdc32c0632e695556d80e40a"
+    },
+    {
+      "path": "products/effects/S0-before.json",
+      "bytes": 703906,
+      "sha256": "5e7c653841cbaaa85e02eba1dac87c7734618d2c6355bb7b872e06558de5b3a5"
+    },
+    {
+      "path": "products/effects/S1-before.json",
+      "bytes": 825026,
+      "sha256": "a0761eafa6a31c01cbacd7c4ecd7da62abb244a41398ca734eed0f0645cab32f"
+    },
+    {
+      "path": "products/effects/S2-before.json",
+      "bytes": 669091,
+      "sha256": "77be9966c583da833c3ae06af4e826cd047fb05615ca2dc45f8a221a2b8ec9d9"
+    },
+    {
+      "path": "products/effects/S3-before.json",
+      "bytes": 646025,
+      "sha256": "bfe47dbe0c5092854717bb4b9cf9abf49b3dd09904a37deb5c9f8c51bd325d17"
+    },
+    {
+      "path": "products/effects/S4-before.json",
+      "bytes": 718934,
+      "sha256": "5af3a330e02104349fdf6385ba717380e30fdf43e1cf40cfea4c9eb734fd85c7"
+    },
+    {
+      "path": "products/effects/S5-before.json",
+      "bytes": 766541,
+      "sha256": "27cdd046ab04eb1040e4b64025aad301e9b774f422ce9347be0b24d15796744a"
+    },
+    {
+      "path": "products/effects/reopened-before.json",
+      "bytes": 37707,
+      "sha256": "c997c8e6041ef3f89c3cdcc3ed477201e803c6f5e3c772b1c338434d07010e9f"
+    },
+    {
+      "path": "products/effects/root-and-products-reopened.json",
+      "bytes": 42802,
+      "sha256": "6aaa8118df0351b2975bf1435e53578dfc22391487c50df4ed5ca1324ef8bfbf"
+    },
+    {
+      "path": "products/preimages/AC.md.txt",
+      "bytes": 21980,
+      "sha256": "79a8470b4a370bdf59e7fd52864db04aa49331d2ada624be41532f3afda3e755"
+    },
+    {
+      "path": "products/preimages/S2-AIKit.md.txt",
+      "bytes": 8396,
+      "sha256": "b53db30ec51889c7a8b00240b1b986b5ec3cd751098dc01e16766ee80d3d9147"
+    },
+    {
+      "path": "products/preimages/S3-Software-Factory.md.txt",
+      "bytes": 11124,
+      "sha256": "64859857097e3686bfce83b1972061997dbdd0c76e4cd53c8cdec599f81e6fb3"
+    },
+    {
+      "path": "products/preimages/S4-Workcell.md.txt",
+      "bytes": 8184,
+      "sha256": "5050ba5df5e6048c68defc0f33476077c345941c08dbcb958bca5008fc6003b8"
+    }
+  ],
+  "verified_lossless": true,
+  "scope": "First packet only; non-live continuation directories excluded."
+}

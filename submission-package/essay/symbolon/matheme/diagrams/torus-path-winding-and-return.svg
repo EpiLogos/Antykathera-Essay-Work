@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="904" viewBox="0 0 1100 904" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">A closed path on the torus carries winding (2, −1); a linear flow returns only for a rational ratio</title>
+<desc id="d">Left, the covering plane with its integer lattice and the straight path from the origin to the point two, minus one; the endpoints differ in the plane. An arrow labelled quotient by whole-number steps leads to the unit square on the right, where the same path appears as two parallel segments, from the top-left corner to the middle of the right edge and from the middle of the left edge to the bottom-right corner. All four corners are one point of the torus, so the path closes; its winding class, two turns one way and one back, is retained. Beneath, two linear flows drawn in the unit square: with rates in the ratio three to two the path closes at time one; with rates in the ratio one to the square root of two it never closes and keeps filling the square.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#211d18"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a2f2b"/></marker><marker id="ahm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6f6659"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e3a59"/></marker></defs>
+<rect x="0" y="0" width="1100" height="904" fill="#f5f0e6"/>
+<text x="550" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">DIAGRAM · A RETURN THAT KEEPS ITS WINDING</text>
+<text x="550" y="94" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">the surface-address recurs; the lifted path retains a displacement</text>
+<rect x="67.5" y="197.5" width="405" height="255" rx="0" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.2"/>
+<line x1="120" y1="197.5" x2="120" y2="452.5" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="270" y1="197.5" x2="270" y2="452.5" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="420" y1="197.5" x2="420" y2="452.5" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="67.5" y1="250" x2="472.5" y2="250" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="67.5" y1="400" x2="472.5" y2="400" stroke="#b9ae9c" stroke-width="1.2" stroke-linecap="butt"/>
+<text x="67.5" y="183.5" font-size="17" fill="#6f6659" text-anchor="start" font-style="italic">covering plane  R²</text>
+<circle cx="120" cy="250" r="6" fill="#f5f0e6" stroke="#2e3a59" stroke-width="2"/>
+<circle cx="120" cy="400" r="6" fill="#f5f0e6" stroke="#2e3a59" stroke-width="2"/>
+<circle cx="270" cy="250" r="6" fill="#f5f0e6" stroke="#2e3a59" stroke-width="2"/>
+<circle cx="270" cy="400" r="6" fill="#f5f0e6" stroke="#2e3a59" stroke-width="2"/>
+<circle cx="420" cy="250" r="6" fill="#f5f0e6" stroke="#2e3a59" stroke-width="2"/>
+<circle cx="420" cy="400" r="6" fill="#f5f0e6" stroke="#2e3a59" stroke-width="2"/>
+<line x1="120" y1="250" x2="414" y2="397" stroke="#8a2f2b" stroke-width="3.2" stroke-linecap="butt" marker-end="url(#ahr)"/>
+<circle cx="120" cy="250" r="8" fill="#8a2f2b" stroke="#8a2f2b" stroke-width="1.5"/>
+<circle cx="420" cy="400" r="8" fill="#f5f0e6" stroke="#8a2f2b" stroke-width="3"/>
+<circle cx="270" cy="325" r="5" fill="#8a2f2b" stroke="#8a2f2b" stroke-width="1.5"/>
+<text x="132" y="236" font-size="16" fill="#211d18" text-anchor="start" font-family="'Courier New', Courier, monospace">(0, 0)</text>
+<text x="424" y="430" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">(2, −1)</text>
+<text x="280" y="311" font-size="14.5" fill="#8a2f2b" text-anchor="start">leaves the first unit square</text>
+<text x="280" y="329" font-size="14.5" fill="#8a2f2b" text-anchor="start">at the midpoint</text>
+<line x1="540" y1="250" x2="640" y2="250" stroke="#211d18" stroke-width="2" stroke-linecap="butt" marker-end="url(#ah)"/>
+<text x="590" y="238" font-size="15" fill="#6f6659" text-anchor="middle">quotient by</text>
+<text x="590" y="276" font-size="15" fill="#6f6659" text-anchor="middle">whole steps</text>
+<rect x="700" y="135" width="250" height="250" rx="0" fill="#efe8da" stroke="#211d18" stroke-width="2"/>
+<text x="700" y="119" font-size="17" fill="#6f6659" text-anchor="start" font-style="italic">the torus, as one unit square</text>
+<line x1="700" y1="135" x2="950" y2="260" stroke="#8a2f2b" stroke-width="3.2" stroke-linecap="butt"/>
+<line x1="700" y1="260" x2="950" y2="385" stroke="#8a2f2b" stroke-width="3.2" stroke-linecap="butt"/>
+<circle cx="700" cy="385" r="7" fill="#2e3a59" stroke="#2e3a59" stroke-width="1.5"/>
+<circle cx="950" cy="385" r="7" fill="#2e3a59" stroke="#2e3a59" stroke-width="1.5"/>
+<circle cx="700" cy="135" r="7" fill="#2e3a59" stroke="#2e3a59" stroke-width="1.5"/>
+<circle cx="950" cy="135" r="7" fill="#2e3a59" stroke="#2e3a59" stroke-width="1.5"/>
+<text x="968" y="391" font-size="14.5" fill="#2e3a59" text-anchor="start">all four corners:</text>
+<text x="968" y="409" font-size="14.5" fill="#2e3a59" text-anchor="start">one point</text>
+<text x="825" y="425" font-size="15.5" fill="#8a2f2b" text-anchor="middle">the path starts and ends at that point</text>
+<text x="825" y="445" font-size="14.5" fill="#6f6659" text-anchor="middle">(two segments; the right edge continues the left)</text>
+<rect x="60" y="482" width="980" height="74" rx="6" fill="none" stroke="#b9ae9c" stroke-width="1.2"/>
+<text x="550" y="510" font-size="18" fill="#211d18" text-anchor="middle">lifted endpoints differ; quotient endpoints coincide; the pair (2, −1) is retained</text>
+<text x="550" y="536" font-size="16" fill="#6f6659" text-anchor="middle">two turns one way and one back; no deformation keeping the loop based can erase it:  π₁(T²) = ℤ × ℤ</text>
+<text x="550" y="600" font-size="16.5" fill="#211d18" text-anchor="middle" font-style="italic">even on one torus, the law of motion decides what return means:  [αt, βt] returns at T &gt; 0 only if Tα and Tβ are both integers</text>
+<rect x="245" y="628" width="170" height="170" rx="0" fill="#efe8da" stroke="#211d18" stroke-width="1.8"/>
+<line x1="245" y1="798" x2="415" y2="684.667" stroke="#2e3a59" stroke-width="2.4" stroke-linecap="butt"/>
+<line x1="245" y1="684.667" x2="330" y2="628" stroke="#2e3a59" stroke-width="2.4" stroke-linecap="butt"/>
+<line x1="330" y1="798" x2="415" y2="741.333" stroke="#2e3a59" stroke-width="2.4" stroke-linecap="butt"/>
+<line x1="245" y1="741.333" x2="415" y2="628" stroke="#2e3a59" stroke-width="2.4" stroke-linecap="butt"/>
+<circle cx="245" cy="798" r="6" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="330" y="824" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">α : β = 3 : 2</text>
+<text x="330" y="846" font-size="15.5" fill="#2e3a59" text-anchor="middle">exact return at T = 1, winding (3, 2)</text>
+<rect x="685" y="628" width="170" height="170" rx="0" fill="#efe8da" stroke="#211d18" stroke-width="1.8"/>
+<line x1="685" y1="798" x2="805.208" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="805.208" y1="798" x2="855" y2="727.584" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="727.584" x2="755.416" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="755.416" y1="798" x2="855" y2="657.167" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="657.167" x2="705.624" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="705.624" y1="798" x2="825.833" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="825.833" y1="798" x2="855" y2="756.751" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="756.751" x2="776.041" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="776.041" y1="798" x2="855" y2="686.335" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="686.335" x2="726.249" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="726.249" y1="798" x2="846.457" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="846.457" y1="798" x2="855" y2="785.918" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="785.918" x2="796.665" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="796.665" y1="798" x2="855" y2="715.502" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="715.502" x2="746.873" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="746.873" y1="798" x2="855" y2="645.086" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="645.086" x2="697.082" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="697.082" y1="798" x2="817.29" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="817.29" y1="798" x2="855" y2="744.67" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="744.67" x2="767.498" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="767.498" y1="798" x2="855" y2="674.253" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="674.253" x2="717.706" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="717.706" y1="798" x2="837.914" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="837.914" y1="798" x2="855" y2="773.837" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="773.837" x2="788.122" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="788.122" y1="798" x2="855" y2="703.421" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="703.421" x2="738.33" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="738.33" y1="798" x2="855" y2="633.004" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="633.004" x2="688.539" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="688.539" y1="798" x2="808.747" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="808.747" y1="798" x2="855" y2="732.588" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="685" y1="732.588" x2="758.955" y2="628" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="758.955" y1="798" x2="855" y2="662.172" stroke="#8a2f2b" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="685" cy="798" r="6" fill="#211d18" stroke="#211d18" stroke-width="1.5"/>
+<text x="770" y="824" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">α : β = 1 : √2</text>
+<text x="770" y="846" font-size="15.5" fill="#8a2f2b" text-anchor="middle">no exact return at any T &gt; 0</text>
+<text x="550" y="880" font-size="15" fill="#6f6659" text-anchor="middle" font-style="italic">a bounded space need not give a periodic trajectory: compactness, periodicity and winding are distinct properties</text>
+</svg>

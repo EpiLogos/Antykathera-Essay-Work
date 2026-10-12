@@ -1,0 +1,57 @@
+{
+  "records": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md",
+      "record_id": "etymology-genesis-paradigm-project-epilogos",
+      "before_sha256": "02e27877d801605e53d4ea4aefc02f4fca8a507ba14ff01f5f98ec24558b6622",
+      "before_bytes": 15719,
+      "preimage_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/metadata-addressability/1-before.md.txt",
+      "after_sha256": "8da477ed1c23c7241fdb3e2c5653ba4d031e1e5231af70816afbf128c617ab15",
+      "after_bytes": 15774,
+      "inserted_line": "record_id: etymology-genesis-paradigm-project-epilogos",
+      "only_added_line": true,
+      "effects_before_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/metadata-addressability/1-effects-before.json"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md",
+      "record_id": "etymology-genesis-paradigm-project-epilogos-source-routes",
+      "before_sha256": "cc70541a8b5885d8fe63096abb984423382be70edc560d6d2e158fe0a0e9fd79",
+      "before_bytes": 5086,
+      "preimage_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/metadata-addressability/2-before.md.txt",
+      "after_sha256": "b82bca7b73ed8148310d680e9e134fc2049b722b2ee726942deaf8f8cd993ed1",
+      "after_bytes": 5155,
+      "inserted_line": "record_id: etymology-genesis-paradigm-project-epilogos-source-routes",
+      "only_added_line": true,
+      "effects_before_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/metadata-addressability/2-effects-before.json"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/products/README.md",
+      "record_id": "episteme-products",
+      "before_sha256": "c34fbac9e9cc7d03f4fdbcdc410aea8ed1cdd171b1fd2e0491471f6ce90c7e22",
+      "before_bytes": 3551,
+      "preimage_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/metadata-addressability/3-before.md.txt",
+      "after_sha256": "a3715e7d585d41c5b98d068f760912e4fdeb3ebba7dc02dfc93ea736a81b5925",
+      "after_bytes": 3580,
+      "inserted_line": "record_id: episteme-products",
+      "only_added_line": true,
+      "effects_before_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/metadata-addressability/3-effects-before.json"
+    }
+  ],
+  "new_id_collisions_before": {
+    "etymology-genesis-paradigm-project-epilogos": [],
+    "etymology-genesis-paradigm-project-epilogos-source-routes": [],
+    "episteme-products": []
+  },
+  "new_id_bindings_after": {
+    "etymology-genesis-paradigm-project-epilogos": [
+      "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md"
+    ],
+    "etymology-genesis-paradigm-project-epilogos-source-routes": [
+      "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/SOURCE-ROUTES.md"
+    ],
+    "episteme-products": [
+      "submission-package/essay/symbolon/episteme/products/README.md"
+    ]
+  },
+  "scope": "Three record_id additions only; all other bytes exactly preserved; parent independent review and actual coverage regression pending."
+}

@@ -1,0 +1,429 @@
+{
+ "schema": "oi.gate-run/v1",
+ "head": "8f4a11c6589e5047b0a4b7fb20f1f8547bdde3ef",
+ "dirty": false,
+ "tier": "landing",
+ "scope": "full",
+ "selected": [
+  "guard-source-markers-and-syntax",
+  "rust-format-cli",
+  "rust-format-kernel",
+  "cli-hosted-contracts",
+  "suite-data-collation",
+  "kernel-test",
+  "kernel-clippy",
+  "cradle-tsc",
+  "cradle-node-suite",
+  "cradle-conformance",
+  "cradle-shell-presentation",
+  "native-formation-regressions",
+  "cradle-appearance",
+  "browser-search-overlay",
+  "browser-canvas-editor",
+  "browser-techne-lens-studio",
+  "cradle-production-build",
+  "site-contracts",
+  "site-essay-builders"
+ ],
+ "started": "2026-10-04T17:17:00.017Z",
+ "finished": "2026-10-04T17:25:06.614Z",
+ "pass": true,
+ "failed_count": 0,
+ "flaked_count": 0,
+ "gates": [
+  {
+   "name": "guard-source-markers-and-syntax",
+   "exit": 0,
+   "duration_ms": 10692,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 10692
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Guard executable source — no unresolved markers, runner entry points parse"
+   },
+   "ok": true
+  },
+  {
+   "name": "rust-format-cli",
+   "exit": 0,
+   "duration_ms": 449,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 449
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "verify.yml",
+    "job": "rust",
+    "step": "Format"
+   },
+   "ok": true
+  },
+  {
+   "name": "rust-format-kernel",
+   "exit": 0,
+   "duration_ms": 844,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 844
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "verify.yml",
+    "job": "rust",
+    "step": "Format (same command family, kernel workspace)"
+   },
+   "ok": true
+  },
+  {
+   "name": "cli-hosted-contracts",
+   "exit": 0,
+   "duration_ms": 38615,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 38615
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "cli test targets (hosted_contracts reproduces the committed contribution registries from admitted sources)"
+   },
+   "ok": true
+  },
+  {
+   "name": "suite-data-collation",
+   "exit": 0,
+   "duration_ms": 1136,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 1136
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "verify.yml",
+    "job": "suite-data",
+    "step": "Product capability collation matches carried sources"
+   },
+   "ok": true
+  },
+  {
+   "name": "kernel-test",
+   "exit": 0,
+   "duration_ms": 59269,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 59269
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "kernel",
+    "step": "Test and lint cradle kernel"
+   },
+   "ok": true
+  },
+  {
+   "name": "kernel-clippy",
+   "exit": 0,
+   "duration_ms": 13891,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 13891
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "kernel",
+    "step": "Test and lint cradle kernel (clippy -D warnings)"
+   },
+   "ok": true
+  },
+  {
+   "name": "cradle-tsc",
+   "exit": 0,
+   "duration_ms": 23078,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 23078
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "canvas-editor-context.yml",
+    "job": "canvas",
+    "step": "Type and range/lifecycle contracts"
+   },
+   "ok": true
+  },
+  {
+   "name": "cradle-node-suite",
+   "exit": 0,
+   "duration_ms": 20802,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 20802
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop-shell-recovery.yml",
+    "job": "wider-suite",
+    "step": "Wider suite (tests/*.test.mjs)"
+   },
+   "ok": true
+  },
+  {
+   "name": "cradle-conformance",
+   "exit": 0,
+   "duration_ms": 4493,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 4493
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Enforce desktop architecture conformance and bounded debt"
+   },
+   "ok": true
+  },
+  {
+   "name": "cradle-shell-presentation",
+   "exit": 0,
+   "duration_ms": 110,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 110
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Enforce the shell presentation rules and deliberate source disclosure"
+   },
+   "ok": true
+  },
+  {
+   "name": "native-formation-regressions",
+   "exit": 0,
+   "duration_ms": 58849,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 58849
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Prove native formation authoring and bounded particle candidate retention"
+   },
+   "ok": true
+  },
+  {
+   "name": "cradle-appearance",
+   "exit": 0,
+   "duration_ms": 34083,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 34083
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Prove desktop appearance, source syntax and native prepaint policy"
+   },
+   "ok": true
+  },
+  {
+   "name": "browser-search-overlay",
+   "exit": 0,
+   "duration_ms": 21570,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 21570
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Prove search component and literal query transport (D)"
+   },
+   "ok": true
+  },
+  {
+   "name": "browser-canvas-editor",
+   "exit": 0,
+   "duration_ms": 20679,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 20679
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "canvas-editor-context.yml",
+    "job": "canvas",
+    "step": "Production editor selection and send interaction"
+   },
+   "ok": true
+  },
+  {
+   "name": "browser-techne-lens-studio",
+   "exit": 0,
+   "duration_ms": 47426,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 47426
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "techne-constructive-field.yml",
+    "job": "source-runtime",
+    "step": "Prove entrance and actual relation drawing with disconnected-binding negatives"
+   },
+   "ok": true
+  },
+  {
+   "name": "cradle-production-build",
+   "exit": 0,
+   "duration_ms": 60430,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 60430
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "desktop.yml",
+    "job": "cradle",
+    "step": "Build cradle web bundle from the locked graph"
+   },
+   "ok": true
+  },
+  {
+   "name": "site-contracts",
+   "exit": 0,
+   "duration_ms": 804,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 804
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "site.yml",
+    "job": "build",
+    "step": "Verify shared-field contracts, public content and browser adapters"
+   },
+   "ok": true
+  },
+  {
+   "name": "site-essay-builders",
+   "exit": 0,
+   "duration_ms": 496,
+   "attempts": [
+    {
+     "exit": 0,
+     "duration_ms": 496
+    }
+   ],
+   "flaked": false,
+   "provenance": {
+    "workflow": "site.yml",
+    "job": "build",
+    "step": "Verify the essay publication builders and host contract"
+   },
+   "ok": true
+  }
+ ],
+ "deferred_to_ci": [
+  {
+   "name": "ci-native-full-regression",
+   "why": "requires pinned owner checkouts and minutes-scale rust builds across products"
+  },
+  {
+   "name": "ci-embedded-builds",
+   "why": "locked embedded application and C++ material owner builds"
+  },
+  {
+   "name": "ci-cross-product-owner-contracts",
+   "why": "checks out exact owner repos at pinned revisions"
+  },
+  {
+   "name": "ci-continuous-work-campaigns",
+   "why": "builds five owner binaries and runs fail-closed campaign machinery"
+  },
+  {
+   "name": "ci-spacetimedb-live",
+   "why": "installs SpaceTimeDB CLI, publishes live databases, needs network services"
+  },
+  {
+   "name": "ci-techne-native-owners",
+   "why": "restores exact native owner binaries and runs against actual storage"
+  },
+  {
+   "name": "ci-development-field",
+   "why": "isolated owner checkouts at exact cut revisions"
+  },
+  {
+   "name": "ci-adoption-lifecycle",
+   "why": "multi-repo evidence packets, swiftc media checker"
+  },
+  {
+   "name": "ci-desktop-bundle-and-release",
+   "why": "multi-target release builds, Tauri app bundle packaging"
+  },
+  {
+   "name": "ci-site-public-deployment-gate",
+   "why": "BLOCKED 2026-09-27: the curated Return-of-Zero envelope's essay source_bindings drifted from its declared corpus revision — the delivery lead must re-reconcile the owner-approved envelope before this gate can pass. Named in campaign-evidence/2026-09-27-full-convergence/CONVERGENCE-RECORD.md; the admission gate was deliberately not weakened."
+  },
+  {
+   "name": "ci-spacetimedb-explore-surface-unit",
+   "why": "needs the generated spacetimedb client bindings environment; excluded from the local site-contracts list for that reason"
+  },
+  {
+   "name": "ci-readable-native-presentation",
+   "why": "Requires the current native walk bridge and provisioned Chromium/WebKit; executes node tests/presentation-readable-native.mjs with OI_KERNEL_BRIDGE and retains accessibility/browser evidence."
+  },
+  {
+   "name": "ci-readable-native-owners",
+   "why": "Builds pinned AIKit/Central and the current O-I native walk bridge, then exercises real native knowledge, Library, context and complete verso account readings against production components."
+  }
+ ]
+}

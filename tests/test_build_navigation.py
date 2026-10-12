@@ -67,9 +67,10 @@ class NavigationLayerTests(unittest.TestCase):
         self.assertEqual("submission-package/essay/README.md", audit["reading_root"])
         # Every canonical class must be fully reachable from the front door by written links.
         for key in (
-            "essay", "rooms", "movements", "argument-shelf", "symbolon-root", "matheme", "mytheme",
-            "episteme-root", "episteme-arguments", "episteme-conjugate", "episteme-etymologies",
-            "episteme-histories", "episteme-dossiers", "episteme-lenses", "episteme-maps",
+            "essay", "rooms", "movements", "symbolon-root", "matheme", "mytheme",
+            "episteme-root", "episteme-arguments", "episteme-conjugate", "episteme-concepts",
+            "episteme-etymologies", "episteme-histories", "episteme-dossiers", "episteme-lenses",
+            "episteme-maps",
         ):
             stats = audit["per_class"][key]
             self.assertEqual(0, stats["unreachable"], f"{key}: {stats}")

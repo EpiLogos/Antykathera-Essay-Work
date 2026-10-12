@@ -26,17 +26,17 @@ The restriction belongs to the operation. Distributivity and additive cancellati
 
 Zero divided by zero fails differently. Every field element solves `0x = 0`, so that equation selects no unique quotient. Lack of a solution and lack of uniqueness are distinct obstructions. Neither is repaired by writing a fraction bar.
 
-The familiar cancellation example isolates the same restriction:
+Over the real field, the familiar cancellation example isolates the same restriction:
 
 $$
 6\cdot0=17\cdot0=0.
 $$
 
-Cancelling the common zero would give `6 = 17`. Multiplication by a nonzero field element is reversible; multiplication by zero is not. [Kaplan's mathematical workbench](../../episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md#reading) sources this ordinary-field pressure in the essay. Its force is exact within these laws.
+Cancelling the common zero would give `6 = 17`. Multiplication by a nonzero field element is reversible; multiplication by zero is not. [Kaplan's mathematical workbench](../../episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/kaplan-1999-nothing-that-is.md#reading) sources this ordinary-field pressure in the essay. Its force is exact within these laws.
 
 ## #1 — Zero enters the rules without receiving every permission
 
-Brahmagupta's rules in [Colebrooke's translation, XVIII.31 and34](../../episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q001), printed p.339, make zero active in addition and multiplication. In present notation, the cited operations give
+Brahmagupta's rules in [Colebrooke's translation, XVIII.31 and34](../../episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara.md#colebrooke-1817-brahmagupta-bhaskara-q001), printed p.339, make zero active in addition and multiplication. In present notation, the cited operations give
 
 $$
 a+0=a,\qquad a\cdot0=0,
@@ -44,15 +44,15 @@ $$
 
 for the positive, negative and zero quantities treated there. Zero preserves a quantity under addition and absorbs it under multiplication. These different offices can coexist because addition and multiplication have different rules.
 
-Bhāskara's *Bījagaṇita* I.14, [Colebrooke p.137](../../episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q002), retains a quantity divided by zero as a fraction with zero denominator. The historical *khahara* pressure is therefore a written expression whose denominator remains visible. The passage does not supply the ordinary-field inverse missing in #0. It gives the expression an office to be investigated under its own operations.
+Bhāskara's *Bījagaṇita* I.14, [Colebrooke p.137](../../episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara.md#colebrooke-1817-brahmagupta-bhaskara-q002), retains a quantity divided by zero as a fraction with zero denominator. The historical *khahara* pressure is therefore a written expression whose denominator remains visible. The passage does not supply the ordinary-field inverse missing in #0. It gives the expression an office to be investigated under its own operations.
 
-I.16, [p.138](../../episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q003), places invariance under insertion or extraction beside an image of divine immutability through the creation and destruction of worlds. The analogy belongs to the translated source. It does not follow as a theorem from addition by zero, nor does its presence establish an ordinary multiplicative inverse.
+I.16, [p.138](../../episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/colebrooke-1817-brahmagupta-bhaskara.md#colebrooke-1817-brahmagupta-bhaskara-q003), places invariance under insertion or extraction beside an image of divine immutability through the creation and destruction of worlds. The analogy belongs to the translated source. It does not follow as a theorem from addition by zero, nor does its presence establish an ordinary multiplicative inverse.
 
 The operational question is already sharp. If an exceptional object `h` is assigned `h+c=h` for finite nonzero `c`, unrestricted additive cancellation cannot also apply to that equality: subtracting `h` would yield `c=0`. A rule of invariance must specify where cancellation ceases to operate.
 
 ## #2 — Retaining an expression and evaluating it are different acts
 
-[Dutta's corrective account](../../episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) asks which familiar transformations are being carried into the exceptional regime. In particular, assigning a new meaning to `a/0` does not by itself authorise the inference `a/0=h ⇒ a=0h`. That implication belongs to division as multiplication by an inverse. An altered treatment must state whether it retains it. Dutta's [discussion of undefinedness and cross-multiplication](https://bhavana.org.in/mathematics-in-india-7/) makes this the concrete point of comparison.
+[Dutta's corrective account](../../episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/dutta-2023-zero-divided-numbers-india.md) asks which familiar transformations are being carried into the exceptional regime. In particular, assigning a new meaning to `a/0` does not by itself authorise the inference `a/0=h ⇒ a=0h`. That implication belongs to division as multiplication by an inverse. An altered treatment must state whether it retains it. Dutta's [discussion of undefinedness and cross-multiplication](https://bhavana.org.in/mathematics-in-india-7/) makes this the concrete point of comparison.
 
 Postponed evaluation has another office. Consider the real expression
 
@@ -78,7 +78,7 @@ x^{-1},&x\ne0,\\
 D(a,b):=a\,\iota(b).
 $$
 
-This **zero-totalised inverse** is fully specified. It gives `D(6,2)=3`, `D(6,0)=0` and `D(0,0)=0`. The latter results are values of the new operation `D`. For `b=0`, they are not solutions licensed by the ordinary quotient definition: `0·D(6,0)=0 ≠ 6`.
+This **zero-totalised inverse** is fully specified over any field. Over the real field, it gives `D(6,2)=3`, `D(6,0)=0` and `D(0,0)=0`. The latter results are values of the new operation `D`. For `b=0`, they are not solutions licensed by the ordinary quotient definition: `0·D(6,0)=0 ≠ 6`.
 
 The lost unconditional law is visible:
 
@@ -114,12 +114,12 @@ $$
 
 still fails when the result is `[0:0]`. For example, infinity divided by infinity would produce `[1:0]/[1:0]=[0:0]`; zero divided by zero does likewise. Adjoining a point therefore does not automatically totalise every binary arithmetic operation.
 
-[C52, Dimensional Reframing](../../episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md), compares this change of containing space. The zero-totalised construction fixes zero under its inverse; the projective reciprocal exchanges zero with infinity. Both are exactly defined, and their different results disclose the different tasks they perform.
+[Dimensional reframing](../../../section-rooms/arguments/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md) compares the actual change of containing space. The zero-totalised construction fixes zero under its inverse; the projective reciprocal exchanges zero with infinity. The different defined results disclose the tasks performed by these constructions.
 
 ## #5→0 — Carry the rule back with the result
 
-[A15, Ratio and the Account](../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md), grounds the demand made explicit here: retain the criterion under which the relation was reckoned. A denominator can be an invertible field element, a retained exceptional mark, a parameter awaiting evaluation, or a projective coordinate. Moving among those offices requires specifying the change of operation.
+[Reckoning a ratio](../../../section-rooms/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md) **grounds** the common lesson of the four constructions: a ratio holds under a criterion, and the criterion travels with it. A denominator can be an invertible field element, a retained exceptional mark, a parameter awaiting evaluation or a projective coordinate. Moving from one of these to another changes the operation, and the account that results states its domain and the permissions it relies on.
 
-[A11, The Two Ones](../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md), grounds the native `0/1` relation of singular One and polyvalent All. [A18's eight determinations](../../episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) extend that relation through question, polarity, pattern, person and horizon into `1/0` return. The slash carries those authorial operations before any particular algebra refracts them. The projective swap can compare inverse orientation; it does not give the QL return its ontological meaning. [A03, Formal Limit](../../episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), receives the exact common pressure: an attempted operation can expose the conditions of the account and make their revision necessary.
+The [native two Ones](../../../section-rooms/arguments/A11-The-Two-Ones-0-One-1-All.md) give `0/1` its relation of singular One and polyvalent All, and the [eight determinations](../../../section-rooms/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) carry that relation through question, polarity, pattern, person and horizon into the return as `1/0`. The slash carries these authorial operations before any particular algebra refracts them. The projective swap gives a specified inverse orientation, and the native return keeps its ontological ground, so the two share a shape without sharing an object. When an operation is attempted on the determining field itself, the [formal limit](../../../section-rooms/arguments/A03-Immutable-Gap-Formal-Limit.md) **derives** what follows: the attempt exposes conditions of the account that the result obliges us to state and, where warranted, to revise.
 
-The historical rules return-to [§1 · #1, Śūnya Becomes Operational](../../../section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md). The distinct mathematical constructions return-to [§1 · #4, Zero Keeps One Foot Outside Mathematics](../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md) with their domains and failures visible. [A10, Advent of Zero](../../episteme/arguments/A10-Advent-of-Zero.md), retains the history of those changed permissions; [A36, Integral Zero](../../episteme/arguments/A36-Advent-of-Integral-Zero.md), extends the return of exact sign as Symbol. What returns is a more articulate relation, carrying the laws under which each of its determinations holds.
+The [historical entry of operative zero](../../../section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md) **historicises** addition, multiplication and exceptional denominators, each in its own office in the translated sources. [Changing a mathematical container](../../../section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md) **extends** the four constructions with their domains and failures in view. The [advent of zero](../../../section-rooms/arguments/A10-Advent-of-Zero.md) tells the history of these changing permissions, and [Integral recognition](../../../section-rooms/arguments/A36-Advent-of-Integral-Zero.md) **returns-to** the exact sign as a Symbol within the whole relation. The account that results carries the laws under which each determination holds.

@@ -1,97 +1,84 @@
-# PREWRITE — §3 Mathematical Substrate
+# s3 PREWRITE — the section as one developing act
 
-**After this file:** read failed Grok §3 + enrichment assembly as comparison → `SALVAGE.md` → `DRAFT-1.md` (perform the math) → `DRAFT-2.md` (one act).  
-**Cold drafting law:** WRITING-LAWS + WRITING-RUBRIC open; calibration files stay cold until a later audit (not this writer’s self-acceptance).
+## One-breath intent
 
----
+Mathematics has been running through this essay as a guest; this section makes it the substrate — the native body on which the whole 0/1 relation can be written, operated, and returned. The reader is not shown that the essay has a mathematics; the reader performs the mathematics and finds the knower was never outside it.
 
-## Movement chain (because-steps)
+## (A) Six-movement dependency chain — what each movement inherits and what it changes
 
-| Move | Because-step the prose must carry |
-|---|---|
-| **M25** | Draw triangle→square *because* E–W changes office (edge→diagonal); personed 3:3/3:1 *because* first/second/third become jointly available inside one act without a fourth spectator; eight determinations *because* one knowing-act needs parent, six joints, and incomputable return; calculus *because* exact local derivative underdetermines provenance (`F′` loses `C`); typed `4+2` *because* `B⊔(B×B)` already counted two singles and four pairs. |
-| **M26** | Both parents *because* the body must be readable from either phase; position/content exchange *because* row reversal alone preserves pure/mixed sets; First Spanda nested tracks *because* the parent holds emanation and reversion together; Boolean OR *because* coverage without order must be shown as a different carrier from the vector that recovers orientation; Second Spanda `64+36=100` then `64/36=16/9` *because* sum and proportion are different operations; `H((4,2),(3,3))=(4/3,2/3)` *because* componentwise cross-reading (not scalar division) yields the musical family. |
-| **M27** | Delay *because* `r=1−r` has no Boolean fixed point while `r(n+1)=1−r(n)` runs; Varela’s third state *because* enlarging arithmetic ≠ inserting a time step; Kauffman `J=ηD` *because* anticommutation constructs `i` rather than picturing a circle; Bohm thread *because* fidelity through change is answerability, not a modulus proof of consciousness. |
-| **M28** | Projective charts *because* `[1:0]` is addressable as `v=0` without inverting zero in ℝ; cross-ratio *because* a relation among relations survives Möbius change; atlas *because* transitions translate velocities while dynamics remain separately supplied; FDE neighbour *because* four values ≠ QL’s retained-two (`2+2²`). |
-| **M29** | Torus lift `(2,−1)` *because* local closure and winding coexist; Bergson *because* duration is qualitative permeation, not a spatial inventory of moments on the base; music `16/9 · 9/8 = 2` *because* completion has an exact factor distinct from the comma; Whitehead *because* satisfaction makes an achieved unity available to subsequent becoming without compulsory perpetual continuation; silence *because* telos is permitted. |
-| **M30** | Jigsaw criterion fails *because* more pieces under the old projection cannot repair travel; Arche-Topos *because* placing relation is prior in dependence to psyche/matter split; psychoid claim *because* that priority is already argued in Subject dependence — math makes operations public, does not wait on a measured mechanism; handoff *because* the form must now be undergone. |
+**M25 (Eight Determinations).** Inherits from §2/M24 the compact typed sixfold (two terms retained, four ordered relations, `2+2²=6`). Its work: unfold that positional container into the full threshold-to-return traversal `−/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0` as ONE knowing-act (identify a triangle), then perform the contextual geometry: O→N radius; second radius establishes the angle; E; W completes the N–E–W triangle; S completes the N–E–S–W square; E–W changes from outer edge to interior diagonal; side count 3→4, angle sum 180°→360°, area 1→2 remain distinct comparisons; the recogniser is included as context without an omniscient fourth spectator. Calculus condition (∞/dx; F(x)+C) states exactness without possession. Changes the problem: the sixfold is no longer a count to be stated but a traversal to be undergone; perspective has become context by a changed office.
 
----
+**M26 (Spanda and 4+2).** Inherits the traversal and its personed geometry (3:3, 3:1) and asks for the generator: how does the body produce and account for itself? Work: both Spanda displays. First Spanda with full nested slash syntax `0 → 0/0 → (0/1)/(1/0) → T0 → T1 → (1/0 + 0/1)_{QL} → 1/1 = 100%`, T0 and T1 as the two nested tracks, plus as declared QL composition. Second Spanda as typed accounting: `100 = 2⁶ + 6² = 64 + 36`, ratio conversion as a declared new operation, `64/36 = 16/9 = 2⁴/3²` → 4:2. Both inverse parents printed with the row-major rule, positions compared with occupants, Structure/Formality office exchange distinguished from row reversal, Essence as axis. Boolean `01 ∨ 10 = 11` as typed companion that loses order; vector carrier (u, d; b=(u−d)/2, p=(u+d)/2) that retains and reconstructs. Cross-comparison `H((4,2),(3,3))=(4/3,2/3)` and the ratio family through 9/8 and the octave — held for M29. Changes the problem: the sixfold is self-generating and self-accounting; the unity it reaches is an invariant with recoverable difference.
 
-## Missing because-steps to restore (where enrichment can still feel technical-only)
+**M27 (Mark, Re-entry, Complex Orientation).** Inherits the constructed body and asks what happens when a determination re-enters the space the distinction established — time enters. Work: Spencer-Brown's injunction and mark as operation; the re-entering mark carries its prior crossing; Varela's third state as enlargement of the admitted state-space (with the frequency-to-retention task named); Kauffman's iterants — alternation plus shift, i²=−1 as algebraic time; complex quarter-turn `1→i→−1→−i→1` (J=XD, J²=−I); Bohm–Krishnamurti wheel and thread as `z=re^{iθ}` — fidelity as invariant relation through transformation. Changes the problem: identity is no longer stasis; a phase now belongs to every determination; return-with-phase replaces return-as-cancellation.
 
-1. Why the person drawing the figure is already performing the binding the notation will analyse (copula → Spanda).
-2. Why Boolean `11` cannot replace the nested slash bridge (order and reconstructibility).
-3. Why atlas compatibility does not choose a trajectory (description ≠ attractor).
-4. Why putting the pieces down is not a failure of mathematics (completion ≠ enclosure of every condition).
+**M28 (Projective Completion / Dimensional Reframing).** Inherits phase-retaining orientation and meets obstruction: what happens when a representation cannot hold what must be said (1/0, parallels, the whole sphere)? Work: projective line/plane, Riemann sphere, cross-ratio invariance; CP¹/Bloch-sphere boundary (labels do not make QL quantum); FDE `2²` vs QL `2+2²`; Priest's fifth corner and the Kapsner/Siderits/Westerhoff dispute as discipline — enlargement must earn necessity; division pluralisms. Changes the problem: an obstruction is information about the frame; C64's "paradigm changes when `/` changes" becomes operable.
 
----
+**M29 (Topology and Musical Resolution).** Inherits reframing and asks for return that keeps what happened — the two exact forms: winding and interval. Work: `T²=ℝ²/ℤ²`, χ=0, `π₁≅ℤ×ℤ`, lifted loop endpoint (2,−1); local closure and retained displacement coexist; rational/irrational flows; the genus-1 `4g+2g` count as Offered correspondence; tokamak as bounded physical witness; musical chain from M26's family completed: fourth, fifth, 16/9 totality, 9/8 complement, `16/9·9/8=2`; comma and temperament distinct; performance genuinely ends; silence available. Changes the problem: return is no longer a hope or a threat; it has two exact carriers and can genuinely finish.
 
-## Thinker plan (problem first; name at obstruction)
+**M30 (Arche-Topos).** Inherits all six carriers (differential underdetermination, declared traversal, complex phase, changed frame, winding, harmonic completion) and names their coordinating field: the placing relation prior in dependence to the psyche/matter cut. Work: the atlas (charts, transitions, no global chart on compact surfaces); the travelling jigsaw as whole event — useful lid, finite success, travel, failed addition, changed criterion, explicit joins, return, putting down; positive psychoid claim at Argued strength; handoff to §4 as a question addressed to whoever undergoes such a form. Changes the problem: mathematics is not a description applied to the world from outside; it is the world's own placing-activity becoming explicit — and the one who follows it has been altered by following.
 
-| Thinker | Where they enter | Question they force |
-|---|---|---|
-| *(implicit)* Gebser | M25 context | Care for outcome from inside the situation |
-| Spencer-Brown | M27 open | What does a distinction do when it re-enters the space it establishes? |
-| Varela | M27 after Boolean delay | What must the calculus admit when self-reference will not stabilise in `{0,1}`? |
-| Kauffman | M27 matrices | How can time-shift and polarity construct imaginary rotation from declared operations? |
-| Bohm / Krishnamurti | M27 after modulus | Can thought encounter and correct its own movement without an external observer? |
-| Bergson | M29 beside winding/duration | How does an earlier phase remain active in a later one without becoming a row of spatial units? |
-| Whitehead | M29–M30 completion | How does a becoming reach satisfaction and become objectively available to what follows? |
-| Hatcher / NIST / OpenStax / Priest–Kapsner | local constraints | Bound exact claims; never own the native derivation |
+## (B) Missing because-steps — where the canonical field carries a connection the prose must actually perform
 
-No surname procession. No Jungian ownership of `X/x`.
+1. **Why the eight determinations are one act, not a glossary.** The because: a single identifying judgment already questions (the object must hold still), asserts (marks it), exerts selection (some differences matter), recurs (recognisable kind), is personed (someone, somewhere), is locally exact against a horizon, and can return to its condition. The movement must run the judgment, not display the table.
+2. **Why the triangle→square is contextual and not just more geometry.** The because: E–W was first the boundary that made the triangle bounded; when S appears, that same relation becomes interior. Nothing is erased; the edge's office changes. A perspective stays true while losing exhaustiveness. This is the section's first enactment of "return through retained difference" — before the word appears.
+3. **Why the Spanda operations are not ordinary arithmetic.** The because must be stated at each operator: QL composition vs fraction addition; ratio conversion as chosen operation (64+36 → 64:36); componentwise cross-comparison vs scalar division. The reader must never be left holding `0/0` as a real number.
+4. **Why re-entry carries memory.** The because: a mark that returns has crossed; crossing is an operation with an orientation; therefore the returned state differs from the initial state by the crossing itself. Delay s(t+1)=1−s(t) has no fixed point — the difference must be carried somewhere; the vector (u,d) shows where.
+5. **Why obstruction argues about the frame.** The because: what cannot be represented under stated laws reveals which laws were in force; the new frame must declare what it preserves and what it changes, or it is a renaming.
+6. **Why winding and interval are both return.** The because: each retains a determinate difference after local closure — an integer pair in one register, a multiplicative factor in the other. Their comparison is the authorial coordination, not an identity of objects.
+7. **Why the arche-topos is Derived as synthesis and Argued as psychoid.** The because: no single carrier suffices; the coordination is native; "psychoid" names the field's position prior to the psyche/matter division in the order of dependence, which §4 will undergo rather than prove.
 
----
+## (C) Thinker-presence plan (removal test; distribution map)
 
-## Constructions that will carry thought
+- **Spencer-Brown (M27, explicit; tacit M28):** enters when the question "what does a distinction do when it re-enters its own space?" becomes unavoidable. His injunction is the live operation, not a history stop. Later presence tacit: re-entry without re-teaching.
+- **Varela (M27, explicit):** enters at the exact moment the two-state calculus cannot stabilise self-reference in its initial values — the third state as changed state-space. The frequency-to-retention task named as genuinely open. No consciousness inference.
+- **Kauffman (M27, explicit; last explicit home in the essay per distribution):** enters when time must be constructed from declared operations; his clock sentence for i carries the alternation+shift construction; his own kernel non-triviality limits the claim. Formal neighbour, no ontology proof.
+- **Bohm/Krishnamurti (M27, explicit):** enters where error, correction and running-true are at issue — the wheel and thread image, rotation preserving modulus. Not a bridge from "wholeness."
+- **Bergson (M29, explicit but brief):** enters where a musical duration threatens to become a row of instants — duration protects qualitative succession; the topology must not be identified with it. One living appearance.
+- **Whitehead (M29→M30, explicit but brief):** enters at satisfaction and perishing — how an achieved occasion becomes available without persistence of its immediacy. Supports return-vs-repetition and completion. Terms may carry tacitly after.
+- **Mathematical sources (witnesses throughout, names at exact claims):** OpenStax at the antiderivative boundary; Hatcher at quotient/cover/winding; NIST DLMF at cross-ratio; Scholtz at comma/temperament; Priest/Kapsner/Garfield-Priest at the fifth-corner boundary; ITER at confinement. Each named once where its law is invoked, never as procession.
+- **Jung (M25, M30):** the four functions + two attitudes enter only after the native derivation, as psychological witness of a `4+2` architecture; at M30 Jung and Pauli supply the psychoid question's destination — no mining, no ownership of X/x.
+- **Gebser/Heidegger/Van Eenwyk (M30, tacit):** world-picture→atlas pressure and chart/attractor discipline without name-stacking; M30's jigsaw already began at §0/1 M04-5 region — callback, not origin story.
 
-1. **Triangle→square** (changed office of E–W; 180°→360° as contextual holding).
-2. **Nested First Spanda** (two tracks + QL composition + companions).
-3. **Parent expansion + position/content exchange**.
-4. **Swap / polarity / quarter-turn** (`X²=D²=I`, anticommute, `J²=−I`).
-5. **Atlas transition with chain-rule velocities**.
-6. **Torus lift and winding class**.
-7. **Fourth / fifth / 16/9 / 9/8 / comma / temperament / silence**.
-8. **Travelling jigsaw** as one continuous Mytheme action (lid useful → criterion fails → joins → put down).
+## (D) Historical/imaginal material that will carry thought
 
----
+- The constructed triangle/square (native geometry, M25) — performed on the page.
+- The nested First Spanda chain (native, M26) — printed exactly; no slash dropped.
+- The Boolean windows and vector reconstruction (native harmony/discovery field, M26) — companions that show what order costs.
+- The wheel and thread (Bohm–Krishnamurti, M27) — a sourced image whose exact operation (rotation preserves modulus) is the essay's own mathematical reading, kept distinct.
+- The fifth-corner dispute (M28) — a real contemporary disagreement used as discipline against cheap enlargement.
+- Tokamak confinement (M29) — a physical witness with its own laws; not a metaphor and not proof.
+- The travelling jigsaw (authored Mytheme, M30) — kept whole: lid, assembly, travel, failed addition, changed joins, return, putting down. Mystery does not mean permanent failure to finish.
+- The atlas and its circle charts u=3, v=1/3 (mathematical witness, M30) — one point, two coordinates, declared rule.
+- Musical resolution and silence (M29) — the exact 9/8 completing 16/9 to the octave; a performance can genuinely end.
 
-## Opening
+## (E) Opening choice for THIS section and why it belongs here
 
-Open from the mathematical act belonging here: centre, radius to N, angle at E, diametric leap to W, triangle; then S and the square in which the former edge becomes diagonal. Let the typed sixfold from §2 be *felt* in the construction rather than announced as homework. Copula (identification / predication / circumstance) follows from having drawn and judged the figure.
+Open with the mathematical act, as the openings ledger prescribes: a construction the reader can perform. Take up a compass, draw the circle, name its centre, step the radius to the circumference — north — then step it twice more: east, west. The three stations make a triangle. That triangle's angles hold 180 degrees. Then the fourth step south, and the triangle becomes a square — and the old east–west edge, the triangle's boundary, is now a line inside the square. Only then: this is where the sixfold of the preceding section was always going to have to live — not as a diagram beside the argument but as the argument's own body. The construction produces the contextual turn (180°→360°) before any vocabulary names it; the inherited sixfold is received from §2 in one receiving sentence, not as a briefing; "must now become operable" is demoted to zero occurrences. This opening belongs here because §3's whole claim is that the relation can be operated, not asserted — so the section itself must begin by operating.
 
----
+## (F) Paragraph-development risks
 
-## Risks
+1. **Lecture-slide cadence in the eight-determination traversal.** Counter: keep the whole chain in one sustained movement of prose (with the table-bearing display where the reader must operate), varying paragraph mass; let some determinations happen rather than only be enumerated.
+2. **Display-density whiplash in M26.** Counter: displays carry the operations; the prose between them states objects and consequences in ordinary runs, with paragraph breaks at changes of governing operation (horizontal → vertical → cross-reading → companions), not at every equation.
+3. **Uniform "boundary + example" pulses in M28.** Counter: make one obstruction (1/0; then parallels; then the whole sphere) do sustained work each time; let the fifth-corner dispute pass and return rather than parade.
+4. **Abstract handles ("retained difference," "return," "context") going weightless.** Counter: each recurrence points to its specific carrier — diagonal, (m,n) pair, 9/8 factor, changed rule of fit.
+5. **Anxious stopping — the section ending in permanent incompletion.** Counter: M29 lets the performance finish; M30 lets the traveller put the pieces down; renewal available, not compulsory.
+6. **Meta-narration at the seams.** Counter: receive §2 in the construction's own terms; hand to §4 through the person who must undergo the form, not through a prospectus.
+7. **Negation rhythm.** Formal negations (1/0 undefined; no global chart; OR loses order) are protected; audit every "not X but Y" against the four-question gate.
 
-- Technical exposition that postpones human urgency to M30.
-- Dropping a nested slash under compression.
-- Collapsing Boolean companion into Spanda replacement.
-- Equating winding with memory, `9/8` with comma, atlas with dynamics.
-- Retelling the entire jigsaw later (return map: primary home is M30).
-- Softening Arche-Topos/psychoid to a research suggestion.
-- Briefing transitions (“now we turn to…”).
-- Staccato beat paragraphs and slogan closers.
-- Self-review / self-acceptance (forbidden).
+## (G) Protected achievements that must not be lost
 
----
-
-## Protected achievements (must survive DRAFT-2)
-
-- Exact nested Spanda chain and both inverse parents with office exchange.
-- Eight determinations in order; distinct `4+2`, eight-turn, `3:3`, `3:1`, `4:2`.
-- Boolean `01∨10=11` as companion only.
-- Triangle/square changed boundary; complex phase; topology; winding; atlas; music; completion and silence.
-- Travelling jigsaw whole action with failed criterion.
-- Positive Arche-Topos and psychoid order of dependence at Argued strength.
-- Earned mathematical corrections (zero inverse, genus, cells, 137, etc.).
-- Footnote anchors reusable where enrichment had them (`[^s3-…]`), or equivalent source-note layer if notes are deferred — prefer keeping note calls so coordinator can splice.
-
----
-
-## Drafting method
-
-- **DRAFT-1:** from argument and theorem field — perform every load-bearing calculation in continuous paragraphs; accept temporary unevenness of voice.
-- **DRAFT-2:** one act through M25–M30 — merge false completions; lengthen where relation needs length; thinkers at their questions; jigsaw as continuous action; exit clean to §4.
-- Word target: body ≥ **6264** tokens; aim ≈ **6900–7600** (not thinner than enrichment by >10%).
+1. Full native theorem-field, exact nested First Spanda chain with T0/T1 and declared QL composition.
+2. Both inverse parents with row-major rule; cross-level Structure/Formality office exchange; Essence axis; harmonics vs complementary folds distinct.
+3. Complete eight determinations in order; sixfold ≠ eightfold; 4+2, 3:3, 3:1, 4:2 as different readings.
+4. `X/x` as Frank's native notation (determining capacity / indefinite particular), never Jungian; Name and Power coequal.
+5. Boolean `01 ∨ 10 = 11` as companion only; vector reconstruction showing what OR loses.
+6. Triangle→square performed: changed boundary, 180°→360°, area and side-count distinct; no omniscient fourth spectator.
+7. Complex phase (J=XD, J²=−I), iterant i, re-entry without consciousness inference; frequency-to-retention named open.
+8. Atlas vs attractor vs trajectory distinct; no global chart on compact surfaces; a drawing is possible.
+9. Fourth/fifth/whole-tone exact; 9/8 ≠ Pythagorean comma; temperament a declared choice; genuine ending and silence.
+10. Positive Arche-Topos; psychoid identification Argued, order of dependence not clock time; no empirical mechanism claimed.
+11. Travelling jigsaw as whole event, initially useful lid, real finite success, real stopping.
+12. Mathematical corrections already earned: no inverse of zero in a field; sphere genus zero; no 137→fine-structure; quotient slash is an equivalence relation.
+13. Thinkers through their actual problems; Kauffman's kernel caveat; Varela's frequency task; Bohm/Krishnamurti disagreement retained.
+14. Length: ≥6222 words, target ≈6914–7950.

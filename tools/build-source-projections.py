@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build disposable human source projections from canonical SOURCE.md houses."""
+"""Build disposable human source projections from canonical source houses (<source_id>.md)."""
 
 from __future__ import annotations
 
@@ -115,7 +115,7 @@ def load_sources(root: Path) -> list[Source]:
         data, body = parse_markdown(path)
         source_id = str(data.get("source_id") or "").strip()
         if not source_id:
-            raise ValueError(f"SOURCE.md lacks source_id: {path}")
+            raise ValueError(f"source house lacks source_id: {path}")
         if source_id in seen:
             raise ValueError(f"duplicate source_id {source_id}: {seen[source_id]} and {path}")
         seen[source_id] = path
@@ -131,7 +131,7 @@ def load_sources(root: Path) -> list[Source]:
             )
         )
     if not sources:
-        raise ValueError("no canonical SOURCE.md houses found")
+        raise ValueError("no canonical source houses found")
     return sources
 
 
@@ -204,7 +204,7 @@ def header(title: str, digest: str, source_id: str) -> list[str]:
         f'source_digest: "{digest}"',
         "---",
         "",
-        "<!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->",
+        "<!-- Generated from canonical source houses (<source_id>.md). Do not edit by hand. -->",
         "",
     ]
 
@@ -252,7 +252,7 @@ def render(root: Path) -> dict[Path, bytes]:
         ]
     )
     for code, title, room in SECTIONS:
-        room_path = root / f"submission-package/essay/section-rooms/{room}/ROOM.md"
+        room_path = root / f"submission-package/essay/section-rooms/{room}/ROOM-{room}.md"
         room_rel = Path(os.path.relpath(room_path, outputs["MAIN-SOURCES.md"].parent)).as_posix()
         main.extend([f"## {code} — {title}", "", f"[Open section room]({room_rel})", ""])
         rows = sorted(main_rows[code], key=lambda row: (row[0].title.casefold(), row[0].source_id))

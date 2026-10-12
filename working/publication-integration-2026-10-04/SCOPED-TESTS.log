@@ -1,0 +1,50 @@
+.................
+----------------------------------------------------------------------
+Ran 17 tests in 0.263s
+
+OK
+EEFE
+======================================================================
+ERROR: test_c41_declared_identity_and_old_slug_agree (test_t25_record_identity.DeclaredRecordIdentityTests.test_c41_declared_identity_and_old_slug_agree)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_t25_record_identity.py", line 22, in test_c41_declared_identity_and_old_slug_agree
+    record = self.workspace.resolve("C41")
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tools/okf-workspace.py", line 620, in resolve
+    raise KeyError(f"No artifact resolves from: {raw}")
+KeyError: 'No artifact resolves from: C41'
+
+======================================================================
+ERROR: test_conjugate_identity_keeps_its_own_face (test_t25_record_identity.DeclaredRecordIdentityTests.test_conjugate_identity_keeps_its_own_face)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_t25_record_identity.py", line 33, in test_conjugate_identity_keeps_its_own_face
+    argument = self.workspace.resolve("A26")
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tools/okf-workspace.py", line 620, in resolve
+    raise KeyError(f"No artifact resolves from: {raw}")
+KeyError: 'No artifact resolves from: A26'
+
+======================================================================
+ERROR: test_slash_root_resolves_as_identity (test_t25_record_identity.DeclaredRecordIdentityTests.test_slash_root_resolves_as_identity)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_t25_record_identity.py", line 28, in test_slash_root_resolves_as_identity
+    root = self.workspace.resolve("A/C")
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tools/okf-workspace.py", line 620, in resolve
+    raise KeyError(f"No artifact resolves from: {raw}")
+KeyError: 'No artifact resolves from: A/C'
+
+======================================================================
+FAIL: test_real_effects_command_retains_root (test_t25_record_identity.DeclaredRecordIdentityTests.test_real_effects_command_retains_root)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_t25_record_identity.py", line 40, in test_real_effects_command_retains_root
+    self.assertEqual(result.returncode, 0, result.stderr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 2 != 0 : 'No artifact resolves from: C41'
+
+
+----------------------------------------------------------------------
+Ran 4 tests in 137.680s
+
+FAILED (failures=1, errors=3)

@@ -1,0 +1,12 @@
+{
+  "base": "http://127.0.0.1:59259",
+  "checks": [
+    "foundation route and rendered local graph",
+    "nested explorer folders fold and reopen",
+    "global graph opens with actual canvas",
+    "search returns field pages",
+    "formal SVG actually loads in its page",
+    "mobile explorer drawer opens and closes"
+  ],
+  "pass": true
+}

@@ -1,338 +1,276 @@
-# §1 Cold Review — DRAFT-2
+# COLD-REVIEW — §1 The Return of Zero — DRAFT-2
 
-Independent cold review of `working/final-manuscript-prose-pass-2026-09-24/sections/s1/DRAFT-2.md`. Writer prep files (`READ-RECEIPT`, `PREWRITE`, `SALVAGE`, `RETURN`, `DRAFT-1`, self-assessments) were not opened for this audit.
-
-**Room:** `submission-package/essay/section-rooms/02-return-of-zero/`  
-**Movements reopened:** `13-s1-p0-sign-migrates.md` … `18-s1-p5-loan-returns.md`  
-**Also read:** `P1-CANONICAL-ALIGNMENT.md`, `READING.md`, `sections/s1.md` (recon dossier), writing laws / rubric / comparative-and-negation gate.
+Independent cold reviewer. No prior context; writer self-assessments (`READ-RECEIPT.md`, `PREWRITE.md`, `SALVAGE.md`, `REVISION-RESPONSE.md`, `DRAFT-1.md`) not opened; no other section's draft opened. Judged against `writing-guidance-tools/references/WRITING-LAWS.md`, `WRITING-RUBRIC.md`, `comparative-and-negation-gate.md`; room `submission-package/essay/section-rooms/02-return-of-zero/` (ROOM.md, all six movements, P1-CANONICAL-ALIGNMENT.md, READING.md); recon dossier `working/final-manuscript-prose-recon-2026-09-24/sections/s1.md`; `working/final-manuscript-prose-pass-2026-09-24/sections/s1/DRAFT-2.md` read completely. No verdict issued here; this review supplies the final review with evidence.
 
 ---
 
-## Length / loss test
+## PART 1 — Paragraph-by-paragraph G1–G10 audit
 
-| Surface | Count method | Words |
-|---|---|---|
-| `working/manuscript-source-enrichment-2026-09-20/sections/s1/SECTION.md` | alphabetic body tokens; headings, HTML anchors, and `## Notes` excluded | **7122** |
-| `…/sections/s1/DRAFT-2.md` | same | **7117** |
-
-**Ratio:** DRAFT-2 ≈ **99.93%** of SECTION (−0.07%).  
-**Compression gate:** not triggered (threshold is >10% shorter).
-
-**Loss note:** Length is preserved. What thins is not word count but *event density* in places: Varāhamihira and al-Khwārizmī still function largely as surname-conveyors of vocabulary / teachability; Baghdad institutional texture beyond “manuscripts, tables, teaching, commerce” remains thin relative to the Indian arithmetic hinge and the Fibonacci teaching scene. Euler remains correctly absent. No wholesale excision of Brahmagupta/Bhāskara operations, mediant, or field proof.
-
----
-
-## Content gates (section-level)
-
-| Gate | Result |
-|---|---|
-| Kaplan as sustained human history of the sign (not isolated citations) | **Partial miss.** Body never names Kaplan; footnotes carry page-range citation clusters. Scenes (205, separator, astronomical circle, Gwalior/boards, board-vs-algorithm, Fibonacci teaching) do real historical work, but several middle episodes still read as taught summary rather than lived contingency, and Kaplan’s question-making pressure is intermittent. |
-| Material practices, notation, Indian arithmetic / transmission | **Mostly holds** for Indian mark/board/rule and Latin/Fibonacci labour; Arabic reception still lighter. |
-| Brahmagupta / Bhāskara and exact zero operations | **Holds** for operations; **source discipline fails** on near-verbatim Colebrooke wording (below). |
-| Gain / sacrifice / return emerge from history | **Holds** (M13 close + M18 return), with residual packaging cadence. |
-| Humanity / God-of-gaps reversal | **Holds** (M16; compact; empirical vs constitutive gap). |
-| Later mathematics only where relevant | **Holds** (empty product, ordinals, NOR, field proof, Robinson, mediant). |
-| History as event (people, objects, practices, problem, change) | **Partial miss** where surnames gather offices without enough circumstance (Varāhamihira; al-Khwārizmī/*ṣifr*). |
-
-A partial miss on a required content gate is a rejection reason.
-
----
-
-## Source / quotation check
-
-Checked against source houses (not NOTES).
-
-| Use | House / card | Standing | Result |
-|---|---|---|---|
-| Brahmagupta add/mul rules (quoted) | `colebrooke-1817-brahmagupta-bhaskara-q001` | quotation-ready | **Pass** — wording matches the card. |
-| *khahara* / zero-denominator retained | q002 available; draft paraphrases | quotation-ready card exists | Paraphrase acceptable; full q002 not required if paraphrase stays loose. |
-| “infinite and immutable God” | from q003 | quotation-ready | Short quoted phrase OK. |
-| Near-verbatim: “orders of beings are absorbed or put forth”; “Worlds enter and leave… divine is neither enlarged nor diminished” | q003 | quotation-ready | **Fail** — Colebrooke’s translated diction is reproduced unmarked beside a short quoted fragment. Either quote the card fully or paraphrase further away from its words. |
-| Kaplan citations | `kaplan-1999-nothing-that-is` | citation-ready; `quote_status: excerpts-unverified` | **Pass** for non-quotation use; no Kaplan wording treated as quotation-ready. |
-| Dutta reconstruction | `dutta-2023-zero-divided-numbers-india` | citation-ready; no-excerpts | **Pass** — paraphrase of constraint, no fake quote. |
-| Fibonacci / Boncompagni / MAA | no dedicated `SOURCE.md` house found under `episteme/sources` | footnote-only | **Debt** — reception claim is scoped and cautious, but the public citation path is not housed. Not invented quotation-readiness; still a standing gap for a load-bearing historical scene. |
-| Gebser | `gebser-1985-ever-present-origin` | citation-ready; locator-needed | **Pass** for non-quotation synthesis with Taylor boundary in note. |
-| Abhinavagupta / Singh / Dyczkowski | cited as paraphrase of doctrinal relation | notes distinguish interpreter voice | Acceptable if no silent promotion of NOTES wording (NOTES not used here). |
-
-**Source check overall:** fail on unmarked Colebrooke near-quotation; Fibonacci houseless citation debt.
-
----
-
-## Thinker-presence test (remove the surname)
-
-| Name | If surname removed, does problem / practice / operation remain? | Verdict |
-|---|---|---|
-| Kaplan | Practices largely remain in body; name lives only in notes. History is not Kaplan-imitative in style. Sustained *Kaplan-mode* curiosity is uneven. | No F6 fame-drop; **content-gate pressure remains** (history must stay eventful, not footnote-spine). |
-| Brahmagupta | Rules + Colebrooke quote carry the operation. | **Pass** |
-| Bhāskara | *khahara*, invariance comparison, insertion/extraction. | **Pass** (operation survives; quotation discipline fails separately) |
-| Dutta | “Modern reconstruction… restricted cancellation” survives. | **Pass** |
-| von Neumann | Ordinal construction survives without the name. | **Pass** |
-| Robinson | Nonzero ε calculation survives. | **Pass** |
-| Fibonacci | Teaching labour (nine figures, tables, Roman comparison) survives; “not European origin” remains. | **Pass** |
-| al-Khwārizmī / Varāhamihira | Weak: remove name and little more than “vocabulary / teachability” remains. | **F6 risk** — surname as conveyor |
-
----
-
-## Movement-boundary audit
-
-At each boundary the named movement file was reopened and compared to prose proposition and outgoing consequence.
-
-### M13 ← `13-s1-p0-sign-migrates.md`
-- **Proposition:** absence acquires a migratable positional/operative sign; offices must stay distinct.
-- **Outgoing:** Indian hinge where śūnya becomes calculable.
-- **Prose:** Opening 205 + separator + astronomy + Indian lexeme/board + Brahmagupta bridge + transmission + gain/sacrifice match the thesis. Close correctly hands arithmetic independence into M14.
-- **Fault:** still recurrent scene → lesson → qualification units (F8); early metaphysical tip in the *kha* paragraph anticipates Bhāskara before the hinge (G3/F4).
-
-### M14 ← `14-s1-p1-sunya-operational.md`
-- **Proposition:** additive identity, multiplicative absorption, zero-divisor pressure; Bhāskara *khahara* + theological comparison; Kashmir co-presence without transmission; chronology discipline.
-- **Outgoing:** empty-set / successor generative neighbour.
-- **Prose:** Operations, Colebrooke quote, Dutta regime, Śaiva anatomy, chronology — all present and load-bearing.
-- **Fault:** unmarked q003 near-quotation; closing method paragraph softens the handoff to M15 (outgoing generative construction is under-signalled).
-
-### M15 ← `15-s1-p2-empty-set-generates-one.md`
-- **Proposition:** empty product / ∅ → {∅} / successor as formal neighbour; no proof of Subject; slash not set-theoretic.
-- **Outgoing:** how relation can be signed without conflating ∅, graphic zero, and Subject.
-- **Prose:** Distinctions held; NOR bounded vs QL slash; Peirce–Sheffer–Wittgenstein chain correctly withheld.
-- **Fault:** final sentence packages the occlusion for M16 in slogan form (F8); otherwise aligned.
-
-### M16 ← `16-s1-p3-crossed-zero.md`
-- **Proposition:** Ø as occluded mediation; God-of-gaps / humanity–AI guard; Offered native sign.
-- **Outgoing:** stroke as problem → `1/0` forces container disclosure (M17).
-- **Prose:** Crossed zero, success-criterion example, God-of-gaps reversal, AI mediation line — content gates hold.
-- **Fault:** **seam miss.** Closing stays on criterion / machine mediation and does not turn the stroke into the `1/0` pressure M17 must receive. Reader crosses the heading without the movement’s stated consequence.
-
-### M17 ← `17-s1-p4-zero-outside-math.md`
-- **Proposition:** ordinary-field obstruction; distinct `0/0`; declared domain change; Robinson contrast; frame-disclosing “outside.”
-- **Outgoing:** repay the loan in M18.
-- **Prose:** Proof, cancellation, systems list, Robinson, status-marked cross-register claim — strong.
-- **Fault:** “Projective completion, the Riemann sphere, wheels, meadows…” risks F9 name-stack unless each keeps a one-clause cost ( presently thin).
-
-### M18 ← `18-s1-p5-loan-returns.md`
-- **Proposition:** mediant boundary pair; Two Ones; reckoning / answerability; brief token only.
-- **Outgoing toward §2:** differentiation real; relation of distinctions live.
-- **Prose:** Mediant math, Two Ones, harvest-reply scene, *ratio*/*fides*/*credere*, Gebser braid, token edge — match.
-- **Fault:** mid-movement catalog of prior gains (placeholder / empty product / successor / NOR / denominator / mediant) is F9 recap whose delete-test is soft; closing slogan risk on “A determination is real, exact and consequential…”.
-
----
-
-## Paragraph-by-paragraph G1–G10 audit
-
-Form: **location · gate/fault · exact phrase · failure · repair direction.**  
-Delete-test noted after each block. Coverage includes the middle, not only ends.
+Notation: ¶n counts substantive paragraphs within each movement. Flag form: `location · gate/fault · exact phrase · failure · repair direction`.
 
 ### M13 — A sign migrates between worlds
 
-1. **Opening (205)** · G1/G2 hold · “the middle character contributes no tens” · — · Keep.  
-   **Delete-test:** removes the section’s material entrance — **breaks**.
+**¶1** ("In 205, the middle character contributes no tens…") — Function: concrete entrance; make positional absence consequential before any philosophy. Claim: an unentered place is doing work. Because: removal demo (205 → 25). Gates: G1 pass; G2 pass (the place acts, the 2 falls); G8 — see the opening note below. No faults.
 
-2. **Sexagesimal / separator** · G4/F8 · “That was already a change of permission… A blank, a placeholder and an arithmetic object remain different achievements” · Scene, abstract lesson, and stacked qualification in one unit · Let the scribe’s copying difficulty finish before the taxonomy of achievements; shorten the closing lecture.  
-   **Delete-test:** loses Babylonian office — **breaks**.
+**¶2** ("The work deserves doing once by hand…") — Function: perform the positional account by hand; expose the blank's danger. Claim: the danger is that the writing alone must carry what the writer knew. Because: leave/strike the tens place. Gates: G2, G3 pass; G4 one movement (the blank's danger); the closing "the difference has to travel in the writing itself" is the paragraph's earned compression and the section's M13 thesis in miniature. Candidate, low: `M13 ¶2 · F5 · "The work deserves doing once by hand" · an instruction-shaped opener tells the reader how to receive the paragraph before it performs · either cut and let the by-hand account simply begin, or keep under L7 as a deliberate directness (it is followed immediately by the doing)`.
 
-3. **Hellenistic circle** · G7 admissible · “rather than arranged around a single verdict that the Greeks either possessed or lacked ‘zero.’” · Real operational contrast · Hold the distinction; dull the “verdict” courtroom tone.  
-   **Delete-test:** **breaks**.
+**¶3** (Scribes, base sixty, (1,0,1)=3601) — Function: Babylonian separator scene. Claim: the separator keeps an empty place legible; it is internal and never terminal. Because: positional powers of sixty; the honest scoping sentence. Gates: G1 pass — the draft explicitly disclaims tablet-specificity ("This is an illustration of the positional problem, not a transcription of a particular tablet"), which honors the Kaplan house rule that dates and tablet identities need specialist sources; G5 pass ("permission" used consistently); G7 pass — "One permission had been granted. Arithmetic was still to come" is a real boundary, not a strawman. No faults.
 
-4. **Indian vocabulary (*kha*…)** · G3/F4 · “it already opens a metaphysical question beside the mark” · Metaphysical payload arrives before Bhāskara earns it · Keep lexical material; defer the metaphysical question to M14’s hinge.  
-   **Delete-test:** lexical loss **breaks**; metaphysical tip **soft**.
+**¶4** (Hellenistic astronomy, the circle) — Function: a different mark for absent measure inside a checked table. Claim: the circle held absence inside measurement without entering calculation. Because: degrees/minutes/seconds column discipline; the closing Greek division of labour. Gates: G1 pass; G5 pass — "punctuation inside a measure" keeps the register stable; G7 pass — the Greek mathematics/astronomy contrast carries content on both sides ("accomplished its immense constructions without a positional zero" / "a sign that behaved like punctuation"). Minor candidate: `M13 ¶4 · G5 · "The circle was useful precisely because a reader could tell no minutes from a lost or displaced entry" · "tell X from Y" is momentarily ambiguous (distinguish a genuine zero from damage) · recast as "could tell a genuine zero-minute from a lost or displaced entry" if any reader trips; otherwise leave`.
 
-5. **Gwalior / boards / dots** · G2 hold · “Someone who knows the calculation in the body can still lose the empty place when the board is cleared” · — · Keep.  
-   **Delete-test:** **breaks**.
+**¶5** (The mark travels east; Kaplan; *kha*, *ambara*, *ākāśa*, *śūnya*; Varāhamihira) — Function: pivot from marks to words; introduce Kaplan as historian; open the Sanskrit word-world. Claim: vocabulary grew before rules; emptiness here means a place held open, not annihilation. Because: the receiving word-world was fluent in openness. Gates: G4 strain on one sentence; G9 mild strain on an evaluation. Flags:
 
-6. **Brahmagupta bridge** · G1 hold · “It becomes something that addition, subtraction and multiplication must encounter” · Brief but functionally correct as M13→M14 bridge · Keep; do not expand into M14’s rules here.  
-   **Delete-test:** **breaks** seam.
+- `M13 ¶5 · G4/F8 · "The route followed here — separator, circle, word, rule, reception — is the route Robert Kaplan's natural history of zero lays out: a historian asking how a number got made out of nothing, he follows the mark through the hands that used it, and his Indian scenes are the richest, because there the vocabulary grew long before the arithmetic did." · a ~60-word sentence doing three jobs (route map, historian portrait, evaluation) on one dash-colon spine with a loose absolute ("a historian asking…, he follows…") · split: let the route map stand as its own sentence; give Kaplan's question and manner a sentence each; attach "the richest" to something he is shown doing`.
+- `M13 ¶5 · G9 · "his Indian scenes are the richest" · an unearned evaluation of the book offered as fact · either support it from the itinerary the note already maps (vocabulary scenes precede rule scenes) or state it as the essay's judgement`.
 
-7. **Arabic / Latin / board vs algorithm** · G2 hold; mild F9 at head · “Al-Khwārizmī belongs… *ṣifr* belongs…” · Surnames introduce the paragraph before the merchant’s carrying problem · Lead with board/carry/check; let names attach to a concrete act.  
-   **Delete-test:** transmission labour **breaks**; name-leads **soft**.
+**¶6** (Gwalior, dust-board, safe claim) — Function: material marks; honest origin-caution. Claim: word, mark, procedure and rule are different acquisitions; surviving objects show uses without settling invention. Because: the inscription and the dot-hypotheses. Gates: G1 pass — "These are hypotheses about origins, and the manuscripts argue about their own dates" is exactly the licensed posture (Kaplan house: "Neither settles a unique origin"); G9 pass. No faults.
 
-8. **Fibonacci** · G7 · “the labour is not admiration of an exotic mark, but the slow conversion…” · Comparative gate: both sides named · Acceptable; houseless citation remains a standing debt.  
-   **Delete-test:** **breaks**.
+**¶7** (What the mark still could not do; the crossing) — Function: transition; defer the rules to M14; announce the crossing. Claim: the rules were written in the seventh century; the crossing is part of what the sign became. Flags:
 
-9. **Gain / sacrifice** · G1 hold; F8 · “The loss is consequential precisely because the gain is real.” · Slogan closer after an otherwise earned cost · End on the reconstructible procedure / dropped theological accompaniment, not the chiasmus.  
-   **Delete-test:** content gate **breaks**.
+- `M13 ¶7 · G3 · "Between the vocabulary and the rules, however, the sign crossed half the world" · the sentence's own previous clause dates the rules to the seventh century (628) and the following paragraph's crossing runs eighth–ninth century onward; chronologically the crossing is after the first rules, not "between" vocabulary and rules — the reader who has just been given the 628 date cannot place the crossing · state the deferral honestly ("the section follows the crossing before taking up those rules") or place the crossing explicitly after the first rules; as written it muddles the one sequence this section must keep exact`.
 
-10. **Return not restoration** · F5 mild · “To receive that return, we first have to follow…” · Tour-guide handoff · Perform the turn into arithmetic without announcing the itinerary.  
-    **Delete-test:** hinge softens but M14 can still open — **soft-borderline**.
+**¶8** (Al-Khwārizmī, *ṣifr* → *cifra*/*zero*, board vs written algorithm) — Function: transmission as teaching and reconstruction. Claim: transmission demands more than recognisable shapes. Because: manuscripts, tables, commerce, apprentices; carrying and checking. Gates: G2 pass; G9 pass — the list earns by naming the institutions; G5 pass. No faults.
+
+**¶9** (Fibonacci) — Function: reception scene; kill the origin-hero story. Claim: Fibonacci receives and teaches; the labour of acquiring the notation is visible. Because: *Liber Abaci*'s opening pedagogy, Roman comparison, merchant tables. Flags:
+
+- `M13 ¶9 · G1 · "In the reproduced early printing the pedagogy stands visible at the entrance" · the reproduced Boncompagni text is an 1862 printed transcription of the medieval manuscripts, not an "early printing" — *Liber Abaci* had no early printing; the note itself says only "reproduced Boncompagni text" · write "in the reproduced text" or "in Boncompagni's printed transcription"`.
+
+**¶10** (Two consequences; gain and price) — Function: state the gain (portable correctness between strangers) and the price (a world of meanings held off). Claim: portability and bracketing are one event. Because: the preceding scenes (two reckoners, error by reconstruction; the reckoner who "need not carry the word's whole sky into the sum"). Gates: G1 pass — the gain/price emerges from the history, not as a template (recon requirement met); G7 pass; G9 pass — "can now be stated as what they are" is mildly mannered but the paragraph delivers. Low candidate: `M13 ¶10 · F10 · "can now be stated as what they are" · stance-taking filler in front of strong content · cut the phrase and state the two consequences directly`.
+
+**¶11** (Sacred emblem vs marked place; hand-off) — Function: the counterfactual contrast and the arc-prophecy ("its reasoning can eventually be turned back on the question of vacancy itself"); hand to M14. Claim: operability, not emblemhood, is what makes the return possible. Because: everything since ¶1. Gates: G7 pass — the counterfactual names a real alternative, not a strawman; G8 pass — "That turning begins where the mark first earned effects" performs the seam exactly as M13's outgoing consequence requires. No faults.
 
 ### M14 — Śūnya becomes operational
 
-11. **a+0 / a·0 setup + absorption** · G1–G3 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶1** ("Adding nothing to seven leaves seven…" + display) — Function: the two stable operations from the inside. Claim: addition preserves, multiplication absorbs a distinction. Because: six vs seventeen under ×0. Gates: G1–G3 pass; the forward-link "this absorption, innocuous here, is the exact mechanism that will later make division by zero impossible" is honest anticipation, paid off verbatim at M17 ("Multiplication's absorption, the first rule this section taught, is the exact mechanism here") — a real structural loop, not a promissory note. No faults.
 
-12. **Brahmagupta quote** · G1; source pass · quoted cipher rules · Keep.  
-    **Delete-test:** **breaks**.
+**¶2** (Brahmagupta + Colebrooke q001) — Function: dated, written beginning; primary rules. Claim: cipher joins the company it acts on; citizenship through rules, one at a time. Because: the quoted verses. Gates: G1 pass; G6 pass — "arithmetic citizenship" is a fresh, earned figure; F6 no — the translation layer is flagged in the sentence itself ("itself a historical layer, nineteenth-century English standing between the reader and the Sanskrit"). No faults.
 
-13. **Division return-test** · G1 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶3** (Division asks a third question) — Function: division as recovery through multiplication; the difficulty sits in the rule. Claim: absorption has already answered the quotient question. Because: 12/3 = 4 because 3×4 = 12. Gates: G3 pass — the mechanism (absorption) was taught in ¶1 before use. No faults.
 
-14. **Bhāskara *khahara* + short God quote** · G1; source · “infinite and immutable God” · OK as short extract · Keep; then stop echoing Colebrooke unmarked.  
-    **Delete-test:** **breaks**.
+**¶4** (Bhāskara + Colebrooke q002; *khahara*; "becomes") — Function: the hinge; retained form vs on-the-spot evaluation. Claim: a rule that could not finish produced a form that can be carried. Because: the verse; the decisive word "becomes". Gates: G1 pass; G6 mostly pass. Flag: `M14 ¶4 · G6 · "The form has a name, *khahara* — the zero-divided —" · the gloss describes the form (a quantity divided by cipher), not the word's construction (kha + hara = having cipher for denominator); a reader can take it as etymology, and no house verifies the gloss · either gloss the word's construction or write "a name for exactly this form"`.
 
-15. **Divine-comparison exposition** · **Source fail / F10** · “orders of beings are absorbed or put forth” · Near-verbatim Colebrooke without quotes · Quote q003 properly or paraphrase at greater distance. Also G7: “This is not a theology pasted onto neutral arithmetic after the fact” — claim-boundary feint against a stock error; prefer positive: the text itself conjoins rule and image.  
-    **Delete-test:** hinge **breaks**.
+**¶5** (Colebrooke q003, the comparison) — Function: put the invariance verse before the reader whole. Claim: Bhāskara's comparison has travelled further than any commentary. Gates: G1 pass; quotation boundaries verified (Part 5). Low candidate: `M14 ¶5 · G9 · "a comparison that has travelled further than any commentary on it" · a strong evaluation offered without support · keep only if the section can afford it; otherwise "a comparison that still asks to be read"`.
 
-16. **Dutta regime** · G1/G9 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶6** ("The comparison deserves unhurried reading…") — Function: slow reading of the invariance logic; the meeting-point named (invariance under finite transformation); the neither-certifies boundary. Claim: the algebraic form and the theological image meet at one question, in the primary text. Because: the grammar of finite quantity vs the retained form; the source itself. Gates: G7 pass — "Neither side certifies the other" carries content on both sides and matches the Colebrooke house boundary verbatim in force. Candidates: `M14 ¶6 · F5 · "The comparison deserves unhurried reading, because its logic is exact" · announces the reading pace instead of setting it · the recon explicitly asks for "contemplative duration" here, so the slowing is authorised; the phrase could still perform it by starting directly with "Ordinarily, inserting a quantity makes…" — the current opener is defensible under L7 but is the weakest F5 surface in the draft` · and `M14 ¶6 · F10 · "supplied by nobody afterward in need of an ally" · knotted diction; the ally-figure obscures the point (the meeting is not the essay's manufacture) · "and the meeting stands in the primary text itself, not in a later need for an ally"`.
 
-17. **“Arithmetic determines… Metaphysics asks…”** · F8 · parallel thesis template · Restates what adjacent paragraphs already do · Merge into the Kashmir turn or cut.  
-    **Delete-test:** **soft — changes almost nothing**.
+**¶7** (Dutta) — Function: the modern corrective; regime proposal. Claim: cancellation and cross-multiplication restricted; evaluation postponed; laws travel with the form. Because: Dutta's reconstruction, properly hedged ("a proposal about regime"). Gates: G1 pass — matches the Dutta house exactly (restricted cancellation/cross-multiplication, postponed evaluation); F6 no — Dutta has a problem and an operation. No faults.
 
-18. **Kashmir Śaiva anatomy** · G6 mostly holds · *prakāśa* / *vimarśa* / Śakti taught in-place · Dense but operational · Keep; watch length vs M14 arithmetic.  
-    **Delete-test:** braid **breaks**.
+**¶8** (Kashmiri Śaivism beside the verse) — Function: the philosophical answer to the question the verse leaves open. Claim: Śakti as the source's own differentiating power; manifestation without interval. Because: Bhāskara's image "leaves open how a changing articulation can belong, wholly and really, to such a source." Gates: G1 pass — the hinge logic (what the verse leaves open, the tradition answers) is exact; G6 — "at full reality" is compressed without teaching (candidate: `M14 ¶8 · G6 · "Manifestation is the source's own act, at full reality, without interval" · "at full reality" is a technical compression whose warrant sits in unread houses · either teach the phrase in one clause or drop to "with nothing withheld"`); thinker presence for Abhinavagupta — see Part 4.
 
-19. **Chronology / non-transmission** · G1 hold · “Placing two developed inquiries in relation does not invent descent” · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶9** (The placing; chronology; the braid) — Function: the essay's own claim; chronology as positive discipline; the braid against two thinner stories. Claim: co-presence with depth; no transmission. Because: 975–1025 vs 1150; disciplines distinct. Gates: G1 pass on the chronology (both dates verified in houses; "Neither date is the invention of zero" preserved). Flags:
 
-20. **Two ways of answering / translator vs multiplication** · G4 soft; F8 · Method sermon after the hinge · Trim to one concrete consequence for the sign’s later independence; do not re-teach source method as climax.  
-    **Delete-test:** largely **soft**; last sentence carries the only needed forward press.
+- `M14 ¶9 · F2/F7 · "It stands against two thinner stories: that metaphysics arrives only after mathematics has discovered a formal limit, and that 'East' and 'West' divide cleanly between them" · the first "story" is an unnamed position nobody in the section's prose holds; the second is a dominant convention but this section's prose has not established its historical or operational form, so the gate's condition for an unnamed opponent is unmet · either name the actual holders (the essay's own earlier temptation; the named Orientalist convention) or convert to the positive claim already in hand: the braid is two source-distinct inquiries co-present in one civilisational world`.
+- `M14 ¶9 · F8 · "Neither story survives the verse." · slogan-verdict closer performed by rhetoric rather than by the verse · if the two stories are repaired as above, the verse's actual disproof can be stated in one clause (the verse is 1150; the metaphysics is centuries earlier; neither maps onto East/West) — or cut the sentence`.
+
+**¶10** (Dependencies distinct) — Function: audit-boundary paragraph in body prose. Claim: translation/philology, calculation, and anatomy answer to different tribunals. Flags: `M14 ¶10 · F9/F8 · "A translator's standing makes a verse legible; it does not make a multiplication correct. … The mathematics is answerable to calculation; the translation to philology; the philosophical anatomy to its own argument." · the movement file's audit boundary is converted into a balanced, review-cadence methodological report — the recon's named failure mode ("source cautions are converted into balanced body-prose qualifications… Do not turn every correction into a mini source-report") · and it is redundant: ¶2 already flagged the translation layer, ¶7 already demanded "judge an operation under the laws it claims," ¶9 already said "their disciplines, texts and purposes are distinct" · compress to one sentence folded into the paragraph that last uses the distinction, or cut`.
 
 ### M15 — The empty set generates one
 
-21. **Empty product** · G1/G5 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶1** (Empty product/sum) — Function: the first generativity; the empty case takes its value from the operation. Claim: "Nothing entered" and "zero entered" differ by what the operation needs. Because: if the empty start were zero, every product would be zero. Gates: G1–G4 pass; the wit ("sounds like a joke until an operation forces the question") is earned and is the closest the draft comes to the recon's requested recovery of Kaplan's manner. No faults.
 
-22–24. **∅ / braces / von Neumann / S(n)** · G1–G3 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶2** (∅ → {∅}) — Function: the starker beginning; where the one appears. Claim: a new relation formed around, nothing put inside. Because: member counts. Gates: G2 pass; G7 pass — "in the gathering, not in the gathered" is an operational antithesis with content on both sides, just derived. No faults.
 
-25. **Membership ≠ inclusion ≠ identity** · G1 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶3** (von Neumann display + derivation) — Function: the successor construction taught. Claim: each number is the set of its predecessors. Gates: G3 pass — derivation precedes compression; G6 pass. No faults.
 
-26. **Subject ≠ empty object** · G1/G5 hold · status discipline present · Keep.  
-    **Delete-test:** **breaks** (conflation guard).
+**¶4** (Three relations: membership, inclusion, identity) — Function: keep the three relations separate; the instructive first one. Claim: collapsing them produces pseudo-results; a form can retain its beginning without becoming identical with it. Because: ∅ ∈ 1; ∅ ⊆ every set; ∅ ≠ 1. Flag: `M15 ¶4 · G1 · "while remaining a member only of those sets, like the ordinals after it, whose construction installs it" · false or vacuous as a general claim about membership: ∅ is a member of any set that contains it ({∅, 1} is not an ordinal), so the qualifier either asserts the false reading "only later ordinals contain zero" or collapses into "∅ is a member of exactly the sets containing it" · restrict to the construction: "within this construction zero is a member of every later ordinal"` — this matters because the paragraph's entire discipline is not collapsing these relations.
 
-27–28. **NOR / functional completeness / QL slash bound** · G1/G9 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶5** (Floor and boundary) — Function: draw the exact boundary between the formal object and the Subject. Claim: the construction neither creates nor encloses an unobjectifiable subject; the refusal is its precision. Because: representing the representation is a further act. Gates: G1 pass; G5 pass — "Subject" enters here capitalised with its §0 referent; G9 pass. No faults.
 
-29. **Kinship-after-distinction closer** · F8 · “When the presentation takes itself to have supplied that efficacy from itself, its source relation disappears behind its success.” · Aphoristic packaging of M16’s work · Let the three named operations end the movement; open M16 on Ø without this trailer.  
-    **Delete-test:** **soft**.
+**¶6** (NOR) — Function: the third generativity. Claim: denial reiterated generates negation, disjunction, conjunction. Because: the formulas (all verified correct). Gates: G1 pass; G6 pass — "denial holding two things at once" teaches the connective. No faults.
+
+**¶7** (Completeness) — Function: show completeness rather than assert it; record the Peirce/Sheffer/Wittgenstein debt. Claim: every Boolean truth function of positive finite inputs is expressed with one connective. Because: pattern-conjunctions, disjunction, the always-false case. Gates: G1 pass — the construction is correct and the "positive finite number of inputs" hedge is exact; G9 pass — the debt sentence ("who first exhibited which generator belongs to a separate scholarly debt this section does not settle") is precisely the posture the Kaplan house requires for the unassigned Peirce/Sheffer/Wittgenstein material. No faults.
+
+**¶8** ("Three constructions, three operations, one discipline…") — Function: synthesis; name what the constructions presuppose (the relation they "use, and leave unmarked"). Claim: the operation's law, never the pathos of emptiness, does the work. Because: the three derivations just completed. Gates: G9 pass — the aphorism arrives from work done; the final clause is a genuine seam into M16's unmarked mediation. Rhythm candidate (see Part 6).
 
 ### M16 — The crossed zero
 
-30. **Ø vs ∅** · G1/G5 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶1** (Draw and cross; Ø vs ∅) — Function: introduce the native sign; the first occlusion. Claim: the stroke is present but fused; the act of determining has vanished into its success. Because: the native matheme `0 → Ø`. Gates: G5 pass — explicitly distinguishes Ø from the previous movement's ∅ (a canonical alignment requirement, met); G6 pass — "native matheme" was established in §0; claim_status Offered is respected (no set-theoretic back-projection). No faults.
 
-31. **“I see this” / successful person** · G1 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶2** ("I see this" misreading) — Function: what the fusion produces. Claim: the crossed zero read as a determinate someone who owns the scene. Because: the several achievements gathered into one utterance. Gates: G1 pass; G4 pass. No faults.
 
-32. **God-of-gaps** · G1/G7 hold · “Empirical gaps… retreat when explanation succeeds. The constitutive interval… does not.” · Content gate satisfied · Keep compact.  
-    **Delete-test:** **breaks**.
+**¶3** (The successful person) — Function: make the collapse lived rather than pictured. Claim: a criterion fused with the person protects itself from examination. Because: refusing the measure looks like failing the measure. Gates: G1 pass — offered material, marked as such ("A working example"); G5 pass — the stroke/criterion mapping is announced; G9 pass — delete-test passes (see Part 2). No faults.
 
-33. **Uncrossing / AI mediation** · G1 hold; **G8 seam fail** · ends on “phenomenal location of subjective immediacy” · Does not deliver M16’s outgoing `1/0` / frame pressure · Add a final turn: the stroke that secured the I also returns as a formal obstruction when determination seeks its own ground under arithmetic.  
-    **Delete-test:** AI sentence soft relative to God-of-gaps; **seam to M17 breaks** if only this closer remains.
+**¶4** (God-of-gaps and the machine) — Function: the reversal, compact. Claim: the gap is constitutive, not a sheltering void; empirical closures threaten nothing; machine-migration changes the account of mediation, not the subject. Because: Subject was never one missing object / the list of functions. Gates: G1 pass; G7 pass — both halves of the reversal (supernatural object; irreducibly human remainder) present; G9 pass — one paragraph, per the authorial correction; the *kha* callback ("contained by that place no more than the sky is contained by the word *kha*") is a cross-seam earned in M13. No faults.
 
-### M17 — The frame disclosed at zero
+**¶5** (Uncrossing; hand-off) — Function: the stroke legible as mediation; arithmetic poses the problem again. Claim: judgment's authority becomes answerable; the stroke is now a problem in its own right. Because: the criterion can be asked where it came from. Gates: G8 pass — hands to M17 on the movement's exact carry-forward line. Low candidate: `M16 ¶5 · G1 · "A description becomes more accurate as it relinquishes the demand to be the source of the one described." · gnomic sentence whose referent ("a description… of the one described") is narrower than the paragraph's person/criterion example and wider than its warrant · either tie it to the criterion example or cut`.
 
-34–37. **Field proof / 0/0 / cancellation** · G1–G3 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+### M17 — Zero keeps one foot outside mathematics
 
-38. **Changed settings list** · F9 · “Projective completion, the Riemann sphere, wheels, meadows and other systems” · Enumeration faster than costs · Keep one worked contrast plus “other declared systems,” or give each a one-clause law-change.  
-    **Delete-test:** softens without destroying the claim if Robinson stays.
+**¶1** (Field proof) — Function: teach the field; prove 0q = 0; the collapse chain. Claim: an inverse for zero forces zero = one; any new element inherits the collapse. Because: distributivity; a(0z) = (a0)z. Gates: G1 pass — the proof is correct and matches the Kaplan house workbench chain exactly; G3 pass — "Multiplication's absorption, the first rule this section taught, is the exact mechanism here" pays the M14 anticipation. No faults.
 
-39. **Robinson ε** · G1 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶2** (0/0 fails differently) — Function: the second failure. Claim: no candidate vs too many candidates; "undefined" conceals both reasons. Because: every q satisfies 0q = 0. Gates: G1 pass; G7 pass. No faults.
 
-40. **Immutable gap = mathematical form** · G1 hold with status mark · “The identification… is the essay’s own Argued cross-register claim” · Copula risk avoided by status · Keep.  
-    **Delete-test:** **breaks**.
+**¶3** (Cancellation; Kaplan) — Function: the oldest demonstration; keep the algebra, decline the cultural inference. Claim: the prohibition follows from the laws, in any country. Because: 6·0 = 17·0; Kaplan's p. 73–74 as mapped by the house. Gates: G7 pass — this is source-bearing disagreement done right: the position is attributed to a named book, the disagreement is licensed by the source house ("Keep the proof and reject the cultural inference as a warrant"), and "needs no theory of a national mind" states the positive ground. No faults.
 
-41. **“Outside mathematics” gloss** · G5 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶4** (Alternative settings) — Function: what a setting must say when it gives 1/0 a life. Claim: each construction buys totality with named laws; writing 1/0 performs nothing by itself. Because: total reciprocal, projective line, Riemann sphere, wheels/meadows/transreal. Gates: G1 mostly pass; G9 pass. Flag: `M17 ¶4 · G1 · "wheels, meadows and transreal arithmetics keep their operations total by adjusting distributivity, equality, or the meaning of subtraction" · the three-way mapping over-specifies: meadows totalise the multiplicative inverse and adjust the inverse laws, not "the meaning of subtraction" as such · restore the movement file's list form ("preserve different operations by accepting different laws") or verify each pairing`.
+
+**¶5** (Robinson) — Function: the boundary from the other side; infinitesimal ≠ zero. Claim: the extension keeps zero out of the denominator. Because: the derivative quotient computed. Gates: G1 pass on the computation; G6 pass. Flag: `M17 ¶5 · G1 · "The extension works by keeping zero out of the denominator, and by nothing else" · as placed, the sentence can be read as a claim about nonstandard analysis as a whole (which also rests on transfer), not about this quotient's legitimacy · attach the claim to the computation: "this division is legitimate for one reason only: the increment is nonzero"`.
+
+**¶6** (The accumulated result) — Function: state the frame-disclosure at full strength; the immutable-gap identification with its warrant boundary. Claim: failure internal and demonstrable; "outside mathematics" names frame-disclosure, never the supernatural; the gap-identification is the essay's own argued claim. Because: everything since ¶1. Gates: G1 pass — the warrant separation ("The formal result warrants the operation; the identification … is the essay's own argued claim, carried by the mathematics and distinct from it") reproduces the movement's audit boundary with exactly the right strength; G7 pass. No faults.
+
+**¶7** (The loan) — Function: hand to M18. Claim: the borrowed sign has been earning interest; it can be repaid with the exact history of what it learned. Gates: G8 pass — this is where §0 is finally explicitly received ("The opening of this essay borrowed zero as a sign for the subject that cannot be counted as one more object"), and the deferral is structural: the loan metaphor needs the borrowing stated once, at the repayment. No faults.
 
 ### M18 — The loan returns
 
-42–45. **Mediant construction / representative dependence / between-proof** · G1–G3 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶1–3** (Mediant construction; cautions; boundary office) — Function: the repayment in the sign's own coin; the retained boundary made productive. Claim: no inverse of zero used; the prohibition stands; a different relation gives the form lawful work. Because: the construction, the two cautions, the between-property (algebra verified correct, including 2/5 vs 5/6 and the 2/4 → 3/7 representative-dependence). Gates: G1 pass; G3 pass; G7 pass — "Writing 1/0 did not repair the field quotient; a construction gave the form work it can lawfully do" is an operational distinction. Flags:
 
-46. **Catalog of prior gains** · F9 · “The placeholder preserves… A zero denominator discloses laws; a mediant…” · Recap list as fake comprehensiveness · Cut; let mediant’s new office carry the return.  
-    **Delete-test:** **soft — removal changes almost nothing**.
+- `M18 ¶1 · G1 · "Take Kaplan's own construction, which places the pair where this section has been heading." · "Kaplan's own" reads as origination; the construction (mediant/Stern–Brocot-family) is Kaplan's presentation, and the house records that "Kaplan calls the wider construction a Farey sequence; the precise relation … remains a specialist verification target" — the movement file carries that debt, the draft drops it · "the construction Kaplan gives" or "Kaplan's closing construction," and consider one note clause preserving the specialist debt`.
+- `M18 ¶2 · G5 (positive) · "It is addition's cousin, and addition it is not" · keep — a lived operational distinction, not a feint`.
 
-47–50. **0/1, 1/0, Two Ones, reciprocal dependence** · G1 hold; authorial field · — · Keep; watch slogan endings.  
-    **Delete-test:** **breaks**.
+**¶4** (Take the sign back; the recap list) — Function: the six-movement recap. Claim: every movement enlarged what the sign can answer for. Gates: G9 pass — each list item is a compressed movement already derived; the list is earned recapitulation, not F9. No faults.
 
-51. **Historical braid recall (Bhāskara / Śaiva / mathematics)** · G4 mild · Restates M14 · One sentence enough.  
-    **Delete-test:** **soft**.
+**¶5** (The Two Ones; 0/1; AND/OR) — Function: name the native relation. Claim: the slash holds the offices together and keeps them distinct; it is not truth-functional. Because: the M15 constructions "help to keep exact" the boundary between this operation and the Boolean connectives. Gates: G1 pass; G5 pass — "the One"/"the All" are taught in place with glosses (self-identity / self-difference), honouring the register shift from M15's ordinal one; G6 pass — the AND/OR operation is distinguished from NOR in the same breath. No faults.
 
-52. **Reckoner’s position / naming** · G1 hold · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶6** (1/0; asymmetry) — Function: the reversed orientation; arithmetic asymmetry intact. Claim: what changed is the sign's capacity to mean; what stayed fixed is the mathematics. Because: 0/1 computes to zero; 1/0 has no field value. Gates: G1 pass — this is the recon's "ordinary arithmetic asymmetry intact" requirement, met exactly. No faults.
 
-53. **Harvest overseer / omitted woman** · G1/G2 hold · concrete receiver · Keep.  
-    **Delete-test:** **breaks**.
+**¶7** (Two Ones' dependence; distinctions load-bearing; Bhāskara and Kashmir return) — Function: reciprocal dependence in distinct respects; the section's history returns inside the relation. Claim: the braid's co-presence becomes structure. Because: the distinctions (operation/result, member/set, boundary/value, presentation/rule). Gates: G1 pass — "There were never two causes making each other at different moments, and there was never a time when zero existed alone" guards the exact corner the Two Ones claim must not round; G9 pass. No faults.
 
-54. ***ratio* / *fides* / *credere*** · G6 hold with lexical boundary · — · Keep.  
-    **Delete-test:** **breaks**.
+**¶8** (The harvest tally; the woman omitted) — Function: the return through a human receiver (the recon's explicit request). Claim: correctness of total and adequacy of criterion come apart. Because: "She does not dispute that ten were written. She changes what the count was for." Gates: G1 pass — offered scenario, marked ("Suppose"); G2 pass; G7 pass — the antithesis carries content on both sides (arithmetic sound / reckoning failing). No faults.
 
-55. **Gebser braid** · G9 hold · tacit enough · Keep brief.  
-    **Delete-test:** borderline; needed for integral return pressure.
+**¶9** (*ratio*; trust before proof; renewed entrustment) — Function: reckoning becomes account; answerability runs on trust; credere. Claim: an examined account that still holds earns renewed entrustment. Because: every count is received before examined. Gates: G1 pass — the *fides/credere* seam is present at exactly the movement's declared depth (no re-explanation of §2's trust argument — the seam discipline is met); G6 pass — *ratio*'s range is honestly disclaimed ("The word's range does not prove the relation"). Flag: `M18 ¶9 · F10 · "renewed entrustment, now with open eyes" · a ready-made phrase closing a paragraph whose content is otherwise exact · state what the renewed entrustment now carries (the examined laws) and drop "with open eyes"`.
 
-56. **Sign returns to symbolic life** · F8 · restates M13 sacrifice/return · Compress into the reckoner's answerability already shown.  
-    **Delete-test:** **soft**.
+**¶10** (Gebser) — Function: the integral return, tacit. Claim: recognising the dependence of any viewing changes how a view can be held. Because: the tally-scale to consciousness-scale isomorphism. Gates: G1 pass; F6 no — Gebser has his named operation ("perspective aware of the relation that makes perspective possible, for which merely adding one more perspective would leave the dependence hidden"), compact per the authorial correction. No faults.
 
-57. **Token edge** · G9 hold · brief anticipation only · Keep.  
-    **Delete-test:** seam token soft but protocol-required.
+**¶11** (Root *symbolon*; the token) — Function: name the notation; govern the overdetermination; the fracture token. Claim: the sign becomes capable of symbolic life without ceasing to be a mathematical sign. Because: each reading distinguished and held to its own account. Gates: G1 pass — this matches the M18 movement text nearly clause for clause and does not steal A36's terminal office (the movement itself carries this sentence); G7 pass — "not a confusion to be resolved but a generativity to be governed" has content on both sides. Low note: the matching-token operation ("a present piece answerable to the counterpart it was divided from") is used without the Liddell–Scott locator the baseline carried; as the essay's own naming act this is defensible, but the final pass should confirm the token reference ("the token fractured at the threshold of this essay") points at something the reader of this edition has actually been given.
 
-58. **Final closer** · F8 · “A determination is real, exact and consequential; its source remains consequential within its use.” · Slogan pair · End on the live pressure into §2 (distinction must remain answerable to relation), not antithetical cadence.  
-    **Delete-test:** **soft** if prior paragraph already poses the pressure.
+**¶12** (Close; binary ambiguity) — Function: hand to §2. Claim: a two can cancel its poles or hold them across their difference; the sign earned the means to tell these apart. Because: everything from the mediant's boundary to the slash's two orientations. Gates: G8 pass — the room's release ("why 'binary logic' is ambiguous") is performed, not announced; the §2 hand-off is genuine. Flag: `M18 ¶12 · F5 · "that is where the essay goes next." · narrates the essay instead of letting the pressure close it; the preceding sentences already do the hand-off · cut, or end on "Which two, which cut, and what each does with the relation that makes it."`.
+
+**Opening note (G8, section level).** The draft opens on 205 with no explicit receipt of §0's inherited question; the receipt surfaces at M17 ¶7. The recon authorises this twice ("Keep it as the section's entrance"; "Do not repeat §0's general theory of absent means" — the seam is to be answered materially, and "Once that person has gone, the difference has to travel in the writing itself" answers it). Recorded as an authorised exception under L7, to be confirmed conscious in final assembly: the reader passes roughly four thousand words before §0 is named.
 
 ---
 
-## Rhythm test
+## PART 2 — Delete-test, every paragraph
 
-Recurring patterns found:
-
-1. **Scene → abstract lesson → qualification** (M13 §§2–4, M14 method close, M15 closer).  
-2. **Thesis / qualification / example / closer** units of similar length (especially M13 and M18).  
-3. **Slogan endings:** “The loss is consequential precisely because the gain is real”; “source relation disappears behind its success”; “A determination is real, exact and consequential…”.  
-4. **Abstract-subject openings:** “Hellenistic astronomy meets…”; “Kashmir gives…”; “Boolean logic changes…”; “Transmission”-style agencies softened but not gone.  
-5. **Not-X-but-Y / rather-than rhythm:** many are legitimate operational distinctions (separator ≠ terminal digit; Fibonacci ≠ origin; return ≠ restoration; Ø ≠ ∅). Comparative-gate fails where the denied rival is a stock straw (“theology pasted onto neutral arithmetic”) rather than a named position.  
-6. **Lists as fake comprehensiveness:** M17 systems list; M18 prior-gains catalog.
-
-**Restructuring required (do not edit here — direction only):**
-
-- Merge adjacent M13 historical paragraphs so one practice (scribe / table / board) sustains longer motion before any lesson sentence.
-- Cut soft bridges (M14 arithmetic/metaphysics twin; M18 catalog; M15/M18 slogan closers).
-- At M16→M17, replace the AI-residual closer with a turn into `1/0`.
-- Prefer positive operational statements; keep only negations that name a real office-difference already in play.
-- Lead Arabic/Indian lexical paragraphs with apparatus and labour, not surname as subject.
-
----
-
-## F1–F10 search (section hits)
-
-| Code | Present? | Strongest locations |
-|---|---|---|
-| F1 Copula fraud | Mild, mostly guarded | M17 gap-identification status-marked; Two Ones after derivation — acceptable if earned |
-| F2 Reflexive antithesis | Yes, selective | M14 “not a theology pasted…”; some rather-than pairs OK as operational |
-| F3 Nouned abstraction | Mild | “change of permission,” “metaphysical provenance” — watch reuse as premise |
-| F4 Sequence inversion | Yes | M13 early metaphysical question before Bhāskara |
-| F5 Tour-guide | Mild | “To receive that return, we first have to follow…” |
-| F6 Imported erudition | Partial | Varāhamihira / al-Khwārizmī surname-conveyors; Śaiva terms taught |
-| F7 Ungenerous opening | No | 205 opening receives the problem |
-| F8 Machine cadence | **Yes, pervasive** | M13 units; M14 twin; M15/M18 slogan closers |
-| F9 Listing under compression | Yes | M17 systems; M18 gains catalog |
-| F10 Prefabricated language | Yes | slogan chiasmus; stock “not theology pasted” |
+- **M13 ¶1** — delete: the section loses its authorised entrance and the 205 demo that ¶2 cashes. Stays.
+- **M13 ¶2** — delete: the positional danger is asserted nowhere else with its mechanism; "the difference has to travel in the writing itself" is lost. Stays.
+- **M13 ¶3** — delete: Babylonian separator and the internal/never-terminal prohibition vanish; the M13 chain breaks at its first link. Stays.
+- **M13 ¶4** — delete: the Greek division of labour vanishes; the recon requires it as a distinct use, not a proto-zero. Stays.
+- **M13 ¶5** — delete: Kaplan, the Sanskrit vocabulary and the "place held open" sense vanish; M14's śūnya loses its word-world. Stays (repair the spine sentence).
+- **M13 ¶6** — delete: Gwalior, dust-board and the origin-caution vanish; the safe-claim discipline is lost. Stays.
+- **M13 ¶7** — delete: the M13→M14 seam ("they are the next movement's subject") vanishes. Stays, but fix the "between" sentence.
+- **M13 ¶8** — delete: transmission becomes assertion; *ṣifr*/cifra/zero etymology and board-vs-algorithm discipline vanish. Stays.
+- **M13 ¶9** — delete: Fibonacci's reception scene and the anti-origin-hero correction vanish. Stays (fix "early printing").
+- **M13 ¶10** — delete: gain and price vanish; the section's gain/sacrifice movement loses its historical ground. Stays.
+- **M13 ¶11** — delete: the contemplation/reasoning counterfactual and the vacancy-arc prophecy vanish; the section's ending would be unprepared. Stays.
+- **M14 ¶1** — delete: the two stable operations and the absorption-mechanism setup vanish; M17's payoff loses its setup. Stays.
+- **M14 ¶2** — delete: the dated written beginning and the primary rules vanish; the section's arithmetic loses its citation spine. Stays.
+- **M14 ¶3** — delete: division-as-recovery vanishes; 0/0-vs-1/0 at M17 ¶2 loses its ground. Stays.
+- **M14 ¶4** — delete: *khahara*, the retained form, and "a rule that could not finish has produced a form that can be carried" vanish; the hinge is lost. Stays.
+- **M14 ¶5** — delete: the invariance verse vanishes; the section's deepest historical-metaphysical hinge (recon: "Bhāskara's arithmetic and divine comparison provide the section's deepest historical-metaphysical hinge") is lost. Stays.
+- **M14 ¶6** — delete: the slow reading, the meeting-point (invariance under finite transformation) and the neither-certifies boundary vanish. Stays.
+- **M14 ¶7** — delete: the Dutta corrective vanishes; Kaplan's declined cultural inference would stand unopposed. Stays.
+- **M14 ¶8** — delete: the Kashmiri answer to the verse's open question vanishes; the braid loses one of its two strands. Stays.
+- **M14 ¶9** — delete: chronology-as-discipline and the braid claim vanish. Stays (repair the "two thinner stories" feint).
+- **M14 ¶10** — delete: little breaks. ¶2, ¶7 and ¶9 already carry the dependency separations it restates; its one non-redundant clause ("the arithmetic, once earned, becomes the section's instrument") can move to ¶9's end. **Flagged as the draft's one deletable paragraph in substantive terms** — the strongest compression candidate in the section.
+- **M15 ¶1–8** — each carries an irreplaceable derivation or boundary (empty case/coherence; ∅ vs {∅}; successor; three relations; Subject floor; NOR; completeness + debt; synthesis). All stay. (¶4 needs the membership repair, not deletion.)
+- **M16 ¶1–5** — the occlusion, the misreading, the lived example, the reversal, the uncrossing: each does work no neighbour does. All stay.
+- **M17 ¶1–7** — proof, 0/0, cancellation/Kaplan, alternatives, Robinson, accumulated result, loan. All stay.
+- **M18 ¶1–12** — the repayment requires nearly all of it; ¶4 (recap list) is the only paragraph that could survive deletion, but its recap is what lets the Two Ones paragraph say "each acquisition now load-bearing" without assertion — keep.
 
 ---
 
-## Delete-test summary — soft paragraphs
+## PART 3 — Room reopened at every movement boundary (what was compared)
 
-Removal changes little:
-
-- M14 “Arithmetic determines… Metaphysics asks…”
-- M14 closing method sermon (except final independence sentence)
-- M15 final efficacy/source-relation aphorism
-- M18 catalog of prior gains
-- M18 restatement of transmissibility / numinous life (already in M13)
-- M18 final slogan couplet (if prior reckoning pressure remains)
+1. **M12→M13.** ROOM.md #0 incoming pressure: §0 #5→0 Objective Internality; movement thesis: zero converges distinct inventions and the migrating sign's power is migration; outgoing: "Zero crosses from missing mark to operative sign. The next movement shows the decisive Indian hinge." Compared against DRAFT-2 M13: the convergence of offices is carried as the separator/circle/word/rule/reception chain; the outgoing seam is performed by ¶7 ("the rules … are the next movement's subject") and ¶11 ("That turning begins where the mark first earned effects"). Room thesis elements verified in prose: "the familiar modern number line conceals this dependency" — carried implicitly (the 205 opening makes the dependency visible); Kaplan "restores the narrative surprise" — carried as the historian's question and manner; Rotman's semiotic economy — carried in substance (absence must travel in the writing; reconstruction discipline) with Rotman himself at note 7, which the recon permits (Rotman is not on the explicit list). One divergence: the movement's "intercultural chain … form an intercultural chain" order (Babylonian → Indian → Arabic → European) matches the draft. Seam verdict: performed.
+2. **M13→M14.** Movement 14 thesis: "the decisive mathematical turn occurs when śūnya is no longer only an empty place but something through which arithmetic can pass"; formal payload a+0, a·0, a/0 with "The first two operations are stable … The third is the pressure-point that §1 · #4 reopens." Compared: DRAFT-2 M14 ¶1 does the first two, ¶3–4 the third, and the M17 reopening is prepared twice (¶1 forward-link, paid at M17 ¶1). The braid (M14 "The Indian mathematical–metaphysical hinge"): chronology 975–1025 / 1150, ~125 years, no-transmission, "civilisational co-presence" — all present in DRAFT-2 ¶8–9 with the same strength and the same refusals. Seam verdict: performed; the hinge is the section's centre of gravity as the room requires.
+3. **M14→M15.** Movement 15 thesis: von Neumann as "precise formal neighbour," "no retrospective proof by set theory" (P1 route m15); "the slash of 0/1 is not supplied by von Neumann's construction." Compared: DRAFT-2 M15 defers the slash to M18 entirely and carries the not-proof discipline as "The construction neither creates an unobjectifiable subject nor encloses one — and that refusal is its precision." The canonical point is met by a cleaner route than the movement's own phrasing; no retrospective proof occurs anywhere in M15. ∅ kept distinct from Ø at the M16 boundary ("distinct from the set-theoretic $\varnothing$ of the last movement"). Seam verdict: performed.
+4. **M15→M16.** Movement 16 thesis: "`Ø` is the first occlusion … the mediating stroke is present, but fused into the zero it crosses"; writing payload: the humanity/God-of-gaps reversal, compact, plus the AI guard; tension: Lacan withheld. Compared: DRAFT-2 M16 ¶1 carries the fusion and the `0 → Ø` movement; ¶4 carries the reversal and the machine guard in one paragraph (the authorial correction's required size); Lacan absent from the body (correct); "uncrossing … does not mean erasing the stroke" rendered as "To uncross the zero is to let the stroke become legible as mediation." Outgoing "the stroke has now become a problem in its own right" appears verbatim as the hand-off clause. Seam verdict: performed.
+5. **M16→M17.** Movement 17 thesis: "Division by zero is the point at which a formal system must disclose itself"; derivation: field proof, then q002/Dutta as inspectable history; force: "Zero is entirely mathematical, but the return of a finite determination to zero reaches the edge"; audit: "'Outside' means frame-disclosing, not supernatural." Compared: DRAFT-2 M17 ¶1 proof (with the stronger collapse chain from the house workbench), ¶4–5 the alternative settings and Robinson, ¶6 the accumulated statement with the warrant boundary in the movement's own terms, and "'outside mathematics' names the disclosure of the frame, never the supernatural." One ordering difference: the draft treats 0/0 and cancellation before the alternative settings, where the movement's derivation interleaves q002/Dutta — the draft's q002 work was already done at M14 and is referenced here only through the Dutta regime; no canonical element lost. Seam verdict: performed.
+6. **M17→M18.** Movement 18 thesis: the loan returned "with mathematical interest"; Kaplan pp. 204–207 mediant; `0/1 ↔ 1/0`; the root *symbolon*; release: "The recovered zero reveals why 'binary logic' is ambiguous," with the release's own operational distinction (whether "the cut remains answerable to its generating relation or is collapsed"). Compared: DRAFT-2 M18 ¶1–3 the construction with both cautions and the between-property; ¶5–7 the Two Ones with reciprocal dependence in distinct respects and asymmetry intact; ¶8 the human receiver (the recon's missing piece, now present); ¶9 trust/credere at seam depth; ¶10 Gebser tacit; ¶11 the *symbolon* naming plus the small fracture token (recon: "only as a small edge or fracture" — met); ¶12 the binary ambiguity performed as cut-vs-relation, matching the release's operational distinction rather than repeating "external zero versus internal zero." P1 release ("§1 hands §2 … a disciplined sign whose widening role now forces the problem of One/All and the two conjugate logics") — met. Seam verdict: performed.
+7. **P1 alignment lock.** "A10 mathematical sign first; A36 the same exact sign later becomes Symbol again without ceasing to be mathematical sign." DRAFT-2 M18 ¶11: "The mathematical sign has become capable of symbolic life again — without ceasing to be a mathematical sign" — this is M18's own canonical sentence, not a theft of A36's terminal office; the draft correctly does not claim §1 completes that return.
 
 ---
 
-## Verdict
+## PART 4 — Thinker-presence test (remove the name; what vanishes?)
 
-**REJECT — REQUIRES ANOTHER SECTION REVISION**
+- **Kaplan — PASS, the section's best presence.** M13: a historian with a question ("how a number got made out of nothing") and a manner ("he follows the mark through the hands that used it"); M17: his own cancellation lesson (6·0 = 17·0, p. 73) and his cultural inference, named and declined — disagreement with a named source at its strongest; M18: his closing construction; note 1: the page itinerary. Not a bibliographic token. Residual: his manner (wit, odd episodes, "unthinkable questions") is only partly recovered — the draft's wit appears at M15 ¶1 and M13 ¶2 but the history is on the whole straight-faced; the recon asked for "more of this current." Partial recovery, not a failure.
+- **Brahmagupta — PASS (thin but real).** Removing the name leaves "a seventh-century treatise" and rules; but his actual operation — setting zero "among the affirmative and negative quantities," rules "in verses a reckoner could apply" — is his, and the quotation carries his vocabulary (cipher/affirmative/nought). A manner-clause (astronomer-mathematician, verse form for reckoners) would strengthen it, but nothing fails.
+- **Bhāskara — PASS, strongly.** Problem (the difficulty Brahmagupta's rules left), manner ("faced that difficulty and wrote through it"), terminology (*khahara*, *Bījagaṇita*), and the comparison itself. Removing the name collapses the paragraph.
+- **Dutta — PASS.** Problem (what retained forms could and could not do), operation (the regime proposal), exact refusals (no cancellation of a common zero; laws travel with the form).
+- **Abhinavagupta — PARTIAL; the one borderline case.** Removing the name loses a date, a possessive, and "the tradition Abhinavagupta brought to its classical form." His actual problem, text or terminology — recognition (pratyabhijñā), the Parātriśikā-Vivaraṇa, the reflexive "light that knows" as *his* articulation — is absent; the anatomy is attributed to "Kashmiri Śaivism" with Abhinavagupta as chrononym. The paragraph's content passes F6 (the Śaiva anatomy is taught and does real work; Śakti is named and operative); the name itself is close to a token. `M14 ¶8 · F6 (marginal) · "Kashmiri Śaivism — the tradition Abhinavagupta brought to its classical form — answered precisely that." · the name carries a chronology rather than an intellectual operation · either give him one clause of manner (recognition as the tradition's problem — sources exist in the movement's route: abhinavagupta-singh-1988-paratrisika-vivarana, dyczkowski-2000-doctrine-vibration, muller-ortega) or let the tradition carry the sentence and leave him to the chronology paragraph, which is where his dates do work`.
+- **Al-Khwārizmī, Fibonacci, Robinson, Gebser — PASS.** Each has a problem and an operation (a procedure made teachable in another language; reception and teaching of a foreign practice; the enlargement admitting infinitesimals; naming the co-presence of perspective with its enabling relation).
+- **Von Neumann, Peirce/Sheffer/Wittgenstein — correctly tacit or bounded.** Von Neumann's representation is used as an instrument; the generator-attribution question is explicitly a recorded debt, matching the recon's refusal to invent the chain.
 
-Length percentage: **≈ 99.9%** of enrichment SECTION (not compression-rejected).
+---
 
-### Five most load-bearing faults (with locations)
+## PART 5 — Source / quotation check
 
-1. **Unmarked Colebrooke near-quotation** — M14 divine-comparison paragraph (“orders of beings are absorbed or put forth” and adjacent echo of q003) · source check fail.  
-2. **M16→M17 seam miss** — M16 closes on AI / subjective immediacy instead of handing the stroke into `1/0` / frame disclosure (`16-s1-p3-crossed-zero.md` outgoing consequence).  
-3. **F8 machine cadence** — recurrent scene→lesson→qualification and slogan closers across M13, M15, M18.  
-4. **History thinned toward surnames in the middle transmission** — Varāhamihira / al-Khwārizmī as name-leads; Arabic reception under-specified as event (content gate: history as event / Kaplan sustained current).  
-5. **F9 soft recap in M18** — catalog of placeholder / empty product / successor / NOR / denominator / mediant whose delete-test is nearly null; dilutes the mediant’s earned office.
+**Direct quotations.** All three are the Colebrooke passages, and all three verify character-exact against their passage cards, with correct boundaries and locators:
+
+1. `"The sum of cipher and negative is negative; of affirmative and nought is positive; of two ciphers is cipher. [...] The product of cipher and negative, or of cipher and affirmative, is nought; of two ciphers, is cipher."` = `colebrooke-1817-brahmagupta-bhaskara-q001` verbatim; note 2's locator (XVIII.31, 34; p. 339) matches the card.
+2. `"a quantity, divided by cipher, becomes a fraction the denominator of which is cipher."` = q002 verbatim (Bījagaṇita I.14; p. 137).
+3. `"In this quantity consisting of that which has cipher for its divisor, there is no alteration, though many be inserted or extracted; as no change takes place in the infinite and immutable God, at the period of the destruction or creation of worlds, though numerous orders of beings are absorbed or put forth."` = q003 verbatim (Bījagaṇita I.16; p. 138).
+
+All three are quotation-ready in the bank; the prose itself flags Colebrooke as "a historical translation layer" and the use boundaries are respected (neither-certifies at M14 ¶6; no field-division licensed anywhere).
+
+**Kaplan.** No Kaplan wording is quoted anywhere (confirmed by sweep — the only quotation marks in the body are the three Colebrooke passages and scare quotes). Note 1's page clusters (4–13, 14–27, 36–75, 90–115, 203–215) match the house's ledger and licensed uses line for line. The M17 attribution (cancellation at p. 73; cultural explanation at p. 74 "explicitly contested") is the house's own licensed handling. Two residuals: the unattributed-to-anyone Farey/Stern–Brocot specialist debt that the movement file carries was dropped with "Kaplan's own construction" (flagged, Part 1 M18 ¶1); and "Varāhamihira's verse" is more specific than the house's recorded "Varāhamihira's vocabulary includes *kha*, *ambara*, *ākāśa*, and *śūnya*" — the verse-form rests on the locator-only Kaplan copy, so it is a lead, not a verified particular. `M13 ¶5 · source-check · "Varāhamihira's verse gathers several of these as names for one vacancy in a row of figures" · verse attribution beyond the house's recorded vocabulary · verify against the book at acquisition, or weaken to "Varāhamihira's list gathers…"`.
+
+**Historical assertions that matter — all check or are honestly scoped:** Babylonian separator internal, never terminal (house-supported); Greek mathematics/astronomy division (house-supported); Brahmagupta seventh century (628, standard); Bhāskara "more than five centuries after" (522 years, correct); Abhinavagupta c. 975–1025 (Muller-Ortega house, verified) and Bījagaṇita 1150 (Scharf house, verified — "source metadata A.D. 1150" matches the house wording); ~125 years correct; *ṣifr* → *cifra*/*zero* (standard); al-Khwārizmī's reckoning book (standard); Gwalior ninth century (876, standard); Fibonacci at the start of the thirteenth century with nine figures plus the sign for nothing (standard scene, indirect speech, no fabricated quotation); "Fibonacci receives and teaches … stands nowhere near the origin" (house route); bans/demonisation absent from body, Nothaft cited for the corrective (house source list contains nothaft-2020-satanic-ciphers); Bakhshali and the 1299 Florentine ban asserted nowhere (verified true of the draft); Gerbert/Salem left as declared debts (matches movement 13's audit boundary). "The reproduced early printing" flagged (Part 1 M13 ¶9).
+
+**Mathematical assertions:** all computations verified correct — base-sixty illustrations; absorption; field proof and collapse chain; 0/0 vs 1/0; NOR identities and the completeness sketch (including the "positive finite number of inputs" hedge); mediant cautions (2/5 vs 5/6; 3/7 under 2/4) and the between-property algebra; the derivative quotient and standard part. One exception, flagged above: the membership sentence at M15 ¶4.
+
+**Citation governance.** Notes 1–4 and 8 correspond to verified houses (Kaplan, Colebrooke, Dutta, Muller-Ortega, Scharf, Nothaft) with matching Chicago forms. Two notes rest on objects with no canonical house record:
+
+- `Note 5 · source-governance · "the reproduced Boncompagni text exhibited by the Mathematical Association of America ('Mathematical Treasure: Fibonacci's *Liber Abaci*')" · cited as the holding authority for the Fibonacci scene, but no source house exists in the bank for it; the protocol makes the bank the one canonical house for citation · create the house record before final, or re-anchor the note to an existing carrier`.
+- `Note 6 · source-governance · "H. Jerome Keisler, *Elementary Calculus: An Infinitesimal Approach*, ch. 2 (author-hosted edition)" · same: no house record · create the house record or cite through an existing record`.
+
+Minor: the matching-token *symbolon* operation is used without the Liddell–Scott locator the baseline carried (Part 1 M18 ¶11 note).
+
+---
+
+## PART 6 — Paragraph-rhythm test
+
+The draft does not have runs of short uniform paragraphs, and its long paragraphs vary with their material. The real patterns are these; the required restructuring is named, not cosmetic:
+
+1. **Numerically-headed paragraphs.** "Two consequences of this long migration can now be stated"; "The relations here are three, and the construction depends on keeping them separate"; "The dependencies of this movement remain distinct, and each can be tested"; "Two cautions keep the construction honest"; "Three constructions, three operations, one discipline." Five paragraphs open (or close) by counting their own parts. Individually earned; cumulatively an audit-cadence that tells the reader a lesson-shape is coming. Restructuring: keep the count where the count *is* the argument (M15's three relations; M18's two cautions), and dissolve the others into the material (M14 ¶10 most of all — see its flag).
+2. **"The + abstract noun + verb" openings.** "The work deserves…", "The contrast has…", "The comparison deserves…", "The two inquiries can now be placed…", "The accumulated result can now be stated…", "The endpoint with denominator zero keeps…", "The Latin *ratio* preserves…", "The notation can now be named…", "The overdetermination is…". A family resemblance across all six movements: nearly every paragraph is opened by a noun governing a verdict verb. The draft's best paragraphs open on actors and objects (205, scribes, Hellenistic astronomy, the mark travels east, Calculation travelled, Bhāskara, Draw a zero, Suppose an overseer, Reverse the orientation). Restructuring: promote scene/operation openings into the audit-flavoured paragraphs rather than rewording the openers.
+3. **Balanced-prohibition cadence.** 31 "not" plus a dozen "never/neither/rather than" — most are genuine operational negatives the recon says to preserve (separator not terminal digit; retained form not field quotient; 1/0 not repaired; asymmetry not dissolved). The residual tic is the *verdict form*: "Neither story survives the verse." / "The braid is the claim." / "Their coexistence in one verse is the historical fact." / "and by nothing else". Restructuring: where the prohibition has just been *shown*, state it once as law rather than restating it as a scored debate.
+4. **Scene → settled-verdict endings in consecutive M13 paragraphs.** ¶3 ends "One permission had been granted. Arithmetic was still to come."; ¶4 ends "Greek practice divides the labour rather than offering a verdict…". Two consecutive history paragraphs landing on a settling maxim. Restructuring: let one of the two scenes end inside its material (the separator's own work, the copied table) and move the lesson into the following transition.
+5. **Em-dash arc closers.** "— and the crossing is part of what it became"; "— and its reasoning can eventually be turned back on the question of vacancy itself"; "— that is where the essay goes next." A signature cadence; acceptable twice, but it is the section's favourite closing move. Restructuring: in final assembly, alternate with plain declarative or with the operation itself.
+
+No list manufactures comprehensiveness: the M18 recap list, the wheels/meadows/transreal list and the word-lists all earn by naming real items the section has used or will use.
+
+---
+
+## PART 7 — Length / loss test
+
+- `wc -w DRAFT-2.md` = **6721** (whole file); body alone (excluding the Notes section) = **6319**.
+- Source-enriched baseline = **6031**; compression floor = **5427**.
+- DRAFT-2 is **longer** than the baseline by 690 words (+11.4% whole file; +4.8% body) and 22.4% above the floor. **STATUS = PASS — not REJECTED FOR COMPRESSION.** The growth is concentrated where the recon demanded it: the Kaplan scenes as human scenes (M13 ¶¶1–4, 6, 8–9), the unhurried Bhāskara hinge (M14 ¶¶3–6), the lived successful-person example and compact God-gap reversal (M16 ¶¶3–4), and the concrete omitted receiver at the return (M18 ¶8). A spot comparison against `working/manuscript-source-enrichment-2026-09-20/sections/s1/SECTION.md` shows the draft additionally consolidates the baseline's 23 footnotes into 9 section notes and drops the Liddell–Scott locator (noted above); no load-bearing content was found missing relative to the recon's survive-list, and the draft titles M17 with the movement's canonical name ("Zero keeps one foot outside mathematics"), repairing the baseline's divergent "The frame disclosed at zero."
+
+---
+
+## Section content gate (minimums)
+
+| Requirement | Finding |
+|---|---|
+| Kaplan as sustained human history, not isolated citations | PASS. The history is carried by scenes with actors (scribes, the reckoner of *kha*, column-checking calculators, apprentices, merchants, the overseer); Kaplan named as the spine at M13/M17/M18 with a page itinerary. Residual: his manner of wit and changed-question imagination is only partly recovered (Part 4). |
+| Material practices, notation, Indian arithmetic, transmission | PASS. Separator, astronomical circle, *kha/ambara/ākāśa/śūnya*, Gwalior, dust-board, *ṣifr*→*cifra*/*zero*, board vs written algorithm, Fibonacci's pedagogy. |
+| Brahmagupta/Bhāskara and exact zero operations preserved | PASS. q001, q002, q003 verbatim with locators; a+0, a·0, division-as-recovery, *khahara* retained, Dutta regime; 1/0 and 0/0 distinguished with their distinct reasons. |
+| Gain/sacrifice/return emerging from history | PASS. Gain and price stated *from* the migration (M13 ¶10); return through the examined tally and renewed entrustment (M18 ¶¶8–9); the schema never named as a template. |
+| Humanity / God-of-gaps reversal recovered | PASS. M16 ¶4, one compact paragraph per the authorial correction, both halves (supernatural shelter; irreducibly human remainder via the machine case), the *kha* callback earned. |
+| Later mathematical developments retained where genuinely relevant | PASS. Empty product/sum, von Neumann (correctly bounded as formal neighbour, no retro-proof), NOR completeness with the attribution debt recorded, projective line/Riemann sphere/wheels/meadows/transreal, Robinson's nonzero infinitesimal. |
+| Ending genuinely hands to §2 Two Logics of Two | PASS. The binary ambiguity is performed (cut vs held relation), matching the room release and the P1 release; the duplicated seam phrase appears once. |
+
+## Consolidated flag list
+
+1. `M13 ¶5 · G4/F8 · the Kaplan route-map sentence · three jobs on one dash-colon spine with a loose absolute · split into two or three sentences, one per job`
+2. `M13 ¶5 · G9 · "his Indian scenes are the richest" · unearned evaluation · attach to shown behaviour or mark as judgement`
+3. `M13 ¶5 · source-check · "Varāhamihira's verse" · verse attribution beyond the house's recorded vocabulary · verify at acquisition or weaken`
+4. `M13 ¶7 · G3 · "Between the vocabulary and the rules, however, the sign crossed half the world" · contradicts the paragraph's own 628 dating; the crossing postdates the first rules · state the essay-order deferral honestly`
+5. `M13 ¶9 · G1 · "In the reproduced early printing" · Boncompagni 1862 is a printed transcription, not an early printing · "in the reproduced text"`
+6. `M14 ¶4 · G6 · "*khahara* — the zero-divided" · gloss of the form presented like etymology · gloss the word's construction or rephrase`
+7. `M14 ¶9 · F2/F7 · "It stands against two thinner stories…" · first story unnamed and unheld by anyone in view; second a convention not yet established in this prose · name the actual holders or state the positive braid claim`
+8. `M14 ¶9 · F8 · "Neither story survives the verse." · slogan-verdict · fold the disproof into a clause or cut`
+9. `M14 ¶10 · F9/F8 · the dependencies paragraph · audit boundary as balanced body prose; redundant with ¶2, ¶7, ¶9 · compress to one sentence at its point of use`
+10. `M15 ¶4 · G1 · "remaining a member only of those sets … whose construction installs it" · false/vacuous general membership claim · restrict to the ordinal construction`
+11. `M17 ¶4 · G1 · "adjusting distributivity, equality, or the meaning of subtraction" · over-specified mapping (meadows adjust inverse laws) · restore list form or verify pairings`
+12. `M17 ¶5 · G1 · "and by nothing else" · readable as a claim about all of nonstandard analysis · tie to the computation's legitimacy`
+13. `M18 ¶1 · G1 · "Take Kaplan's own construction" · reads as origination; specialist Stern–Brocot/Farey debt dropped · "the construction Kaplan gives" + note clause`
+14. `M18 ¶9 · F10 · "now with open eyes" · ready-made phrase · state what renewed entrustment carries`
+15. `M18 ¶12 · F5 · "that is where the essay goes next" · narrates the essay · cut or end on the pressure itself`
+16. `Note 5 · source-governance · MAA/Boncompagni Fibonacci exhibit · no house record · create or re-anchor`
+17. `Note 6 · source-governance · Keisler, author-hosted · no house record · create or re-anchor`
+18. Low candidates recorded in Part 1: F5 openers at M13 ¶2 and M14 ¶6 (the latter L7-defensible), F10 at M13 ¶10, G5 ambiguity at M13 ¶4, G9 at M14 ¶5, G6 at M14 ¶8 ("at full reality"), G1 at M16 ¶5 (gnomic sentence), F8 rhythm family (Part 6), symbolon token without LS locator (M18 ¶11), G8 opening receipt deferred to M17 (authorised exception, to be confirmed conscious).
+
+**Strong points the final review should weigh.** The three Colebrooke quotations are exact and lawfully bounded; the Kaplan page map matches the house ledger; the no-Kaplan-quotation rule is held; the chronology correction is positive discipline, not defensive qualification; the M14→M17 absorption loop and the M13→M16 *kha* callback are real structural payoffs; the field proof, collapse chain, NOR completeness, mediant algebra and derivative computation are all correct; the Two Ones preserve arithmetic asymmetry while earning the symbolic reading; the token is kept to one fracture sentence; and the §2 hand-off is performed, not announced.

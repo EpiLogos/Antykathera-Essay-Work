@@ -1,0 +1,17 @@
+{
+  "key": "ATTICA",
+  "path": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+  "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-before.md.txt",
+  "preimage_sha256": "0ce5ecbdc362909d1a09d67c3cd73563769ffc44d5b3e64165af2a929abe8926",
+  "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-candidate.md.txt",
+  "candidate_sha256": "b4551b477f4f8f03beab778601744eb5daa71ddf1eb961cca4ee473f2a24b969",
+  "status": "Independent complete selected-source/public cold accepted; frozen non-live, parent inclusion pending",
+  "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-effects-before.json",
+  "effects_depth": 4,
+  "source_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-SOURCE-READINGS.json",
+  "consumer_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-DIRECT-CONSUMERS.json",
+  "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-LIGHTWEIGHT-CHECKS.json",
+  "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ATTICA-QUALIFICATION-REVIEW.json",
+  "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-ATTICA-REVIEW.json",
+  "independent_review_sha256": "6027a8100c181537ed13a5c010ff7849fd575c8daa3138682e7807395a620d82"
+}

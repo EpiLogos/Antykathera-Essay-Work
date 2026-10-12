@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "record_id": "A29",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "151941b780a48792892e32295e15c2869c669b5f4299e260f7e1654667854517",
+      "preimage": "preimages/A29-Power-Delegated-Labour-Return.md.txt",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/candidates/A29-Power-Delegated-Labour-Return.md.txt",
+      "candidate_sha256": "23e13649cba953ccb0a22fd5b7eff280b53209b244b6bb9101eff82bd8802ef5",
+      "cold_review": "Independent whole source/public accepted in concept-gap-return/INDEPENDENT-LABOUR-PAIR-REVIEW.json at exact final hash"
+    },
+    {
+      "record_id": "A29p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "sha256": "28681d2d9ce9511aaed85ede26b51d505552a82aab31bc30963560631d841b08",
+      "preimage": "preimages/A29-prime-Return-or-Extraction.md.txt",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/candidates/A29-prime-Return-or-Extraction.md.txt",
+      "candidate_sha256": "7c88b32d687c6ed789d8a8e1b283f8e4270efb75374c850174b90e2649fd269d",
+      "cold_review": "Independent whole source/public accepted in concept-gap-return/INDEPENDENT-LABOUR-PAIR-REVIEW.json at exact final hash"
+    }
+  ],
+  "status": "Complete source/public operation independently cold accepted; frozen nonlive for parent inclusion",
+  "pre_edit_operation": "PRE-EDIT-RECOVERY.json",
+  "effects_depth": 4,
+  "returned_byte_paths": 186,
+  "direct_and_transverse_version_rows": 25,
+  "native_unchanged": true,
+  "hard_findings": 0,
+  "individual_review_findings": 11,
+  "links": 55,
+  "missing": 0,
+  "scope": "Source/public receiving operation, no new quotation/book/clinical/history/runtime/global-census certification; parent integration gates pending.",
+  "independent_review": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/INDEPENDENT-LABOUR-PAIR-REVIEW.json",
+    "sha256": "a0e2457f0cf45279233ee14f9db5fa8a6fec19b98c188122c21f88598bb6d0bc"
+  }
+}

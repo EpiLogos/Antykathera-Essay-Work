@@ -1,0 +1,9 @@
+# Local validation — actual progression
+
+The initial three-record check completed 132 tests with 129 passes, two failures and one skip. One was inherited quality coverage; the second was a new omission in the two Dutta passage cards: per-card verification/provenance fields were missing. The original full output is retained under `local-checks/initial-full-suite.txt`.
+
+The passage cards were repaired with their real locator, paraphrase status, verification date/method, evidential action and consumer. No test or source rule was changed. The final six-record scope contains the two complete concepts and four bounded supports: the Dutta source and three connected recipient records. The final frozen run completed 132 tests with 130 passes, one inherited quality-coverage failure and one unavailable-AIKit skip. The doctor's real passage-provenance test passed.
+
+C52 and C64 now bind their actual generating sources; fifteen other concept source-binding findings and five deferred movement findings remain in the quality failure. The final five-public-record strict audit returned zero hard errors and 83 review candidates. The paragraph/record-specific dispositions distinguish 47 exact operational distinctions and inherited recipient findings; zero hard errors is not whole-recipient acceptance. All 169 links, three builders/freshness checks, the eight explicit canonical room-depth checks, pre-manuscript structural check, protected-path assertions and diff check passed. The exact counts and postimages are recorded in LOCAL-VALIDATION.json.
+
+The full working evidence includes the source scopes, pre-edit notes, seven draft amendments, eighteen cold-review corrections and paragraph-specific review. The cold review was a later pass by the drafting assistant, not an independent reviewer. Original preimages are recreated and checked from the actual publication parent in the native staging run. No movement or sovereign manuscript changed.

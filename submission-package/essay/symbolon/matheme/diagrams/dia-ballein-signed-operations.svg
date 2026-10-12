@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="t d">
+<title id="t">Dia-ballein: one polar axis held, summed and differenced</title>
+<desc id="d">A horizontal axis through a common zero carries the pole minus one at the left and plus one at the right, written (minus one) over (plus one): held polarity. Below, three operations on the same two signed units. Their sum, minus one plus plus one, is zero: the two meet at the common zero and give a net value. The difference taken from minus one, plus one minus minus one, is plus two: an arrow across the whole span from left to right. The difference taken from plus one, minus one minus plus one, is minus two: the same span in the opposite orientation. A red band states the error of appropriation: promoting a result into authority over the relation that made it possible.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#211d18"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a2f2b"/></marker><marker id="ahm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6f6659"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e3a59"/></marker></defs>
+<rect x="0" y="0" width="1100" height="800" fill="#f5f0e6"/>
+<text x="550" y="64" font-size="20" fill="#211d18" text-anchor="middle" letter-spacing="4">DIAGRAM · ONE POLAR AXIS, THREE OPERATIONS</text>
+<text x="550" y="94" font-size="16" fill="#6f6659" text-anchor="middle" font-style="italic">the same two signed units held, summed and differenced: the operation decides what the result is about</text>
+<text x="550" y="160" font-size="20" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">held polarity   (−1)/(+1)</text>
+<line x1="270" y1="218" x2="830" y2="218" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="300" y1="209" x2="300" y2="227" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="550" y1="209" x2="550" y2="227" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="800" y1="209" x2="800" y2="227" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="300" cy="218" r="15" fill="#f5f0e6" stroke="#211d18" stroke-width="2.5"/>
+<circle cx="800" cy="218" r="15" fill="#211d18" stroke="#211d18" stroke-width="2"/>
+<circle cx="550" cy="218" r="9" fill="#f5f0e6" stroke="#8a2f2b" stroke-width="2.5"/>
+<text x="300" y="258" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">(−1)</text>
+<text x="800" y="258" font-size="17" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">(+1)</text>
+<text x="550" y="258" font-size="16" fill="#8a2f2b" text-anchor="middle">common zero: the axis</text>
+<text x="550" y="288" font-size="15.5" fill="#6f6659" text-anchor="middle" font-style="italic">the stroke retains a polarity: each direction means something through the axis and its counter-direction</text>
+<rect x="35" y="320" width="330" height="345" rx="6" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.4"/>
+<text x="200" y="348" font-size="17" fill="#6f6659" text-anchor="middle" font-style="italic">sum: cancellation</text>
+<line x1="75" y1="520" x2="325" y2="520" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="105" y1="511" x2="105" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="200" y1="511" x2="200" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="295" y1="511" x2="295" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="105" cy="520" r="13" fill="#f5f0e6" stroke="#211d18" stroke-width="2.5"/>
+<circle cx="295" cy="520" r="13" fill="#211d18" stroke="#211d18" stroke-width="2"/>
+<text x="105" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">−1</text>
+<text x="200" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">0</text>
+<text x="295" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">+1</text>
+<line x1="121" y1="490" x2="188" y2="490" stroke="#2e3a59" stroke-width="2.4" stroke-linecap="butt" marker-end="url(#ahb)"/>
+<line x1="279" y1="490" x2="212" y2="490" stroke="#2e3a59" stroke-width="2.4" stroke-linecap="butt" marker-end="url(#ahb)"/>
+<circle cx="200" cy="520" r="9" fill="#f5f0e6" stroke="#8a2f2b" stroke-width="2.5"/>
+<text x="200" y="470" font-size="15" fill="#2e3a59" text-anchor="middle">meet at 0</text>
+<text x="200" y="384" font-size="20" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">(−1)+(+1)=0</text>
+<text x="200" y="596" font-size="14.5" fill="#6f6659" text-anchor="middle">a net value: a deposit and a withdrawal</text>
+<text x="200" y="617" font-size="14.5" fill="#6f6659" text-anchor="middle">leave a zero balance without making</text>
+<text x="200" y="638" font-size="14.5" fill="#6f6659" text-anchor="middle">the two acts one, or their effects nothing</text>
+<rect x="385" y="320" width="330" height="345" rx="6" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.4"/>
+<text x="550" y="348" font-size="17" fill="#6f6659" text-anchor="middle" font-style="italic">difference taken from −1</text>
+<line x1="425" y1="520" x2="675" y2="520" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="455" y1="511" x2="455" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="550" y1="511" x2="550" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="645" y1="511" x2="645" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="455" cy="520" r="13" fill="#f5f0e6" stroke="#211d18" stroke-width="2.5"/>
+<circle cx="645" cy="520" r="13" fill="#211d18" stroke="#211d18" stroke-width="2"/>
+<text x="455" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">−1</text>
+<text x="550" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">0</text>
+<text x="645" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">+1</text>
+<path d="M 455 498 C 495 442, 605 442, 639 496" fill="none" stroke="#8a2f2b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ahr)"/>
+<text x="550" y="444" font-size="24" fill="#8a2f2b" text-anchor="middle" font-family="'Courier New', Courier, monospace">+2</text>
+<text x="550" y="384" font-size="20" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">(+1)−(−1)=+2</text>
+<text x="550" y="596" font-size="14.5" fill="#6f6659" text-anchor="middle">the whole span, measured from the</text>
+<text x="550" y="617" font-size="14.5" fill="#6f6659" text-anchor="middle">−1 endpoint and oriented towards +1</text>
+<rect x="735" y="320" width="330" height="345" rx="6" fill="#efe8da" stroke="#b9ae9c" stroke-width="1.4"/>
+<text x="900" y="348" font-size="17" fill="#6f6659" text-anchor="middle" font-style="italic">difference taken from +1</text>
+<line x1="775" y1="520" x2="1025" y2="520" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="805" y1="511" x2="805" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="900" y1="511" x2="900" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<line x1="995" y1="511" x2="995" y2="529" stroke="#211d18" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="805" cy="520" r="13" fill="#f5f0e6" stroke="#211d18" stroke-width="2.5"/>
+<circle cx="995" cy="520" r="13" fill="#211d18" stroke="#211d18" stroke-width="2"/>
+<text x="805" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">−1</text>
+<text x="900" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">0</text>
+<text x="995" y="556" font-size="16" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">+1</text>
+<path d="M 995 498 C 955 442, 845 442, 811 496" fill="none" stroke="#8a2f2b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ahr)"/>
+<text x="900" y="444" font-size="24" fill="#8a2f2b" text-anchor="middle" font-family="'Courier New', Courier, monospace">−2</text>
+<text x="900" y="384" font-size="20" fill="#211d18" text-anchor="middle" font-family="'Courier New', Courier, monospace">(−1)−(+1)=−2</text>
+<text x="900" y="596" font-size="14.5" fill="#6f6659" text-anchor="middle">the same span, measured from the</text>
+<text x="900" y="617" font-size="14.5" fill="#6f6659" text-anchor="middle">+1 endpoint and oriented towards −1</text>
+<rect x="60" y="692" width="980" height="84" rx="6" fill="#f1dcd6" stroke="#8a2f2b" stroke-width="1.6"/>
+<text x="550" y="720" font-size="17" fill="#8a2f2b" text-anchor="middle" font-weight="bold">Appropriation is a further step, and the error is in the promotion, not in the minus sign.</text>
+<text x="550" y="746" font-size="15" fill="#211d18" text-anchor="middle">Cancellation is read as 'the relation has gone', or a pole takes the span it was measured across as its own magnitude and authority.</text>
+<text x="550" y="765" font-size="15" fill="#211d18" text-anchor="middle">A difference can be calculated impeccably and then used to conceal who chose the comparison and what it excluded.</text>
+</svg>

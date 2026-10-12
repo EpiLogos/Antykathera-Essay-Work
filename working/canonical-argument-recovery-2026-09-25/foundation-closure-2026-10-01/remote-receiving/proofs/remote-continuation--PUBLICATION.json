@@ -1,0 +1,17 @@
+{
+  "tree": "062060dd36d4994789adffe6b1b82c5dd37d132a",
+  "source_parent": "c2a64aa59afd52a495a97812e8a4b6b86ecd7775",
+  "authored_records_verified": 53,
+  "proofs_verified": 26,
+  "protected_unchanged": 574,
+  "changed_blobs": 166,
+  "extra_unapproved_paths": [],
+  "transport_excluded": true,
+  "scope": "Actual native tree read-back against exact reviewed candidates, proof hashes and all574 protected blobs/modes. Full test evidence in candidate tree receipt.",
+  "publication_commit": "5e0b0a716a1ed750d98562d2d60031ed13c2c4d0",
+  "published_main_readback": "5e0b0a716a1ed750d98562d2d60031ed13c2c4d0",
+  "native_route": "GitHub create_tree/native remote candidate objects, create_commit, nonforce update_ref main; exact validated tree unchanged",
+  "CI_run": 36941672323,
+  "full_suite": "132 tests; one exact known five-deferred-movement-quality failure, one native AIKit absent-executable skip",
+  "complete_foundation": false
+}

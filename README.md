@@ -1,8 +1,8 @@
-# The Return of Zero
+# Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality.
 
-> **Start here:** [Read The Return of Zero](submission-package/essay/README.md). The developed field is at the T23/T24 pre-manuscript review; the manuscript awaits composition.
+> **Start here:** [Read Confronting the Limit](submission-package/essay/README.md). The source-bound foundational recovery is published. §0/1 is being completed for submission; the wider manuscript and field remain in development.
 
-This repository is the working philosophical, scholarly, and publication field for *The Return of Zero*. The essay moves from immediate experience and the formal limit of the subject, through zero and the two logics of distinction, into QL's mathematical, musical, topological, psychic, and technical body. It returns through trust, Tao, Agentworld, and the sovereign commons as a practical account of how a determinate form can remain answerable to the ground, relations, and worlds which made it possible.
+This repository is the working philosophical, scholarly, and publication field for *Confronting the Limit*. The essay moves from immediate experience and the formal limit of the subject, through zero and the two logics of distinction, into QL's mathematical, musical, topological, psychic, and technical body. It returns through trust, Tao, Agentworld, and the sovereign commons as a practical account of how a determinate form can remain answerable to the ground, relations, and worlds which made it possible.
 
 The publication entrance offers the 48-movement reading sequence and the developed field. The dated plain-English flow and harmonised quilt preserve the preparation that preceded canonical propagation; the central plan and admitted records carry the current argument.
 
@@ -10,7 +10,7 @@ The publication entrance offers the 48-movement reading sequence and the develop
 
 1. Begin at the [reader entrance](submission-package/essay/README.md), choosing the movement sequence or a question to follow into depth.
 2. Use the [central plan](the-return-of-zero-central-plan.md) for the live structural authority and the [core theorem spine](working/sources-texts-references/10-7-2026-core-theorems-pithy.md) for the native derivation.
-3. Open the [shared canonical field](submission-package/essay/symbolon/episteme/arguments/README.md), its [Concepts](submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md), or the [declared paths](submission-package/essay/symbolon/episteme/maps/README.md) when a claim calls for depth. The [rooms](submission-package/essay/section-rooms/README.md) keep its movement-level place.
+3. Open the [shared canonical field](submission-package/essay/section-rooms/arguments/README.md), its [Concepts](submission-package/essay/section-rooms/arguments/concepts/CANONICAL-INDEX.md), or the [declared paths](submission-package/essay/symbolon/episteme/maps/README.md) when a claim calls for depth. The [rooms](submission-package/essay/section-rooms/README.md) keep its movement-level place.
 4. Enter the [source houses](submission-package/essay/symbolon/episteme/sources/README.md) for exact passages, attribution, standing and unresolved source work.
 5. Consult the dated [plain-English flow](submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) and [harmonised quilt](submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) as development provenance, alongside the later accepted census and canonical records.
 
@@ -32,29 +32,29 @@ The same operation becomes mathematical ratio, self-reference, oscillation, comp
 
 The final movement joins trust, Mono/Poly, Taoist reversal, Gebserian diaphaneity, Bohmian dialogue, Heidegger's technology question, Aristotle's relational and causal governance, and Whitehead's objective immortality. Epi-Logos becomes the practice of harmonising differentiated forms of knowledge within a shared inquiry. The sovereign commons gives that practice a political and technical body. The achieved one returns to zero and becomes a condition for new creation.
 
-## Current state: developed field, pre-manuscript review
+## Current state: recovered field and authorial composition
 
-T20 and T21 are accepted. T23 navigation is under audit alongside T24 on `main`. The shared canonical field contains C01–C64, A01–A36, A01′–A36′ and A/C; the 21 earlier argument carriers are historical provenance. The [accepted development receipt](working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md) records the completed scope.
+The source-bound foundational recovery is published on `main` at `9918899`. It covers the A/A′/C and S fields and their generating formal, imaginal and scholarly supports. The local authorial layout receives those bodies in its ratified homes.
 
-The [T24 audit](working/p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md) records the independent checks, repairs and remaining gate conditions. The [sovereign manuscript](submission-package/essay/THE-RETURN-OF-ZERO.md) awaits composition. Dated preparation remains available without replacing the developed field or its source standing.
+The current §0/1 composition is being final-read in [`working/s01-hardening-2026-10-01/`](working/s01-hardening-2026-10-01/HANDOVER-2026-10-03.md). It is the bounded submission and the site's foundation. The wider manuscript, map and technical practice remain in development. Dated preparation and recovery receipts preserve provenance without replacing the author's current text.
 
 ## Repository map
 
 | Surface | Purpose |
 |---|---|
 | [`submission-package/essay/`](submission-package/essay/README.md) | **The one publication body** in the 4+2 sixfold: rooms `#0` (movements + arguments), the field `#1`–`#4` (Symbolon, Matheme, Mytheme, Episteme), and the sovereign essay `#5`. |
-| [`submission-package/essay/section-rooms/`](submission-package/essay/section-rooms/) | The rooms (`#0`): each room holds its six movements (`movements/`) drawing on the canonical 137-record field in Episteme through each room’s P1 alignment; `arguments/` retains the 21 historical carriers. |
-| [`submission-package/essay/symbolon/`](submission-package/essay/symbolon/README.md) | The field (`#1`–`#4`): Symbolon root relations, Matheme, Mytheme, and Episteme. Concept nodes live in `episteme/concepts/`, paths in `episteme/maps/`. |
+| [`submission-package/essay/section-rooms/`](submission-package/essay/section-rooms) | The rooms (`#0`): each room holds its six movements (`movements/`) drawing on the canonical 137-record field in Episteme through each room’s P1 alignment; `arguments/` retains the 21 historical carriers. |
+| [`submission-package/essay/symbolon/`](submission-package/essay/symbolon/README.md) | The field (`#1`–`#4`): Symbolon root relations, Matheme, Mytheme, and Episteme. The canonical A/C suite lives in `section-rooms/arguments/` (migrated 2026-09-25); concept nodes in `section-rooms/arguments/concepts/`, paths in `episteme/maps/`. |
 | [`submission-package/essay/symbolon/episteme/sources/`](submission-package/essay/symbolon/episteme/sources/README.md) | 180 canonical source houses and the passage, citation, provenance, acquisition, and consumption system. |
-| [`working/`](working/) | Non-publication development surfaces: ledgers, raw authorial shelves, working drafts, frozen legacy. |
+| [`working/`](working) | Non-publication development surfaces: ledgers, raw authorial shelves, working drafts, frozen legacy. |
 | [Epi-Card QL Conjugate System](submission-package/epi-card-system-v1/README.md) | Active parallel video, 3D, symbolic-media, card, and rendering lane. |
 | [`submission-package/`](submission-package/README.md) | Submission manifests, companion materials, Epi-Card integration, and retained design provenance. |
-| [`writing-guidance-tools/`](writing-guidance-tools/README.md) | The local writing laws, rubric, and selective calibration material used for the published prose. |
-| [`tools/`](tools/) and [`tests/`](tests/) | Workspace retrieval, source resolution, generation, freshness, link, and publication checks. |
+| [`PROSE-STANDARD.md`](PROSE-STANDARD.md) | The one prose standard for the manuscript: faults, authorial hand, repair method, mechanics, done-stamp. (The former `writing-guidance-tools/` is retired under `working/legacy/`.) |
+| [`tools/`](tools) and [`tests/`](tests) | Workspace retrieval, source resolution, generation, freshness, link, and publication checks. |
 | [`docs/REPOSITORY-SHAPE.md`](docs/REPOSITORY-SHAPE.md) | The one-file functional map of the repository: every surface, its authority, its entry, and its final home under the symbolon shape. |
 | [`WRITING-PROTOCOL.md`](WRITING-PROTOCOL.md) | The live workflow for review, migration, model drafting, comparison, and publication. |
 
-Frozen material under [`working/legacy/`](working/legacy/) preserves provenance. It does not govern the current argument.
+Frozen material under [`working/legacy/`](working/legacy) preserves provenance. It does not govern the current argument.
 
 ## Authority and freshness
 
@@ -63,8 +63,8 @@ The repository keeps several kinds of truth separate:
 1. The [central plan](the-return-of-zero-central-plan.md) governs structure.
 2. The [orienting principles](return-of-zero-orienting-principles.md) govern the work's stance beneath that structure.
 3. Section, argument, concept, and path nodes carry the granular canonical argument.
-4. Each source's `SOURCE.md` carries bibliography, passages, provenance, citation state, quotation state, and essay use. An adjacent `NOTES.md` is Frank's protected encounter with that work.
-5. [THE-RETURN-OF-ZERO.md](THE-RETURN-OF-ZERO.md) is sovereign prose once drafted.
+4. Each source's house file `<source_id>.md` carries bibliography, passages, provenance, citation state, quotation state, and essay use. An adjacent `<source_id>-NOTES.md` is Frank's protected encounter with that work.
+5. [THE-RETURN-OF-ZERO.md](submission-package/essay/THE-RETURN-OF-ZERO.md) is sovereign prose once drafted.
 6. Rooms, indexes, generated context, the quilt, and this README help retrieval or review. They remain locators and supporting documents rather than substitute authority.
 
 Claim force and source readiness are also separate. A position can be internally Derived or Argued while a historical attribution or quotation still needs source work. The source bank records that debt without weakening the authorial proposition into a safer neighbouring claim.

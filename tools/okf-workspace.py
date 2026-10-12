@@ -132,14 +132,26 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
     name = rel.name
     declared = str(fm.get("node_type") or fm.get("type") or fm.get("page_type") or "").casefold()
     record_type = str(fm.get("record_type") or "").casefold()
-    if posix.startswith("submission-package/essay/symbolon/episteme/products/") and record_type in {"product", "product-field"}:
+    # The canonical A/C suite migrated into section-rooms/arguments (2026-09-25);
+    # the publication body's A/C identities are typed from their record_type.
+    if posix.startswith("submission-package/essay/section-rooms/arguments/products/") and record_type in {"product", "product-field"}:
         return record_type
-    # Canonical field pages declare record_type; the publication body's A/C identities are typed from it.
-    if "/symbolon/episteme/arguments/" in f"/{posix}" and name != "README.md":
-        return "argument"
-    if "/symbolon/episteme/conjugate/" in f"/{posix}" and name != "README.md":
+    if "/section-rooms/arguments/conjugate/" in f"/{posix}" and name != "README.md":
         return "argument-map" if name == "AC.md" else "argument"  # AC is the dual-form root of the field
-
+    if "/section-rooms/arguments/concepts/" in f"/{posix}":
+        if "/reference-notes/" in f"/{posix}":
+            return "legacy-reference"
+        if name == "README.md":
+            return "document"
+        if name in {"index.md", "CANONICAL-INDEX.md"}:
+            return "index"
+        return "concept"
+    if posix.startswith("submission-package/essay/section-rooms/arguments/") and name == "README.md":
+        return "document"  # suite entrances (arguments/, conjugate/, products/), not room artifacts
+    if "/section-rooms/arguments/" in f"/{posix}" and name != "README.md":
+        return "argument"
+    if "/working/legacy/section-rooms-arguments/" in f"/{posix}":
+        return "legacy-argument"  # the migrated 21 historical carriers: frozen provenance (excluded from the scan)
     if posix in {
         "the-return-of-zero-central-plan.md",
         "return-of-zero-orienting-principles.md",
@@ -149,14 +161,9 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
         "/section-rooms/" in f"/{posix}" and "/movements/" in f"/{posix}"
     ):
         return "section"
-    if "/section-rooms/arguments/" in f"/{posix}":
-        return "legacy-argument"  # pre-T09 historical carriers: provenance, resolved after canonical A/C pages
     if "/nodes/arguments/" in f"/{posix}":
         return "argument"
-    if "/nodes/concepts/" in f"/{posix}" or (
-        "/symbolon/episteme/concepts/" in f"/{posix}"
-        and "/reference-notes/" not in f"/{posix}"
-    ):
+    if "/nodes/concepts/" in f"/{posix}":
         if name in {"index.md", "README.md", "CANONICAL-INDEX.md"}:
             return "document" if name == "README.md" else "index"
         return "concept"
@@ -168,18 +175,18 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
         return "path"
     if (
         ("/source-bank/sources/" in f"/{posix}" or "/episteme/sources/" in f"/{posix}")
-        and name == "SOURCE.md"
+        and rel.stem == rel.parent.name
         and fm.get("source_id")
     ):
         return "source-house"
     if (
         ("/source-bank/sources/" in f"/{posix}" or "/episteme/sources/" in f"/{posix}")
-        and name == "NOTES.md"
+        and rel.stem == f"{rel.parent.name}-NOTES"
     ):
         return "source-notes"
     if "/source-bank/" in f"/{posix}" or "/episteme/sources/" in f"/{posix}":
         return "source-governance"
-    if "/symbolon/episteme/concepts/reference-notes/" in f"/{posix}":
+    if "/section-rooms/arguments/concepts/reference-notes/" in f"/{posix}":
         return "legacy-reference"
     if "/section-rooms/" in f"/{posix}" and declared in {
         "room-reading-path",
@@ -214,7 +221,7 @@ def primary_id(rel: Path, fm: dict[str, Any], artifact_type: str) -> str:
         return f"notes-{rel.parent.name}"
     if artifact_type == "room-reading-path":
         return str(fm.get("reading_path_id") or f"reading-{rel.parent.name}")
-    if artifact_type == "room-artifact" and rel.name == "ROOM.md":
+    if artifact_type == "room-artifact" and rel.name.startswith("ROOM-") and rel.suffix == ".md":
         return f"room-{rel.parent.name}"
     return rel.stem
 
@@ -741,7 +748,10 @@ class Workspace:
                     edges.append(edge)
 
             if artifact.artifact_type == "source-house":
-                notes_path = Path(artifact.path).with_name("NOTES.md").as_posix()
+                stem = Path(artifact.path).stem
+                notes_path = (
+                    Path(artifact.path).with_name(f"{stem}-NOTES.md").as_posix()
+                )
                 if notes_path in self.artifacts:
                     edge = Edge(
                         artifact.path,
@@ -755,7 +765,8 @@ class Workspace:
                         seen.add(key)
                         edges.append(edge)
             elif artifact.artifact_type == "source-notes":
-                source_path = Path(artifact.path).with_name("SOURCE.md").as_posix()
+                stem = Path(artifact.path).stem.removesuffix("-NOTES")
+                source_path = Path(artifact.path).with_name(f"{stem}.md").as_posix()
                 if source_path in self.artifacts:
                     edge = Edge(
                         artifact.path,
@@ -1485,9 +1496,11 @@ class Workspace:
                 for edge in artifact.outgoing:
                     if edge.target is None:
                         debts.append({**base, "kind": "unresolved-link", "detail": edge.raw_target, "relation": edge.relation})
+            name = Path(artifact.path).name
             if (
                 artifact.artifact_type in {"room-artifact", "room-reading-path"}
-                and Path(artifact.path).name in {"ROOM.md", "READING.md"}
+                and name.endswith(".md")
+                and (name.startswith("ROOM-") or name.startswith("READING-"))
             ):
                 for edge in artifact.outgoing:
                     if edge.target is None:

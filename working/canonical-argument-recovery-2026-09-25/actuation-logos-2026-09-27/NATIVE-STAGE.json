@@ -1,0 +1,272 @@
+{
+  "staging_head": "d9ae6294992648cc9a7b1048b8a6eb7b4d4871b3",
+  "source_base": "2e7a22890b9623c433e39902a2d21404d90e2c84",
+  "strict": {
+    "files": 3,
+    "errors": 0,
+    "review_candidates": 24,
+    "findings": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 208,
+        "severity": "review",
+        "code": "PROVENANCE_THEATRE",
+        "text": "**An-a-logos / supramental — Why?** gathers the differentiated whole into an act: why this response, here, to this person, now? Information, clarification, challenge, creation and silence have different purposes within an encounter. The person addressed is the actual complementary pole of this communication, whose intention and capacity to answer give the response its occasion. The QL/Epi supramental turn extends the fivefold Gebser correspondence into this whole-act return; it is not a sixth st"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 49,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "These causes act together. A prompt's words are material to interpretation and already formalised intention; they are not the whole freedom from which the commission arose. An evaluator helps stabilise a candidate but does not thereby author the purpose it serves. A delegated act can therefore retain genuine judgment while remaining accountable to its commission. Where its encounter exposes a false premise, preserving the purpose can require reformulating the question rather than producing the e"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 55,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Together with L1, this pair joins production and encounter: a formed act leaves a trace; a challenge can expose its causal or evaluative conditions; a discovered relation can change the next act. A more elaborate explanation is not automatically a richer trace of actual processing. The minimum account must locate which source, model state, permission or evaluator was involved and what the return changed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 104,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Dignāga makes a term determinate through exclusion, and the double negation carries real weight: *cow* as *not non-cow* does not collapse into plain affirmation because the two negations function differently. The excluded field remains constitutive of the determination."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 108,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The contrast matters technically because the bare argmax index is locally constant away from decision boundaries and discontinuous at them: it does not supply the differentiable learning signal used by ordinary gradient training through a probability loss. Learning uses differentiable fields around such choices or other training estimators and objectives. The asymmetry gives the philosophical distinction a technical object: the selected mark and the field through which selection was learned are "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 110,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Apoha brings a semantic and epistemic depth the token operation does not itself supply. The point of relation is narrower and exact: determination through exclusion, with the excluded field remaining relevant to what the positive determination means. This makes provenance part of the technical problem. Retaining a token distribution is not enough where prompt, source authority, gauge, context or excluded alternatives materially shaped the selection and then disappeared from the account."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 117,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#50--evaluation-returns-to-the-practice-selecting-it) historicises this operation. Vaswani’s attention weights values through a softmax distribution; the selected PyTorch definitions distinguish that distribution from argmax’s index, including the first-maximum tie convention. Scores, weights and a selected mark retain separate jobs. Preserving the weights does not itself preserve the prompt, source autho"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 139,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "J-Space returns to [Count-to-Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) as a proposed inspectable account of judgment formation. Source, representation, gauge and permission identify different possible causes of divergence; the record must say which changed and what followed. A narrated explanation alone cannot establish those transitions, and the subordinate research object does not exhaust Objective Internality."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 141,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A judgment position returns to [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) with its source-field, gauge and inherited conditions. Two outputs occupying comparable coordinates can have different histories or permissions. The proposed J-Space record must retain those differences before a passage between positions counts as an accountable comparison; naming a space does not establish the research architecture’s operation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 162,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The double-net distinction gives the technical image its full charge. A contextual field remains Indra-like when its grounds, relations, and returns remain constitutive and answerable across the field. It becomes Hephaestian when an owner, protocol, or audience occupies the hidden zero, turning participants into exposed and ranked terms inside a web they cannot contest or return through."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 164,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Two determinations from the myth complete the claim. The displaced trust is also displaced labour: annotators, raters, evaluator models, and reference policies are themselves held \"to stand by… on call for a further ordering\" (*QCT*, p. 17) — human relation kept as standing-reserve inside the optimisation loop, present in every score and named in none. And the Homeric scene supplies the exact shape of the observability limit. The net detects (Helios's σκοπιή), captures (δεσμοὶ τεχνήεντες), prove"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 169,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-account-answerability) figures a criterion protected by controlling the available answer: election publicity can supply Six's public response before he has assented, then count participation as endorsement of an office he cannot govern. The return asks whether adverse encounter can revise the evaluator's terms, rather than merely change a score within them."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 173,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "[Renewed entrustment](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#credere-renewed-entrustment) brings the preference movement back to the bearer of an undertaking: prior reliance and renewed entrustment cannot be settled by transparency alone. A disclosed preference still has consequences for someone whose authority to answer must survive the evaluation. The technical account therefore returns to that commission instead of making its confidence score the measure of trust."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 184,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The disputed preference returns to [Apportionment / Economy whole — Measure is an apportioned criterion](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#measure-is-an-apportioned-criterion) through the conditions of the comparison. A disputed preference can require revision of the criterion or the office selecting it. A new score under an unchanged criterion does not discharge that return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 190,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A source's claim, a person's report, a retrieved passage, a model's inference and the world they concern can all enter one active context. They enter through different relations. The words “the experiment succeeded” might quote a report, express the user's belief, state an observed result or repeat an inference from incomplete evidence. A fitting answer keeps track of which act those words perform here. Their presence in the context does not make the relations interchangeable."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 202,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "**Dia-logos / mythical — How?** lets the distinguished terms move in relation. A claim may depend on a source, a reply may answer a prior concern, and an image may figure a relation that a formula states differently. Dependence, sequence, causation, polarity and analogy each have their own consequences. Recognising which relation is active makes the passage from one term to the next intelligible; a shared word alone does not supply that passage."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 208,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "**An-a-logos / supramental — Why?** gathers the differentiated whole into an act: why this response, here, to this person, now? Information, clarification, challenge, creation and silence have different purposes within an encounter. The person addressed is the actual complementary pole of this communication, whose intention and capacity to answer give the response its occasion. The QL/Epi supramental turn extends the fivefold Gebser correspondence into this whole-act return; it is not a sixth st"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+        "line": 226,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A comparison can hold task, available sources and relevant runtime conditions constant while varying a declared lens or disclosure. It then asks whether a challenge changed the answer, task, model, gauge or commission, and which later act inherited the change. A null result can expose an ineffective implementation, a mistaken mapping or an inadequate discriminator; these different findings require different repairs. A stored account of a proposed change is not evidence that the changed condition"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "line": 28,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A source's statement, a report of that statement, an observation and an inference from it have different offices. So do the person claiming something, the person receiving it and the current act of interpretation. The same words can be present in each relation. Their presence alone cannot establish which relation produced the present claim. The [relational Logos of Actuation](../products/S1-Actuation.md#4--relational-logos-this-act-addresses-someone) makes these positions explicit so a response "
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "line": 30,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "What belongs to the field is established through actual conditioning. A named source that was never consulted and a rule that did not govern selection cannot explain this judgment merely because a later narration mentions them. The inquiry must connect the represented condition to the act it is supposed to explain."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "line": 46,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "A model can then model its own judgment field, and another can inspect that model. Each return discloses another determinate relation within the means. The gain lies in what becomes available to correction. [MEF](C39-Meta-Epistemic-Framework.md) keeps the lens and warrant of each reading distinct, so apparent agreement between maps does not conceal different sources or criteria."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "line": 64,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "An address can challenge the representation, its parameters, the evaluation or the purpose governing the search. This inscription specifies a proposed scope of revision; it is not an executed learning rule. Its test must name which component changed, how the change was made and what later judgment depended on it. A better answer under a fixed measure and an encounter that revises the measure are different results."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "line": 72,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "The six products give changed conditions different places to enter. [Actuation](../products/S1-Actuation.md) carries the judgment as an event; [Central](../products/S0-Central.md) can receive a revised source or commission; [AIKit](../products/S2-AIKit.md), altered means or permissions; [Factory](../products/S3-Software-Factory.md), a transformation to integrate; [Workcell](../products/S4-Workcell.md), changed material conditions; and [Quaternal Logic](../products/S5-Quaternal-Logic.md), a chang"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+        "line": 41,
+        "severity": "review",
+        "code": "DEFENSIVE_NEGATION",
+        "text": "Functional articulation becomes philosophically consequential when its return reaches the conditions that generated the act. A model can retain alternatives, revisit sources, revise an evaluator or initiate a different action; a fluent explanation of change is not enough unless the relevant source, permission, gauge or commission actually changes. [Operational Parity](../../../symbolon/episteme/concepts/C45-Operational-Parity.md) therefore asks for the later act that inherited the difference."
+      }
+    ]
+  },
+  "detector_tests": 17,
+  "links_checked": 81,
+  "generated_freshness": "all three builders pass",
+  "changed_paths": [
+    "submission-package/essay/section-rooms/05-psychoid-flowering/ROOM.md",
+    "submission-package/essay/section-rooms/06-objective-internality/ROOM.md",
+    "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+    "submission-package/essay/section-rooms/07-instrument-returns/ROOM.md",
+    "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/MOC.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/audit.json",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/argument-shelf.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-aphorisms.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-arguments.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-atlas.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--developed-provenance.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts--reference-notes.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-concepts.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-conjugate.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dialogues.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-dossiers.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-etymologies.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-figures.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-histories.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-lenses.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-maps.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-products.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-root.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--analytic-philosophy.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--biblical-studies.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--chinese-philosophy.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-philology.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--classical-premodern-philosophy.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--computer-science-ml.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--history-philosophy-of-science.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--indian-philosophy.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--internal-corpus.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-literary-studies.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--language-philology.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--literature.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--mathematics-logic.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--media-technology-philosophy.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--phenomenology-continental-philosophy.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--physics.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--political-theory-institutions.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--process-systems-theory.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--psychology.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--religion-theology.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources--root.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/episteme-sources.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/essay.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--computation.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--definition.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--dia-syn.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--diagrams.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--formal-neighbours.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--harmonics.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--mono-poly.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--music.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--process.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--ql.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--quilt.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--root.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--spanda.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme--topology.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/matheme.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/movements.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/mytheme.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/quilt.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/rooms.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/intents/symbolon-root.md",
+    "submission-package/essay/symbolon/episteme/maps/navigation/reader-audit.json",
+    "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+    "the-return-of-zero-central-plan.md",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/BATCH-INTEGRITY.json",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/DETECTOR-TESTS.txt",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/FULL-SUITE.txt",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/LINK-CHECK.json",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/PREIMAGES.json",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/QUALIFICATION-REVIEW.json",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/README.md",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/RECOVERY-NOTE.md",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/SOURCE-READINGS.json",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/STRICT-AUDIT.json",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/before/38-s5-p1-apoha-softmax.md.txt",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/before/C40-Model-Internality-Judgment-Field.md.txt",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/before/S1-Actuation.md.txt",
+    "working/canonical-argument-recovery-2026-09-25/actuation-logos-2026-09-27/before/the-return-of-zero-central-plan.md.txt"
+  ],
+  "unexpected_mutations": [],
+  "whole_suite": "The retained FULL-SUITE.txt records the local native run with three inherited failures; this staging run does not assert a green whole suite.",
+  "ref_publication": "none; candidate objects only, awaiting connector comparison and publication"
+}

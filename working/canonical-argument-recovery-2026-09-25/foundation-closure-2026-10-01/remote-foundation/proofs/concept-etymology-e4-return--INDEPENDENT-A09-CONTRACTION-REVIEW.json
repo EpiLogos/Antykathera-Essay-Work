@@ -1,0 +1,121 @@
+{
+  "reviewer": "concept_recovery",
+  "date_utc": "2026-10-02T12:19:51.955120+00:00",
+  "status": "Independent complete old/new source/public operation accepted at exact final hash; no exact lost step, stronger false entailment or public semantic actor found within declared source bounds.",
+  "native": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/preimages/A09-Tattvic-Differential-Field.md.txt",
+  "preimage_sha256": "1f4a4be53d0324024c2eca1954fd118a673a9f27e82a511c8e27389418e76e51",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/candidates/A09-Tattvic-Differential-Field.md.txt",
+  "candidate_sha256": "636011721366d32bef45359b861619be701b9ee0620b58572f4f8df24bb8c799",
+  "paired_prime": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+  "paired_prime_sha256": "5da612b485f5212b84a31d6a2967016ef22a512376ee15ee530d5995e3a34cad",
+  "author_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/CANDIDATE-MANIFEST.json",
+  "author_manifest_sha256": "93c5eecc88ef19a940f46c1a85bbdbe3090e7401678b1900891b7d8a13e9af7b",
+  "own_actual_source_reads": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/preimages/A09-Tattvic-Differential-Field.md.txt",
+      "sha256": "1f4a4be53d0324024c2eca1954fd118a673a9f27e82a511c8e27389418e76e51",
+      "actual_independent_read_scope": "Entire89-line immutable native preimage personally read untruncated in this review."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/candidates/A09-Tattvic-Differential-Field.md.txt",
+      "sha256": "636011721366d32bef45359b861619be701b9ee0620b58572f4f8df24bb8c799",
+      "actual_independent_read_scope": "Entire96-line final personally read untruncated; complete old/new operation compared, not changed sentence alone."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "sha256": "5da612b485f5212b84a31d6a2967016ef22a512376ee15ee530d5995e3a34cad",
+      "actual_independent_read_scope": "Entire current published prime personally read untruncated in this review; exact unchanged version bound, not a new prime revision."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_independent_read_scope": "Prior own entire640-line read retained; fresh complete151–188/512–569/570–640 read separately after initial aggregate output clipped; every gap reopened before acceptance."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_independent_read_scope": "Entire actual102-line governing minute freshly read untruncated in this review."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "sha256": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "actual_independent_read_scope": "Entire actual governing correction freshly read untruncated; exact claim-strength and source-bound limits applied."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "sha256": "c5b57a5806f9c44e81570e1abaa0798a11085e53e5555a29c54b61fba66a7b87",
+      "actual_independent_read_scope": "Entire418-line SOURCE and all available embedded60–81 transcript personally freshly read1–120/121–218/219–306/307–418; page77 absent and81 unfinished not inferred; no edition verification upgrade."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+      "sha256": "69533d66d630b25ff5abde2497ae93e0692d24fff4701687fbcad31670439ad9",
+      "actual_independent_read_scope": "Entire108-line SOURCE personally fresh read with all selected triad/witness cards; no new primary edition read."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "sha256": "46abb8e19972a9a6908ced80849ca73cade65ae0960c48315044b2e140ce4a1b",
+      "actual_independent_read_scope": "Entire105-line SOURCE personally fresh read; selected notebook/introduction/commentary and unresolved primary edition remain distinct."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "sha256": "eab3fa301b61d94380eee2d3e725732db85f18086cee4996816117b32df21216",
+      "actual_independent_read_scope": "Fresh entire CT09 receiving unit125–138; historical raw guard versus latest active consumer rule distinguished."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "actual_independent_read_scope": "Prior own full source basis retained; fresh complete§4 251–325 separately251–285/286–325 after aggregate output clipped. Native compression/recognition/upayas/Lacan relation actually re-entered, not external historical identity acceptance."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "actual_independent_read_scope": "Fresh complete actual gnomon§17 478–507; adjacent§18 heading read not whole§18 claim. Prior own entire corrected2817–3213 retained separately, no fresh whole6026-line quilt claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "sha256": "af8b05a64568262c8b7b4c611d6dad2d8e64f74b82959d975c3a1851ddf65e57",
+      "actual_independent_read_scope": "Entire current147-line whole personally fresh read; combined full output middle clipped and exact60–104 reopened, completing all omitted chiasm/wheels/wings units. Native encounter/recognition/source-distinct history compared, no fresh Jung whole book acceptance."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "sha256": "e5136d5a83e9b248cc90a62eaa6280649abe484576280d556c401bb9a1164da7",
+      "actual_independent_read_scope": "Prior own complete119-old/121-final independent source/public cold retained in concept-reflexive-instrument-return/INDEPENDENT-MAYA-REVIEW.json; current body exacte513 version readback matches. Not claiming a new full current reread here."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "sha256": "318dca8133ea034e44dd3b8d3c8fb09cd7c89902d1c72772ce7c7db8dd591a24",
+      "actual_independent_read_scope": "Prior own actual full source/public comparison and returned night/day adjacent correction retained; current318d version hash match. No new whole external book claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "sha256": "4040f3c552af212a07905e068e64a91090e18c9c41efb16c3bc3418463a984dd",
+      "actual_independent_read_scope": "Prior own actual complete core/Dynamics/whole-image re-entry retained; current4040 version hash matches. No new whole external book or quotation admission."
+    }
+  ],
+  "accepted_operations": [
+    "Complete Śaiva descent retains ground, luminosity/reflexive power, inverse universal readings, operative measure, all five finite contractions, inner instrument, sensing/acting/subtle/gross world and recognition without erasing differentiated life.",
+    "Dyczkowski75 vertical/horizontal movement and78–79 real creative separation retain source-specific warrant; mirror69–70 and Sāṃkhya passive witness remain distinct from active Śaiva beginning.",
+    "Exact25→36 gnomon5+1+5 supplies native generating relation; arithmetic exact, historical act by Abhinavagupta and category-by-category mapping remain specifically unclaimed.",
+    "Parent/six/return full ordered eight offices retain actual conscious circumstance, question/assertion, energetic polarity, capacity/instance, personed relation, differential horizon and source-return; not numerical merger with recognition triads.",
+    "Māyā, Mother, Neumann and uroboric measure source/embodiment/recognition operations remain whole and provenance-specific.",
+    "Judging agent local functional knower, sources/rules/tools/permissions means, account/alternatives known; apparatus itself means within containing person, further inspection makes local centre known without manufacturing first-person condition.",
+    "Corrected sentence under fitting fidelity rule, failed-rule capable authority, missing permission controller and fitting retention are discriminated; later act inherits result while actual changed-processing claim retains additional changed-condition proof.",
+    "Six product aspects remain cooperating constitutive offices of constructed World/Life, no completed engineering result asserted; metadata IDs and navigation legitimate, body public address/schema/page duties recovered semantically."
+  ],
+  "independent_findings": [],
+  "retention_readback": {
+    "original_headings_retained": true,
+    "original_curly_double_quoted_strings_retained": true,
+    "original_fenced_notation_retained": true,
+    "original_navigation_exact": true,
+    "metadata_exception": "Four actual consumed source_ids appended truthfully; existing frontmatter fields retained. No full metadata byte-equality claim."
+  },
+  "bounds": [
+    "No new primary edition, whole external book, exact quotation/readiness, clinical efficacy, deployed/runtime/engineering result or artificial phenomenal localisation acceptance.",
+    "No all185 impacts, all7 products or entire source histories semantic closure from a graph, bytes or this bounded A09 review.",
+    "All48 movement bodies and sovereign manuscript remain deferred/protected."
+  ],
+  "canonical_or_protected_edits": false,
+  "heavy_local_jobs": false
+}

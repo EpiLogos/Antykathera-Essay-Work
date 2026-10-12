@@ -33,7 +33,7 @@ class PublicationArchitectureTests(unittest.TestCase):
         },
         "mytheme": {"worlds", "archetypal-ground", "atlas", "myth", "narrative", "poetry", "media", "art", "music", "plates"},
         "episteme": {
-            "arguments", "conjugate", "atlas", "aphorisms",
+            "atlas", "aphorisms",
             "sources",
             "histories",
             "etymologies",
@@ -41,9 +41,6 @@ class PublicationArchitectureTests(unittest.TestCase):
             "maps",
             "dossiers",
             "figures",
-            "concepts",
-            "dialogues",
-            "products",
         },
     }
 
@@ -113,9 +110,10 @@ class PublicationArchitectureTests(unittest.TestCase):
         self.assertIn("Phase W — isolated model writing branches", body)
         self.assertIn("Phase S — comparison, selection, and integration", body)
         self.assertIn("no `symbolon/relations/` directory", body)
-        self.assertIn("Keep closed:", body)
-        self.assertIn("authentic-voice-reference.md", body)
-        self.assertIn("comparative and negation gate", body)
+        # PROSE-STANDARD.md replaced the retired writing-guidance laws (2026-10-01).
+        self.assertIn("## 10. Prose standard", body)
+        self.assertIn("PROSE-STANDARD.md", body)
+        self.assertNotIn("authentic-voice-reference.md", body)
         self.assertIn("Frank's writings, poems, and first-person material", body)
         self.assertIn("Diagrams, plates, figures, and media", body)
 
@@ -169,6 +167,8 @@ class PublicationArchitectureTests(unittest.TestCase):
         for path in SYMBOLON.rglob("*.md"):
             if "reference-notes" in path.parts or path.name == "AUTHORIAL-TEXT.md":
                 continue  # quilt-pending working shelf, not vault content
+            if path.name.endswith("-NOTES.md"):
+                continue  # protected authorial notes: their links are reader-audit debt, never edited
             for target in WIKILINK.findall(reader.visible_text(path.read_text(encoding="utf-8"))):
                 try:
                     workspace.resolve(target.replace("\\", ""))

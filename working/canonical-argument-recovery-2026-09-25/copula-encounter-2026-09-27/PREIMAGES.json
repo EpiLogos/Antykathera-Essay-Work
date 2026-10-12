@@ -1,0 +1,48 @@
+{
+  "base_commit": "e27cc4b7ba8b61809ce11ed56f3bb5099fba13e9",
+  "purpose": "Complete verbatim pre-repair records. Historical working evidence, not a second canonical home. The .txt extension keeps these out of canonical record indexing.",
+  "files": [
+    {
+      "original_path": "return-of-zero-orienting-principles.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/return-of-zero-orienting-principles.md.txt",
+      "git_blob": "1ecf00280ecd2bc901240be16f51e9f9cc87e96c",
+      "sha256": "e044f31c5f7e11b8fefbb1b3541f072604a87fdc44ee44c6d85a2302d7e60689"
+    },
+    {
+      "original_path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/A02-Copula-Self-Identity-through-Difference.md.txt",
+      "git_blob": "42cfdd7b5e43c5e15ce63728a1b78520af1d9a2d",
+      "sha256": "9d6e2617ac79569aa9c7acdf5450b928a57c543e73888d2effd2f3b24e1d1f9c"
+    },
+    {
+      "original_path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/C06-Copula-Identification-with-Difference.md.txt",
+      "git_blob": "a27abd0a59045383775bfcdfc8ca015b99ffd24f",
+      "sha256": "19542b40f384ed21fee2228b0b990a1893b00bd43e0eeb408fee9475eb8e36d1"
+    },
+    {
+      "original_path": "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/A02-prime-Continuity-as-Maintained-Identification.md.txt",
+      "git_blob": "63344125a739038d8d4b365e207c0f1a142dbb67",
+      "sha256": "965a8720483c98453a9b2cab14b9419873a673e237f03251c5b97c90cf7f785c"
+    },
+    {
+      "original_path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/WHOLE-FIELD.md.txt",
+      "git_blob": "588525c6f9a4d076e18a44d877d65ddd90d6ef60",
+      "sha256": "f8724e0409d43ac1bd36a259794a88116a3ea53d80fedc00ed36ab266c6c0d8a"
+    },
+    {
+      "original_path": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/copula.md.txt",
+      "git_blob": "6b61291f2cf06c0443771d190e4d13110961a687",
+      "sha256": "5fabbb3e15fab966dc9b907b5fdc725471c4dfd39e50eedef1c9b8e73c7a93ee"
+    },
+    {
+      "original_path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "archive_path": "working/canonical-argument-recovery-2026-09-25/copula-encounter-2026-09-27/before/harmonics-and-recount.md.txt",
+      "git_blob": "3567274405c8feccfee852987d11ac901cf5f05f",
+      "sha256": "3563e416d1aee63a1d4cd0a48ae8758c532bfbc534d77f6c2800b7d76813258a"
+    }
+  ]
+}

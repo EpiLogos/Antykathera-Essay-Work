@@ -1,85 +1,43 @@
 ---
 title: "R6 — Return T25's refined whole and prepare the T26/§5 writing base"
 label: wayfinder:task
-status: in_progress
+status: complete
 parent: ../maps/p2-enrichment-handoff.md
 assignee: "T25 R6 truth-strength / authorial-return reviewer — 2026-09-16"
 blocked_by:
   - refine-05-cold-review-and-validation.md
 programme: "T25 / GitHub #26 → T26 / GitHub #27"
 created: 2026-09-10
-updated: 2026-09-16
+updated: 2026-09-17
 claimed_from: "main@748ff29956bcf42df9d08f632d00ccae60a6bc4f"
+completed: 2026-09-17
+ratified_base: "a9588088fb42c1a929568d627bf2339d86c9ee64"
 ---
 
 # R6 — Authorial return and common-base packet
 
-## Intent
+## Result
 
-Give Frank the actual refined whole to ratify and make the next complete writing task unambiguous: §5, self-sufficient and situated within the full essay.
+R6 is complete. The anti-anti-overclaim / claim-strength pass re-read the T25 model-authored refinement for unearned weakening, reversed three R5 demotions that had mistaken register/source caution for a reason to weaken the essay's own claims, preserved five R5 repairs as genuine naming/logical/mathematical/chronological/ownership corrections, and repaired further status/voice leaks across the Indian hinge, Arche-Topos/psychoid relation, §4→§5 transition, §5 product crown, idealism, mono–poly / epistemic sovereignty and terminal Return of Zero / Epi-Logos.
 
-R6 now also carries an explicit **anti-anti-overclaim / claim-strength correction** before the common base is proposed. The refinement has been written partly by models with a recurrent defensive tendency: they can mistake evidential discipline for a duty to weaken the essay, project objections or assumptions that no actual reader or source has supplied, and surround claims with prophylactic negations merely because the claim is strong. R6 must correct that tendency rather than ratify it into the writing base.
+The resulting governing law is explicit: **the essay is allowed to claim what it argues.** Source, proof and implementation boundaries attach to their own offices. `Derived` and `Argued` are positive warrants; `Offered` and `Open` are used only for genuinely unsettled proposals, implementation claims or questions. Mytheme remains truth-bearing in its own register and may prove/disclose through a whole image without substituting for formal mathematical entailment or historical attribution.
 
-## Work
+R6 produced:
 
-### 1. Anti-anti-overclaim pass — before packaging the common base
+- `working/pre-manuscript-refinement-2026-09-10/R6-CLAIM-STRENGTH-LEDGER.md`;
+- `working/pre-manuscript-refinement-2026-09-10/R6-AUTHORIAL-RETURN-PACKET.md`;
+- the symmetric overclaim/underclaim review law in `WRITING-PROTOCOL.md`;
+- the corrected claim-strength / Mytheme lock in `return-of-zero-orienting-principles.md`;
+- strengthened canonical movement/owner bodies and statuses;
+- one bounded refresh of derived reader projections after the philosophical pass had stopped moving;
+- the clean proposed common writing base `a9588088fb42c1a929568d627bf2339d86c9ee64`.
 
-Cold-read the T25 agent-authored and agent-refined surfaces specifically for **unearned weakening**. Scope includes the amended central plan and orientation; A/C's added framing; S/S0–S5; T25-modified A/A′/C owners; all 48 movement bodies; the Genesis / Paradigm / Project / Epi-Logos field; Agentworld/venue-facing returns; and the R3–R5 fold-backs which may have propagated defensive language.
+Frank explicitly ratified that exact base at T26 on 2026-09-17. Ratification is recorded in `working/pre-manuscript-refinement-2026-09-10/T26-AUTHORIAL-RATIFICATION.md` and `R6-COMMON-BASE-PROPOSAL.md` now records the accepted standing.
 
-The asymmetry of this pass is deliberate: **a weakening now needs a warrant.** Do not treat a native claim as suspect merely because it is metaphysically strong, unconventional, not externally consensual, or not itself stated by the historical source through which the essay encounters it. The essay is allowed to argue what it argues.
+The first manuscript wave is released only into its required pre-write contemplation. Immediate writing scope after that minute is **§5 — Objective Internality: World and Life in Six Products**, with sufficient standalone entrance, M37–M42 and a conclusion/seam into M43 / vocation / §5→0.
 
-Keep four offices distinct:
+The parallel Expression corpus remains an expanded presentation endpoint. Markdown remains the canonical written argument; Expression production consumes bounded canonical packets, preserves repeated-family grammar and Whole Mythemes, and may proceed in parallel without mutating essay/source authority.
 
-1. **Native thesis / derivation.** State the essay's own claim directly and at its intended strength. `Derived` and `Argued` are positive claim statuses, not warning labels.
-2. **Historical or textual attribution.** Say only what the source warrants. A boundary on what Abhinavagupta, Kaplan, Jung, Gebser, Levinas, Heidegger, etc. are claimed to have said belongs here.
-3. **Authorial cross-register synthesis.** The essay may make a strong relation of its own between separately sourced materials. Lack of historical identity or transmission does not weaken the authorial philosophical argument; it only prevents misattribution of that argument to the sources.
-4. **Empirical / implementation claim.** Reserve `Offered`, pending implementation, null-result language and operational-evidence requirements for propositions which genuinely depend on an experiment, implementation, deployment or observation not yet completed. Do not export that provisionality into the metaphysical or formal argument that motivates the experiment.
+## Closure
 
-Audit especially for:
-
-- reflexive tails such as “this does not prove…”, “does not establish…”, “cannot by itself…”, “is not evidence for…”, “merely…”, or “remains Open” where no live ambiguity requires the sentence;
-- defensive negatives answering a **phantom reader** — an objection, category error or accusation not generated by the passage, source, venue brief or actual argumentative opponent;
-- repeated caveats after the relevant boundary has already been established once;
-- downgrading an authorial argument because an external source does not itself make that argument;
-- converting a positive metaphysical thesis into methodological neutrality in the name of caution;
-- treating `Argued` as weaker prose than the argument warrants, or treating `Offered` as a general politeness marker rather than a specific proposal/implementation status;
-- overprotecting against category mistakes to the point that the category distinction becomes more prominent than the proposition it was meant to protect;
-- endings and transitions which retreat from an earned claim immediately after making it.
-
-For every defensive qualification ask:
-
-1. **What exact stronger or mistaken claim would the reader otherwise reasonably attribute here?**
-2. **Where does that risk actually come from — the preceding prose, a named source boundary, a real rival view, the venue brief, or an implementation-status distinction?**
-3. **What information would be lost if the qualification were deleted?**
-
-If those questions have no concrete answer, remove or rewrite the qualification. Do not preserve it because it “sounds responsible.”
-
-Conversely, where a real boundary exists, make it cleanly and once. Prefer: **positive claim → actual warrant/derivation → exact boundary that preserves the claim's office.** Do not write the whole passage from the posture of anticipating accusation.
-
-The pass must explicitly distinguish **claim-strength restoration** from indiscriminate inflation. False attribution, transmission claims not in evidence, ordinary mathematical category errors, unrun implementation claims, and the genuinely Open question of artificial phenomenal localisation remain bounded. Those boundaries protect the essay's stronger claims; they are not its governing voice.
-
-Record the pass in a compact ledger:
-
-`location · present weakening/defensive posture · intended positive claim · real boundary if any · action (strengthen / delete caveat / retain boundary / rewrite positively)`
-
-Any R5 “overclaim” repair must be re-read under this rule. Keep it only if the repair corrected a real category or warrant error rather than satisfying a generic model preference for hedging. R5 is not reversed ceremonially; its eight repairs are individually answerable to this stronger criterion.
-
-### 2. Package the refined whole
-
-Package the amended central plan; all-station register-envelope table and tone contracts; complete shared-field read/disposition record; affected Symbolon/Matheme/Mytheme/Episteme coverage; six-product §5 preservation crosswalk; full section-flow review; dia/syn worked-passage review; Indian/Gebser/psychic-fact and Power-thread returns; exact outstanding source/implementation debts; the anti-anti-overclaim ledger and resulting repairs; and executed R5 validation evidence.
-
-Propose one clean common writing commit and record exact packet hashes, guidance/protocol versions and exposed execution parameters under WRITING-PROTOCOL. The common-base proposal must be cut **after** claim-strength correction, so defensive model prose is not silently frozen into the writing experiment. This is a proposed base until Frank ratifies it at T26/#27. Do not identify a dirty tree or this planning commit as the completed common base.
-
-Prepare the full §5 crown/section packet: World/Life and knower–means–known entrance; six product subsections at M37–M42 with their complete lens and technical/source depth; self-sufficient conclusion and §5→0 seam. Preserve one canonical prose body with any standalone rendering derived from it. The full prose of the other seven stations is not a prerequisite; their reviewed architecture and equal depth remain binding.
-
-Return a concise authorial review surface and a minimal next-session writing prompt. Any genuinely new structural decision must be stated separately from already accepted intent, so Frank need not ratify the same decision again.
-
-### 3. Writing-base rule carried into T26
-
-The proposed T26 writing base must carry a concise claim-strength rule into the writing protocol / packet: **do not confuse epistemic hygiene with rhetorical self-erasure.** Source boundaries delimit attribution; proof boundaries delimit formal consequence; implementation boundaries delimit empirical success. None of those licenses weakening a native proposition whose own argument has been made.
-
-A future reviewer may flag an overclaim only by naming the exact stronger proposition allegedly asserted, the passage which asserts it, and the warrant it exceeds. “This sounds strong,” generic caution, imagined developer preference, or an unspecified skeptical reader are not review grounds. Symmetrically, a reviewer may flag an **underclaim** where caveats, status words or defensive negations make the prose say less than the canonical argument.
-
-## Done when
-
-T25 has a concrete refined plan and full evidence-bearing review return **after the anti-anti-overclaim pass has checked the model-authored refinement for defensive weakening**. T26 has an exact common-base proposal and scope whose claim language matches the actual canonical argument rather than a generic hedge preference. The §5 writing packet can launch after Frank's explicit acceptance. No manuscript prose or unapproved public release has been produced by this refinement lane.
+T25 R1–R6 are complete. T26 is complete. The next gate is the §5 pre-write contemplation minute required by `WRITING-PROTOCOL.md`. No manuscript prose has been produced by this refinement lane.

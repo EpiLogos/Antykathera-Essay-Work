@@ -1,0 +1,34 @@
+PASS vercel-1440
+FAIL vercel-1100 focus escaped modal
+FAIL vercel-900 focus escaped modal
+FAIL vercel-390 Locator expected to be visible
+Actual value: hidden 
+Call log:
+  - LocatorAssertions.to_be_visible with timeout 5000ms
+  -   - waiting for locator("#essay-connections").locator(".toc")
+  -     9 × locator resolved to <div class="toc">…</div>
+  -       - unexpected value "hidden"
+
+FAIL vercel-deep-routes-and-search Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_be_visible with timeout 20000ms
+  -   - waiting for locator(".pl")
+
+PASS pages-1440
+FAIL pages-1100 focus escaped modal
+FAIL pages-900 focus escaped modal
+FAIL pages-390 Locator expected to be visible
+Actual value: hidden 
+Call log:
+  - LocatorAssertions.to_be_visible with timeout 5000ms
+  -   - waiting for locator("#essay-connections").locator(".toc")
+  -     8 × locator resolved to <div class="toc">…</div>
+  -       - unexpected value "hidden"
+
+FAIL pages-deep-routes-and-search Locator expected to be visible
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_be_visible with timeout 20000ms
+  -   - waiting for locator(".pl")
+

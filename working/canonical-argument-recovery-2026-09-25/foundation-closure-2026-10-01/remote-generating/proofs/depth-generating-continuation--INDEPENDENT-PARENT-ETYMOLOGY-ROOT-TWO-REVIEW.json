@@ -1,0 +1,165 @@
+{
+  "reviewer": "depth_recovery",
+  "scope": "Complete old/new E5 and E6 source/public cold, final returned adjoining joins accepted at exact hashes; no canonical/Git/heavy writes.",
+  "candidate_records": [
+    {
+      "key": "E6",
+      "native": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E6-before.md.txt",
+      "preimage_sha256": "832de0e3ada0a397f898c2f215eb36045475ddd33cc9bf143a81e935027df7e7",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E6-effects-path-replay.json",
+      "effects_sha256": "b4ef0e363fb7daa8abd9b2525dbcc4023aa195790a998cce1de31a1efc6d8830",
+      "depth": 4,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E6-candidate.md.txt",
+      "candidate_sha256": "bd22197d57d4d26a8f4c54f71321e4fcc42911bc9c90d47fd039be7a08cbc9b1"
+    },
+    {
+      "key": "E5",
+      "native": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E5-before.md.txt",
+      "preimage_sha256": "6147665e44cc51fbd28d98c5e9d6d3eb4f8587e9d95c28e1369f55a5224dc873",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E5-effects-path-replay.json",
+      "effects_sha256": "8e0c81de7a6b5e187a8155380b41451d8b631d49591e351afde2ce5d186cbdcd",
+      "depth": 4,
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-etymology-root-return/E5-candidate.md.txt",
+      "candidate_sha256": "3b531e82cb7c67280ec5a41e343e91c5d9ac55b2d3c8b90de5e9677b293e8124"
+    }
+  ],
+  "actual_body_reads": {
+    "E5": "Entire30541-char175-line preimage in0–13000/13000–26000/26000–end; entire initial30757-char new in same spans. Entire10471212 final read0–11500/11500–23000/23000–end separately untruncated. Final3b531e82 differs from completely read10471212 by one fullparagraph163; exact whole delta and full adjoining159–175 re-read.",
+    "E6": "Entire22707-char140-line preimage in0–12000/12000–end. Initial23219-char new read in two spans, second already contained parent liability return; exact mixed-version limit retained. Entire96e31d81 final23504-char140-line carrier re-read0–12000/12000–end separately untruncated. Finalbd22197d differs from completely read96e31d81 by one fullparagraph101; exact whole delta and full adjoining93–111 re-read."
+  },
+  "source_readings": [
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "actual_read_scope": "Fresh whole124 lines/24234 chars in contiguous0–13000/13000–end; initial combined tail clipping explicitly replaced by separate full tail. Raw authorial Dia phrasing preserved; later authorial minute governs current consumers."
+    },
+    {
+      "path": "submission-package/epi-logos/resources/units/unit-social-power.md",
+      "sha256": "b9cb631dc9c30bcea7eb34388c15078798aef220f09830b08e256ccf557b854f",
+      "actual_read_scope": "Fresh whole201 lines/41974chars in contiguous0–14000/14000–28000/28000–end; six coequal healthy/pathological powers and costs/authority actually read. Source assertions remain attributed, not new causal/clinical verification."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "sha256": "ba7b16ed0a51c4c91957336ff784cecf98153805281d5d6848b1b0d2450bcc78",
+      "actual_read_scope": "Fresh entire4666chars: situated care, encompassing Rotundum/UnitaryBeing and a-contextual ground, absent-Father surrogate/ruler sequence."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "actual_read_scope": "Fresh complete selected opening27–33 (long29 independently reopened), performed137–175 (137–158/159–175), terminal251–279 (separate complete reopening repairs any initial combined clipping). Prior genuine whole279-line source basis retained; not a fresh whole historical-source verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "sha256": "324b08e5524c608de5ee3e50dd6bd42f8676c04cd8bfe1876086b745f270cbf9",
+      "actual_read_scope": "Fresh complete source house, both entire q001/q002: affected participation, recognised local rules/nested governance, contextual anti-rigid-transplantation scope. Existing quotation/edition status unchanged, no newly performed whole lecture PDF collation."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_read_scope": "Prior actual entire640-line authorial theorem; fresh I1–115/III190–238/IX463–511 in immediately preceding seven-Matheme cold operation. Eightfold, relative knower/means/known/whole, Name/Power and actual mathematical offices retained."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_read_scope": "Fresh complete102-line minute in immediately preceding cold operation; native knower/means/known and signed polarity/cancellation/directed appropriation/retained-break recognition govern without rewriting raw originals."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "sha256": "87f078616434ce341efbddd6092230b73d2ea85ba56f7ffb726ff2ee4085848a",
+      "actual_read_scope": "Prior actual whole protected history and LSJ/Ross/Owen/Flasch selected source houses in E5 historical source recovery; not freshly re-read whole external books here."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+      "sha256": "809bf31e27568783b85126b3c296ff10fdf569a2974554766e404fc3aed34884",
+      "actual_read_scope": "Prior actual whole66-line protected history and separately attributed lexical/historical branches in E6 historical source recovery; no new lexical descent claim."
+    }
+  ],
+  "source_findings": "No exact lost step, false stronger entailment or remaining semantic public-duty substitute found in the recovered complete operations within the listed native/selected-source scope.",
+  "findings": [
+    {
+      "key": "E6",
+      "scope": "Six inherited taxonomy/register/status/record duties in #0/#1/#3",
+      "resolution": "Actual lexical descent/attested-use versus performed allocation, contraction capacity, distinct five operations/four consequences/six centres and source-specific legal liabilities positively recovered; all full adjacent paragraphs replayed in complete96e31d81 final."
+    },
+    {
+      "key": "E6",
+      "line": 101,
+      "resolution": "Affected participants’ rule-making, recognised local rights/nested governance are actual conditions of the proposed commons; contextual transplantation and unperformed implementation retained. Finalbd22197d full adjacent93–111 re-read against entire q001/q002."
+    },
+    {
+      "key": "E5",
+      "line": 163,
+      "resolution": "The achieved dyad retains two members through sixfold answerability; distinct growth formulae remain exact. Final3b531e82 full adjacent159–175 re-read."
+    }
+  ],
+  "retention_exceptions": [
+    {
+      "key": "E5",
+      "line": 55,
+      "removed": "“The just person insofar as just”",
+      "reason": "An illustrative fragment becomes the complete positive aspect-qualified identity actually asserted at Draft3 opening29; not removal of an external quotation. Historical Eckhart attribution remains separately scoped."
+    },
+    {
+      "key": "E6",
+      "line": 125,
+      "changed_fence_line": [
+        "wider field revised",
+        "wider field receives warranted correction or retention"
+      ],
+      "reason": "Intentional return operation correction preserves a fitting condition with reasons instead of universally requiring change; all other circuit lines preserved."
+    }
+  ],
+  "limits": [
+    "No whole external book, new quotation or critical-print collation, causal/clinical/empirical outcome, deployed implementation or human ratification acceptance.",
+    "No complete semantic acceptance of every effect-depth-four consumer inferred; graph traversal is only impact.",
+    "All48 movement bodies and sovereign manuscript remain deferred/protected; links are retained receiving routes, not newly composed/accepted movement bodies.",
+    "Frozen38 inputs untouched."
+  ],
+  "status": "independently accepted within exact complete source/public operation scope",
+  "pending_snapshot": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-ETYMOLOGY-ROOT-TWO-REVIEW-PENDING.json",
+    "sha256": "64c1e81d732c909833ba550843e2fdc4b63e47a8bedf516cd7a605f35542ba35"
+  },
+  "exact_per_file_audit": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-ETYMOLOGY-ROOT-TWO-EXACT-AUDIT.json",
+    "sha256": "c3011a13bd2c7b4bbc015f4c4ab2afd6892a0162f9e6f04559b340b80aa5e393",
+    "hard_errors": 0,
+    "individually_qualified_reviews": 16
+  },
+  "retention_checks": [
+    {
+      "key": "E6",
+      "preimage_sha256": "832de0e3ada0a397f898c2f215eb36045475ddd33cc9bf143a81e935027df7e7",
+      "candidate_sha256": "bd22197d57d4d26a8f4c54f71321e4fcc42911bc9c90d47fd039be7a08cbc9b1",
+      "native_still_preimage": true,
+      "metadata_exact": true,
+      "headings_exact": true,
+      "inline_and_display_math_exact": true,
+      "all_link_targets_multiset_exact": true,
+      "link_count": 48,
+      "missing_file_targets": [],
+      "hard_errors": 0,
+      "review_findings": 9
+    },
+    {
+      "key": "E5",
+      "preimage_sha256": "6147665e44cc51fbd28d98c5e9d6d3eb4f8587e9d95c28e1369f55a5224dc873",
+      "candidate_sha256": "3b531e82cb7c67280ec5a41e343e91c5d9ac55b2d3c8b90de5e9677b293e8124",
+      "native_still_preimage": true,
+      "metadata_exact": true,
+      "headings_exact": true,
+      "inline_and_display_math_exact": true,
+      "all_link_targets_multiset_exact": true,
+      "link_count": 62,
+      "missing_file_targets": [],
+      "hard_errors": 0,
+      "review_findings": 7
+    }
+  ],
+  "complete_preserved_operations": {
+    "E5": "Two members/six offices; complete native8/folds/inverses/personed3:3/3:1; source-distinct copula/Dia/Syn/number/idealism/qualifiedJustice identity; exact spatial/music return and each received whole; localBimba source dependence; dyad growth formula distinction; fitting retention or warranted depth preserves subsequent comparison.",
+    "E6": "All five capacity/measure/labour/commons/planetary operations, full6NamePower coequal series, four act consequences and six responsibility centres; tattvic finite office, situated criterion, commissioner/performer/beneficiary/cost, contingent surety/release, actual permissions/refusal/localBimba, Ostrom conditions/planetary costs, full offering and inherited correction-or-retention circuit."
+  }
+}

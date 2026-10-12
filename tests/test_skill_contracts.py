@@ -46,8 +46,8 @@ class DevelopmentSkillContractTests(unittest.TestCase):
     def test_source_skill_uses_one_house_and_protects_author_notes(self):
         text = self.skill("return-of-zero-source")
         for required in (
-            "sources/<primary_domain>/<author>/<source_id>/SOURCE.md",
-            "NOTES.md",
+            "sources/<primary_domain>/<author>/<source_id>/<source_id>.md",
+            "-NOTES.md",
             "never create, edit, append, normalise, migrate, relocate, index as canonical evidence, or delete it",
             "stable passage ID",
             "quotation readiness",
@@ -63,12 +63,12 @@ class DevelopmentSkillContractTests(unittest.TestCase):
         for required in (
             "may remain in chat",
             "submission-package/essay/THE-RETURN-OF-ZERO.md",
-            "ROOM.md",
-            "READING.md",
+            "ROOM-<room-slug>.md",
+            "READING-<room-slug>.md",
             "SCRATCH.md",
             "VISUALS.md",
-            "writing-guidance-tools/README.md",
-            "WRITING-RUBRIC.md",
+            "PROSE-STANDARD.md",
+            "withheld affirmation",
             "fresh-eyes",
             "ship-note",
             "do not soften",
@@ -84,8 +84,8 @@ class DevelopmentSkillContractTests(unittest.TestCase):
             "build-source-projections.py",
             "build-section-rooms.py",
             "doctor --json",
-            "NOTES.md",
-            "generated `ROOM.md`",
+            "-NOTES.md",
+            "generated `ROOM-<room-slug>.md`",
         ):
             self.assertIn(required, text)
 

@@ -1,0 +1,149 @@
+{
+  "reviewer": "depth_recovery",
+  "status": "Accepted complete seven nativeproduct operations, six changed and S2 retainedexact; parent inclusion/nativechecks/publication separate.",
+  "manifest_snapshot": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/CANDIDATES.json",
+    "sha256": "373e37aa0fdc956fe82593249d9ac4a9a66d2e6c30279007b0bead49f391bf55"
+  },
+  "records": [
+    {
+      "id": "S",
+      "native": "submission-package/essay/symbolon/episteme/products/S-World-and-Life.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S-World-and-Life-before.md.txt",
+      "preimage_sha256": "942f7dbb09ce145915c9f3b6ab320920348ad393b12ef877151646872921f1e7",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S-World-and-Life-candidate.md.txt",
+      "candidate_sha256": "bde0c0dff46fc44cf5f113a3dd89120d8ed1be4f37abd5820831d3cfd4e84c44",
+      "changed": true,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S-World-and-Life-effects-before.json",
+      "effects_sha256": "89912cc909bda707ced9c1f90063d0f1a43c894e82cb1eb047ba951f3f3c7e4d",
+      "depth": 4
+    },
+    {
+      "id": "S0",
+      "native": "submission-package/essay/symbolon/episteme/products/S0-Central.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S0-Central-before.md.txt",
+      "preimage_sha256": "726ecd5f4c5273b50e607c82b45e7a074cd155a0c3fe5848b9e4bccfc5c74ef7",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S0-Central-candidate.md.txt",
+      "candidate_sha256": "a26b4051180e6d0c41e3431518cfe465431d97a410e52b7ec1243fb230867d25",
+      "changed": true,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S0-Central-effects-before.json",
+      "effects_sha256": "cfb91aaba0acc4c5c3394b87131c10cbda9291528e51a89d532b2e9077472575",
+      "depth": 4
+    },
+    {
+      "id": "S1",
+      "native": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S1-Actuation-before.md.txt",
+      "preimage_sha256": "dcb19e2f95ff92a1416b5ee1c02782ed5d239f70953f7a74a80164eee885c5a0",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S1-Actuation-candidate.md.txt",
+      "candidate_sha256": "6ce78e08e8d27c13a08199f7cebfb6626b826fbcff1f045fff1820c3da1e07e7",
+      "changed": true,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S1-Actuation-effects-before.json",
+      "effects_sha256": "d9b4b74e09d373b91d7e5709ed164ed652e9854d1f4b31b6cb539af9af6a0936",
+      "depth": 4
+    },
+    {
+      "id": "S2",
+      "native": "submission-package/essay/symbolon/episteme/products/S2-AIKit.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S2-AIKit-before.md.txt",
+      "preimage_sha256": "d7f350824d89a50c825ea51ac90cd0f0eb0057195224180e154ac376d8cbda40",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S2-AIKit-candidate.md.txt",
+      "candidate_sha256": "d7f350824d89a50c825ea51ac90cd0f0eb0057195224180e154ac376d8cbda40",
+      "changed": false,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S2-AIKit-effects-before.json",
+      "effects_sha256": "1f317f7ec03425a47641bdf81b30922cb51fd4473b40b962c13adf52fa440eac",
+      "depth": 4
+    },
+    {
+      "id": "S3",
+      "native": "submission-package/essay/symbolon/episteme/products/S3-Software-Factory.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S3-Software-Factory-before.md.txt",
+      "preimage_sha256": "e039d807d8a766f13c2be8c91030fd64089a64caf0a012fab339d8cd20784183",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S3-Software-Factory-candidate.md.txt",
+      "candidate_sha256": "0eaaabc6a099c3117696749f0a3f112a710b5656c56f1a12cc0e82ccae0a8eae",
+      "changed": true,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S3-Software-Factory-effects-before.json",
+      "effects_sha256": "815d952c26af0e839cc75cdbeda3f6324a870b2cf6d16b233f950a2c17854734",
+      "depth": 4
+    },
+    {
+      "id": "S4",
+      "native": "submission-package/essay/symbolon/episteme/products/S4-Workcell.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S4-Workcell-before.md.txt",
+      "preimage_sha256": "5fbeb505243d8d989ccf23316f3124397337bcb3464ad4ed52720d5adc618904",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S4-Workcell-candidate.md.txt",
+      "candidate_sha256": "43c2b719a188dd82777948eb93ce1dd06c2ca3a14b8e6ee0758f97f81aa9a1ce",
+      "changed": true,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S4-Workcell-effects-before.json",
+      "effects_sha256": "60d00c83c3f913991460c912490b0cfbc6527a60553fc22e3393cfd618e192e3",
+      "depth": 4
+    },
+    {
+      "id": "S5",
+      "native": "submission-package/essay/symbolon/episteme/products/S5-Quaternal-Logic.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S5-Quaternal-Logic-before.md.txt",
+      "preimage_sha256": "61ccdac27fdde6c2866a594f45245a73dcbfafee808cab541b7e53bc56fcef3a",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S5-Quaternal-Logic-candidate.md.txt",
+      "candidate_sha256": "150cc772e2cb1417380f5637656664022f8207f545cd79549dfbb82176148dbd",
+      "changed": true,
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S5-Quaternal-Logic-effects-before.json",
+      "effects_sha256": "673db67125231438692234ba7cb6a43fa2726bc6aa516cb6e9588280968caf17",
+      "depth": 4
+    }
+  ],
+  "own_actual_complete_carrier_reads": {
+    "method": "Whole unique old/new operation comparison: everyinitialfinal body read from first metadata to finalsentence; all changedold units separately read in complete11916char OLD-CHANGED-UNITS.txt. Thus byte-identicaltext readonce and each changedold/new unit readseparately. This is not a claim of displaying everypreimage separatelyagain.",
+    "S": "Entireinitialfinal116lines/16914chars untruncated.",
+    "S0": "Entireinitialfinal80lines/9371chars untruncated.",
+    "S1": "Entireinitialfinal f1c9157b232lines/37214chars in contiguous0–11k/11–22k/22–33k/33–end; exact f1→6ce78e sole fullparagraph diff checked and complete171–187 adjoiningcontext reread.",
+    "S2": "Entire85lines/10349chars readonce; old/newexactd7f35082.",
+    "S3": "Entire93lines/12369chars untruncated.",
+    "S4": "Entire83lines/9216chars untruncated.",
+    "S5": "Entire93lines/9060chars untruncated.",
+    "oldchanged": "All initial23 completechangedold units11916chars readuntruncated; S1 newlyreturnedoldpair also read in fullf1final and exactdiff.",
+    "initial_clipping": "No carrier outputs clipped. CombinedsourceXI/Homer clipping was explicitly repaired as recorded in SOURCE-READINGS."
+  },
+  "source_readings": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/SOURCE-READINGS.json",
+    "sha256": "e3913743a4889aac71891a8713b7f2c34ecd1e2acc9e69efd64b097de0506d34"
+  },
+  "exact_operations_disposition": {
+    "S": "CompleteLife/means/Worldwhole and6offices/paradigm preserved; recognition/obverse/six/eight/dia-syn distinct, Indian chronologyandGebserpsychicfacts bounded, affectedOther/source and earnedreflexivitypositive.",
+    "S0": "Meaningfulcarriedground andbothcomplete6lenses survive; structuredlocalBimba genuinelysource in frame and dependent toward widerWorld, correctionor fittingretention inheritedby nextact.",
+    "S1": "Completecausal/scientificpairs, inspectable mathtransformation, semanticexclusion/softmax/selectedindex, Jspace/preference andfullsixrelationalLogos survive. Integratedlocaljudginglocus relativeknower/modelpromptmemorytoolspermissionsmeans/knownfield, wholeapparatusmeans in person and immediatecondition remain distinct. Initiatedthirdmirror opens producingconditions beforeconformity; properdepth/retention separate actualchangedprocessing proof.",
+    "S2": "CompleteLogical andChronologicalpairs retain genuine sameconditioncontradiction vs plurality, six modalrelations, refused/dormant potency andreturnedfitness; retainedunchanged wholeoperation accepted.",
+    "S3": "CompleteProcessual+Alchemicalpairs/intentionactualityinheritedresult/GatevsRecognition/costauthority andwarranteddepth preserved; conditionalpledge/release notlaterpayment.",
+    "S4": "CompletePhenomenological+Phenomenalpairs and psychologicalreceiving/judging/attitudes preserved; technicalaperture genuinelysituated but logs donotestablishpsychologicalfunctions; psychicfactspositivelyreceived, actualboundary/permission/materialresistance becomes returnedmeaning.",
+    "S5": "CompleteParaVak+ArchetypalNumericalpairs/native4+2/fullDia centringcancellationappropriation/breakretentionrecognition/ANDOR/co-internality preserved; no historicalcommunicationsstack or masterframeclosure."
+  },
+  "independent_finding": {
+    "at_reviewed_S1": "f1c9157bc51b2355c08a7396b7433893b3c831e955765772f0b9f0afb634e1fe",
+    "fault": "LinkedMonoPoly/Trust argument pages ask questions instead of actualshareddependence and riskedreliance operating.",
+    "final_S1": "6ce78e08e8d27c13a08199f7cebfb6626b826fbcff1f045fff1820c3da1e07e7",
+    "returned_relation": "Eachcontribution retains dependentconditions while metricdoesnotpossesswhole; acknowledgeddependence/possiblewithdrawal makesactualtrust riskable.",
+    "final_replay": "Solefullparagraph diff and completeadjoining171–187 read; accepted source/public operation, allotherbytesunchanged."
+  },
+  "surety_source_disposition": "Homerfullselectedsong prioractualreading plus freshwholehouseq008 support contingentAres-defaultundertaking, Hephaestusacceptance, release/departures and unnarratedlaterpayment. Phillipslegalprocedure remains attributedprovisional, not universalGreeklawfromHomer. QCTp17wording/printpending unchanged. ThreeabridgedASCIIHomerquotes replaced by source-matchedcompleteparaphrase, exactpreimage preserved; no source/readiness promotion.",
+  "exact_retention": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/EXACT-RETENTION.json",
+    "sha256": "6ba730b651a77c927d7071e63686d67b91e04dcc004ade47e0f947c9a13ff919"
+  },
+  "unchanged_audit": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/UNCHANGED-AUDIT-RAW.json",
+    "sha256": "2ca98218aa6e7051fc6704061c1efc8c4de9d7bc3f6e26858fd376a19459c7e5",
+    "hard_errors": 0,
+    "review_count": 85
+  },
+  "individual_qualifications": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+    "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c",
+    "every_finding_disposed": true
+  },
+  "conclusion": "No exact loststep/false stronger source consequence or residual page-dutyactor found at the recoveredcompleteoperations after finalS1return. The source-specific qualifiers and actual strongerchangedprocessing conditions remain; nativephilosophicalstrength is not demoted by unperformedresearch.",
+  "limits": [
+    "No graph/census/equality-based wholeconsumer or externalhistory acceptance.",
+    "No runtimeperformance/executedexperiment/deployment/newprimarybook/criticalprint/quote/clinical/physicalresult inferred.",
+    "All48movements/sovereignmanuscript/raw/NOTES/HISTORY/poetry/tools/tests/Git/canonical remain untouched by review.",
+    "Frozen38/depthsourcecandidate/acceptedrootinputs keptseparate; parent integration owns currentmainandprotectedcomparisons."
+  ]
+}

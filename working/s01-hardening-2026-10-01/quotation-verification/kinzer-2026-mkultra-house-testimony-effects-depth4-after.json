@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "kinzer-2026-mkultra-house-testimony",
+    "title": "Testimony to the Task Force on the Declassification of Federal Secrets",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/kinzer/kinzer-2026-mkultra-house-testimony/kinzer-2026-mkultra-house-testimony.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Testimony to the Task Force on the Declassification of Federal Secrets",
+      "Citation and consulted object",
+      "Passages and excerpts",
+      "kinzer-2026-mkultra-house-testimony-p001 — Current §0/1 support"
+    ],
+    "sha256": "57816840b7eecf0272f709e0ea4ae631947ef2909482e50af11d8fd74dbff6a5",
+    "record_type": "document",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

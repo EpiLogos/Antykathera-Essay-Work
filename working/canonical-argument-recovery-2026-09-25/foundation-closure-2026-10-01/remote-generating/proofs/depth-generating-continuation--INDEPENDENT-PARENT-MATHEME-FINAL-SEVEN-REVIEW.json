@@ -1,0 +1,474 @@
+{
+  "reviewer": "/root/depth_recovery",
+  "date": "2026-10-02",
+  "status": "all seven exact complete native operations independently accepted; canonical inclusion and full gates remain parent-owned",
+  "parent_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/CANDIDATES.json",
+  "parent_manifest_sha256": "560aad71be7ae66af6bfa8c8cff281397dd5ba73758e72111812e1ec6dfe2b14",
+  "fresh_source_units": [
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/ql-musical-derivation-v3.md",
+      "sha256": "61508658f871f232f554127052d683ecded15c28694cc79a110bcf7841492699",
+      "actual_read_scope": "Fresh complete selected units: 665–728 (all Readings1–4); 1248–1276 (8+4/cymatics); 1569–1775 (whole II-5.1–5.11 and subsection boundaries); 1906–1943 (complete pairing/anchor tables). This is the source-house declared local copy, not the shorter resources/canon projection initially tried."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "actual_read_scope": "Fresh complete selected I1–115, III190–238 and IX463–511; prior actual entire640-line authorial theorem read retained, not claimed freshly repeated here."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f",
+      "actual_read_scope": "Fresh complete copula and harmonic recount165–239; earlier entire499-line source read retained within its actual prior scope."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+      "sha256": "0c913c987b2cb0e1a8993619da03a950e2e6d3fd213e031f684e6c8cb04df868",
+      "actual_read_scope": "Fresh entire current source house and all three release-specific cards; no new official-site or runtime collation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/cymatics-standing-waves.md",
+      "sha256": "fcbd265c6009324cd4ae7f3bda21f6c9d563323eb4533c9358db0b526b456e0f",
+      "actual_read_scope": "Fresh entire legacy note; its primary experimental citation debt remains explicit."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "sha256": "84a93eb9b677490903b470d098c906132a14e43a4dbf9e6fb0366abfd32aedaf",
+      "actual_read_scope": "Fresh entire source house and both compatibility/inference-versus-learning cards; no new entire59-page prepublication read."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "sha256": "8e4d1234a10b1d88f1f974453ee6b2d2a1bb264a66facd58e518002e6ffb8524",
+      "actual_read_scope": "Fresh entire source house and all three tuning/comma/temperament cards; no new whole external article/PDF collation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "sha256": "620c605edde3358e40e266fa6d2a19df897806163d88ed8e6217f80e9c9fd1e8",
+      "actual_read_scope": "Fresh entire current house65lines; earlier actual complete FileOne499/FileTwo389/FileThree569/FileFour348 reads remain prior source bases, not a new entire corpus read in this review."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "actual_read_scope": "Fresh entire102-line minute, including governing knower/means/known/whole, settled product direction and Dia/Syn correction."
+    },
+    {
+      "path": "docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md",
+      "sha256": "7a354829498ef3699d6bf9d6a9070463844739f65333bfe715c12f51a61b7324",
+      "actual_read_scope": "Earlier entire protocol actually read; AI-consciousness/native-subject rule87–108 freshly reentered for this review."
+    }
+  ],
+  "rows": [
+    {
+      "key": "arche-topos-musical-resolution",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/arche-topos-musical-resolution.md.txt",
+      "preimage_sha256": "7fed0b46d19a2babd0bce566f3042094af91b7eb18be653fb59e73d2581039fc",
+      "effect_id": "matheme-arche-topos-musical-resolution",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+      "candidate_sha256": "4e359c236abf01b9a383173786c9cd942780ae5dcac1cd2146d0e45b7b92ce3b",
+      "disposition": "Complete whole operation retained; finite confirmed public joins repaired",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Whole ratio chain and 288/384/432/576 construction; primary personed 3:3/3:1; two finite substrate maps and complete Name/Power table; same-position and reversed-position involutions with exact directed arrays; diatonic/parallel/transposed modes and 84/144 counted-object distinctions; pure versus tempered comma; octave circle versus torus winding; inverse phase and operational versus telic return all retained.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-EFFECTS4.json",
+      "effects_sha256": "270ac162cc1197d18c0888d973922d843edd6d1f8497871dafb07f468863f0b6",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+          "line": 47,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Each position bears both contents. Selecting a face articulates one direction through their relation; it does not allocate two unrelated substances. This is the authored musical enactment of Name and Power, whose phenomenological significance belongs to the native interpretation.",
+          "disposition": "retain at named specific scope",
+          "reason": "One position has complementary Name and Power contents. Separate face selection is not a derivation of two independent substances; removing this distinction would change the native relation being enacted."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+          "line": 49,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Chromatic Name and Power give the even and odd whole-tone sets, `WT₀={0,2,4,6,8,10}` and `WT₁={1,3,5,7,9,11}`. Stepping by 2 has two six-element orbits. Stepping by 7 has one twelve-element orbit because 7 and 12 are coprime. These finite maps specify class addresses. Their twelve-position closure does not assert that twelve pure `3/2` fifths close at seven octaves.",
+          "disposition": "retain at named specific scope",
+          "reason": "Closure of pitch classes modulo twelve differs from closure of twelve untempered pure fifths. The exact Pythagorean comma survives and rules out the stronger unadjusted tuning identity."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+          "line": 70,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The twelve-position architecture has eight inner addresses at `k=1,…,4` and four outer addresses at `k=0,5`. C major selects five inner tones D, E, F, G, A and two outer tones C, B. It therefore draws seven from the full twelve, not seven from the inner eight. The unselected classes are C♯, D♯, F♯, G♯, A♯. Architectural anchors remain playable positions; their title alone does not make them physical nodes of a vibrating material.",
+          "disposition": "retain at named specific scope",
+          "reason": "The stated major collection has five inner and two outer addresses. Calling architectural anchors physical vibration nodes would require the medium and governing equation absent from that map."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+          "line": 74,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Parallel C minor changes the collection instead: E→E♭, A→A♭, B→B♭. In particular E→E♭ moves `(2,0)` to `(1,1)`; it is not a same-position flip. Modal re-grounding, parallel-mode alteration and transposition must each retain their actual map. Likewise a C–D–E–F–G upper cluster is not Cmaj9, whose class content is C–E–G–B–D. [The musical field](../music/field.md) distinguishes the 84 modal configurations from the 144 cluster/bass pairs and proves their precise correspondence where the bass belongs",
+          "disposition": "retain at named specific scope",
+          "reason": "A parallel collection change is not the same-position face flip. The five-note upper cluster and Cmaj9 have different exact note sets; 84 modal configurations and 144 cluster/bass pairs count different objects."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+          "line": 84,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "For continuous positive frequency, `u=log₂(f/f₀)` records height. Octave identification sends it to `u mod 1`; the 288→576 Hz example moves from 0 to 1 and returns to the same class. The covering coordinate retains the octave travelled. [Toroidal circulation](../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) retains another return, with two independent winding integers on a torus. Pitch's octave circle has one such coordinate. The two whole-tone orbits, two conjugate face",
+          "disposition": "retain at named specific scope",
+          "reason": "The pitch-class circle has one winding coordinate, whereas the torus has two independent winding integers. Two whole-tone orbits and two conjugate faces are different finite relations, not interchangeable generators."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/arche-topos-musical-resolution-candidate.md.txt",
+          "line": 98,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Here the primes carry File Two's inverse phase. File Three's Night-pass primes, the instrument's conjugate position labels and an octave-height mark retain their separately declared meanings. The standing `0/1 + 1/0 = 1/1 ≡ 100%` expresses the two directed readings held as one relation; it is not ordinary arithmetic with division by zero.",
+          "disposition": "retain at named specific scope",
+          "reason": "The native directed 1/0 recognition is not real division by zero. Process inverse-phase, Quilt Night-pass, conjugate position and octave-height prime offices remain separately declared."
+        }
+      ]
+    },
+    {
+      "key": "tetraktys-triangle",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/tetraktys-triangle.md.txt",
+      "preimage_sha256": "32a0d3a26386446a4bc2a06f2a67e0247f3c8e71bf9c81ad81c376f133373362",
+      "effect_id": "matheme-tetraktys-triangle",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/tetraktys-triangle-candidate.md.txt",
+      "candidate_sha256": "005a4455b257d8425af609d765bd4d7c1bdd7b96261ed354d688b0bcfe2a7045",
+      "disposition": "Complete whole operation retained; finite confirmed public joins repaired",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Triangular finite sum and Euclidean 3-4-5 area/perimeter; squared versus prime representation; recovered native contextual 3+1 plus prime 4+2 structural ten; separate four-plus-six factor-occurrence count; asymmetric 4/2 flip versus stable ternary denominator; all counts retain their measuring objects.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/tetraktys-triangle-EFFECTS4.json",
+      "effects_sha256": "9c14d0f1432bcd567d73295229561ec3e037fd7a579fcd601110278a6a2a8d19",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/tetraktys-triangle-candidate.md.txt",
+          "line": 43,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The numerator satisfies `4²=2⁴=16`. The denominator does not share the same flip: `3²=9` while `2³=8`. The musical source therefore holds 3 as an anchor while the 4/2 representation changes. Its native 4:2 and 3:3 readings use this asymmetry; replacing it with a symmetric slogan would remove the actual relation.",
+          "disposition": "retain at named specific scope",
+          "reason": "Numerator base/exponent exchange preserves 16, but denominator exchange changes 9 to 8. This specific asymmetric anchor is needed by the native comparison."
+        }
+      ]
+    },
+    {
+      "key": "cymatics-standing-waves",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/cymatics-standing-waves.md.txt",
+      "preimage_sha256": "18844ff980c111bc0cf8f589e8c343edb944b2012b4ca6f10a22ecd36acda8da",
+      "effect_id": "matheme-cymatics-standing-waves",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/cymatics-standing-waves-candidate.md.txt",
+      "candidate_sha256": "30790d461c0759289a5ac19d2e816c63e168ad7f6a5314c9bea976df7152d1b2",
+      "disposition": "Complete whole operation retained; finite confirmed public joins repaired",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Ideal uniform fixed string with L and c positive, nonzero real amplitude and positive wavenumber; two travelling components, separated standing wave, equal derivative factors, fixed-end integer mode and natural frequency; n=3 exact nodes/antinodes; free versus driven/damped systems, plate/particle observables, proposed 8+4 map and discriminating physical return all retained.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/cymatics-standing-waves-EFFECTS4.json",
+      "effects_sha256": "0a55f46cd00ea449e93a0cfe7d549e490b01f7ffbdd995195bb860c4d228e0c7",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/cymatics-standing-waves-candidate.md.txt",
+          "line": 30,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "For `n=3`, nodes lie at `x=0,L/3,2L/3,L`: four nodes including endpoints, three antinodes between them. This actual count follows from the mode and boundary conditions. It does not yield eight antinodes merely because another symbolic architecture has 8+4 positions.",
+          "disposition": "retain at named specific scope",
+          "reason": "The fixed string mode n=3 has four permanent spatial nodes including its endpoints and three antinodes. Eight antinodes cannot be inferred from a separate 8+4 symbolic assignment."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/cymatics-standing-waves-candidate.md.txt",
+          "line": 36,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Visible particle arrangements in a physical cymatic experiment are further observables. Their formation cannot be inferred solely from the one-dimensional sine identity. An experimental record must identify the actual apparatus and pattern rather than label any attractive figure a measured eigenmode.",
+          "disposition": "retain at named specific scope",
+          "reason": "The one-dimensional string sine solution does not predict particle accumulation in a plate experiment. The further medium, forcing, damping and observed pattern remain actual physical premises."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/cymatics-standing-waves-candidate.md.txt",
+          "line": 48,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "[Musical and spatial resolution](../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) keeps the visible pattern answerable to its medium, mode and forcing. [Music’s observer and instrument](../music/observer-instrument.md) lets the measured response return to the specified arrangement rather than taking the intended picture as its own confirmation. The physical source debt is specific to the experimental claims; it does not weaken the worked wave-equa",
+          "disposition": "retain at named specific scope",
+          "reason": "The actual measured pattern must return through medium, mode and forcing. Its experimental evidence is distinct from the derived wave equation and the proposed architectural correspondence; the latter are not presented as measured confirmation."
+        }
+      ]
+    },
+    {
+      "key": "j-space",
+      "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/j-space.md.txt",
+      "preimage_sha256": "b6fe5e0cd29142b89af18c52050e9095800d1f0a15014f81379b6ae82407711a",
+      "effect_id": "matheme-j-space",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-candidate.md.txt",
+      "candidate_sha256": "d82c2914fcfc240c0be23bdaabcaa3c7607a388e29a28c7f8e087195ede80881",
+      "disposition": "Complete whole operation retained; finite confirmed public joins repaired",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Specified finite B/lens/representation/state field; metric object and permission-induced reachability example; common-document trajectory and revisable local reference; discriminating perturbation and conditional scalar energy; discrepancy reaches appropriate claim/map/lens/source/permission or reasoned retention; positive local knowing triad nested in the containing person, with first-person condition distinct from inspected content.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-EFFECTS4.json",
+      "effects_sha256": "2777c87a4cf09b050f8a1b76009e6eba93e427a5226077377a975a385fa61018",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-candidate.md.txt",
+          "line": 14,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "[A bounded judgment field](../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) holds active judgements, affordances, uncertainties, values, tools, memories and interlocutors in specified relations. It sits within Model Internality and represents world-for-agency; it does not claim to contain the agent's entire world. The [native context and return](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) keep the selected field answerabl",
+          "disposition": "retain at named specific scope",
+          "reason": "J(B,lens,representation,state) is a selected field within Model Internality, not an exhaustive agent world. Its named horizon and dependencies make this finite scope operative."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-candidate.md.txt",
+          "line": 32,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Let an action change a shared document and another agent's obligations. The resulting state is not only an updated private belief: it changes the common field in which subsequent actions occur. Record the prior state, action, authority, consequence and returned observations. That path can then be compared under another lens while preserving the same underlying source objects.",
+          "disposition": "retain at named specific scope",
+          "reason": "An authorised shared-document change alters other participants available actions and obligations. Calling it only a private belief update would lose the stipulated shared consequence."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-candidate.md.txt",
+          "line": 34,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The Bimba reference is itself provisional and revisable. A situated Pratibimba is a reading relative to it; disagreement can expose a deficient lens, missing source, wrong authority relation or inaccurate reference object. A local reference-office does not make the map infallible.",
+          "disposition": "retain at named specific scope",
+          "reason": "A provisional Bimba reference can itself be corrected. Giving it a local reference office is not a proof that it is an infallible reference object."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-candidate.md.txt",
+          "line": 38,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Hold a task and relevant sources fixed, perturb one declared condition, and compare both reachable actions and the resulting behaviour. A richer log alone is not success. Relevant measurements include correction of unsupported claims, prevention of unauthorised transitions, recovery of excluded alternatives and the preservation of source scope across context changes.",
+          "disposition": "retain at named specific scope",
+          "reason": "The proposed perturbation compares actual behaviour and reachability under one changed condition. More logging alone does not establish that discriminating outcome."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/j-space-candidate.md.txt",
+          "line": 48,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The local judging agent functions as knower, its map, sources and tools as means, and the addressed situation as known. The containing person can inspect that centre within a further inquiry, where the apparatus serves as means and its local judgment becomes known. These relative offices remain within Life/Mind; the first-person condition through which their activity appears does not become another item in the represented field.",
+          "disposition": "retain at named specific scope",
+          "reason": "The local functional knower, means and known are positive relative offices within containing Life/Mind. A further inspection makes that apparatus means and judgment known; the first-person condition remains the condition of appearance, not an item added to that inspected field."
+        }
+      ]
+    },
+    {
+      "key": "softmax-argmax",
+      "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/softmax-argmax.md.txt",
+      "preimage_sha256": "51290c2dfd988e22d02ff1c95cc52840bb6587da100dc449e4bc0b2d967ce6fc",
+      "effect_id": "matheme-softmax-argmax",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/softmax-argmax-candidate.md.txt",
+      "candidate_sha256": "99591be8ce5f47b4a91009064938529d5db1f9628e5a3c1276a36242aa2c2379",
+      "disposition": "Complete whole operation retained; finite confirmed public joins repaired",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Finite real logits and positive temperature; positivity/normalisation/common-shift invariance and finite-precision underflow; exact weighted examples; distribution versus maximum index versus sample; tied low-temperature and uniform high-temperature limits; retained score/rule/candidate conditions return through Dia/Syn; engineering advantage still requires actual inherited behavioural evidence.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/softmax-argmax-EFFECTS4.json",
+      "effects_sha256": "6a0b3047b53583cc07cb7b2584be95fc2b4339bb3b2e9d087152bcbb271cb89a",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/softmax-argmax-candidate.md.txt",
+          "line": 36,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "For `z=(0,0,−1)`, the limit is `(1/2,1/2,0)`. PyTorch's documented argmax instead chooses the first maximal index. As `T→∞`, all exponentials approach 1 and the distribution tends to uniform `1/n`. These are limits of the family; the defining expression does not set `T=0`.",
+          "disposition": "retain at named specific scope",
+          "reason": "Finite real scores and T>0 define the family. T approaches zero from above and never becomes a defined zero denominator; tied maxima share limiting mass while the documented argmax tie rule chooses its first maximal index."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/softmax-argmax-candidate.md.txt",
+          "line": 42,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "An output token's semantic role requires its actual model, context and use. The API source establishes operators, not a deployed LLM pipeline or the identity of softmax with apoha. The quilt's cooling/reopening proposal is a technical candidate whose effect must be tested, especially because changed temperature alone does not revise a representation or evaluator.",
+          "disposition": "retain at named specific scope",
+          "reason": "The version-fixed APIs warrant operators, not a named deployed decoding pipeline or apoha identity. Changing temperature changes the distribution but does not itself change representation or evaluator. The cooling/reopening mechanism has its separate experimental obligation."
+        }
+      ]
+    },
+    {
+      "key": "harmonics-and-recount",
+      "path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/harmonics-and-recount.md.txt",
+      "preimage_sha256": "a7de53e0ed30a24fe388cb1ea7006b554e6a2af7f8b78b6b0b56fd78e3649699",
+      "effect_id": "matheme-definition-harmonics-and-recount",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/harmonics-and-recount-candidate.md.txt",
+      "candidate_sha256": "a7de53e0ed30a24fe388cb1ea7006b554e6a2af7f8b78b6b0b56fd78e3649699",
+      "disposition": "Retain whole actual current operation; no confirmed public/source fault",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Complete byte-identical retained operation: copula appearances versus operative marks; analytic four plus two; middle held as one, contextual three-plus-one and retained two; three full Being/Becoming/Knowing-unKnowing pairings; local graphic 3:3 distinguished from primary personed 3:3/3:1; complete return preserves the counted relation for a further act.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/harmonics-and-recount-EFFECTS4.json",
+      "effects_sha256": "77dd7aed197fd363d63fa65a68e77d6d14535bfe552e2c6e4db46b5fd067b9fb",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/harmonics-and-recount-candidate.md.txt",
+          "line": 19,
+          "severity": "review",
+          "code": "STATUS_LEAK",
+          "text": "## #1 — Open the hinge for the count",
+          "disposition": "retain at named specific scope",
+          "reason": "The detector matches Open in a section heading. Here it is the actual analytic opening of =/not-equal into two appearances; it is not an approval or claim-status label."
+        }
+      ]
+    },
+    {
+      "key": "spanda-equations",
+      "path": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/preimages/spanda-equations.md.txt",
+      "preimage_sha256": "3793af502c7aea110674c2c6b554ed9db06c6b06be467e4d64e37e5de98030eb",
+      "effect_id": "matheme-spanda-equations",
+      "effects_depth": 4,
+      "actual_complete_current_read": "Complete current carrier; full source-bound operation compared against actual governing core/Binary/Music sources before draft; read scope retained separately.",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/spanda-equations-candidate.md.txt",
+      "candidate_sha256": "6c6d2146b1a9d6e39ac001bb9872bd52c4e7e39824864f22e9f67762ef294cdb",
+      "disposition": "Complete whole operation retained; finite confirmed public joins repaired",
+      "status": "Non-live exact whole/source operation; independent cold review pending",
+      "independent_disposition": "accepted: complete old/new native operation and exact generating source comparison",
+      "whole_reads": "All retained preimages and all complete final candidate bodies personally read untruncated. Initial complete candidates were compared with every old changed paragraph, then retained whole preimages read separately. Final J-space and Tetraktys were wholly reread after the two returned findings.",
+      "complete_operation": "Native One/All/slash orientations versus ordinary fraction arithmetic; six First-equation stages, T0/T1 bridge and recognition; subject-derived 3:3/3:1; hundred-unit whole versus sum versus constituent ratio; factor instances and explicate/implicate orientation; componentwise cross-comparison versus scalar division; directional reciprocal intervals and retained epogdoon; pure-fifth comma and achieved determination/source return all preserved.",
+      "native_preimage_equal_at_binding": true,
+      "effects_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/spanda-equations-EFFECTS4.json",
+      "effects_sha256": "044a5b5b75947cd819821193f7f7725a5159e26d327549548103258a13def4b1",
+      "frontmatter_exact": true,
+      "headings_exact": true,
+      "display_math_exact": true,
+      "original_quoted_labels_retained": true,
+      "resolved_target_multiset_exact": true,
+      "qualification_dispositions": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-final-seven/spanda-equations-candidate.md.txt",
+          "line": 174,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The tuning boundary remains exact. A pure-fifth chain has `(3/2)¹² / 2⁷ = 531441/524288`, the Pythagorean comma; it does not acquire exact twelve-step closure from the octave product above. [Scholtz, §§3.2–4.1](../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md#scholtz-1998-algorithms-diatonic-keyboard-tunings-q002) distributes the tuning adjustments needed for that longer return through its temperament account. The native finite identiti",
+          "disposition": "retain at named specific scope",
+          "reason": "Twelve pure 3/2 fifths exceed seven octaves by the stated comma. Temperament adjustment is a distinct operation; exact octave completion by 16/9 times 9/8 does not remove that longer-cycle mismatch."
+        }
+      ]
+    }
+  ],
+  "returned_findings": [
+    {
+      "key": "j-space",
+      "prior_candidate_sha256": "50423bd9f31ff866a58a39d382d2e45b71bf5e9e74b15f4a59601e9192b89313",
+      "fault": "The opening still made the movement carrier propose a bounded field.",
+      "correction": "Actual bounded judgment field holds its active contents in specified relations. Same link and unexecuted scope retained.",
+      "final_sha256": "d82c2914fcfc240c0be23bdaabcaa3c7607a388e29a28c7f8e087195ede80881",
+      "final_replay": "Whole final reread; complete operation accepted."
+    },
+    {
+      "key": "tetraktys-triangle",
+      "prior_candidate_sha256": "db50e6ba76f66818bb3cb4a586884690ab2abf17beba273c9b29de4452a70a24",
+      "fault": "Attributed structural ten was compressed into the mathematically valid but different 4+6 factor-occurrence construction; actual v3 Reading4 adds contextual3+1 to4+2.",
+      "correction": "Native contextual3+1 and prime4+2 yield explicit3+1+4+2=10; separate factor occurrence4+6 comparison preserved. Each4-as-contextual-three-plus-one is licensed by actual v3 Reading1 and fresh complete FileOne recount, without a historical inference.",
+      "final_sha256": "005a4455b257d8425af609d765bd4d7c1bdd7b96261ed354d688b0bcfe2a7045",
+      "final_replay": "Whole final reread and exact old/new changed join/source replay; accepted."
+    }
+  ],
+  "exact_arithmetic_replay": {
+    "octave_product": "(4/3)(9/8)(4/3)=2",
+    "frequency_construction": [
+      "288",
+      "384",
+      "432",
+      "576"
+    ],
+    "comma": "(3/2)^12/2^7=(9/8)^6/2=531441/524288",
+    "directed_D2_chromatic": [
+      11,
+      7,
+      3,
+      11,
+      7,
+      3
+    ],
+    "directed_D2_fifths": [
+      5,
+      3,
+      1,
+      11,
+      9,
+      7
+    ]
+  },
+  "individual_audit": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-MATHEME-SEVEN-EXACT-AUDIT.json",
+    "sha256": "529c5ead59ec73dc831a6f15b255ee8f812a62d1a3a0f07eeac8a1d0411dacd1",
+    "unchanged_detector": true,
+    "errors": 0,
+    "reviews": 19,
+    "every_review_individually_disposed": true,
+    "scope": "Seven per-file reads only; no builders, full tests, freshness, browser, live producer, installation, Git or canonical mutation."
+  },
+  "preservation_exceptions": "Cymatics adds nonzero real amplitude and positive wavenumber premises. Tetraktys restores native3+1+4+2 and explicitly separates4+6. Existing equations are not overwritten; J-space gains positive nested relative knowing and the inherited next-act correction/retention operation. Source/quote/readiness statuses and external/historical/runtime limits remain intact.",
+  "boundaries": [
+    "Graph depth4 outputs are retained provenance, not acceptance of every downstream consumer or every movement.",
+    "Complete native old/new acceptance is distinct from new external whole-book, physical edition, acoustic/cymatic experiment, deployed J-space/LLM/runtime or quotation validation.",
+    "Personed primary3:3/3:1 remains distinct from graphic harmonic3:3, componentwise cross-comparison and octave/tuning arithmetic.",
+    "All48movement bodies, sovereign manuscript, raw authorial originals/NOTES/HISTORY/poetry, tools/tests/builders and the frozen38 packet remain untouched by this review."
+  ]
+}

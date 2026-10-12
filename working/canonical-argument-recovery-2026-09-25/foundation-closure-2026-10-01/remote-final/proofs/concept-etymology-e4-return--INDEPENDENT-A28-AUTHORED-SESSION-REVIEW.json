@@ -1,0 +1,239 @@
+{
+  "reviewer": "concept_recovery",
+  "role": "Independent complete old/new/source/public cold; no writer role in either A28 face",
+  "observed_main": "fec057ae84cbebed9bd270271ae8798db6e5e879",
+  "owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/CANDIDATE-MANIFEST.json",
+  "owner_manifest_sha256": "fb9d09ba4950ceff0eb9be6dbecbd7e4db323435734dcd2b70e4e50154f0b0ee",
+  "records": [
+    {
+      "id": "A28",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "preimage_sha256": "16cc3e53e36200faf8fa67e107f14091d56b2019cf59439c02275f0a8931c40c",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd"
+    },
+    {
+      "id": "A28p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-prime-The-Authored-Session.md.txt",
+      "preimage_sha256": "e68e3a7fa99a4191c7e796e36f46ea97b9732803bfee4b8550806bba4f51acdd",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+      "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb"
+    }
+  ],
+  "disposition": "Both exact whole operations accepted within actual source bounds; no exact lost step, stronger false entailment or remaining semantic page/schema/status actor found. Native bodies remain exact preimages.",
+  "actual_independent_reads": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "sha256": "16cc3e53e36200faf8fa67e107f14091d56b2019cf59439c02275f0a8931c40c",
+      "lines": 67,
+      "actual_independent_read_scope": "Entire original independently read: native67 lines and prime55 lines."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+      "sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+      "lines": 70,
+      "actual_independent_read_scope": "Entire final independently read: native70 lines and prime63 lines. An initial combined final output clipped the native opening; entire native final reopened alone. Entire prime final reopened separately. All missing spans repaired before acceptance."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/preimages/A28-prime-The-Authored-Session.md.txt",
+      "sha256": "e68e3a7fa99a4191c7e796e36f46ea97b9732803bfee4b8550806bba4f51acdd",
+      "lines": 55,
+      "actual_independent_read_scope": "Entire original independently read: native67 lines and prime55 lines."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+      "sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+      "lines": 63,
+      "actual_independent_read_scope": "Entire final independently read: native70 lines and prime63 lines. An initial combined final output clipped the native opening; entire native final reopened alone. Entire prime final reopened separately. All missing spans repaired before acceptance."
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "44834dfb502d070aca3e6df6fee5234d0947b8036f9a2f173d594bc7a8e97053",
+      "lines": 1278,
+      "actual_independent_read_scope": "Fresh entire R16.1–R16.7 and owning six-centre context1103–1134; not fresh whole quilt."
+    },
+    {
+      "path": "working/antykathera-resources/Antikythera Agentworld Brief.md",
+      "sha256": "0387d22a8f59d802261be6e56fce86a137d49d538b95f8b6e79a1beb3fe22b1a",
+      "lines": 3715,
+      "actual_independent_read_scope": "Fresh complete owning units133–340,712–837,1637–1678(entire6.3 plus6.4opening),1979–2094(entire7.4–7.6),2382–2541(entire8.5 glossary/footnote/twofoldvalue/diagrams). No fresh whole Brief/PDF or external quotation-readiness upgrade."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md",
+      "sha256": "8d5125717ddddc22e1b5972b82c5d39c44e72483ade0fdb045a46df2162fa7ca",
+      "lines": 74,
+      "actual_independent_read_scope": "Fresh entire80-line source house. Authorial intention/commission provenance, not public evidence of deployment or external history."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/perdomo/perdomo-et-al-2020-performative-prediction/SOURCE.md",
+      "sha256": "4a54fcdfb802e0ec647a8169e8a6ba873419d9acdc24c1e41b2462a239e88349",
+      "lines": 63,
+      "actual_independent_read_scope": "Fresh entire source house. Selected publisher abstract/bibliographic admission, not full article proof or performed allocation repair."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+      "sha256": "1d886c21aa17b938e4cb6680f1c75121f37ebb89a0d52a867f81860548b2eb58",
+      "lines": 195,
+      "actual_independent_read_scope": "Fresh complete XI–XII and adjoining closing opening156–184. Earlier own complete195-line old/new/source cold retained at exact current version; no fresh entire twelve-branch claim in this return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "c77b53031dd3ffb6bb90fdcfdde53e44680a4f03f946be3710be4930d53c10ac",
+      "lines": 74,
+      "actual_independent_read_scope": "Fresh entire actual current included final. This c77b version differs from worker earlier e503 native ledger; current independently re-entered, never assumed unchanged."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "sha256": "cc8ccd9c2378e3c16100c9a047ea61ed227388ee5c1432eb59518e99eb74dbc0",
+      "lines": 37,
+      "actual_independent_read_scope": "Fresh entire actual current included final. This cc8c version differs from worker earlier6172 native ledger; current independently re-entered."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "ff05d9d423c021a0ad5c93cad2d5cb1b525d3bf55f6d1d4566ba611c06f9c993",
+      "lines": 63,
+      "actual_independent_read_scope": "Fresh entire current carrier; grouped output clipped #5 middle,45–95 tail fully reopened completing the entire body."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "78e7fb05971490d9b8fca7be5cf30ae8dc67600329dff80758599b3ffed4e0d1",
+      "lines": 51,
+      "actual_independent_read_scope": "Fresh entire current carrier; performer/beneficiary/commission/cost and adequate-condition return remain distinct."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "lines": 90,
+      "actual_independent_read_scope": "Fresh entire current carrier; five proper revision sites, justified rejection and fitting retention distinct from stronger actual processing change."
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md",
+      "sha256": "e87fb7e7e3db6beb955976b71b91426a96654df3cadef1b5887a525f409e36da",
+      "lines": 266,
+      "actual_independent_read_scope": "Fresh complete1–72; earlier own complete266-line source read retained from covenant/arbitration independent work at same version. Not fresh whole claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "sha256": "bd22197d57d4d26a8f4c54f71321e4fcc42911bc9c90d47fd039be7a08cbc9b1",
+      "lines": 140,
+      "actual_independent_read_scope": "Fresh entire current root; five positive apportioning/capacity/measurement/labour/commons/planetary operations and exact source/implementation limits."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "c519eff90cae8ead563831d8dddd3dabf037101352770d4394427c87011a558a",
+      "lines": 155,
+      "actual_independent_read_scope": "Fresh entire155-line current root. Initial whole output clipped Nomos/Natio1142tokens; complete61–100 reopened, restoring all missing spans."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/QUALIFICATION-REASONS.json",
+      "sha256": "6d618875ee34953dc35230828e4c77a891266f932ac8a5fe677aac050271f917",
+      "lines": 162,
+      "actual_independent_read_scope": "All11 individual three-question qualification rows read completely against their actual full paragraphs and sources. Initial fullJSON clipped; compact full why-necessary/stronger-inference/positive-operation rows independently reopened. Eight native plus three prime, not acceptance by count."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/SOURCE-READINGS.json",
+      "sha256": "1ed8fad767edf139829d2e94cac19bbafc4e238879c2b8b5103ff09c89fde764",
+      "lines": 134,
+      "actual_independent_read_scope": "Entire owner source ledger read; its23 worker rows retained as worker evidence, not substituted for reviewer actual reads."
+    }
+  ],
+  "prior_actual_version_bound_basis": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "lines": 640,
+      "actual_independent_read_scope": "Prior own complete640-line direct core read; fresh knowing/contraction/eightfold/signed units from adjacent A09/A16/A12 source cold retained at exact hash. Not new fresh whole claim."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "lines": 102,
+      "actual_independent_read_scope": "Prior own entire102-line governing minute from adjacent A09 source cold retained at exact version."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "sha256": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "lines": 105,
+      "actual_independent_read_scope": "Prior own entire governing correction from adjacent A09 cold retained at exact version."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "sha256": "18328518f9ae0d93f1dd6c700f9775e86f2db0aaf9d2ceae8f6156475f4a77bb",
+      "lines": 144,
+      "actual_independent_read_scope": "Prior own complete original/final/source/public cold retained at exact current183285 version; current hash confirmed. No fresh whole audiovisual or timecode/creator-intent claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "sha256": "508bf0df3de2be3b7f8f2a97d41ca75bf86a0d249ffc4462f4e9782289e49686",
+      "lines": 103,
+      "actual_independent_read_scope": "Prior own complete original/final/source/public cold retained at exact current508bf version; current hash confirmed. No fresh full external traditions/clinical claim."
+    },
+    {
+      "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+      "sha256": "82d403d791208d05e0e3f62c5c95625a2b3474e5588310ebb77fa94aaef4c37f",
+      "lines": 81,
+      "actual_independent_read_scope": "Prior own complete historical carrier source-operation review retained; not freshly re-read in this A28 return."
+    },
+    {
+      "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+      "sha256": "9395faa8806739a54a228e159af100e76e2f9a0f9684fcd9768638a5f5bb5ce8",
+      "lines": 75,
+      "actual_independent_read_scope": "Prior own complete historical carrier source-operation review retained; not freshly re-read in this A28 return."
+    }
+  ],
+  "source_operations": [
+    {
+      "operation": "Purpose, prompt and received office",
+      "acceptance": "Living intention, formulated commission and distinct receiving agent remain differentiated. Prompt is already a determinate1 without exhausting intention; human0/agent1 is positional and recursive. Active context, architecture, source fields, rules and tools retain different offices under Brief assemblage/scaffold modality."
+    },
+    {
+      "operation": "Relative knowing within the person’s inquiry",
+      "acceptance": "Local judging centre is functional knower, task/source/rules/model/tools its means, proposed result/known field its known. The apparatus is itself means within the containing person’s inquiry. Further inspection makes that centre known without inventorying the first-person condition or whole Life."
+    },
+    {
+      "operation": "Returned fault and next act",
+      "acceptance": "Misquotation can be corrected under an adequate rule; a question-premise or evaluator failure reaches that actual condition and capable authority. Warranted permission/commission revision or reasoned fitting retention is inherited by the next use. Stable criterion differs from immunity; deeper revision is not intrinsically better."
+    },
+    {
+      "operation": "Original and reflective fields",
+      "acceptance": "A retained local source/reference genuinely originates a downstream comparison within its frame while remaining reflective relative to wider sources. Shared grammar permits connection without merging persons’ grounds or turning aggregation into a common Subject."
+    },
+    {
+      "operation": "Qualified scaffold and consequences",
+      "acceptance": "Role/qualified occupant, nested dependencies, institution and cultural conditions remain separate. Changing personnel does not automatically change mandate/measure. Prediction-induced outcome change is not evidence that an institution has performed correction. Bratton scenario and authorial construction remain distinct from deployment."
+    },
+    {
+      "operation": "Whole product and session return",
+      "acceptance": "Memory, decision, artifacts, received obligations and next-use history retain all six relations. Delegated orchestration may return a goal/task/rule/commission question; it is not automatic organisational success. The suggested explicit subtask grant is a proposal instruction, not a Bratton quotation."
+    },
+    {
+      "operation": "Images and source conditions",
+      "acceptance": "Finite image/bearer/mask/idol offices, Prisoner changing Two/persistent commission and title without freedom, trust/place/surety and apportioning material burdens retain the respective actual whole sources and unreconciled aftermaths."
+    },
+    {
+      "operation": "Exact source quotation and standing",
+      "acceptance": "The orchestration excerpt is supported by entire raw§6.3: ellipsis omits fuzzy-systems thinking without adding a consequence. Glossary footnote agents/human companions, literary/nonanthropomorphic interactions and original caution remain attributed. Stronger process/transductive/implementation claims remain separately unperformed."
+    }
+  ],
+  "retention": {
+    "all_original_headings_retained": true,
+    "new_heading": "Source and implementation standing",
+    "frontmatter": "Original frontmatter retained except two truthful consumed source_ids appended to each face.",
+    "original_ascii_and_curly_quoted_strings_retained": true,
+    "original_inline_code_and_formula_spans_retained": true,
+    "paired_navigation_retained": true,
+    "route_conversion": "Native five old body wiki routes converted to explicit resolved Markdown targets (two historical carriers and three source-card targets); one root-quilt wiki retained. Do not claim literal old target syntax/multiset identical. Prime Authored Session self-wiki human label changed with target retained.",
+    "independent_path_resolution": "47 relative Markdown file targets independently resolved from native canonical directories with zero missing; two retained wiki routes remain owner-qualified. Not a whole-browser/anchor/runtime replay."
+  },
+  "qualification": "All11 individual flags compared source-first. Zero hard findings and link census are checks, never the semantic warrant.",
+  "remaining_required_native_faults_in_this_pair": [],
+  "limits": [
+    "No fresh whole external Brief/PDF, Perdomo proof/trial, lexical book/print edition, translation or source-quotation readiness upgrade.",
+    "Source-specific doctrine, audiovisual/creator-intent, cultural outcome, institutional ratification, clinical and runtime enactment remain bounded by their actual source standing.",
+    "Effects-depth4 and185 returned byte reopens are owner coverage, not reviewer all-consumer acceptance.",
+    "All48 movement bodies and sovereign manuscript remain deferred and unchanged.",
+    "Accepted packet68 remains frozen; these two exact operations are returned separately for parent inclusion."
+  ]
+}

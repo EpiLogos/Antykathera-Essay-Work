@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "record": "C12",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/preimages/C12-Script-Frozen-Conditioned-Will.md.txt",
+      "preimage_sha256": "917a09f99970a7b980cf2a02da9552df8c6713c7e1e9e5a89705731fb8ebd554",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C12-Script-Frozen-Conditioned-Will.md.txt",
+      "candidate_sha256": "d151bee5b70b68b64cde5da7abea8cb07c412b7546b54505ca16f2f81f9de3dd",
+      "status": "Complete non-live source/public operation independently accepted at frozen final hash",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json"
+    },
+    {
+      "record": "C40",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/preimages/C40-Model-Internality-Judgment-Field.md.txt",
+      "preimage_sha256": "e503782e6e41b4292036dde94491ec4c18344a2dc739d0a6b3bb757f614e2631",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C40-Model-Internality-Judgment-Field.md.txt",
+      "candidate_sha256": "c77b53031dd3ffb6bb90fdcfdde53e44680a4f03f946be3710be4930d53c10ac",
+      "status": "Complete non-live source/public operation independently accepted at frozen final hash",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json"
+    },
+    {
+      "record": "C44",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/preimages/C44-Prompt-Thrownness.md.txt",
+      "preimage_sha256": "61720fce4e55f37e76b5f9d87383893c52135841c4ad8359bc4d72fd03726184",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C44-Prompt-Thrownness.md.txt",
+      "candidate_sha256": "cc8ccd9c2378e3c16100c9a047ea61ed227388ee5c1432eb59518e99eb74dbc0",
+      "status": "Complete non-live source/public operation independently accepted at frozen final hash",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json"
+    }
+  ]
+}

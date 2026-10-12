@@ -1,0 +1,63 @@
+{
+  "records": [
+    {
+      "id": "A31",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A31-Deferential-Intelligence.md.txt",
+      "preimage_sha256": "3c95041501d0d682af8f8d91ff377ba7767fccc6388e0d8bb645def096ae6dc7",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/candidates/A31-Deferential-Intelligence.md.txt",
+      "candidate_sha256": "bf3be563e157d11ee52fb393f25e8ffa4ce46d6dcfae697154e084a07fff8ac3",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own reading; independent source cold pending. Non-live."
+    },
+    {
+      "id": "A34",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A34-Idealism-Order-of-Dependence.md.txt",
+      "preimage_sha256": "36674d38fa438a2aad1aa40290d0ef0848cc193ec0fc16aaeeb2452b6fd36b6c",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/candidates/A34-Idealism-Order-of-Dependence.md.txt",
+      "candidate_sha256": "546e9578e3183d19392f59cfb7a887805c9055db0c120557890cc17ecf43ff6c",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own reading; independent source cold pending. Non-live."
+    },
+    {
+      "id": "A34p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/preimages/A34-prime-Direction-of-Dependence.md.txt",
+      "preimage_sha256": "7e342a403307ab92e8ec82de5aa900b380b5455fe66ba1b8b3cdc329708971e7",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/candidates/A34-prime-Direction-of-Dependence.md.txt",
+      "candidate_sha256": "390f6377a74179f60ce324a57dbd202aeebeacc68ae1f781076e44c2d0d4edf0",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own reading; independent source cold pending. Non-live."
+    }
+  ],
+  "actual_operation": "Full PRE-EDIT recovered deference five right depths/fixed-evaluator proposal/six offices/lexical personed return/three mirror motions/Job; full idealist constitutive order/positive nested local triad/five respect distinctions/full crossed recognition/Neumann I-Am/Uroboros opening/technical consequence; entire prime constructed greenhouse/responsible return/real local Bimba/recognition/purpose. Entire old/current pairs and all whole final candidates actually read untruncated, source before draft; C41 clipped grouped passages explicitly reopened50–70.",
+  "actual_changes": "Page/source/field/title duties become actual Other asymmetry/co-internal field/fixed-versus-revised selection/finite decision and counted answer/discriminable consequence/mirror initiative/traveller corrections; positive source-means-known recursion and actual paradigm/project/source term/eye/dream/recognition/care/acquired determination. General return includes warranted correction or justified fitting retention while identified strong processing-change requires actual change and inherited effect.",
+  "preserved": "Every sourceidentity/frontmatter/headings/navigation/quotedstring/display formula/table/original resolved target exact. Full sixfold operations and constructed technical scope retained; A31prime unchanged. No live/protected/raw/tools/tests/builders edits or heavy jobs.",
+  "actual_source_limits": "Actual whole/selected/prior-current-equal scopes in SOURCE-READINGS. No new whole external books/PDF/primary quotes/readiness/history/clinical/runtime/deployed proof; all188 depth4 byte bodies impact only.",
+  "remaining": "Independent complete source/public cold pending; finite source-operation inventory for all36 pairs to bind current versions and surviving external collation scope, no detector/census completion claim.",
+  "peer_public_return": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-deference-dependence-return/PEER-PUBLIC-RETURN.json",
+    "sha256": "f6df70351033f096d9031a587ba7ee9865fa96e74087cc0a2d1e9f85f8b93738",
+    "candidate_sha256": "99fd04c2f8e96c58faa218259ed9034d9ac2b8e01137df84a1dfeed7200aa761",
+    "status": "Exact source-first received terminal relation repaired; final independent replay pending, other2 original exact source acceptance received. No canonical integration."
+  }
+}

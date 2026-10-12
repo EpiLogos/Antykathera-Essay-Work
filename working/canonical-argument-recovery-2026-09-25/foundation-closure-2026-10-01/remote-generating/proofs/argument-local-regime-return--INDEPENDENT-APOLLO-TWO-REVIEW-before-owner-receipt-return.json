@@ -1,0 +1,204 @@
+{
+  "reviewer": "argument_recovery",
+  "status": "accepted at exact final candidate hashes after complete old/new whole source comparison and all final returned adjacent replays",
+  "records": [
+    {
+      "key": "APOLLO-DAPHNE",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "preimage_sha256": "5a24300768dbf44881d1d2bdbc362ae940f113a921f60e44ff53bca1d68b1389",
+      "initial_whole_review_sha256": "d331583139430e5b7bfc20f13cf4a822c910cbd09f283200b7dbab2e19befcf9",
+      "last_adjacent_replayed_sha256": "b4e3d73f215a97e5e95b841f148de79a5e2cfd9b43434b3b4727a10865fa8dfb",
+      "old_lines": 129,
+      "new_lines": 131,
+      "whole_read": "Entire retained old and initial new bodies personally read in separate complete units; all five returned full adjoining units personally replayed against direct sources, and the complete initial-new→final diff checked for other changes. No final whole-body reread inferred from byte access.",
+      "native_matches_preimage": true,
+      "frontmatter_exact": true,
+      "six_headings_exact": true,
+      "lost_old_inline_terms": [],
+      "added_inline_terms": [
+        "0/1"
+      ],
+      "status": "accepted within exact complete source/public operation; parent inclusion and actual unchanged native gates remain separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DAPHNE-candidate.md.txt",
+      "candidate_sha256": "b4e3d73f215a97e5e95b841f148de79a5e2cfd9b43434b3b4727a10865fa8dfb",
+      "inline_term_note": "Daphne adds one explanatory0/1 occurrence to recover the first conscious circumstance; all original mathematical strings and ordered sequence remain. No extra relation or count introduced.",
+      "final_replay_units": [
+        "Daphne76–96 containing complete interpretation/eightfold and bordering returns"
+      ],
+      "checks_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DAPHNE-LIGHTWEIGHT-CHECKS.json",
+      "owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DAPHNE-CANDIDATE.json"
+    },
+    {
+      "key": "APOLLO-DIONYSUS",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "preimage_sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c",
+      "initial_whole_review_sha256": "3b4f2dc6f0854e08210eb83adaf23ba631ceadc4b70f1c350f63d3317ebb95cc",
+      "last_adjacent_replayed_sha256": "f1a6ef68941f883d492420f4d61e203bd1a1d36ae1a93d5f93a54c4fbeb81ef2",
+      "old_lines": 125,
+      "new_lines": 130,
+      "whole_read": "Entire retained old and initial new bodies personally read in separate complete units; all five returned full adjoining units personally replayed against direct sources, and the complete initial-new→final diff checked for other changes. No final whole-body reread inferred from byte access.",
+      "native_matches_preimage": true,
+      "frontmatter_exact": true,
+      "six_headings_exact": true,
+      "lost_old_inline_terms": [],
+      "added_inline_terms": [],
+      "status": "accepted within exact complete source/public operation; parent inclusion and actual unchanged native gates remain separate",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DIONYSUS-candidate.md.txt",
+      "candidate_sha256": "f1a6ef68941f883d492420f4d61e203bd1a1d36ae1a93d5f93a54c4fbeb81ef2",
+      "inline_term_note": "All old inline terms retain their exact sequence; no notation change.",
+      "final_replay_units": [
+        "Dionysus70–114 containing full reciprocal/alterity/context return",
+        "Dionysus96–132 final contextual and terminal full return",
+        "Initial-new→final exact diff entire two returned public and one fullP5 addition"
+      ],
+      "checks_file": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DIONYSUS-LIGHTWEIGHT-CHECKS.json",
+      "owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/APOLLO-DIONYSUS-CANDIDATE.json"
+    }
+  ],
+  "own_fresh_local_source_readings": [
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "scope": "Fresh complete selected native020 sections2 and3, lines65–129; other whole earlier source reading retained, not newly asserted."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "sha256": "ba7b16ed0a51c4c91957336ff784cecf98153805281d5d6848b1b0d2450bcc78",
+      "scope": "Fresh entire single long-line authorial P5, including complete ultimate context and absent-Father sequence."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "scope": "Fresh complete TwoDeaths unit80–105 and devotionalReturn225–245; prior complete direct authorial manuscript basis retained, not newly whole reread."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "scope": "Fresh151–188 complete knowing/eightfold/harmonic/fold operation and401–437 Jungian/agentic unit; previous complete640-line basis retained. Historical agentic quotation is not a newer correction."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "scope": "Fresh complete102-line current authored minute; knower/means/known/whole and both logics govern older agent wording."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "scope": "Fresh complete section13 lines2516–2523; previous fuller quilt source work retained, not a new whole5877-line read."
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "sha256": "d7fd70b3246b9af153bba52f7df41ca83a348a7f6677c37b58d81e17a91171ae",
+      "scope": "Fresh complete section4 number4 lines566–577; plan source actors are reviewed separately from the native performed relation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "sha256": "32dd7ad053909b94f584ffe526f504c37441d1e662516926c8c83996f30053f5",
+      "scope": "Fresh entire current house and allthree cards in separate1–85/86–end reads; no quote/readiness edit."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md",
+      "sha256": "d510fccbc2452b89d30aba050edd20c54aafe39351ab559c68c01797578c2ef9",
+      "scope": "Fresh entire current house and both actual cards; no quote/readiness edit."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "sha256": "2c0cb8fa3c11e920fb398eef9b9aba8d9f8ff3f9b8515f1587ef08a211922ab2",
+      "scope": "Fresh entire current109-line house, mapped paraphrase locators and quotation boundary; not the whole external book."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "a2bf352f2127ef1bbf03716a7579b5165c7cb8216264f189303a94cb10c572eb",
+      "scope": "Fresh complete generating/receiving unit1–151, including allsix conjugate/generated relations; prior own wholeE2 retained with actual argument-arbitration-return source hash; not new whole248 assertion."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "ee31b6b2dd382fead1c4f9f0396c3ef7982e3d90f8c2309d289828164afd93d7",
+      "scope": "Fresh whole current145-line field1–63/64–101/102–end; allthree terms/four operations source-compared; existing parent-owned source/public debts remain separate."
+    }
+  ],
+  "own_fresh_primary_readings": [
+    {
+      "url": "https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I",
+      "scope": "All actual selected1.416–567 paragraphs, tool178–202, combined separate explicit outputs; generative prelude, Python/games, boast, arrows, requested life, chase, complete body transformation, heart/recoil/honours/seeming nod. No wholeBookI or print image claim."
+    },
+    {
+      "url": "https://bcs.fltr.ucl.ac.be/metam/Met01/M01-416-567.html",
+      "scope": "Entire displayedLatin/French selected1.416–567, tool18–355 with185–355 explicitly isolated after grouped clipping; absent displayed546 remains unfilled. Latin is locator witness, not verification of Miller English."
+    },
+    {
+      "url": "https://www.gutenberg.org/cache/epub/51356/pg51356-images.html",
+      "scope": "Complete actual NietzscheHaussmann sections1 and21 including section1notes, tool268–318 and920–954. Output explicitly isolated to whole selected units; no wholebook claim."
+    }
+  ],
+  "returned_findings": [
+    {
+      "key": "DAPHNE",
+      "initial_line": 90,
+      "class": "COMPRESSION-AS-REPLACEMENT",
+      "source": "actual core151–188 parent/eightfold",
+      "finding": "Unnamed bare parent was conflated with the first interior conscious0/1 circumstance.",
+      "required_return": "Bare unassigned relation→awareness/phenomenon appearing-and-known→question/assertion before remaining ordered operations.",
+      "last_replay": "Recovered at aa3ac231; complete adjacent76–99 source replay accepted.",
+      "final_disposition": "resolved within exact source/public operation; no new historical or ratification conclusion"
+    },
+    {
+      "key": "DIONYSUS",
+      "initial_line": 108,
+      "class": "LOSS",
+      "source": "entire actual P5 Gebser authorial paragraph",
+      "finding": "Embodied care/context omitted encompassingRotundum/UnitaryBeing and ultimatea-contextual contextualising, followed by true absent-Father surrogate/objectification/ruler fault.",
+      "required_return": "Situated passionate care within impartial encompassingground; no limited viewpoint/aggregate or aloof installedobserver; finite bearer owns actual judgment/consequence.",
+      "last_replay": "Recovered at297c92b0 complete adjacent70–114 and actual entireP5 replay accepted.",
+      "final_disposition": "resolved within exact source/public operation; no new historical or ratification conclusion"
+    },
+    {
+      "key": "DIONYSUS",
+      "initial_line": 78,
+      "class": "AGENT META",
+      "finding": "Taylor’s whole asks rather than the actual philosophical demand reaching viewpoint/conditions/othercentre.",
+      "last_replay": "Recovered at297c92b0 actual form answerable to sustainingLife and anothercentre able to resistterms.",
+      "final_disposition": "resolved within exact source/public operation; no new historical or ratification conclusion"
+    },
+    {
+      "key": "DIONYSUS",
+      "initial_line": 102,
+      "class": "ADDRESS LEAK",
+      "finding": "Contextual-field programme inQ27 gives the expression; programme/address still actor at actual triangle→co-present contextualfield transition.",
+      "required_return": "Perform triangle/perspective→contextualco-presence directly; sameQ27target with humanproposition label.",
+      "last_replay": "Recovered and independently replayed at finalf1a6ef68: actual triangle→contextualfield and authorial180°→360° relation with same source target.",
+      "final_disposition": "resolved within exact source/public operation; no new historical or ratification conclusion"
+    },
+    {
+      "key": "DAPHNE",
+      "initial_line": 79,
+      "class": "AGENT META",
+      "finding": "Taylor’s interpretation follows movement as a carrier task after actual divinecompetence→possession relation.",
+      "required_return": "Attribute Taylor’s positive powers/relation judgment directly; unchanged source target and Ovid/interpretation difference.",
+      "last_replay": "Recovered and independently replayed at finalb4e3d73f: competent powers→possessive terms attributed toTaylor directly, same source target.",
+      "final_disposition": "resolved within exact source/public operation; no new historical or ratification conclusion"
+    }
+  ],
+  "source_conclusions": "Complete Ovid aftermath keeps embodied refusal, cost, heartbeat, recoil and seemingnod together. AncientOvidcast differs from FrankApollo/Dionysus/Daphne composition. Actual Nietzschemusicalmyth/hearer/culminatingdissolution remains distinct from an equalquantity balance or QL derivation. No new clinical/history/quote/runtime/ratification conclusion.",
+  "effects_boundary": "Owned before-edit depth4 effects and directconsumer ledgers actually read as impact/reentry evidence; this independent review does not claim fresh whole semantic reading of all185/169 downstream bodies. Prior own versionbound argument/source reads retained separately; movement35 body deferred.",
+  "heavy_checks": "None run; only source reads, byte/hash/frontmatter/headings/inline-term comparisons. Tools/tests/builders/freshness/protected/sourceoriginal/native untouched.",
+  "scope_limits": [
+    "No new whole external books or selected edition print-image collation.",
+    "Gebser selected page-specific paraphrase source-house comparison only; no quotation verification.",
+    "No source quote/readiness or archetypal correspondence ratification upgrades.",
+    "No deployed result, clinical diagnosis, institutional legitimacy or global historical reception proven.",
+    "No full argument/concept/48movement/manuscript closure from these two whole comparisons."
+  ],
+  "initial_review_retained": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/INDEPENDENT-APOLLO-TWO-REVIEW-before-final-return.json",
+    "sha256": "7a57d1ea6f5643be2dac98c60f7c881f693df908e5a53cd06000ece33783221b"
+  },
+  "final_source_conclusions": [
+    "Daphne retains the complete Ovidian narrated descent from world/Python through opposite arrows and two distinct paternal requests to chase, bodily transformation, heartbeat, recoil, public laurel offices and seeming assent. Neither final motion cancels the other; imposing emblematic honour does not establish consent or reciprocal recognition.",
+    "The full native eightfold now distinguishes unnamed bare parent from0/1 conscious circumstance before the remaining qualitative operations and incomputable return. Six interior positions and six narrative headings stay different; inverse offices/compound remain source conditions rather than Ovidian proof.",
+    "Apollo–Dionysus–Daphne is a Taylor philosophical composition. Whole Nietzsche1/21 retain dream/individuation, musical universality, protective myth, individual hearer and culminating dissolution; reciprocal artistic expression differs from balancing two abstract quantities and from a historical QL doctrine.",
+    "Full P5 context retains situated passionate care within the encompassingRotundum/UnitaryBeing and a-contextual contextualising. The absent-Father sequence exposes lack/numbness, surrogate standard, scapegoating and ruler above its own law; ultimate context is neither an aggregate nor an installed superior observer.",
+    "Actual renewed encounter can warrant correction at the exposed depth or reasoned retention of a fitting relation; that result informs later use. Capacity to receive difference stays distinct from proof of a realised processing change. Human/source-specific local offices remain relative to their containing relation without an automatic architectural or phenomenal attribution."
+  ],
+  "remaining_findings_in_recovered_operations": []
+}

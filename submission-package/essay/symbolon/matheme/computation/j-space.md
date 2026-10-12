@@ -11,7 +11,7 @@ source_relation: "Exact technical construction; argued native relation and offer
 
 ## #0 — Specify what the map represents
 
-[J-Space's movement](../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) proposes a bounded relational field of active judgements, affordances, uncertainties, values, tools, memories and interlocutors. It sits within Model Internality and represents world-for-agency; it does not claim to contain the agent's entire world. The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) supplies the context/return operation beneath that proposal.
+[A bounded judgment field](../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) holds active judgements, affordances, uncertainties, values, tools, memories and interlocutors in specified relations. It sits within Model Internality and represents world-for-agency, which is a bounded part of the agent's world, and the page claims no more for it. The [native account of context and return](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **grounds** the field's discipline: the selected field stays answerable to the horizon and the operations through which it becomes available.
 
 The input is a declared reference field `B`, a lens `ℓ`, a representation `φ`, and a situated state `s`. A present formal specification is `J=J(B,ℓ,φ,s)`: it makes the dependencies explicit without claiming one canonical metric already exists.
 
@@ -25,7 +25,7 @@ A distance must name both representation and metric. Euclidean distance between 
 
 Consider three actions: inspect a document, edit a local copy, publish it. The initial field permits the first two and withholds the third. A policy change enabling publication changes the reachable action set even if the text embedding and model weights remain identical.
 
-A graph representation can display this by adding an authorised transition from edited to published state, retaining the permission source and affected audience. Merely moving the “publish” node closer in an embedding would not establish that the transition became legal or possible. The distinction makes permission an operative condition rather than decorative metadata.
+A graph representation can display this by adding an authorised transition from edited to published state, retaining the permission source and affected audience. Merely moving the “publish” node closer in an embedding would not establish that the transition became legal or possible. The graph therefore makes permission an operative condition of the field, where an embedding would leave it as a label.
 
 ## #3 — Trace a shared trajectory
 
@@ -37,10 +37,12 @@ The Bimba reference is itself provisional and revisable. A situated Pratibimba i
 
 Hold a task and relevant sources fixed, perturb one declared condition, and compare both reachable actions and the resulting behaviour. A richer log alone is not success. Relevant measurements include correction of unsupported claims, prevention of unauthorised transitions, recovery of excluded alternatives and the preservation of source scope across context changes.
 
-[Energy-based inference](ebm-resonance.md) is one possible mechanism within this field. Its scalar energy requires declared variables and objectives; the [LeCun house](../../episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) does not supply an entire world or an intrinsic semantic metric.
+[Energy-based inference](ebm-resonance.md) is one possible mechanism within this field. Its scalar energy requires declared variables and objectives; [LeCun’s conditional energy](../../episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/lecun-et-al-2006-energy-based-learning.md) ranks compatible candidates under those declared conditions, rather than measuring an entire world by an intrinsic semantic metric.
 
 ## #5→0 — Return the map-making conditions
 
-The result is an inspectable bounded field whose changes can be related to changes in conduct. “Circumscription without circumstance” is its precise failure: a clear boundary hides the horizon that produced it. Returning the metric, lens, permission and source conditions keeps the circumscription answerable to that horizon.
+The result is an inspectable bounded field whose changes can be related to changes in conduct. Its precise failure is circumscription without circumstance, in which a clear boundary hides the horizon that produced it. Returning the metric, the lens, the permissions and the source conditions keeps the circumscription answerable to that horizon.
 
-This record returns-to [Movement39](../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) and the [six research vectors](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md). [Operational parity](operational-parity.md) governs promotion of this Offered representation. No actual deployed J-space or machine subject is established by the specification alone.
+When a discrepancy comes back, it can do one of three things: correct the addressed claim, if the conditions fit; revise the map, lens, permission or source whose failure it exposes; or leave a fitting condition standing, with the reasons for keeping it. [The bounded judgment field](../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) carries that result into its next act, and the [six research vectors](../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) **test** which condition made the practical difference. [Operational parity](operational-parity.md) holds a deployment claim to the implementation and to the behaviour it actually inherits.
+
+The local judging agent works as knower, its map, sources and tools as means, and the addressed situation as known. The containing person can inspect that centre in a further inquiry, where the apparatus becomes the means and the agent's local judgment becomes known. These offices are relative to one another and stay within Life/Mind, and the first-person condition through which their activity appears never becomes another item in the represented field.

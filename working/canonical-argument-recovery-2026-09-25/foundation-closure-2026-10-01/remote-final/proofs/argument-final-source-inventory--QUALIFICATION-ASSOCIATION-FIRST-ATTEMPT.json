@@ -1,0 +1,11 @@
+{
+  "failed_assertion": "Assumed detector finding text equals whole physical paragraph line. The native unchanged detector truthfully clips text at500characters; full paragraph is separately exact in each owner qualification.",
+  "first_exact_case": {
+    "candidate": "argument-course-winding-return/candidates/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md.txt",
+    "line": 44,
+    "native_finding_text_length": 500,
+    "actual_complete_paragraph_length": 764
+  },
+  "repair": "Check exact native path/line/code/clippedtext association and require full current physical line equals retained complete paragraph; no detector/candidate/owner reason edit. Incorrect guessed reason key names corrected to actual schema.",
+  "candidate_changes": 0
+}

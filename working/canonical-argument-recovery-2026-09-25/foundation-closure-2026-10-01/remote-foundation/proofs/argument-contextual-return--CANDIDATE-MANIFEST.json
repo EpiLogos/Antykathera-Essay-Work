@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "id": "A04",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/preimages/A04-Diaphaneity-Contextual-Transparency.md.txt",
+      "preimage_sha256": "fadc9a39abac5eacecc05037ac6d07deb76b175dff0e753f457b3ac339243924",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/candidates/A04-Diaphaneity-Contextual-Transparency.md.txt",
+      "candidate_sha256": "ece3731c90d7d10c81699fbb8eec4ff492d684914f25b0c3d51facc28fe51d7d",
+      "paired_prime_sha256": "2e691046785c533e69fa15a45cafd09b986bcb423b7205c7a3dd89ede1e13109",
+      "effect_depth": 4,
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/PRE-EDIT-RECOVERY.md",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/SOURCE-READINGS.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/QUALIFICATION-REASONS.json",
+      "status": "Independent complete old/new/source-cold accepted at exact final; parent inclusion and native checks separate.",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A04-CONTEXTUAL-REVIEW.json",
+      "independent_review_sha256": "405803efb15f2d26df431a836b1d0ad810397a3081b76dcea9cecc1ecb064ac7"
+    }
+  ]
+}

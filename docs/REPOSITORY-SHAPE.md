@@ -32,7 +32,7 @@ Every content record belongs to one of the four classes, and the classes organis
 | **Symbolon** | The whole relation and its root records: `0/1`, `1/0`, the slash, self-identity, mono–poly, complexio oppositorum, the eight determinations. | `submission-package/essay/symbolon/` root |
 | **Matheme** | The matheme as register and subject — the full equation `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1` — organised by the four-file system (definition/process/quilt/music) with the Dia/Syn and Mono/Poly logic folders and the domain projections: QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams. | `submission-package/essay/symbolon/matheme/` |
 | **Mytheme** | Lived forms: myth, narrative, poetry, media, art, music, plates. | `submission-package/essay/symbolon/mytheme/` |
-| **Episteme** | Instituted knowledge: sources, histories, etymologies, lenses, maps, dossiers, figures, concept nodes, dialogues. | `submission-package/essay/symbolon/episteme/` |
+| **Episteme** | Instituted knowledge: sources, histories, etymologies, lenses, maps, dossiers, figures, aphorisms, atlas. The concept/argument/conjugate/product nodes house with the rooms since 2026-09-25 (`section-rooms/arguments/`); the empty `dialogues/` register was dropped the same day. | `submission-package/essay/symbolon/episteme/` |
 
 Sources are the evidence class inside Episteme (`submission-package/essay/symbolon/episteme/sources/<domain>/<author>/<source_id>/SOURCE.md`). Placement is by operation, not by folder wish; a record's `register` is declared metadata independent of its node type.
 
@@ -53,18 +53,20 @@ The sovereign essay and the authoring rooms sit **parallel to the symbolon root*
 | `return-of-zero-orienting-principles.md` | Mandatory orientation | governing, subordinate | — | stays |
 | `submission-package/essay/THE-RETURN-OF-ZERO.md` | Sovereign manuscript | sovereign | — | parallel to `symbolon/` (publication 4+2, position `#5`) |
 | `submission-package/essay/section-rooms/` | The rooms (`#0`): each room holds its six movements under `movements/` (the `1`s) drawing on the canonical A/C field (the `0`) through its `P1-CANONICAL-ALIGNMENT.md` — the nested `0/1` of the essay's structured potential | canonical granular argument | `section-rooms/README.md` | publication `#0`, parallel to `symbolon/` |
-| `submission-package/essay/section-rooms/arguments/` | Historical argument carriers (`01–21`), provenance of the quilt; since T09 the rooms' implicate `0` is the canonical A01–A36 / C01–C64 / A01′–A36′ / A/C field in Episteme, routed per movement by `P1-CANONICAL-ALIGNMENT.md` | provenance, cross-section working ground | — | stays with the rooms as provenance; not an acceptance count |
-| `submission-package/essay/section-rooms/<room>/movements/` | The 48 section movements, six per room — the explicate `1`s | canonical granular argument | each room's `ROOM.md` | stays with the rooms (`#0`) |
-| `submission-package/essay/symbolon/episteme/concepts/` | 64 canonical C01–C64 concepts, 22 earlier concept surfaces, and their indexes | canonical granular argument | `index.md` | stays (`episteme/concepts/`) |
-| `submission-package/essay/symbolon/episteme/concepts/reference-notes/` | 90 reference notes recovered from git HEAD, 2026-08-08 | quilt-pending working shelf | `README.md` | quilted into the concept layer |
+| `submission-package/essay/section-rooms/arguments/` | The canonical A/C suite — 36 Arguments (A01–A36) and their README — migrated here from `symbolon/episteme/` on 2026-09-25 by Frank's ratified decision, replacing the historical shelf; routed per movement by each room's `P1-CANONICAL-ALIGNMENT.md` | canonical granular argument | `arguments/README.md` | stays with the rooms; the 21 historical carriers it replaced are frozen provenance under `working/legacy/section-rooms-arguments/` |
+| `submission-package/essay/section-rooms/arguments/conjugate/` | The 36 conjugate arguments (A01′–A36′) and the A/C root (`AC.md`) — the dual face of the field | canonical granular argument | `conjugate/README.md` | migrated 2026-09-25 (was `symbolon/episteme/conjugate/`) |
+| `submission-package/essay/section-rooms/<room>/movements/` | The 48 section movements, six per room — the explicate `1`s | canonical granular argument | each room's `ROOM-<room-slug>.md` | stays with the rooms (`#0`) |
+| `submission-package/essay/section-rooms/arguments/concepts/` | 64 canonical C01–C64 concepts, 22 earlier concept surfaces, and their indexes | canonical granular argument | `CANONICAL-INDEX.md` | migrated 2026-09-25 (was `symbolon/episteme/concepts/`); pre-T09 `index.md` retires after its links re-home |
+| `submission-package/essay/section-rooms/arguments/concepts/reference-notes/` | 90 reference notes recovered from git HEAD, 2026-08-08 | quilt-pending working shelf | `README.md` | quilted into the concept layer; travels with `concepts/` since the 2026-09-25 migration |
+| `submission-package/essay/section-rooms/arguments/products/` | The product field — `S` (World and Life) and `S0`–`S5` | canonical granular argument | `products/README.md` | migrated 2026-09-25 (was `symbolon/episteme/products/`) |
 | `submission-package/essay/symbolon/episteme/maps/` | The 4 transverse paths | canonical granular argument | `return-of-zero-braided-traversal.md` | stays (`episteme/maps/`) |
 | `submission-package/essay/symbolon/episteme/maps/navigation/` | Generated navigation layer (T23): `MOC.md`, per-class `intents/`, `AUDIT.md`/`audit.json`, built from authored links by `tools/build-navigation.py` | generated locator, no authority | `MOC.md` | stays; rebuilt on every canonical change (hook-checked) |
 | `submission-package/essay/symbolon/episteme/sources/` | 180 canonical source houses + projections | canonical evidence | `SOURCE-INDEX.md` | `symbolon/episteme/sources/` |
-| `working/sources-texts-references/chat-logs-for-quilting/` | Raw Taylor chat transcripts | raw provenance | houses under `internal-corpus/taylor/chat-logs/` | stays as `local_copy` shelf; dialogue records migrate to `episteme/dialogues/` |
+| `working/sources-texts-references/chat-logs-for-quilting/` | Raw Taylor chat transcripts | raw provenance | houses under `internal-corpus/taylor/chat-logs/` | stays as `local_copy` shelf; the empty `episteme/dialogues/` register was dropped from the ship surface on 2026-09-25 (Frank's call) — dialogue records remain provenance, never public evidence |
 | `working/sources-texts-references/Epi Paper Write-ups/` | Frank-authored papers (P0–P5, Symbolon Dynamics, Advent of Zero, …) | authorial internal corpus | their `SOURCE.md` houses | internal-corpus houses → `episteme/sources/`; mythemic operations → `mytheme/` |
 | `working/sources-texts-references/Epi Phone Writings/` | Raw Frank fragments | authorial raw | — | internal corpus or `mytheme/` (poetry/narrative) — placement by Frank |
 | `working/sources-texts-references/` root files | Core theorems, QL rewrite, poem set, Kaplan notes, lecture notes, meal outline | authorial/raw/working | — | internal houses or `mytheme/` by operation |
-| `submission-package/essay/symbolon/episteme/histories/` | 10 history clusters | living canonical histories | `HISTORY.md` files | `symbolon/episteme/histories/` |
+| `submission-package/essay/symbolon/episteme/histories/` | 10 history clusters | living canonical histories | `HISTORY-<parent-slug>.md` files | `symbolon/episteme/histories/` |
 | `submission-package/essay/symbolon/episteme/etymologies/` | 5 etymology clusters (protected learning surface) | protected | `README.md` | `symbolon/episteme/etymologies/` |
 | `submission-package/essay/quilt/agentworld-response-matrix.md` | Venue concordance | supporting | — | `episteme/maps/` |
 | `submission-package/essay/quilt/ql-expression-grammar.md` | Expression law (form only) | subordinate | — | carries into Matheme records |
@@ -75,7 +77,7 @@ The sovereign essay and the authoring rooms sit **parallel to the symbolon root*
 | `working/legacy/` | v1/v2 structures | frozen provenance | — | stays frozen |
 | `working/` | Non-publication development surfaces: ledgers, raw authorial shelves, working drafts, deletion queue | non-canonical | `README` | stays as working desk |
 | `submission-package/` | Manifest, Epi-Logos plugin, Epi-Card, essay body, design provenance | submission artifacts | `README.md` | ships; the essay body is its own home |
-| `writing-guidance-tools/` | Writing laws, rubric, calibration | load contract | `README.md` | stays |
+| `PROSE-STANDARD.md` | The one prose standard (replaces the retired `writing-guidance-tools/`, now under `working/legacy/`) | governing | itself | stays |
 | `tools/` | Retrieval, generation, freshness, resolution | tooling | — | stays; operates on the essay body |
 | `tests/` | Real workspace + publication checks | verification | — | stays; source-path expectations updated to resolver |
 | `definition-of-god-working/` | Raw authoring area for Definition of God drafts and chats | authorial raw | its `SOURCE.md` houses (`local_copy` points here) | stays as raw shelf |
@@ -85,7 +87,7 @@ The sovereign essay and the authoring rooms sit **parallel to the symbolon root*
 
 ## Debris removed and recovered — 2026-08-08
 
-- `essay-workshop/sources-texts-references/reference-notes/` (90 files) — deleted on 2026-08-08, then **recovered the same day** under the concept system at `submission-package/essay/symbolon/episteme/concepts/reference-notes/` as a quilt-pending working shelf (Frank's direction). Its granular points resolve into the concept nodes and source houses on quilting.
+- `essay-workshop/sources-texts-references/reference-notes/` (90 files) — deleted on 2026-08-08, then **recovered the same day** under the concept system at `submission-package/essay/section-rooms/arguments/concepts/reference-notes/` as a quilt-pending working shelf (Frank's direction). Its granular points resolve into the concept nodes and source houses on quilting.
 - `Antykathera Essay Work.md` and `Antykathera Concept Index.md` — deleted. The README and the Concept Map (`nodes/concepts/index.md`) supersede them. Recoverable in git history.
 
 Seven wikilinks in the authorial core-theorems file (`10-7-2026-core-theorems-pithy.md`) now dangle against the deleted layer. The file is Frank-authored, so the corrections are his edit (or his call for the agent to make); proposed live targets:

@@ -1,107 +1,71 @@
-# PREWRITE — §4 Psychoid Flowering
+# s4 — PREWRITE (sections A–G)
 
-**Standing:** plan only. Failed candidate and enrichment assembly not yet opened. No draft prose yet.
+Standing: canonical room revised 2026-09-24/25. The six movements are #0 Psychoid Problem, #1 Individuation X/x, #2 Complexio/Quaternity/Senarius, #3 Lacan/Matheme/Mytheme, #4 Apollo Through Dionysus, #5→0 MEF/Prompt Thrownness. The enrichment assembly's older distribution (egg M31 / plasma M32 / Aion M33 / Daphne M35) is comparison material only; in this draft the content-gate elements are woven into the canonical movements they now belong to.
 
----
+## A. Six-movement dependency chain (each movement makes the next necessary)
+1. **M31 Psychoid Problem.** §3 ended with the Arche-Topos derived and its return open to recognition. The new question is what such an ordering relation does to the one who follows it — the question Jung and Pauli could not dissolve between them. Their disagreement (61J vs 62P/64J) is load-bearing: a common ground cannot be one discipline silently absorbing the other in either direction. The egg dream then makes participation literal before the word "psychoid" is asked to carry weight: spontaneous division watched, division performed on what the dreamer already holds, four terms become two rows, the rows one conjugate quotient, speech and circle. Outgoing: an order can be common without being anyone's property; but what makes a pattern hold a life is still unexplained.
+2. **M32 Individuation X/x (with the energetic–plasmic development).** The egg's second division is participation; the lived case of participation under threat is the delayed reply from §2 — now with investment (libido) as why a protective interpretation still organises a life. Distinctions do their work: complex (local arbitration regime), image, archetypal capacity, libido as charge; prāṇa (circulation), Śakti (manifestation/concealment/recognition), Spanda (extension with reserve); Neumann's assimilation (received food alters the receiver); Watson/Gans/Levinas: the Other's answer changes the scale of valuation, refusal included. X = x with the equal sign's Self office; x→X→x. Plasma then gives the physical face of reciprocal conditioning: distribution supplies sources, fields solved under stated equations and boundaries, fields condition the motion the distribution represents; Mono = continuous/infinite whole, Poly = differentiated multiplicity; physics/psychodynamics/metaphysics keep distinct warrants. Outgoing: transformation changes the receiver's capacity to receive an answer — but what is a whole that can be transformed without losing its terms?
+3. **M33 Complexio/Quaternity/Senarius.** Aion supplies the whole historical pressure: a governing image meets its excluded contrary; fish change worlds; the alchemist works the rejected substance until it becomes an eyewash that changes the organ of seeing; four connected quaternia return as a conscious whole with history retained. Jung's quaternion gives differentiated wholeness; QL's `2+2²=4+2` retains the two implicate poles that let a fourfold move and return; the senarius is exact, numerological six is not. Outgoing: the transformed whole includes the activity by which it was recognised — which pushes the recogniser and the means into the account.
+4. **M34 Lacan/Matheme/Mytheme.** The means of recognition: the Sainte-Anne chapel scene (address returned by walls; the audience interruption re-enters the address; the signifier master of the game; the real approached only by a mathematical route) gives Lacan's actual problem of address and formal transmission. The crossed zero then unfolds through its stations `0→Ø→X→Ø/X→(0/Ø)/(1/X)→1⇄0/1` with the hand that marks and erases; Ø is neither ∅ nor Lacan's barred subject; X/x remains native; the personed copula turns recognition on the one identifying (I = Am). Outgoing: recognition implicates the whole way of seeing that had let its means disappear — perspective itself must become transparent.
+5. **M35 Apollo Through Dionysus (Gebser; Daphne; McGilchrist supporting).** Gebser's pyramid history and the 180°→360° turn; "I possess a view of the world" and its inverse reading; the psychic-fact rule (receive the experience first as experienced). Nietzsche's two powers in reciprocal expression; the enclosed image and the dissolving whole are both failures of possession; Daphne — Ovid's whole course, kept distinct from Frank's separate composition — makes another's refusal effective under an image's success (the wood shrank from his kisses; then the seeming nod). McGilchrist once: usurpation, the emissary mistaking itself for the master — asymmetry, supporting only. Outgoing: a whole view that cannot compel its source must show the apparatus of its seeing; refraction becomes the image.
+6. **M36 MEF/Prompt Thrownness.** Stained glass (Bimba/QL-spectrum/MEF-apparatus/pratibimba, joins retained); MEF as declared refraction — source, lens, transformation, agreement, divergence, limit, return; the six whole lens-pairs (Central, Actuation, AIKit, Factory, Workcell, QL) each with its own local sixfold; Prompt Thrownness as paradigmatic individuation (Bratton q032/q033); disclosure vs consequential return; Epi-Logos where returned difference reaches a governing condition and the next act inherits the change. Hands to §5: the person at the screen, the undertaking already altered.
 
-## 1. Chain (six movements as one arc)
+## B. Missing because-steps the draft must supply
+- Between §3's derivation and Jung/Pauli: why psychic consequence is the *next* necessity of a differential field (the order changes its recipient; the person is inside what they formalise) — not "now has to be encountered."
+- Why the psychoid claim stays Argued and not experimental: two descriptions across one seam vs a measurable causal process (M31 tension).
+- Why libido is introduced at all: a distinction can be correct and ineffective — the pattern's persistence needs charge (state-space vs lived investment), then why reassurance fails (it preserves the demand for certainty).
+- Why prāṇa/Śakti/Spanda are not one energy renamed: each must change something in the two carriers (the reply, the plasma field).
+- Why plasma enters: reciprocity through a containing field, shown as self-consistency — after the physics is exact, not as a metaphor licence.
+- Why Aion follows complexio: a quaternity that has never met its contrary is a diagram; the historical course is how a whole earns its opposite.
+- Why Lacan follows Aion: the transformed whole still needs transmissible means; the matheme/mytheme pair answers how an invariant can travel without closing.
+- Why the recogniser enters the account: the crossed zero's stations each add an office the previous sign concealed.
+- Why diaphaneity is not viewlessness: perspective's acquired power retained while its exclusive claim is released (McGilchrist's usurpation marks the pathology).
+- Why MEF is the epistemic apparatus and not a sixth theory: refraction names what every prior movement did implicitly; prompt thrownness gives the agent-world case; the handoff needs inspectability, not new ontology.
 
-| Step | Burden | Because-carrier |
-|---|---|---|
-| M31 | Formal order (§3 Arche-Topos) meets a life | Jung–Pauli disagreement: common field without annexation; egg: witness → participant; algebra and dream keep separate warrants |
-| M32 | Why an order *holds* a life | Delayed reply: protective investment; complex/image/archetypal capacity developed; libido / prāṇa / Śakti / Spanda as distinct operations; Neumann assimilation; Watson ethical Other; plasma particle–field reciprocity under Mono/Poly correction |
-| M33 | Wholeness must bear its contrary historically | Full *Aion* duration: shadow → fish worlds → double → Leviathan → eyewash → echeneis/magnet → Gnostic mediations → Monoïmos → four connected quaternia (Shadow insertion marked) → conscious return; native 4+2 ≠ Jung’s four quaternia |
-| M34 | Recogniser and means enter the account | Lacan: address / formal transmission (wall, bar, barred subject) as *scene*; native crossed-zero sequence with paper/hand/erasure; personed copula; Mytheme↔Matheme without hierarchy reversal |
-| M35 | Whole view meets a resistant other | Gebser: perspective’s power retained in aperspectivity; Frank’s P5 investment; Ovid Daphne whole action; Frank’s Dionysian composition *separate*; McGilchrist supporting (asymmetry/usurpation) unless missing operation found |
-| M36 | Changed criterion reaches next act | Stained-glass refraction; six complementary lens-pairs as whole subjects; training/instruction/memory/tools/permissions/evaluation; handoff to §5 without reteaching O:I products |
+## C. Thinker-presence plan (explicit vs tacit; no removal-test violations)
+- **Jung and Pauli** explicit throughout M31–M33 as situated disputants with letters and dates; never a citation pair attached to "psychoid." Jung's psychoid = speculative approach; his refusal of chemistry-model annexation; Pauli's three languages and adopter-transformation proposal; their unresolvedness is the section's discipline.
+- **Freud** one historical beat in M32 (the unconscious becomes speakable) — occurrence before name.
+- **Neumann** named once (assimilation/centroversion; hunger that alters the receiver); his morphology then works tacitly in Aion and M33; the paper exercise stays Taylor's.
+- **Van Eenwyk** named once at the exact threshold (persistence within a regime vs change of organisation; symbols as transformers of libido); attractor/basin vocabulary then operates declared, not re-taught.
+- **Watson** named once (selfing without self-thing; the Gans/Levinas hinge); the ethical turn then governs without a second attribution; refusal changes the scale of valuation, not the quantity of force.
+- **Lacan** explicit in M34 through the chapel scene (walls, reverberation, interruption, signifier/master, mathematical route); barred subject and S/s kept source-specific; X/x reaffirmed native before the crosswalk; Ø ≠ ∅ ≠ barred subject.
+- **Nietzsche** one named beat in M35 (§1 duplexity, §21 reciprocal expression). **Gebser** explicit (pyramids, aperspectival co-presence, diaphaneity). **Ovid** explicit with Miller's line; Frank's separate composition named as composition.
+- **McGilchrist** one supporting passage (asymmetry/usurpation), criticism gate carried lightly; no neurological derivation.
+- **Bohm** tacit-to-light (plasma confronted him with collective behaviour; dialogue as suspension) — one clause each, no doctrine fusion.
+- **Bratton/Agentworld** explicit in M36 as the venue's own disclosure (agent-generated glossary + its caution).
+- Removal test: delete every name and the operations (spontaneous/performed division; protective certainty; assimilation; changed organ of sight; returned address; recoil; inspectable refraction) must still carry the reasoning.
 
-**Running change:** encountered order alters recipient → energetic investment explains difficulty → whole includes contrary → recogniser/means become visible → another’s refusal withstands image → changed criterion reaches next act.
+## D. Historical/imaginal material that will carry thought
+- The egg: two origins of division (witnessed vs performed), two rows, conjugate quotient, first speech, circle; fixed phase = point, varied phase = circle. Images act: the observer becomes participant.
+- The delayed reply: message that does not come; the painful story that protects; the favourable story that preserves the same demand; an answer that can refuse.
+- Plasma: distribution → sources → fields under stated equations/boundaries → fields condition the motion; boundaries specify solutions; local measure through the containing field.
+- Aion: projection's closed loop; Christ/Antichrist as excluded contrary; fish through baptism, zodiac, Leviathan-as-food; Turba round-creature heated in sea water becoming eyewash (the organ of sight changes); echeneis arresting the ship; the magnet that attracts the fish; Monoïmos's "my" spirit/soul/body; four quaternia A/B/C/D with the modern Shadow inserted; return with history.
+- Sainte-Anne chapel: displacement, walls, reverberation, interruption, discourse bound to its wall.
+- Ovid: Python/oak → boast → two arrows → wish and consent → pursuit and unfinished speech → bark, heartbeat, recoil → laurel's public offices → seeming nod. Frank's Apollo–Dionysus–Daphne: form and participation answerable to a third centre.
+- Stained glass and the six lens-pairs; prompt thrownness; the changed next act.
 
----
+## E. Opening choice for THIS section and why
+Open inside the Jung–Pauli disagreement at its sharpest, historical moment: 1953 letters — Jung's caution against absorbing objects into psychic substance; Pauli's counter-pressure that an enlarged physics would have to transform its adopter; three languages with no umpire. First sentences carry the dispute as an event (two correspondents, one undissolved question), then the egg arrives as what neither could annex. This belongs here because the recon packet names §4's available opening as source encounter/dispute/dream and because the section's discipline — a common ground no side may swallow — is exactly what the disagreement enacts; every later movement (investment, Aion's contrary, the returned address, Daphne's refusal, MEF's counter-reading) inherits that non-annexation rule. The bridge from §3 is carried in the first paragraph's question (what does an ordering relation do to the one who follows it) without a "must now be encountered" stage direction.
 
-## 2. Missing because-steps to supply (enrichment gaps the recon still flags)
+## F. Paragraph-development risks
+- Machine pulse: Vary paragraph architecture by register — the letters sustain longer argumentative spans; the dream needs narrative continuity (no blank-line card per picture); Aion needs macro-paragraphs governed by transformation; Daphne needs episodes, not commentary pulses; M36's lens-pairs must arise from distinct problems, not one template (vary their syntax).
+- Boundary-checklist cadence: put register boundaries where a claim changes standing, then state the positive operation; never append a caveat per sentence.
+- Catalogue risk in the energetic middle: every Sanskrit/Greek term must alter the reply-scene or the plasma-field, else cut.
+- Aion procession risk: each figure must change organ, substance, initiative or responsibility of the preceding one.
+- Announced transfers: replace "this shows that" with the operation; no "the next inquiry."
+- Negation rhythm: lead positive; keep only load-bearing boundaries (Ø/∅/barred subject; fixed/varied phase; synchrony claims; Mono/Poly correction; disclosure vs return).
+- Ending: no maxim-stack; hand to §5 through the changed next act at the screen.
 
-1. **Vocabulary → pressure:** every energetic term must alter the delayed-reply or the plasma reciprocity, not sit in a list.
-2. **Plasma as positive operation:** distribution supplies sources → fields solved under constraints → fields condition motion → local measure through containing field — not “analogy checklist.”
-3. ***Aion* procession risk:** each figure changes organ, substance, initiative, or responsibility of the previous — no emblem inventory.
-4. **Lacan scene:** problem of address and transmissibility first; terms after the scene has pressure.
-5. **Opening uniqueness:** begin in egg or disagreement; demote abstract “math vs life” prospectus.
-6. **Landing:** end on a source, measure, question, permission, or subsequent *act* that differs — not “reflection has changed practice.”
-
----
-
-## 3. Thinker plan
-
-| Thinker | Problem they bring | Terms they earn | Tacit remainder | Frank’s departure |
-|---|---|---|---|---|
-| Jung & Pauli | How psyche and physis share order without one discourse swallowing the other | psychoid, number as border object, three languages | Unresolved; no consensus forced | Arche-Topos as Argued psychoid architecture; care in calculation |
-| Pauli (egg) | Observer outside theorem vs participant inside event | seven pictures; conjugate quotient; circle | Dream ≠ proof of psyche–matter causation | Participation as psychoid refraction of formal reception |
-| Neumann | Intake that changes vs devouring that closes | hunger, assimilation, issue, centroversion | Stadial morphology ≠ QL topology | Paper/mark/erasure is Frank’s; uroboros hole → Anuttara not Māyā |
-| Van Eenwyk | Persistence in a regime vs changed organisation of reception | attractor/basin; symbol as transformer; known→unknown→known | Not a literal individual dynamical model | Native `x→X→x`; QL as entitled attractor |
-| Watson | Ethical otherness vs force to overcome | selfing; need→desire; alterity | Not Noether across registers | Other inside shared Mono; scale of valuation changes |
-| Lacan | Incomplete formalisation and address | S/s, barred subject, matheme as transmission | Not QL theorem | Native crossed-zero; Ø ≠ Lacan’s bar |
-| Gebser | Perspective’s exclusive claim | diaphaneity; co-presence of structures | Not effortless all-view | P5 investment; paradigm/slash becoming problem |
-| Ovid | Form’s claim on another centre | Daphne’s wish, chase, bark, recoil, laurel, seeming assent | Myth ≠ matheme proof | Public emblem ≠ consent |
-| Frank (Dionysus Mytheme) | Form and participation mutual answerability | Apollo/Dionysus/Daphne composition | Authored, not Ovid’s cast | Dionysus only here |
-| McGilchrist | Source/representative asymmetry | master/emissary (supporting) | Contested hemispheres | Usurpation as 1 occupying 0; no neurological derivation of QL |
-| Bohm | Collective behaviour → implicate → dialogue | (bounded) | Not source of QL/tattvas | Historical movement questioning separations |
-
----
-
-## 4. Scenes (images that act)
-
-1. **Egg:** woman/bird → spontaneous division → blue egg already in hand → dreamer divides → trig rows → conjugate quotient → first speech → circle.
-2. **Delayed reply:** unsent accusation / protective certainty; favourable story may keep same demand; Other’s refusal can matter.
-3. **Plasma:** distribution↔field closure under Cordonnier et al. Vlasov–Maxwell self-consistency; Mono continuous whole / Poly differential multiplicity.
-4. ***Aion* marine/alchemical:** fish worlds; Leviathan as food; eyewash; echeneis arrests ship; magnet reverses initiative.
-5. **Paper:** mark, read, erase — hand inside recognition.
-6. **Daphne:** flood/Python/oak → arrows → wish/Peneus → unfinished address → pursuit → bark → recoil → public laurel → seeming assent.
-7. **Stained glass:** light/spectrum/apparatus/joins/room/viewer — changed aperture; next act inherits changed means.
-
----
-
-## 5. Opening unique to this material
-
-Lead with Pauli already holding the blue egg after watching a division he did not cause — *or* with Jung and Pauli refusing each other’s annexation on the page of the correspondence. Either way: act first, glossary second. No “the psychoid relation now has to be encountered.”
-
-Preferred: **egg in hand** (participant pressure) → back one step to spontaneous division → then name the Jung–Pauli disciplinary quarrel as the historical form of the same seam.
-
----
-
-## 6. Risks
-
-- Catalogue energetics (libido/prāṇa/Śakti/Spanda/plasma as synonym stack).
-- Briefing opening / soft “this shows.”
-- *Aion* and Daphne compressed to emblems.
-- X/x attributed to Jung; Ø conflated with Lacanian bar or empty set.
-- Plasma overclaim (torus necessity, consciousness proof, Floquet/helicity leftovers).
-- McGilchrist elevated to master key.
-- Dionysus smuggled into Ovid.
-- Reteaching delayed-reply logic from §2 instead of adding investment office.
-- Uniform paragraph pulse; abstract noun subjects; surname processions.
-- Cutting length >10% below enrichment body.
-
----
-
-## 7. Protected achievements (must survive)
-
-- Whole Pauli egg; Jung–Pauli disagreement as evidence.
-- State-space vs libido charge **and** full energetic conjunction (complex/image/archetype/libido + prāṇa/Śakti/Spanda + assimilation + ethical Other).
-- Mono continuous/infinite; Poly differentiated/local; Vlasov–Maxwell reciprocity with physics warrants separate.
-- Full *Aion* and Daphne actions; Frank Dionysus composition distinct.
-- Deep Neumann, Van Eenwyk, Watson.
-- Lacan as address/transmission scene; native crossed-zero complete.
-- Gebser + Frank encounter; McGilchrist supporting.
-- Stained-glass + twelve-lens pairs into §5 handoff.
-- Psychic fact / historical interpretation / physical explanation / metaphysical claim kept distinct.
-- Authorial X/x; care in calculation / teach the light to shine differently (pressure, not forced first-person testimony).
-
----
-
-## 8. Next steps (after this file)
-
-1. Open failed Grok candidate + enrichment assembly §4 for comparison only.
-2. Write `SALVAGE.md`.
-3. `DRAFT-1.md` — whole section from argument (cold laws/rubric).
-4. `DRAFT-2.md` — one act; length ≥ ~90% of enrichment body.
-5. Return paths, word counts, percent change, gaps. **No review / no self-acceptance.**
+## G. Protected achievements that must not be lost
+1. Pauli's egg dream whole (seven pictures; two origins of division; algebra exact; speech and circle).
+2. Jung/Pauli's actual disagreement (61J, 62P, 64J, 60P, 74P) — no manufactured consensus.
+3. Complex/image/archetype/libido developed in conjunction, not enumerated; delayed reply as carrier.
+4. prāṇa / Śakti / Spanda through distinct operations; mantra/breath a practice crossing them without synonymy.
+5. Full energetic–plasmic development: state-space vs charge; assimilation; ethical Other; Mono = continuous/infinite whole, Poly = differentiated multiplicity; Vlasov–Maxwell self-consistency with boundaries; rejected assistant physics stay rejected; physics/psychodynamics/metaphysics distinct.
+6. Aion's historical/alchemical duration (fish worlds, Leviathan, eyewash, echeneis/magnet, Monoïmos, four quaternia, modern Shadow insertion marked).
+7. Neumann (assimilation/centroversion), Van Eenwyk (regime-persistence vs organisational change), Watson (selfing; ethical alterity) deeply present.
+8. Lacan: actual scene/problem of address (chapel, walls, reverberation, interruption) + formal transmission (matheme, S/s genealogy, barred subject); crossed-zero full sequence; Ø ≠ ∅ ≠ barred subject; native X/x; personed copula to I = Am.
+9. Daphne's whole action; Ovid distinct from Frank's Dionysian composition; recoil and seeming assent both retained.
+10. Gebser's history + Frank's P5 encounter; McGilchrist supporting only (asymmetry/usurpation).
+11. MEF twelve lenses as six whole paired subjects with each local sixfold; Prompt Thrownness with q032/q033; disclosure vs consequential return; changed-next-act criterion; phenomenal localisation stays open without weakening functional agency.
+12. X/x authorial throughout; Jungian/Lacanian material only as named refractions after the native derivation; `1/0` an Argued resonance.

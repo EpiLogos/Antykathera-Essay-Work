@@ -1,0 +1,539 @@
+{
+  "files": 10,
+  "errors": 0,
+  "review_candidates": 76,
+  "findings": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 26,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An achieved thing inherits a process and changes what can happen next. A judgment, institution, image or agent does not enter an empty field: prior relations supply its capacities, exclusions and means of continuation. **Process is ontologically prior to the finished thing; computation names its exact, repeatable transformations; epistemology is that process becoming able to inspect its own determinations.** [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURC"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 51,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A technical evaluation can answer each demand concretely. A selected claim has retrieved sources and an active task; a classifier or evaluator supplies a criterion; permissions determine which action can follow; memory records an encounter and thereby alters later retrieval or choice. An unchanged list of explanatory metadata would fail the fifth test if it could never modify subsequent action. A proposed implementation is assessed by following the actual route from returned result to changed co"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 57,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field|Judgment Field]] defines the technical judgment field. A governed reference map can serve as a local original for readings nested within one inquiry, but it is itself a pratibimba relative to a wider source field. Ontological Bimba is not that technical map. The distinction preserves `world ≠ world-model` while letting a map carry real local authority. Returned evidence can revise the situated judgment, its criterion, or the refer"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 63,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The consequential shared world is the first design object. An action alters conditions another agent inherits. Context changes permission, memory, attention or action; it does not survive merely as text beside an otherwise unaffected pipeline. Agents arise as local contractions of broader capacities for a role, relation or duration. Memory belongs also to relations, places, sources, commitments and unresolved conflicts. Humans, models, institutions and affected worlds retain different powers and"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 69,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment / Economy]] grounds the resource consequence at operational-homology register 3. Finite power, time, attention, labour and energy are distributed before a process acts. [[A29-Power-Delegated-Labour-Return|Power, Delegated Labour and Return]] extends that distribution into the obligation to return evidence, consequence and value. The developmental token-economy question supplies one specific Open test: how a meter"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 73,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The process grammar returns to [the Process dossier](../dossiers/process.md) through an achieved determination becoming available to another act. Whitehead’s corrected 1978 carrier distinguishes an occasion’s becoming, its determinate satisfaction and its function in another occasion; completion therefore contributes a new condition without requiring perpetual indecision. The computational process retains cut, exclusion and return as its own operations. The [Process-science companion](../histori"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 32,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The process lineage supplies distinct movements. Whitehead's inherited many concresce into a new one: their relations become one determinate satisfaction; that achieved occasion perishes as subject and becomes available as data for further becoming. The crucial return is that the product changes the next field. [[symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE|Whitehead's source house]] sources the philosophical lineage; this computational reformu"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "line": 69,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "[[symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment / Economy]] grounds the resource consequence at operational-homology register 3. Finite power, time, attention, labour and energy are distributed before a process acts. [[A29-Power-Delegated-Labour-Return|Power, Delegated Labour and Return]] extends that distribution into the obligation to return evidence, consequence and value. The developmental token-economy question supplies one specific Open test: how a meter"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 20,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Operational parity applies when a philosophical or formal distinction is used to justify a technical feature. That distinction must have a discriminable consequence. It does not require every philosophical claim to become a data object, and a passing implementation test does not prove the metaphysics that motivated it. [[symbolon/episteme/concepts/C45-Operational-Parity|C45 Operational Parity]] defines the enactment test; [[symbolon/episteme/concepts/C46-Epistemic-Cultivation|C46 Epistemic Culti"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 26,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The direct computational-process carrier, developed canonically in [[A14-Computational-Process-Ontology|A14]], supplies six concrete inquiries: what was inherited, what was excluded, what stabilised the branch, what retains source/inverse/context, what the result changes, and whether the result can perish into revisable common data. Computation names repeatable transformation of a field here; it does not turn every reality into a digital machine."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 28,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A supposedly source-aware system can be tested at the point where a corrected primary passage changes its inherited conclusion. A system claiming that world differs from world-model must expose which represented state changed and which encountered resistance prompted the change. A model's record of an event is never the full world itself; separate database columns would not alone establish that distinction. The test concerns the relation between evidence, representation and consequence."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The paradigm version adds one further question: **what relation connects the explicit representation to the enacted field it claims to make inspectable?** If an edited paradigm map cannot change any source, permission, evaluator, capability, developmental form, material binding or relational frame, it may still be a valuable philosophical/visual account. It has not yet demonstrated Epi-Logos as an operating return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|The MEF reference house]] sources an internal architecture, through its complete locally held twelve-lens reference. Each lens carries the whole rotated Name/Power constellation. L4 is not all Power and L4′ is not all Name: the same constellation is grounded from opposite faces. Same-index Day/Night pairing and complementary-index pairing are different relations."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The Name sequence Truth/Mind/Word/Logos/Son/Image keeps articulation; Power's Play/Need/Sacrifice/Decision/Love/Work keeps transformative cost. The native core and supporting field ground these as coequal offices. Operational parity asks what changes when a distinction is promoted into a technical feature: retrieval, retention of exclusions, evaluation, collaboration or return. Attaching twelve labels to the same unchanged output does not demonstrate twelve operative lenses."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The six product pairs now make the same demand at a larger scale. Central, Actuation, AIKit, Factory, Workcell and QL are not validated because software components have those names. Their philosophical office earns technical standing only where **meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation** produce distinct, inspectable consequences. If removing the distinction leaves the relevant operation unchanged in a comparison that actu"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The paradigm distinction adds another important negative result. A system can become more transparent, more self-descriptive and more adaptive while leaving its paradigm fixed. That is not failure in general; it is failure of the stronger Epi-Logos claim. [C43 — Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) may still be demonstrated locally. [C51 — Logos / Epi-Logos](../concepts/C51-Logos-Epi-Logos.md) requires the stronger return by which the explicit articulation participate"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 52,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [[quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|ratified O:I capstone]] admits six native centres as a **candidate technical anatomy**. Minimal Objective Internality does not depend on completion of the maximal QL research programme. [[symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field|C40 Model Internality / Judgment Field]] keeps J-space as a subordinate research object rather than the total concept of the model's interior. A proposed experiment must say which layer it tests and "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 54,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The mature deference carrier's comparison with and without pre-action disclosure supplies one such test design. The relevant changes are delegation, correction and answerability. A result that merely increases self-description does not discharge it. [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares capability situated in coupling and institutions; the unit under evaluation can therefore include artifacts, collaborators and "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 56,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The stronger paradigm test compares **representation without return** to **representation with effective return**. A read-only paradigm display can expose current structure while leaving it causally inert. An effective Epi-Logos loop requires an authorised, attributable path from the articulated distinction into a relevant governing office and then evidence that a later act inherited the change. [C45](../concepts/C45-Operational-Parity.md) now states this test directly. A failed comparison can m"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 66,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Symbol / Account / Trust whole-field — Account re-enters source-field](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) **qualifies** this operation at evidence register 3. Returned source, resistance or consequence must make a discriminable change in inquiry or action. A retained record alone does not establish that the method performed its return. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential l"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 62,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-initiated-return) **tests** operational parity where an eloquent account of its own limit has to change a consequential criterion. The relevant outcome is a revised source, permission, evaluator, task or commission that affects the next act. Initiated return is the Argued vocation; a particular implementation remains an Offered technical test."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 64,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** its technical proposal through changed judgments, selected sources, permissions, criteria and relations between reference fields. Keeping the lens, cover and clustering choices makes a Mapper result examinable; compatibility and gluing duties remain specific to the sheaf route. These are Offered research constructions with no implemented result asserted."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 18,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Technical design already decides what counts as memory, evidence, user, source, permission, context, confidence, agency and success. Epistemic cultivation makes these operative distinctions explicit, revisable and more adequate through use. [[A31-Deferential-Intelligence|A31]] requires encountered difference to revise a model; [[A32-Reflective-Field-The-Mirror-That-Moves-First|A32]] shows why model effects return to the field. A33 asks where those commitments change actual work."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 20,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Operational parity applies when a philosophical or formal distinction is used to justify a technical feature. That distinction must have a discriminable consequence. It does not require every philosophical claim to become a data object, and a passing implementation test does not prove the metaphysics that motivated it. [[symbolon/episteme/concepts/C45-Operational-Parity|C45 Operational Parity]] defines the enactment test; [[symbolon/episteme/concepts/C46-Epistemic-Cultivation|C46 Epistemic Culti"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 22,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The paradigm development now supplies A33 with its most exact technical burden. If Objective Internality is lived/enacted paradigm and Epi-Logos is the return through which that paradigm can become inspectable and refinable, then “paradigm update” must mean more than a new representation or new language. **Some condition of subsequent world-disclosure and action must actually change because the articulated paradigm was returned upon.**"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 26,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The direct computational-process carrier, developed canonically in [[A14-Computational-Process-Ontology|A14]], supplies six concrete inquiries: what was inherited, what was excluded, what stabilised the branch, what retains source/inverse/context, what the result changes, and whether the result can perish into revisable common data. Computation names repeatable transformation of a field here; it does not turn every reality into a digital machine."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 38,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[symbolon/episteme/concepts/C39-Meta-Epistemic-Framework|C39 MEF]] owns the framework. Its mathematical subset and historical-source claims remain independent tasks; neither a musical resemblance nor a generated scale table proves epistemic utility."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 48,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The paradigm distinction adds another important negative result. A system can become more transparent, more self-descriptive and more adaptive while leaving its paradigm fixed. That is not failure in general; it is failure of the stronger Epi-Logos claim. [C43 — Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) may still be demonstrated locally. [C51 — Logos / Epi-Logos](../concepts/C51-Logos-Epi-Logos.md) requires the stronger return by which the explicit articulation participate"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 52,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The [[quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|ratified O:I capstone]] admits six native centres as a **candidate technical anatomy**. Minimal Objective Internality does not depend on completion of the maximal QL research programme. [[symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field|C40 Model Internality / Judgment Field]] keeps J-space as a subordinate research object rather than the total concept of the model's interior. A proposed experiment must say which layer it tests and "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 56,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The stronger paradigm test compares **representation without return** to **representation with effective return**. A read-only paradigm display can expose current structure while leaving it causally inert. An effective Epi-Logos loop requires an authorised, attributable path from the articulated distinction into a relevant governing office and then evidence that a later act inherited the change. [C45](../concepts/C45-Operational-Parity.md) now states this test directly. A failed comparison can m"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "line": 72,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Draft 3]] sources the vocation of an intelligence more exact through structural acknowledgment of its limit. [[symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE|Watson’s protected encounter]] adds durable inheritance across discontinuous acts: corrected products become conditions for later work. [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] gives t"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "line": 22,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The native parents `(0/1)/(1/0)` and `(1/0)/(0/1)` carry the complete body in inverse orientations. The first and returned accounts preserve their source relation. The optical relation places QL in the light's ordered spectrum, MEF in the refracting apparatus and pratibimba in the cast image. A technical world-picture is thus a reflection relative to the wider world; renaming it cannot make it metaphysically Original."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "At this level **holographic** does not mean that a local map contains the whole. It means that the local reference can retain, at its own scale, the relation among source, mediation and projected determination. A Bimba Map is strongest when this whole-relation remains recoverable while the map performs its finite office; its recursive source-dependence is part of its authority, not a defect to conceal."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "line": 53,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A local Bimba can govern reference within a bounded inquiry while remaining source-dependent and revisable within a wider frame. The account’s correction can reach that local reference itself. The resulting distinction **returns-to** that whole field with the consumer’s own source "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The same event read through Workcell's phenomenological and phenomenal pair brings forward another relation: an already situated being encounters a path through sensation, valuation, thought and anticipated possibility, within a body, history and temporal horizon. What the planner calls an equally short route may impose a different lived demand. The second pair does not negate the first. It supplies a difference the causal or numerical account must receive rather than silently translate away."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The §5 product field gives this principle a concrete sixfold without reducing MEF to product architecture. Each product is disclosed by a **whole pair**: Central by L0 Quaternal × L5′ Divine Logos; Actuation by L1 Causal × L4′ Scientific; AIKit by L2 Logical × L3′ Chronological; Software Factory by L3 Processual × L2′ Alchemical-Elemental; Workcell by L4 Phenomenological × L1′ Phenomenal; Quaternal Logic by L5 Para Vāk × L0′ Archetypal-Numerical. The pair discloses the product as one subject. Th"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "line": 47,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The stained-glass relation makes MEF the apparatus of refraction: panes, media, angles, joins and declared transformations. QL belongs to the ordered spectrum being articulated; MEF does not stand above it as a metalanguage that certifies every source. Historical, formal, psychic and technical claims retain their own evidence classes. Their non-equivalence is information for the inquiry."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "line": 49,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The product field therefore becomes an unusually clear test of refraction. One philosophical whole—Objective Internality as the means within Life/Mind—is disclosed through six different but related offices. The products are not six competing metaphysics. They are six determinations of one mediating field, and each pair should let the reader see something that disappears when the product is treated as a software category alone."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "line": 54,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Count-to-Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) changes the office of a distinction: its result becomes answerable through how the lens changed the question, evidence or judgment. The whole rotated Name/Power constellation remains available on either face; the selected lens does not replace it. Returned evidence must be able to alter the mediation used next. A counted distinction becomes an Account when the conditions of counting can be answered and"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "line": 60,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) develops the difference between an account and the source to which it remains answerable. An inspectable lens and gauge explain how a judgment arose without making the framework its ontological source. Returned consequence must be able to change the selected mediation. The account can revise its way of receiving the source while rema"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "line": 16,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A document, expectation, permission, tool or changed environment can carry this relation. What passes between participants acquires constitutive force: it enters what makes their later worlds available. [Objective Internality](C41-Objective-Internality.md) is the lived organisation of those means. Co-Internality is therefore **reciprocal paradigmatic constitution without merger**. Each centre remains capable of answering from a history and situation which the other's account does not exhaust."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The path is not exhausted by either account. The map represented it as passable; the report records a situated obstruction. A revised route can now change where the person travels and what they encounter next. When that further encounter returns, each participant's achieved act becomes a condition of the other's continuation. Records, tools and the resistant site mediate the relation together."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The planner's update does not give it authority to unlock the gate, nor does the person's report automatically change the rule governing access. Observation, representation and permission retain different offices. A common map can carry all three while keeping the sources and powers which distinguish them."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Federated reference maps make this differentiation explicit. Communities can retain locally authoritative maps and still disclose the relations through which their claims can be compared. A map's local authority concerns a declared field; it does not become ownership of every other field. The [Bimba–Pratibimba relation](C38-Bimba-Pratibimba-Bimba-Map.md) lets a derived reference serve further readings while retaining its dependence on wider sources."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Reciprocity requires a route of answer in both directions, though each encounter need not change both participants equally or simultaneously. A one-way update can be a constituent event in that wider relation. It does not by itself establish the whole reciprocal circuit. The next act supplies the discriminating evidence: what did the receiving participant inherit, and how could that use become answerable to the contributor?"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "line": 29,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Dia / Syn](C50-Dia-Syn.md) makes the distinction precise. An encountered difference must remain distinct enough to be examined. A present report and an old map can disagree because their dates differ; a forbidden route and an efficient route can identify the same path under different criteria. These are not automatically logical contradictions. Cancellation would remove the distinction from the account; appropriation would let one term claim the whole relation and redescribe resistance as confi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "line": 37,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "In a constructed route-planning case, a report that a gate is locked can change the map while preserving the objective of reaching the destination quickly. Discovering that a proposed shortcut is not authorised changes the permitted action set. Discovering that the commission omitted a participant's access needs can change the criterion by which routes are judged. Each return has a different target. Repeating the original optimisation with a more emphatic explanation reaches none of them unless "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 18,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A paradigm representation gives this criterion a definite case. If a system claims not merely to *represent* its paradigm but to make that paradigm inspectable and refinable, the claim must identify **which enacted mediating relation can be changed through the representation and what later operation changes with it**. A map that is accurate but causally disconnected from the field it maps may be valuable; it has not yet established paradigm-level Epi-Logos."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A comparison must preserve or account for the relevant conditions while testing the claimed difference. It must also put the distinction to work. Removing a permission-checking route from a task that never requests a restricted action need not change its result. That agreement does not establish that permission has no operational force; the task did not exercise the distinction. A discriminating comparison includes a case in which the relevant condition changes what the system can do. The mature"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A difference between two outputs alone does not identify its cause. Variations in other inputs, permissions or generation must be held fixed where possible or accounted for by repeated, attributable comparisons. Conversely, if the first version routes the information through some other active channel, it was not a read-only control for the claimed operation. The comparison has to follow the actual path of influence rather than the interface's label."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The same logic applies to Epi-Logos. Compare an explicit paradigm representation that is **read-only** with one whose authorised changes can revise a governing relation—source, permission, evaluator, composition, material binding or containing frame—while task and other relevant conditions are held as stable as the test permits. The relevant result is not that users report the second interface as “more transparent.” It is whether a returned distinction produces a traceable change in subsequent o"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 43,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An evaluator's approval states success under its criterion. A claim that the criterion itself became revisable needs evidence of which governing rule changed, how the change was authorised and which later act inherited it. The old evaluator can remain useful for a bounded comparison; its approval alone does not establish those further events. The before-and-after operation must become available to inspection, with a route through which affected sources, users, collaborators or material consequen"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 55,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Operational Parity **returns-to** [Count-to-Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) where the named distinction has a testable locus in retrieval, retention, evaluation or action. The result must distinguish an implementation error, an inadequate operational mapping and a test that cannot discriminate the claim. Keeping those outcomes separate allows revision without making either technical success or failure a blanket verdict on the philosophical fie"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "line": 57,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The source-return test makes the three findings concrete. A correction that never reaches the intended map can expose a broken implementation. A corrected map with no bearing on the decision can expose a mistaken claim about what actually governs selection. An unchanged route in a task that never uses the gate can expose an inadequate test. [Epistemic Cultivation](C46-Epistemic-Cultivation.md) retains the finding in the next revision; [Deferential Intelligence](C47-Deferential-Intelligence.md) l"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "line": 23,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "First make a judgment's structure available: its lens, origin, exclusions, confidence, counterclaim and limit. The disclosure belongs before consequential action where it can affect delegation or correction. A polished retrospective account cannot substitute for conditions that actually governed the decision."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "line": 30,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Encounter puts that structure under pressure. New evidence can contradict an answer; another participant can challenge a category; a failed test can reveal a useless mapping; material consequences can expose an omitted cost. Each discrepancy has to reach the level at which it arose. Repeated optimisation inside the same evaluator cannot remedy a defective evaluator by itself."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Preserve the path of change. An earlier determination can become inherited data with its scope, disagreement and failure retained, rather than a result silently relabelled as timeless knowledge. The next traversal should have a changed capacity. Repeating the same six labels or retaining logs without altered use does not establish cultivation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "line": 50,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "This is where cultivation joins [Logos / Epi-Logos](C51-Logos-Epi-Logos.md). A paradigm becomes epi-logical when its articulated history of change can itself inform and revise the enacted pattern. Versioning is therefore not merely software hygiene in this register: it can preserve **why this source, criterion, permission or relation changed**, making later reversal or further change answerable to the encounter that prompted it. A clean latest state with its developmental tensions erased can be "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "line": 52,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Keeping the old route does not mean continuing to recommend it. Its retained map version, source date, criterion and failure explain why it was once selected and why it was changed. A later reopening of the gate can then prompt another justified revision without making the earlier correction an error. Memory preserves the temporal and evidential relations through which apparent reversals become intelligible. Central's meaningful continuity consists in this inheritable history, not in never chang"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "line": 59,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Loving sensitivity to origins](../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) gives the practice its motive. Eros moves the return toward the life and sources through which an articulation became possible. Compassion lets those origins and the Other remain capable of answering, instead of making disclosure another means of capture. The account becomes more exact while retaining the source it cannot possess. Provenance is the minimum technical body of this orientati"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Objective Internality](../concepts/C41-Objective-Internality.md) names this constituting means of world-disclosure. [Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) names the reflexive return through which an achieved determination reaches a condition of its subsequent making. The ensemble is not complete merely because its components have been named. Its operative relations must be followed."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "An account which understands agency through inheritance, exclusion, consequence and return commits its technical design to those relations. Its alignment claim cannot be discharged by displaying the cuts while preventing every consequential challenge from reaching them. The operative question is whether a returned encounter can revise the relevant means, under attributable authority, and whether the next act inherits that revision."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "line": 52,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The representation and its return also belong to relations among participants. A planner can expose why it selected a route while the affected person contests the aim for which that route was selected. Their powers are not interchangeable. [Shared worlds without merger](A30-prime-Shared-Worlds-Unmerged.md) keeps the encounter capable of changing both sides without giving either side complete possession of the other."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "line": 59,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Meta-Epistemic Framework](../concepts/C39-Meta-Epistemic-Framework.md) makes a source, lens, gauge and counter-reading available within that sequence. A changed lens must change what is asked or admitted; a changed criterion must change how a relevant later act is judged. The harness is the execution environment in which those relations can be enacted and examined. Its record does not include every material, social or historical condition on which it depends. It gives participants definite "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 23,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The Gate does not prove the philosophy by passing an implementation. It asks the narrower and harder question: did the implementation actually enact the distinction it invoked, and can the consequence be discriminated from a version in which the distinction was absent?"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 27,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The venue's design questions are parity questions in exactly this sense. Q10 asks what interfaces, \"against a constrained action-space, instead cultivate the abstraction and tolerance for ambiguity that agent orchestration demands\" (PDF p. 57; verified local transcription, uncarded). Q11 asks for design primitives for agent-to-agent interfaces that \"presume both cooperation and adversariality as norms\" (PDF p. 57; uncarded). Both demand the operationalization, not the mood: an interface that cla"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 35,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "**The negative result counts.** A proposed technical relation has to identify an operation and a comparison capable of exercising its difference. The [[symbolon/episteme/conjugate/A33-prime-Parity.md#3|Removal Edge]] matters most: delete the disclosure, sever the challenge route, freeze the evaluator, merge the worlds, close the audit — and inspect the operation in a case that engages the removed route. An unchanged result in a case where the route was never used does not decide the claim. This "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 39,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "What parity does not demand. Not every philosophical distinction must become a data object — C45's own boundary, retained: a distinction can remain valid unencoded, and the essay does not owe the machine its every concept. A passing implementation test does not prove the metaphysics that motivated the feature. And the venue's scenarios stay scenarios: Q10 and Q11 are pressures toward buildable answers, not evidence for any architecture, [q042](../sources/media-technology-philosophy/bratton/bratt"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 41,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Applied to this field's own honesty: the A′ nodes are arguments, not implementations. Their operational consequences are specified — what would count, at which gate, removable with what observable difference — and remain to be run. Naming where a claim would act specifies its parity test. Passing that test requires the actual discriminating comparison. A proposed consequence that cannot yet be specified returns to the concept and design for clarification rather than acquiring the status of an im"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 49,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The page **returns-to** [A33 — Epistemic Cultivation / Operational Parity](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) and the conjugate root [A/C](AC.md): the partner gave the enactment test for distinctions justifying features; A33′ turns the test on the conjugate field itself — the arc's claims bind where they can be implemented, varied and removed with observable difference, and count as prose where they cannot."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 27,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The venue's design questions are parity questions in exactly this sense. Q10 asks what interfaces, \"against a constrained action-space, instead cultivate the abstraction and tolerance for ambiguity that agent orchestration demands\" (PDF p. 57; verified local transcription, uncarded). Q11 asks for design primitives for agent-to-agent interfaces that \"presume both cooperation and adversariality as norms\" (PDF p. 57; uncarded). Both demand the operationalization, not the mood: an interface that cla"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 19,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Distinctions promoted into design must yield some inspectable consequence in operation, or they are decoration. [A33 — Epistemic Cultivation / Operational Parity](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) established the discipline: when a philosophical or formal distinction is used to justify a technical feature, the claimed difference must have an identifiable operational locus and a consequence that inspection or a meaningful test can discriminate. A33′ re-sites the discip"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 31,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The discipline binds when a distinction justifies a feature. Name the operation carrying it — [C45 — Operational Parity](../concepts/C45-Operational-Parity.md) **defines** the list: retrieval, storage, routing, permission, exclusion retention, evaluator, collaboration, return. Then hold the siblings to it. World versus world-model must show up as which represented state changed and which encountered resistance prompted the change — A33's own test. Source versus derivative judgment: whether a der"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 35,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "**The negative result counts.** A proposed technical relation has to identify an operation and a comparison capable of exercising its difference. The [[symbolon/episteme/conjugate/A33-prime-Parity.md#3|Removal Edge]] matters most: delete the disclosure, sever the challenge route, freeze the evaluator, merge the worlds, close the audit — and inspect the operation in a case that engages the removed route. An unchanged result in a case where the route was never used does not decide the claim. This "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 39,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "What parity does not demand. Not every philosophical distinction must become a data object — C45's own boundary, retained: a distinction can remain valid unencoded, and the essay does not owe the machine its every concept. A passing implementation test does not prove the metaphysics that motivated the feature. And the venue's scenarios stay scenarios: Q10 and Q11 are pressures toward buildable answers, not evidence for any architecture, [q042](../sources/media-technology-philosophy/bratton/bratt"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "line": 49,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The page **returns-to** [A33 — Epistemic Cultivation / Operational Parity](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) and the conjugate root [A/C](AC.md): the partner gave the enactment test for distinctions justifying features; A33′ turns the test on the conjugate field itself — the arc's claims bind where they can be implemented, varied and removed with observable difference, and count as prose where they cannot."
+    }
+  ]
+}

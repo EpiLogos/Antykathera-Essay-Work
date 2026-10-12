@@ -1,0 +1,104 @@
+{
+  "reviewer": "concept_recovery",
+  "date": "2026-10-02",
+  "status": "Accepted complete selected-source/public operation at exact final hash",
+  "native": {
+    "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+    "sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82",
+    "bytes": 20753,
+    "scope": "Native bytes checked exact against retained preimage; not edited by reviewer"
+  },
+  "before": {
+    "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/FANON-before.md.txt",
+    "sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82",
+    "bytes": 20753,
+    "scope": "Entire136-line preimage actually read; exact old58–95 freshly returned after aggregate diff clipping"
+  },
+  "candidate": {
+    "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/FANON-candidate.md.txt",
+    "sha256": "f0e2737045954bd2e77bf57ff539377d1d410bf47dec04565a0e59f2cdba29da",
+    "bytes": 22711,
+    "scope": "Entire136-line final candidate freshly read untruncated"
+  },
+  "fresh_own_sources": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/SOURCE.md",
+      "sha256": "d6f1c357bbe1861fbfbd3e0b914941c198c0a64405934323473c0c6e1d44b240",
+      "bytes": 12756,
+      "scope": "Entire source house freshly read untruncated"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-pages.json",
+      "sha256": "6ba5e1756fc1a955411c7834a23f1f09a52a847084fc68ab206bd1cc9308282b",
+      "bytes": 565034,
+      "scope": "Selected complete French material freshly read, one-based PDF28–35;36–56 in36–46 and47–56;118–148 in118–128,129–138,139–148;207–220;221–229. All outputs untruncated. Not all260pages."
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/fanon/fanon-1952-peau-noire-masques-blancs/peau-noire-masques-blancs-tremblay-2011-fr.pdf",
+      "sha256": "a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123",
+      "bytes": 1315614,
+      "scope": "Immutable PDF hash checked; selected material reviewed through retained extraction, no PDF mutation"
+    }
+  ],
+  "retained_own_basis": "Prior actual full core/authorial minute/anti-overclaim correction/Dynamics/Neumann; earlier whole paired A27 review and complete actual A20/A30/C21 operations. These are retained version-bound reads, not newly claimed complete external books. Depth source ledger read as attribution, not substituted for own primary read.",
+  "accepted_operations": [
+    {
+      "unit": "#0/#1",
+      "basis": "Introduction32–35 economic then inward/epidermal inferiority, historical objective/subjective conditioning without mechanical dependence and situated Antilles/time; chapterI37–56 languageworld/capacity, prestige, returned critique, paternal speech and qualified praise. Capacity and imposed valuation distinct."
+    },
+    {
+      "unit": "#2",
+      "basis": "EntireV118–148 historico-racial then epidermal schema, trainspace/body/ancestors; rational refusal, appropriated poetic/cultural claim, Sartre temporalisation versus lived completion, plural experiences and final tears. No false reconciliation."
+    },
+    {
+      "unit": "#3/#4",
+      "basis": "Mask efficacy/inward measure preserves unselected genderchapter differences; entireVII207–220 social white third term versus Adler individual, two-sided Hegel operation versus master wanting labour, scoped French/US difference, affirmative action and refusal. Effective powers remain unequal."
+    },
+    {
+      "unit": "Conclusion/#5→0",
+      "basis": "Entire221–229 doctor intellectual alienation/labourer hunger exploitation, child labour versus past civilisation, future choice versus racial destiny. Material relation/person can answer."
+    },
+    {
+      "unit": "Four comparisons/four distinct worlds/return",
+      "basis": "Acquired capacity/transmitted measure, category history/bodily reception, unequal co-internal authority, protected representation actual return; NumberSix/Daphne/mirror/Attica mechanisms distinct. Fitting retention is not license to insulate racial hierarchy. Proposed terminology not assigned to Fanon."
+    }
+  ],
+  "individual_boundaries": [
+    {
+      "stronger_inference": "Whole work or Jeanson paratext read/collated",
+      "reason": "Only entire introduction,I,V,VII,conclusion reviewed. Other chapters keep distinct source scope."
+    },
+    {
+      "stronger_inference": "English paraphrase verified translated quotation",
+      "reason": "French electronic resetting selected; no English translation or physical-print collation."
+    },
+    {
+      "stronger_inference": "Source recovery ratifies proposed comparisons",
+      "reason": "Inherited human-amplification:no retained in moved governance; proposed constructions do not become human ratification or Fanon terms."
+    },
+    {
+      "stronger_inference": "Two inward centres imply symmetric colonial power",
+      "reason": "Authority/labour/refusal unequal; VII distinction retained."
+    },
+    {
+      "stronger_inference": "Neumann chronology makes racial hierarchy necessary stage",
+      "reason": "Archetypal comparison neither supplies colonial history nor locates people on psychological development."
+    },
+    {
+      "stronger_inference": "Retained adequacy legitimises racial measure regardless of answer",
+      "reason": "Actual person/evidence can contest adequacy; insulated criterion not openness."
+    },
+    {
+      "stronger_inference": "Private chameleon biography/Jung persona explains Fanon",
+      "reason": "Already existing image comparison only; no private detail or Jung historical proof added."
+    }
+  ],
+  "checks": {
+    "native_preimage_exact": true,
+    "frontmatter_exact": true,
+    "curly_quotes_exact": true,
+    "anchors_exact": true
+  },
+  "read_limits": "Aggregate old/newdiff8710tokens clipped#3/#4; exact old58–95 returned untruncated alongside prior wholeold and fresh wholefinal. No all-effects semantic acceptance; parent owns heavy checks/Git.",
+  "remaining_exact_faults": []
+}

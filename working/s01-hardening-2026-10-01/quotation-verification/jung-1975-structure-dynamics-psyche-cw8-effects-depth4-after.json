@@ -1,0 +1,41 @@
+{
+  "root": {
+    "id": "jung-1975-structure-dynamics-psyche-cw8",
+    "title": "Jung — The Structure and Dynamics of the Psyche, CW 8 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1975-structure-dynamics-psyche-cw8/jung-1975-structure-dynamics-psyche-cw8.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — The Structure and Dynamics of the Psyche, CW 8 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-1975-structure-dynamics-psyche-cw8-p001 — The archetype and its representations",
+      "jung-1975-structure-dynamics-psyche-cw8-p002 — Mana citation"
+    ],
+    "sha256": "40125f8272e10e3df5fbc3dfeec07e625df5b9d18028518842ef5dad09c1cdfc",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

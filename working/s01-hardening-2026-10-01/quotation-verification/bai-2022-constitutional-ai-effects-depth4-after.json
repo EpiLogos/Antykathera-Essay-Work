@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "bai-2022-constitutional-ai",
+    "title": "Bai et al. — Constitutional AI (2022)",
+    "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/bai/bai-2022-constitutional-ai/bai-2022-constitutional-ai.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Bai et al. — Constitutional AI (2022)",
+      "Bibliographic identity and Chicago 18 forms",
+      "q001 — Critique, revision and preference training",
+      "q002 — Human contributions remain",
+      "Rights and acquisition"
+    ],
+    "sha256": "692f2abd3a00e11de0db6fca845323990e3c4c806ecaa021977caae33d2f31e3",
+    "record_type": "preprint",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

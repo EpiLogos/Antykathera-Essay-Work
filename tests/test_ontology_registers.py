@@ -57,8 +57,8 @@ def frontmatter(path: Path) -> dict:
 def build_fixture(root: Path) -> None:
     """A real minimal canonical tree exercising register mechanics."""
     section_dir = root / "submission-package/essay/section-rooms/00-integral-threshold/movements"
-    argument_dir = root / "submission-package/essay/symbolon/episteme/arguments"
-    concept_dir = root / "symbolon/episteme/concepts"
+    argument_dir = root / "submission-package/essay/section-rooms/arguments"
+    concept_dir = root / "submission-package/essay/section-rooms/arguments/concepts"
     path_dir = root / "symbolon/episteme/maps"
     for directory in (section_dir, argument_dir, concept_dir, path_dir):
         directory.mkdir(parents=True)
@@ -171,17 +171,17 @@ class RegisterFlowTests(unittest.TestCase):
             )
             self.assertEqual(
                 {hit["path"] for hit in matheme_hits["hits"]},
-                {"symbolon/episteme/concepts/apoha.md"},
+                {"submission-package/essay/section-rooms/arguments/concepts/apoha.md"},
             )
             episteme_hits = run_tool(
                 TOOL, root, "find", "zero", "--register", "episteme"
             )
             self.assertIn(
-                "symbolon/episteme/concepts/zero.md",
+                "submission-package/essay/section-rooms/arguments/concepts/zero.md",
                 {hit["path"] for hit in episteme_hits["hits"]},
             )
             self.assertNotIn(
-                "symbolon/episteme/concepts/apoha.md",
+                "submission-package/essay/section-rooms/arguments/concepts/apoha.md",
                 {hit["path"] for hit in episteme_hits["hits"]},
             )
 
@@ -201,7 +201,7 @@ class RegisterFlowTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
             build_fixture(root)
-            (root / "submission-package/essay/symbolon/episteme/arguments/02-fixture-cross.md").write_text(
+            (root / "submission-package/essay/section-rooms/arguments/02-fixture-cross.md").write_text(
                 "---\n"
                 "title: Fixture Cross\n"
                 "node_type: claim\n"
@@ -222,7 +222,7 @@ class RegisterFlowTests(unittest.TestCase):
             self.assertEqual(
                 mismatches,
                 {
-                    "symbolon/episteme/concepts/apoha.md": (
+                    "submission-package/essay/section-rooms/arguments/concepts/apoha.md": (
                         "concept must declare register episteme, found matheme"
                     )
                 },
@@ -233,13 +233,13 @@ class RegisterFlowTests(unittest.TestCase):
                 if debt["kind"] == "invalid-register"
             }
             self.assertNotIn(
-                "submission-package/essay/symbolon/episteme/arguments/02-fixture-cross.md", invalid
+                "submission-package/essay/section-rooms/arguments/02-fixture-cross.md", invalid
             )
             self.assertNotIn(
-                "symbolon/episteme/concepts/zero.md", mismatches
+                "submission-package/essay/section-rooms/arguments/concepts/zero.md", mismatches
             )
 
-            (root / "submission-package/essay/symbolon/episteme/arguments/03-fixture-invalid.md").write_text(
+            (root / "submission-package/essay/section-rooms/arguments/03-fixture-invalid.md").write_text(
                 "---\n"
                 "title: Fixture Invalid\n"
                 "node_type: claim\n"
@@ -257,7 +257,7 @@ class RegisterFlowTests(unittest.TestCase):
                 if debt["kind"] == "invalid-register"
             }
             self.assertIn(
-                "submission-package/essay/symbolon/episteme/arguments/03-fixture-invalid.md", invalid
+                "submission-package/essay/section-rooms/arguments/03-fixture-invalid.md", invalid
             )
 
     def test_writing_context_packet_carries_register(self) -> None:

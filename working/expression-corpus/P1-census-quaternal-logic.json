@@ -1,0 +1,911 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "quaternal-logic",
+ "product": "Quaternal Logic",
+ "suite_position": 5,
+ "status": "frozen-census-basis",
+ "admission_disposition": "NOT AN ADMISSION \u2014 no canonical authored-record census exists for this product's Expression corpus yet; this receipt freezes the committed authored-prose surface (all committed .md at HEAD) as the census basis an owner/product lane can admit from. Which records are Expression corpus members is an owner disposition.",
+ "source": {
+  "repo": "EpiLogos/Quaternal-Logic",
+  "branch": "session/k-aw-expression-production-2026-09-17",
+  "commit": "81d1af154339422c1087770121a9feafc6d7fbc8",
+  "hash_note": "sha256 over exact committed blob bytes at HEAD (working tree never read); git_blob_id is the object id"
+ },
+ "record_count": 148,
+ "records": [
+  {
+   "path": ".wayfinder/maps/k-aw-expression-production.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7e3a7d9a1321bd2762adeab57779ca949eded55a",
+   "sha256": "482a96059cdfea2e5ace7a3b33669168e042de181fb4bdca6483aae21d080672"
+  },
+  {
+   "path": "AGENTS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4b3ac82ebd71f460d1a367978aae5d79fcabcac3",
+   "sha256": "ed06c1febebed563c9f234afbf53e81c7c11625af1062ab856e0e92f799b241d"
+  },
+  {
+   "path": "ProjectCentral/agents/governance/repo-content.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dba3012504baf2a5cfaef150d4f0b6232c977a3a",
+   "sha256": "1c651e17ee6f90bc8bb238647d7d61cb3d6f0405cf1b1f4f0b95f2e5b0f9b287"
+  },
+  {
+   "path": "ProjectCentral/agents/governance/repo-structure.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "814291bfde7f610c0edffe766dcd10bc23fd5489",
+   "sha256": "aab5f5ec2288a9d0223b008f37fa4d2330300e9ddf1230fe5e4fb7455cd05920"
+  },
+  {
+   "path": "ProjectCentral/now/day/2026-09-06.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ba5a72054d794a3142f3770defbf9a23ab791218",
+   "sha256": "f9ae6ba8a5760515b6efc8b8cdf807cfb3339e97082a72cb3316240c05d78186"
+  },
+  {
+   "path": "ProjectCentral/now/day/2026-09-07.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4a8ae848f4b6a6c5c11f46dc4d2c39b67f589a21",
+   "sha256": "f18964f78eb95482960f32b32c3ad866631ee9ff534fbe0a827afdf8709b0cb5"
+  },
+  {
+   "path": "ProjectCentral/now/day/2026-09-08.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a23caecf5260ebb9a867e41a352ff3fc1ec5a9a4",
+   "sha256": "e723746c81910e9c8716e8a48570d7d735e1ea1fed80ba201fc54e78a4d9a17e"
+  },
+  {
+   "path": "ProjectCentral/now/day/2026-09-11.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1eabe234d743e1e18aac1b5d01b58805fed9d239",
+   "sha256": "0471f2ec06372b051403264af95607a002a87871b1eb281197f4329291c17247"
+  },
+  {
+   "path": "ProjectCentral/user/capability-matrix.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d6d0a6b4de98006ca9ba93d8d6ebc71e2847c055",
+   "sha256": "e522e932ab8949723956bdd20da5275df91be4fe3e7ed9b1d4ec8e80fba7035e"
+  },
+  {
+   "path": "README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c0219824d39aaf8ac8bbab2120da5f49fe3df64c",
+   "sha256": "c9283e67611ea05213c5fa2097282fe6842f2afac79093449d425a1c4fb3523c"
+  },
+  {
+   "path": "adapters/techne/surfaces/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8e534a5d4c1aabd1af7e180a5b0c8d15016e3975",
+   "sha256": "0aad5f0a18709591b8acc9326459d551f3c2fefd05d8cb329d3e428dee9ed4c7"
+  },
+  {
+   "path": "c/registry/promotions/sources/25d07a69482fa0cd1655a0ab207085f751572608.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "25d07a69482fa0cd1655a0ab207085f751572608",
+   "sha256": "4ae05ccd80d46a0f045388f7db21de337bd2fe1e8cc89aa42beeee7cdc8f8889"
+  },
+  {
+   "path": "crates/ql-mef/AGENTS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1e93b75c9e18a5ff5e71766643895755ac47b890",
+   "sha256": "cc95063e5f869cc61c68f0f89199b85ca89615f6b8403158d1f43cf5414dd721"
+  },
+  {
+   "path": "cypher/CYPHER-LOG.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "619c585c0402322d2b28a99e554c641aa2da160b",
+   "sha256": "5e6d3ecb5329ce30f9334dd0355b3bd587040437be74ce73c221719e7dc81ec3"
+  },
+  {
+   "path": "data/epi-bimba-map/anuttara-language-map.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "22835042d4d2c4ba821c252bd4fbfe52f39712ef",
+   "sha256": "4c0e10999f4e3f31af0eb280a490061bec4a39ca77a854b7b1875af9c76f8cb5"
+  },
+  {
+   "path": "docs/CI-TOPOLOGY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "45290b210784a666e299759823cda75a5ebec9bc",
+   "sha256": "82be263feedb1be54412344354a51193b98d3bc7db2affc1500e4b92e263a6e2"
+  },
+  {
+   "path": "docs/CONTEXT-FRAME-EXTERNAL-TARGET-READING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "233c681340d469de3961dd3805ce573b98e8794b",
+   "sha256": "989e6060cce080fb372c5796b9c1ac5d726dc6b54bcb9624a3adc7614062bb42"
+  },
+  {
+   "path": "docs/HOLOGRAPHIC-KERNEL-FORMAL-REFERENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "497b2367340b9005c4aa094f4dfab5c41e83fd29",
+   "sha256": "e6efe6a33451c98a2a75c8e48d372e21f1d8102927387c690992572644b10c66"
+  },
+  {
+   "path": "docs/KERNEL-M-LEDGER-MATRIX-LOCK.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "04a14aab1af93a04cc650e1831043ba88c8de088",
+   "sha256": "cd736a6cc0ef13ff6f3ce6634ba801e5faa63760baec84627739685a1b3dba76"
+  },
+  {
+   "path": "docs/KERNEL-M1-ENGINE-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1fa961d48a01a641356540a7fb890f6471bfa5fb",
+   "sha256": "254249f065f7d857deb57b6e6687f881bfa7abffc2aad20e03bab4374d5ce848"
+  },
+  {
+   "path": "docs/KERNEL-M3-ENGINE-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "110ef33276edc5ec3759d32f394673c5e7354372",
+   "sha256": "90558a6c554eaec3afd90594f69f4537ccff0766cf47c209679b200635a009f3"
+  },
+  {
+   "path": "docs/KERNEL-NATIVE-C-FOUNDATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a26961f59e2f0283d8f4f3ddaad3e6077d32ac81",
+   "sha256": "998765bae3efdc9097120141224ed2364c2b109d99e7416990c698b5a84639cd"
+  },
+  {
+   "path": "docs/KERNEL-REBUILD-SOURCE-CANON-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5efc418c72586b1616ad38f60b0e6fbfcdaa5394",
+   "sha256": "645b7771c1435617b14453ab41374600e10f409106054b30ad505cb04c5cc430"
+  },
+  {
+   "path": "docs/KERNEL-REBUILD-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8e4f5ea5a6d7b4b1824103d814095e1646743fc2",
+   "sha256": "640a7454a162130527a596b53d10cb357861122f2c2916466f95f079ba3b786b"
+  },
+  {
+   "path": "docs/KERNEL-RECURSIVE-M-REGISTRY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3c3e01075c2aef65f779970a39b97849580a5734",
+   "sha256": "6388f3e2851c23346f15fe87f75a260a7dc0feadfca65a59c18d59e8b53574d5"
+  },
+  {
+   "path": "docs/L5-TECHNE-DUAL-READING-LOCK.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "58cf71776c8f4007eb6c87709555aa29665aaa8a",
+   "sha256": "d953a9c886133bb512a1ebf017d77727fe5b80854f3fd479a45a43c06db70d85"
+  },
+  {
+   "path": "docs/L5-TECHNE-INSTRUMENT-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2e5914fff98db840cfd7081b198a077a5bed74e6",
+   "sha256": "0ec40133db9befd074648945b44a8fb1861527844a99279ef54c836d6435cc9f"
+  },
+  {
+   "path": "docs/L5-TECHNE-INTEGRATED-DEVELOPMENT-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0db37467099cec4c7938c8618a9ed5859fdcaf55",
+   "sha256": "cf3d2371d388ff3e0777d594c173920d16991942ac5535a95fa240b68694f4b1"
+  },
+  {
+   "path": "docs/L5-TECHNE-PARALLEL-DISPATCH-MAP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4d0e27d7f1a767fe87d997207e696709cdc90ca6",
+   "sha256": "1eaece7ea83fe6c9539d14f33e78004e8aa82a8ed3aed7dcbde2fd8442221e25"
+  },
+  {
+   "path": "docs/L5-TECHNE-T9-INTEGRATION-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6af271389a0df0571395d430ce25adc58675c05d",
+   "sha256": "199ec69e700c5be9f8f2ff8926e66a980e970d268c3b403df23ae18adf68bac2"
+  },
+  {
+   "path": "docs/L5-TECHNE-TB0-CONNECTIVE-BASE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8e1ac1245b47b3653c7dcd3129dbd370039ec076",
+   "sha256": "d0ebd1bdb08020c6015f80446dcf83ccf3fdfc96a6437bd306ef146f512c3b83"
+  },
+  {
+   "path": "docs/OI97-NATIVE-CLI-ADMISSION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "966eec7003268168870b1c53cbfd33cac330a159",
+   "sha256": "227677cd226f11133cc0dc8361872c81ebab033edd4de746ca9fce3a2c08541c"
+  },
+  {
+   "path": "docs/Q1-DETERMINISTIC-KERNEL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8c1764e0dcef1a91aa981631831f5401e8f7ea83",
+   "sha256": "689ce8e0999c020db762a33430246040585d9e87d43a66dd5e1f3d8a4aba5b5a"
+  },
+  {
+   "path": "docs/Q2-MEF-REGISTRY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6df44236197b173b2414ac0f3875f7199fcd2c43",
+   "sha256": "ee895aed6a2a71036a696826a1f55d33993639ca70ee51635a50ea7ace2ed39e"
+  },
+  {
+   "path": "docs/Q3-PROVIDER-SERVICE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c0bb8ea52ec2fc5f55a6d88fede09a21164186e3",
+   "sha256": "398a0bb4712f063d9c74490c13fb1169677009b897e5243def9eb280da8418bb"
+  },
+  {
+   "path": "docs/Q4-CLIENT-ADAPTERS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a821c342de0eb05ec373a7b52e91a8b100ea4ec0",
+   "sha256": "c741ad2da8a94349c83051214286fe556439e2b32a0a473c4caeaedbd77bd2de"
+  },
+  {
+   "path": "docs/QL-STRUCTURAL-CARRIER-CONTRACT-V1.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2ead7ea9e1fafb67fb546a3e3187ac498d9e3330",
+   "sha256": "fa3cd85698a51b38c39ae6bcc66fbe8ede0bd65eaca20c233b2d51ecb077efbe"
+  },
+  {
+   "path": "docs/QL-VAK-KERNEL-RECONCILIATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3e515c404efdd61c56111025b9d9598c93bb6b84",
+   "sha256": "512b100955c0422b2ea49485c32f572ccb940a29f0a39f14ee44e9c3b520a4ef"
+  },
+  {
+   "path": "docs/VISUAL-PRODUCT-UNDERSTANDING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d01f1acbda2e4955d17a47c04f43b31037a8ed41",
+   "sha256": "c7e595ddb197e98b02dd10ecded22ff486de5950dce794c91f18adbc3ad12d70"
+  },
+  {
+   "path": "docs/geometry/CANONICAL-CONSTELLATION-RESOLUTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f790f721b94ecd90b01338eb6b83654365ed758a",
+   "sha256": "e3d2b8c6e2b36475dcd2c71ca65a009a209bf45e4e6ea32f156574210f97a6b5"
+  },
+  {
+   "path": "docs/geometry/FOLD-AND-RULING-GRAMMAR.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c91f00b38dbbeea5dec497f7a0939d863c6b7b76",
+   "sha256": "be05db80cb5f57b55cd82637962cfd741933f994660fff2cbf07e22f05efa673"
+  },
+  {
+   "path": "docs/geometry/FOURTH-SPANDA-EQUATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0355910cf69a57c417d2cef94d4aa7d93f97f5fc",
+   "sha256": "63d731c5518d000ae0da982c21c2dd10fab7fc0385e6f8ffc172953aad764ee7"
+  },
+  {
+   "path": "docs/geometry/GEOMETRY-CONSTELLATION-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5490435612ee0b903831953b77b2acab04f2a467",
+   "sha256": "eec1a69421e653a5d093d141ecf32be68cfad6d846fdacfa5fbe2bd90bfdeded"
+  },
+  {
+   "path": "docs/geometry/ORIGAMI-FOLD-GRAMMAR-RECOVERED.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6ba3048c2d2f0a9effbe78141c17f3ed088f600e",
+   "sha256": "567746627986b9f7e4b912ab55ed8bfca5d5415e6a7723e315bb46bc747fee6c"
+  },
+  {
+   "path": "docs/integrations/epi-logos/AW-SPRIME-CONTINUITY-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "466fced3c03d7aa245513b0f433fb34dfa9ef5dc",
+   "sha256": "a6213c727bdbfcd490d6fa617ab0438781935865907330a1373953b48731613a"
+  },
+  {
+   "path": "docs/integrations/epi-logos/AW0-SOURCE-NATIVE-FIELD.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0e4a84b532d980e91dd7e0356efcc7d8615b3d4a",
+   "sha256": "10e3881c639824e61d6b8d2fe538b81c81dbbdce2f73393ccedde4ce1ebb9654"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-BIMBA-PRATIBIMBA-COORDINATE-PARITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d0557f040f1dde21008a9d730bf9e7a5098accc7",
+   "sha256": "3608ec1cf8592bd57849139afdebe3aca650e661c4587199c0bdedf1b97951ac"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-C-KERNEL-MIGRATION-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9dccac418f8a5c3b8e544837eee5e4a6f884837a",
+   "sha256": "0077f6bf4efeff2ef9d4895b3c724a814ce156f2390df0ffbbea9d209fd66364"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-C-KERNEL-MIGRATION-STANDARD.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "af50fb025f388472f9ad65550425631aef22402e",
+   "sha256": "fc44f0a5a833b86ca28e3b018c95ca230e0f5dcd4545da6c8b9ba210f70b48d5"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-C-KERNEL-REFERENCE-MAP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b6c709fbd1c0972ad4bbb99d78522575a76c6714",
+   "sha256": "22e28e0a776d42a354018328b108b1c43a9ea5272ee49f542118b6ddb89ae118"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-C-QV-DATA-AUTHORITY-GUARD.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "955357bf391ffe6043ba6a33535cd466869fe8d0",
+   "sha256": "a2b1cd9dd00615267bc45b83c1ee2dc443297022ee70662ea19478b17c0ae4eb"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-CAPABILITY-MATRIX-FIELD-INDEX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9078021f364bceef9fe24cb15fb72152a293f54f",
+   "sha256": "61e74bcbb6175c303fe7b156cf4ec67ab88bd1932f22e36d6ed2adbf145a849a"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-CAPABILITY-MATRIX-SOURCE-TRACE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fb710871d214ed83116bea34af3645fab487fda3",
+   "sha256": "7337325f3b116cdd2596b1fba0c5bf30735b3b83588467a78158032394870c8c"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-CAPABILITY-READINESS-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "96756fa4a2e898da2a3ec67f13b2f45123a33fbd",
+   "sha256": "b605fdc1b6caae62be25510baadb14f2b8d8e9bf200900a8232c783b7aac0763"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-DEEP-SUBSYSTEM-CAPABILITY-MATRIX-PROTOCOL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1a30ba5194a207aa45aa8d7c7d33cbae9c8ceeeb",
+   "sha256": "d2507b5eae1856ee5164e40e467651f218b81cb6b7eeb2f2457256e06fc7a2ea"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-HOLOGRAPHIC-KERNEL-ORIENTATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "695981cf4b48d39b5dd74f84987c878d09d17537",
+   "sha256": "8b2070ec749b4047543e5b7748c256ddd421275792bcd9fa8dd22d61d50268df"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-LOGOS-ALFONSINE-ORIENTING-FIGURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "267f2e77e6623e1061c67e2522111da81690021a",
+   "sha256": "aac4ee9fe68584b4051e507e0e19e909e2787daab3f5ab0e995549fbb044f219"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-LOGOS-DEVELOPMENT-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7d65bbc8be3df947a5a3902e607404508f698a8e",
+   "sha256": "09c07856f2980961f7a3dd1666939159f77c25698139006a97dcb5c2505defc4"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-LOGOS-QL-MEF-FOUNDATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3fc322272d5d56cb0aa0403f973a9bae57c551b6",
+   "sha256": "a18db400d740853cf013b69251e8a77a2c4ce758871fac155dc27a1c9c22d2ef"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-LOGOS-RECONSTITUTION-DISPOSITION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "be77d4b4f19ec85ce0324e7d3809f1ffc772229c",
+   "sha256": "ae51ce188b5b9a7aa102dd1ed2d82cc37286b0820f84a99da39160ca636d79d3"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-LOGOS-SOURCE-OF-TRUTH.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fde1384bb6018dfd2b3d3b3850b1e8a2b876de56",
+   "sha256": "b68688d3aa268f9c3c69a79614517f9c5d23216a1e1c80231faecac9b47630e1"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-LOGOS-SOURCE-SUBSTRATE-INVENTORY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "19d4ef0f22b5b293fac86168bae8800ef32876dd",
+   "sha256": "6c8dc4108ad85a066b0185610735ae30d3ca2885b70fa430e1e95b6b9f1a784e"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-M-CAPABILITY-FIELD.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2bef6eeb6c6fe50920d4e3fe4012d87d15b74771",
+   "sha256": "964ffd4b836af87a22572119e3f0ee655797ef8d9501c6d88e2e04be7886a38f"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-M-PRIME-TICKET-GROUND-TEMPLATE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0add41302832d4b35c73f202a9fcc7c52b4c9cd5",
+   "sha256": "29026d5216ae27c4c75aaa8d4f11bb7509f75c0242227dc77ba6a2751d8526cc"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-OI-CROSS-DOCUMENT-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0f641b1617331e7833140dc9af132c08bc72e4ed",
+   "sha256": "568d1375a4317063327e388f4eee3929bf596c797a4b13be28de910e714342b9"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-OI-PRIMITIVE-OWNERSHIP-MAP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d03c534b66b261976f7247c14d6217b9a7bbfd03",
+   "sha256": "8c4d801f1f09153dfc73f4f15fdd3e862f1a289f513818b722360b352749f293"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-PRATIBIMBA-BUILD-ORDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "696b4c63d04a8eac0f217739084b287cd381875d",
+   "sha256": "ed024b064aeda27041e2f0933bbe07e2bdb9d4c9e4a5153ea6bc74d6da03b8e4"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-PRATIBIMBA-C-PERSONAL-RETURNED-REALITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f3fe2550ad4658e8685d2dd0280500596a516fbc",
+   "sha256": "1245e4290a8364565c5da6f7cab7e390842cfd564bde59c59c4f17fd34b39d2e"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-PRATIBIMBA-IMPLEMENTATION-PROMPTS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "26b3ccea7b5eb5381be85e9558d9302148850802",
+   "sha256": "1b8f64da3801a8f1429fdc342edb5c02eb2ea286724bb074f0253bbc7ed8d42f"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-PRATIBIMBA-PRE-D-BIMBA-MAP-PARITY-PROMPT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0f891caa3affeb13ba5f850fdae188d5d851c08d",
+   "sha256": "72dc7294d13b04c4b090733f03d553b8aab04c167f427927983ea63a637f2ece"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-TA-ONTA-AGENT-WORLD-CAPABILITY-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fa501786bb7585bba7009de4216d498e2465fa22",
+   "sha256": "4f1a7725d0dd513f4f5b66ce36619c1c8479ec2563e0c5f4b614e2720661e85c"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-VAK-ACCEPTANCE-RECEIPT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d2e2844ff16604c237984aaf49ea9f27fef73a5d",
+   "sha256": "5782a7e707d095621f6052fd3b43ddf4dfd84d2d76380965b824ab36c1027542"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-VAK-AGENT-NATIVE-RUNTIME.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "37d4f799c14091e12f9d140e0cf35073cf2f0d91",
+   "sha256": "f1ee5046f8f06dead148af31eaf4ef6c9a02ebca415a91b54b30f55e00befd44"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-VAK-OI-RELATION-MATRIX-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7ba269278fbdaba40fce3dec7b282fcaa039adf1",
+   "sha256": "8caa72735a9766bcd8b464224b312486ec9d64773508f336ec85b422520b0f87"
+  },
+  {
+   "path": "docs/integrations/epi-logos/EPI-VAK-OPERATIVE-SYNTAX-ARCHITECTURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d27104cb03ca0eeacbed0f1ae2d4b767fa87b00f",
+   "sha256": "3f9adcb2057ca3c9c3123e50e4479d8459f3a4e1a63e9c9cde60833250b25154"
+  },
+  {
+   "path": "docs/integrations/epi-logos/K-AW-EXPRESSION-PRODUCTION-ALIGNMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "73426cd1a27ad7125012fb482ca1c4d8c5282ce9",
+   "sha256": "0d5fb52f95123960471bc13b7dd697936f7f8335ddb7033e50df33d6c02377d8"
+  },
+  {
+   "path": "docs/integrations/epi-logos/K-L5-MPRIME-CONTINUITY-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ce8ee61371fbf23728e89e8d014b2cbce458505f",
+   "sha256": "7115edbde3f7ddca89a0ef63e3dd9ce66848cbd4cd664363e41a14a6319a1a83"
+  },
+  {
+   "path": "docs/integrations/epi-logos/R2-DEEP-DIVE-PROTOCOL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e99b4204a74b9ddc533dfb58d7d1d33a6adac5f8",
+   "sha256": "e82722fffd01de40b3740f42a0f5e372b1e8413fc1437de437d76f38cc7288c2"
+  },
+  {
+   "path": "docs/integrations/epi-logos/R2-FINAL-PASS-INTERNALITY-FOUNDATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1d3ceb585666b0c137cdf9844fc80084c690204e",
+   "sha256": "12763073c64152863cf2520a2c263b2b41162f864ad70b681508f284788c5560"
+  },
+  {
+   "path": "docs/integrations/epi-logos/R2-FIRST-PASS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4211e954ef319f021075ee9515f18810c6a2cc46",
+   "sha256": "afedd5fd29052b18de1645c820b0c40f00d7a8f84faf779c389bc5aff5de8608"
+  },
+  {
+   "path": "docs/integrations/epi-logos/R2-RUNTIME-FORM-CONTENT-SEPARATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1f8636f9983fd7ee66ad033ff02d6b2f6537e6f5",
+   "sha256": "2afe28ec850eed1b14a7657e3944f879fd9fa8de94c68f5964f6b3d84cbf378b"
+  },
+  {
+   "path": "docs/integrations/epi-logos/R2-SECOND-PASS-VISION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c6605fa3496cf4efeef9119097b6de1313711eeb",
+   "sha256": "bd93c7801494f8f6754ca5776c65b439ecd769fb4d303d9eb2011a67c8349a64"
+  },
+  {
+   "path": "docs/integrations/epi-logos/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ab105763398709252bdd036547b8411729486ecb",
+   "sha256": "1df4fa47c112c4f857f227145ef99993384b90530366daf205333bed67357ea1"
+  },
+  {
+   "path": "docs/integrations/epi-logos/TA-ONTA-EXPRESSION-CORPUS-PRODUCTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "51fc89dc0baea73a2e12e73ed7534b84a4f19cdf",
+   "sha256": "015b945235735e0b7ad78d6b071b7283ef6f76706bd4bef7061760cf56a6f659"
+  },
+  {
+   "path": "docs/integrations/epi-logos/TA-ONTA-EXPRESSION-SDK-WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c27adccb1ae9744925d4d7197ac1e3f71392c33a",
+   "sha256": "4c6fe0756e00e20e2b808fc238f4656cde7174c281e69180d7cb053719529ff9"
+  },
+  {
+   "path": "docs/integrations/epi-logos/TA-ONTA-FULL-FIELD-LOCK.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "038a0316d51d60443a8b1abbddd4db85e512dc52",
+   "sha256": "717864641e063300dc8253f8e51c495fe4a14a5bb01cef6b2cd6076c9e2702ba"
+  },
+  {
+   "path": "docs/integrations/epi-logos/TA-ONTA-VAK-COMPOSITIONAL-EXECUTION-LOCK.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "35970f035b477139083821090276f2f9cb25cb1b",
+   "sha256": "3e37dab3909780d44b41b9a6eb3df7ab2d5211a26f07cdf963b1f748701f548b"
+  },
+  {
+   "path": "docs/kernel-rebuild/AGENT-PRACTICE-AND-BOOTSTRAP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "40f44cf44885b19e352786bb818585879829aac0",
+   "sha256": "45cc972b18a544e1e5906a39cba40d78d47c6f01316f87e67487d516e22d7f95"
+  },
+  {
+   "path": "docs/kernel-rebuild/APERTURES-AND-CLOCK-CENTRE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "25d07a69482fa0cd1655a0ab207085f751572608",
+   "sha256": "4ae05ccd80d46a0f045388f7db21de337bd2fe1e8cc89aa42beeee7cdc8f8889"
+  },
+  {
+   "path": "docs/kernel-rebuild/AW1-PROPERTY-OPERATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2d3066871060fd75b62a131594da13601cb80bbe",
+   "sha256": "bdda49fa1297b19764bd337edb459c9925bbd32aab385735750d3567932f0631"
+  },
+  {
+   "path": "docs/kernel-rebuild/CI-CONVERGENCE-RETURN.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "47824f0974ac7e5177171d3e57ab1eb2fb025bbb",
+   "sha256": "7d37200f9b9bf2fd84798fe05d533eb7070b94913b176538248a851bde2cb2e0"
+  },
+  {
+   "path": "docs/kernel-rebuild/EXPRESSION-FIELD-PROJECTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c3faa25d0ad06fb0dc067ef3a81a669610edd454",
+   "sha256": "9a759bb5d54175bd24c6518e34e23496c1c81ea11abf1e6f8bd40e2191c98493"
+  },
+  {
+   "path": "docs/kernel-rebuild/K10-NARA-M4-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5cca31399735541b3d18123a13d4cfdcc1ff7202",
+   "sha256": "4973c48b3f7461d5663142da32aa880587ac30b7330e7ddb18acce3fbd001266"
+  },
+  {
+   "path": "docs/kernel-rebuild/K4-M123-CENSUS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d75825ef4d09536940a7326c6b79360ac331c93e",
+   "sha256": "166a998efa7015ae0f8824f24b952e0b3308178144dd4404c8523c506d629018"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-ACKNOWLEDGEMENT-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "73847d41cb9abb849a285c60c75a2fd2e11a34d9",
+   "sha256": "39c6ea9b2530ca61fa0730354e92f5cefa59e27670f54b3cbbd31f930de166d3"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-AUDIO-OUTPUT-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b48707ffb80d302ca4881fa39040e62aeca943e3",
+   "sha256": "9ef31288614e985a719479e665c4fb3d5890765c829f4bcbf338ec70b7b66724"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-CONTINUOUS-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0e13196091f3a4a0ea812b32bd6601983b3f03e5",
+   "sha256": "2f84e41b8499492edf5bf65b4dab7b4d22d3dbf66be5e2a6d747882318fd203e"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-COUPLED-EVENT-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "31f2b0ad3f7462517cd77cd24231b54eeb822643",
+   "sha256": "59376a2341c1a628c150a74427b852b8feba55e618bef59afefbe7b370570fcc"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-GRAPH-PROMOTION-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0a36ebdfcf5fc6583b8b4b06b04b1d8eab851ab7",
+   "sha256": "8147cd84c0934daf7d6b4bed7371a7a946ec397f65867eebdafc089a6d74a783"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-MANAGED-INSTRUMENT-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d7dc5c3e40259793c31c12d1a46d8f38d8241143",
+   "sha256": "a39dd7ba6636b642c52cd3e9510a87e0fb112fdb8876610140a91cb32691da5d"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-NATIVE-RESOURCE-RECEIPT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "34461db11e347f39cfb0e08e76ebd96f62db90cf",
+   "sha256": "3e0c1f42dec7375ac73c4ab822d6f4e9a234b83d0ec0abb04f335ae59bf24172"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-SKY-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a6497284a6faba98959a1b9ad07cd231c89321ef",
+   "sha256": "120c1d3a86f5d0171d79af81f88cfc0e640d29dd220b2a1c7dd3d6ec6798ad82"
+  },
+  {
+   "path": "docs/kernel-rebuild/K8-STRUCTURAL-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7cae90e8a34fc484ef259dd24c1bd1d2d4d16b77",
+   "sha256": "8942c9a61482918c29066976a4e90c98c2c3637e3e4f75da73842e87fc49af89"
+  },
+  {
+   "path": "docs/kernel-rebuild/LENS-IDENTITY-AND-ENCODINGS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3dc3d91a98886a9e246c5c962a700a0e772ae942",
+   "sha256": "7d945750b835a4db0862ce74bd5af48b847050388de5ae1db795e938851c93bf"
+  },
+  {
+   "path": "docs/kernel-rebuild/LIVING-INSTRUMENT-ARCHITECTURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2fd974abdf2e514219e4017884c2e8e8c4303622",
+   "sha256": "8d6ef1194dd451ee75b6d3e29dfc79d6d9f85a63d11f0026aa7549c2e17b34a1"
+  },
+  {
+   "path": "docs/kernel-rebuild/M2-PARENT-HANDOFF.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5aeeb88b96515273040e88e8b6af5598d70d924a",
+   "sha256": "f6830b5cba4cd0da18ca25c6ecf0bd481cfbf9b5b0403e834addce7e1c38baba"
+  },
+  {
+   "path": "docs/kernel-rebuild/M3-NATIVE-OBSERVATION-PARITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "01d2a89469d15c987f197476fbe22a194562e345",
+   "sha256": "3870e800f71a70f7610d87f449196d83d4c41244ceb9ead31bccef8973f2e901"
+  },
+  {
+   "path": "docs/kernel-rebuild/M3-SOURCE-PARITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d4543c311d3f62f917a42deeba5849ac2c61c468",
+   "sha256": "e1e0fc6a38bad7afc2c71d19326eb4065312dc21a3960ea805527b8d1b22fc39"
+  },
+  {
+   "path": "docs/kernel-rebuild/OPTIMISATION-AND-LEARNING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "294c83eb242411a27398ea66286f0383ff8d8886",
+   "sha256": "bd46131b5e42dfbca96ad9041cfa1f008536ae49ad4134769b0056df46839e9e"
+  },
+  {
+   "path": "docs/kernel-rebuild/PARENT-SURFACES-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "230ac40154cfbebf3089bc8417094f43e5d124cf",
+   "sha256": "5b78109c51e95718d788ce6b4cb96014f0369d3dee6524a0d4345b0c530dcab7"
+  },
+  {
+   "path": "docs/kernel-rebuild/PRE-K8-AGENT-WORLD-LOCK.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bdfd1eca421f9299fde1a68a049e471115b2c42d",
+   "sha256": "43ebcbca9f65b966776607809eb3fcd0ce38bd400009ca0efa373425da823d2b"
+  },
+  {
+   "path": "docs/kernel-rebuild/UX-INTENT-SOURCE-MINUTE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5fe7cdbc41a1faa94e27680a538d4ae1305755aa",
+   "sha256": "9404268e1333b2439ed369ea6a1c1b07a355eb80da1bec2ec281ca38cdc98b1d"
+  },
+  {
+   "path": "docs/kernel-rebuild/UX-SPINE-RECONCILIATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a60aeac97a7fd6587c1fd19e5ba92c495d22627c",
+   "sha256": "9bf791ae6e38e445c50ded9ad179db2ef47fca2513d84c256c3c6cec2b62f55b"
+  },
+  {
+   "path": "docs/kernel-rebuild/VAK-OIKONOMIA-KNOWLEDGE-RETURN.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "baeba81758b400752e1d0e2b18a791d701320878",
+   "sha256": "08976a03c143651627500886bb9871ee914c33b7531bb48288e6ccdeb53a375a"
+  },
+  {
+   "path": "docs/kernel-rebuild/m2-engine-v1.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "79a215f0a8248362307e07e6a6b63dd9a2b3a5b0",
+   "sha256": "a3e1f9a2e9f21fd67397c84080bf498293ffb0bb1aab46250e9f4057d63fc108"
+  },
+  {
+   "path": "docs/meta-portal-v1.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "449697d0e8d96647ed173b97d4ac17513e95e7f4",
+   "sha256": "b8c79a7d98d8bfc492e8dd76b4b44dbefef8a6e9fee963910a635773ecb533c5"
+  },
+  {
+   "path": "docs/music/JANKO-QL-INSTRUMENT-FIGURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ba4f978aa54e2ef418eee6ede5feea7d801a081b",
+   "sha256": "3a7906ff08f84000454d7caf90dad92efcbb90f3617e8fac0881836cbdccade1"
+  },
+  {
+   "path": "docs/music/PRE-M-MUSICAL-DERIVATION-v1.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5d6a1629b417213ca1c7f33adfc967fd3e02301d",
+   "sha256": "16ab609054e5d2823a067bfd635f368d8f3176326c2f59b25a86c6209be59e52"
+  },
+  {
+   "path": "docs/okf-meta-wiki-and-projection.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "11fc20acd3ea36438b936b8edacc3fed9ee5a15c",
+   "sha256": "9092112a01ecc1d5eccbb70c49b62eecbaaf34b4c9b5d3d7c2c2975f129b544c"
+  },
+  {
+   "path": "docs/origami work/INTEGRATED-1-2-3-PHYSICAL-POLE-OBJECT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5f5438869cc3b12b6c0c54596e2f4febb0672d45",
+   "sha256": "60d419aa95a7d95c79cb9b226cabe2ecaf67970c4cfa39b08d7b7425681d278f"
+  },
+  {
+   "path": "docs/origami work/M1/M1-PARAMASIVA-DEEP-CAPABILITY-COORDINATE-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "30af3038f5e13b516ecc94fb36ed92132322d018",
+   "sha256": "c5ae4a925112ad651d1323242c4b5ecd0ec05da6dd225b0812cdf4fdd36581d8"
+  },
+  {
+   "path": "docs/origami work/M2/M2-PARASHAKTI-DEEP-CAPABILITY-COORDINATE-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "567bbaebd8964b5d5cdd5628c86896ba26c8baae",
+   "sha256": "debc9de83563e6aa9bceeebce55b653677b2e7b9f393d62c5ce788bae52bb5f4"
+  },
+  {
+   "path": "docs/origami work/M3/M3-MAHAMAYA-DEEP-CAPABILITY-COORDINATE-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d9be1b2828d458cf143c7d4c1ab633dcd5b9d0fd",
+   "sha256": "423ae543d78c319fd326689e948a76769fd0ed8c8072bac697f67b3ca49258aa"
+  },
+  {
+   "path": "docs/origami work/M4/M4-NARA-DEEP-CAPABILITY-COORDINATE-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3bc6447a02ad3bd89a79f71c59769296023c1b90",
+   "sha256": "6738fa80ec422f60546a18ead99107d4e95fce8238db29f8efcaffad618afaf8"
+  },
+  {
+   "path": "docs/second-wiki-conformance-and-recognition.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e9b2f83175188f51c90c339623e215249f385648",
+   "sha256": "6e516b948e1975f3ea782e4e8d012b4a992d7d792a56796ed513b1b040308597"
+  },
+  {
+   "path": "docs/sources/ql-musical-derivation-v3.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6414c56c6241c3da46e1ea6fdcd7a09b6b66c5aa",
+   "sha256": "e685e06003c0782b57da1e56395749d71462224a5391388d1e56e0a844385eb6"
+  },
+  {
+   "path": "docs/t9-evidence/EVIDENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3e4585a73d48cd857e1ffd192337e9b577a188f6",
+   "sha256": "ea49ff1ef28cb995bfd4bb432c05df4a22d38d874bc688315857245465771167"
+  },
+  {
+   "path": "docs/wiki-refraction-v1.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "258453083bff3f21de3dec9ce8d9b3868c20181f",
+   "sha256": "b63761388591334eb0f80b6afaa182fad5d6bce3681b847db534f276e8d7d9e3"
+  },
+  {
+   "path": "docs/wiki-structural-contract-v2.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0946ff6bfaa7266460f030884ffc7400c6b85eb8",
+   "sha256": "a9a39b0eee029d36c19f03679120f413153181523b2576629335371b111fe490"
+  },
+  {
+   "path": "fixtures/qw1/foreign-wiki.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "28a729346633d6408c9585bae28869588b56b8fe",
+   "sha256": "5af08280d773f8c2137ec987b26c6d6b111ce0a4d6cf063fb3de404776894227"
+  },
+  {
+   "path": "fixtures/qw1/meta-wiki/mef-l1.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "74bc1ec79239478feeec5f3afa677c30f3fa1cdc",
+   "sha256": "2aaa4feb2820376b5d67785cfe8bd1725d6b1f194bcaa8dcbba32a322bb9204e"
+  },
+  {
+   "path": "fixtures/qw1/meta-wiki/ql-structural-space.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6862acfe8834df32ff9a511f50b725def2edcc15",
+   "sha256": "35e3ec45817cf8d4544e03408d6ebbfcd8a6cc31903257752ddba10e9e0dd47b"
+  },
+  {
+   "path": "fixtures/qw1/meta-wiki/relation-family-a.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "712fad142efc1601bb12518d7c9518c6f7d74852",
+   "sha256": "0a345a5a1d8579411002a23c833ae3f69fc1234ce10bc4dba873c0a3f4f74ae9"
+  },
+  {
+   "path": "fixtures/qw4/meta-wiki/mef-l3.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3d121c42f31ccd8e3b10dcf5d6251450e689c10c",
+   "sha256": "fc6d654b87f5751297b9d1c0a5ffe149de448ac7924d19eab2a3065baaa14689"
+  },
+  {
+   "path": "fixtures/qw4/research-wiki/d3-frame.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5876868a3be163f5c984749bce1459150e0fd73e",
+   "sha256": "7fc567d71d369d6408d554cd75d6d2f6ee4eb4dc5e40a03eee2cdb848541421d"
+  },
+  {
+   "path": "fixtures/qw4/research-wiki/evidence-node.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "622ef85bf3cf90fd1aa0d38e690bad9008183789",
+   "sha256": "c2e29f64de1fb336a615f9c4684e2be5dd2a2ed0f978bf6b5534021f664190c4"
+  },
+  {
+   "path": "fixtures/qw4/research-wiki/question-local-space.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "94d26e94a430a3fda5e87efcc4d983cb7d0e1873",
+   "sha256": "62c0fcc257e5a78ad831216e431510bce603d9d63ee2d407c8cfcda305bd0f7c"
+  },
+  {
+   "path": "fixtures/qw4/research-wiki/question-node.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "29cde4f06968eb8985f77f388e1e3d595cfef42e",
+   "sha256": "d0ae0445dfe7c338ff7d7d648e0828e7842ebd0f57b65aff1b57258321e108d8"
+  },
+  {
+   "path": "fixtures/qw4/research-wiki/research-space.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "341d26adc527a1eb763ce5c43c5e1dda20f13d3f",
+   "sha256": "b702f87fb12bdcacc11e8bc714c4f7a5a700dbdbe010385c9860535a335f07d0"
+  },
+  {
+   "path": "skills/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4b14e08af47387cbf9033c792f35e9a6f3634a43",
+   "sha256": "1ea9f48d68a533bde105496725eed98b7387110a049effaa95fc286f3d09d11e"
+  },
+  {
+   "path": "skills/bimba-cypher/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5bacfc856d995c4d3d9dfac284bbe71f64b45d68",
+   "sha256": "25dd40ce11911c28a7f7130a271f331a67d68714c74d8e73176cd5f1111bd1a7"
+  },
+  {
+   "path": "skills/ql-evidence-report/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6100c4019a237d231f5b29c750f7afd6f0df6693",
+   "sha256": "bda375ec8acc3f7a3ad1f47b6f093f90409940f4154571202479ad2396ee8817"
+  },
+  {
+   "path": "skills/ql-experience-prepare/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "116225fcc0e0cca5748a3b545e8689da80ef341e",
+   "sha256": "87f0cf0ee7157d3a759b21afe3b50602fde8f66cc9c5d7e1d0dadd059967ce89"
+  },
+  {
+   "path": "skills/ql-experience-walk/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "84c4e8b33303cb04dafa7d0df7a8863d553ca34a",
+   "sha256": "7cc4604522734c5755cc5d394367f15e844a7d44636e74cd106f78d93bee00e9"
+  },
+  {
+   "path": "skills/ql-foundations/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e8fbc70530baffcd84e0546324c86e2618a55614",
+   "sha256": "2baa31839b186f2114e6bd55412987b4acd75cad8e421fae3d08822c81cd2a76"
+  },
+  {
+   "path": "skills/ql-operation/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a51f30db1076b7c0b64359582b06ff51006bc924",
+   "sha256": "11ed875f790d0c8fe73211870f5bf5edbb2e62eb35df6449d8c42fe9b743a93e"
+  },
+  {
+   "path": "skills/refraction-adapter-authoring/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6b1ce5e5b4c1efb11029b7337bec271dd712c5bd",
+   "sha256": "7ca6a25bcc6f6f3e2f3ede7d9c52b880ca3c3803606618e7271a4a25cc4de3c1"
+  },
+  {
+   "path": "vendor/epi-kernel/reference/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b72c83f1ae1add69027ebcf1733b411f4f49ef6d",
+   "sha256": "1554cf688a442f8fa74a9c77291444306f678d5e8a6a58ee5316e18603b1ffe5"
+  }
+ ],
+ "working_tree": {
+  "dirty_entries": 8,
+  "note": "the checkout carries active owner/agent lanes \u2014 untouched, not frozen, not counted as records"
+ },
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}

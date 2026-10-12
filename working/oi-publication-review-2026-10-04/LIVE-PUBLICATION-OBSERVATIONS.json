@@ -1,0 +1,194 @@
+{
+  "schema": "oi.publication-review.http-observations/v1",
+  "scope": "HTTP byte and public-source observations; no browser interaction, live app action or release acceptance",
+  "observations": [
+    {
+      "url": "https://oi.epi-logos.org/",
+      "observed_at_utc": "2026-10-04T12:58:38.906608+00:00",
+      "resolved_url": "https://oi.epi-logos.org/",
+      "status": 200,
+      "bytes": 604,
+      "sha256": "3e9e32a529f68a43dca3ecc9617293571af95ef8d8e4fa64803f9dba5bd54639",
+      "content_type": "text/html; charset=utf-8",
+      "title": [
+        "Objective : Internality"
+      ],
+      "scripts": [
+        "./assets/main-DdXnsdmX.js",
+        "./assets/main-BLtG0K3O.js"
+      ]
+    },
+    {
+      "url": "https://oi.epi-logos.org/data/library/public-site.md",
+      "observed_at_utc": "2026-10-04T12:58:38.907315+00:00",
+      "resolved_url": "https://oi.epi-logos.org/data/library/public-site.md",
+      "status": 200,
+      "bytes": 46686,
+      "sha256": "992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5",
+      "content_type": "text/markdown; charset=utf-8",
+      "entrance_excerpt": "### [eyebrow] O:I\n\n### [line-one] A world to act within.\n\n### [line-two] A way to read it.\n\n### [lede] Two doors\n\nThe public face is two doors. The Library holds the expressions. The essay holds the written field, including what the six products are for. The instruments themselves are still being made.\n\n### [library] Library\n\nThe published expressions. Open one and read it. This is the visual record of the work so far.\n\n### [essay] Essay\n\nThe written field: rooms, symbolon, and the manuscript. The six products are described here, as intent, not as finished software.\n\n### [essay-title] The Return of Zero\n\n### [coming] Still being made\n\nCentral, Actuation, AIKit, Software Factory, Workcell, and Quaternal Logic are named inside the essay. Say what each is for. Do not offer them as things a visitor can install.\n\n### [brand] Objective : Internality",
+      "native_repo_links": [
+        "https://github.com/EpiLogos/Actuation",
+        "https://github.com/EpiLogos/Central",
+        "https://github.com/EpiLogos/Factory",
+        "https://github.com/EpiLogos/O-I",
+        "https://github.com/EpiLogos/QL-MEF",
+        "https://github.com/EpiLogos/Workcell",
+        "https://github.com/EpiLogos/ai-kit"
+      ]
+    },
+    {
+      "url": "https://oi.epi-logos.org/data/library/index.json",
+      "observed_at_utc": "2026-10-04T12:58:38.907503+00:00",
+      "resolved_url": "https://oi.epi-logos.org/data/library/index.json",
+      "status": 200,
+      "bytes": 51458,
+      "sha256": "27a0258523031d0cf98ba72dc82a22a7c4a9b2aa73532dad7f111da915cb2ae5",
+      "content_type": "application/json; charset=utf-8",
+      "schema": "oi.site-library-index/v1",
+      "members": 10,
+      "source_revision": "sha256:992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5"
+    },
+    {
+      "url": "https://oi.epi-logos.org/data/library/edition-manifests.json",
+      "observed_at_utc": "2026-10-04T12:58:38.907655+00:00",
+      "resolved_url": "https://oi.epi-logos.org/data/library/edition-manifests.json",
+      "status": 200,
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "content_type": "application/json; charset=utf-8",
+      "schema": "array",
+      "members": 0
+    },
+    {
+      "url": "https://oi-epi-logos.vercel.app/",
+      "observed_at_utc": "2026-10-04T12:58:38.907788+00:00",
+      "resolved_url": "https://oi-epi-logos.vercel.app/",
+      "status": 200,
+      "bytes": 604,
+      "sha256": "3e9e32a529f68a43dca3ecc9617293571af95ef8d8e4fa64803f9dba5bd54639",
+      "content_type": "text/html; charset=utf-8",
+      "title": [
+        "Objective : Internality"
+      ],
+      "scripts": [
+        "./assets/main-DdXnsdmX.js",
+        "./assets/main-BLtG0K3O.js"
+      ]
+    },
+    {
+      "url": "https://oi-epi-logos.vercel.app/data/library/public-site.md",
+      "observed_at_utc": "2026-10-04T12:58:38.907972+00:00",
+      "resolved_url": "https://oi-epi-logos.vercel.app/data/library/public-site.md",
+      "status": 200,
+      "bytes": 46686,
+      "sha256": "992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5",
+      "content_type": "text/markdown; charset=utf-8",
+      "entrance_excerpt": "### [eyebrow] O:I\n\n### [line-one] A world to act within.\n\n### [line-two] A way to read it.\n\n### [lede] Two doors\n\nThe public face is two doors. The Library holds the expressions. The essay holds the written field, including what the six products are for. The instruments themselves are still being made.\n\n### [library] Library\n\nThe published expressions. Open one and read it. This is the visual record of the work so far.\n\n### [essay] Essay\n\nThe written field: rooms, symbolon, and the manuscript. The six products are described here, as intent, not as finished software.\n\n### [essay-title] The Return of Zero\n\n### [coming] Still being made\n\nCentral, Actuation, AIKit, Software Factory, Workcell, and Quaternal Logic are named inside the essay. Say what each is for. Do not offer them as things a visitor can install.\n\n### [brand] Objective : Internality",
+      "native_repo_links": [
+        "https://github.com/EpiLogos/Actuation",
+        "https://github.com/EpiLogos/Central",
+        "https://github.com/EpiLogos/Factory",
+        "https://github.com/EpiLogos/O-I",
+        "https://github.com/EpiLogos/QL-MEF",
+        "https://github.com/EpiLogos/Workcell",
+        "https://github.com/EpiLogos/ai-kit"
+      ]
+    },
+    {
+      "url": "https://oi-epi-logos.vercel.app/data/library/index.json",
+      "observed_at_utc": "2026-10-04T12:58:38.994330+00:00",
+      "resolved_url": "https://oi-epi-logos.vercel.app/data/library/index.json",
+      "status": 200,
+      "bytes": 51458,
+      "sha256": "27a0258523031d0cf98ba72dc82a22a7c4a9b2aa73532dad7f111da915cb2ae5",
+      "content_type": "application/json; charset=utf-8",
+      "schema": "oi.site-library-index/v1",
+      "members": 10,
+      "source_revision": "sha256:992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5"
+    },
+    {
+      "url": "https://oi-epi-logos.vercel.app/data/library/edition-manifests.json",
+      "observed_at_utc": "2026-10-04T12:58:39.020151+00:00",
+      "resolved_url": "https://oi-epi-logos.vercel.app/data/library/edition-manifests.json",
+      "status": 200,
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "content_type": "application/json; charset=utf-8",
+      "schema": "array",
+      "members": 0
+    },
+    {
+      "url": "https://epilogos.github.io/O-I/",
+      "observed_at_utc": "2026-10-04T12:58:39.055047+00:00",
+      "resolved_url": "https://epilogos.github.io/O-I/",
+      "status": 200,
+      "bytes": 604,
+      "sha256": "a5db0144c5f50d961228bd27a4b614fd8ff1bc2e527c0640c2cd849437f8206a",
+      "content_type": "text/html; charset=utf-8",
+      "title": [
+        "Objective : Internality"
+      ],
+      "scripts": [
+        "./assets/main-BjZnyfKn.js",
+        "./assets/main-Fdq7xaEF.js"
+      ]
+    },
+    {
+      "url": "https://epilogos.github.io/O-I/data/library/public-site.md",
+      "observed_at_utc": "2026-10-04T12:58:39.066524+00:00",
+      "resolved_url": "https://epilogos.github.io/O-I/data/library/public-site.md",
+      "status": 200,
+      "bytes": 46686,
+      "sha256": "992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5",
+      "content_type": "text/markdown; charset=utf-8",
+      "entrance_excerpt": "### [eyebrow] O:I\n\n### [line-one] A world to act within.\n\n### [line-two] A way to read it.\n\n### [lede] Two doors\n\nThe public face is two doors. The Library holds the expressions. The essay holds the written field, including what the six products are for. The instruments themselves are still being made.\n\n### [library] Library\n\nThe published expressions. Open one and read it. This is the visual record of the work so far.\n\n### [essay] Essay\n\nThe written field: rooms, symbolon, and the manuscript. The six products are described here, as intent, not as finished software.\n\n### [essay-title] The Return of Zero\n\n### [coming] Still being made\n\nCentral, Actuation, AIKit, Software Factory, Workcell, and Quaternal Logic are named inside the essay. Say what each is for. Do not offer them as things a visitor can install.\n\n### [brand] Objective : Internality",
+      "native_repo_links": [
+        "https://github.com/EpiLogos/Actuation",
+        "https://github.com/EpiLogos/Central",
+        "https://github.com/EpiLogos/Factory",
+        "https://github.com/EpiLogos/O-I",
+        "https://github.com/EpiLogos/QL-MEF",
+        "https://github.com/EpiLogos/Workcell",
+        "https://github.com/EpiLogos/ai-kit"
+      ]
+    },
+    {
+      "url": "https://epilogos.github.io/O-I/data/library/index.json",
+      "observed_at_utc": "2026-10-04T12:58:39.089300+00:00",
+      "resolved_url": "https://epilogos.github.io/O-I/data/library/index.json",
+      "status": 200,
+      "bytes": 51458,
+      "sha256": "27a0258523031d0cf98ba72dc82a22a7c4a9b2aa73532dad7f111da915cb2ae5",
+      "content_type": "application/json; charset=utf-8",
+      "schema": "oi.site-library-index/v1",
+      "members": 10,
+      "source_revision": "sha256:992650e2fdde70121ef42d62ce20a6673e671c574aa301db42d2d63869286ad5"
+    },
+    {
+      "url": "https://epilogos.github.io/O-I/data/library/edition-manifests.json",
+      "observed_at_utc": "2026-10-04T12:58:39.111458+00:00",
+      "resolved_url": "https://epilogos.github.io/O-I/data/library/edition-manifests.json",
+      "status": 200,
+      "bytes": 989484,
+      "sha256": "b434bea54653842294717b95cf7fadc49da83497481f93938daa000e70cea6ed",
+      "content_type": "application/json; charset=utf-8",
+      "schema": "array",
+      "members": 136,
+      "first_item_keys": [
+        "schema",
+        "projection_ref",
+        "projection_revision",
+        "world_ref",
+        "presentation_ref",
+        "presentation_revision",
+        "source",
+        "audience",
+        "published_at",
+        "page",
+        "projection_file",
+        "digest"
+      ]
+    }
+  ]
+}

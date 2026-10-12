@@ -1,0 +1,79 @@
+{
+  "schema": "oi.live-home-readback/v1",
+  "observed_at_utc": "2026-10-04T15:14:27.227148+00:00",
+  "base": "https://oi.epi-logos.org/",
+  "deployment_url": "https://oi-epi-logos-dqb9169as-frankgtaylor97-8457s-projects.vercel.app",
+  "reported_code_revision": "22e76f8e",
+  "reported_essay_revision": "8265f382177086daff1fbd461c932b521babc971",
+  "scope": "Targeted actual production home, reading entrances and destinations; does not repeat complete motion suite",
+  "browser": "Installed Chromium 153 with software WebGL",
+  "cases": [
+    {
+      "viewport": "desktop",
+      "size": {
+        "width": 1440,
+        "height": 900
+      },
+      "motion": "reduced for stable production readback; full motion already verified against identical built source",
+      "http_statuses": [
+        {
+          "url": "https://oi.epi-logos.org/",
+          "status": 200
+        },
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ],
+      "checks": [
+        "Restored original hero, four layers, developed heading, seven sections, six offices, no two-door replacement, no overflow",
+        "Header Essay reaches real Quartz with full title and \u00a70/1 foundation entrance",
+        "Landing Essay reaches real Quartz foundation entrance",
+        "Header Library opens actual native public Library",
+        "First editorial landing Library opens actual native public Library; Shared Field Library href retained"
+      ],
+      "passed": true,
+      "javascript_errors": [],
+      "console_errors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "http_errors": []
+    },
+    {
+      "viewport": "mobile",
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "motion": "reduced for stable production readback; full motion already verified against identical built source",
+      "http_statuses": [
+        {
+          "url": "https://oi.epi-logos.org/",
+          "status": 200
+        },
+        {
+          "url": "https://oi.epi-logos.org/essay/",
+          "status": 200
+        }
+      ],
+      "checks": [
+        "Restored original hero, four layers, developed heading, seven sections, six offices, no two-door replacement, no overflow",
+        "Header Essay reaches real Quartz with full title and \u00a70/1 foundation entrance",
+        "Landing Essay reaches real Quartz foundation entrance",
+        "Header Library opens actual native public Library",
+        "First editorial landing Library opens actual native public Library; Shared Field Library href retained"
+      ],
+      "passed": true,
+      "javascript_errors": [],
+      "console_errors": [],
+      "http_errors": []
+    }
+  ],
+  "screenshots": [
+    "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/LIVE-hero-desktop.png",
+    "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/LIVE-hero-mobile.png"
+  ],
+  "failures": [],
+  "passed": 2,
+  "failed": 0
+}

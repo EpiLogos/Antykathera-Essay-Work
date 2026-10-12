@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Codex lifecycle hooks for project orientation, NOTES protection, and freshness."""
+"""Codex lifecycle hooks for project orientation, source-note protection, and freshness."""
 
 from __future__ import annotations
 
@@ -45,7 +45,10 @@ def tool_key(event: dict) -> str:
 
 def notes(root: Path) -> list[Path]:
     base = root / SOURCE_NOTES
-    return sorted(base.rglob("NOTES.md")) if base.is_dir() else []
+    if not base.is_dir():
+        return []
+    # A source-house note is the Markdown file named <source_id>-NOTES.md beside the house file.
+    return sorted(p for p in base.rglob("*.md") if p.stem == f"{p.parent.name}-NOTES")
 
 
 def could_touch_notes(event: dict) -> bool:
@@ -82,7 +85,7 @@ def pre_tool(event: dict, root: Path) -> dict:
     (snapshot / "manifest.json").write_text(
         json.dumps([path.relative_to(root).as_posix() for path in files]), encoding="utf-8"
     )
-    return {"systemMessage": "Return of Zero hook: source-house NOTES.md files are readable but protected from agent mutation."}
+    return {"systemMessage": "Return of Zero hook: source-house notes (<source_id>-NOTES.md) are readable but protected from agent mutation."}
 
 
 def post_tool(event: dict, root: Path) -> dict:
@@ -108,8 +111,8 @@ def post_tool(event: dict, root: Path) -> dict:
         files = ", ".join(changed)
         return {
             "continue": False,
-            "stopReason": f"Protected user-authored NOTES.md mutation was restored: {files}",
-            "systemMessage": "Write source evidence to SOURCE.md; never create or modify NOTES.md.",
+            "stopReason": f"Protected user-authored source-note (<source_id>-NOTES.md) mutation was restored: {files}",
+            "systemMessage": "Write source evidence to the house file (<source_id>.md); never create or modify <source_id>-NOTES.md.",
         }
     return {}
 
@@ -152,8 +155,9 @@ def session_start(root: Path) -> dict:
         "boundary, or canonically live tension. \n\n"
         "Ordinary discussion and unfinished exploration may stay in chat, but they receive the same "
         "discipline: follow the user's actual distinctions, language, and openings; identify the next "
-        "movement rather than explaining the work back at a lower resolution. SOURCE.md is canonical "
-        "evidence; sibling NOTES.md is Frank-authored, readable, and never agent-writable."
+        "movement rather than explaining the work back at a lower resolution. The house file "
+        "(<source_id>.md) is canonical evidence; sibling <source_id>-NOTES.md is Frank-authored, "
+        "readable, and never agent-writable."
     )
     ideas = active_idea_context(root)
     if ideas:

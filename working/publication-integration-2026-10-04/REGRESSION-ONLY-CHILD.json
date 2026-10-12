@@ -1,0 +1,7 @@
+{
+  "product_build_commit": "6db6429c2c989c681550c3af421dd3231e35ee49",
+  "regression_commit": "194ab1b8884cde67dff7217525086b2bf986f117",
+  "only_changed_path": "site/tests/essay-reader-controls.py",
+  "product_sources_unchanged": true,
+  "regression_sha256": "623e032f7fedd2bd5db51e1a87e131a80cb33a21dd87cfae2fcc76891082381d"
+}

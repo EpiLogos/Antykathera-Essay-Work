@@ -1,0 +1,588 @@
+{
+  "files": 5,
+  "errors": 0,
+  "review_candidates": 83,
+  "findings": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 24,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "A hidden location would already be positioned. Arche-Topos names the placing through which an observer and an object acquire their positions together. [[symbolon/episteme/concepts/C36-Complexio-Oppositorum|C36]] grounds their inseparability; [[symbolon/episteme/concepts/C20-Arche-Topos|C20]] defines the reusable field concept. [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|The Topos whole-field]] qualifies *Arche-Topos* as an authorial construction from origin-"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 74,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-instrument-sign) **compares** coordinated mechanical outputs with the differential field while preserving the Hellenistic object, modern reconstruction and native derivation as distinct registers."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A hidden location would already be positioned. Arche-Topos names the placing through which an observer and an object acquire their positions together. [[symbolon/episteme/concepts/C36-Complexio-Oppositorum|C36]] grounds their inseparability; [[symbolon/episteme/concepts/C20-Arche-Topos|C20]] defines the reusable field concept. [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|The Topos whole-field]] qualifies *Arche-Topos* as an authorial construction from origin-"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 51,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The map from the plane is an infinite universal cover. The torus's orientable double cover of the Klein bottle is another construction. The sphere's contractible loops and the torus's non-contractible classes make different returns available; contractibility does not mean a sphere cannot support circulation. [Hatcher's quotient and lifting constructions](../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md#hatcher-2002-algebraic-topology-p002) give the relation between "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 55,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A phase-space represents possible states. A trajectory is one history through it; an attractor is an invariant organisation towards which trajectories can tend; its basin comprises starting conditions with that tendency. Bifurcation changes the regime. An atlas has another office: local charts and their transition relations make different descriptions of a field mutually traversable. An atlas is not itself an attractor, and a chart is not the trajectory it describes."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 59,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Music gives retained difference a temporal operation. The squared fourth `16/9` reaches the octave through the `9/8` whole-tone: `(16/9)(9/8)=2`; equivalently, `(4/3)(9/8)(4/3)=2`. [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE|Musical v3]] sources this exact kernel. The interval is not a topological hole; each retains a difference through its own form of completion. QL coordinates that operation after the primary `3:3=3:1` subject-account has been"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 69,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Changing a whole perspective and holding several perspectives together perform different work. The Necker-flip supplies the first; the contextual `180°→360°` figure supplies the second. [[symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity|C52]] defines reframing at the formal limit. Context opens an organised availability of views and transformations while each observer remains situated. It does not confer an omniscient panorama."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 97,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The same demand carries Arche-Topos forward. A placed view is not a defect to eliminate but a determination whose location, transformation and relation to other views must remain legible enough for the field to be traversed."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 22,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The Arche-Topos is the field generated when the complexio oppositorum differentiates without ceasing to be one field. `0/1` relates to `1/0`; the relation's self-accounting unfolds as `4+2`; centres, circumferences, paths and horizons can then become mutually determining positions. [[A13-Two-Logics-of-Two-Dia-Syn|A13]] derives the retained seam, and [[A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|A15]] derives its local reckonability. A16 asks what makes that placement possible."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 24,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "A hidden location would already be positioned. Arche-Topos names the placing through which an observer and an object acquire their positions together. [[symbolon/episteme/concepts/C36-Complexio-Oppositorum|C36]] grounds their inseparability; [[symbolon/episteme/concepts/C20-Arche-Topos|C20]] defines the reusable field concept. [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|The Topos whole-field]] qualifies *Arche-Topos* as an authorial construction from origin-"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 30,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "These are changes in what is differentiated and how it is warranted. They share an operation: a determination reorganises its surrounding possibilities, encounters counter-determinations and acquires a local stability which conditions the next act. [[A14-Computational-Process-Ontology|A14]] extends that process into explicit repeatable transitions. [[symbolon/episteme/concepts/C11-Quaternal-Logic|C11]] defines the grammar; the native eight determinations carry its full appearing→question→force→r"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 32,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "A local determination narrows what is available without exhausting what conditions it. Excluded alternatives, environmental reserve and the capacity to reorganise remain active. [[A26-Objective-Internality-Mind-as-Worldhood|A26]] extends this relation into the world from which an intelligence acts. Objective internality consequently includes more than what its current representation displays."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 57,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Taylor's [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]] sources the coordination: symbolic amplification moves among charts, while the response to a symbol changes the interpreter and the later trajectories available to that life. Frank's protected encounter with [[symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk]] grounds the importance of this known→unknown→known transfor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 69,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Changing a whole perspective and holding several perspectives together perform different work. The Necker-flip supplies the first; the contextual `180°→360°` figure supplies the second. [[symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity|C52]] defines reframing at the formal limit. Context opens an organised availability of views and transformations while each observer remains situated. It does not confer an omniscient panorama."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 77,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The [Pauli egg whole](../../mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md#pauli-egg-seven-pictures) **compares** its conjugate quotient with the complex-phase aperture: for real δ, e^{iδ/2}/e^{−iδ/2} = e^{iδ}, whose modulus remains one. A fixed angle gives a point; varying the angle traces the circle. The seven-picture telling preserves spontaneous division and the dreamer’s later participation as distinct events, while the admitted programme brings this exact mathematical relati"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "line": 89,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[A17-Toroidal-Circulation-and-the-Arche-Topos|A17]] embodies the field's privileged kinetic image. The torus joins cover, quotient, independent winding, return and an unfilled opening in one surface. A16 retains the generated field of placing; A17 develops that particular circulation. Other exact apertures—complex extension, projective completion, sphere, Möbius or Klein structure—remain source-distinct operations rather than a catalogue of visual similarities."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 30,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "The energetic middle is a passage through uncertainty that changes what can count as knowledge on return. Frank's protected encounter with [[symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk]] sources the authorial known→unknown→known and `x→X→x` movement at pp69–73. The notes' copied quotations remain leads; the QL notation is native authorial language, not Jung's notation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 73,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "The [complete Aion telling](../../mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md#aion-differentiated-return) **figures** differentiated return through the initial ego/Self inflation problem and the final quaternio circulation: Jung’s A/B/C/D process changes an unconscious totality into a conscious one (CW9ii §§43–49, 408–413). His explicit modern reconstruction of the Shadow Quaternio keeps historical reception visible. The native x→X→x and IS→AM derivat"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 18,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Individuation makes a local subject-position capable of bearing the relations through which it is itself. The person becomes more specifically this life and less defensively separate at once. Recognition is the return by which an achieved determination becomes known in relation to its source and history. Their meeting is necessary because [[A19-Complex-as-Local-Arbitration-Regime|A19]] has shown a local complex claiming whole-field jurisdiction and [[A20-Image-Valuation-Possession|A20]] has show"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Ego, complexes, archetypal powers, collective inheritance and Self have different scopes. Their plurality does not require that every agency be interchangeable. The Self's whole-forming office is not the largest complex, a stronger persona or a chief executive presiding over lesser workers. A local centre relates to the whole without containing it; its individuation cannot therefore consist in conquering every other agency."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 34,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A basin can preserve enough organisation for a trajectory to continue, while its boundary allows a new regime to become possible. The psychic model therefore holds continuity and transformation together. It supplies no clinical rule that destabilisation is always beneficial. Its argument is that restoring the former organisation cannot be the sole criterion when that organisation was the very closure the encounter exposed."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Recognition changes possession into participation. An excluded affect can become intelligible as part of a history; a projected image can be recognised as one's image without denying the Other; a local competence can be retained while its sovereignty ends. Integration names increased ability to bear these differentiated relations. Reconciliation names a changed relation between what had been estranged. Recognition makes the relation to source and history active. A synthesis names an achieved com"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[symbolon/episteme/concepts/C36-Complexio-Oppositorum|C36 Complexio Oppositorum]] defines the capacity through which opposed determinations transform their containing field. [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|C64 Paradox]] extends that change beyond choosing one existing pole. The result is not a final agreement that abolishes all further difference: the containing relation can become more capable precisely because neither term has been deleted or made ab"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[[A09-Tattvic-Differential-Field|A09]] grounds the separately recovered Śaiva field in which recognition returns through differentiated manifestation. The present comparison is operational: an achieved determination can return without erasing its determinate history. It does not turn Śaiva pratyabhijñā into a psychological treatment, nor make Jung's Self a historical synonym for Śiva. [[symbolon/episteme/concepts/C19-Pratyabhijna-Recognition|C19 Recognition]] keeps that source-sensitive return a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 53,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-recognition-return): Recognition through the veil **figures** a differentiated life becoming capable of a changed relation. The knower still selects, remembers and acts, while the achieved position ceases to claim that it originates the whole. This resituation returns into the next encounter, where an affect or another person’s answer can matter differently. The authored individuatio"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 71,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-degree-absolute-return) **figures** recognition through the encounter with Number One's mask and Six's own face after the ordeal of *Once Upon a Time*. The demand for an external sovereign returns upon the demander without making the Village's coercion imaginary. The ensuing escape and return home leave a relation still to be lived. Recognition changes participation in the governing image; it does not ent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 20,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "Q27 §6 develops becoming undivided within a psyche already differentiated among agencies. Its wording of indivisibility is developmental recovery, not an independently verified Jung quotation. [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Aion’s source house]] sources the Self/shadow and symbolic-totality context through consulted-carrier paragraph locations; selected-printing collation and quotation readiness remain Open. The argument retains its force without assignin"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 75,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "The [Psychology development](../histories/traditions-and-disciplines/psychology/DEVELOPMENT.md) **historicises** differentiated recognition through ego/Self inflation, autonomous dialogical positions and the changing interpreter. Aion’s sixteen consulted passage maps now distinguish symbolic and historical operations; selected-printing and quotation debts remain separate from the Argued return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 18,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Individuation makes a local subject-position capable of bearing the relations through which it is itself. The person becomes more specifically this life and less defensively separate at once. Recognition is the return by which an achieved determination becomes known in relation to its source and history. Their meeting is necessary because [[A19-Complex-as-Local-Arbitration-Regime|A19]] has shown a local complex claiming whole-field jurisdiction and [[A20-Image-Valuation-Possession|A20]] has show"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 26,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]] sources the developmental mechanism. A complex supplies recurrent channels of attention and affect. An image gives a particular appearance. A living symbol can alter the organisation through which these channels and appearances are received. Individuation changes their relation, including the relation of the conscious interpreter to what it had excluded. [[symbolon/episteme/concepts/C34-In"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 40,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[symbolon/episteme/concepts/C36-Complexio-Oppositorum|C36 Complexio Oppositorum]] defines the capacity through which opposed determinations transform their containing field. [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|C64 Paradox]] extends that change beyond choosing one existing pole. The result is not a final agreement that abolishes all further difference: the containing relation can become more capable precisely because neither term has been deleted or made ab"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 44,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[A09-Tattvic-Differential-Field|A09]] grounds the separately recovered Śaiva field in which recognition returns through differentiated manifestation. The present comparison is operational: an achieved determination can return without erasing its determinate history. It does not turn Śaiva pratyabhijñā into a psychological treatment, nor make Jung's Self a historical synonym for Śiva. [[symbolon/episteme/concepts/C19-Pratyabhijna-Recognition|C19 Recognition]] keeps that source-sensitive return a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "line": 69,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[[A27-Self-and-Other-Unity-without-Possession|A27]] returns the interpersonal consequence: recognising the model's conditions also makes room for the Other to answer beyond it. The particular subject comes back capable of a wider relation, not relieved of its particular responsibilities."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The equality $6\\cdot0=17\\cdot0$ is therefore true without allowing cancellation of the common factor. Multiplication by zero has discarded the distinction between six and seventeen. Its result cannot reconstruct the input. Any further use of a zero-denominator expression must declare the operation it requests."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 80,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Motion also has to be translated: $dv/dt=-u^{-2}du/dt$. A coordinate velocity cannot simply keep the same numeral through an inverse coordinate change. With $u=3$ and $du/dt=2$, the other coordinate has $dv/dt=-2/9$; either height formula then gives $dy/dt=6/25$. The [manifold-atlas construction](../../matheme/topology/manifold-atlas.md) preserves the point and its motion by changing the expressions which describe them."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 105,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The derivative remains exact. Its inability to recover a particular constant concerns information the operation did not preserve, not general unreliability of finite knowledge. In the native $\\infty/dx$ relation, this becomes a concrete witness to an exact local determination retaining a horizon it cannot reconstruct from its value alone. The result can therefore demand a further condition without losing the precision it already achieved."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "line": 107,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The same precision governs return on the torus. For the linear flow $[t,\\alpha t]$, a period requires both $T$ and $\\alpha T$ to be integers. Rational $\\alpha$ permits a common period; irrational $\\alpha$ does not. [Toroidal circulation](../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) retains periodic return and dense nonperiodic traversal within one surface. A recurring address, a winding class, a continuous path and a temporal performance preserve different things. The containing"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 28,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Genesis / Paradigm / Project / Epi-Logos](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#paradox--crisis-of-the-containing-paradigm) gives this pressure a definite place. Genesis names generative source; Paradigm names an organisation of the means; Project is an achieved form thrown forth through them. The project returns an encounter that the enacted paradigm cannot accommodate. In $0/1$, the mediating slash becomes something inquiry must examine, rather than an invisible pass"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 40,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A simple hierarchy illustrates one repair: an object of type $n$ can belong to a collection of type $n+1$, so the self-membership expression is inadmissible. Collections can still become members of collections at an appropriate level. A second repair, separation, begins with an already given set $S$ and forms $R_S=\\{x\\in S:x\\notin x\\}$. The argument now entails $R_S\\notin S$; separation never promised that its result belonged to its input set. One repair changes what can be expressed; the other "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 42,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The [Formal Limit dossier](../dossiers/formal-limit.md#russell-formation-and-repair) keeps that positive consequence distinct from incompleteness in a consistent theory. A contradiction is not a theorem merely awaiting proof, and an unproved sentence is not thereby contradictory. The transformed account must carry the actual reason its former form failed."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Cusa's learned ignorance](../sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md#cusa-on-learned-ignorance-q002) puts another pressure on determination: finite comparison does not possess the infinite Maximum. A polygon can approximate a circle increasingly closely while every finite polygon remains distinct from it. The approximation's success makes its respect more exact; it does not abolish the difference between the figures. Cusa's theological inquiry concerns th"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 50,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Ordinary arithmetic makes the contrast exact: $0/1=0$, while a nonzero numerator has no quotient by zero in a nontrivial field. The ontological equality does not remove this asymmetry. Its force is to hold numerical determination together with the source-relation which no numerical determination can exhaust. The [Advent manuscript](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) and the [complete theorem](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pi"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 52,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The two logics disclose different ways of meeting the pressure. Signed opposition legitimately distinguishes $-1$ and $+1$; their sum is zero. If this cancellation is made the whole account, their containing relation disappears with the cancelled quantities. The directed differences are $(-1)-(+1)=-2$ and $(+1)-(-1)=+2$. When one pole takes this doubled magnitude as its possession of the whole span, its accounting suppresses the common relation. Directed difference remains exact; it is not anoth"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 72,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Symbolon Dynamics](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), developed through the [encounter with Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md), follows the passage from the known through the unknown and back. In the native $x\\to X\\to x$ reading, the particular formation returns through a determining capacity it does not exhaust. The second $x$ is still particular, but its way of receiving and responding "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 74,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Complexio oppositorum](C36-Complexio-Oppositorum.md) names the capacity to bear differentiated tension within a whole; [individuation](C34-Individuation.md) gives that capacity a sustained life. Another person's answer is decisive at this point. Shared being does not entitle my account to speak that answer in advance. The Other can resist the terms in which I interpreted the encounter and thereby change those terms. Their participation in the whole includes this irreducible power of reply."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "line": 86,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#relational-growth) keeps these returns proportionate. A covering map relates specified spaces; a logical restriction changes admissible formation; psychic reorganisation changes how a particular life holds an encounter. Their comparison carries the transformed relation without exchanging their warrants. [Sensitivity to origins](../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) preserves responsib"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 18,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "The corresponding return to [A10](../../../arguments/A10-Advent-of-Zero.md) concerns permission, rather than a retrospective ranking of civilisations. An operation can be newly available even where its eventual symbol resembles an older mark. E1's [Name-through-Count](../../../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) **qualifies** the transition: naming an absence and admitting it to a count are related achievements whose rules remain inspectable. E3's [Topos an"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 52,
+      "severity": "review",
+      "code": "PROVENANCE_THEATRE",
+      "text": "[M27](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md) **returns-to** that exact alternation-plus-shift witness. The native slash keeps its authorial derivation, while the representation supplies a mathematical neighbour. [A18](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) and [C11](../../../concepts/C11-Quaternal-Logic.md) **qualify** the wider return: the complete eight determinations, both complete inverse parents"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 16,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Kaplan's selected 2000 printing](../../../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md) **historicises** the distinction through its Babylonian, Hellenistic and Indian sequences. His pp. 4–27 separate internal positional marking from astronomical notation; pp. 36–75 follow the Indian arithmetic development. These are historical syntheses with particular tablet, inscription and dating claims still requiring specialist primary collation. A circular sign alone cannot esta"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 18,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The corresponding return to [A10](../../../arguments/A10-Advent-of-Zero.md) concerns permission, rather than a retrospective ranking of civilisations. An operation can be newly available even where its eventual symbol resembles an older mark. E1's [Name-through-Count](../../../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) **qualifies** the transition: naming an absence and admitting it to a count are related achievements whose rules remain inspectable. E3's [Topos an"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 24,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Colebrooke's translation](../../../sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md) **sources** three different acts. Brahmagupta's rules at printed p. 339, chapter XVIII, rules 31 and 34, give zero additive and multiplicative behaviour. Bhāskara's *Bīja-gaṇita* I.14 at p. 137 retains a fraction with zero as denominator. I.16 at p. 138 compares its invariance under addition or subtraction of finite quantities with divine immutability through creation and des"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 26,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The laws do different work. Addition by zero preserves a finite quantity; multiplication by zero makes different finite quantities agree at the result. Thus `6·0 = 17·0` supplies no cancellation back to `6 = 17`. The information lost in multiplication cannot be recovered by treating zero as an invertible factor. Under ordinary field laws, assuming `0x = 1` conflicts with `0x = 0`. Retaining `a/0` consequently requires a declared change in what expressions mean or which transformations are permit"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 28,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Dutta's 2023 reconstruction](../../../sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) **qualifies** the historical judgment by examining restricted cancellation, cross-multiplication and postponed evaluation for zero-divided quantities. This modern reconstruction is distinct from both Colebrooke's translation and ordinary real-number arithmetic. It gives an exact reason to reopen Kaplan's adverse treatment of the Indian rules: a retained exceptional expression m"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 32,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The transmitted sign also changes its social permission. Kaplan's pp. 90–115 lead through Arabic and Latin numerical practices, teaching and commercial calculation. [Nothaft's 2020 study](../../../sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md) **historicises** a particular medieval reception of ciphers; it does not warrant a Europe-wide prohibition or a single religious attitude toward zero. The [Gerbert](../../../concepts/reference-notes/gerbert-sylvester-"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 36,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Modern constructions give zero new offices without supplying missing ancient events. Under the finite von Neumann construction, `0 = ∅`, `1 = {0}`, `2 = {0,1}`, and `n+1 = n ∪ {n}`. Membership records the predecessors within each succeeding ordinal. The empty set is a subset of every set; it is not a member of every set. It is a member of every nonzero finite ordinal under this construction. The [ordinal reference note](../../../concepts/reference-notes/von-neumann-ordinals.md) **returns-to** th"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 38,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[A10](../../../arguments/A10-Advent-of-Zero.md) **grounds** the native consequence developed in the direct quilt: formal absence has an exact identity and can become the member around which the first positive ordinal is formed. The subject comparison concerns a condition's relation to what it makes available. The empty set remains an object inside set theory and is not thereby the unobjectifiable Subject. The construction earns the comparison by its operation; it does not borrow its force from a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 42,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Boolean generation provides another precise economy. Write `p ↓ q = ¬(p ∨ q)`. Then `p ↓ p` yields negation; negating `p ↓ q` yields disjunction; `(p ↓ p) ↓ (q ↓ q)` yields conjunction. This NOR construction has a specified truth-function and two-valued domain. It is not a NAND formula, a history of all logic, or the QL eightfold. [Sheffer's 1913 paper](../../../sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md) **historicises** the single-connective programme, while the e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 44,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Russell's 1908 types](../../../sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md) and [Principia](../../../sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md) address the admissibility of expressions and the reconstruction of mathematics; [Gödel's 1931 paper](../../../sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md), with [Raatikainen's account](../../../sources/mathematics-logic/raatikainen/raatikainen-2026-gode"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 48,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Spencer-Brown](../../../sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md) develops a calculus from distinction; [Varela](../../../sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md) develops reflexive indication with a distinct formal treatment. Their historical relation opens the question of a distinction returning into its own field. It does not mean every self-referential expression has one temporal solution. Exact edition-level "
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 50,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Kauffman's selected 2014 iterant exposition](../../../sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md) **sources** the swap relation `[a,b]η = η[b,a]` and the period-two construction at pp. 27–28. The operation can be checked in a finite representation: let `D = diag(1,−1)` and let `η` exchange the two coordinates. Then `η² = I`, `ηD = −Dη`, and `(Dη)² = −I`. Alternation together with the shift produces the square-root-of-minus-one relation. The phase is"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 54,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Other changes of space have different invariants. [NIST's selected DLMF release](../../../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) **sources** the extended complex plane and the invariance of cross-ratio under bilinear transformations. Adjoining its ideal point does not turn every formerly undefined arithmetic expression into a field operation. [Hatcher's quotient and lifting constructions](../../../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topolog"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 56,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A closed loop can lift from `(0,0)` to `(2,1)`. That displacement records its winding class; it does not retain every turn, speed or encounter of the path. The universal covering plane is distinct from a torus covering a Klein bottle in two sheets. A coordinate change, a quotient and a cover therefore return different information. [E5's whole field](../../../etymologies/homology-and-analogy/WHOLE-FIELD.md) **qualifies** the comparison by asking which relation is preserved and which difference re"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 60,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Scholtz's tuning account](../../../sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) **sources** the fifth `3/2`, fourth `4/3`, tone `9/8` and octave `2/1`. Twelve pure fifths exceed seven octaves by `(3/2)^12 / 2^7 = 531441/524288`. Equal temperament distributes that discrepancy logarithmically across the fifths. The tuned result changes the intervals according to a declared criterion. This operation differs from [A15's](../../../arguments/A15-Ratio"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 62,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[M29](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) **returns-to** this difference between exact ratio, winding class and musical resolution. The listener's recognition can bring the achieved relation to rest; the formal comparison does not require indefinite production of cycles. E6's [ratio branch](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md#e6-ratio) **extends** the question of a selected denominator and purpo"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 64,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "A material instrument can coordinate several cycles without making them one cycle. The [Freeth 2006 source](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md) **sources** the surviving Antikythera evidence at the explicitly selected primary abstract; the [2021 model](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md) proposes a front display constrained by inscriptions and fragments. Its nine outputs and nes"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 70,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "Modern machine learning gives these questions new operational sites. In [Vaswani et al.](../../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md), scaled dot-product attention applies `softmax(QKᵀ/√dₖ)` to weight values. The weighting is distinct from selection of a maximal index. [PyTorch's version-fixed definitions](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) **sources** softmax over a selected dimension and argmax's return"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 72,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[Bradley–Terry](../../../sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md) supplies the paired-comparison history; [DPO's selected passage](../../../sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md) makes the dependence on reward differences explicit. Adding the same constant to two compared rewards cancels in their difference. This gauge freedom is distinct from replacing DPO's reference policy: a changed reference policy can change the opt"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 74,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "[LeCun and colleagues' selected 2006 prepublication text](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) **sources** another distinction: inference varies candidate values under an energy function; learning changes the function through a loss. Low compatibility energy, a training loss and a preference score have different jobs. [M41](../../../../../section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md) **returns-to** the Of"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 76,
+      "severity": "review",
+      "code": "DEFENSIVE_NEGATION",
+      "text": "The history now returns to [A14](../../../arguments/A14-Computational-Process-Ontology.md) with concrete requirements for a computational account: retain the operation performed, its comparison field, the criterion, and the office able to revise it. [M40](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **returns-to** the hidden finite conditions of preference, without identifying those conditions with native Zero. E2's [Con-text-through-Diaphan"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 74,
+      "severity": "review",
+      "code": "STATUS_LEAK",
+      "text": "[LeCun and colleagues' selected 2006 prepublication text](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) **sources** another distinction: inference varies candidate values under an energy function; learning changes the function through a loss. Low compatibility energy, a training loss and a preference score have different jobs. [M41](../../../../../section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md) **returns-to** the Of"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 18,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The corresponding return to [A10](../../../arguments/A10-Advent-of-Zero.md) concerns permission, rather than a retrospective ranking of civilisations. An operation can be newly available even where its eventual symbol resembles an older mark. E1's [Name-through-Count](../../../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) **qualifies** the transition: naming an absence and admitting it to a count are related achievements whose rules remain inspectable. E3's [Topos an"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 30,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The [khahara note](../../../concepts/reference-notes/khahara.md) thus survives as a two-part obligation. Its selected mathematical and theological English passages now have a source home; its terminology and wider reception still require primary Sanskrit and historical work. The [Brahmagupta note](../../../concepts/reference-notes/brahmagupta.md) keeps the chapter-and-rule witness beside the broader chronological inquiry. [M14](../../../../../section-rooms/02-return-of-zero/movements/14-s1-p1-su"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 38,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[A10](../../../arguments/A10-Advent-of-Zero.md) **grounds** the native consequence developed in the direct quilt: formal absence has an exact identity and can become the member around which the first positive ordinal is formed. The subject comparison concerns a condition's relation to what it makes available. The empty set remains an object inside set theory and is not thereby the unobjectifiable Subject. The construction earns the comparison by its operation; it does not borrow its force from a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 44,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[Russell's 1908 types](../../../sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md) and [Principia](../../../sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md) address the admissibility of expressions and the reconstruction of mathematics; [Gödel's 1931 paper](../../../sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md), with [Raatikainen's account](../../../sources/mathematics-logic/raatikainen/raatikainen-2026-gode"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 52,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[M27](../../../../../section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md) **returns-to** that exact alternation-plus-shift witness. The native slash keeps its authorial derivation, while the representation supplies a mathematical neighbour. [A18](../../../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) and [C11](../../../concepts/C11-Quaternal-Logic.md) **qualify** the wider return: the complete eight determinations, both complete inverse parents"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 54,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Other changes of space have different invariants. [NIST's selected DLMF release](../../../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) **sources** the extended complex plane and the invariance of cross-ratio under bilinear transformations. Adjoining its ideal point does not turn every formerly undefined arithmetic expression into a field operation. [Hatcher's quotient and lifting constructions](../../../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topolog"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 56,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "A closed loop can lift from `(0,0)` to `(2,1)`. That displacement records its winding class; it does not retain every turn, speed or encounter of the path. The universal covering plane is distinct from a torus covering a Klein bottle in two sheets. A coordinate change, a quotient and a cover therefore return different information. [E5's whole field](../../../etymologies/homology-and-analogy/WHOLE-FIELD.md) **qualifies** the comparison by asking which relation is preserved and which difference re"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 60,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[Scholtz's tuning account](../../../sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) **sources** the fifth `3/2`, fourth `4/3`, tone `9/8` and octave `2/1`. Twelve pure fifths exceed seven octaves by `(3/2)^12 / 2^7 = 531441/524288`. Equal temperament distributes that discrepancy logarithmically across the fifths. The tuned result changes the intervals according to a declared criterion. This operation differs from [A15's](../../../arguments/A15-Ratio"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 62,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[M29](../../../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md) **returns-to** this difference between exact ratio, winding class and musical resolution. The listener's recognition can bring the achieved relation to rest; the formal comparison does not require indefinite production of cycles. E6's [ratio branch](../../../etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md#e6-ratio) **extends** the question of a selected denominator and purpo"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 64,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "A material instrument can coordinate several cycles without making them one cycle. The [Freeth 2006 source](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md) **sources** the surviving Antikythera evidence at the explicitly selected primary abstract; the [2021 model](../../../sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md) proposes a front display constrained by inscriptions and fragments. Its nine outputs and nes"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 70,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "Modern machine learning gives these questions new operational sites. In [Vaswani et al.](../../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md), scaled dot-product attention applies `softmax(QKᵀ/√dₖ)` to weight values. The weighting is distinct from selection of a maximal index. [PyTorch's version-fixed definitions](../../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) **sources** softmax over a selected dimension and argmax's return"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 74,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "[LeCun and colleagues' selected 2006 prepublication text](../../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) **sources** another distinction: inference varies candidate values under an energy function; learning changes the function through a loss. Low compatibility energy, a training loss and a preference score have different jobs. [M41](../../../../../section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md) **returns-to** the Of"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "line": 76,
+      "severity": "review",
+      "code": "ADDRESS_LEAK",
+      "text": "The history now returns to [A14](../../../arguments/A14-Computational-Process-Ontology.md) with concrete requirements for a computational account: retain the operation performed, its comparison field, the criterion, and the office able to revise it. [M40](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **returns-to** the hidden finite conditions of preference, without identifying those conditions with native Zero. E2's [Con-text-through-Diaphan"
+    }
+  ]
+}

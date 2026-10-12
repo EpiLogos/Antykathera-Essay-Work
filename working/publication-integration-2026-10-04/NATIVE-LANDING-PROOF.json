@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-04T17:59:41.256657+00:00",
+  "head": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "tier": "landing",
+  "scope": "full",
+  "dirty": false,
+  "passed": true,
+  "selected": 19,
+  "gates_passed": 19,
+  "run": "https://github.com/EpiLogos/O-I/actions/runs/37221500005",
+  "artifact": "source-landing-73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "receipt": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/publication-integration-2026-10-04/native-ci/73a06f0e/gates/receipts/latest-landing.json"
+}

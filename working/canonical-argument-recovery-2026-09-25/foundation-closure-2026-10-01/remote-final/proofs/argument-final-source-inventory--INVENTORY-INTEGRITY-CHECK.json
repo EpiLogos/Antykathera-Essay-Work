@@ -1,0 +1,20 @@
+{
+  "actual_main": "8d8b9b429bdc8f8bb6140e1e4dd4c8884a932045",
+  "records": 72,
+  "pairs": 36,
+  "counts": {
+    "published_source_operation_preserved": 52,
+    "ready_independently_accepted_nonlive": 9,
+    "retained_satisfactory_compared_operation": 1,
+    "complete_nonlive_independent_cold_pending": 10
+  },
+  "current_native_or_preimage_equality": "All72 current hashes computed; all9 ready and10 pending exact preimage/native and candidate bytes verified. Existing52 publication inputs match current bytes separately from semantic evidence.",
+  "cold_hashes": "All9 supplied ready cold/owner hashes verified. Published earlier named peer text binds each exact current reviewed hash. Four durable parent final-public bridges remain explicitly qualified.",
+  "canonical_writes": 0,
+  "heavy_jobs": 0,
+  "inventory": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-final-source-inventory/FINAL72-SOURCE-OPERATION-INVENTORY.json",
+    "sha256": "2e7ac571115d5d3913ba1e9bc8985433955acb27f75d0237c7e502e430b8f43b",
+    "role": "receipt-only finite source-operation return"
+  }
+}

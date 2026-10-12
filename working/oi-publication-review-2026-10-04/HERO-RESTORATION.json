@@ -1,0 +1,251 @@
+{
+  "schema": "oi.hero-restoration/v1",
+  "observed_at_utc": "2026-10-04T15:10:30.325027+00:00",
+  "standing": "Authorised original-home restoration retained in shared working tree; parent owns Git/publication",
+  "historical_basis": "45159b76a1677d847aef3aa6fc1788b7017f688b",
+  "replacement_commit": "d68aef804277c65eeec0a1b47e31427a3dac4574",
+  "local_head_at_receipt": "5c74f16120e688b2969ea848e797d1062485ed77",
+  "owned_changes": [
+    {
+      "path": "site/src/shell/ShellApp.tsx",
+      "sha256": "8830aea83f2a1cd7309971ed79e22433e972371c9cc72f9b79892fd306f1b417",
+      "bytes": 11080
+    },
+    {
+      "path": "site/src/shell/ShellNav.tsx",
+      "sha256": "ee2d5e9bbf98743fd4c5a1eeced33763bf55af844f5f5eb431b3e8e23ad13074",
+      "bytes": 4149
+    },
+    {
+      "path": "site/src/shell/shell.css",
+      "sha256": "76f5c7e4b3cdd32013d159d4fde5c4d1b5f63670ba71e64430a0b46b32de6a18",
+      "bytes": 23769
+    },
+    {
+      "path": "site/src/shell/public-entrance.css",
+      "sha256": "e24a9536ca2a7ab59c7b34c18e61c6160f2da5e5065ccda3ccc1aef74f6584da",
+      "bytes": 2420
+    },
+    {
+      "path": "site/src/shell/content.ts",
+      "sha256": "48f925540796b77e44852c7677eb23e27cdd160c644093090bcc149c93768973",
+      "bytes": 2374
+    },
+    {
+      "path": "site/content/public-site.md",
+      "sha256": "f68a9fe565705a2de1c83b4b40144649d7f1bcb3cb0c76cf225de95dc6aca3d4",
+      "bytes": 45977
+    },
+    {
+      "path": "site/index.html",
+      "sha256": "9ae86d9165f3f58c0ae52f8fb7ddd8c369208a3286d5c82388072db4b951cbbc",
+      "bytes": 613,
+      "additional_scope": "Explicit native favicon declared after production favicon.ico 404 diagnosis"
+    },
+    {
+      "path": "site/shell.html",
+      "sha256": "4aa5579057bc0063774c807a3e26ab2e43e466537627863aaf144fff42167a74",
+      "bytes": 696
+    },
+    {
+      "path": "site/tests/read-shell-source.mjs",
+      "sha256": "0b085a9823b08f482de99dd03d2bbf80cecf091f287a94e8f887dcb1fff926ce",
+      "bytes": 709
+    },
+    {
+      "path": "site/tests/shell-v2-acceptance.py",
+      "sha256": "db6fadef7d6a51782b739f33f699fbf31a86c5c2b123f0b7cffc69783b296e09",
+      "bytes": 18132
+    },
+    {
+      "path": "site/tests/library-acceptance.py",
+      "sha256": "819b90dec04bcd59bf1ab4221cfc087927e23f1a6cc8dc0c2c42a10bb9bd56c8",
+      "bytes": 14665
+    },
+    {
+      "path": "site/tests/library-regressions.py",
+      "sha256": "e51c1501d0867de4457227efc6a2e6b9945fd3ba2b43fadfe1776d2718ebe4c1",
+      "bytes": 3530
+    },
+    {
+      "path": "site/tests/essay-host-smoke.py",
+      "sha256": "c24b29bdc0a098735dc6fedcc37f47cbbddabe70ac155c9cc1703483803ce80d",
+      "bytes": 12688,
+      "scope": "Only the original-home assertion, screenshot/output labels and opening description; parent owns the remaining Quartz-host matrix changes"
+    },
+    {
+      "path": ".github/workflows/site-shell-v2.yml",
+      "sha256": "7c301e39a20f4ac17fe2f415eb145163ef2698767af5697f385da66b490e90f3",
+      "bytes": 2640
+    }
+  ],
+  "preservation": {
+    "developed_public_copy_after_what_identical": true,
+    "original_components": {
+      "HeroParallax.tsx": true,
+      "VideoField.tsx": true,
+      "motion.tsx": true,
+      "ShellMark.tsx": true,
+      "IndexCollection.tsx": true
+    },
+    "historical_shell_css_identical": true,
+    "media": [
+      {
+        "path": "site/public/media/motion/oi-pointcloud-a.mp4",
+        "bytes": 14766920,
+        "sha256": "bd6b5605de04fc388e15a4e76acdad86c788feaab9ead9d7e3333c80a895419e",
+        "historical_identical": true
+      },
+      {
+        "path": "site/public/media/motion/oi-pointcloud-b.mp4",
+        "bytes": 21960051,
+        "sha256": "6741a33e8f1d0d592c534f6bb7084498b57a4632d0ddf6c38293104f556d2d93",
+        "historical_identical": true
+      },
+      {
+        "path": "site/public/media/motion/oi-pointcloud-c.mp4",
+        "bytes": 22533692,
+        "sha256": "d62fe408e0a2d7b630bd915045ad5f30c2c81b1780e05abd40ee9fb54e4380f6",
+        "historical_identical": true
+      },
+      {
+        "path": "site/public/media/motion/oi-pointcloud-d.mp4",
+        "bytes": 28873441,
+        "sha256": "00b01d91cfc0dfd162bddad09b8e048d2a6ae4a3ce8d1be8941648d4ba258967",
+        "historical_identical": true
+      },
+      {
+        "path": "site/public/media/motion/oi-pointcloud-poster-1.jpg",
+        "bytes": 659061,
+        "sha256": "67cc72da940ad44bfa5b264b20d668a8b86c25ed2c58909b4de4185dbf72305f",
+        "historical_identical": true
+      },
+      {
+        "path": "site/public/media/motion/oi-pointcloud-poster-2.jpg",
+        "bytes": 741641,
+        "sha256": "121425c7073b3868417f828e45ef0dc81344554c6c59c204e296cb7e09355e87",
+        "historical_identical": true
+      },
+      {
+        "path": "site/public/media/motion/oi-pointcloud-poster-3.jpg",
+        "bytes": 805784,
+        "sha256": "4dff255fde4f161aca8302d8b28e584bb60cadef5edf9ddca24980d047648945",
+        "historical_identical": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "check": "tsc -p tsconfig.public.json --noEmit",
+      "exit_code": 0
+    },
+    {
+      "check": "node --test public-content.test.mjs",
+      "passed": 10,
+      "failed": 0,
+      "skipped": 0
+    },
+    {
+      "check": "node tests/read-shell-source.mjs",
+      "exit_code": 0
+    },
+    {
+      "check": "Python AST parsing of three changed browser suites",
+      "exit_code": 0
+    },
+    {
+      "check": "Python AST parsing of the revised restored-home host assertion",
+      "exit_code": 0
+    },
+    {
+      "check": "Revised original-home host assertion replayed against actual Vercel-mode built-dist handler",
+      "passed": true,
+      "scope": "HTTP200, hero present, exact developed heading present, Primary navigation visible, no essay graph inherited"
+    }
+  ],
+  "browser_verification": {
+    "standing": "Executed against parent-coordinated successful public build at preview port 4177",
+    "browser": "Installed Chromium 153, no new installation",
+    "rendering": "Software WebGL; actual assets, source copy and routes",
+    "suite": "site/tests/shell-v2-acceptance.py",
+    "passed": 19,
+    "failed": 0,
+    "blocked": [],
+    "viewport_sizes": [
+      [
+        320,
+        740
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        768,
+        1024
+      ],
+      [
+        1440,
+        900
+      ],
+      [
+        2560,
+        1080
+      ],
+      [
+        844,
+        390
+      ]
+    ],
+    "motion_modes": [
+      "normal",
+      "reduced"
+    ],
+    "scope": [
+      "Exact developed section/paragraph/item rendering",
+      "Original media format/hash and loaded posters",
+      "Header and landing Library/Essay link identities",
+      "Square office tiles without clipping",
+      "No horizontal overflow",
+      "Real parallax separation and scroll reversal",
+      "Live operating-system motion preference changes",
+      "Menu focus containment, Escape, route and browser history",
+      "Legacy Library route interruption and fallback",
+      "Autoplay refusal retains poster"
+    ],
+    "results_path": "/Users/admin/Central/Work/O-I/site/evidence/shell-v2/results.json",
+    "unrun_browsers": [
+      "Firefox",
+      "WebKit"
+    ],
+    "visual_review": [
+      "Desktop hero at rest and after 650px scroll: original composition and layer separation, unobstructed direct reading links",
+      "Mobile menu: Home/Library/Essay remain readable, no overflow",
+      "Full mobile restored landing: seven developed sections and six square office spaces retained"
+    ]
+  },
+  "publication": {
+    "standing": "Parent-owned; this lane has performed no Git mutation or deployment"
+  },
+  "supplementary_capture_note": "An initial supplementary desktop capture timed out before navigation checks; the completed original-shell suite supplies the inspected desktop hero capture. A separate navigation receipt records subsequent actual entrance clicks.",
+  "navigation_verification": {
+    "receipt": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/HERO-NAVIGATION.json",
+    "passed": 6,
+    "failed": 0,
+    "cases": [
+      "desktop header Essay reaches actual Quartz foundation entrance",
+      "desktop landing Essay reaches actual Quartz foundation entrance",
+      "desktop header Library reaches native public Library",
+      "mobile header Essay reaches actual Quartz foundation entrance",
+      "mobile landing Essay reaches actual Quartz foundation entrance",
+      "mobile header Library reaches native public Library"
+    ]
+  },
+  "visual_review_artifacts": [
+    "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/hero-desktop.png",
+    "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/hero-mobile.png",
+    "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/home-reading-entrances-desktop.png",
+    "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/home-reading-entrances-mobile.png"
+  ],
+  "followup_repair_receipt": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/SHELL-CI-AND-FAVICON-REPAIR.json"
+}

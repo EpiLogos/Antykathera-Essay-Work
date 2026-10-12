@@ -1,0 +1,110 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "bimba",
+ "status": "verified-existing",
+ "verification": {
+  "existing_census": "Point-Cloud-Demo production/bimba/M0-M5-PRODUCTION-MANIFEST.md",
+  "manifest_claims": {
+   "first_cut_artifacts": 13,
+   "widening_cut_artifacts": 6,
+   "ql_commit": "e87d6bcef81d005e848b978a11a0ab53b7739973",
+   "registry_revision": "259a2f496c5f3a76d31e5c480dc9afdb45ad1282a7034cc28c528c39a71442e4",
+   "source_revision": "daa660cbc1b8c5da83828698665a753852cb0287"
+  },
+  "artifacts_found": 19,
+  "count_matches_claims": true,
+  "binding_records": 32,
+  "path_proof_fixtures_excluded": 1,
+  "gate_rerun": "npx tsx scripts/production-inventory.ts \u2192 OK, 3 namespaces, disjoint (2026-09-21, this pass)",
+  "registry_fixture_blob_at_ql_head": "c92de20a1409c09bf7d3dfa72908819a0ab02963",
+  "ql_checkout_state": "dirty in-flight lane (session/k-aw-expression-production-2026-09-17) \u2014 read-only verification only; the QL-side pins above are quoted from the manifest, not re-derived"
+ },
+ "source": {
+  "owner": "QL-MEF #201 (Bimba \u2192 M\u2032 Expression production lane)",
+  "registry": "Quaternal-Logic fixtures/kernel/m-tree-v1.json (ql.m-tree/v1: 1876 nodes / 21083 relations / 6 roots per the manifest)"
+ },
+ "record_count": 19,
+ "artifacts": [
+  {
+   "path": "production/bimba/nara/bimba-m4-dialogue-containers.journey.json",
+   "sha256": "876e493f2e14ee9a82301d1485f8db7e181ad21ecb1211e7310d8483ea354637"
+  },
+  {
+   "path": "production/bimba/nara/bimba-m4-lenses.journey.json",
+   "sha256": "2758fba807dff7c12d57fa5b93aa54d5f9ee0c380550e05fe6007940f43b259d"
+  },
+  {
+   "path": "production/bimba/nara/bimba-m4-seven-centres-earth.journey.json",
+   "sha256": "5bee7d6185d7d1f43f60d50a05cce048f93698d7d27b40f0af2cd2bf90138b5e"
+  },
+  {
+   "path": "production/bimba/parashakti/bimba-m2-archetypal-lenses.journey.json",
+   "sha256": "f9b157b89afea890e22ddd6beff165fd5c757f207d56d3edd95010a1a109278a"
+  },
+  {
+   "path": "production/bimba/parashakti/bimba-m2-maqamat-arena.journey.json",
+   "sha256": "02a587a4621df250c090943ea8d6ea668e61d8a7d8722bc424adc531d96a35b2"
+  },
+  {
+   "path": "production/bimba/parashakti/bimba-m2-planetary-harmonics.journey.json",
+   "sha256": "4bfc61f054bcda4c5dc061c60e7b00b294465c78b6699d4d92c9918b8d6ab260"
+  },
+  {
+   "path": "production/bimba/epii/bimba-m5-agent-apertures.journey.json",
+   "sha256": "58a681d1e1719ef1f29b2ef79dd2c58321054252cd19295b8f0fc598f7304031"
+  },
+  {
+   "path": "production/bimba/epii/bimba-m5-epilogos-positions.journey.json",
+   "sha256": "30efa727ca9db09bb68205dc2eee723458dbd7308619728e3366e5e06413b259"
+  },
+  {
+   "path": "production/bimba/epii/bimba-m5-logos-return.journey.json",
+   "sha256": "9bfc1d9d637d2652208abccec9217510b7e7441291357cbe75de9e824fce9056"
+  },
+  {
+   "path": "production/bimba/anuttara/bimba-m0-mirror-frame-operator.journey.json",
+   "sha256": "b8b4a7eca2d22dd7a77940bc5bde61ba0bd5b59bb8c4023813d7c2df660b95b4"
+  },
+  {
+   "path": "production/bimba/anuttara/bimba-m0-paramesvara-virtues.journey.json",
+   "sha256": "f7b3262f55ed23fe18b5d2a1e548b2c40242ffe74e822dbcf2b696d6cc136327"
+  },
+  {
+   "path": "production/bimba/anuttara/bimba-m0-siva-shakti-apertures.journey.json",
+   "sha256": "7b27aaf44764b26153de8503d222d6c5e5cfcd597e97bd383ad01e28db6abdcf"
+  },
+  {
+   "path": "production/bimba/paramasiva/bimba-m1-ananda-matrices.journey.json",
+   "sha256": "16a8c169e15f0bb17938d677c50111b7af50f3d1f552073db48e3be0e54eb712"
+  },
+  {
+   "path": "production/bimba/paramasiva/bimba-m1-dynamic-process.journey.json",
+   "sha256": "fc01e7b209f823d4d1c445455a9ab9be7bed5537824a652da58381468ff423fc"
+  },
+  {
+   "path": "production/bimba/paramasiva/bimba-m1-spanda-poles.journey.json",
+   "sha256": "99eede4d2b0bab6aaf13d656a35672adf45ec2d14b5c9eac407366fb132a592c"
+  },
+  {
+   "path": "production/bimba/mahamaya/bimba-m3-axis-mundi-wheel.journey.json",
+   "sha256": "92cb51a4d57d1f5f1919494d6e7555f7de33a6f5e2e8dd8c4c7316a028a25f01"
+  },
+  {
+   "path": "production/bimba/mahamaya/bimba-m3-iching-octave.journey.json",
+   "sha256": "811ee345585edf68a631aa131bef12c4636ee944eaadae52dac43aebac5c892a"
+  },
+  {
+   "path": "production/bimba/mahamaya/bimba-m3-qian-octave.journey.json",
+   "sha256": "9c698150b5924575159bef9854ee701240f752ec5765a7f49388f5762aa7f5c2"
+  },
+  {
+   "path": "production/bimba/mahamaya/bimba-m3-transcription-families.journey.json",
+   "sha256": "3644bb8e1b5972d14a173b4f9bcde3dba9991d6d30289e70a98c8473845dc346"
+  }
+ ],
+ "production_state": {
+  "status": "in-flight (owned lane active); two cuts landed (19 corpus artifacts, depth 2-3 + widening); covers absent by declared limitation (renderer captures belong to the owning lane); collections/Atlas live collections remain a named gap needing a shape proposal (O-I#65 comment 5751853578)"
+ },
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}

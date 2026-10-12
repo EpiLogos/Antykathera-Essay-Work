@@ -1,0 +1,41 @@
+{
+  "root": {
+    "id": "jung-1976-psychological-types-cw6",
+    "title": "Jung — Psychological Types, CW 6 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1976-psychological-types-cw6/jung-1976-psychological-types-cw6.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — Psychological Types, CW 6 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-1976-psychological-types-cw6-p001 — Individuation and collective relations",
+      "jung-1976-psychological-types-cw6-p002 — Symbol and sign"
+    ],
+    "sha256": "b34a1f647fa252c801f59a43a0ed139393ceb1dea7f3e8222f9dc55a8859a055",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

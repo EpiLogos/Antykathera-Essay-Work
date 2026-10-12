@@ -1,0 +1,128 @@
+{
+  "base_main": "01dcff08cfa52febd072f9a0fe1470dabdccda7e",
+  "status": "Exact independently reviewed complete operations included locally; remote native validation pending",
+  "records": [
+    {
+      "key": "FDE",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "preimage_sha256": "7f9de27a51ae2b00a8b62bc855d2062888220b4c73c8d1a89336b5761bb32d46",
+      "postimage_sha256": "ca4aa1bff875eb0011b4c9518f087afcba4a44a54e44040daf9c8efa39d2ade0",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-return/FDE-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-PARENT-MATHEME-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 8
+    },
+    {
+      "key": "QUATERNION",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "preimage_sha256": "4d5b99654e90cdeeb13d8094a9d7c5d315b31aafed7408970d8a60912a3f3a77",
+      "postimage_sha256": "7be1bf6e3721da44e5ad553dc04d5762a970998b5657c8707cc2fd7ce306e715",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-return/QUATERNION-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-PARENT-MATHEME-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 2
+    },
+    {
+      "key": "SHEFFER",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "preimage_sha256": "8d4cd6f0c2bd8d689d0af6d79de6865d31b3deaa7bcfc7c276613b724ead03e0",
+      "postimage_sha256": "ef04302ba3dbf1bc41ce0761a7904b1ed22fe3ba03cdf1f8315d549ce177f8c6",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-return/SHEFFER-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-PARENT-MATHEME-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 6
+    },
+    {
+      "key": "CRT",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+      "preimage_sha256": "f67e21e17286a077a64c4ce8d69d671c5727cf26e0966db0b79088c3c0ff4929",
+      "postimage_sha256": "7face040890dd1e2216e694cf3e0236c29f9e321df25582ad397f752b1c2f75e",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-return/CRT-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-PARENT-MATHEME-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 2
+    },
+    {
+      "key": "PERFECT-SIX",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "preimage_sha256": "27a6d07a07deb05d9b4a6869b7e2fa262accc542167c46adccb3a72dc66f9ebb",
+      "postimage_sha256": "3dd690a2aa6d0f9494234103925561b91ada88c206489c749cab49b0c382ad24",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-matheme-return/PERFECT-SIX-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-PARENT-MATHEME-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 3
+    },
+    {
+      "key": "GROUP",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "preimage_sha256": "2919163a8bc9c96b69b70343f99685ccd6a6d26b886b0fda960b7bbc1fd83c23",
+      "postimage_sha256": "48e191cc802f41a9e4839013b53d1ee51107d603bf6e8b43b6d5d6757a1bed1c",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-limit-return/GROUP-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 2
+    },
+    {
+      "key": "RING",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "preimage_sha256": "c305239e2daadce852e9d589c3cc97aeca81f28cb44d4677976f0a0a0e468e96",
+      "postimage_sha256": "44723f471f9c1389da13be46bd86cf2888250418661a533e1912ae2ae6d96078",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-limit-return/RING-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 3
+    },
+    {
+      "key": "RUSSELL",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "preimage_sha256": "84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2",
+      "postimage_sha256": "ea3b84e8d3931638b5ac9d3a3c327c7f137ddbc40e8707cf14f57dbb85cfa3ad",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-limit-return/RUSSELL-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 4
+    },
+    {
+      "key": "GODEL",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "preimage_sha256": "ead69a17ddda2235033652070ffb53759a6b3237f3af9335f708171b8adc266e",
+      "postimage_sha256": "f0525b8fa16912b47bebddbab28acb8e5447b2604021b2425b317c65faab4eaa",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-limit-return/GODEL-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 8
+    },
+    {
+      "key": "DIVISION",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "preimage_sha256": "170caf9d475247854eade69e2c3f99050c9e2a49cda235d8080dc801f8e40dd2",
+      "postimage_sha256": "08cec62fa5fae3d6b0dd4cb4cfa9a4b4222084d60d7c244e062ba65dac4c328f",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-limit-return/DIVISION-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "hard_errors": 0,
+      "review_count": 9
+    },
+    {
+      "key": "GROUP-LEGACY",
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/grothendieck-group-loss.md",
+      "preimage_sha256": "0395ddbd5e3f0fa3a7bb713e7a4d9f0641c084514b1009d33052d54668ce039c",
+      "postimage_sha256": "dc7bb1844984aac374ee525e302dd2acec5ca29611bbb48251ecde51633a09cc",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-limit-return/GROUP-LEGACY-candidate.md.txt",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-PARENT-FORMAL-FIVE-REVIEW.json",
+      "effects_depth": 4,
+      "authority": "Legacy frozen-provenance classification remains non-governing; conditional mathematical question corrected, pending research metadata preserved"
+    }
+  ],
+  "protected_scope": "No protected sourceoriginal/manuscript/movement/ethic edits; unchanged metadata and source-verification states",
+  "review_boundary": "Legacy classification confers no canonical governing authority; its repaired condition is witnessed in the complete native proof."
+}

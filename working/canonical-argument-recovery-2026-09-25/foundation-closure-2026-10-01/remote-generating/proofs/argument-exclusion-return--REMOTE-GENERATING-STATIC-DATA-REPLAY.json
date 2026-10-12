@@ -1,0 +1,689 @@
+{
+  "source_parent": "531bed8e3a86dac1cb00a68f611464f43de305c6",
+  "records": [
+    {
+      "key": "t0-onto-logic",
+      "path": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "preimage_sha256": "d13d0efa88786eecb3136d361b7c87b957791f235f80054b67963de3b3ff950b",
+      "postimage_sha256": "3628a46c1e91132ec66a76733103c8cd772a8274ebd037171357a5d78a7d451c",
+      "candidate_sha256": "3628a46c1e91132ec66a76733103c8cd772a8274ebd037171357a5d78a7d451c",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "t1-geometry",
+      "path": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "preimage_sha256": "71d58b64dd571c159abed03c56917936d21de5dea57836884f4bf52f4eb35c62",
+      "postimage_sha256": "8354b777f1aa96f6b442bb8432179da28d29adddceeb4923f8bd9349bcd89e38",
+      "candidate_sha256": "8354b777f1aa96f6b442bb8432179da28d29adddceeb4923f8bd9349bcd89e38",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "phase-flip",
+      "path": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "preimage_sha256": "2c906b0e6dff06b5950b2e225bf098ea7a9fc4586db19a2c8c72cb34a5d96c40",
+      "postimage_sha256": "757e82c5e55cc36aa9878ff397b51ee04a37e27166843c752ce5c35f2d6198f1",
+      "candidate_sha256": "757e82c5e55cc36aa9878ff397b51ee04a37e27166843c752ce5c35f2d6198f1",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ratio-threshold",
+      "path": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "preimage_sha256": "739ca3bdbc5539c8ac395cb5b520a8ce4cb3c1d2ce116907466ca81df9eec44d",
+      "postimage_sha256": "9b23efe77f3015f431d809d96826ac1177de13c9bf521a2290f4fc9c8ebc3347",
+      "candidate_sha256": "9b23efe77f3015f431d809d96826ac1177de13c9bf521a2290f4fc9c8ebc3347",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "harmonics-symmetries",
+      "path": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "preimage_sha256": "039d469edb39ede1c681a3fd354e6cf023d32c39fc32f06cf062edf30351f8b0",
+      "postimage_sha256": "f8bdbe8107a3167791a9d7ca8652c72134deb5d0538b7461f0ddaee3c8a7a824",
+      "candidate_sha256": "f8bdbe8107a3167791a9d7ca8652c72134deb5d0538b7461f0ddaee3c8a7a824",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "spanda",
+      "path": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "preimage_sha256": "a329b834e8137f640e47e4d0d5c00f8b2a0b655e74b75433c6d13a996587f64c",
+      "postimage_sha256": "8ea8874cca015985e38305a598addc4e3086031f1afc3c23db6a612d3d207bf3",
+      "candidate_sha256": "8ea8874cca015985e38305a598addc4e3086031f1afc3c23db6a612d3d207bf3",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MOBIUS-KLEIN-SURFACES",
+      "path": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "preimage_sha256": "94c800528c38963522c423e3a2215b42a3cd93ca73ce07785c807a7ba09fdda2",
+      "postimage_sha256": "38c10ac2b8ec697342d6c6c02b5c7d2c9821147208a2d6f059dbbd0bd5a16e71",
+      "candidate_sha256": "38c10ac2b8ec697342d6c6c02b5c7d2c9821147208a2d6f059dbbd0bd5a16e71",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TOROIDAL-POLOIDAL-CONFINEMENT",
+      "path": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "preimage_sha256": "a27a7176142e0bb115ee944735d0d7b039f9368795294e4a32d8ad5998d929ea",
+      "postimage_sha256": "53baccbc1379998366e78343327c5369bdb153b1e37588c87c02e747bff37215",
+      "candidate_sha256": "53baccbc1379998366e78343327c5369bdb153b1e37588c87c02e747bff37215",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MANIFOLD-ATLAS",
+      "path": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "preimage_sha256": "9cb4c3a295fb43c044392188a55b3217ef6cb5e1bbd3d1efbce84c9743356119",
+      "postimage_sha256": "4724445cd6a49a6e4bb78c7a6b6060be34d0d59c6106db6c40a38a9b6f31d927",
+      "candidate_sha256": "4724445cd6a49a6e4bb78c7a6b6060be34d0d59c6106db6c40a38a9b6f31d927",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "PROJECTIVE-LINE",
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+      "preimage_sha256": "f7bfe18a3e899398ce4d3f9e68c7ce0a23d27899d208ff485cfd1b35e13df072",
+      "postimage_sha256": "f8c4fe19320d028d7c5333a8c19a45dac6a9fca6d0423ad86735b5b4bb9f92e6",
+      "candidate_sha256": "f8c4fe19320d028d7c5333a8c19a45dac6a9fca6d0423ad86735b5b4bb9f92e6",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TORUS-COVER-WINDING",
+      "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "preimage_sha256": "d3f84d46076a055e61162fafca37f02a301fb5f5a98e2b2000e071f9868d5262",
+      "postimage_sha256": "67610481d03105959f47eea072011ab42a85f3519ae26f9f87bf3321f164fb67",
+      "candidate_sha256": "67610481d03105959f47eea072011ab42a85f3519ae26f9f87bf3321f164fb67",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "RIEMANN-SPHERE",
+      "path": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+      "preimage_sha256": "c20fdc470303a0e2749b28c701b201a9d4f846373b7db419e2e3384350c30070",
+      "postimage_sha256": "21918dc730f0fc657855322c5dec8693589d4e1873478cc08b745e89f3cc4186",
+      "candidate_sha256": "21918dc730f0fc657855322c5dec8693589d4e1873478cc08b745e89f3cc4186",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "PROJECTIVE-COMPLETION",
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+      "preimage_sha256": "a568aba0008093bfc796bfc47600a5dd1ed22ccb7b2b795b4dd50994315a997f",
+      "postimage_sha256": "fcd6514b24b19f0136bf585257dda5eaa9dd2cbfb607f75013f48ff4b7db29db",
+      "candidate_sha256": "fcd6514b24b19f0136bf585257dda5eaa9dd2cbfb607f75013f48ff4b7db29db",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "QUBIT-BLOCH-SPHERE",
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "preimage_sha256": "190f48437afc8a87b864293093a3f23bb91458ad9c60695b549c70c882073104",
+      "postimage_sha256": "16bc7a3b6cf89d3b062fcd30a40736f9796603a800605a28ad11cc44204b95aa",
+      "candidate_sha256": "16bc7a3b6cf89d3b062fcd30a40736f9796603a800605a28ad11cc44204b95aa",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "COMPLEX-ORIENTATION",
+      "path": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+      "preimage_sha256": "18a2d56e6de29f44bbd99533cd1e8756d6745e269754d5a94921a430daedec7c",
+      "postimage_sha256": "97d2356acb90fc34503c6330c11a7895f235128a5c763d242f66dab2386960bf",
+      "candidate_sha256": "97d2356acb90fc34503c6330c11a7895f235128a5c763d242f66dab2386960bf",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "etymology",
+      "path": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "preimage_sha256": "baed1df5a6667f8d91fb13c24ce138413f5c8215753a10e654d2c29d0958ff66",
+      "postimage_sha256": "f18f76632fac80604556d8706b66f9553f4c6e13a01302b573bdee07d2f1ac40",
+      "candidate_sha256": "f18f76632fac80604556d8706b66f9553f4c6e13a01302b573bdee07d2f1ac40",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "psychology",
+      "path": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "preimage_sha256": "b1036dfcfb6250f6ebe0ebeebb51b52aae734e2734b61bc24b974c9115c732e8",
+      "postimage_sha256": "90c5fac0f9f27d453c4c26afd66b54d9fb5259e70529dbcf98120ae8da26f7ba",
+      "candidate_sha256": "90c5fac0f9f27d453c4c26afd66b54d9fb5259e70529dbcf98120ae8da26f7ba",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "number",
+      "path": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "preimage_sha256": "1450f21c8418e24adb04da22ab91b0b85602c8c2c2c886220e8d53eedc914363",
+      "postimage_sha256": "ac91acc0748c72bed69055fbb15c0210bd5704cd71dce3ee994922290b6c838c",
+      "candidate_sha256": "ac91acc0748c72bed69055fbb15c0210bd5704cd71dce3ee994922290b6c838c",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "topology",
+      "path": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "preimage_sha256": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40",
+      "postimage_sha256": "b130d246fe439f18ce0e37b7eb0d17712d538bfac8692d5381ff4403e7722d6d",
+      "candidate_sha256": "b130d246fe439f18ce0e37b7eb0d17712d538bfac8692d5381ff4403e7722d6d",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "metaphysics",
+      "path": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "preimage_sha256": "78f0f74c856f9d3c2ed4a468ab4c6b97e583f03808b13a42f862dae4703ac37b",
+      "postimage_sha256": "5160644226d37ae815db799d9922c97bdd84e9025faa904adf17b972ba9990a4",
+      "candidate_sha256": "5160644226d37ae815db799d9922c97bdd84e9025faa904adf17b972ba9990a4",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "recognition",
+      "path": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "preimage_sha256": "bba9bca3895d637c7d67b299a9b0a90fc6323529da5a862a74c6e364bbb78dd6",
+      "postimage_sha256": "e79e1692bd9657746e35aa5eb9a00f82a44bc7d6166982db1ae4e1cc2f610582",
+      "candidate_sha256": "e79e1692bd9657746e35aa5eb9a00f82a44bc7d6166982db1ae4e1cc2f610582",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "enantiodromic-return",
+      "path": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "preimage_sha256": "23a264100c07f91a5463c038fb1b9054b7b0c98c5735305ef69d28f1ec9cf20d",
+      "postimage_sha256": "5d98c852338524345451bbbfe1c56825257237d31113d05fc87bb22877849f2d",
+      "candidate_sha256": "5d98c852338524345451bbbfe1c56825257237d31113d05fc87bb22877849f2d",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "arche-topos-musical-resolution",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "preimage_sha256": "7fed0b46d19a2babd0bce566f3042094af91b7eb18be653fb59e73d2581039fc",
+      "postimage_sha256": "4e359c236abf01b9a383173786c9cd942780ae5dcac1cd2146d0e45b7b92ce3b",
+      "candidate_sha256": "4e359c236abf01b9a383173786c9cd942780ae5dcac1cd2146d0e45b7b92ce3b",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "tetraktys-triangle",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "preimage_sha256": "32a0d3a26386446a4bc2a06f2a67e0247f3c8e71bf9c81ad81c376f133373362",
+      "postimage_sha256": "005a4455b257d8425af609d765bd4d7c1bdd7b96261ed354d688b0bcfe2a7045",
+      "candidate_sha256": "005a4455b257d8425af609d765bd4d7c1bdd7b96261ed354d688b0bcfe2a7045",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "cymatics-standing-waves",
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "preimage_sha256": "18844ff980c111bc0cf8f589e8c343edb944b2012b4ca6f10a22ecd36acda8da",
+      "postimage_sha256": "30790d461c0759289a5ac19d2e816c63e168ad7f6a5314c9bea976df7152d1b2",
+      "candidate_sha256": "30790d461c0759289a5ac19d2e816c63e168ad7f6a5314c9bea976df7152d1b2",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "j-space",
+      "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "preimage_sha256": "b6fe5e0cd29142b89af18c52050e9095800d1f0a15014f81379b6ae82407711a",
+      "postimage_sha256": "d82c2914fcfc240c0be23bdaabcaa3c7607a388e29a28c7f8e087195ede80881",
+      "candidate_sha256": "d82c2914fcfc240c0be23bdaabcaa3c7607a388e29a28c7f8e087195ede80881",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "softmax-argmax",
+      "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "preimage_sha256": "51290c2dfd988e22d02ff1c95cc52840bb6587da100dc449e4bc0b2d967ce6fc",
+      "postimage_sha256": "99591be8ce5f47b4a91009064938529d5db1f9628e5a3c1276a36242aa2c2379",
+      "candidate_sha256": "99591be8ce5f47b4a91009064938529d5db1f9628e5a3c1276a36242aa2c2379",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "spanda-equations",
+      "path": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "preimage_sha256": "3793af502c7aea110674c2c6b554ed9db06c6b06be467e4d64e37e5de98030eb",
+      "postimage_sha256": "6c6d2146b1a9d6e39ac001bb9872bd52c4e7e39824864f22e9f67762ef294cdb",
+      "candidate_sha256": "6c6d2146b1a9d6e39ac001bb9872bd52c4e7e39824864f22e9f67762ef294cdb",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E2",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "preimage_sha256": "a2bf352f2127ef1bbf03716a7579b5165c7cb8216264f189303a94cb10c572eb",
+      "postimage_sha256": "c9dc0e14f9279669db22620b0b6d8b624834b7ac0e2340cfe533df6c1b78aee0",
+      "candidate_sha256": "c9dc0e14f9279669db22620b0b6d8b624834b7ac0e2340cfe533df6c1b78aee0",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E6",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "preimage_sha256": "832de0e3ada0a397f898c2f215eb36045475ddd33cc9bf143a81e935027df7e7",
+      "postimage_sha256": "bd22197d57d4d26a8f4c54f71321e4fcc42911bc9c90d47fd039be7a08cbc9b1",
+      "candidate_sha256": "bd22197d57d4d26a8f4c54f71321e4fcc42911bc9c90d47fd039be7a08cbc9b1",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E5",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "preimage_sha256": "6147665e44cc51fbd28d98c5e9d6d3eb4f8587e9d95c28e1369f55a5224dc873",
+      "postimage_sha256": "3b531e82cb7c67280ec5a41e343e91c5d9ac55b2d3c8b90de5e9677b293e8124",
+      "candidate_sha256": "3b531e82cb7c67280ec5a41e343e91c5d9ac55b2d3c8b90de5e9677b293e8124",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "INDIAN-RECEIVING",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+      "preimage_sha256": "d3765b378e033aa571f601969d8518db1fcade0cb22674b11ddab968c253a977",
+      "postimage_sha256": "3b74bb5d24bd95901e72cead833e84779ee9c168ac520dbcef84d714816da24d",
+      "candidate_sha256": "3b74bb5d24bd95901e72cead833e84779ee9c168ac520dbcef84d714816da24d",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E6-HISTORICAL",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md",
+      "preimage_sha256": "a45117451f99233b2540a596ced1d6b6ae0b8200e681fae278f2d5f543a1f8fa",
+      "postimage_sha256": "9c71396e0920f920d6e0984fb7d2735acc36fd2cfc79e43dd9fc135a2b672d5b",
+      "candidate_sha256": "9c71396e0920f920d6e0984fb7d2735acc36fd2cfc79e43dd9fc135a2b672d5b",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E2-HISTORICAL",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES.md",
+      "preimage_sha256": "f273a82b975be574b02db450459916b91d049a67f71445991a10fb1fd2a0548d",
+      "postimage_sha256": "51f06a6616bcef4db761ac3cbb201fefa2a6093c07c03c3d34adafe29ec6346f",
+      "candidate_sha256": "51f06a6616bcef4db761ac3cbb201fefa2a6093c07c03c3d34adafe29ec6346f",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ENCOUNTER-HISTORICAL",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md",
+      "preimage_sha256": "cb034c1798e2b88c3793ea47b832afa2d74066ff3ccb1aec8b843bdcf0b206a3",
+      "postimage_sha256": "21e613de3422d435d72e9944247753cc5b0bbade6896d98e1826936c5960115b",
+      "candidate_sha256": "21e613de3422d435d72e9944247753cc5b0bbade6896d98e1826936c5960115b",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ENCOUNTER",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "preimage_sha256": "dff05a6be3e05a6fa6e3cfe2e0c222b573a2b17b6b303573019720ceff49d846",
+      "postimage_sha256": "5f273b7928d62088cceba9f85fcfb597148f5beddbb579ec69b94558dcdf55b2",
+      "candidate_sha256": "5f273b7928d62088cceba9f85fcfb597148f5beddbb579ec69b94558dcdf55b2",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E5-HISTORICAL",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+      "preimage_sha256": "bba963157f5ec215bbbe67ffec96b4372e77de0728e447dc771648f1a6cace24",
+      "postimage_sha256": "6e1ce991d448f7a16ff2f1ebf8df8cda72ce55f7d184bb01c810f0acc5e90b21",
+      "candidate_sha256": "6e1ce991d448f7a16ff2f1ebf8df8cda72ce55f7d184bb01c810f0acc5e90b21",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "E4-HISTORICAL",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "preimage_sha256": "925c1f07bffef7084e39b0c78f5cce732caef389426b79a795ce782517997279",
+      "postimage_sha256": "0bea1a8e8c2bd15aa876c0f00ae650a9088ccf17e9f8fc91e4c54c6aee6d9709",
+      "candidate_sha256": "0bea1a8e8c2bd15aa876c0f00ae650a9088ccf17e9f8fc91e4c54c6aee6d9709",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TRUST-HISTORICAL",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+      "preimage_sha256": "ba955fcfda5e4ba7c0667ddf72b263d4aeb025b61a147487d3f11b73c14c6207",
+      "postimage_sha256": "7f31c3de116c3d287204740a2a3d7b9936412f8939f15a477d7902d0b624a54e",
+      "candidate_sha256": "7f31c3de116c3d287204740a2a3d7b9936412f8939f15a477d7902d0b624a54e",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TRUST-FIELD",
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "preimage_sha256": "5d8172c4a33294abc1ca03673b78b0b5b6b9c581c58059cc7a38ccc0a1cad625",
+      "postimage_sha256": "c519eff90cae8ead563831d8dddd3dabf037101352770d4394427c87011a558a",
+      "candidate_sha256": "c519eff90cae8ead563831d8dddd3dabf037101352770d4394427c87011a558a",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "LANGUAGE-HISTORY",
+      "path": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+      "preimage_sha256": "6f4793e1f44e936a418093bfed543b603aeedb8ca1033901a7b4b94cd443f8d7",
+      "postimage_sha256": "1d886c21aa17b938e4cb6680f1c75121f37ebb89a0d52a867f81860548b2eb58",
+      "candidate_sha256": "1d886c21aa17b938e4cb6680f1c75121f37ebb89a0d52a867f81860548b2eb58",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ANCIENT-HISTORY",
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md",
+      "preimage_sha256": "efa515677f6416f6adbe94c010dc908437730559f7f13464ee0b846887a70bb6",
+      "postimage_sha256": "56a108f68c58b0f7212fa9ec8f5aadd629b6601fe1199f33df89482bab3d6e9f",
+      "candidate_sha256": "56a108f68c58b0f7212fa9ec8f5aadd629b6601fe1199f33df89482bab3d6e9f",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MATHEMATICS-HISTORY",
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "preimage_sha256": "d11bd477431b758df1a962f8c7744987e1314dc0f6f70089f991e61c1b64406e",
+      "postimage_sha256": "56acfd97cafdf5a50eaa2cdad5c466787f8e9a362550448542b8ba89bc5294e0",
+      "candidate_sha256": "56acfd97cafdf5a50eaa2cdad5c466787f8e9a362550448542b8ba89bc5294e0",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TECHNOLOGY-HISTORY",
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md",
+      "preimage_sha256": "dc64f8af8e11765b6330d41c270ee399dd6ae6f9e8f68039489c2a0fec82191b",
+      "postimage_sha256": "0e54f753a0e19ab8ba98dc2be5d9a37d2799eb6786e5e77a4d34e351a2820815",
+      "candidate_sha256": "0e54f753a0e19ab8ba98dc2be5d9a37d2799eb6786e5e77a4d34e351a2820815",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ZERO-SUBJECT-HISTORY",
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md",
+      "preimage_sha256": "d7661f9816b1055f2ec718a6fe49c19800f7fe7fc8130dc23bf6659913214cb3",
+      "postimage_sha256": "2c7b94421eb943853564cee0ce0022675e840f778ffadbe07825a099963ba186",
+      "candidate_sha256": "2c7b94421eb943853564cee0ce0022675e840f778ffadbe07825a099963ba186",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MONO-POLY-MAP",
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "preimage_sha256": "4e43e586708bff2dbf006a2f2064ee7cd2cf3eb2da2fd36c519f51a98193668f",
+      "postimage_sha256": "e978d7be4f429b91020f68d86f2fc5ca8db517ff3b220399d38245c290da8b44",
+      "candidate_sha256": "e978d7be4f429b91020f68d86f2fc5ca8db517ff3b220399d38245c290da8b44",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TRUST-MAP",
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "preimage_sha256": "ed11d2f660a7e494a1a08d79a84c09b62d897fcfe5c0a01a6c9855f6a50a4065",
+      "postimage_sha256": "1a820e2184b74317ff61763811e791bc6f83d1ce9c55049bad336c769bf0ed82",
+      "candidate_sha256": "1a820e2184b74317ff61763811e791bc6f83d1ce9c55049bad336c769bf0ed82",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ZERO-ADVENT-MAP",
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "preimage_sha256": "7470316b5f334d7a99948ab65eeed6ca7d78955b74ef33ba47ce9cac20ab38c7",
+      "postimage_sha256": "170738f806e922ad659132426636ee4ef4394b04a0373c35007b13326ed5f593",
+      "candidate_sha256": "170738f806e922ad659132426636ee4ef4394b04a0373c35007b13326ed5f593",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "KRIPKE-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "preimage_sha256": "176ecc26400d8d2cd340136309c19c65838558159d3f13c8bf078aff69cb2203",
+      "postimage_sha256": "9a8ea4a1308e687196609b2d609d9f543d4393030f23e62a4409f0fd6e31786c",
+      "candidate_sha256": "9a8ea4a1308e687196609b2d609d9f543d4393030f23e62a4409f0fd6e31786c",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MONIER-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "preimage_sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee",
+      "postimage_sha256": "e9454a4f2567c29966c418e3283ddd62e69df66e5d39fb0307d395d2120c2490",
+      "candidate_sha256": "e9454a4f2567c29966c418e3283ddd62e69df66e5d39fb0307d395d2120c2490",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "IRENAEUS-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/SOURCE.md",
+      "preimage_sha256": "cf99492bea6c187d1ab6f1ee246ca68f5ad11b78a599c8f030e41200941f2cdd",
+      "postimage_sha256": "b2c26e2a6fea42d88784088e9f75b53afaa403eaa41e83c277bdf848ac613f36",
+      "candidate_sha256": "b2c26e2a6fea42d88784088e9f75b53afaa403eaa41e83c277bdf848ac613f36",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "POETRY-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "preimage_sha256": "b8db02fc2c8d63b08fc591ac92749b9bbb61e94fd5f7a707618d6e79fad48b7e",
+      "postimage_sha256": "63bd1db6261689b518f6c6ae21785ba6c2e43bb98f8dce96c9fef32882fd84a8",
+      "candidate_sha256": "63bd1db6261689b518f6c6ae21785ba6c2e43bb98f8dce96c9fef32882fd84a8",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "DYNAMICS-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "preimage_sha256": "b1d366be3c3bee2ab28af13b4221b6ab88cad6a90ae84192e9ec92d722234b3b",
+      "postimage_sha256": "d37be7005db8c8df09e3aba386d32237c941ec88dd70238a2de138eb3a059765",
+      "candidate_sha256": "d37be7005db8c8df09e3aba386d32237c941ec88dd70238a2de138eb3a059765",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "WATSON-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "preimage_sha256": "57b7f6b5963f6638ecddded429edf786ac76bed6983ff3bea43041961c30ddc8",
+      "postimage_sha256": "a3b638e70be22dc0163697957d976577f0cccdfd3ee026c487994f238d086747",
+      "candidate_sha256": "a3b638e70be22dc0163697957d976577f0cccdfd3ee026c487994f238d086747",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "INDRA",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "preimage_sha256": "1cfa960f75399bbbe8c06cb5269e9bc44993ec83b71de9c4144c674ef5be94fd",
+      "postimage_sha256": "6ba3ab0964e1eb83aeac8133db8e391b0d92b3557f8a564f7a6372e05a318d23",
+      "candidate_sha256": "6ba3ab0964e1eb83aeac8133db8e391b0d92b3557f8a564f7a6372e05a318d23",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "FANON",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "preimage_sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82",
+      "postimage_sha256": "f0e2737045954bd2e77bf57ff539377d1d410bf47dec04565a0e59f2cdba29da",
+      "candidate_sha256": "f0e2737045954bd2e77bf57ff539377d1d410bf47dec04565a0e59f2cdba29da",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "APOLLO-DIONYSUS",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "preimage_sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c",
+      "postimage_sha256": "f1a6ef68941f883d492420f4d61e203bd1a1d36ae1a93d5f93a54c4fbeb81ef2",
+      "candidate_sha256": "f1a6ef68941f883d492420f4d61e203bd1a1d36ae1a93d5f93a54c4fbeb81ef2",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "AVATAR",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "preimage_sha256": "0eddb350ab1f475bd9c898f2f127ab33eb47b375cdb839b1004a37613caac71e",
+      "postimage_sha256": "508bf0df3de2be3b7f8f2a97d41ca75bf86a0d249ffc4462f4e9782289e49686",
+      "candidate_sha256": "508bf0df3de2be3b7f8f2a97d41ca75bf86a0d249ffc4462f4e9782289e49686",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MAYA",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "preimage_sha256": "4f39539ba6d16f3b97b10368d4ba1ed917f828e8dbc44b34a10cce4f7268a7ba",
+      "postimage_sha256": "e5136d5a83e9b248cc90a62eaa6280649abe484576280d556c401bb9a1164da7",
+      "candidate_sha256": "e5136d5a83e9b248cc90a62eaa6280649abe484576280d556c401bb9a1164da7",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "MOTHER",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "preimage_sha256": "c4f8178e1da6419587d843e93873fa048d3e791991b2bf6d59d753de7ccfb7f7",
+      "postimage_sha256": "af8b05a64568262c8b7b4c611d6dad2d8e64f74b82959d975c3a1851ddf65e57",
+      "candidate_sha256": "af8b05a64568262c8b7b4c611d6dad2d8e64f74b82959d975c3a1851ddf65e57",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TAYLOR-IMAGES",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "preimage_sha256": "405f33917088b7c2e698e08d3df1d414a526e80de21cafb38328f8c56bd3af8f",
+      "postimage_sha256": "51517ee9d13bb113da45e4277663587d5a2a77e31e142c2555c67b20629c6701",
+      "candidate_sha256": "51517ee9d13bb113da45e4277663587d5a2a77e31e142c2555c67b20629c6701",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "JIGSAW",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "preimage_sha256": "c5190aaa4de6c71cad0e6350955d044954a9858e198285281c641beab8d153ad",
+      "postimage_sha256": "20d2f8f7af10e213a8b289631043ffa93e3df32b81195faf2adc35808437174d",
+      "candidate_sha256": "20d2f8f7af10e213a8b289631043ffa93e3df32b81195faf2adc35808437174d",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "GOETHE",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "preimage_sha256": "b4be3bd1b591099736120c869ee2a6d85e83ba02ccd8e78dd0bca6647065a347",
+      "postimage_sha256": "6e6822fea94e22cee810eff5a666fb0694e8acd1cf51643fb9ae5fa0c2660251",
+      "candidate_sha256": "6e6822fea94e22cee810eff5a666fb0694e8acd1cf51643fb9ae5fa0c2660251",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ARES-WHOLE",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "preimage_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "postimage_sha256": "54b44cc6a38bb9d684013c6f9e62bbe3e7b33c8271eac602b9b1f64b3f3b4485",
+      "candidate_sha256": "54b44cc6a38bb9d684013c6f9e62bbe3e7b33c8271eac602b9b1f64b3f3b4485",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "ATTICA",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+      "preimage_sha256": "0ce5ecbdc362909d1a09d67c3cd73563769ffc44d5b3e64165af2a929abe8926",
+      "postimage_sha256": "b4551b477f4f8f03beab778601744eb5daa71ddf1eb961cca4ee473f2a24b969",
+      "candidate_sha256": "b4551b477f4f8f03beab778601744eb5daa71ddf1eb961cca4ee473f2a24b969",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "HYPOSTASIS",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "preimage_sha256": "fdc80d9c458449347bb8aa6c15f6415d94a080dcdeaa016c577d80a6359e3557",
+      "postimage_sha256": "3a6a3891322d3bc1899f7b8b143bacbdf66f97dc12f40e7e54fed52a9d4f819b",
+      "candidate_sha256": "3a6a3891322d3bc1899f7b8b143bacbdf66f97dc12f40e7e54fed52a9d4f819b",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "VALENTINIAN",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "preimage_sha256": "fd39f4553cd2e9843013d06c8373bec63525768502c1c75d8a80b8a78c9e4526",
+      "postimage_sha256": "a719b93da7904bdaaf53b9bbdcb5cb951f38e07fdf12a477e9c05f345d64a8d3",
+      "candidate_sha256": "a719b93da7904bdaaf53b9bbdcb5cb951f38e07fdf12a477e9c05f345d64a8d3",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "APOLLO-DAPHNE",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "preimage_sha256": "5a24300768dbf44881d1d2bdbc362ae940f113a921f60e44ff53bca1d68b1389",
+      "postimage_sha256": "b4e3d73f215a97e5e95b841f148de79a5e2cfd9b43434b3b4727a10865fa8dfb",
+      "candidate_sha256": "b4e3d73f215a97e5e95b841f148de79a5e2cfd9b43434b3b4727a10865fa8dfb",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "EROS-PSYCHE",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "preimage_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "postimage_sha256": "bd9f0825e9b4ed1e72fb6aabeeeae09f769fcc704a55106a8e716a5b31010c5a",
+      "candidate_sha256": "bd9f0825e9b4ed1e72fb6aabeeeae09f769fcc704a55106a8e716a5b31010c5a",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "mathematical-artistic-image-register",
+      "path": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "preimage_sha256": "91134ad8765cda3f85810047d585303a20720172b948d164459d763c0241d924",
+      "postimage_sha256": "80d31aee48a9a8da5415f3e422da146355a87f90400a229df1ac98a0ad611ac0",
+      "candidate_sha256": "80d31aee48a9a8da5415f3e422da146355a87f90400a229df1ac98a0ad611ac0",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "diaphaneity",
+      "path": "submission-package/essay/symbolon/episteme/concepts/diaphaneity.md",
+      "preimage_sha256": "4107e66ad75f62e25121062c0520660ca16ff9537770576d0f29c27f92e183e8",
+      "postimage_sha256": "55d1707a846dd7efe26cc4a8712e3ab2ec655b2699d63d9b7cbfda1896771910",
+      "candidate_sha256": "55d1707a846dd7efe26cc4a8712e3ab2ec655b2699d63d9b7cbfda1896771910",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "zero",
+      "path": "submission-package/essay/symbolon/episteme/concepts/zero.md",
+      "preimage_sha256": "6614dea4fd4dd893c7ec28ccfdafc886bc370e65adf21a54b4ed5efc299c04ca",
+      "postimage_sha256": "f02a874701d7eb264a079782fb625e6a56697eb5035f008c38cfb4a1c4366792",
+      "candidate_sha256": "f02a874701d7eb264a079782fb625e6a56697eb5035f008c38cfb4a1c4366792",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "agentworld",
+      "path": "submission-package/essay/symbolon/episteme/concepts/agentworld.md",
+      "preimage_sha256": "7e8775e2e15cb6a890a3599e2f0195d9a6bdef5b89e288126e587140304e5a6e",
+      "postimage_sha256": "fcd135fcaf90e084a9fb57363840c8e4420661019a6df245695d46f0e3d029d0",
+      "candidate_sha256": "fcd135fcaf90e084a9fb57363840c8e4420661019a6df245695d46f0e3d029d0",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "vikalpa-samkalpa",
+      "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "preimage_sha256": "5dfe4c27946e4936ae197f3bd848e7436a62020311ed8bd1699248ed169efb9c",
+      "postimage_sha256": "88eda899b1e02431636c4507b2bcc95edde98fdb681e8759201bb73b615a44cf",
+      "candidate_sha256": "88eda899b1e02431636c4507b2bcc95edde98fdb681e8759201bb73b615a44cf",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "counterfeit-gathering",
+      "path": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+      "preimage_sha256": "5a5f3567e1c1d34bfd6d1b3b9b97afa0c67c8babb17d2d5e7561b101f8110ad4",
+      "postimage_sha256": "4bfbac4d973272d811eaad486c9448919ce007e1b6616a76569b01351187381a",
+      "candidate_sha256": "4bfbac4d973272d811eaad486c9448919ce007e1b6616a76569b01351187381a",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "bimba-pratibimba",
+      "path": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+      "preimage_sha256": "d4a987ba3d3c4355d93824cdb779a3ef2a7043f83cd6b5ae40a9333c636446e1",
+      "postimage_sha256": "778d6d44f7d8a7fe18787816ef299738c9b4b7b74dbbfca42cff5302af824e4b",
+      "candidate_sha256": "778d6d44f7d8a7fe18787816ef299738c9b4b7b74dbbfca42cff5302af824e4b",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "dimensional-reframing-at-zero-and-infinity",
+      "path": "submission-package/essay/symbolon/episteme/concepts/dimensional-reframing-at-zero-and-infinity.md",
+      "preimage_sha256": "c4412972e448f77f43ef5f111c3157842275e67300a094aad5c28573031c921b",
+      "postimage_sha256": "1c237d625a2614b0ea4a25b15300a562fa23b3f4f61339032c8ec1e6ea1ab931",
+      "candidate_sha256": "1c237d625a2614b0ea4a25b15300a562fa23b3f4f61339032c8ec1e6ea1ab931",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "fusion-as-syns-shadow",
+      "path": "submission-package/essay/symbolon/episteme/concepts/fusion-as-syns-shadow.md",
+      "preimage_sha256": "c179a944d20efc884ca265f0fd3dd4e56bccc8c6bd8f871a17883256c521943f",
+      "postimage_sha256": "e285b6d51e6547d7052c81085a2d0528ee1d478092765bfdc17148ffe6f60d76",
+      "candidate_sha256": "e285b6d51e6547d7052c81085a2d0528ee1d478092765bfdc17148ffe6f60d76",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "register-grammar",
+      "path": "submission-package/essay/symbolon/episteme/concepts/register-grammar.md",
+      "preimage_sha256": "a9c1d0117b997e01d9832ee78cabab6e63b63d1d0b4b176607c59b04474c1cd6",
+      "postimage_sha256": "cb28476334500a87f81b9498d1063728a306ef47583dc8a38b0ec93a59d613b8",
+      "candidate_sha256": "cb28476334500a87f81b9498d1063728a306ef47583dc8a38b0ec93a59d613b8",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "world-picture-to-world-atlas",
+      "path": "submission-package/essay/symbolon/episteme/concepts/world-picture-to-world-atlas.md",
+      "preimage_sha256": "de05e443eaa080d8781e7ecf789af0ef9f2e41e370d665d23ed1b4b05435852a",
+      "postimage_sha256": "300da2e8f7a898e18fbb6bef2bc937475cabe4b3e0669d62312551739b9a027f",
+      "candidate_sha256": "300da2e8f7a898e18fbb6bef2bc937475cabe4b3e0669d62312551739b9a027f",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "psychoid-number",
+      "path": "submission-package/essay/symbolon/episteme/concepts/psychoid-number.md",
+      "preimage_sha256": "0a1c995cfb08251e735767a491e7d4bdf70a7b5c71de8ac258ee7c356e68d9b8",
+      "postimage_sha256": "15b4997c0413cc63447837cf954fcd66acfa974c8ed413e8dd7e16e1d006b101",
+      "candidate_sha256": "15b4997c0413cc63447837cf954fcd66acfa974c8ed413e8dd7e16e1d006b101",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+      "path": "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+      "preimage_sha256": "3fe65c872193db2d5cd72e646804a4d3b08a37b0aac05aa81c89edf5b57c2958",
+      "postimage_sha256": "af404ecc51417bf3055bc2551782d5543de6c6b2f0aca37815d7fc8d17618f22",
+      "candidate_sha256": "af404ecc51417bf3055bc2551782d5543de6c6b2f0aca37815d7fc8d17618f22",
+      "source_peer_bindings_exact": true
+    },
+    {
+      "key": "TRUST-SOURCE",
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "preimage_sha256": "0c1213e82486b887d96caf169c318cae4e2bac7cc579509f8726cbe82d95b71b",
+      "postimage_sha256": "1bb7c8d8f45b9fcf6b2835fb900736567329d88ee807f6e8749db9f90e563926",
+      "candidate_sha256": "1bb7c8d8f45b9fcf6b2835fb900736567329d88ee807f6e8749db9f90e563926",
+      "source_peer_bindings_exact": true
+    }
+  ],
+  "exact_native_cas_issues": [],
+  "protected_checked": 574,
+  "protected_mismatches": [],
+  "archive_sha256": "f83326391a2fc882cc36bf21114ec6ee43ce82ab266dc8ef668779f925881180",
+  "archive_entries": 1059,
+  "payload_count": 166,
+  "allowed_count": 167,
+  "payload_missing": [
+    "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-generating/RECOVERY-EVIDENCE.tar.xz"
+  ],
+  "payload_extra": [],
+  "payload_duplicates": 0,
+  "inputs_sha256": "d873f1c630152f28e11137ac987845d7bae999d2f20ce9295c9490209ab694e1",
+  "payload_scope": "UTF-8 native Git tree entries checked exactly. Single opaque compressed archive proof is dispatched separately as binary blob, not a deletion or an accepted missing branch input. Parent must include that binary entry in actual branch tree before exact helper diff-set check.",
+  "diagnostic_return": "Initial diagnostic wrongly required an encoding field absent from native Git tree UTF-8 schema; every false payloadmode finding removed after actual schema/bytes replay, prior diagnostic retained. Actual archive-only payload omission is explicitly separate binary transport.",
+  "transport_hashes": {
+    "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-generating/validate.py": "4d943468c9bf607686fd8d0bdbfdeb3de4436039a8fc8388026f8f9014f9c9ab",
+    "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/remote-generating/INPUTS.json": "d873f1c630152f28e11137ac987845d7bae999d2f20ce9295c9490209ab694e1",
+    ".github/workflows/canonical-generating-validation.yml": "f7fb920bf5ca5d6b120320304cace04ef79b97cf6249d1154219313fcbe829ea"
+  }
+}

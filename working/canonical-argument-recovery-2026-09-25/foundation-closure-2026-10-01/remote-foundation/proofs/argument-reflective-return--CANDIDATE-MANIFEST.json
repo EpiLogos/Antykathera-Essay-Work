@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "key": "A32",
+      "native_path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "preimage_sha256": "a917f8e8956b68c3f303624c3aeee4fc99f196de6fd5d89fcdd36afdf2ad1adf",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/candidates/A32-Reflective-Field-The-Mirror-That-Moves-First.md.txt",
+      "candidate_sha256": "4af144b87aac9ac881e8315462567adfa10767f282b6ba63d247581e20358a52",
+      "status": "Complete whole source/public operation independently accepted at exact hash; frozen non-live for parent inclusion",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/INDEPENDENT-A32-REVIEW.json",
+      "independent_review_sha256": "4123c26031002d50cb2c7fce13401100da07ba03d0ebb0480d43ca5718ef5833"
+    },
+    {
+      "key": "A32p",
+      "native_path": "submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+      "preimage_sha256": "db71c0b6e905b358ba1bbc75b590cab1ec17c1dde129546f11ded9ce5144017f",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/candidates/A32-prime-The-Mirror-Is-a-Film.md.txt",
+      "candidate_sha256": "5c306ea0dea8bcb4286579a939e54ca3afbefd605752b4a4681bea874b815c40",
+      "status": "Complete whole source/public operation independently accepted at exact hash; frozen non-live for parent inclusion",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A32-PRIME-REVIEW.json",
+      "independent_review_sha256": "a99f10de5aef0a6ade93b181dbe44beac582e3c16edb4b8cae19df70728c6cd9"
+    }
+  ],
+  "source_pre_edit": "PRE-EDIT-RECOVERY.json",
+  "live_writes": false,
+  "effect_depth": 4,
+  "acceptance_limits": "All local audits are unchanged lightweight checks; they do not accept source fidelity or establish implementation. Protected/raw/NOTES/movement/manuscript untouched."
+}

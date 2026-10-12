@@ -16,7 +16,21 @@ from source_resolver import resolve_source_house
 
 
 ROOM_ROOT = Path("submission-package/essay/section-rooms")
-ALLOWED = {"ROOM.md", "P1-CANONICAL-ALIGNMENT.md", "READING.md", "SCRATCH.md", "VISUALS.md"}
+
+
+def room_page(slug: str) -> str:
+    """Room pages carry the type as prefix, qualified by the room slug."""
+    return f"ROOM-{slug}.md"
+
+
+def reading_page(slug: str) -> str:
+    return f"READING-{slug}.md"
+
+
+def allowed_files(slug: str) -> set[str]:
+    return {room_page(slug), "P1-CANONICAL-ALIGNMENT.md", reading_page(slug), "SCRATCH.md", "VISUALS.md"}
+
+
 LEGACY = {
     ".section-room.json", "00-SECTION-CONTEXT.md", "04-READING-PATH.md",
     "05-ROOM-DOSSIER.md", "10-FRANK-DRAFT.md", "20-SCHOLARLY-EDITION.md",
@@ -71,9 +85,10 @@ def fragment_resolves(path: Path, fragment: str) -> bool:
 def audit_threshold_reading(project: Path, room: Path) -> list[str]:
     """Verify that §0/1 is a real learning route, not a compact source inventory."""
     errors: list[str] = []
-    path = room / "READING.md"
+    path = room / reading_page(room.name)
+    label = path.name
     if not path.is_file():
-        return ["§0/1 is missing its protected READING.md learning surface"]
+        return [f"§0/1 is missing its protected {label} learning surface"]
     text = path.read_text(encoding="utf-8")
     for field in (
         "page_type: room-reading-route",
@@ -81,7 +96,7 @@ def audit_threshold_reading(project: Path, room: Path) -> list[str]:
         "ownership: protected-learning-surface",
     ):
         if field not in text:
-            errors.append(f"READING.md lacks frontmatter field: {field}")
+            errors.append(f"{label} lacks frontmatter field: {field}")
     for heading in (
         "## Fifteen-minute entry",
         "## Full reading sequence",
@@ -95,11 +110,11 @@ def audit_threshold_reading(project: Path, room: Path) -> list[str]:
         "## What remains unresolved",
     ):
         if heading not in text:
-            errors.append(f"READING.md lacks substantive route heading: {heading}")
+            errors.append(f"{label} lacks substantive route heading: {heading}")
     for field in ("**Exercise:**", "**Carry:**"):
         count = text.count(field)
         if count != 6:
-            errors.append(f"READING.md has {count} {field} fields; expected six")
+            errors.append(f"{label} has {count} {field} fields; expected six")
     for detail in (
         "two-column instrument panel",
         "I see x",
@@ -120,12 +135,12 @@ def audit_threshold_reading(project: Path, room: Path) -> list[str]:
         "Book I, ch. 1 card, margin 4, printed p. 6",
     ):
         if detail not in text:
-            errors.append(f"READING.md lacks learning or pair-writing detail: {detail}")
+            errors.append(f"{label} lacks learning or pair-writing detail: {detail}")
     for quote_id in THRESHOLD_QUOTE_IDS:
         source_id = quote_id.rsplit("-q", 1)[0]
         source_house = resolve_source_house(project, source_id)
         if f"#{quote_id}" not in text:
-            errors.append(f"READING.md does not link exact source passage: {quote_id}")
+            errors.append(f"{label} does not link exact source passage: {quote_id}")
         elif not source_house or not source_house.is_file():
             errors.append(f"source house is missing for passage: {quote_id}")
         elif not fragment_resolves(source_house, quote_id):
@@ -134,17 +149,17 @@ def audit_threshold_reading(project: Path, room: Path) -> list[str]:
         path_part, separator, fragment = destination.partition("#")
         target = (room / path_part).resolve()
         if not target.is_file():
-            errors.append(f"READING.md link target is missing: {destination}")
+            errors.append(f"{label} link target is missing: {destination}")
         elif separator and not fragment_resolves(target, fragment):
-            errors.append(f"READING.md link fragment does not resolve: {destination}")
+            errors.append(f"{label} link fragment does not resolve: {destination}")
     words = len(text.split())
     if words < 1600:
-        errors.append(f"READING.md has {words} words; substantive §0/1 route expected at least 1600")
+        errors.append(f"{label} has {words} words; substantive §0/1 route expected at least 1600")
     if re.search(r"(?m)^>", text):
-        errors.append("READING.md duplicates source quotation or callout text")
+        errors.append(f"{label} duplicates source quotation or callout text")
     for legacy_name in ("04-READING-PATH", "05-ROOM-DOSSIER", "10-FRANK-DRAFT"):
         if legacy_name in text:
-            errors.append(f"READING.md points back into the legacy room system: {legacy_name}")
+            errors.append(f"{label} points back into the legacy room system: {legacy_name}")
     return errors
 
 
@@ -154,32 +169,33 @@ def audit_room(project: Path, slug: str) -> list[str]:
     if not room.is_dir():
         return [f"room directory is missing: {room}"]
     files = {path.name for path in room.iterdir() if path.is_file()}
-    unexpected = files - ALLOWED
+    unexpected = files - allowed_files(slug)
     if unexpected:
         errors.append("unexpected active files: " + ", ".join(sorted(unexpected)))
     if files & LEGACY:
         errors.append("legacy room system remains active: " + ", ".join(sorted(files & LEGACY)))
-    for required in ("ROOM.md", "P1-CANONICAL-ALIGNMENT.md"):
+    for required in (room_page(slug), "P1-CANONICAL-ALIGNMENT.md"):
         if required not in files:
             errors.append(f"required file is missing: {required}")
     if errors:
         return errors
 
-    text = (room / "ROOM.md").read_text(encoding="utf-8")
+    page = room / room_page(slug)
+    text = page.read_text(encoding="utf-8")
     words = len(re.findall(r"\b[^\s]+\b", re.sub(r"---.*?---", "", text, count=1, flags=re.DOTALL)))
     if not 500 <= words <= 900:
-        errors.append(f"ROOM.md has {words} words; expected 500–900")
+        errors.append(f"{page.name} has {words} words; expected 500–900")
     for heading in ("## Arrival", "## Section wager", "## Six waypoints", "## Release"):
         if heading not in text:
-            errors.append(f"ROOM.md lacks {heading}")
+            errors.append(f"{page.name} lacks {heading}")
     for field in ("**Incoming pressure:**", "**Earned position (", "**Carry-forward:**", "**Open:**"):
         count = text.count(field)
         if count != 6:
-            errors.append(f"ROOM.md has {count} {field} fields; expected six")
+            errors.append(f"{page.name} has {count} {field} fields; expected six")
     if re.search(r"(?m)^>", text):
-        errors.append("ROOM.md embeds source quotation or callout text")
+        errors.append(f"{page.name} embeds source quotation or callout text")
     if "THE-RETURN-OF-ZERO.md#section-" not in text:
-        errors.append("ROOM.md does not link to its master-manuscript anchor")
+        errors.append(f"{page.name} does not link to its master-manuscript anchor")
 
     if slug == THRESHOLD_ROOM:
         errors.extend(audit_threshold_reading(project, room))
@@ -200,7 +216,12 @@ def main() -> int:
     args = parse_args()
     project = args.project_root.resolve()
     roots = project / ROOM_ROOT
-    rooms = args.rooms or sorted(path.name for path in roots.iterdir() if path.is_dir() and not path.name.startswith("."))
+    # `arguments/` houses the canonical A/C suite (2026-09-25 migration), not a room.
+    rooms = args.rooms or sorted(
+        path.name
+        for path in roots.iterdir()
+        if path.is_dir() and not path.name.startswith(".") and path.name != "arguments"
+    )
     failures = 0
     for slug in rooms:
         errors = audit_room(project, slug)

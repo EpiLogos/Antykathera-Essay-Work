@@ -1,0 +1,22 @@
+
+> oi-site@0.1.0 test:essay
+> node --experimental-strip-types --test essay-source.test.mjs essay-browser.test.mjs essay-host.test.mjs quartz-staged-input.test.mjs
+
+✔ publication keeps the six folders and drops quilt, NOTES, reference-notes, and JSON (132.484833ms)
+✔ the shell points at Relational Logos and does not paste it into site prose (5.561209ms)
+✔ site base is the path in front of an essay route (2.801ms)
+✔ built essay.html boots from the site base and drops root-absolute asset tags (1.171959ms)
+✔ the publish step requires the Quartz publication, prunes the shell catalog, and publishes the Quartz not-found page (3.947292ms)
+✔ a missing Quartz publication, a shell stub, or a missing stamp fails the publish step (3.426875ms)
+✔ pages serves deep essay links from 404.html; vercel rewrites them and an existing file wins (66.794334ms)
+✔ a real cached Git source refreshes main and stages figures while withholding notes (821.092958ms)
+✔ frontmatter keeps the last native source identity without touching prose (1.791875ms)
+✔ selected staged Markdown survives Git storage exclusions while private input stays excluded (51.923792ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 975.294792

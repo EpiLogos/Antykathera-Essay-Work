@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="920" viewBox="0 0 1000 920" role="img" aria-labelledby="fig-title fig-desc">
+  <title id="fig-title">The canonical A/C suite and its traversal by the rooms</title>
+  <desc id="fig-desc">A concentric field diagram. At the centre, the A/C root, the dual-form root of the conjugate field. Around it a band of 36 Arguments A01 to A36 on the left half and 36 conjugate faces A01 prime to A36 prime on the right half; around that a ring of 64 Concepts C01 to C64; on the outside, eight segments, one per room, each naming its six movements, so the rooms hold 48 movements in all. Eight inward arrows mark that each movement reaches the suite only through its room's P1-CANONICAL-ALIGNMENT route. A dashed annex records the product family S and S0 to S5, seven records admitted separately and not counted in the 137.</desc>
+
+  <defs>
+    <marker id="arrow4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#5b5347"/>
+    </marker>
+    <path id="cpathC" d="M282,470 A218,218 0 0 1 718,470"/>
+    <path id="cpathAL" d="M500,638 A140,140 0 0 1 500,302"/>
+    <path id="cpathAR" d="M500,302 A140,140 0 0 1 500,638"/>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="920" fill="#fdfcf8"/>
+
+  <!-- heading -->
+  <text x="500" y="42" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#2c2620">The canonical A/C suite and its traversal by the rooms</text>
+  <text x="500" y="66" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#6b6156">One home under the rooms: section-rooms/arguments/ · the prime creates a face, not a second node (A/C root)</text>
+  <text x="500" y="90" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#4a3a2e">36 Arguments + 36 conjugate faces + 64 Concepts + 1 A/C root = 137 records · 8 rooms × 6 movements = 48 movements</text>
+
+  <!-- ring C: concepts (annulus 192..244) -->
+  <circle cx="500" cy="470" r="218" fill="none" stroke="#ded4c2" stroke-width="52"/>
+  <circle cx="500" cy="470" r="244" fill="none" stroke="#a89a83" stroke-width="1.2"/>
+  <circle cx="500" cy="470" r="192" fill="none" stroke="#a89a83" stroke-width="1.2"/>
+  <text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#6b5f4f" letter-spacing="3">
+    <textPath href="#cpathC" startOffset="50%" text-anchor="middle">64 CONCEPTS · C01–C64</textPath>
+  </text>
+
+  <!-- ring A: arguments (left) and conjugate faces (right), band 112..168 -->
+  <path d="M500,638 A168,168 0 0 1 500,302 L500,358 A112,112 0 0 0 500,582 Z" fill="#e8e0d0" stroke="#a89a83" stroke-width="1"/>
+  <path d="M500,302 A168,168 0 0 1 500,638 L500,582 A112,112 0 0 0 500,358 Z" fill="#efe6db" stroke="#a89a83" stroke-width="1"/>
+  <text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#6b5f4f" letter-spacing="2.5">
+    <textPath href="#cpathAL" startOffset="50%" text-anchor="middle">36 ARGUMENTS · A01–A36</textPath>
+  </text>
+  <text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#6b5f4f" letter-spacing="2">
+    <textPath href="#cpathAR" startOffset="50%" text-anchor="middle">36 CONJUGATE FACES · A01′–A36′</textPath>
+  </text>
+
+  <!-- centre: A/C root -->
+  <circle cx="500" cy="470" r="92" fill="#f7f3ea" stroke="#6f6252" stroke-width="2.5"/>
+  <text x="500" y="440" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2c2620">A/C</text>
+  <text x="500" y="463" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">the dual-form root</text>
+  <text x="500" y="479" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" fill="#55493c">A face — the ruling</text>
+  <text x="500" y="493" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" fill="#55493c">C face — the primitive field</text>
+  <text x="500" y="511" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" fill="#6b6156">the prime creates a face,</text>
+  <text x="500" y="525" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" fill="#6b6156">not a second node</text>
+
+  <!-- rooms: 8 segments 272..330 -->
+  <g stroke="#a89a83" stroke-width="1">
+    <path d="M500.0,140.0 A330,330 0 0 1 733.3,236.7 L692.3,277.7 A272,272 0 0 0 500.0,198.0 Z" fill="#e8e0d0"/>
+    <path d="M733.3,236.7 A330,330 0 0 1 830.0,470.0 L772.0,470.0 A272,272 0 0 0 692.3,277.7 Z" fill="#efe6db"/>
+    <path d="M830.0,470.0 A330,330 0 0 1 733.3,703.3 L692.3,662.3 A272,272 0 0 0 772.0,470.0 Z" fill="#e8e0d0"/>
+    <path d="M733.3,703.3 A330,330 0 0 1 500.0,800.0 L500.0,742.0 A272,272 0 0 0 692.3,662.3 Z" fill="#efe6db"/>
+    <path d="M500.0,800.0 A330,330 0 0 1 266.7,703.3 L307.7,662.3 A272,272 0 0 0 500.0,742.0 Z" fill="#e8e0d0"/>
+    <path d="M266.7,703.3 A330,330 0 0 1 170.0,470.0 L228.0,470.0 A272,272 0 0 0 307.7,662.3 Z" fill="#efe6db"/>
+    <path d="M170.0,470.0 A330,330 0 0 1 266.7,236.7 L307.7,277.7 A272,272 0 0 0 228.0,470.0 Z" fill="#e8e0d0"/>
+    <path d="M266.7,236.7 A330,330 0 0 1 500.0,140.0 L500.0,198.0 A272,272 0 0 0 307.7,277.7 Z" fill="#efe6db"/>
+  </g>
+  <circle cx="500" cy="470" r="330" fill="none" stroke="#8a7f70" stroke-width="1.6"/>
+
+  <!-- inward arrows: rooms to suite via P1 alignment -->
+  <g stroke="#5b5347" stroke-width="1.6">
+    <line x1="601.8" y1="224.3" x2="594.1" y2="242.7" marker-end="url(#arrow4)"/>
+    <line x1="745.8" y1="368.2" x2="727.3" y2="375.9" marker-end="url(#arrow4)"/>
+    <line x1="745.8" y1="571.8" x2="727.3" y2="564.1" marker-end="url(#arrow4)"/>
+    <line x1="601.8" y1="715.7" x2="594.1" y2="697.3" marker-end="url(#arrow4)"/>
+    <line x1="398.2" y1="715.7" x2="405.9" y2="697.3" marker-end="url(#arrow4)"/>
+    <line x1="254.2" y1="571.8" x2="272.7" y2="564.1" marker-end="url(#arrow4)"/>
+    <line x1="254.2" y1="368.2" x2="272.7" y2="375.9" marker-end="url(#arrow4)"/>
+    <line x1="398.2" y1="224.3" x2="405.9" y2="242.7" marker-end="url(#arrow4)"/>
+  </g>
+
+  <!-- room labels -->
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4a3a2e">
+    <text x="640" y="146">§0/1 The Integral Threshold</text>
+    <text x="812" y="340">§0 Differentiating Mind</text>
+    <text x="812" y="606">§1 The Return of Zero</text>
+    <text x="638" y="796">§2 Two Logics of Two</text>
+    <text x="362" y="796" text-anchor="end">§3 Mathematical Substrate</text>
+    <text x="174" y="606" text-anchor="end">§4 Psychoid Flowering</text>
+    <text x="174" y="340" text-anchor="end">§5 Objective Internality</text>
+    <text x="362" y="146" text-anchor="end">§5→0 Epi-Logos · 4:2 Technē</text>
+  </g>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#6b6156">
+    <text x="640" y="162">M01–06</text>
+    <text x="812" y="356">M07–12</text>
+    <text x="812" y="622">M13–18</text>
+    <text x="638" y="812">M19–24</text>
+    <text x="362" y="812" text-anchor="end">M25–30</text>
+    <text x="174" y="622" text-anchor="end">M31–36</text>
+    <text x="174" y="356" text-anchor="end">M37–42</text>
+    <text x="362" y="162" text-anchor="end">M43–48</text>
+  </g>
+
+  <!-- route annotation -->
+  <text x="500" y="113" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#55493c">Inward arrows: each movement reaches the suite only through its room's <tspan font-family="Courier New, monospace" font-size="11">P1-CANONICAL-ALIGNMENT.md</tspan> route.</text>
+
+  <!-- annex: product family -->
+  <rect x="640" y="816" width="330" height="88" rx="8" fill="#f7f3ea" stroke="#a89a83" stroke-width="1.2" stroke-dasharray="6 4"/>
+  <text x="656" y="840" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#55493c">Annex — not counted in the 137:</text>
+  <text x="656" y="858" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">product family S + S0–S5, 7 records, develops the</text>
+  <text x="656" y="874" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">C face's product rows — 144 shared records once</text>
+  <text x="656" y="890" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" fill="#55493c">materialised; admitted separately (A/C root, central plan).</text>
+
+  <!-- status band -->
+  <rect x="30" y="820" width="590" height="62" rx="6" fill="#ece7db" stroke="#a89a83" stroke-width="1"/>
+  <text x="46" y="838" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c"><tspan font-weight="700" fill="#2c2620">Status — compound.</tspan> Census: Derived (directory count verified 2026-09-25:</text>
+  <text x="46" y="856" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">36 A files, 36 conjugate files, 64 canonical C records, 1 root, 48 movements, 8 alignments).</text>
+  <text x="46" y="874" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#55493c">Suite standing: Argued — A/C root, T25 refinements returned for T26 ratification.</text>
+
+  <text x="500" y="914" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a7f70">Original own-work SVG · record: ac-suite-field-shape.md · 2026-09-25</text>
+</svg>

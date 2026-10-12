@@ -1,0 +1,254 @@
+{
+  "reviewer": "concept_recovery",
+  "status": "INDEPENDENT COMPLETE BOUNDED SOURCE/PUBLIC OPERATION ACCEPTED",
+  "key": "E4-HISTORICAL",
+  "candidate_sha256": "0bea1a8e8c2bd15aa876c0f00ae650a9088ccf17e9f8fc91e4c54c6aee6d9709",
+  "native_preimage_sha256": "925c1f07bffef7084e39b0c78f5cce732caef389426b79a795ce782517997279",
+  "whole_reads": {
+    "old_lines": 165,
+    "new_lines": 165,
+    "scope": "Whole original and candidate actually read1\u201390/91\u2013end, aggregate-clipped original145\u2013165 and candidate91\u2013112 explicitly reread untruncated; remaining candidate113\u2013165 read in complete returned output.",
+    "protected_history": "Whole current E4 HISTORY actually read untruncated; readonly",
+    "selected_source_units": "All31 complete current source cards actually read in four contiguous source-unit outputs1\u2013110/111\u2013220/221\u2013330/331\u2013441. Every returned copy validated as exact substring of actual unchanged native SOURCE and each inventory file hash matches."
+  },
+  "source_cards": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "anchor": "lsj-1940-greek-english-lexicon-q010",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "be1af1a129d524b4c03ec9283db2143ea635f6c4aac244daa416c77cca901346"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q006",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+      "anchor": "bank-of-england-2019-payments-through-time-q001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "d0f0aa91ce28ed03801d72a785fe8bbbaf2f24461c7f96dea03d485af46f2889"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q007",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q008",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q009",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q010",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q011",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "anchor": "merriam-webster-online-dictionary-q012",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "18b0c19d7a36882eb51ddf9d890d890244e8b0c68241a488cacc48d24efadfae"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "anchor": "monier-williams-1899-sanskrit-english-dictionary-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "anchor": "monier-williams-1899-sanskrit-english-dictionary-p002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "anchor": "isvarakrishna-ruzsa-1998-samkhyakarika-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "anchor": "isvarakrishna-ruzsa-1998-samkhyakarika-p002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "anchor": "isvarakrishna-ruzsa-1998-samkhyakarika-p003",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "anchor": "bdb-hebrew-english-lexicon-online-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "anchor": "bdb-hebrew-english-lexicon-online-p002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "anchor": "bdb-hebrew-english-lexicon-online-p003",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "anchor": "hebrew-bible-mechon-mamre-jps1917-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "anchor": "hebrew-bible-mechon-mamre-jps1917-p002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "anchor": "hebrew-bible-mechon-mamre-jps1917-p003",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "anchor": "hebrew-bible-mechon-mamre-jps1917-p004",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+      "anchor": "moe-2021-revised-mandarin-dictionary-q001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "dd1971865e78a59ce9ea142fad71eaef0d05f045c340c5d84865f2d0c40f31e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "anchor": "analects-ctext-legge-q001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "485888038f1a0d83ecd5962e863386d6c00efe759dd6566076195fb2e6fdc69b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "anchor": "analects-ctext-legge-q002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "485888038f1a0d83ecd5962e863386d6c00efe759dd6566076195fb2e6fdc69b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+      "anchor": "lane-arabic-english-lexicon-online-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+      "anchor": "lane-arabic-english-lexicon-online-p002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+      "anchor": "quran-arberry-corpus-selected-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+      "anchor": "quran-arberry-corpus-selected-p002",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+      "anchor": "bukhari-sahih-sunnah-online-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "be0d20d91a9449ec472168d166f4ac8be87ad97f2488176b7f361f4a660fa200"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+      "anchor": "tla-hieroglyphic-hieratic-lexicon-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "182191175f2420784d78b3408f00dc2ba26b74743272826cf06842c534d3a90e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+      "anchor": "reri-ptolemaic-funerary-papyrus-p001",
+      "complete_current_card_read": true,
+      "compiled_copy_exact_native": true,
+      "native_sha256": "e68f3770d7e94ff369622c169ec936d4a1a5c838184daa2f12623b13f0b00ff1"
+    }
+  ],
+  "earlier_actual_basis": "Complete current E4root149-line and entire core640/minute102/Dynamics124 read in earlier source operations; source-specific full A15/A23/A32/A33/C10/C21/C27 and process/Bohm comparisons retained within their exact prior receipts, not fresh external book/quote acceptance.",
+  "checks": {
+    "native_preimage_exact": true,
+    "frontmatter_exact": true,
+    "original_headings_exact": true,
+    "original_curly_strings_missing": [],
+    "old_source_targets_missing": [],
+    "table_retention_exception": "The lexical data/cells remain; register column heading and 1; evidence-register markers removed as declared. No full table byte-exact claim."
+  },
+  "accepted_operation": [
+    "Greek counterpart/guarantee/civic uses and exact1694 split hazel tally preserve recognition versus justice/future discharge, with separate dictionary-mediated ancient contexts and unproved institutional transmission.",
+    "Account report/reckoning and probable trust transmission plus all5 h\u0101l/hol lexical rows keep attested ranges separate from poetic homophony and native correctable use; protected criterion, appropriate result/source/model correction and fitting retention are actual returned operations.",
+    "Sanskrit1+7+16+1 classifications, epistemic means and64\u201368 discriminative release retain source-inactive puru\u1e63a, distinct plural puru\u1e63as, correct witness/edition and native recursive encounter comparison.",
+    "Hebrew SPR/\u02beMN/\u1e24\u0160B/MNH/QR\u02be/NGD offices preserve stars/promise, woman\u2019s independent confirming answer and restoration order, failedrepair\u2192changedarrangement\u2192faithfulworkers and Josiah/Huldah sequence; narrated order is not newly proved execution.",
+    "Chinese13.3 complete normative speech/action/ritual/punishment sequence and13.15 good/badcounsel retain historical specificity and Taylor\u2019s source-answerable revision/retention receiving consequence without invented right of dissent.",
+    "Arabic separate\u1e25is\u0101b/a\u1e25\u1e63\u0101, Arberry17:12\u201315 divinebook,7:180 invocation andBukh\u0101r\u012b7392 memorisation/attributedpromise preserve distinct religious object, source times, count/list/protocol and empirical limits; Trust now performs Taylor\u2019s additional undertaking/fulfilment/answerableconditions comparison.",
+    "Egyptianrn lemma and particularReri spell25/column3/305\u201330BCE preserve intended remembrance, neighbouring speech/heart provisions, Ani/Reri translation distinction and historical-person asymmetry; present account receives correction without manufacturing afterlife outcome.",
+    "Final Bohm/source practices and duration/concrescence/biological/formal/symbolic operations preserve specific changed transformation versus warranted retention, with no forced universal changed criterion or historical chain."
+  ],
+  "findings": [],
+  "qualification": "No whole external dictionary/source/book/print/manuscript collation, new direct quotation readiness, theological efficacy, universal institutional or clinical/implementation/runtime acceptance. All31 current SOURCE cards read; no merely graph-named acceptance. Parent E4root remains unchanged and its separate known exact criterion-only fault is not accepted by this companion review."
+}

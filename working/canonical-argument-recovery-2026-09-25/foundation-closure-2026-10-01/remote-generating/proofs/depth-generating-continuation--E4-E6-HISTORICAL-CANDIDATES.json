@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "key": "E4-HISTORICAL",
+      "native": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-before.md.txt",
+      "preimage_sha256": "925c1f07bffef7084e39b0c78f5cce732caef389426b79a795ce782517997279",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-candidate.md.txt",
+      "candidate_sha256": "0bea1a8e8c2bd15aa876c0f00ae650a9088ccf17e9f8fc91e4c54c6aee6d9709",
+      "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-effects-before.json",
+      "pre_edit": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-PRE-EDIT.json",
+      "status": "Independent bounded complete historical source/public operation accepted; frozen non-live parent inclusion pending",
+      "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-LIGHTWEIGHT-CHECKS.json",
+      "qualifications": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-QUALIFICATION-REVIEW.json",
+      "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E4-HISTORICAL-SOURCE-READINGS.json",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-E4-HISTORICAL-REVIEW.json",
+      "independent_review_sha256": "61bf7cbf93acf73e1b7e4bfa62818a42b90219bf1839148f142f15ac73aa1901"
+    },
+    {
+      "key": "E6-HISTORICAL",
+      "native": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-before.md.txt",
+      "preimage_sha256": "a45117451f99233b2540a596ced1d6b6ae0b8200e681fae278f2d5f543a1f8fa",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-candidate.md.txt",
+      "candidate_sha256": "9c71396e0920f920d6e0984fb7d2735acc36fd2cfc79e43dd9fc135a2b672d5b",
+      "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-effects-before.json",
+      "pre_edit": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-PRE-EDIT.json",
+      "status": "Independent bounded complete historical source/public operation accepted; frozen non-live parent inclusion pending",
+      "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-LIGHTWEIGHT-CHECKS.json",
+      "qualifications": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-QUALIFICATION-REVIEW.json",
+      "source_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/E6-HISTORICAL-SOURCE-READINGS.json",
+      "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/INDEPENDENT-E6-HISTORICAL-REVIEW.json",
+      "independent_review_sha256": "6de96747eca17d378717bbe802201466b22a6d7f0799511d656bb114628fb3d4"
+    }
+  ],
+  "parent_roots": "Unchanged; no root public closure inferred",
+  "protected": "HISTORY/raw/NOTES/poetry/manuscript/movement bodies unchanged",
+  "historical_scope": "All particular tellings and source-specific limits retained; no new edition/sourcequote/empirical promotion"
+}

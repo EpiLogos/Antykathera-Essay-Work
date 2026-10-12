@@ -1,0 +1,162 @@
+{
+  "records": [
+    {
+      "native": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+      "findings": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 18,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "No delegated agent begins from nowhere. A position is authored before it is occupied: an intention has acquired a task, a vocabulary, permissions and criteria under which someone else can act. The author does not thereby determine every consequence. Authored ground gives the delegate a place from which to judge; positional delegation makes that judgment effective within a bounded scope.",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "No delegated agent begins from nowhere. A position is authored before it is occupied: an intention has acquired a task, a vocabulary, permissions and criteria under which someone else can act. The author does not thereby determine every consequence. Authored ground gives the delegate a place from which to judge; positional delegation makes that judgment effective within a bounded scope.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Intention must become a finite formulated task before it can be delegated; consequence exceeds that first formulation.",
+          "stronger_inference_if_removed": "Removing the consequence distinction would make original written wording exhaust the living purpose or deny real delegate judgment.",
+          "positive_operation_retained": "Authored ground gives bounded real judgment with answerable relation to purpose."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 34,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "[A source, world-object, lens, gauge, reference and permission](../../../../../submission-package/essay/section-rooms/arguments/02-objective-internality.md) do different work in forming a judgment. An answer alone cannot show which supplied its evidence, selected its interpretation or authorised its use. Making those relations available opens an [inspectable judgment field](../concepts/C40-Model-Internality-Judgment-Field.md). [Arrival into inherited conditions](../concepts/C44-Prompt-Thrownness",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "[A source, world-object, lens, gauge, reference and permission](../../../../../submission-package/essay/section-rooms/arguments/02-objective-internality.md) do different work in forming a judgment. An answer alone cannot show which supplied its evidence, selected its interpretation or authorised its use. Making those relations available opens an [inspectable judgment field](../concepts/C40-Model-Internality-Judgment-Field.md). [Arrival into inherited conditions](../concepts/C44-Prompt-Thrownness.md) then has a practical consequence: a returned fault can be located at the condition which actually formed it, while a self-description of the arrival remains something to investigate.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "A produced answer differs from the actual source, interpretation and permission which formed it.",
+          "stronger_inference_if_removed": "An answer or later self-description could otherwise authenticate every claimed causal condition without inquiry.",
+          "positive_operation_retained": "Actual source/world-object/lens/gauge/reference/permission become inspectable where they materially condition this judgment."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 38,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Consider a commissioned investigator comparing an attributed sentence with its designated source. The interpreting agent is the functional knower of that local judgment; the retrieved passage, retained context, comparison rule and available tools mediate it; the attribution and alternatives are known. In the containing person's inquiry, the complete apparatus is a means. Its selection can itself become known in another comparison, while the person's first-person condition of appearing is not ano",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "Consider a commissioned investigator comparing an attributed sentence with its designated source. The interpreting agent is the functional knower of that local judgment; the retrieved passage, retained context, comparison rule and available tools mediate it; the attribution and alternatives are known. In the containing person's inquiry, the complete apparatus is a means. Its selection can itself become known in another comparison, while the person's first-person condition of appearing is not another item in the investigator's inventory. The local office gives the delegate real judgment and gives further inquiry a definite act to examine.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Positive locally relative judging centre/means/known changes office in containing person and further inspection; first-person condition is unobjectifiable.",
+          "stronger_inference_if_removed": "Describing the local agent as knower could otherwise make the inspected component inventory the condition of appearing, or erase local functional knower office.",
+          "positive_operation_retained": "Constructed investigator compares source attribution; its real judgment becomes an object of further inquiry while apparatus serves containing Life."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 42,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The practical return concerns the terms of commission. A delegate can meet contradictory evidence, unforeseen cost or a better possibility. A finished answer leaves these discoveries ineffective when they cannot reach the interpretation, criterion or authorised route implicated by the encounter. The delegation becomes answerable where the encountered difference can return to the position which framed it.",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "The practical return concerns the terms of commission. A delegate can meet contradictory evidence, unforeseen cost or a better possibility. A finished answer leaves these discoveries ineffective when they cannot reach the interpretation, criterion or authorised route implicated by the encounter. The delegation becomes answerable where the encountered difference can return to the position which framed it.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Returned evidence has to reach implicated terms, not merely be received as an output.",
+          "stronger_inference_if_removed": "A finished report alone could otherwise establish authority capable of receiving a commissioning fault.",
+          "positive_operation_retained": "A discrepancy returns to interpretation/rule/permission/source or commission at warranted depth, including fitting condition retention."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 46,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "[Delegated labour](A29-Power-Delegated-Labour-Return.md) carries cost and responsibility through this encounter: the person performing the task can meet burdens the beneficiary does not see. [Fidelity to intention](A31-Deferential-Intelligence.md) can consequently require objection, alternative or refusal when literal compliance would betray the purpose. The contrary [protected account](../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) receives the result while insulating the comm",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "[Delegated labour](A29-Power-Delegated-Labour-Return.md) carries cost and responsibility through this encounter: the person performing the task can meet burdens the beneficiary does not see. [Fidelity to intention](A31-Deferential-Intelligence.md) can consequently require objection, alternative or refusal when literal compliance would betray the purpose. The contrary [protected account](../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) receives the result while insulating the commissioning conditions from the evidence or cost which calls them into question. A valid stable criterion remains available for examination; immunity to all such return is the further failure.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Beneficiary, performer and cost bearer can differ; protected source-side immunity differs from valid stable standard.",
+          "stronger_inference_if_removed": "Useful output or total disclosure could otherwise settle the unreceived cost or certify criterion immunity as legitimacy.",
+          "positive_operation_retained": "Fidelity permits objection/refusal and competent authority can receive the particular cost or source fault."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 54,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "In Bratton's [institutional role and occupant relation](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q026), the scaffold sustains an office across differently qualified occupants. His adjacent cultural-plurality account makes inherited norms consequential to that participation. Changing an occupant does not eliminate the institution; changing a model does not by itself explain the permissions and criteria through which it ac",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "In Bratton's [institutional role and occupant relation](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q026), the scaffold sustains an office across differently qualified occupants. His adjacent cultural-plurality account makes inherited norms consequential to that participation. Changing an occupant does not eliminate the institution; changing a model does not by itself explain the permissions and criteria through which it acts. A returned dispute must reach the actual arrangement which gave the role its authority.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Institutional scaffold and current occupant have distinct conditions; replacing a model does not itself alter its authority.",
+          "stronger_inference_if_removed": "Changing personnel or model could otherwise erase institutional norms and governing permissions without evidence.",
+          "positive_operation_retained": "Actual inherited role/scaffold/cultural norms remain consequential, with dispute routed to their arrangement."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 58,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "An institutional classification can authorise an allocation whose consequences return as evidence for that classification. In [the computational language-and-law case](../histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md#branch-xii-computation), Perdomo and colleagues' consulted abstract names prediction-induced change; it does not establish an executed institutional correction. An affected participant needs a route to the source, criterion or permission governing th",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "An institutional classification can authorise an allocation whose consequences return as evidence for that classification. In [the computational language-and-law case](../histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md#branch-xii-computation), Perdomo and colleagues' consulted abstract names prediction-induced change; it does not establish an executed institutional correction. An affected participant needs a route to the source, criterion or permission governing the next act, including a real local Bimba which remains pratibimba in its wider relation.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Perdomo selected abstract identifies prediction-induced outcome change, not actual repaired institutional allocation.",
+          "stronger_inference_if_removed": "A research abstract could otherwise prove a performed classification-correction trial or all social feedback.",
+          "positive_operation_retained": "Classification→allocation→changed world→evidence and affected-participant correction route are developed under declared source scope."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-Authored-Ground-Positional-Delegation.md.txt",
+          "line": 70,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "The investigator and its return routes are constructed operations, not reports of a tested runtime. Concrete delegation cases and measured outcomes require actual execution evidence. Authored ground, observed condition and inferred condition retain different offices; a proposed six-centre software anatomy becomes useful through relations inspectable in an actual run. The lexical histories, consulted prediction abstract and selected series tellings above retain their specific source scopes. The c",
+          "candidate_sha256": "39ca32c9cbcbd43a797a55252cf12beba24c97ba0059cccb7cfda91c689b79bd",
+          "complete_paragraph": "The investigator and its return routes are constructed operations, not reports of a tested runtime. Concrete delegation cases and measured outcomes require actual execution evidence. Authored ground, observed condition and inferred condition retain different offices; a proposed six-centre software anatomy becomes useful through relations inspectable in an actual run. The lexical histories, consulted prediction abstract and selected series tellings above retain their specific source scopes. The commission sequence does not prove deployment, institutional legitimacy or an exhaustive account of the participant it addresses.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Constructed investigator and software anatomy specify operations whose actual realisation requires execution evidence.",
+          "stronger_inference_if_removed": "Offered comparison would otherwise certify deployment, measured outcome or automatic institutional legitimacy.",
+          "positive_operation_retained": "Authored/observed/inferred conditions and precise source/series scopes remain distinct, actual proposed return fully developed."
+        }
+      ]
+    },
+    {
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+      "findings": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+          "line": 37,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Within [covenantal delegation](A25-prime-Covenant-Architecture.md), an occupant exercises a received grant; replacement does not erase that commissioning relation. The brief's \"changing who has agency and how it is expressed\" makes an institutional and cultural transition consequential. Here, composing delegated layers lets a person entrust bounded discretion without supervising every mechanical step. The further judgment concerns the result, its cost and the purpose it served. It remains possib",
+          "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+          "complete_paragraph": "Within [covenantal delegation](A25-prime-Covenant-Architecture.md), an occupant exercises a received grant; replacement does not erase that commissioning relation. The brief's \"changing who has agency and how it is expressed\" makes an institutional and cultural transition consequential. Here, composing delegated layers lets a person entrust bounded discretion without supervising every mechanical step. The further judgment concerns the result, its cost and the purpose it served. It remains possible to revise a subtask or take back a delegated decision; neither the upward movement of judgment nor the success of a chosen organisational arrangement is guaranteed by delegation alone.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "An occupied role receives finite grant; delegation allows but does not automatically move all judgment upward or guarantee organisational success.",
+          "stronger_inference_if_removed": "Role replacement could otherwise erase received grant, or generic delegation could prove a monotonic cultural improvement.",
+          "positive_operation_retained": "Purpose→commission→bounded subdelegation→result/cost/purpose judgment with revocable received authority is positive."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+          "line": 49,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Making parts of the ground operative is not narrating the ground. A self-description of the inherited situation remains a datum. Disclosure becomes consequential through what another participant can examine or contest: the source selected, the permission governing action and the commission under which a criterion runs. An [inspectable judgment field](../concepts/C40-Model-Internality-Judgment-Field.md) makes these actual relations available. [Deferential encounter](../concepts/C47-Deferential-In",
+          "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+          "complete_paragraph": "Making parts of the ground operative is not narrating the ground. A self-description of the inherited situation remains a datum. Disclosure becomes consequential through what another participant can examine or contest: the source selected, the permission governing action and the commission under which a criterion runs. An [inspectable judgment field](../concepts/C40-Model-Internality-Judgment-Field.md) makes these actual relations available. [Deferential encounter](../concepts/C47-Deferential-Intelligence.md) lets the addressed participant's answer reach the implicated condition before further action.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Actual disclosure of conditioning differs from narration of the inheritance.",
+          "stronger_inference_if_removed": "A self-description alone could otherwise show that another participant can reach an effective judging source, rule or permission.",
+          "positive_operation_retained": "Inspectable field presents selected source, permission and commissioning authority to a consequential reply."
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-authored-session-return/candidates/A28-prime-The-Authored-Session.md.txt",
+          "line": 63,
+          "severity": "review",
+          "code": "DEFENSIVE_NEGATION",
+          "text": "Bratton's orchestration quotation retains the consulted local transcription and stated PDF section locator; exact full-PDF collation remains a separate source task. The quoted bounded-subtask instruction belongs to the proposed session arrangement. The glossary retains the brief's direct-correspondence caution together with its literary and interaction value. The layered session and local comparison above specify a construction, not an implemented runtime or a measured result; changing a represe",
+          "candidate_sha256": "3b9b9528ba02c22c43af17fe7656c8cebabe46d632984507dd80ffeb00353abb",
+          "complete_paragraph": "Bratton's orchestration quotation retains the consulted local transcription and stated PDF section locator; exact full-PDF collation remains a separate source task. The quoted bounded-subtask instruction belongs to the proposed session arrangement. The glossary retains the brief's direct-correspondence caution together with its literary and interaction value. The layered session and local comparison above specify a construction, not an implemented runtime or a measured result; changing a represented condition alone does not establish a change in the processing that produced a later act.",
+          "disposition": "Retain actual positive operation with exact source-specific distinction",
+          "why_necessary": "Quotation scope is fixed local transcription/section locator; bounded-subtask quotation is explicitly proposed instruction, source glossary retains caution and twofold value.",
+          "stronger_inference_if_removed": "The borrowed quote or session construction could otherwise gain full-PDF readiness, source-certified technical implementation or direct phenomenal proof.",
+          "positive_operation_retained": "Orchestration/scaffold and produced glossary remain usable for cultural agency and non-anthropomorphic interaction; actual session operation remains constructed."
+        }
+      ]
+    }
+  ],
+  "all_individual_count": 11,
+  "unbound": 0,
+  "source_readings": "SOURCE-READINGS.json"
+}

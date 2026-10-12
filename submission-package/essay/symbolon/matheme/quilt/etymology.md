@@ -11,9 +11,9 @@ source_relation: "Extracted internal quilting; exact constructions and source-di
 
 ## #0 — The psychoid threshold
 
-File 3 of the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) enters where naming and numbering both articulate a distinction. Its six terms form an authorial operational circuit: VALUE→MEASURE→RATIO→EQUATION→PRODUCT→SOLVE. The [core spine](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) governs the native sixfold beneath this linguistic enactment.
+In the third quilt of the [Binary Explication](../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/taylor-2026-binary-explication.md) naming and numbering articulate a distinction together, and its six terms form an authorial operational circuit: VALUE→MEASURE→RATIO→EQUATION→PRODUCT→SOLVE. The [native sixfold](../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/taylor-2026-core-theorems-pithy.md) **grounds** the circuit, since ground, definition, force, pattern, context and realisation lie beneath this linguistic enactment of them.
 
-The input is something that matters before it has been fully specified. The operation progressively marks, relates, equates and produces a determination, then releases its claim to finality. Historical word descent and this present relational construction have separate standing under the [homology/analogy field](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md).
+The input is something that matters before it has been fully specified. The operation marks it, relates it, equates it and produces a determination from it, and then releases the determination's claim to finality. Word descent as history and the relational construction made here have separate standing, as the [homology/analogy field](../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD-homology-and-analogy.md) **qualifies**.
 
 ## #1 — Place the six acts
 
@@ -26,7 +26,7 @@ The input is something that matters before it has been fully specified. The oper
 | #4 | PRODUCT | Lead the result into the context it changes |
 | #5 | SOLVE | Loosen the determination and return its capacity |
 
-The candidate associates these terms with `wal-`, `me-`, `re-`, *aequatio*, *pro-ducere* and `se-lu-`. Those labels are the candidate's etymological proposals, not six independently verified passage claims in the present source house. Their operational sequence can be developed without presenting reconstructed descent as already established.
+The authorial root-reading associates these acts with `wal-`, `me-`, `re-`, *aequatio*, *pro-ducere* and `se-lu-`, and it uses their proposed senses to enact strength, marking, proportion, equality, production and release. The six historical descents await independent verification in the source bank. The worked circuit below earns its force from the operations it states, and the roots serve as the reading's mnemonic.
 
 ## #2 — Work the circuit
 
@@ -38,16 +38,16 @@ The return is consequential. An exact allocation can become inadequate when the 
 
 Being pairs VALUE/MEASURE: mattering and its first mark. Becoming pairs RATIO/EQUATION: proportion and the form in which it is balanced. Knowing/unKnowing pairs PRODUCT/SOLVE: making explicit and loosening its possessive closure. These are source-declared operations of one circuit.
 
-The candidate's further *leg-* family—dialogue, analogy, syllogism, eclectic, catalogue, intelligence—organises ways of gathering and reading-between. That sixfold is another authorial mapping. The claim that *leg-* is an extended form of `re-`, and the bundled common descent of *reason*, *real*, *rite*, *arithmetic* and the return prefix, require separate philological evidence; this projection does not turn their graphic or semantic proximity into a demonstrated genealogy. What survives is the explicit relation between discriminating terms and gathering them into an intelligible field.
+The further authorial *leg-* family of dialogue, analogy, syllogism, eclectic, catalogue and intelligence organises ways of gathering and of reading between, and that sixfold is another authorial mapping. The claim that *leg-* is an extended form of `re-`, and the bundled common descent of *reason*, *real*, *rite*, *arithmetic* and the return prefix, still need the philological evidence that a common descent requires, and the graphic and semantic nearness of the words is no such evidence. What the family contributes here is the relation between discriminating terms and gathering them into an intelligible field.
 
 ## #4 — Reification and release
 
-The candidate joins the circuit to the intelligence/real convergence. A result becomes a thing in an account; “my determination” can then obscure the acts and conditions that produced it. SOLVE returns that product through its making. The root's historical senses and the philosophical claim of reification remain distinguishable: a word history can illuminate the operation without proving a universal history of consciousness.
+Reading-between gathers the circuit, and the real names what has become a determinate thing within it. A result becomes a thing in an account, and “my determination” can then hide the acts and conditions that produced it. SOLVE returns that product through its making. A word history can illuminate this operation, and the root's historical senses and the philosophical claim of reification are two things, since a word history proves no universal history of consciousness.
 
-The psychoid claim concerns the formative relation through which meaning and number become available together. The recurrence of six chosen lexical acts is an Argued enactment of that claim, not independent proof that all Indo-European vocabulary was generated by a six-position scheme.
+The psychoid claim concerns the formative relation through which meaning and number become available together. The six chosen lexical acts enact that relation locally, and their recurrence points to no six-position origin for Indo-European vocabulary as a whole.
 
 ## #5→0 — Enriched 0/1
 
-The result is the same determination carried with a return route: value can enter measure and product without being exhausted by either. The quilt retains its short chain, `0/1=4+2=5→0=0/1`. Its Night-pass primes belong to the later [enantiodromic return](enantiodromic-return.md), not File 2's inverse-phase positions.
+The result is the same determination carried with a route of return, so value can enter measure and product and neither exhausts it. The quilt keeps its short chain, `0/1=4+2=5→0=0/1`. Its Night-pass primes belong to the later [enantiodromic return](enantiodromic-return.md), and File 2's inverse-phase positions are a different matter.
 
-This record returns-to [A12](../../episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md) and [Movement18](../../../section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md). The next [psychological projection](psychology.md) asks who performs these acts; it does not replace their lexical source task.
+[Whole and many](../../../section-rooms/arguments/A12-Mono-Poly-One-All-Whole-Many.md) **grounds** the keeping of the differentiated result within the relation that made it possible. [The returning loan](../../../section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md) **extends** the release of possession, so that an achieved determination can enter another encounter. The [psychological turn](psychology.md) takes up the one who values, marks, gathers and releases, and the historical root claims stay within the evidential limits stated above.

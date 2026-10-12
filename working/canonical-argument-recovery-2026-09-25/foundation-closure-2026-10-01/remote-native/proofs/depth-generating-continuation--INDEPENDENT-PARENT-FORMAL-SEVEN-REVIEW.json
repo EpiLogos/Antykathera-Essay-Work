@@ -1,0 +1,118 @@
+{
+  "reviewer": "depth_recovery",
+  "method": "Independent complete old/new operation comparison with exact original source distinctions; no canonical write or heavy local job.",
+  "records": [
+    {
+      "key": "CALCULUS",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CALCULUS-candidate.md.txt",
+      "sha256": "b5dc7bf4db524ad251b08cf1ce2618269f7b4699a8e6fba91e67f8d246018c0c",
+      "preimage_sha256": "7065c58175076854296aae758cd7a39e348bf241f0b91d0361172ed9dd614bbf",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Interval-qualified antiderivative constant, disconnected-component counterexample, initial value and definite integral remain distinct; native differential sign is compared without infinitesimal-as-fragment inference."
+    },
+    {
+      "key": "CHAOS",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CHAOS-candidate.md.txt",
+      "sha256": "d9647172084b52ba39809209faa9160aa4a26b4f3236ea970fffbcf66fdd5448",
+      "preimage_sha256": "a233295a47894c3c9274a72cd88e52ede7b2e46d4e7343c3ee6728d8c541e2d9",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Specified real cubic gradient flow, boundedness, equilibrium and pitchfork basin calculation retained; no chaos inferred from two basins, no clinical analogy made formal proof."
+    },
+    {
+      "key": "CROSS-RATIO",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/CROSS-RATIO-candidate.md.txt",
+      "sha256": "1f3d4577025edaacf02bf4393ba48534d47cdd5ba2e8d601f8573dc0b7d34e2f",
+      "preimage_sha256": "1c5123237f479f5fec3ddf7dd397ed02f3176b727aa787b190f4ffb6c6309272",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Ordered distinct four-point cross-ratio, nondegenerate Möbius difference/cancellation, infinity cases, permutation reciprocal and nonlinear counterexample preserved."
+    },
+    {
+      "key": "NOETHER",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/NOETHER-candidate.md.txt",
+      "sha256": "8986499aa9adff48da7a5f5f524bc286f514da33030b8e7f6a15a030f922a268",
+      "preimage_sha256": "b04b6fb015cd1795c8446e5fe7888d729429e99f2e647bc8aec5a8e5d55142d6",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Constant-parameter current/on-shell divergence/boundary flux distinct from arbitrary-function differential identity. Oscillator and driven-energy examples unchanged. Encounter may revise scale or justify retention; native invariance does not conflate units or make evaluator revision gauge equivalence."
+    },
+    {
+      "key": "ORDINAL",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ORDINAL-candidate.md.txt",
+      "sha256": "cbd5b7a8682452a19ed58b961e8e611d18653e4ba55d3b59c02c13e30a7ca38a",
+      "preimage_sha256": "c64f53a4dec926e0e03402bf3e8dbcb758334e27917a25fcd62ed0c1dcda9b8a",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Empty set, singleton, membership/inclusion/cardinality and successor retention proved distinctly; finite induction does not claim an infinite set without additional axiom. Native zero remains a source-distinct comparative operation."
+    },
+    {
+      "key": "ITERANT",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/ITERANT-candidate.md.txt",
+      "sha256": "97af6084f8f71bce8816b51fdf85f90cfc50c81d2278adddcd6efe8df78530b8",
+      "preimage_sha256": "a5b6d9bfdc902a79c682e2c971493058394e79b028d7f8e55ed2367a44390b90",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Real two-place shift and anticommutation, faithful M2(R) representation and complex subalgebra retained; three-place kernel witness distinct. Native cardinal traversal and inverse-phase prime do not become the complex orbit or bare period-two shift."
+    },
+    {
+      "key": "VARELA",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-formal-operation-return/VARELA-candidate.md.txt",
+      "sha256": "ff98a29467f57c885790ae7b6a162703144b682f151e29d3b270573bb0b330cd",
+      "preimage_sha256": "17bb8a1679b9f500d9460f1654144cf26b9bfb6268ad4251451fad2d88697038",
+      "read_scope": "Complete candidate and complete old/new changed-paragraph union; byte-identical formal/common units read once. First three complete bodies/diffs read before compaction; other four complete bodies/diffs freshly read after compaction.",
+      "disposition": "Accepted at these exact changed source/public operations.",
+      "operation": "Finite reduction, delayed alternating recurrence and third-state arithmetic remain different achievements. Selected Varela pages support autonomous state/dominance; native crossed-zero relation remains distinct from empty set, blank value or fixed arithmetic state."
+    }
+  ],
+  "fresh_complete_sources": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md",
+      "sha256": "26fbbd62be9c315d6bdc67aa826d89b69d8885055c247f6b2057043e9dfd19a7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "sha256": "ac130ecd2d33e6a3568f8b6bfab2b6ad729da6df4345a40942aae5aaedfb7930"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md",
+      "sha256": "819aa32849ccf65aab6097ef5cc15679c1be2314bcdb84ff29eb37bc8f5c7a72"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md",
+      "sha256": "71af62287171618f62d5949f91c881927fadb2964e2d3caaa8e87e884c463768"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+      "sha256": "bca64035a23d036325c6bc3be6c95583089ed94151d4c7c4b809a22315b8a49d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+      "sha256": "e7d6a6b96417916ef704c2dd1ee3ee4231d5629c131f8138a1f2ef529576be37"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "sha256": "7ade2bcede906a84bbf293214be97e6946fbb59e7d069efdaa14ad67c73fea80"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "sha256": "d0d3c9d3cd7694dadf34fe3f2ed229266924e01f480a746f71b0560b91df4b54"
+    }
+  ],
+  "fresh_selected_raw_units": [
+    "Core theorem lines337–437 and464–505 (earlier whole640 read remains separately bounded)",
+    "Binary FileOne98–192; initial640-token clip explicitly reopened137–173",
+    "Binary FileTwo343–389 complete terminal passes",
+    "Q27 quilt1222–1248 and5371–5396 complete Noether/context/corrections units",
+    "Varela OCR PDF3/4/19 = printed7/8/23; diagrams are not freshly independently image-collated"
+  ],
+  "prior_actual_basis": [
+    "Complete immutable core theorem, current governing authorial minute and Dynamics reads from preceding depth operations; historical raw guard remains unchanged while latest consumer rule governs",
+    "Complete Watson NOTES55longlines49493chars and SOURCE241 freshly read immediately preceding this review, not second falsely fresh read",
+    "Complete Kaplan SOURCE328 lines freshly read for accepted zero reception; no actual printed211 quotation collation",
+    "Van Eenwyk protected NOTES earlier actual whole source reading remains bounded; no clinical book/quotation audit newly performed"
+  ],
+  "source_and_quote_boundary": "No fresh whole external books, selected-edition quotation collation, primary Noether intake, entire Varela proof/appendix or deployed implementation acceptance. Existing Noether house pending, Spencer-Brown direct excerpt debt, Varela selected-page paraphrase scope and clinical/math/history differences retained. Effects4 indicates impact, not all downstream acceptance.",
+  "findings": "No exact lost source step, stronger formal entailment, universal forced evaluator/scale change or public record-return actor found in changed joins. Formal proof hypotheses/calculations read and retained; existing source-house scope claims not promoted."
+}

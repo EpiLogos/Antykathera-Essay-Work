@@ -1,0 +1,32 @@
+{
+  "verified_at": "2026-10-04T17:52:05.390086+00:00",
+  "product_build_commit": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "regression_commit": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+  "snapshot_commit": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+  "canonical_main": "44e4da181e9795ede293b3004c2293bbf7ad73e6",
+  "input_sha256": "807b776ed061abc919a89b66321658d4cb568bc3d8c40f4f856e23d19c9e2bc3",
+  "files": 890,
+  "every_file_hash_matches": true,
+  "withheld_new_section_absent": true,
+  "manuscript_publication_hold_kept": true,
+  "restored_home_matches_previous_published_source": true,
+  "native_library_source_commit_bound_editions": 10,
+  "protected_objects_compared_unchanged": 17,
+  "unpublished_foreign_captures_excluded": true,
+  "excluded_capture_ancestry_checks": [
+    {
+      "repo": "/Users/admin/Central/Work/O-I",
+      "excluded": "3d6fbea3df2b2442a44074896040d162a72c79ea",
+      "published_target": "73a06f0e108dfb417ea42ac50130a6b681bd5e58",
+      "not_an_ancestor": true
+    },
+    {
+      "repo": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work",
+      "excluded": "8b3136b09cb6bf73becaeafead1d79e1e3dac692",
+      "published_target": "b2b5b706105891f69e2a68ecd160dbe4add3828e",
+      "not_an_ancestor": true
+    }
+  ],
+  "native_home_exit_patched": true,
+  "authored_s01_label_preserved": true
+}

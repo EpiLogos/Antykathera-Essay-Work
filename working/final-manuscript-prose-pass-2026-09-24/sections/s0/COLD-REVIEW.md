@@ -1,340 +1,805 @@
-# Cold Review — §0 Differentiating Mind (`s0`) — DRAFT-2
+# COLD-REVIEW — §0 Differentiating Mind — DRAFT-2
 
-**Reviewer posture:** independent; no writer prep files used as warrant.  
-**Surfaces read:** `WRITING-LAWS.md`, `WRITING-RUBRIC.md`, `comparative-and-negation-gate.md`; room `01-differentiating-mind` (`ROOM.md`, `P1-CANONICAL-ALIGNMENT.md`, movements M07–M12); recon `working/final-manuscript-prose-recon-2026-09-24/sections/s0.md`; `DRAFT-2.md`; length baseline `working/manuscript-source-enrichment-2026-09-20/sections/s0/SECTION.md`; source houses consulted for quotation check (Pind, Dyczkowski, Abhinavagupta–Singh, Siderits, Huayan/Cleary search, Bāhiya/Ireland search).
-
----
-
-## Length / loss test
-
-**Count method:** body prose only — Markdown headings (`#` / `##`) excluded; HTML movement comments excluded; `## Notes` appendix excluded (notes are not body). Word tokenisation: alphanumeric and hyphenated/apostrophe forms including Sanskrit diacritics.
-
-| Surface | Body words |
-|---|---:|
-| Enrichment `SECTION.md` | 7492 |
-| `DRAFT-2.md` | 7314 |
-| DRAFT-2 as % of SECTION | **97.62%** |
-| Shortfall | **2.38%** |
-
-**Compression rule:** DRAFT-2 is **not** more than 10% shorter on this count → length alone does **not** trigger REJECTED FOR COMPRESSION.
-
-*(If Notes were wrongly counted as body: SECTION 8721 / DRAFT-2 7737 = 11.28% shortfall. That comparison is reported only to show the Notes appendix difference; it is not the governing body count.)*
+Independent cold review. Reviewer had no prior context; writer self-assessments
+(`READ-RECEIPT.md`, `PREWRITE.md`, `SALVAGE.md`, `REVISION-RESPONSE.md`, `DRAFT-1.md`) and
+other sections' drafts were not opened. Read in the mandated order: `WRITING-LAWS.md`,
+`WRITING-RUBRIC.md`, `comparative-and-negation-gate.md`; room `01-differentiating-mind`
+(`ROOM.md`, all six movement files, `P1-CANONICAL-ALIGNMENT.md`; no `READING.md` present);
+`working/final-manuscript-prose-recon-2026-09-24/sections/s0.md`; `DRAFT-2.md` in full.
+Source houses, notebooks and the sovereign manuscript were opened only for Part 5
+verification. No verdict is issued here.
 
 ---
 
-## Content-gate checklist (miss = rejection reason)
+## 1. Paragraph-by-paragraph G1–G10 audit
 
-| Gate | Result | Note |
-|---|---|---|
-| Enact called-name / address / response | **HOLD** | Opens and recurs; address reply alters portrait. |
-| Śaiva comparative judgment through actual reasons | **HOLD** | M10 “Together these pressures…” states operations as criterion. |
-| Buddhist critique + positive places (experient, memory, comparison, exclusion, intention/action, manifestation, recognition) | **HOLD** | Critique retained; positive offices argued in M10. |
-| Immediate knowing ≠ constituted inner instrument | **HOLD** | M08 opening and anatomy. |
-| Psychologically conscious/unconscious ≠ Consciousness rootward | **HOLD** | M11 directional paragraph. |
-| Objective Internality arises from this operation | **HOLD** | M12 after contraction/recognition; means as *pramāṇa*. |
-| Changed state / improved self-description / recognition | **HOLD** | M08 triad paragraph. |
-| Absorb Singh / Abhinavagupta / Dyczkowski conceptually | **MISS** | Dyczkowski and Abhinavagupta operations largely survive surname-removal; **Singh’s mediating labour is named without a recoverable conceptual office**; Vāk levels lose native names; Abhinavagupta house still has **no quotation-ready passages** while the draft leans on notebook provenance. |
+Notation: `Mxx.¶n` counts substantive paragraphs of the named movement heading in
+`DRAFT-2.md`. Flag form: `location · gate/fault · exact phrase · failure · repair direction`.
+
+### M07 — Awareness becomes articulate (9 paragraphs)
+
+**¶1** (Function: scene entry — the call.) Claim: a sound has become an address. Because:
+the event is the section's carrier, warranted by everything ¶2 draws out of it. Gates:
+G8 (deferred — see ¶3), G4. Passes.
+
+**¶2** (Function: unfold the event's differentiations.) Claim: the hearing was already
+articulate — voice, face, memory, address were known *in* the encounter, not reported to it.
+Because: each listed difference is present in the scene as given. Gates: G1, G2, G4 — pass.
+Faults: none.
+
+**¶3** (Function: G8 transition — receive §0/1, name the subject.) Claim: the preceding
+inquiry could not enclose the knowing; differentiation is the taking-form of knowing as a
+life. Because: restates the threshold's earned result (portrait-of-knower regress) before
+naming the new burden. Gates: G8 pass — the relation to what precedes arrives two paragraphs
+in rather than in the opening sentence; the deferral is a deliberate gain (the scene *is* the
+subject) and the reconnection sentence is explicit ("The preceding inquiry ended inside an
+act it could not enclose"). Gates: G1 pass; F7 not incurred.
+
+**¶4** (Function: name the Śaiva account.) Claim: *prakāśa* (luminosity of appearing) and
+*vimarśa* (awareness's own grasp of its appearing) name what the event pressed; Dyczkowski
+develops the difference through mirror and crystal. Because: house-grounded (Dyczkowski
+transcript pp. 69–70, verified — see Part 5). Gates: G5, G6 pass — both Sanskrit terms are
+taught at entry through the scene. Faults:
+
+- `M07.¶4 · Part 5 / quote-boundary · "appearing unknown to anyone" · near-verbatim
+  fragment of the Dyczkowski transcript ("the mere appearing of phenomena unknown to
+  anyone") printed without quotation marks · either quote it with its `source-matched`
+  caveat visible at assembly, or loosen the paraphrase so the transcript's wording is not
+  silently reproduced`.
+
+**¶5** (Function: foreclose the inner-observer regress.) Claim: self-apprehension cannot be
+a mechanism added to appearing, or a third knower is required, ad infinitum. Because: the
+regress is actually derived, not asserted; lands on "a field that was knowing already."
+Gates: G1, G3, G7 pass — the negation answers a real position (the second-observer
+hypothesis the paragraph itself constructs and defeats). Passes.
+
+**¶6** (Function: differentiation within one field — blue/yellow.) Claim: homogeneous
+luminosity collapses knowings; sealed private showings cannot hold contrast; the actual
+field is one and affected. Because: the two-horned argument is Dyczkowski p. 65 (verified).
+Gates: G1, G7 pass — both horns carry content; this is the gate's operational-distinction
+form done well. Passes.
+
+**¶7** (Function: retention / recollection / imagination in time.) Claim: the three are
+different works of one power; confusing them lets an imagined accusation pass as remembered.
+Because: traces the p. 71 account (verified); the confusion claim is enacted by the walk's
+own mishearing. Gates: G1, G4 pass. Gates: G8 — "a confusion this walk will have to undo
+before the corner is crossed" is forward narration; mild F5 candidate, retained because it
+sets the actual engine of M08–M09.
+
+**¶8** (Function: the grammar of address.) Claim: persons are stations that pass into one
+another; the cut that makes a third person does not seal it. Because: Singh-translated
+*Parātrīśikā-vivaraṇa* (verified — see Part 5); the "unwilling to help" example is the
+essay's own and is not source-dressed. Gates: G1, G4 pass. Faults:
+
+- `M07.¶8 · G5/F6 (provenance layering) · "the votive says *you, O mountains*" · the
+  vocative example is Singh's introduction's example (P2/P3 notebook record), presented
+  inside a sentence whose attribution frame is Abhinavagupta's commentary, so the reader
+  takes the example as Abhinavagupta's own · mark the example's carrier ("as Singh's
+  introduction puts it") or fold it into the general clause without example-status`.
+
+**¶9** (Function: Bohm boundary + outgoing transition to the instrument.) Claim: the
+vortex's physical pattern cannot promote itself into being-known; the differentiation is
+done *through* an instrument. Because: vortex received from §0/1 (verified in the sovereign
+manuscript, s01); the claim boundary matches the movement file's tension ("Any attribution
+of its ontological or phenomenal claims to machines would require a separate argument").
+Gates: G1, G7, G8 pass — the transition sentence ("the instrument is where the
+differentiation must be followed next") is the movement's declared carry-forward. Passes.
+
+### M08 — The inner instrument (10 paragraphs)
+
+**¶1** (Function: enter through the mishearing.) Claim: the fault may lie in judgment,
+identification, attention — not the ear. Because: prepares the anatomy ¶2 names. Gates: G2,
+G4 pass. "the grievance is not in the words" is a determinate negation with a real boundary.
+Passes.
+
+**¶2** (Function: the tattvic/Sāṃkhya anatomy.) Claim: buddhi discriminates, ahaṃkāra
+appropriates, manas coordinates; Śaivism takes the distinctions and declines the passive
+witness as the whole story. Because: Sāṃkhya "ascertainment" verified in the
+Colebrooke–Wilson house ("ASCERTAINMENT is intellect"); the Śaiva departure verified
+(Dyczkowski p. 65: consciousness not "set apart from the object it perceives"). Gates: G1,
+G3, G6 pass — every term glossed at entry and answered to a referent in ¶1. Passes.
+
+**¶3** (Function: the instrument is through-which; no inner agent.) Claim: a further inner
+agent would restart the mirror regress; the three functions are co-active. Because: the
+regress was foreclosed in M07.¶5 — the dependency is honoured (G3 pass). Gates: G1, G2 pass.
+The musician image earns itself by being immediately disciplined ("no miniature musician
+sits inside the player running her fingers"). Passes.
+
+**¶4** (Function: C16 ≠ C01 lock.) Claim: ahaṃkāra's I-making is a determination, not the
+knower; the instrument is objective and remains the means. Because: operations are
+discriminable (¶2–3); this is the P1 alignment's locked distinction enacted, not restated.
+Gates: G1, G5 pass. Passes.
+
+**¶5** (Function: changed state vs changed account.) Claim: agitation can subside while
+conviction stands; understanding can harden into a new possession. Because: the mishearing
+case carries both. Gates: G1, G4 pass. Passes. (Content-gate item "distinguishes changed
+state, improved self-description and recognition" — half carried here, completed in ¶6.)
+
+**¶6** (Function: recognition as a third change on another axis.) Claim: recognition changes
+the *dependence* of both positions on the knowing, not the possession of a third portrait.
+Because: depends on ¶5's two non-recognition changes; the contrast does the warranting.
+Gates: G1, G3, G7 pass. Passes.
+
+**¶7** (Function: recognition's practical consequence without equanimity-falsification.)
+Claim: the criticism may still be true; recognition changes the demand the encounter places
+on my being. Because: protects the claim boundary the comparative argument needs (Buddhist
+critique stays live). Gates: G1, G7 pass. Passes.
+
+**¶8** (Function: means can usurp ends — Taylor's notebooks.) Claim: where the end of a
+practice is obscure, technique becomes the substitute measure of progress. Because:
+attributed to "Taylor's notebooks on the *Parātrīśikā* materials — his response to them, not
+Abhinavagupta's doctrine", and the observation is in fact in the P2 notebook (verified,
+Part 5). Gates: G1 pass. Faults:
+
+- `M08.¶8 · G5 (voice) · "the means begin to certify the very being they were meant to
+  serve" · "certify being" is a nouned abstraction doing summary work at paragraph-end ·
+  either restore the verb (the means come to stand in for the end they served) or let the
+  notebook's plainer mechanism carry the close`.
+
+**¶9** (Function: Bāhiya — the retained Buddhist critique.) Claim: release without Śaiva
+self-awareness; the criticism will be kept whole when Śaivism is adopted. Because: load-
+bearing for the comparative decision in M10. Gates: G1, G8 pass — the retention sentence
+performs real forward work. Faults: see Part 5 (capitalisation of the quotation).
+
+**¶10** (Function: boundary on "inner"; outgoing transition.) Claim: internal as means, not
+sealed off; constituted means are not for that reason fiction. Because: collects M08's
+result and poses M09's question. Gates: G1, G8 pass. "a constituted means is not for that
+reason a fiction" — admissible claim-boundary negation (gate form 3). Passes.
+
+### M09 — An alternative becomes a course (7 paragraphs)
+
+**¶1** (Function: from loosened mishearing to live alternatives.) Claim: alternatives are
+visible but do not carry action; something must gather. Because: inherits M08's repair.
+Gates: G3, G8 pass. Passes.
+
+**¶2** (Function: vikalpa / saṃkalpa defined and bound.) Claim: the pair is conjugate —
+each intention already discriminates, each difference leans toward resolve. Because: the
+tradition's terms are taught through the pause scene. Gates: G1, G6 pass. Faults:
+
+- `M09.¶2 · G7/F2 (weak) · "and it is more than one act under two names" · the denied view
+  (mere synonymy) is unnamed and unoccupied · keep the positive derivation
+  ("each intention already discriminates...") and let it defeat the reduction without the
+  feint — or name who would hold the two names as one act`.
+  (The paragraph's first negation, "not thought and will stacked in separate rooms", is
+  retained: the canonical movement node carries the same contrast — "not two faculties
+  sitting inside a mental container" — so it is source-bearing in the essay's own sense.)
+
+**¶3** (Function: promise vs prediction.) Claim: a promise installs a new constraint on what
+may happen, between two people. Because: operational distinction with both sides specified —
+the gate's form 3 exactly. Gates: G1, G2, G7 pass. Passes.
+
+**¶4** (Function: the promise inherits what it did not choose.) Claim: resolve, execution and
+result form one continuity; the result can disclose a failure the resolve missed. Because:
+needed for script (¶5) and for M10's determinacy. Gates: G1, G4 pass. Passes.
+
+**¶5** (Function: habit vs script.) Claim: habit serves the living; script is conditioned
+will whose conditions have become unavailable. Because: C12/A07 doctrine enacted through the
+pianist and the grievance-filter. Gates: G1, G7 pass — "Script replaces the living with its
+own repetition and calls the replacement prudence" is earned, not decorative. Passes.
+
+**¶6** (Function: thought as medicine; releasability.) Claim: decree-replacement is deaf;
+correction follows the formation back; the medicine succeeds only if it can be put down.
+Because: internal-corpus formulation (footnoted in the sovereign manuscript to named Taylor
+documents); the case enacts it. Gates: G1, G4 pass. Faults:
+
+- `M09.¶6 · G5 (register slip) · "a formulation from Taylor's working notes, verifiable in
+  the case at hand" · evidence-ledger idiom ("verifiable in...") imported into authored
+  prose; the assertion is ambiguous — verifiable how, by whom · state the provenance as the
+  sovereign manuscript does ("Taylor's notes on contemplative means insist on this
+  distinction") and drop the status phrase, or claim the formulation directly`.
+
+**¶7** (Function: shared field; Gebser; outgoing to M10.) Claim: a standpoint can profess
+impartiality while deciding whose answer counts; a field is shared when an encounter can
+revise the terms of the next judgment. Because: Gebser's diaphaneity node supports the
+characterisation (see Part 5); the corner case enacts it. Gates: G1, G8 pass — the closing
+question hands M10 its problem. Faults:
+
+- `M09.¶7 · G2 (minor) · "The gathering itself has to answer for that." · the demonstrative
+  "that" reaches across three sentences (answering for the field's sharedness) and forces
+  backtracking · restate the demand in the sentence itself ("and the gathering must answer
+  for the field's remaining shared")`.
+- `M09.¶7 · G10 (minor) · "name the danger exactly" · "exactly" is self-grading; also
+  "Gebser's studies" (plural) overstates a single, unacquired study · "Gebser's account of
+  perspective becoming transparent to its own context names this danger"`.
+
+### M10 — Exclusion within the positive (8 paragraphs)
+
+**¶1** (Function: determinacy's two faces.) Claim: the promise is positive through its
+differences, close to constituted by what it excludes. Because: inherits M09's promise;
+prepares apoha. Gates: G1, G4 pass. "which is close to saying" is an honest modal — the
+inference is marked as inference. Passes.
+
+**¶2** (Function: apoha stated.) Claim: Dignāga's answer to the problem of general terms:
+the word's work is done by what it sets aside; exclusion persists as boundary of application.
+Because: Pind q001 (PSV V:11d, p. 85) — verified. Gates: G1, G6 pass. Faults:
+
+- `M10.¶2 · Part 5 / quote-boundary · "a word excludes other referents" · this reproduces
+  the house passage card's translation wording almost exactly while framed as "locates the
+  point in a single clause" without quotation marks · either quote it (the card is
+  quotation-ready: PSV V:11d, Pind trans., p. 85) or loosen to paraphrase ("the word's work
+  is done by setting other referents aside")`.
+
+**¶3** (Function: two load-bearing qualifications.) Claim: exclusion reaches a positive
+referent (fragment via Pind's annotation, provisional attribution correctly carried as "a
+fragment to the effect that"); the double negative is term-formation, not
+negation-of-a-negation. Because: Pind q002 (annotation 181, p. 183) — verified; the
+"any comparison that needs them absent has invented its opponent" clause does the
+anti-strawman work at the right place. Gates: G1, G7 pass. Faults:
+
+- `M10.¶3 · G6 (minor) · "Nominally bound and verbally bound negation are different
+  operations" · the nominal/verbal distinction enters with no local gloss of what the
+  binding turns on; the paragraph's consequence is explained but the distinction itself is
+  not taught · one clause naming what each negation binds (a term vs an assertion) would
+  earn it; alternatively leave the kinds unnamed and carry only the non-collapse claim the
+  paragraph actually uses`.
+
+**¶4** (Function: meet momentariness at its strongest.) Claim: the saṃskāra explanation of
+remembering is strong; but knowing an appearance *as* referring back leaves the holding
+demand standing. Because: the Buddhist position is stated at full strength before the
+pressure — the gate's form 2 exactly; the momentariness-for-outer-objects concession is
+verified (Dyczkowski p. 79). Gates: G1, G7 pass. Mild narration ("With the semantics
+established on its own strongest terms, the comparison this section has been carrying...")
+— F5 candidate, retained: it states the comparison's terms, not a tour.
+
+**¶5** (Function: the five operations.) Claim: comparing, excluding, intending, and knowing
+arising/ceasing each demand a holding the moment-analysis does not supply; the light in
+which present and gone differ cannot flicker with each object. Because: each case was
+earned earlier (M07 ¶7, M09 ¶4); the Śaiva-outer-objects concession is placed before the
+final step. Gates: G1, G3, G9 pass — enumeration after derivation, not instead of it.
+Passes.
+
+**¶6** (Function: the comparative decision.) Claim: for this field, the Śaiva account is
+more adequate — a criterion-measured choice, no verdict on traditions not put to work.
+Because: the criterion (the five operations) is the preceding paragraph. Gates: G1, G9
+pass. Faults:
+
+- `M10.¶6 · G5 (attribution drift) · "each demanding what the tradition calls a place for
+  the experient and its powers" · "a place for the experient and its powers" is the essay's
+  own comparative formulation, not the tradition's term of art; "what the tradition calls"
+  projects the criterion into the source · own it: "each demanding what the Śaiva account
+  supplies: an experient and its powers" — or cite the actual Śaiva vocabulary
+  (pramātṛ/bhoktā, śakti) if the tradition's own phrase is wanted`.
+
+**¶7** (Function: the verdict kept — proprietor critique binding.) Claim: criticism of the
+fabricated proprietor stays inside the adoption; the Śaiva conclusion identifies the
+sourceward relation the proprietor had claimed. Because: Watson/Taylor distinction
+(carrying house and notebook boundaries respected — Part 5); Bāhiya re-invoked as standing
+proof. Gates: G1, G7 pass — this is the recon's central comparative pressure, held in its
+exact force. Passes.
+
+**¶8** (Function: Huayan joins on its own terms; outgoing to M11.) Claim: dependence has a
+positive face; the three traditions share a pressure, not a doctrine. Because: every detail
+is verified against the Dushun/Cleary record — southwest jewel, ink dot, image-limit
+qualification, Vairocana's closing activity (Part 5). Gates: G1, G9 pass — the parallel
+justifies its inclusion and keeps traditions distinguishable. Faults: none. "not a doctrine
+but a pressure" — retained: it protects the exact boundary the movement file declares
+("not because they are one doctrine or because one term can be substituted for another").
+
+### M11 — The world takes measure (7 paragraphs)
+
+**¶1** (Function: boundedness as condition, not defect; the sixfold announced.) Claim:
+without bounds no particular field; thirty-six tattvas carried in six turns, preserving
+dependency-direction. Because: the compression boundary matches the movement file's tension
+and P1 ("sixfold compression is a reading, not source-tradition identity"). Gates: G1, G9
+pass. Passes.
+
+**¶2** (Function: turns one to four — Anuttara through Māyā.) Claim: each turn is an
+operation, not a rung; Māyā is the seam made workable; the Vedāntin contrast is
+source-bearing (Dyczkowski p. 79 — verified). Gates: G1, G3, G6 pass. Faults:
+
+- `M11.¶2 · G4 (pressure at the limit, not a fault yet) · the paragraph carries four turns
+  of the descent in ~260 words · it remains one movement (descent to the seam), and each
+  turn is glossed through the call — but it is the draft's densest paragraph; if any
+  repair pass touches it, split at "Next, manifestation takes its two orientations" ·
+- `M11.¶2 · G3 (minor) · "which is why the same words can mean either" · "the same words"
+  reaches back two sentences to "I am this / this am I" · repeat or compress the pair at
+  the point of use`.
+
+**¶3** (Function: the kañcukas and the bounded experient.) Claim: five contractions are the
+standing shape of finite capacity, with puruṣa and the lowered apparatus. Because: each
+kañcuka is glossed by operation; the fivefold enumeration is the tradition's own and each
+clause differs in syntax. Gates: G6, G9 pass. Faults:
+
+- `M11.¶3 · G7/F2 (weak) · "the five are the standing shape of finite capacity, not moods"
+  · "not moods" clears an unnamed, unoccupied view · state the positive directly ("the five
+  are the standing shape of finite capacity, prior to any occasion's weather") or cut the
+  tag — the paragraph's glosses have already done the work`.
+- `M11.¶3 · G3 (minor) · "Cognition alone would omit the means by which an intention meets a
+  world; objects alone would omit their availability to anyone." · the paired negation is
+  earned (it sets up M12's means), but its two objects ("cognition alone" / "objects alone")
+  were never posed as the alternatives being refused · a half-sentence posing the
+  reductionist temptation would let the closing antithesis land`.
+
+**¶4** (Function: positivity of the five at once; usurpation seed; lattice image.) Claim:
+each share is positive; the error is a received share claiming the whole's authority; the
+lattice image (Dyczkowski p. 65 — verified) shows limitation as local manifestation. Because:
+needed for M11.¶5's usurpation theme and the recognition to come. Gates: G1, G9 pass.
+Faults:
+
+- `M11.¶4 · Part 5 / G1 (minor) · "Light through a lattice window falls in many coloured
+  patches" · "coloured" is added; the source image is a light shining through a lattice
+  window appearing *diverse* — the added colour risks the reader taking the embellishment
+  as the tradition's image · either drop "coloured" or move it out of the image's
+  attribution ("— to risk the tradition's own image: light through a lattice, and the
+  patches need not be likened to colour")`.
+- `M11.¶4 · G4 (partial duplication) · the paragraph re-demonstrates positivity of limits
+  ("This hour can be devoted... because it has a boundary") after ¶1 argued bounds are "not
+  defects awaiting removal" · the unique load here is the usurpation seed and the lattice
+  image; compress the re-demonstration, keep the seed and the image (see Part 2)`.
+
+**¶5** (Function: frame, horizon, dream.) Claim: a frame usurps when it declares the
+exceeding incapable of mattering — pathology is usurpation, not boundedness; the dream shows
+dependence from inside; waking alters the source relation. Because: each image carries a
+distinct office as the recon's imagery table demands (frame = constituted perspective; dream
+= source relation). Gates: G1, G4, G9 pass. "most of the pathology this essay diagnoses is
+usurpation, not boundedness" — load-bearing, retained. Passes.
+
+**¶6** (Function: nirvikalpa vs recognition.) Claim: non-conceptuality describes a condition;
+it has not disclosed why the condition and its alteration are known; recognition is through
+the difference. Because: guards the recon's non-negotiable (a state is not automatically
+recognition). Gates: G1, G7 pass. Faults:
+
+- `M11.¶6 · G1/G5 (strongest prose fault in the draft) · "Recognition reverses amnesia,
+  differentiation; it returns through the achieved world instead of away from it." · as
+  printed, the apposition equates differentiation with the amnesia being reversed — which
+  contradicts this very paragraph ("usurpation, not boundedness", ¶5) and the section's
+  defended positivity of differentiation; most likely a dropped genitive · repair the
+  construction: "Recognition reverses differentiation's amnesia" or "Recognition reverses
+  the amnesia contracted differentiation leaves — and it returns through the achieved world
+  instead of away from it"`.
+- `M11.¶6 · F5 (minor) · "and the section's hardest distinction waits exactly there" ·
+  compère clause announcing difficulty instead of performing it · cut the clause; the next
+  sentence ("In non-conceptual absorption...") performs the difficulty unaided`.
+
+**¶7** (Function: conscious/unconscious vs sourceward Consciousness; crossed zero; outgoing
+to M12.) Claim: from a bounded standpoint consciousness names a psychic distribution against
+an unconscious depth, and the therapeutic work stands; sourceward, Consciousness names
+manifestation and its ground; outward and rootward are two directions of one field. Because:
+the recon's major directional correction, kept at full resolution ("bringing a motive into
+view and recognising the condition of the view are different operations, and the second does
+not abolish the first"). Gates: G1, G5, G8 pass — the same word is explicitly tracked, not
+flattened; the outgoing sentence poses M12's problem. Passes.
+
+### M12 — Objective Internality (8 paragraphs)
+
+**¶1** (Function: name Objective Internality from the section's own end.) Claim: the
+constituted means through which a Life inhabits, discriminates and acts. Because: every
+preceding operation is the warrant, and the paragraph says so in one clause rather than
+reciting. Gates: G1, G8, G9 pass — naming after derivation, the compression arrives after
+derivation. Faults:
+
+- `M12.¶1 · F5 (mild, retained) · "The name is earned here, at the end of the differentiation"
+  · meta-narration of the section's progress · the naming act itself is the paragraph's
+  event and the clause is short; keep only if the cadence pass leaves room — the weaker
+  variant would simply delete "at the end of the differentiation"`.
+
+**¶2** (Function: the two words; the Śaiva triad; means never become knower.) Claim:
+internality = no view from outside all mediation; objectivity = determinate, inquiry-bearing
+relations; pramātṛ/pramāṇa/prameya; no inventory acquires the knower's office by
+accumulation. Because: triad verified (Dyczkowski p. 63); the C16≠C01 lock is re-enacted
+without repetition. Gates: G1, G5, G6 pass. Passes.
+
+**¶3** (Function: pramāṇa and warrant.) Claim: warrant stays attached to the means; mode of
+access determines what a correction must reach. Because: extends ¶2 with the tradition's own
+epistemology, verified in substance (p. 63: pramā and its triad). Gates: G1, G4 pass.
+Passes.
+
+**¶4** (Function: what changes the means — permission, obligation, diagram, promise.) Claim:
+a revoked permission changes the field of possible action itself; representation without
+return into conduct governs an impoverished means. Because: the cleanest case carries the
+operation; the promise returns from M09 with its new office. Gates: G1, G2, G4 pass — "not
+as a belief about permission but as the thing itself" is an operational distinction, both
+sides content-bearing. Passes.
+
+**¶5** (Function: recognition at this level.) Claim: recognition's object is the means *as
+means*; it cannot be finalised into a master view. Because: depends on M08.¶4's
+appropriation analysis (dependency honoured). Gates: G1, G3 pass. Passes.
+
+**¶6** (Function: paradigm.) Claim: an explicit worldview is one determination inside the
+lived organisation; the useful model makes particular dependencies investigable. Because:
+movement M12's R3 paradigmatic relation; the "whose permission governs" catalogue is
+operative, not decorative. Gates: G1, G9 pass. Passes.
+
+**¶7** (Function: artificial agency as technical instance.) Claim: retained context,
+permissions, tools form an operative world; phenomenal Subjective Immediacy remains a
+separate question neither settled by functional richness nor by strangeness. Because:
+movement M12's claim boundary, kept exactly. Gates: G1, G5, G7 pass. Passes.
+
+**¶8** (Function: closing — exclusion's constitutive work; hand to §1.) Claim: absences
+have definite place and consequence in a constituted field; what changes when an absence
+acquires a sign? — 205. Because: the hand-off is the movement's declared transition
+("how did a sign capable of carrying the uncounted condition become operational?").
+Gates: G1, G8 pass — the section genuinely hands to §1. Passes.
 
 ---
 
-## Quotation check (direct quotes vs source houses)
+## 2. Delete-test, paragraph by paragraph
 
-| Location | Quoted text | House / locator | Verdict |
-|---|---|---|---|
-| M08, Bāhiya para | “In the seen will be merely what is seen.” | Footnote: *Udāna* 1.10, Ireland. **No `SOURCE.md` house** for Ireland/Udāna under `episteme/sources/`. | **FAIL** — cannot verify against bank; NOTES not consulted as evidence. |
-| M10 | Pind / Dignāga exclusion (paraphrase, not verbatim) | `pind-2009-dignaga-anyapoha-dissertation` q001 (PSV V:11d, p. 85) quotation-ready | Paraphrase acceptable; exact house wording not reproduced. |
-| M10 | Positive referent qualified by exclusion (paraphrase) | same house q002 (ann. 181, p. 183), provisional attribution | Paraphrase tracks house; provisionality under-marked in body. |
-| M10 | *not non-pot* | Footnote to Siderits/Tillemans/Chakrabarti; house exists; **chapter/page collation outstanding** per draft note | **WEAK** — formula used as if settled; not checked to a ready card. |
-| Elsewhere | No other sentence-level direct quotations of primary text | Dyczkowski / Abhinavagupta cited by range without embedding their ledger-ready lines | Preferable to fake exactness; still leaves Dyczkowski ranges on **transcript / source-matched** footing, not edition-verified quotation. |
+"If this paragraph were removed, what exactly would break?" Verdicts only where the test
+produces something; every paragraph was tested.
 
----
+- **M07.¶1–¶2**: delete either and the section loses its enacted subject; the whole
+  comparative machinery later refers back to the call's differentiations. Load-bearing.
+- **M07.¶3**: delete and G8 fails — nothing receives §0/1. Load-bearing.
+- **M07.¶4–¶6**: the prakāśa/vimarśa teaching, the regress, the blue/yellow argument.
+  Delete any and the Śaiva positive account is unintelligible at M10.¶6. Load-bearing.
+- **M07.¶7**: retention/recollection/imagination — deleted, M10.¶4's memory pressure has no
+  positive account to press against. Load-bearing.
+- **M07.¶8**: the address grammar — deleted, M12.¶1's "other people speak, teach, promise
+  and refuse" and the second-person work of the whole section lose their ground.
+  Load-bearing.
+- **M07.¶9**: deleted, the vortex is a dropped threshold prop and the transition to M08
+  loses its engine (nothing vs through-which). Load-bearing.
+- **M08.¶1–¶4**: the anatomy, the no-little-judge argument, the C16≠C01 lock. All
+  load-bearing (P1's locked distinction lives in ¶4).
+- **M08.¶5–¶7**: the three changes. Deleted, a named content-gate item disappears.
+  Load-bearing.
+- **M08.¶8** (Taylor/technique): deleted, the means-usurpation warning is lost and M09.¶6's
+  medicine has no ancestor; also the section's one explicit internal-corpus voicing.
+  Load-bearing — but note its close is its weakest sentence (fault registered in Part 1).
+- **M08.¶9** (Bāhiya): deleted, the retained-critique claim at M10.¶7 is unwitnessed and the
+  section's only direct quotation disappears. Load-bearing.
+- **M08.¶10**: deleted, the word *inner* is left open to the sealed-interiority reading and
+  M09 has no springboard. Load-bearing.
+- **M09.¶1–¶6**: each needed (pause; the pair; promise-as-installation; inherited field;
+  script; medicine). Load-bearing. Within ¶2, the **final sentence** ("Together they are how
+  a world of contrasts becomes a life with things to do.") is a summary closer duplicating
+  the chiasmus immediately before it ("Difference gives commitment its possibilities;
+  commitment gives difference a direction and a cost."). Delete-test on the sentence alone:
+  nothing breaks. `M09.¶2 (final sentence) · F8 · slogan closer · cut or fuse into the
+  chiasmus`.
+- **M09.¶7** (Gebser/shared field): deleted, M10's "determination that keeps its contrasts"
+  question has no home and the shared-field condition never gets stated. Load-bearing.
+- **M10.¶1–¶8**: all load-bearing; ¶5's five operations are the comparative criterion
+  itself. No deletion survives.
+- **M11.¶1**: load-bearing (boundedness + the sixfold declaration).
+- **M11.¶2, ¶3**: load-bearing (the descent; the kañcukas).
+- **M11.¶4**: **weakest paragraph under the test.** Its positivity work duplicates ¶1
+  ("not defects awaiting removal" vs "This hour can be devoted to something because it has
+  a boundary"); its unique load is threefold — the usurpation seed ("a received share claims
+  the authority of the whole"), the lattice image, and the hour/promise ties. Deletion would
+  break ¶5's "usurpation, not boundedness" and lose the tradition's own image. Verdict:
+  keep, but compress the duplicated positivity argument (¶1's work, restated) — the repair
+  is de-duplication, not deletion.
+- **M11.¶5, ¶6, ¶7**: load-bearing (usurpation doctrine; nirvikalpa boundary; the C/U
+  distinction and crossed zero). ¶6's final sentence carries the garbled apposition
+  registered in Part 1 — its *content* is required (returns through, not away), its current
+  wording is broken.
+- **M12.¶1–¶8**: load-bearing; ¶3 (pramāṇa warrant) is the one paragraph a lazy compressor
+  would cut, and cutting it would detach the essay's later warrant-discipline from its Śaiva
+  ground. Keep.
+- Within **M12.¶6**, the final clause "there is always more life than means" is a candidate
+  closer: delete-test says nothing downstream depends on it, but it does compress the
+  paragraph's model-finitude point. Borderline; flag for the cadence pass, not as a fault.
 
-## Thinker-presence test (remove surname)
-
-- **Dyczkowski:** Remove the surname → *prakāśa* / *vimarśa*, mirror-regress, blue/yellow, memory offices remain. **Pass** for conceptual absorption. Risk: footnotes still make him the sole modern expository warrant for large stretches.
-- **Abhinavagupta:** Remove the surname → *Parātrīśikā-vivaraṇa* and fourfold Vāk operations partly remain as paraphrase. **Borderline pass** on operations; native level-names (*Parā*, *Paśyantī*, *madhyamā*, *vaikharī*) are gone, so tradition-specific texture thins.
-- **Singh:** Body never uses the surname; only “mediating labour of its modern English commentary.” Remove that phrase → **nothing Singh-specific remains**. **Fail F6 / content-gate absorb.** Encounter through Singh is not enacted.
-- **Buddhist apoha (Pind / Dignāga / apoha sources):** Remove surnames → exclusion, positive referent, contrastive determination remain. **Pass.** Bāhiya quote still fails bank verification independently.
-
----
-
-## Rhythm test (section-wide)
-
-- **Short uniform runs:** Mid-section paragraphs often share one template: concrete micro-scene → definitional Sanskrit or technical term → corrective antithesis → simile closer. Especially dense in M07–M09.
-- **Thesis / qualification / example / closer:** Recurs until predictable (medicine, map, score, rented room, aperture, clerk, crystal, weave, ink/seal).
-- **Slogan endings:** “Adequacy names a criterion…,” “Recognition frees these means…,” “The contemplation ends in activity…” — earned content, slogan *shape*.
-- **Abstract-subject openings:** “What the call has pressed…,” “Speech follows…,” “Memory presses…,” “Together these pressures…,” “Descent orders…”
-- **Not-X-but-Y / neither-nor rhythm:** High density of legitimate operational distinctions *and* protective scaffolding; several survive delete-test of the negative clause (see G7/F2 rows below).
-- **Lists as fake comprehensiveness:** M11 kañcuka inventory is warranted; M12 means-list and Huayan jewel-net paragraph risk F9 (many images before one claim finishes).
-
-**Restructuring required (do not edit here):** break the call’s monopoly by giving memory, intention, OI, and recognition distinct carriers; vary paragraph architecture so definitional teaching and living judgment do not alternate on a metronome; lead with positive operations and retain negation only where a named doctrine or recurrent mistake is on the table; cut or relocate dossier paragraphs (Bergson/Whitehead/Gebser, long Huayan) so they earn by changing the next act of argument.
-
----
-
-## Movement-boundary checks (file reopened while judging)
-
-### Boundary §0/1 → M07
-**Reopened:** `movements/07-s0-p0-awareness-bends-display.md`  
-**Proposition:** first differentiation = reflexive bend; luminosity and self-recognition one dynamism; slash as activity.  
-**Prose:** preamble receives threshold intimacy; call enacts address before terms. **Match.** Bohm kept neighbouring.  
-**Outgoing owed:** articulable apparatus → M08. **Soft miss:** M07 closes on vortex/luminous relation, not on the need for an instrument; the error-correctability beat was moved earlier, so the handoff to *antaḥkaraṇa* is weaker than the movement file’s transition.
-
-### Boundary M07 → M08
-**Reopened:** `movements/08-s0-p1-inner-instrument.md`  
-**Proposition:** *buddhi* / *ahaṃkāra* / *manas* as determinate functions; subject as pole; instrument ≠ knower.  
-**Prose:** mishearing opens; functions taught; triad and Bāhiya present. **Match** on claim.  
-**Outgoing owed:** operations become world-making in vikalpa/saṃkalpa. **Soft miss:** M08 ends on “inner” as means, without pressing the pulse that will form a course.
-
-### Boundary M08 → M09
-**Reopened:** `movements/09-s0-p2-vikalpa-samkalpa.md`  
-**Proposition:** vikalpa differentiates; saṃkalpa composes; inherited field → cut → selection → revised field; script = frozen conditioned will.  
-**Prose:** pause/alternatives; pairing; promise; habit/script; medicine. **Strong match.** Closing sentence on exclusion **hands cleanly** to M10.
-
-### Boundary M09 → M10
-**Reopened:** `movements/10-s0-p3-apoha.md`  
-**Proposition:** determination through exclusion; contrast remains constitutive; keep traditions distinct; computational payoff withheld.  
-**Prose:** promise/apoha/Pind; positive referent; five pressures; proprietor retained; Huayan. **Match** on semantic force and comparative decision. Softmax correctly absent.  
-**Outgoing owed:** full contraction / sixfold. Handled by “limits… inhabitable world” → M11. **OK.**
-
-### Boundary M10 → M11
-**Reopened:** `movements/11-s0-p4-tattvic-compression.md`  
-**Proposition:** thirty-six as six turns; Māyā/kañcukas/antaḥkaraṇa/recognition; sixfold is a reading not tradition identity.  
-**Prose:** six turns + crossed-zero architecture stated; tattvic sequence; nirvikalpa ≠ recognition; consciousness directions. **Strong match** to claim and recon priority on crossed zero.  
-**Outgoing owed:** Objective Internality. Final M11 paragraph prepares constitution-in-view. **OK.**
-
-### Boundary M11 → M12
-**Reopened:** `movements/12-s0-p5-objective-internality.md`  
-**Proposition:** OI = constituted means; internal + objective; *pramātṛ* / *pramāṇa* / *prameya*; paradigm; agentworld inspectability without settling phenomenality.  
-**Prose:** means named; revoked permission; triad of offices; paradigm; artificial agency. **Match.** Release toward historical zero in closing questions. **OK.**
+No paragraph is connective padding, empty summary, or pure duplication. The one partial
+duplication is M11.¶1 ↔ M11.¶4 (positivity of limits).
 
 ---
 
-## Paragraph-by-paragraph G1–G10 audit
-
-Form: `location · gate/fault · exact phrase · failure · repair direction`  
-Delete-test noted after each block or in-line where removal is inert.
-
-### Preamble (before M07)
-
-1. **§0 opening ¶** · G8/G1 · “The defining recognition at the threshold left an intimacy that no improved description of means could manufacture.” · Receives prior station and states burden; comparative negation (“without mistaking… without discarding…”) is operational. · **Hold.** Delete-test: loses section wager. **Keep.**
-
-### M07 — Awareness becomes articulate
-
-2. **Call scene ¶1** · G1/G2 · “The call does not first deliver a packet of information which I then decide to interpret; it reorganises the field…” · Enacts address; actor clear. Negation answers a real packet-model. · **Hold.** Delete-test: loses enactment of the problem. **Keep.**
-
-3. **Inventory/knowing ¶2** · G1/G7 · “An inventory of sounds and shapes leaves the encounter unexplained.” · Warranted; clerk simile teaches. · **Hold.** Delete-test: loses knowing-already-in-materials. **Keep.**
-
-4. **Error inside the work ¶3** · G3/G4 · “without pretending that a sharper ear alone will undo an identification…” · Advances correctability; anticipates M08. Slight early load of instrument theme. · **Hold with note.** Delete-test: weakens path to means; still partly duplicated at M08 open. **Tighten overlap with M08 ¶1.**
-
-5. **prakāśa / vimarśa ¶4** · G6/F1 risk · “The Kashmiri account calls these powers *prakāśa* and *vimarśa*” · Terms taught after pressure; crystal simile. Copula of “calls” is attribution, not fraud. · **Hold.** Delete-test: loses named dynamism. **Keep.** Footing: Dyczkowski ranges are transcript-level.
-
-6. **Mirror regress ¶5** · G1 · “A further mirror announcing that I have heard would only postpone the demand.” · Regress argued. · **Hold.** Delete-test: loses anti-second-observer. **Keep.**
-
-7. **Blue/yellow ¶6** · G1 · “Awareness holds them by differentiating them” · Detail preserved. Hand/weave simile. · **Hold.** Delete-test: loses determinate unity. **Keep.**
-
-8. **Memory offices ¶7** · G1/G5 · “Retention, recollection, and recomposition… do different work.” · Strong. “forgery that borrows the seal of time” — F10-adjacent flourish but local. · **Hold.** Delete-test: loses temporal knowing later needed for M10. **Keep.**
-
-9. **Vāk / Abhinavagupta ¶8** · F5/F6 · “The problem and the terms survive even if the surnames fall away” · **Tour-guide** of the thinker-presence test; Singh unnamed; level-names dropped; house not quotation-ready. · **Fail.** Delete-test of the surname-sentence: argument survives → cut that sentence. Restore Singh’s distinct mediating office or drop empty appeal to “commentary.” Re-teach fourfold with names if they must bear weight.
-
-10. **Address / I–you–it ¶9** · G1 · “The reply changes the basis on which the portrait was made” · Enacts response altering warrant. · **Hold.** Delete-test: loses address consequence. **Keep.**
-
-11. **Bohm vortex ¶10** · G9 · “They do not prove the Śaiva ontology.” · Proper boundary; thin as closing beat. · **Hold lightly.** Delete-test: loses neighbouring register; section still stands. **Relocate or shorten so M07 exits toward instrument, not vortex.**
-
-### M08 — The inner instrument
-
-12. **Mishearing open ¶1** · G8/G3 · “Immediate appearing and knowing remain what they were in the call; what must now be distinguished is the constituted apparatus” · Clear dependency. · **Hold.** Delete-test: loses M08 stake. **Keep.**
-
-13. **Antaḥkaraṇa anatomy ¶2** · G6 · “Judgment, appropriation, and coordination—the classical inner instrument” · Functions taught; Sāṃkhya distinction marked. · **Hold.** Delete-test: loses anatomy. **Keep.**
-
-14. **Co-active functions ¶3** · G1 · “No little judge has to sit behind these functions” · Blocks regress. · **Hold.** Delete-test: loses anti-meta-instrument. **Keep.**
-
-15. **Ahaṃkāra ≠ Subjective Immediacy ¶4** · G5/G7 · “Those determinations are known; their possessive grammar does not make them the knower.” · Operational distinction. · **Hold.** Delete-test: loses pole/means split. **Keep.**
-
-16. **Yogasūtra ¶5** · G9/F9 risk · Lists concentration/meditation/absorption offices. · Partly dossier; “specimen for description” negation earns. · **Borderline.** Delete-test: Yoga warrant thins; core anatomy survives. **Compress to the discrimination that changes bondage/release.**
-
-17. **Triad: state / account / recognition ¶6** · G1/content-gate · Full triad enacted on the call. · **Hold — load-bearing.** Delete-test: breaks recognition gate. **Keep.**
-
-18. **Technique as substitute end ¶7** · G1 · “What is recognised cannot be an object manufactured by the preparation.” · **Hold.** Delete-test: loses technique-end warning. **Keep.**
-
-19. **Bāhiya ¶8** · Quotation fail / G1 · “In the seen will be merely what is seen.” · Practical force good; **no source house to verify quote.** · **Fail.** Delete-test of quote only: paraphrase possible; keep Buddhist release distinct after acquiring house. **Install SOURCE.md + verify wording/locator, or paraphrase without marks.**
-
-20. **Inner not sealed ¶9** · G5 · “The word *inner* cannot mean sealed off…” · **Hold.** Delete-test: loses OI foreshadow. **Keep.**
-
-### M09 — An alternative becomes a course
-
-21. **Pause / grip ¶1** · G2 · “Something must gather the relevant differences into an intention” · **Hold.** Delete-test: loses M09 stake. **Keep.**
-
-22. **Vikalpa / saṃkalpa ¶2** · G6 · “Differentiation gives commitment its possibilities; commitment gives differentiation a direction and a cost.” · **Hold.** Delete-test: loses pairing. **Keep.**
-
-23. **Promise changes field ¶3** · G1 · “An intention has entered the world as a condition of further intention” · **Hold.** Delete-test: loses world-entry. **Keep.**
-
-24. **Inherited exclusions / fidelity ¶4** · G1 · “Fidelity answers the purpose, not merely the retained wording.” · Negation earns. · **Hold.** Delete-test: loses responsible inheritance. **Keep.**
-
-25. **Script ¶5** · G1/F1 · “This is script in its strict sense: conditioned will whose conditions have become unavailable” · Term established in act. · **Hold.** Delete-test: loses A07 office. **Keep.**
-
-26. **Replace formula ¶6** · G7 · “*This person is accusing me* might be replaced by…” · Shows deaf correction. · **Hold.** Delete-test: loses anti-slogan repair. **Keep.**
-
-27. **Thought as medicine ¶7** · G1 · “Its success is a reopened encounter, not perpetual repetition” · **Hold.** Delete-test: loses releasability. **Keep.**
-
-28. **Patañjali / MacCracken boundary ¶8** · G9 · “It does not attribute the entire pairing to a shared doctrine across schools.” · Good claim-boundary; slightly tour-like. · **Hold.** Delete-test: loses school-boundary; keep shortened. **Keep trimmed.**
-
-29. **Bergson melody ¶9** · F9/G9 · “A later note in a melody changes what the phrase has become” · Image works; paragraph is optional enrichment. · **Weak.** Delete-test: **almost nothing breaks** in §0’s native chain. **Cut or make it change the next claim.**
-
-30. **Whitehead occasion ¶10** · F9/G9 · “An occasion’s becoming can reach a determinate satisfaction…” · Tacit Whitehead; abstract. · **Weak.** Delete-test: **little breaks.** **Cut or bind to promise’s inheritance already stated.**
-
-31. **Gebser / impartiality ¶11** · G1 · “A standpoint may profess impartiality while leaving its investment…” · Locally useful for context power. · **Hold lightly.** Delete-test: loses power-over-answer beat; recoverable later. **Keep one concrete sentence; drop survey tone.**
-
-32. **Openness discipline / handoff ¶12** · G3 · “the chosen course must disclose what its positive shape owes to what it has excluded.” · Excellent M10 handoff. · **Hold.** Delete-test: weakens apoha entry. **Keep.**
-
-### M10 — Exclusion within the positive
-
-33. **Promise vs prediction ¶1** · G1 · “Remove those contrasts, and the same sounds no longer carry a determinate commitment” · **Hold.** Delete-test: loses apoha setup. **Keep.**
-
-34. **Apoha / Pind ¶2** · G6 · “Its application is determined through exclusion of what does not answer to it.” · **Hold.** Prefer closer tie to house wording if quoting. Delete-test: loses semantic form. **Keep.**
-
-35. **Positive referent ¶3** · G1 · “Positive particulars are already within the Buddhist account.” · **Hold — load-bearing against straw Buddhism.** Delete-test: breaks critique fairness. **Keep.** Mark provisional fragment attribution in body if leaned on.
-
-36. **not non-pot ¶4** · G6/F4 · “The formulation *not non-pot* must be read at the right level.” · Logical vs semantic levels taught; **locator not quotation-ready.** · **Fail soft.** Delete-test: double-negation lesson thins. **Cite verified card or paraphrase without pseudo-lemma.**
-
-37. **Command vs promise ¶5** · G1 · “A command and a promise can result in the same outward conduct…” · **Hold.** Delete-test: loses exclusion’s practical force. **Keep.**
-
-38. **Memory as recollection ¶6** · G1 · “What is present now is apprehended as referring to what is no longer present.” · Experient office. · **Hold.** Delete-test: breaks memory pressure. **Keep.**
-
-39. **Comparison ¶7** · G1 · “Reflexive awareness gives the differentiating unity a positive office.” · **Hold.** Delete-test: breaks comparison pressure. **Keep.**
-
-40. **Absence ¶8** · G1 · “Absence belongs to a positive field of relations” · **Hold.** Delete-test: breaks absence pressure. **Keep.**
-
-41. **Action / agency ¶9** · G1 · “Knowing and acting are powers of the experient.” · **Hold.** Delete-test: breaks intention/action pressure. · **Keep.**
-
-42. **Arising/perishing ¶10** · G1 · “Arising and perishing are appearances of change…” · **Hold.** Delete-test: breaks manifestation/change pressure. **Keep.**
-
-43. **Comparative preference ¶11** · G1/content-gate · “For the field examined here, this is the more adequate account… Adequacy names a criterion…” · **Hold — load-bearing.** Delete-test: loses comparative judgment. **Keep.**
-
-44. **Proprietor retained ¶12** · G1/content-gate · “The Buddhist criticism of the fabricated proprietor remains binding” · Watson kept as pressure not quote. · **Hold.** Delete-test: loses binding critique. **Keep.**
-
-45. **Huayan jewel net ¶13** · F9/G4 · Long multi-question contemplation. · Rich; **over-long for one movement**; risks burying comparative close. · **Fail soft.** Delete-test: mutual-inclusion image thins; comparative decision already stated. **Halve; one jewel + one limit (optical vs taught interpenetration).**
-
-46. **Traditions meet / limits ¶14** · G8 · “how can a whole act through distinctions it continues to need?” · Bridges to measure. · **Hold.** Delete-test: softens M11 entry. **Keep.**
-
-### M11 — The world takes measure
-
-47. **Finite differences ¶1** · G1 · “Differentiation needs an ordered anatomy” · **Hold.** Delete-test: loses M11 stake. **Keep.**
-
-48. **Six turns + crossed zero ¶2** · G1/content-gate · “The same field read in two directions is the crossed movement this section requires” · Architecture recovered. · **Hold — load-bearing.** Delete-test: loses crossed-zero. **Keep.** Guard against “not a slogan…” as F5; the enactment already proves it.
-
-49. **Anuttara ¶3** · G1 · “It cannot be placed above them as a largest object” · **Hold.** Delete-test: loses opening. **Keep.**
-
-50. **Śiva–Śakti ¶4** · G1 · “Manifestation is consciousness becoming determinate…” · **Hold.** Delete-test: loses first difference. **Keep.**
-
-51. **Sadāśiva–Īśvara ¶5** · G5/G7 · “They do not describe an ego claiming the universe as its property.” · Named misreading blocked. · **Hold.** Delete-test: loses universal vs finite appropriation. **Keep.**
-
-52. **Sadvidyā–Māyā ¶6** · G1 · “Māyā gives measure to manifestation.” · **Hold.** Delete-test: loses measure. **Keep.**
-
-53. **Kañcukas ¶7** · G4/G9 · Five contractions listed with distinct offices. · Earns as anatomy, not fake list. · **Hold.** Delete-test: loses finite powers. **Keep.**
-
-54. **Bounded puruṣa / lower ¶8** · G1 · “Keeping only cognition would omit the means…” · **Hold.** Delete-test: loses embodiment. **Keep.**
-
-55. **Share of time ¶9** · G1/F10 · “when the rented room pretends to own the building” · Image earns. · **Hold.** Delete-test: loses apportionment. **Keep.**
-
-56. **Frame / horizon ¶10** · G1 · “The frame usurps the horizon when…” · **Hold.** Delete-test: loses Māyā figure. **Keep.**
-
-57. **Dream ¶11** · G1 · “Waking changes the relation of the experienced world to its condition” · **Hold.** Delete-test: loses experience/status distinction. **Keep.**
-
-58. **Nirvikalpa ≠ recognition ¶12** · G1/content-gate · “Non-conceptuality alone does not establish recognition.” · **Hold.** Delete-test: conflation returns. **Keep.**
-
-59. **Pratyabhijñā ¶13** · G1 · “I recognise finite capacities as modes of a power they never independently originated.” · **Hold.** Delete-test: loses recognition return. **Keep.**
-
-60. **Conscious / Consciousness ¶14** · G5/content-gate · “Bringing a motive into view and recognising the condition of the view are different operations.” · **Hold — load-bearing.** Delete-test: breaks directional gate. **Keep.**
-
-61. **Descent / return close ¶15** · G8 · “provided the constitution through which the judgment proceeds can itself come into view” · Handoff to M12. · **Hold.** Delete-test: weakens OI entry. **Keep.**
-
-### M12 — Objective Internality
-
-62. **OI named ¶1** · G1/F1 watch · “is what this inquiry calls **Objective Internality**—earned here…” · Name arrives after work; anti-prior-definition marked. · **Hold.** Delete-test: loses definitional landing. **Keep.**
-
-63. **Internality / Objective ¶2** · G5 · Two words retain different work. · **Hold.** Delete-test: loses term discipline. **Keep.**
-
-64. **Revoked permission ¶3** · G2 · Concrete constitution vs description. · **Hold.** Delete-test: loses best OI example. **Keep.**
-
-65. **Promise account vs conduct ¶4** · G1 · “The relation has to return into conduct.” · **Hold.** Delete-test: loses enactment test. **Keep.**
-
-66. **pramātṛ / pramāṇa / prameya ¶5** · G6 · Offices taught. · **Hold.** Delete-test: loses triad. **Keep.**
-
-67. **Relational offices ¶6** · G1 · “An inventory of examinable operations does not acquire Subjective Immediacy’s office by accumulation.” · **Hold.** Delete-test: loses anti-inventory. **Keep.**
-
-68. **Pramāṇa as warrant ¶7** · G1 · “An occurrence within the means is not automatically valid knowledge.” · **Hold.** Delete-test: loses warrant question. **Keep.**
-
-69. **Paradigm ¶8** · G1 · “Someone can profess a new view while acting from the old distribution…” · **Hold.** Delete-test: loses paradigm vs worldview. **Keep.**
-
-70. **Model limits ¶9** · G1 · “Treating the corrections presently representable in a model as the only possible corrections makes that model’s limits sovereign.” · **Hold.** Delete-test: loses reflexivity guard. **Keep.**
-
-71. **Artificial agency ¶10** · G9 · Phenomenality left open. · **Hold.** Delete-test: loses Agentworld bridge; section’s philosophy still stands. **Keep for venue; do not let it redefine OI.**
-
-72. **Organising agent world ¶11** · G1 · “An objection which revises the relevant permission… has altered the operative world.” · **Hold.** Delete-test: loses technical payoff. **Keep.**
-
-73. **Undertaking’s field ¶12** · G4 · Somewhat recapitulates M09–M10. · **Borderline.** Delete-test: **little new**; closing already returns call→promise. · **Cut or fuse with final ¶.**
-
-74. **Call→promise→zero questions ¶13** · G8 · Opens §1. · **Hold.** Delete-test: loses station release. **Keep.** Slight F8 twinning with ¶12 (“Recognition restores dependence…” repeated). **Deduplicate.**
+## 3. Room reopened at movement boundaries
+
+At each boundary I reopened the movement file and the canonical alignment row, and compared
+the prose to the movement's actual proposition and outgoing consequence.
+
+- **M07 boundary** (`07-s0-p0-awareness-bends-display.md`; P1: M07 → A01/A05/A26, C01/C13/C41,
+  "the slash is activity before it is a separator"). Compared: the movement's claim (the
+  reflexive bend), warrant (Prakāśa-Vimarśa as one non-dual dynamism; Bohm's process burden),
+  and anchor. The prose carries the bend as the address event; the slash-as-activity is
+  never stated but is performed ("the light bending back on what it shows"; "the cut that
+  makes a he, a she, an it, does not seal the cut"). The movement's outgoing —
+  "Differentiation requires an articulable apparatus, addressed by #1" — is the draft's
+  closing sentence. Match. The movement's tension (no machine attribution) is kept.
+- **M08 boundary** (`08-s0-p1-inner-instrument.md`; P1: M08 → A09/A26, C15/C16/C41; lock
+  C16 ≠ C01). Compared: functions as determinate internal operations available to reflection;
+  subject remains the pole. The draft's ¶4 enacts the lock ("it remains the means, never the
+  subject for whom the means and their revision appear"). The movement's outgoing — "Its
+  operations become world-making in #2" — is the draft's closing question. The movement's
+  tension (functional correspondence ≠ ontological equivalence with a computational stack)
+  is deferred, not violated: the computational material appears once, at M12.¶7, with the
+  boundary stated. Match.
+- **M09 boundary** (`09-s0-p2-vikalpa-samkalpa.md`; P1: M09 → A07/A09, C12/C17; Script =
+  frozen conditioned will). Compared: the pulse thesis, the anti-container clause, the
+  process-ontology warrant, the computational bridge and its open question. The draft keeps
+  the anti-container clause (canonical bearing), carries script strictly (¶5), and defers
+  the computational claim-boundary to M12 rather than staging it here — an acceptable
+  redistribution, since M12.¶7 states the boundary the movement requires ("Conscious willing
+  would require the further warrant of a lived subject-pole" ≈ "Whether phenomenal
+  Subjective Immediacy accompanies such a process remains a separate question"). Bergson's
+  snapshot-guard is absent by name; its work is done at M10.¶5 ("sealing each into a
+  self-sufficient instant leaves it unexplained"). Match, with the Bergson loss noted in
+  Part 7.
+- **M10 boundary** (`10-s0-p3-apoha.md`; P1: M10 → A08, C03/C18/C23; "Buddhist Apoha
+  remains source-distinct from technical neighbours"). Compared: apoha's own historical
+  force; the double-negative non-collapse; the deliberate withholding of the computational
+  payoff; Huayan brought in with traditions distinguishable; Pind's two passages in distinct
+  offices. All present; the withholding is honoured — no softmax or argmax appears in §0.
+  The movement's "Pind's two passages... retain distinct evidential offices" is enacted
+  (¶2 primary formulation; ¶3 qualification, with the provisional SPVy attribution
+  correctly hedged as "a fragment to the effect that"). Match — this is the draft's
+  strongest boundary compliance.
+- **M11 boundary** (`11-s0-p4-tattvic-compression.md`; P1: M11 → A09, C14/C15/C16/C17;
+  "sixfold compression is a reading, not source-tradition identity"). Compared: six turns as
+  declared (Paramaśiva/Anuttara; Śiva–Śakti; Sadāśiva–Īśvara; Sadvidyā–Māyā; kañcukas +
+  contracted apparatus; Pratyabhijñā); runtime cartography; compression-preserves-provenance
+  tension. The draft carries all six turns in order, states the compression boundary in
+  prose ("without pretending to replace the tradition's list"), and lands recognition
+  (Pratyabhijñā) "through the achieved world instead of away from it" — the movement's
+  "Recognition returns the runtime to its ground without deleting the world it made."
+  The movement's Bohm reading of the tattvas (implicate as ordered capacity) is not
+  restated here; acceptable, since M07.¶9 already carries the appointed Bohm operation and
+  P1 does not require it at M11. Match.
+- **M12 boundary** (`12-s0-p5-objective-internality.md`; P1: M12 → A26, C07/C08/C40/C41/C57;
+  "general Objective Internality"). Compared: the claim (constituted means, neither private
+  interior substance nor the Subject), the tattvic genealogy's subordinate office, paradigm,
+  artificial agency as inspectable instance, the two tension guards. The draft's ¶1–¶2, ¶6,
+  ¶7 and both guards ("a means would again be claiming the whole"; "functional richness does
+  not settle it") correspond. The movement's outgoing question — "how did a sign capable of
+  carrying the uncounted condition become operational?" — is the draft's 205 ending. Match.
+- **Section release** (P1: "§0 hands §1 a differentiated operative world whose measures can
+  now be historically and formally tracked through the advent of zero."): the ending's
+  numeral question is exactly this hand-off. Genuine.
 
 ---
 
-## Fault catalogue search (F1–F10)
+## 4. Thinker-presence test
 
-| Code | Present? | Strongest sites |
-|---|---|---|
-| F1 Copula fraud | Mild | OI “is what this inquiry calls…” rescued by “earned here”; script definition mostly operational. |
-| F2 Reflexive antithesis | Yes | Multiple protective “not merely / does not / rather”; some earn (proprietor, packet-model); some survive deletion of the negative. |
-| F3 Nouned abstraction | Mild | “Objective Internality,” “script” taught before lean; “crossed movement” asserted then enacted. |
-| F4 Sequence inversion | Mild | *not non-pot* before verified card; Vāk surnames-test before Singh office. |
-| F5 Tour-guide | **Yes** | “surnames fall away”; “not a slogan laid over the anatomy”; occasional “must be kept apart” staging. |
-| F6 Imported erudition | **Yes** | Singh empty; Bāhiya quote unverified in bank; Bergson/Whitehead optional paragraphs; Dyczkowski range-citation beyond edition-ready quotes. |
-| F7 Ungenerous opening | No | Preamble + call receive threshold. |
-| F8 Machine cadence | **Yes** | Simile-closer metronome; abstract-subject openings; repeated antithetical cadence across M07–M10. |
-| F9 Listing under compression | Yes | Huayan ¶; Yoga offices; optional process-thinker run in M09. |
-| F10 Prefabricated language | Mild–yes | Medicine/score/map/room cluster; “packet of information.” |
+Method: remove the name; ask whether the actual problem, terminology or intellectual
+operation vanishes too.
 
----
+- **Dyczkowski** (M07.¶4–¶6): removing his name removes the mirror/crystal development,
+  "appearing unknown to anyone", the regress, and the Spanda-exposition framing. The
+  operation attributed ("whose exposition of the Spanda tradition carries this account into
+  English") is accurate to the house. **Pass.** One caution: the crystal-display elaboration
+  ("A crystal displays a colour; the display, however perfect, is not an experience") is
+  more specific than the recovered transcript's one-clause "mirror or crystal"; the
+  development is in his spirit and within his pp. 60–81 range, but it is the essay's
+  unpacking — consider one framing word ("as he puts it" / "to spell the image out").
+- **Abhinavagupta / Singh** (M07.¶8): removing the names removes the persons-as-stations
+  reading and the stations' interconversion — the paragraph's actual operation. **Pass**,
+  with the layering fault registered in Part 1 (the votive example belongs to Singh's
+  introduction, not the vivaraṇa).
+- **Dignāga / Pind / Buddhist semantics** (M10): removing the names removes the
+  real-universal problem, the exclusion doctrine, both qualifications, and the saṃskāra
+  theory. The Buddhist position is stated at its strongest before being pressed — no
+  homogeneous "Buddhist" foil anywhere in the draft. **Pass.**
+- **Gay Watson / Taylor's response** (M10.¶7): the distinction is attributed jointly
+  ("Gay Watson's Buddhist and psychotherapeutic inquiry, and Taylor's response to it, make
+  the decisive distinction explicit"), which respects the house's claim boundary — Watson
+  is not made to endorse the essay's inference, and nothing is quoted. The operation (self
+  vs Self, selfing, the experient) is present in the encounter material. **Pass.**
+- **Bāhiya / the Buddha** (M08.¶9, M10.¶7): the instruction's actual operation — loosening
+  appropriation around whatever appears — is present and is used as the critique's standing
+  proof. **Pass.**
+- **Bohm** (M07.¶9): removing the name removes the vortex-as-formed-identity operation; the
+  paragraph's whole point is the boundary (physical pattern ≠ being-known). **Pass** — and
+  the recon's appointed sparseness is respected.
+- **Gebser** (M09.¶7): removing the name removes the transparency-of-perspective operation.
+  **Pass**, with the "studies ... exactly" wording fault registered in Part 1.
+- **Whitehead** (unnamed, by appointment): formation-satisfaction-inheritance is enacted
+  ("the result can disclose a failure the resolve never noticed"; "An intention has entered
+  the world as a condition of further intention") without a survey paragraph. **Pass.**
 
-## Delete-test summary (paragraphs whose removal changes little)
-
-- M09 Bergson melody ¶  
-- M09 Whitehead occasion ¶  
-- M07 Bohm close (partial; neighbouring only)  
-- M12 recapitulation ¶12 (overlaps final)  
-- M07 “surnames fall away” sentence (meta)  
-- Parts of M08 Yoga inventory beyond discrimination-for-release  
-
----
-
-## Verdict rationale
-
-Content gates on address, comparative reasons, Buddhist retention with positive offices, knowing/instrument, conscious/Consciousness, OI, and the recognition triad largely **hold**. Length on body prose **passes**.
-
-Rejection is required because **not every gate holds** and required checks fail:
-
-1. **Singh conceptual absorption fails** the thinker-presence / absorb gate.  
-2. **Bāhiya direct quotation** has **no source house** against which to verify.  
-3. **F5/F6/F8** are load-bearing enough that a cold pass cannot treat the draft as ready for writer-only polish: surname-test narration, optional dossier paragraphs, and cadence must be rebuilt in another section revision pass.  
-4. **M07→M08 handoff** under-delivers the movement file’s outgoing consequence (apparatus), even though M08 recovers.
-
----
-
-## Five most load-bearing faults (with locations)
-
-1. **M08 Bāhiya ¶ — quotation unverifiable** — “In the seen will be merely what is seen.” — no Ireland/Udāna `SOURCE.md`; cannot certify.  
-2. **M07 Vāk ¶ — F5/F6 Singh miss** — “survive even if the surnames fall away” / “mediating labour of its modern English commentary” — narrates absorption while Singh’s office vanishes.  
-3. **M10 Huayan ¶ — F9** — jewel-net multi-question block — buries the comparative close under contemplation length.  
-4. **Section rhythm — F8** — M07–M09 simile-closer + antithesis template — reader feels curriculum blocks more than inquiry turns.  
-5. **M09 Bergson/Whitehead ¶¶ — delete-test fail** — melody / occasion paragraphs — removal changes almost nothing in the native §0 chain.
+No F6 failure found. The two attribution-hygiene faults are the votive's layer (M07.¶8) and
+"what the tradition calls" (M10.¶6).
 
 ---
 
-## Length percentage (governing)
+## 5. Source / quotation check
 
-**DRAFT-2 = 97.62% of enrichment SECTION body prose** (headings and Notes excluded).
+- **The one direct quotation** is the Bāhiya clause. Expected and found as the section's
+  only quotation-marked external text. Verification trail: the sovereign manuscript's
+  receipt records Udāna 1.10, John D. Ireland translation (Buddhist Publication Society,
+  1997; accesstoinsight), with the wording and capitalisation checked, and an explicit
+  correction that the quotation must begin with the source's capital — **"In the seen will
+  be merely what is seen."** DRAFT-2 prints: `the Buddha trains him so that "in the seen
+  will be merely what is seen"` — lowercase *in*, a regression of an already-corrected
+  fault. `DRAFT-2, M08.¶9 · quotation fidelity · "in the seen will be merely what is seen"
+  · source reads "In..." (capital) · restore the capital`.
+  Related bank debt (not this draft's doing, but to name): **no source house record exists
+  for Udāna 1.10 / the Ireland translation** — the quotation rests on the manuscript's
+  footnote and a receipt note, not on a house file in the bank. Name the debt and keep
+  retrieving; do not manufacture a record in passing.
+- **Pind** (`pind-2009-dignaga-anyapoha-dissertation`): ¶2's clause matches q001 (PSV
+  V:11d, p. 85); ¶3's positive-referent qualification matches q002 (annotation 181, p.
+  183), and the provisional SPVy attribution is correctly carried ("a fragment to the
+  effect that", "the fragment adds"). Two near-verbatim renderings printed without
+  quotation marks — see the flag at M10.¶2.
+- **Dyczkowski** (`dyczkowski-2000-doctrine-vibration`, transcript pp. 60–81 incorporated
+  in the house): mirror/crystal and "no more than the mere appearing of phenomena unknown
+  to anyone" (p. 70); infinite regress (p. 64); blue/yellow homogeneity horn and the denial
+  of a formless witness set apart (p. 65); retention/recollection/imagination (p. 71);
+  Vedānta contrast and momentariness-for-outer-objectivity (p. 79); lattice window (p. 65);
+  pramātṛ/pramāṇa/prameya and pramā (p. 63). All claims fall inside the recovered range;
+  nothing leans on the unavailable pp. 82+. All uses are paraphrase, not quotation —
+  consistent with the house's `source-matched` status. Two wording-echo flags (M07.¶4,
+  M10.¶2) and one embellishment flag (M11.¶4 "coloured patches").
+- **Singh / Abhinavagupta** (`abhinavagupta-singh-1988-paratrisika-vivarana`): no
+  quotation used — correct, since the house holds catalogue metadata plus notebooks only.
+  The persons-as-stations claim is consistent with the house's declared contribution ("the
+  three grammatical persons, manifestation"); the "You, O Mountains" votive is verified in
+  the P2/P3 notebook record as **Singh's introduction's example** — hence the M07.¶8
+  layering fault.
+- **Sāṃkhya** (`isvarakrishna-colebrooke-wilson-1837-sankhya-karika`): "the Sāṃkhya source
+  says ascertainment" verified ("ASCERTAINMENT is intellect"); puruṣa-as-witness vs the
+  three functions verified in the house's own framing. Accurate.
+- **Huayan** (`dushun-cleary-2000-jewel-net-indra`): southwest entry (513a28–513b21), ink
+  dot (513b21–513c3), image-limit qualification — "images enter one another while the
+  jewels' material substances remain distinct" (513c4–10), Vairocana's closing activity
+  (513c11–18). Every specific in M10.¶8 checks, including the source's own limit on its
+  simile. Exemplary.
+- **Taylor's notebooks** (internal corpus): the technique/means observation is present in
+  the P2 Parātrīśikā notebook ("the technique itself *replaces agency with means*..."), so
+  M08.¶8's attribution — explicitly marked "his response to them, not Abhinavagupta's
+  doctrine" — is sound. M09.¶6's medicine formulation is footnoted in the sovereign
+  manuscript to named internal documents; DRAFT-2's vaguer "Taylor's working notes,
+  verifiable in the case at hand" is the register slip flagged at Part 1, not a provenance
+  error.
+- **Watson** (`watson-1998-resonance-of-emptiness`): nothing quoted; the joint attribution
+  respects the boundary that her book, the thesis and Taylor's responses have different
+  collation states. **Pass.**
+- **Gebser**: no primary house exists; scholarly warrant runs through the diaphaneity
+  concept node and Maroski (2025), with *Ever-Present Origin* an open acquisition. The
+  draft's characterisation matches the node's teaching and quotes nothing. **Pass within
+  the declared constraint** (attribution, not quotation).
+- **Protected authorial notes**: nowhere presented as external-source evidence. The two
+  internal voicings are marked as Taylor's responses. **Pass.**
+- Historical assertions that matter and check out: the sixfold order of turns (movement-
+  declared reading, correctly framed as compression); Sadāśiva "I am this" / Īśvara "this
+  am I" orientations (standard, movement-consistent); the five kañcukas' offices (movement
+  file: "limited agency, knowledge, desire, time, and order"); "the tradition's own image"
+  for the lattice (Dyczkowski p. 65, with the colour caveat above).
 
 ---
 
-## VERDICT
+## 6. Paragraph-rhythm test
 
-REJECT — REQUIRES ANOTHER SECTION REVISION
+**Overall shape.** ~43 substantive paragraphs, mostly 120–180 words, each developing one
+movement — the unit discipline is good. Three systemic cadences need argumentative (not
+cosmetic) repair:
+
+1. **Aphoristic closers.** Roughly 19 of 43 paragraphs close on a balanced, portable
+   aphorism: "It was the encounter's having a shape at all" (M07.¶2); "neither can do the
+   other's work" (M07.¶6); "does not seal the cut" (M07.¶8); "never the subject for whom
+   the means and their revision appear" (M08.¶4); "making the encounter serve its
+   preservation" (M08.¶7); "how a field of differences becomes a course of action"
+   (M08.¶10); "how a world of contrasts becomes a life with things to do" (M09.¶2);
+   "the ability to relinquish it is part of what it has made possible" (M09.¶6); "what it
+   means for a determination to keep its contrasts is the question the promise now presses"
+   (M09.¶7); "constituted by what it excludes" (M10.¶1); "carries no verdict about
+   traditions it has not put to work" (M10.¶6); "living inside it means taking on limits"
+   (M10.¶8); "Cognition alone would omit... objects alone would omit..." (M11.¶3);
+   "usurpation, not boundedness" (M11.¶5); "returns through the achieved world instead of
+   away from it" (M11.¶6); "A world can be richly represented and still governed by an
+   impoverished means of receiving it" (M12.¶4); "there is always more life than means"
+   (M12.¶6). Individually most are earned (the gate asks whether the aphorism arrives from
+   work done — usually it does). Collectively the section develops a tell: the reader can
+   feel the button being sewn on every paragraph. **Required restructuring:** in the M09–M12
+   run, let roughly a third of paragraphs end on their last argumentative step rather than
+   on a restatement of it — specifically cut or fuse the duplicated closers at M09.¶2
+   (chiasmus + summary both present), and let M11.¶3 and M12.¶6 end one sentence earlier.
+   Do not flatten the genuinely load-bearing ones (M11.¶5's "usurpation, not boundedness"
+   is the paragraph's thesis, not decoration).
+2. **Topic-sentence cadence.** ~9 paragraphs open with a compact abstract-subject thesis
+   sentence followed by a colon or full stop: "The address itself has a grammar." (M07.¶8);
+   "The promise shows the mechanism at its most consequential." (M09.¶3); "A habit is one
+   of this passage's achievements." (M09.¶5); "The frame, the horizon and the dream carry
+   the same anatomy into ordinary sight." (M11.¶5); "Recognition, at this level, has a
+   precise object:" (M12.¶5); "A paradigm is the lived organisation of these means:"
+   (M12.¶6). Mild F8 pressure. **Required restructuring:** vary the argumentative entry in
+   one or two places — M12.¶5 or M12.¶6 could open from the case (the revoked permission,
+   the professed new view) and let the general sentence arrive second, which ¶4 already
+   models well.
+3. **"Not X but Y" ledger.** The mechanical sweep plus hand-survey finds ~18
+   corrective/negative constructions. Retained with basis (source-bearing disagreement,
+   operational distinction, claim boundary, determinate negation): the mirror regress
+   (M07.¶5), both blue/yellow horns (M07.¶6), "not a screen standing before an inactive
+   light" (M08.¶2, source-grounded), "not thought and will stacked in separate rooms"
+   (M09.¶2, canonical), promise vs prediction (M09.¶3), "not a word spoken once" (M09.¶4),
+   "not moods" — **weak**, flagged, "not a doctrine but a pressure" (M10.¶8, boundary),
+   usurpation/boundedness (M11.¶5), "not the conscious standpoint enlarged" (M11.¶7,
+   non-negotiable), "not as a belief about permission but as the thing itself" (M12.¶4).
+   Two weak candidates flagged for repair in Part 1 (M09.¶2 "more than one act under two
+   names"; M11.¶3 "not moods"). No strawman opponent is anywhere erected: where the draft
+   denies a view (real universals, the second observer, the Vedāntin's Māyā, the passive
+   Sāṃkhya witness), the view is named, sourced, or constructed and defeated in the open.
+4. **Lists.** The tattva/kañcuka enumerations (M11.¶2–¶3) and the five-operations anaphora
+   (M10.¶5) are the tradition's own or the argument's own enumerations, each clause carrying
+   operational gloss — not comprehensiveness-manufacturing. The M12.¶1 opening list
+   (language, memory, concern, body, others, tools, institutions) is earned by the paragraph's
+   naming act. No F9 failure; the M11.¶2 density is flagged as a split candidate only.
+
+---
+
+## 7. Length / loss test
+
+- **DRAFT-2: 7,267 words** (`wc -w`, whole file including headings and markers).
+- Source-enriched baseline: 7,507. Compression floor: 6,756.
+- Delta: **−240 words (−3.2%) vs baseline; +511 above the floor.** Within tolerance; no
+  compression-rejection. (Reference: the enriched source section
+  `working/manuscript-source-enrichment-2026-09-20/sections/s0/SECTION.md` is 8,731 words;
+  the mandated baseline of 7,507 is what the delta is measured against here.)
+- **What actually disappeared**, checked against the enriched source section and the recon's
+  survival list:
+  1. **The Vāk levels passage (real loss).** The enriched section carried the fourfold
+     Śaiva account — parā, paśyantī, madhyamā, vaikharī — and Taylor's Vāk-as-world-
+     articulating-power reading, which the recon's §2 list says "should survive." DRAFT-2
+     retains the Parātrīśikā persons material but no Vāk doctrine at all. The section's
+     argument closes without it, but the loss should be a decision, not a drift: either
+     restore a compressed Vāk clause (it would sit naturally beside M07.¶8's address
+     grammar, which already does adjacent work) or record its removal as authorised.
+  2. **M12's Bohm explicate-order paragraph (minor loss).** The movement file's reading of
+     the local world as explicate order ("'Explicate' does not make the local form unreal")
+     is absent; P1 does not require it at M12, and the appointed Bohm operation survives at
+     M07. Acceptable compression; record it.
+  3. **Bergson's snapshot-guard (minor, tacit by design).** Its work is done at M10.¶5
+     without the name — consistent with the recon's asymmetry instruction. No action.
+  4. Curriculum scaffolding, transition narration, and the calling-voice's monopoly: gone,
+     and the loss is the point. The call now recurs with changed office (opening address →
+     mishearing → known cessation → unanswered claim), and the distinct operations have
+     distinct carriers (colour, remembered exchange, unchosen affect via the grievance's
+     formation, promise, permission, dream, lattice). The recon's central prose complaints
+     are answered.
+
+---
+
+## Section content gate (minimums)
+
+- **Called-name / address / response problem enacted**: M07.¶1–¶2, ¶8. **Pass.**
+- **Śaiva comparative judgment through its actual reasons**: M10.¶4–¶6 — the operations
+  (remembering-as-referral, comparison, exclusion, intention-to-result, known
+  arising/ceasing) are each argued, then measured. **Pass.**
+- **Buddhist critique retained; positive places for experient, memory, comparison,
+  exclusion, intention/action, manifestation, recognition**: M10.¶7 + M08.¶9 keep the
+  critique binding; experient and powers (M10.¶6, M11.¶3 puruṣa), memory (M07.¶7),
+  comparison (M10.¶5), exclusion (M10 ¶1–¶3), intention/action (M09), manifestation
+  (M11), recognition (M08.¶6, M11.¶6, M12.¶5). **Pass.**
+- **Immediate knowing vs constituted inner instrument**: M07.¶5 + M08.¶4. **Pass.**
+- **Psychological conscious/unconscious vs sourceward Consciousness**: M11.¶7, with the
+  therapeutic register explicitly preserved. **Pass.**
+- **Objective Internality arising from this operation**: M12.¶1 names it at the section's
+  end, from the traced operations, in pramāṇa rather than Subject. **Pass.**
+- **Changed state / improved self-description / recognition distinguished**: M08.¶5–¶7.
+  **Pass.**
+- **Singh / Abhinavagupta / Dyczkowski absorbed conceptually**: mirror/crystal, persons,
+  Spanda exposition, blue/yellow, Vedānta contrast, lattice, pramāṇa triad — all consumed
+  as operations, none as ornament. **Pass.**
+- **Ending genuinely hands to §1 Return of Zero**: the 205 question. **Pass.**
+- **Minimums**: 7,267 words, above the 6,756 floor. **Pass.**
+
+---
+
+## Summary of registered faults (strongest first)
+
+1. `M11.¶6 · G1/G5 · "Recognition reverses amnesia, differentiation" · broken apposition
+   that equates differentiation with the amnesia reversed, colliding with the section's
+   defended positivity of differentiation · repair the genitive`.
+2. `M08.¶9 · quotation fidelity · "in the seen..." · source capital "In..." restored`.
+3. `M10.¶6 · G5 · "what the tradition calls a place for the experient and its powers" ·
+   essay criterion projected into tradition vocabulary · own the formulation or cite the
+   Śaiva terms`.
+4. `M07.¶8 · G5/F6 · "the votive says you, O mountains" · Singh-introduction example inside
+   an Abhinavagupta-commentary frame · mark the carrier`.
+5. `M09.¶6 · G5 · "a formulation from Taylor's working notes, verifiable in the case at
+   hand" · evidence-ledger idiom in authored prose · restate as the manuscript does`.
+6. `M10.¶2 · quote boundary · "a word excludes other referents" · near-verbatim translation
+   wording unquoted · quote with locator or loosen`.
+7. `M11.¶4 · G1 · "many coloured patches" · embellishment inside the tradition's image ·
+   drop "coloured" or unhook it from the attribution`.
+8. `M09.¶2 / M11.¶3 · G7/F2 weak · "more than one act under two names" / "not moods" ·
+   unnamed denied views · state positive or cut`.
+9. `M10.¶3 · G6 minor · "Nominally bound and verbally bound negation are different
+   operations" · untaught technical distinction · one glossing clause`.
+10. `M11.¶6 · F5 minor · "the section's hardest distinction waits exactly there" · compère
+    clause · cut`.
+11. `M09.¶7 · G2/G10 minor · "The gathering itself has to answer for that." / "name the
+    danger exactly", "Gebser's studies" · distant demonstrative; self-grading; plural ·
+    restate`.
+12. `M08.¶8 · G5 minor · "the means begin to certify the very being they were meant to
+    serve" · nouned abstraction at close · restore the verb`.
+13. Rhythm (Part 6): aphoristic-closer density in M09–M12; topic-sentence cadence; two
+    duplicated closers. Argumentative restructuring, not cosmetic variation.
+
+No strawman found; no thinker-presence failure; no padding paragraph; all source-house
+checks pass or carry named debts (Udāna house record missing — a bank debt, not a draft
+fault). No verdict is issued at this stage.

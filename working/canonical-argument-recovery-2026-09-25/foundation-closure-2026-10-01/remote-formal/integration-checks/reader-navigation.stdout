@@ -1,0 +1,13 @@
+{
+  "pages": 782,
+  "reachable": 719,
+  "problems": {
+    "directory-link": 6,
+    "title-or-alias-only": 501,
+    "missing-vault-path": 91,
+    "ambiguous-filename": 5
+  },
+  "admitted": 288,
+  "missing_admitted": 0,
+  "unreachable_admitted": 0
+}

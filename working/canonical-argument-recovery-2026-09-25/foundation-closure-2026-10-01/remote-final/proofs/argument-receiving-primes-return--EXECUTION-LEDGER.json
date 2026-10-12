@@ -1,0 +1,73 @@
+{
+  "records": [
+    {
+      "id": "A05p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A05-prime-Lights-Camera-Action.md.txt",
+      "preimage_sha256": "4df4e9062b8766182be056c80ed1b66d56e3aa6a1a73e13471409d6f246244ca",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A05-prime-Lights-Camera-Action.md.txt",
+      "candidate_sha256": "6ebcd5b724f7cdbdd79e06154fd93481bded1e52d278b0fea59cc2df90a2eb01",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own read; independent full source/public cold pending. Non-live."
+    },
+    {
+      "id": "A06p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A06-prime-Articulation-as-Ontological-Descent.md.txt",
+      "preimage_sha256": "94c46453071aac0795e438c95ccdd2259d30bbbf692e7f22ffbd0925c159dd53",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A06-prime-Articulation-as-Ontological-Descent.md.txt",
+      "candidate_sha256": "894962c063ee9f5613eb46217a8c5511844dd0e45ba23601c79e435c0486543f",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own read; independent full source/public cold pending. Non-live."
+    },
+    {
+      "id": "A09p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A09-prime-The-Stack-as-Descent.md.txt",
+      "preimage_sha256": "5da612b485f5212b84a31d6a2967016ef22a512376ee15ee530d5995e3a34cad",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A09-prime-The-Stack-as-Descent.md.txt",
+      "candidate_sha256": "abef4c6064268a621bb40f75762c12df16794c1ad49da35c48ebadebfc002d90",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own read; independent full source/public cold pending. Non-live."
+    },
+    {
+      "id": "A14p",
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/preimages/A14-prime-Code-as-the-Ages-Logos.md.txt",
+      "preimage_sha256": "3632feb3f29a593626e14d291f93d7454f5d14c21713884f979ddac3b19bdfe4",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/candidates/A14-prime-Code-as-the-Ages-Logos.md.txt",
+      "candidate_sha256": "83776f7678bae078d2fcf580fe48acbfba64d901dc0da02cd204cec2502eb826",
+      "pre_edit_recovery": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/PRE-EDIT-RECOVERY.json",
+      "source_readings": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/SOURCE-READINGS.json",
+      "effects": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EFFECTS-DEPTH4.json",
+      "returned_byte_read_coverage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/RETURNED-BYTE-READ-COVERAGE.json",
+      "execution_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/EXECUTION-LEDGER.json",
+      "qualification_reasons": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/QUALIFICATION-REASONS.json",
+      "lightweight_checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-receiving-primes-return/LIGHTWEIGHT-CHECKS.json",
+      "status": "Complete whole old/new/source/public own read; independent full source/public cold pending. Non-live."
+    }
+  ],
+  "actual_operation": "Complete preserved luminous/mirror/temporal operations, feminine speech/descent/executable personed address, finite tattvic powers/innerinstrument/vertical-horizontal genealogy and process/harness/quotient/trace/alignment/sourceparity recovered before drafts. Whole original primes/final candidates read untruncated; native partners prior actual whole final/current equal read scopes are explicit. Final A06 nama and A14 representation/contact joins source-replayed after retained self-return snapshots, not hidden initial perfection.",
+  "actual_changes": "Source/title/page duties now actual appearing/source apprehension/recall/recomposition/route judgment/Other/authority, formative Word/positionalapproval/execution/commons, cooperative finite powers/localjudgingtriad/actualholder/inheritance and formedrelation/realquotient/harness/trace/contact/completeeightfoldnextpossibility. General warranted correction/fittingretention and stronger claimed changedprocessing have distinct actual evidence. All published positive operations preserved.",
+  "preserved": "Frontmatter/heads/nav/quotes/notation/formulas/tables/old resolvedtargets exact. All four native partners untouched. No protected/raw/movement/manuscript or tool/test edits, no heavy local jobs.",
+  "actual_source_limits": "Selected/whole/prior-exact source scope in SOURCE-READINGS; no full external book/physicalquote/readiness/clinical/acoustic/currentdeployment/blanket impact semantic acceptance.186 actual byte reopens are separate impact only.",
+  "remaining": "Independent full old/new/source/public cold pending; final36pair current source-operation inventory in progress, no count or detector acceptance."
+}

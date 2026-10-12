@@ -1,0 +1,88 @@
+{
+  "reviewer": "/root/argument_recovery",
+  "status": "Independent source/public cold accepted; no canonical writes or heavy checks",
+  "records": [
+    {
+      "key": "C10",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/preimages/C10-Mediation-Pramana.md.txt",
+      "preimage_sha256": "1f3828896d63ec5910df6403db91b79633f1d753cc2bb8b9f31f0c1a0c71df25",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C10-Mediation-Pramana.md.txt",
+      "candidate_sha256": "d795b6a0e9912295a286740246ddc29a306e54eabb482e6c33a2cabe073f8507",
+      "decision": "Accept complete changed native/source/public operations within named source bounds",
+      "actual_carrier_read": "Entire final carrier and every complete changed old paragraph/diff personally read; untouched old paragraphs not freshly re-read in this review",
+      "metadata": "Only truthful core source-ID append; all original metadata retained",
+      "headings": "Exact",
+      "curly_double_quoted_strings": "Exact sequence",
+      "old_inline_notation": "Every old inline notation token retained"
+    },
+    {
+      "key": "C59",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/preimages/C59-Cultural-Individuation-Epi-Logos-as-Culture.md.txt",
+      "preimage_sha256": "8eb09177ce53ebab485dd75862e8775c153a9983df797bee901112dc6a53a675",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C59-Cultural-Individuation-Epi-Logos-as-Culture.md.txt",
+      "candidate_sha256": "048034e8446c31dac7eb832222713adacd56d82c10bc27276459ff7254249134",
+      "decision": "Accept complete changed native/source/public operations within named source bounds",
+      "actual_carrier_read": "Entire final carrier and every complete changed old paragraph/diff personally read; untouched old paragraphs not freshly re-read in this review",
+      "metadata": "Exact",
+      "headings": "Exact",
+      "curly_double_quoted_strings": "Exact sequence",
+      "old_inline_notation": "Every old inline notation token retained"
+    },
+    {
+      "key": "C63",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/preimages/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md.txt",
+      "preimage_sha256": "c7217559a6225117025f3891e0e320f9836bad94c6b8683560830ef8e3f8495b",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md.txt",
+      "candidate_sha256": "e73e48f70d2c9db31b170ba218e8875dfc506f0ea7cae5f3289d1f4f1c632419",
+      "decision": "Accept complete changed native/source/public operations within named source bounds",
+      "actual_carrier_read": "Entire final carrier and every complete changed old paragraph/diff personally read; untouched old paragraphs not freshly re-read in this review",
+      "metadata": "Exact",
+      "headings": "All original headings exact and in order; C63 adds Historical source standing heading",
+      "curly_double_quoted_strings": "Exact sequence",
+      "old_inline_notation": "Every old inline notation token retained"
+    }
+  ],
+  "source_reads": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "sha256": "c5b57a5806f9c44e81570e1abaa0798a11085e53e5555a29c54b61fba66a7b87",
+      "scope": "Complete actual transcript pp63–72 lines157–286 freshly read in two untruncated units; prior own whole house. Transcript does not become physical-edition text-checked quotation."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "scope": "Entire actual owning culture contribution5435–5877 freshly read as45589 contiguous characters in four chunks; not whole long quilt."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "scope": "Actual complete focal29/health71 operative paragraphs and adjacent27–32/69–74 freshly re-entered; earlier own whole Draft3 retained. Taylor health expansion distinct from continuous Aristotle quotation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md",
+      "sha256": "50166d350f52d1d87081e1633a4c2e43a0535fce5eeeb422e273c50417c36922",
+      "scope": "Whole current house freshly read; complete official Ross onlineIV.2 Part2 lines30–53 read; no entire Metaphysics, Greek or print collation."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+      "sha256": "4981198b028a11b6cbc4bd82a5c6561fcb77e2d17ae82cc7c0095bf0d56b69b6",
+      "scope": "Whole current house freshly read; no local excerpts or full book. Coverage identity only, no primary Eckhart wording claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+      "sha256": "ba955fcfda5e4ba7c0667ddf72b263d4aeb025b61a147487d3f11b73c14c6207",
+      "scope": "Actual French prescription/reception units61/63/65/73 re-entered; prior whole E3 branch review. No fresh all French primary instruments collation."
+    }
+  ],
+  "governing_prior_reads": "Whole core theorem640, complete latest minute/anti-anti correction, source-specific full A25 and paired sources, earlier E3 returned Sankhya units. Individual prior receipts preserve versions and scope. Effects bytes do not imply semantic review.",
+  "conclusions": {
+    "C10": "Different door warrants retain perception, memory and testimony. Local judging knower/means/known remains nested in person; further inspection gives another known content. Co-present Śaiva operation and Sāṃkhya valid means remain distinct. Adequate-rule factual correction, failed-rule revision or fitting retention reaches the next act.",
+    "C59": "Whole/many, first corrective counter, counter-monoisation and judging third retain distinct operations without centrism or equal-responsibility claim. Man/Humanity avoids collective ego while keeping institutional answerability. Disclosure before demanded conformity does not claim priority to all causal effects. French prescription and actual reception remain distinct.",
+    "C63": "Producing/indicating/possessing, focal order, qualification and proportion have distinct warrants. Taylor person/diet/complexion and qualified just-person development remain authorial. Ross health/medical/substance is available; Flasch/Eckhart wording stays uncollated. Real local reference remains source-relative and supports correction or reasoned retention."
+  },
+  "faults_found": "No exact new source omission, stronger false consequence or public address/schema actor identified in these recovered complete operations.",
+  "limits": "No new quotation readiness, physical edition, whole external book, clinical, runtime, all downstream consumer or movement48/manuscript acceptance. Independent review does not run or replace parent unchanged admission gates."
+}

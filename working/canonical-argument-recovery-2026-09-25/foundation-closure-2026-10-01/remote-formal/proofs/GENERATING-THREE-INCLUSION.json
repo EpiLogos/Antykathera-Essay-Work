@@ -1,0 +1,35 @@
+{
+  "base_main": "01dcff08cfa52febd072f9a0fe1470dabdccda7e",
+  "status": "Exact independently reviewed complete operations included locally; remotevalidation pending",
+  "records": [
+    {
+      "key": "JUNG-PAULI",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/JUNG-PAULI-candidate.md.txt",
+      "preimage_sha256": "5c3d693c8960fa6a8b542bdf1ab52aee1a90226fec41d5b6e9e08c584535269b",
+      "postimage_sha256": "7f4b07ab11e383749f4d140aba865811e0cdeb12a8d9328db417763efc57ffbb",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-GENERATING-TWO-REVIEW.json",
+      "effects_depth": 4
+    },
+    {
+      "key": "STAINED-GLASS",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/STAINED-GLASS-candidate.md.txt",
+      "preimage_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "postimage_sha256": "70a3d75f28b7a72c27e05cff5d3a7809b5292e7ead7d338f76d115bc8d938994",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-exclusion-recognition-return/INDEPENDENT-GENERATING-TWO-REVIEW.json",
+      "effects_depth": 4
+    },
+    {
+      "key": "MATRIX-R15-R21",
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-map-response-return/MATRIX-candidate.md.txt",
+      "preimage_sha256": "904dc5700ca8fc6a54f9bc106452dc2f66911b99c22eb2b099c9c0f8661cef3e",
+      "postimage_sha256": "7cb4282cc79e94aee02208b2771856b54defef57703117ab88ccea371dd79db8",
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-native-return/INDEPENDENT-MATRIX-SEVEN-RESPONSES-REVIEW.json",
+      "effects_depth": 4,
+      "complete_response_operations": 7
+    }
+  ],
+  "scope": "Seven native response operations and two whole generatingcarriers; no deferred movement/sovereign edits or experimental/history readiness promotion"
+}

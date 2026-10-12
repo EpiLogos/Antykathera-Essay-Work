@@ -1,0 +1,79 @@
+{
+  "reviewer": "/root/argument_recovery",
+  "date": "2026-10-02",
+  "status": "Independent complete operation cold review accepted; parent integration and native checks remain separate",
+  "records": [
+    {
+      "record": "C45",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/preimages/C45-Operational-Parity.md.txt",
+      "preimage_sha256": "66cd6a5d3c6de3f269660063deccbb7c163d80b5c8aaf3626c553795574d205d",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C45-Operational-Parity.md.txt",
+      "candidate_sha256": "05a6f75646e857540db45ef5ce2517fa62ae0ba63feda80d79489399f636b2be",
+      "independent_disposition": "Accepted complete source/public receiving operation within stated read bounds",
+      "read_scope": "Entire final carrier; every changed old paragraph; unchanged native bytes plus complete old changed units constitute the whole old/new union. Initial display gaps explicitly reopened before acceptance.",
+      "independent_retention": {
+        "frontmatter_exact": true,
+        "original_curly_double_quoted_strings_exact": true,
+        "original_headings_exact": true
+      }
+    },
+    {
+      "record": "C51",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/preimages/C51-Logos-Epi-Logos.md.txt",
+      "preimage_sha256": "b14ca2e156b40124077743c23e59a04e4828e3dbeb2bd99b7ecbfc241b5907a6",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C51-Logos-Epi-Logos.md.txt",
+      "candidate_sha256": "a8e2a14e2c579e868a0d473b5204c7ba7c4f3e79e0432a6370d11193fec7e6f2",
+      "independent_disposition": "Accepted complete source/public receiving operation within stated read bounds",
+      "read_scope": "Entire final carrier; every changed old paragraph; unchanged native bytes plus complete old changed units constitute the whole old/new union. Initial display gaps explicitly reopened before acceptance.",
+      "independent_retention": {
+        "frontmatter_exact": true,
+        "original_curly_double_quoted_strings_exact": true,
+        "original_headings_exact": true
+      }
+    },
+    {
+      "record": "C17",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-script-return/preimages/C17-Vikalpa-Samkalpa.md.txt",
+      "preimage_sha256": "b739e4b6feee7a949eeca41bcb9a6eb9c8660bf6af99045f2dc1b46d42675c54",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-script-return/candidates/C17-Vikalpa-Samkalpa.md.txt",
+      "candidate_sha256": "fa350f80cc5f330fad8c04cce5e5edbed562a328e7e2b6a201c0785e31d0a4dd",
+      "independent_disposition": "Accepted complete source/public receiving operation within stated read bounds",
+      "read_scope": "Entire final carrier; every changed old paragraph; unchanged native bytes plus complete old changed units constitute the whole old/new union. Initial display gaps explicitly reopened before acceptance.",
+      "independent_retention": {
+        "frontmatter_exact": true,
+        "original_curly_double_quoted_strings_exact": true,
+        "original_headings_exact": true
+      }
+    }
+  ],
+  "accepted_operations": {
+    "C45": "Source/branch/counterreading/effect and controlled operational discrimination remain complete; implementation, mapping and test failure stay distinct. Sum and division remain different operations without a universal inequality of results. Stronger claimed processing/paradigm change requires its attributable operative consequence.",
+    "C51": "Achieved word/account/reason, prior lived paradigm and distinct expression, source-sensitive reply, proper authority and warranted correction or fitting retention inherited by the next act remain complete; language and ancient offices perform their source-specific consequences.",
+    "C17": "Earlier paraphrase controls what the next account admits; its formed course repeats selection as necessity and loses correction by the originating source. Constructive selection and source-responsive recognition remain distinct; conditional return retained."
+  },
+  "findings_preserved": [
+    {
+      "record": "C45",
+      "first_finding": "Ratio argument was the public semantic actor rather than summing, dividing and accountable comparison.",
+      "returned": "Replaced by actual arithmetic operations and accountable reckoning."
+    },
+    {
+      "record": "C45",
+      "second_finding": "First return universally denied equality between sum and quotient; 0.5+0.5 and 0.5/0.5 both equal 1.",
+      "returned": "Final exact 05a6f756 says equality of numerical results does not make operations interchangeable. Final whole adjoining #4 replay accepted."
+    }
+  ],
+  "actual_source_read_bounds": [
+    "Fresh complete Draft3 Epi-Logos unit255–279 plus prelude250–254; earlier entire279 source comparison remains separately retained.",
+    "Fresh actual quilt253–262 and prapanca/source-return unit514–550; no fresh whole quilt claim.",
+    "Fresh whole language-symbol-dialogue DEVELOPMENT126 and ancient-philosophy DEVELOPMENT102; initial clipped units explicitly reopened. These source histories still have their separately owned public recovery debt.",
+    "Fresh selected complete E1 Count-to-Account98–158, with119–135 display gap reopened; earlier entire158 basis retained.",
+    "Fresh A15 actual terms and distinct acts23–65 after ratio finding; no new full external music/acoustic audit.",
+    "Earlier actual whole core640, latestminute102, Dynamics124, MEF and current C41/C47/paired sources retain version/source boundaries from prior receipts."
+  ],
+  "limits": [
+    "No fresh whole external books, primary-edition or quote-readiness upgrade.",
+    "No measured technical deployment, clinical proof, historical common genealogy or downstream blanket acceptance.",
+    "No live canonical/protected source/tools/tests/builders/generated changes by this review; heavy jobs remain held."
+  ]
+}

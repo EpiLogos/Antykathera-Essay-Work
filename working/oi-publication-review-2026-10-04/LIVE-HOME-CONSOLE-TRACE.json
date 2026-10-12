@@ -1,0 +1,21 @@
+{
+  "observed_at_utc": "2026-10-04T15:17:21.737778+00:00",
+  "method": "Actual fresh Chromium production-home visit with CDP network error responses retained",
+  "http_errors": [
+    {
+      "url": "https://oi.epi-logos.org/favicon.ico",
+      "status": 404,
+      "mime_type": "text/html"
+    }
+  ],
+  "console_errors": [
+    {
+      "text": "Failed to load resource: the server responded with a status of 404 ()",
+      "location": {
+        "url": "https://oi.epi-logos.org/favicon.ico",
+        "lineNumber": 0,
+        "columnNumber": 0
+      }
+    }
+  ]
+}

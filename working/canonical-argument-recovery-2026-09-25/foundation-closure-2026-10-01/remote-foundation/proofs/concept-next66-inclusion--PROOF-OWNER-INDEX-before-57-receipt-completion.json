@@ -1,0 +1,2647 @@
+{
+  "records": [
+    {
+      "key": "A10",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-advent-return/candidates/A10-Advent-of-Zero.md.txt",
+      "candidate_sha256": "08e80b6ba7bdd0b9ef686c5c8789847d44f8037e464da613886730398c2f465d",
+      "flag_indexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-advent-return/A10-QUALIFICATION-REVIEW.json",
+          "sha256": "cf59a360a8b45e7dc94ddae5bea2354fe8946e4b04f31c55241c6c4a1bd0dd4c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A10-FIRST-ADVENT-REVIEW.json",
+      "cold_review_sha256": "9ad13aab070786a889b616c41a56b073e4302669f9a792eb0788b0bc3b1d7321",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A01",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/candidates/A01-Subject-God-and-Faithful-Definition.md.txt",
+      "candidate_sha256": "6b6f5d8ae72d9463d4a9ae0abff81a852b6ed8b5b8a1e67a93a5440a86a91f9c",
+      "flag_indexes": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/A01-QUALIFICATION-LEDGER.json",
+          "sha256": "6de8ed83d7a553d004b53edd1fcff638259a1a9031563c74b472174d355e22f7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/INDEPENDENT-A01-REVIEW.json",
+      "cold_review_sha256": "7d88ea553b821aa26ee158f0b1534a0a3d2da455f9de09c8518ba2fe0dc77336",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A11",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/candidates/A11-The-Two-Ones-0-One-1-All.md.txt",
+      "candidate_sha256": "f59f2cb5f18f0caa636128c9747344798cf586f0b8ea3d032dc40afc2200c712",
+      "flag_indexes": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/A11-QUALIFICATION-LEDGER.json",
+          "sha256": "0a080d36a14af7e9b8e0eb1282afe376987279100cad4a2986f44cce638308b4"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/INDEPENDENT-A11-REVIEW.json",
+      "cold_review_sha256": "599be9cd2c9f7c71f7fdc7ace3d6e27095244c4a56b1ab3765b56dc32953f0db",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A06",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/candidates/A06-Vak.md.txt",
+      "candidate_sha256": "cad9f74580d3a839c05b54092da06b7c489dd99d5e6ef8ca15bd134762532c60",
+      "flag_indexes": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/A06-QUALIFICATION-LEDGER.json",
+          "sha256": "bd380582c8e2160378931613df3376c5fff2cb8bd64b5b873903b4dfb494ff5f"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/INDEPENDENT-A06-REVIEW.json",
+      "cold_review_sha256": "249bb6e855b5ce0d25c4be9ab1763f1928cae27b31888361fc6fb259943cd5eb",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A14",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-process-return/candidates/A14-Computational-Process-Ontology.md.txt",
+      "candidate_sha256": "70f03e9436edec5cb68e06e06d91b75df025d69a55c9156d9dcad86423e2f0ea",
+      "flag_indexes": [
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-process-return/QUALIFICATION-LEDGER.json",
+          "sha256": "751b4eaee981fc5df08704a465bf7547d69db53374ffeaee8559f414e98b16bf"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/INDEPENDENT-A14-PROCESS-REVIEW.json",
+      "cold_review_sha256": "5ee3d453767a083d258920865544c2bafb9b9fe344ea2425c5f9630c7349734b",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A32",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/candidates/A32-Reflective-Field-The-Mirror-That-Moves-First.md.txt",
+      "candidate_sha256": "4af144b87aac9ac881e8315462567adfa10767f282b6ba63d247581e20358a52",
+      "flag_indexes": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/A32-QUALIFICATION-LEDGER.json",
+          "sha256": "405d25b910df591a0709ba98580a325cbaa79a8221b455df037925f17594cc07"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/A32p-QUALIFICATION-LEDGER.json",
+          "sha256": "cabdfb106bf36055a8e69c88e1d210324e4b829653a1d8fdd2ace96a81117e64"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/INDEPENDENT-A32-REVIEW.json",
+      "cold_review_sha256": "4123c26031002d50cb2c7fce13401100da07ba03d0ebb0480d43ca5718ef5833",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A32p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/candidates/A32-prime-The-Mirror-Is-a-Film.md.txt",
+      "candidate_sha256": "5c306ea0dea8bcb4286579a939e54ca3afbefd605752b4a4681bea874b815c40",
+      "flag_indexes": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/A32-QUALIFICATION-LEDGER.json",
+          "sha256": "405d25b910df591a0709ba98580a325cbaa79a8221b455df037925f17594cc07"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/A32p-QUALIFICATION-LEDGER.json",
+          "sha256": "cabdfb106bf36055a8e69c88e1d210324e4b829653a1d8fdd2ace96a81117e64"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A32-PRIME-REVIEW.json",
+      "cold_review_sha256": "a99f10de5aef0a6ade93b181dbe44beac582e3c16edb4b8cae19df70728c6cd9",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A27",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A27-Self-and-Other-Unity-without-Possession.md.txt",
+      "candidate_sha256": "708da83f056deab301df9161fbaa7aaad46c67ddb8d9166094ffc0872216705c",
+      "flag_indexes": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A30-QUALIFICATION-LEDGER.json",
+          "sha256": "7b7101beeaa1cc80f53d33a3fe56a722f4d96bb62b77e8a8fba55ef907dec7b2"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27-QUALIFICATION-LEDGER.json",
+          "sha256": "aaf677a1c3d443f4a878ac1f36d4f6b64714ac8525b9630b4b41aab578328569"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27p-QUALIFICATION-LEDGER.json",
+          "sha256": "1d9da3081a1c8d428827be1ac958e2d0f86f52fe190300c68c71d3631a702da7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDEPENDENT-RECIPROCAL-PAIR-REVIEW.json",
+      "cold_review_sha256": "57291240bd4fccf88556dd4f24eab581070b5fa09ee86d4e9c95a24ee7255264",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A27p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A27-prime-Encounter-over-Sovereignty.md.txt",
+      "candidate_sha256": "7e58e97534de1d021fa5559a91ff8598d1e86acf01b584506b4699f6963fe135",
+      "flag_indexes": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A30-QUALIFICATION-LEDGER.json",
+          "sha256": "7b7101beeaa1cc80f53d33a3fe56a722f4d96bb62b77e8a8fba55ef907dec7b2"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27-QUALIFICATION-LEDGER.json",
+          "sha256": "aaf677a1c3d443f4a878ac1f36d4f6b64714ac8525b9630b4b41aab578328569"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27p-QUALIFICATION-LEDGER.json",
+          "sha256": "1d9da3081a1c8d428827be1ac958e2d0f86f52fe190300c68c71d3631a702da7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDEPENDENT-RECIPROCAL-PAIR-REVIEW.json",
+      "cold_review_sha256": "57291240bd4fccf88556dd4f24eab581070b5fa09ee86d4e9c95a24ee7255264",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A30",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/candidates/A30-Objective-Co-Internality.md.txt",
+      "candidate_sha256": "6bff73732b688673b17daba403ffb9729181294c545ffc5a1e32c409513a8f4a",
+      "flag_indexes": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A30-QUALIFICATION-LEDGER.json",
+          "sha256": "7b7101beeaa1cc80f53d33a3fe56a722f4d96bb62b77e8a8fba55ef907dec7b2"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27-QUALIFICATION-LEDGER.json",
+          "sha256": "aaf677a1c3d443f4a878ac1f36d4f6b64714ac8525b9630b4b41aab578328569"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27p-QUALIFICATION-LEDGER.json",
+          "sha256": "1d9da3081a1c8d428827be1ac958e2d0f86f52fe190300c68c71d3631a702da7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A30-RECIPROCAL-REVIEW.json",
+      "cold_review_sha256": "ffd21fef1289462020771af9abddf26cb207d1ec6c4dc0c5304a169d6692c116",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A29",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/candidates/A29-Power-Delegated-Labour-Return.md.txt",
+      "candidate_sha256": "23e13649cba953ccb0a22fd5b7eff280b53209b244b6bb9101eff82bd8802ef5",
+      "flag_indexes": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/QUALIFICATION-LEDGER.json",
+          "sha256": "a649aaf2d99d24eb52952380c510c7b95aaf0e7c6dce88dccea675b223e57110"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/INDEPENDENT-LABOUR-PAIR-REVIEW.json",
+      "cold_review_sha256": "a0e2457f0cf45279233ee14f9db5fa8a6fec19b98c188122c21f88598bb6d0bc",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A29p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/candidates/A29-prime-Return-or-Extraction.md.txt",
+      "candidate_sha256": "7c88b32d687c6ed789d8a8e1b283f8e4270efb75374c850174b90e2649fd269d",
+      "flag_indexes": [
+        142,
+        143,
+        144,
+        145,
+        146
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/QUALIFICATION-LEDGER.json",
+          "sha256": "a649aaf2d99d24eb52952380c510c7b95aaf0e7c6dce88dccea675b223e57110"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/INDEPENDENT-LABOUR-PAIR-REVIEW.json",
+      "cold_review_sha256": "a0e2457f0cf45279233ee14f9db5fa8a6fec19b98c188122c21f88598bb6d0bc",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A15",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/candidates/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md.txt",
+      "candidate_sha256": "0a6a45166e3d4e1c651321b72a128ab481dbcd82f1ed720eccb734a53885e725",
+      "flag_indexes": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/QUALIFICATION-LEDGER.json",
+          "sha256": "e4034bf8e29cb68f02006f0dfcc55391dfb7e1f6b72e3b502a1dcc607214e6aa"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A15-MEASURE-REVIEW.json",
+      "cold_review_sha256": "03cf8232f6d42d650308f024e8e6ed8edaa77a2ae689843ecc5a2da2024119dc",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A24",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-arbitration-return/candidates/A24-Arbitration-and-the-Usurpation-of-Measure.md.txt",
+      "candidate_sha256": "039eec5475b8103fde2d69dbfea6d7a3938e9c2b4e521c0d5669d46b52189aac",
+      "flag_indexes": [
+        154,
+        155,
+        156
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-arbitration-return/QUALIFICATION-LEDGER.json",
+          "sha256": "2f2b8581c774009894c14de4a4cd880d7696ca8df5bbea0edfb5366550f45c14"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/INDEPENDENT-ARBITRATION-REVIEW.json",
+      "cold_review_sha256": "54bfd5a43e021ea6aa2b423b949b307a9efe6947e882a1cbea4059ddcf123244",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A25",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/candidates/A25-Covenant-Mediating-Office-Source-Authority.md.txt",
+      "candidate_sha256": "5fe1f771a44db78f4379cf98dba84eb04cab996086f49acefc217d5074aa888e",
+      "flag_indexes": [
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/PRIME-QUALIFICATION-LEDGER.json",
+          "sha256": "e31ebb6bb1d9eab72658b5e618596401a9fe74e05812913c6fd19f6f67361d9e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/QUALIFICATION-LEDGER.json",
+          "sha256": "3d61b5dd427adc4d752ee93a3fd533feb0da2feb997b0102ce5e8fcf910ec06f"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/INDEPENDENT-COVENANT-PAIR-REVIEW.json",
+      "cold_review_sha256": "33b1aab2bc8f5efd8e2a5fe1d4f35681bc42e63c77537f2cdaf8de40c778d6fa",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A25p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/candidates/A25-prime-Covenant-Architecture.md.txt",
+      "candidate_sha256": "d2288e72b05cf106931281544affbb41c2709795f3a32db033ee52260c006b3d",
+      "flag_indexes": [
+        166,
+        167,
+        168
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/PRIME-QUALIFICATION-LEDGER.json",
+          "sha256": "e31ebb6bb1d9eab72658b5e618596401a9fe74e05812913c6fd19f6f67361d9e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/QUALIFICATION-LEDGER.json",
+          "sha256": "3d61b5dd427adc4d752ee93a3fd533feb0da2feb997b0102ce5e8fcf910ec06f"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/INDEPENDENT-COVENANT-PAIR-REVIEW.json",
+      "cold_review_sha256": "33b1aab2bc8f5efd8e2a5fe1d4f35681bc42e63c77537f2cdaf8de40c778d6fa",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A23",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/candidates/A23-Trust-Faith-and-the-Formal-Limit.md.txt",
+      "candidate_sha256": "14fb8937368f07980b843480e4273646c19aff15babf85d39d3ab1fd9e76cff1",
+      "flag_indexes": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/QUALIFICATION-LEDGER.json",
+          "sha256": "a0672078392e851ab2faf3922dbf90bae2c08316c4cc7fadd4f8ed770edcb4b1"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-TRUST-ARGUMENT-REVIEW.json",
+      "cold_review_sha256": "11b725ebe02f1c2bbeca34563c8530fd964fb4c05edf1d4f268ef81d9150fb8f",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A23p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/candidates/A23-prime-Trust-under-Unpossessable-Interiors.md.txt",
+      "candidate_sha256": "e96fbb77b3c2b52eb79bbfb01f60417b1d58e977dff026e535b7f0ac180568a5",
+      "flag_indexes": [
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/QUALIFICATION-LEDGER.json",
+          "sha256": "a0672078392e851ab2faf3922dbf90bae2c08316c4cc7fadd4f8ed770edcb4b1"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A23-PRIME-TRUST-REVIEW.json",
+      "cold_review_sha256": "12f1f3cacab155c8b62f9a6f487f2faee7e07fd96a74f45cb88ae95c71a4ddc6",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A03",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/candidates/A03-Immutable-Gap-Formal-Limit.md.txt",
+      "candidate_sha256": "b9da695c0bf0b7dc6d97ef252318a844c52b14b8f52abe9f42915ccd79477099",
+      "flag_indexes": [
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "8068afde4dbad1e69a90a448a72c2f17de94afed72f17feec1ebc38a12c7026b"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/QUALIFICATION-LEDGER.json",
+          "sha256": "459baed00377baa905d28cb722c57b561b92e670365430c9b5982107ed667d9f"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-IMMUTABLE-GAP-ARGUMENT-REVIEW.json",
+      "cold_review_sha256": "2197fbcfd2109a8f1db3d6d8d3fc73484850462097d6df99740cc5ec3716b6d8",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A03p",
+      "native": "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/candidates/A03-prime-The-Limit-of-Self-Surfacing.md.txt",
+      "candidate_sha256": "beab9f2f63fd7e8d5e7e8226986049792fdbfca078c5295d97b821877be2da72",
+      "flag_indexes": [
+        208,
+        209,
+        210,
+        211,
+        212
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "8068afde4dbad1e69a90a448a72c2f17de94afed72f17feec1ebc38a12c7026b"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/QUALIFICATION-LEDGER.json",
+          "sha256": "459baed00377baa905d28cb722c57b561b92e670365430c9b5982107ed667d9f"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A03-PRIME-GAP-REVIEW.json",
+      "cold_review_sha256": "45c9a3a6200fb82f664460974693c9194b9d36d6d122fd8993850a6147f1373c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A19",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/candidates/A19-Complex-as-Local-Arbitration-Regime.md.txt",
+      "candidate_sha256": "1f610ee3247d2e1d57aea40cee470bea63376e44b90c1f39d7daf71f683632e8",
+      "flag_indexes": [
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/QUALIFICATION-REASONS.json",
+          "sha256": "c2654101e94f3fc5c22b3c6d2308cacfad0c5561a999df33981325e74e8bb072"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/EXECUTION-LEDGER.json",
+          "sha256": "0c2a2c8c7ac6051f62aa02cd72c120fcd1218b7cf4ef4f0ae99ed9130b4c3aab"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "5fcb0f604b57ccd12849fe5edea026aeff68795a6306ae3e6c263a8bcb41debc"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-LOCAL-REGIME-ARGUMENT-REVIEW.json",
+      "cold_review_sha256": "d9983e5ecfc786d58bb3f4c74672140b09836843870ca384a8b61488297cd987",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A04",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/candidates/A04-Diaphaneity-Contextual-Transparency.md.txt",
+      "candidate_sha256": "ece3731c90d7d10c81699fbb8eec4ff492d684914f25b0c3d51facc28fe51d7d",
+      "flag_indexes": [
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/QUALIFICATION-REASONS.json",
+          "sha256": "55689cd5908618d29dfcf82b3c95935affa593a6c11affa557081e034815c0c1"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/EXECUTION-LEDGER.json",
+          "sha256": "b9633a63aeb1b75f1231c51ad3720fa67644f47c6c9606a835201d4ec04b18da"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6f63581b893a7d019f61f318241218f11c15e90f174be4542b97c12aa6136e42"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A04-CONTEXTUAL-REVIEW.json",
+      "cold_review_sha256": "405803efb15f2d26df431a836b1d0ad810397a3081b76dcea9cecc1ecb064ac7",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A08",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/candidates/A08-Apoha-Constitutive-Exclusion.md.txt",
+      "candidate_sha256": "6a716929b3e2210ec0b66c21935a4b7e6c3acaec6e246614c3dbfb2867111a5a",
+      "flag_indexes": [
+        232,
+        233,
+        234,
+        235,
+        236,
+        237
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/QUALIFICATION-REASONS.json",
+          "sha256": "79794ebc58c3c4cc37acd9928f56801266879115d891afaf833dd61e5677027b"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/EXECUTION-LEDGER.json",
+          "sha256": "7eacaf9cec9a1e3b242e3d78530fd3520b3ba7c81540154af8dfceff329e94e9"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/REMOTE-GENERATING-QUALIFICATION-BINDING.json",
+          "sha256": "4fc1d28b83cdda75eed0bc556b4a032b652d8e65a0d29708113b763b4109ad04"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "3eb5896ee10c50a04a4288b498d1dd99d224442932518229bd49bb26679c06e2"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/INDEPENDENT-PARENT-23-QUALIFICATION-ASSOCIATION.json",
+          "sha256": "edb7da3a129c1b96e3dfad09b7354c7bacc9a928efe04a140c8ef74d6ce38774"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/INDEPENDENT-DEPTH-167-QUALIFICATION-ASSOCIATION.json",
+          "sha256": "3df273b483ffb0e958bd6774490af7f732921b1507d30b93d8f5797e0ba5b948"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A08-EXCLUSION-REVIEW.json",
+      "cold_review_sha256": "e4d42cf13e6c2a07d9b97a43e7afd0d7a310a80bad1055c02a8cc570e93eb80c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A09",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "owner": "argument_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/candidates/A09-Tattvic-Differential-Field.md.txt",
+      "candidate_sha256": "636011721366d32bef45359b861619be701b9ee0620b58572f4f8df24bb8c799",
+      "flag_indexes": [
+        238,
+        239,
+        240,
+        241,
+        242,
+        243
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/QUALIFICATION-REASONS.json",
+          "sha256": "68b0a19e3fdcc8cd4c7dcb297ea17536fa641577fa2961d57c134cf2015f1784"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/EXECUTION-LEDGER.json",
+          "sha256": "be9afaba3a10b5b6555136c224bf2ebfeba9c7045c90c52dc048aa038e1f3775"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "66f96c0d8c9dda34affb15497ee94189229102387d7277f764456e4c42ea4c49"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A09-CONTRACTION-REVIEW.json",
+      "cold_review_sha256": "d81cee37eee47c6902a0e0852006828d357852c3be36e5d84dc740425927b1d3",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C01",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/candidates/C01-Subject-Defined-Indefinability.md.txt",
+      "candidate_sha256": "7f5ef2bc2793f81f5ef89b4276e280d25e911157456ff22599b31553097885c9",
+      "flag_indexes": [
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/EXECUTION-LEDGER.json",
+          "sha256": "de2dbc8d5db9944fcd552c6332dc1c580eacb66fdaceae34f4334a8407b602c6"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-SUBJECT-HORIZON-TWO-REVIEW.json",
+      "cold_review_sha256": "198aed80c8e387baea1883c9f6a8f50cf3d8cb114f1a8a21c31fdedbf149d654",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C04",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/candidates/C04-Formal-Limit.md.txt",
+      "candidate_sha256": "a7321a1210ce48a2921876c445365e3e2c7b8a50c05d2486fa27a71defbbdd29",
+      "flag_indexes": [
+        258,
+        259,
+        260
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+          "sha256": "0258240dff450fbcdbe22ec501e189911f7868a705048994f7ff6cb6374e36f1"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-FORMAL-LIMIT-REVIEW.json",
+      "cold_review_sha256": "3e7e1666cf5ad269baf3052a1ce743162cf4a63abbe55237f3e7febb0c76216f",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C05",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/candidates/C05-Immutable-Gap.md.txt",
+      "candidate_sha256": "0c05582dc713dea6990c3c52aa6ab11cdad32410cc3132a261cb2281f0694ade",
+      "flag_indexes": [
+        261,
+        262,
+        263,
+        264,
+        265,
+        266
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+          "sha256": "09bcc24687ff31e63fd01401c9aa228f5c36d732d8749d8b7a81c8dcdaca524d"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-IMMUTABLE-GAP-REVIEW.json",
+      "cold_review_sha256": "0c9c90851c7af2a2911cd1a989a160d5a4ed049ee40c5cf74ce45b991d5e27e0",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C08",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/candidates/C08-Context-Context-Frame.md.txt",
+      "candidate_sha256": "ddf23193e7ec6c05da0572f541484bb4b1d77e00092901de4e3529ec9bab580d",
+      "flag_indexes": [
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+          "sha256": "34fbe10d18de543f89a976ee788ef9bce5d92200f4366f420c26b6bcfedeae9b"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-CONTEXT-REVIEW.json",
+      "cold_review_sha256": "bd02a818d8a13fda2cf0ab98e9d3b287523537f6b498d5076fee9aa6b293d3bd",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C09",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/candidates/C09-Diaphaneity.md.txt",
+      "candidate_sha256": "7b971863dd5e3feaada597579a3e025bfe74a02459814b264407025bcba4fb21",
+      "flag_indexes": [
+        276,
+        277,
+        278,
+        279,
+        280,
+        281
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+          "sha256": "ef8f1dc6715ce2d276e9e6bcb1f250d35a2872424c09cfe9816ab1ffb7abc498"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-DIAPHANEITY-REVIEW.json",
+      "cold_review_sha256": "30e80c36a94adbe12c9071dee54a09a4b64e86a0a74338691f7a47df1688396b",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C10",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C10-Mediation-Pramana.md.txt",
+      "candidate_sha256": "d795b6a0e9912295a286740246ddc29a306e54eabb482e6c33a2cabe073f8507",
+      "flag_indexes": [
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "b296f604fcf2e2582f6f7abad01a20e2b1336523e0b46871c27244b93e2d517c"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/QUALIFICATION-REVIEW.json",
+          "sha256": "01ceed916b6861837b045cf6426df2f6490ac4d6ce550278eacb32d8123a2f32"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-MEDIATION-CULTURE-FOCAL-REVIEW.json",
+      "cold_review_sha256": "7d53366bbb24af44e9f8e52d6736c12b3846dd157d18021f4629326514df744c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C12",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C12-Script-Frozen-Conditioned-Will.md.txt",
+      "candidate_sha256": "d151bee5b70b68b64cde5da7abea8cb07c412b7546b54505ca16f2f81f9de3dd",
+      "flag_indexes": [
+        289,
+        290,
+        291,
+        292
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/EXECUTION-LEDGER.json",
+          "sha256": "dbd8aaed1b1484457581f7c70894f7a778380f4f3766b38b65790919104cd662"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "042a0f8013e2b4c2a3a106e6ae30c39539d8072ddd5bfb2e7c6f3a66f80eef26"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json",
+      "cold_review_sha256": "5a28461ef5898c45a24aa275830b0bcc6907be2274da5d7166a93ef55d258e98",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C13",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/candidates/C13-Prakasa-Vimarsa.md.txt",
+      "candidate_sha256": "4be0fd5c42f98a500a198d7c76b24e30b7f90e441c230022a02714268a3c0962",
+      "flag_indexes": [
+        293,
+        294,
+        295,
+        296,
+        297
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/EXECUTION-LEDGER.json",
+          "sha256": "a97bd86aeb8a99101c89c26933eea66fcea4c6bd8fc041bd032a79828e686626"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-REFLEXIVE-TWO-REVIEW.json",
+      "cold_review_sha256": "25559e1771a1779cae18e67fa7c177af6460dc6d285c6ec5bd41d2e9211f2edf",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C15",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/candidates/C15-Pasu-Bounded-Subject-Position.md.txt",
+      "candidate_sha256": "5c300d0883dc749410ebeb3de8f873af3010732672f61664175403d80cd11213",
+      "flag_indexes": [
+        298,
+        299,
+        300,
+        301
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/EXECUTION-LEDGER.json",
+          "sha256": "de2dbc8d5db9944fcd552c6332dc1c580eacb66fdaceae34f4334a8407b602c6"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-SUBJECT-HORIZON-TWO-REVIEW.json",
+      "cold_review_sha256": "198aed80c8e387baea1883c9f6a8f50cf3d8cb114f1a8a21c31fdedbf149d654",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C16",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/candidates/C16-Antahkarana-Inner-Instrument.md.txt",
+      "candidate_sha256": "df486b8070136400c9930c6cf1351ef28528dfd676831cdef8584451ad62eaff",
+      "flag_indexes": [
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/EXECUTION-LEDGER.json",
+          "sha256": "a97bd86aeb8a99101c89c26933eea66fcea4c6bd8fc041bd032a79828e686626"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-REFLEXIVE-TWO-REVIEW.json",
+      "cold_review_sha256": "25559e1771a1779cae18e67fa7c177af6460dc6d285c6ec5bd41d2e9211f2edf",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C17",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-script-return/candidates/C17-Vikalpa-Samkalpa.md.txt",
+      "candidate_sha256": "fa350f80cc5f330fad8c04cce5e5edbed562a328e7e2b6a201c0785e31d0a4dd",
+      "flag_indexes": [
+        307,
+        308
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-script-return/EXECUTION-LEDGER.json",
+          "sha256": "f9129b998c4b7bba1cdc536b144ae840978db48a0d30d0ff6195483338571b3a"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/INDEPENDENT-CONCEPT-MEANS-SCRIPT-THREE-REVIEW.json",
+      "cold_review_sha256": "68e389a9bce359c688dfbd1892515b9aede6d21bd9cd53621fcdb1c4e1916e80",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C21",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/candidates/C21-Living-Symbol-Idol.md.txt",
+      "candidate_sha256": "62b99e255fcdacc7729dde40c13642e2a1101dc738599a745e10451ffc1b6788",
+      "flag_indexes": [
+        309,
+        310,
+        311,
+        312,
+        313,
+        314
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/EXECUTION-LEDGER.json",
+          "sha256": "af41fe675b6677a98c2b5c5caca8798e723b432e9bb022d9d51135d38c187912"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/INDEPENDENT-CONCEPT-SYMBOLIC-REFERENCE-THREE-REVIEW.json",
+      "cold_review_sha256": "0d7ed5330ecf8141334662fa590498ffc7a711c0dba0f20e3c0ca11680f1c6c1",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C25",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C25-Counterfeit-Gathering.md.txt",
+      "candidate_sha256": "80af1441b206a6a3f0a9ac624e03b36367408c27fd43b04ad0a0de4ae4758607",
+      "flag_indexes": [
+        315,
+        316,
+        317
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C26",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C26-Monoisation-Counter-Generation.md.txt",
+      "candidate_sha256": "cff7a77455de8ffc06959926ffd34387f19a793dfe3f0007f9a15b30423429a4",
+      "flag_indexes": [
+        318
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C28",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C28-Covenant-Primary-Arbitration.md.txt",
+      "candidate_sha256": "61d4b68bbb06fc30664609eca0545a2c03424cacb66dc9a9c276286ceb4a148d",
+      "flag_indexes": [
+        319,
+        320,
+        321
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C32",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/candidates/C32-Archetype.md.txt",
+      "candidate_sha256": "df2fb88536c00a768531b0cea9fcaeb70c0f9c683d2edb2517be28b8287c7a3d",
+      "flag_indexes": [
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/EXECUTION-LEDGER.json",
+          "sha256": "af41fe675b6677a98c2b5c5caca8798e723b432e9bb022d9d51135d38c187912"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/INDEPENDENT-CONCEPT-SYMBOLIC-REFERENCE-THREE-REVIEW.json",
+      "cold_review_sha256": "0d7ed5330ecf8141334662fa590498ffc7a711c0dba0f20e3c0ca11680f1c6c1",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C33",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C33-Image-Valuation.md.txt",
+      "candidate_sha256": "ca328413696385737e15569b945621953f29941a69885c4d51c48533c1723891",
+      "flag_indexes": [
+        330
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C36",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C36-Complexio-Oppositorum.md.txt",
+      "candidate_sha256": "3d118ee891fec3f1cc6bc63c26d368692276f640c2661a21e66c54c6e5540a68",
+      "flag_indexes": [
+        331,
+        332
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C37",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C37-World-Picture-to-World-Atlas.md.txt",
+      "candidate_sha256": "5d84fcdc196d353d97c64bc0ef76e3baeeb5ae1ffa4a27c840f0abd158a505f6",
+      "flag_indexes": [
+        333,
+        334,
+        335
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C38",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/candidates/C38-Bimba-Pratibimba-Bimba-Map.md.txt",
+      "candidate_sha256": "0b9b57f5f4232377f4a773ff97eebdf70caaab32dd8ff80e4f2b38d76b583945",
+      "flag_indexes": [
+        336,
+        337,
+        338
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/EXECUTION-LEDGER.json",
+          "sha256": "af41fe675b6677a98c2b5c5caca8798e723b432e9bb022d9d51135d38c187912"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/INDEPENDENT-CONCEPT-SYMBOLIC-REFERENCE-THREE-REVIEW.json",
+      "cold_review_sha256": "0d7ed5330ecf8141334662fa590498ffc7a711c0dba0f20e3c0ca11680f1c6c1",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C40",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C40-Model-Internality-Judgment-Field.md.txt",
+      "candidate_sha256": "c77b53031dd3ffb6bb90fdcfdde53e44680a4f03f946be3710be4930d53c10ac",
+      "flag_indexes": [
+        339,
+        340,
+        341,
+        342,
+        343
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/EXECUTION-LEDGER.json",
+          "sha256": "dbd8aaed1b1484457581f7c70894f7a778380f4f3766b38b65790919104cd662"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "042a0f8013e2b4c2a3a106e6ae30c39539d8072ddd5bfb2e7c6f3a66f80eef26"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json",
+      "cold_review_sha256": "5a28461ef5898c45a24aa275830b0bcc6907be2274da5d7166a93ef55d258e98",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C44",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/candidates/C44-Prompt-Thrownness.md.txt",
+      "candidate_sha256": "cc8ccd9c2378e3c16100c9a047ea61ed227388ee5c1432eb59518e99eb74dbc0",
+      "flag_indexes": [
+        344,
+        345,
+        346
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/EXECUTION-LEDGER.json",
+          "sha256": "dbd8aaed1b1484457581f7c70894f7a778380f4f3766b38b65790919104cd662"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "042a0f8013e2b4c2a3a106e6ae30c39539d8072ddd5bfb2e7c6f3a66f80eef26"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json",
+      "cold_review_sha256": "5a28461ef5898c45a24aa275830b0bcc6907be2274da5d7166a93ef55d258e98",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C45",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C45-Operational-Parity.md.txt",
+      "candidate_sha256": "05a6f75646e857540db45ef5ce2517fa62ae0ba63feda80d79489399f636b2be",
+      "flag_indexes": [
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/EXECUTION-LEDGER.json",
+          "sha256": "ad4fd58175db2f19ee0738a6c1b588a1c7924b7bbe65b6bf24f290c5541fbd74"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/INDEPENDENT-CONCEPT-MEANS-SCRIPT-THREE-REVIEW.json",
+      "cold_review_sha256": "68e389a9bce359c688dfbd1892515b9aede6d21bd9cd53621fcdb1c4e1916e80",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C48",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C48-Trust-Faith-under-Formal-Limit.md.txt",
+      "candidate_sha256": "de2b7e8516afdde34218609d7860830e8cdb570e7b2401e426628e131def171b",
+      "flag_indexes": [
+        355,
+        356
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C49",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C49-The-Two-Ones-0-One-1-All.md.txt",
+      "candidate_sha256": "6d14e1a0ea126027b1c4dbffe90931d528f900e1e66604a7b59619afa8970ee7",
+      "flag_indexes": [
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C50",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/candidates/C50-Dia-Syn.md.txt",
+      "candidate_sha256": "c92b9feb6d201cc7c9c8472c778488d1f69c313e0f7695bebe57ce59250e198a",
+      "flag_indexes": [
+        365,
+        366,
+        367,
+        368
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "6a60d302899f138da704c418c0011160764b611509d8075b41cb2f24f81b5b77"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+          "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "cold_review_sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C51",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/candidates/C51-Logos-Epi-Logos.md.txt",
+      "candidate_sha256": "a8e2a14e2c579e868a0d473b5204c7ba7c4f3e79e0432a6370d11193fec7e6f2",
+      "flag_indexes": [
+        369,
+        370
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/EXECUTION-LEDGER.json",
+          "sha256": "ad4fd58175db2f19ee0738a6c1b588a1c7924b7bbe65b6bf24f290c5541fbd74"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/INDEPENDENT-CONCEPT-MEANS-SCRIPT-THREE-REVIEW.json",
+      "cold_review_sha256": "68e389a9bce359c688dfbd1892515b9aede6d21bd9cd53621fcdb1c4e1916e80",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C55",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/candidates/C55-Reflective-Field-Mirror-That-Moves-First.md.txt",
+      "candidate_sha256": "fcb68fcf165c89f5df42fd10262b9e1e1dee4092461325f2380d251048f48396",
+      "flag_indexes": [
+        371,
+        372,
+        373,
+        374
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+          "sha256": "0a56d72c1070176a327b4bb66aa409b4cdaeaa1d1181fcfe3565a6f875bbe12a"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-CONCEPT-MIRROR-REVIEW.json",
+      "cold_review_sha256": "8c3d4aef33bb421d2fcbec74396da2bc6d65c71c57be8655264fdace3f641f02",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C59",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C59-Cultural-Individuation-Epi-Logos-as-Culture.md.txt",
+      "candidate_sha256": "048034e8446c31dac7eb832222713adacd56d82c10bc27276459ff7254249134",
+      "flag_indexes": [
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "b296f604fcf2e2582f6f7abad01a20e2b1336523e0b46871c27244b93e2d517c"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/QUALIFICATION-REVIEW.json",
+          "sha256": "01ceed916b6861837b045cf6426df2f6490ac4d6ce550278eacb32d8123a2f32"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-MEDIATION-CULTURE-FOCAL-REVIEW.json",
+      "cold_review_sha256": "7d53366bbb24af44e9f8e52d6736c12b3846dd157d18021f4629326514df744c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C63",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/candidates/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md.txt",
+      "candidate_sha256": "e73e48f70d2c9db31b170ba218e8875dfc506f0ea7cae5f3289d1f4f1c632419",
+      "flag_indexes": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/LIGHTWEIGHT-CHECKS.json",
+          "sha256": "b296f604fcf2e2582f6f7abad01a20e2b1336523e0b46871c27244b93e2d517c"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/QUALIFICATION-REVIEW.json",
+          "sha256": "01ceed916b6861837b045cf6426df2f6490ac4d6ce550278eacb32d8123a2f32"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-MEDIATION-CULTURE-FOCAL-REVIEW.json",
+      "cold_review_sha256": "7d53366bbb24af44e9f8e52d6736c12b3846dd157d18021f4629326514df744c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C42",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C42-Objective-Co-Internality.md.txt",
+      "candidate_sha256": "0a47d352ba69f590566b350e631e130d76cc9dd6d8422c2173affbd260d37165",
+      "flag_indexes": [
+        390,
+        391,
+        392,
+        393,
+        394
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/QUALIFICATION-REASONS.json",
+          "sha256": "15f9842052edd069ec13b0f835f3866bb6b364d12e27ce3f5d6cbf1a20b29b4e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/EXECUTION-LEDGER.json",
+          "sha256": "e8f6ec26042136ed4983cc9eb9da999cba09886637efb21040deaeec11042152"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+      "cold_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C43",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C43-Computational-Vimarsa.md.txt",
+      "candidate_sha256": "970bf57a1ea55a093fc177e6e292027ec36b4af78dd37767ff35ab5f04ade8d2",
+      "flag_indexes": [
+        395,
+        396
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/QUALIFICATION-REASONS.json",
+          "sha256": "15f9842052edd069ec13b0f835f3866bb6b364d12e27ce3f5d6cbf1a20b29b4e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/EXECUTION-LEDGER.json",
+          "sha256": "e8f6ec26042136ed4983cc9eb9da999cba09886637efb21040deaeec11042152"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+      "cold_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C46",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C46-Epistemic-Cultivation.md.txt",
+      "candidate_sha256": "8c589cb22f93c8bbd37a25cddc1c27234faf5d4fa15f9e41c395d80db26e0275",
+      "flag_indexes": [
+        397,
+        398,
+        399,
+        400,
+        401,
+        402
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/QUALIFICATION-REASONS.json",
+          "sha256": "15f9842052edd069ec13b0f835f3866bb6b364d12e27ce3f5d6cbf1a20b29b4e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/EXECUTION-LEDGER.json",
+          "sha256": "e8f6ec26042136ed4983cc9eb9da999cba09886637efb21040deaeec11042152"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+      "cold_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "C60",
+      "native": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/candidates/C60-Idealism-Order-of-Dependence.md.txt",
+      "candidate_sha256": "fc89f1f910a63b3a3bba8734a6f8da47f532ec53cd02492e676f976d0cbcf8c0",
+      "flag_indexes": [
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/QUALIFICATION-REASONS.json",
+          "sha256": "15f9842052edd069ec13b0f835f3866bb6b364d12e27ce3f5d6cbf1a20b29b4e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/EXECUTION-LEDGER.json",
+          "sha256": "e8f6ec26042136ed4983cc9eb9da999cba09886637efb21040deaeec11042152"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+      "cold_review_sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "E4",
+      "native": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "owner": "concept_recovery",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/E4-candidate.md.txt",
+      "candidate_sha256": "9b3f79873eef3d44ddfeef9d21d08bd0949132ca9945537d883410a7269abcf5",
+      "flag_indexes": [
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/EXECUTION-LEDGER.json",
+          "sha256": "4ef795622f3e7d0bdcbb38a97e5c027b2c4e797a679508365750c089ce1c800e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/RETURNED-SEMANTIC-LEDGER.json",
+          "sha256": "fb1826ea2c9dbf3e275d616ef0f58942ccf2ab86db30e1963a3de5605cda6dc3"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/QUALIFICATION-REVIEW.json",
+          "sha256": "017cc3ca58e6a19277b6a223634a2ed0ed6697c03251262ecd642d31947499ec"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-etymology-e4-cold/INDEPENDENT-E4-ROOT-REVIEW.json",
+      "cold_review_sha256": "ab03b93396634b727c41cbf0c4efc7964d3bcd5f8f5714ffb6c765c6681dd78a",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "S",
+      "native": "submission-package/essay/symbolon/episteme/products/S-World-and-Life.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S-World-and-Life-candidate.md.txt",
+      "candidate_sha256": "bde0c0dff46fc44cf5f113a3dd89120d8ed1be4f37abd5820831d3cfd4e84c44",
+      "flag_indexes": [
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/EXECUTION-LEDGER.json",
+          "sha256": "37811770db7edffade9c6ab6333e1323864544c7c0ca4d226236ad1b2a20211e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "cold_review_sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "S0",
+      "native": "submission-package/essay/symbolon/episteme/products/S0-Central.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S0-Central-candidate.md.txt",
+      "candidate_sha256": "a26b4051180e6d0c41e3431518cfe465431d97a410e52b7ec1243fb230867d25",
+      "flag_indexes": [
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/EXECUTION-LEDGER.json",
+          "sha256": "37811770db7edffade9c6ab6333e1323864544c7c0ca4d226236ad1b2a20211e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "cold_review_sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "S1",
+      "native": "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S1-Actuation-candidate.md.txt",
+      "candidate_sha256": "6ce78e08e8d27c13a08199f7cebfb6626b826fbcff1f045fff1820c3da1e07e7",
+      "flag_indexes": [
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/EXECUTION-LEDGER.json",
+          "sha256": "37811770db7edffade9c6ab6333e1323864544c7c0ca4d226236ad1b2a20211e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "cold_review_sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "S3",
+      "native": "submission-package/essay/symbolon/episteme/products/S3-Software-Factory.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S3-Software-Factory-candidate.md.txt",
+      "candidate_sha256": "0eaaabc6a099c3117696749f0a3f112a710b5656c56f1a12cc0e82ccae0a8eae",
+      "flag_indexes": [
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/EXECUTION-LEDGER.json",
+          "sha256": "37811770db7edffade9c6ab6333e1323864544c7c0ca4d226236ad1b2a20211e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "cold_review_sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "S4",
+      "native": "submission-package/essay/symbolon/episteme/products/S4-Workcell.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S4-Workcell-candidate.md.txt",
+      "candidate_sha256": "43c2b719a188dd82777948eb93ce1dd06c2ca3a14b8e6ee0758f97f81aa9a1ce",
+      "flag_indexes": [
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/EXECUTION-LEDGER.json",
+          "sha256": "37811770db7edffade9c6ab6333e1323864544c7c0ca4d226236ad1b2a20211e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "cold_review_sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "S5",
+      "native": "submission-package/essay/symbolon/episteme/products/S5-Quaternal-Logic.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/S5-Quaternal-Logic-candidate.md.txt",
+      "candidate_sha256": "150cc772e2cb1417380f5637656664022f8207f545cd79549dfbb82176148dbd",
+      "flag_indexes": [
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/EXECUTION-LEDGER.json",
+          "sha256": "37811770db7edffade9c6ab6333e1323864544c7c0ca4d226236ad1b2a20211e"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "cold_review_sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    },
+    {
+      "key": "A16",
+      "native": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "owner": "parent",
+      "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-A16-differential-return/A16-candidate.md.txt",
+      "candidate_sha256": "a3e67cc0ea38f718510fd056ac82411b2d2bb690b9bd441df9d0d4116cf0dd52",
+      "flag_indexes": [
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513
+      ],
+      "reason_ledger_paths": [
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-A16-differential-return/EXECUTION-LEDGER.json",
+          "sha256": "bfcf0d2082122cbf279fa4f834397a832b785238ed40ce6c47692aca1b142bbb"
+        },
+        {
+          "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-A16-differential-return/INDIVIDUAL-QUALIFICATIONS.json",
+          "sha256": "8759fb06df5de77238f27508f6ffef012246b96b4b1876987eaa15ae6c8c5263"
+        }
+      ],
+      "cold_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-A16-DIFFERENTIAL-REVIEW.json",
+      "cold_review_sha256": "6b8bfcdf552d064b157c7ac740eaf5c29d06b5c5916e5aa0163b8ecca56c61b4",
+      "source_acceptance_scope": "Exact prior independent full operation/source receipt; no audit-generated acceptance."
+    }
+  ],
+  "proofs": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-advent-return/CANDIDATE-MANIFEST.json",
+      "sha256": "b7b2eeda369c46c08a3144821b61e274c475998d783a40f6fdb6d14de48c5714",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A10-FIRST-ADVENT-REVIEW.json",
+      "sha256": "9ad13aab070786a889b616c41a56b073e4302669f9a792eb0788b0bc3b1d7321",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/CANDIDATE-MANIFEST.json",
+      "sha256": "b7d971fbbfcb6bc6bc18377e827c6442ee432342eae2fe38231833da29a47c50",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/INDEPENDENT-A01-REVIEW.json",
+      "sha256": "7d88ea553b821aa26ee158f0b1534a0a3d2da455f9de09c8518ba2fe0dc77336",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/CANDIDATE-MANIFEST.json",
+      "sha256": "4bea1ea45b6ba02c3e773f1f5a57a3267889b6cf1a99ee3531c53f754932bb49",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/INDEPENDENT-A11-REVIEW.json",
+      "sha256": "599be9cd2c9f7c71f7fdc7ace3d6e27095244c4a56b1ab3765b56dc32953f0db",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/CANDIDATE-MANIFEST.json",
+      "sha256": "78603b1483cd0f284907c521db8df6a609d456f29c9fae170f87fa18ecc5e12d",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/INDEPENDENT-A06-REVIEW.json",
+      "sha256": "249bb6e855b5ce0d25c4be9ab1763f1928cae27b31888361fc6fb259943cd5eb",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-process-return/QUALIFICATION-LEDGER.json",
+      "sha256": "751b4eaee981fc5df08704a465bf7547d69db53374ffeaee8559f414e98b16bf",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-process-return/CANDIDATE-MANIFEST.json",
+      "sha256": "72e66ab114558988b445bc0a6311fecb5e7f212db7a5767e388fd5a820c276fe",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/INDEPENDENT-A14-PROCESS-REVIEW.json",
+      "sha256": "5ee3d453767a083d258920865544c2bafb9b9fe344ea2425c5f9630c7349734b",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/CANDIDATE-MANIFEST.json",
+      "sha256": "20f7e23ee53e0a7d1086638749b2119b37ac4ec7ac58f2db65ace7630b521bb5",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/INDEPENDENT-A32-REVIEW.json",
+      "sha256": "4123c26031002d50cb2c7fce13401100da07ba03d0ebb0480d43ca5718ef5833",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A32-PRIME-REVIEW.json",
+      "sha256": "a99f10de5aef0a6ade93b181dbe44beac582e3c16edb4b8cae19df70728c6cd9",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27-QUALIFICATION-LEDGER.json",
+      "sha256": "aaf677a1c3d443f4a878ac1f36d4f6b64714ac8525b9630b4b41aab578328569",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/CANDIDATE-MANIFEST.json",
+      "sha256": "52d8fa0c8e1c9af5fb8a32d1c043129e39058e74d487c34bb3a158759a529756",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDEPENDENT-RECIPROCAL-PAIR-REVIEW.json",
+      "sha256": "57291240bd4fccf88556dd4f24eab581070b5fa09ee86d4e9c95a24ee7255264",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A27p-QUALIFICATION-LEDGER.json",
+      "sha256": "1d9da3081a1c8d428827be1ac958e2d0f86f52fe190300c68c71d3631a702da7",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/A30-QUALIFICATION-LEDGER.json",
+      "sha256": "7b7101beeaa1cc80f53d33a3fe56a722f4d96bb62b77e8a8fba55ef907dec7b2",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A30-RECIPROCAL-REVIEW.json",
+      "sha256": "ffd21fef1289462020771af9abddf26cb207d1ec6c4dc0c5304a169d6692c116",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/CANDIDATE-MANIFEST.json",
+      "sha256": "c378e3afb186c69dbe76b18fa38adb56df8b61a6c5ed57927f17f5aac60d44af",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/INDEPENDENT-LABOUR-PAIR-REVIEW.json",
+      "sha256": "a0e2457f0cf45279233ee14f9db5fa8a6fec19b98c188122c21f88598bb6d0bc",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/CANDIDATE-MANIFEST.json",
+      "sha256": "eff668d267d856e5215431e50e3ec381386d8ed91bde7643d7c0969f13987542",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A15-MEASURE-REVIEW.json",
+      "sha256": "03cf8232f6d42d650308f024e8e6ed8edaa77a2ae689843ecc5a2da2024119dc",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-arbitration-return/CANDIDATE-MANIFEST.json",
+      "sha256": "a655c97b39dd2722d2ef0ef75e8ca2548d31a330f6a3b7e01c01bece4ece4e20",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/INDEPENDENT-ARBITRATION-REVIEW.json",
+      "sha256": "54bfd5a43e021ea6aa2b423b949b307a9efe6947e882a1cbea4059ddcf123244",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/CANDIDATE-MANIFEST.json",
+      "sha256": "7ba50ce661578c27958303d651420be631c6379b6c70736943dcae7d7368a531",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/INDEPENDENT-COVENANT-PAIR-REVIEW.json",
+      "sha256": "33b1aab2bc8f5efd8e2a5fe1d4f35681bc42e63c77537f2cdaf8de40c778d6fa",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/PRIME-CANDIDATE-MANIFEST.json",
+      "sha256": "a82805c9c62c6f9384ecdbda1eff55ada0be6e1879fdba98731be144735afcb2",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/QUALIFICATION-LEDGER.json",
+      "sha256": "a0672078392e851ab2faf3922dbf90bae2c08316c4cc7fadd4f8ed770edcb4b1",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-trust-return/CANDIDATE-MANIFEST.json",
+      "sha256": "4df8685ba8d0dfb0662c40f34b2d32e619f03dfefad98f5a70bfe705b401f19a",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-TRUST-ARGUMENT-REVIEW.json",
+      "sha256": "11b725ebe02f1c2bbeca34563c8530fd964fb4c05edf1d4f268ef81d9150fb8f",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A23-PRIME-TRUST-REVIEW.json",
+      "sha256": "12f1f3cacab155c8b62f9a6f487f2faee7e07fd96a74f45cb88ae95c71a4ddc6",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/QUALIFICATION-LEDGER.json",
+      "sha256": "459baed00377baa905d28cb722c57b561b92e670365430c9b5982107ed667d9f",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/CANDIDATE-MANIFEST.json",
+      "sha256": "c6c3305fee086afbaff6a29d34eed8e01cf5cb9732ae3a830b7bb8f724e1dea7",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-IMMUTABLE-GAP-ARGUMENT-REVIEW.json",
+      "sha256": "2197fbcfd2109a8f1db3d6d8d3fc73484850462097d6df99740cc5ec3716b6d8",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/INDEPENDENT-A03-PRIME-GAP-REVIEW.json",
+      "sha256": "45c9a3a6200fb82f664460974693c9194b9d36d6d122fd8993850a6147f1373c",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/QUALIFICATION-REASONS.json",
+      "sha256": "c2654101e94f3fc5c22b3c6d2308cacfad0c5561a999df33981325e74e8bb072",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-local-regime-return/CANDIDATE-MANIFEST.json",
+      "sha256": "8b4d4adf9b2ff2513143ed378bcd203dba388ab1028f7a56b1b8d07859f9b45f",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-aphorism-return/INDEPENDENT-LOCAL-REGIME-ARGUMENT-REVIEW.json",
+      "sha256": "d9983e5ecfc786d58bb3f4c74672140b09836843870ca384a8b61488297cd987",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/QUALIFICATION-REASONS.json",
+      "sha256": "55689cd5908618d29dfcf82b3c95935affa593a6c11affa557081e034815c0c1",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contextual-return/CANDIDATE-MANIFEST.json",
+      "sha256": "fdd2a14919b06b8486ea6837b8764a0eeed6708d50f69d979fdcef117ca3759f",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A04-CONTEXTUAL-REVIEW.json",
+      "sha256": "405803efb15f2d26df431a836b1d0ad810397a3081b76dcea9cecc1ecb064ac7",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/QUALIFICATION-REASONS.json",
+      "sha256": "79794ebc58c3c4cc37acd9928f56801266879115d891afaf833dd61e5677027b",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-exclusion-return/CANDIDATE-MANIFEST.json",
+      "sha256": "96ebccc3108d69f8a7f041adcf2180d817649888b1afabd2db7a82b507d98dab",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A08-EXCLUSION-REVIEW.json",
+      "sha256": "e4d42cf13e6c2a07d9b97a43e7afd0d7a310a80bad1055c02a8cc570e93eb80c",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/QUALIFICATION-REASONS.json",
+      "sha256": "68b0a19e3fdcc8cd4c7dcb297ea17536fa641577fa2961d57c134cf2015f1784",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-contraction-return/CANDIDATE-MANIFEST.json",
+      "sha256": "5174c99471188bc2bdded4507419163bd61655c24133337e2fe0cefc9ef9519f",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-A09-CONTRACTION-REVIEW.json",
+      "sha256": "d81cee37eee47c6902a0e0852006828d357852c3be36e5d84dc740425927b1d3",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/CANDIDATES.json",
+      "sha256": "fdd5e4d4f2595fc5005767775048e133a186ef05455b2ecfcb3a4c03f1f84416",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-SUBJECT-HORIZON-TWO-REVIEW.json",
+      "sha256": "198aed80c8e387baea1883c9f6a8f50cf3d8cb114f1a8a21c31fdedbf149d654",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+      "sha256": "0258240dff450fbcdbe22ec501e189911f7868a705048994f7ff6cb6374e36f1",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-formal-limit-return/CANDIDATES.json",
+      "sha256": "20c2e78441b988b298421d81c5ee637bba55b86850cea8ea90a2a1f902592301",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-FORMAL-LIMIT-REVIEW.json",
+      "sha256": "3e7e1666cf5ad269baf3052a1ce743162cf4a63abbe55237f3e7febb0c76216f",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+      "sha256": "09bcc24687ff31e63fd01401c9aa228f5c36d732d8749d8b7a81c8dcdaca524d",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-gap-return/CANDIDATES.json",
+      "sha256": "318dd4f8983fcb7b8edaf25418cd0200c403fefddd0585c98ac7b404ca525069",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-IMMUTABLE-GAP-REVIEW.json",
+      "sha256": "0c9c90851c7af2a2911cd1a989a160d5a4ed049ee40c5cf74ce45b991d5e27e0",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+      "sha256": "34fbe10d18de543f89a976ee788ef9bce5d92200f4366f420c26b6bcfedeae9b",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-context-return/CANDIDATES.json",
+      "sha256": "143d9d8110ff816506de651e3f15800bf5b23d025fccdb2090063eeb2422786d",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-CONTEXT-REVIEW.json",
+      "sha256": "bd02a818d8a13fda2cf0ab98e9d3b287523537f6b498d5076fee9aa6b293d3bd",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+      "sha256": "ef8f1dc6715ce2d276e9e6bcb1f250d35a2872424c09cfe9816ab1ffb7abc498",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-diaphaneity-return/CANDIDATES.json",
+      "sha256": "203ee7867a85f1e8339b9f2d30b39528692b244af520085cabc4ab1b705a0c7d",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-DIAPHANEITY-REVIEW.json",
+      "sha256": "30e80c36a94adbe12c9071dee54a09a4b64e86a0a74338691f7a47df1688396b",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/QUALIFICATION-REVIEW.json",
+      "sha256": "01ceed916b6861837b045cf6426df2f6490ac4d6ce550278eacb32d8123a2f32",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/CANDIDATES.json",
+      "sha256": "f645c6ef66a53cc2a28b1c6dbaaa4cb14714967770bd7699141a3ca2fbf76734",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/INDEPENDENT-MEDIATION-CULTURE-FOCAL-REVIEW.json",
+      "sha256": "7d53366bbb24af44e9f8e52d6736c12b3846dd157d18021f4629326514df744c",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "042a0f8013e2b4c2a3a106e6ae30c39539d8072ddd5bfb2e7c6f3a66f80eef26",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-inherited-judgment-return/CANDIDATES.json",
+      "sha256": "9532d3d535e6f174b38f97a91718a4619c7b128e4c5cb9d1e74865574c1a099b",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-INHERITED-JUDGMENT-THREE-REVIEW.json",
+      "sha256": "5a28461ef5898c45a24aa275830b0bcc6907be2274da5d7166a93ef55d258e98",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-reflexive-instrument-return/CANDIDATES.json",
+      "sha256": "eb80f2724c86448d1f2fb43c556821562abb41cae453357fb0d7904da1c5ba5a",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-REFLEXIVE-TWO-REVIEW.json",
+      "sha256": "25559e1771a1779cae18e67fa7c177af6460dc6d285c6ec5bd41d2e9211f2edf",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-script-return/CANDIDATES.json",
+      "sha256": "4dc8a9581ae17dc742ab0ce33bf36f8924808e7e95d09c491c14f1dd87d3f0a5",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/INDEPENDENT-CONCEPT-MEANS-SCRIPT-THREE-REVIEW.json",
+      "sha256": "68e389a9bce359c688dfbd1892515b9aede6d21bd9cd53621fcdb1c4e1916e80",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-symbolic-reference-return/CANDIDATES.json",
+      "sha256": "cabb54999d9e1fb7de6c41f1b3e09c5a20731a67dad613c4bc4b2955ebe0e2f3",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/INDEPENDENT-CONCEPT-SYMBOLIC-REFERENCE-THREE-REVIEW.json",
+      "sha256": "0d7ed5330ecf8141334662fa590498ffc7a711c0dba0f20e3c0ca11680f1c6c1",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/QUALIFICATION-REVIEW.json",
+      "sha256": "6b49bad2f1b5a88314219fd358e1fbe4b3c2a7c1e9ff05dd58938305e294fbf7",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-published-office-return/CANDIDATES.json",
+      "sha256": "0d267f3fab7216256090922d97aec5057a17ab7b36bad88e7c45e1b2495d3c2d",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/INDEPENDENT-PUBLISHED-CONCEPT-NINE-REVIEW.json",
+      "sha256": "a23518efdf98ab6f7cd954070388bffe876e351cf11a2d057a052cb2cb209b63",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-means-return/CANDIDATES.json",
+      "sha256": "8429deffeebaa29f8cdb1d8430f20265111a60e7ed8350d49b88bc1c36014760",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/INDIVIDUAL-QUALIFICATION-REVIEW.json",
+      "sha256": "0a56d72c1070176a327b4bb66aa409b4cdaeaa1d1181fcfe3565a6f875bbe12a",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mirror-return/CANDIDATES.json",
+      "sha256": "467c575bc24754373a8a28526c6e6800fb23754cd633ee148173d7fe9af84cdb",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reciprocal-return/INDEPENDENT-CONCEPT-MIRROR-REVIEW.json",
+      "sha256": "8c3d4aef33bb421d2fcbec74396da2bc6d65c71c57be8655264fdace3f641f02",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/QUALIFICATION-REASONS.json",
+      "sha256": "15f9842052edd069ec13b0f835f3866bb6b364d12e27ce3f5d6cbf1a20b29b4e",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-remaining-duty-return/CANDIDATES.json",
+      "sha256": "36810b3c614183c695af60c957661af50d1773cbd29f0dde57cc7f2552fa8092",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-concept-duty-four-cold/INDEPENDENT-CONCEPT-DUTY-FOUR-REVIEW.json",
+      "sha256": "d7d4e8611cc4707903b3b03306c853a6d77332da025ccf6107493266947abfcd",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/QUALIFICATION-REVIEW.json",
+      "sha256": "017cc3ca58e6a19277b6a223634a2ed0ed6697c03251262ecd642d31947499ec",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/CANDIDATE-MANIFEST.json",
+      "sha256": "8d74538d3c18dd1402e1e82834604f9500cb1481fbccf583205369518fb59d93",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-etymology-e4-cold/INDEPENDENT-E4-ROOT-REVIEW.json",
+      "sha256": "ab03b93396634b727c41cbf0c4efc7964d3bcd5f8f5714ffb6c765c6681dd78a",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "70d1c51a96446047e705dfb97277aa4b03eb80a0f66e85d6fe1d7b711244ba8c",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-product-field-return/CANDIDATES.json",
+      "sha256": "373e37aa0fdc956fe82593249d9ac4a9a66d2e6c30279007b0bead49f391bf55",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-product-field-cold/INDEPENDENT-PRODUCT-SEVEN-REVIEW.json",
+      "sha256": "a8c892757ec41ffef25ca1b753b43a110106d18ab20e22ea69f499efd2d8909c",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-A16-differential-return/INDIVIDUAL-QUALIFICATIONS.json",
+      "sha256": "8759fb06df5de77238f27508f6ffef012246b96b4b1876987eaa15ae6c8c5263",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-A16-differential-return/CANDIDATE-MANIFEST.json",
+      "sha256": "0b17f01f6b6f4723b96ef4e7227b525f5c3f3c1d04eb264422bfa76ead53ca21",
+      "roles": [
+        "owner_manifest"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-etymology-e4-return/INDEPENDENT-PARENT-A16-DIFFERENTIAL-REVIEW.json",
+      "sha256": "6b8bfcdf552d064b157c7ac740eaf5c29d06b5c5916e5aa0163b8ecca56c61b4",
+      "roles": [
+        "independent_source_cold"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-advent-return/A10-QUALIFICATION-REVIEW.json",
+      "sha256": "cf59a360a8b45e7dc94ddae5bea2354fe8946e4b04f31c55241c6c4a1bd0dd4c",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/A01-QUALIFICATION-LEDGER.json",
+      "sha256": "6de8ed83d7a553d004b53edd1fcff638259a1a9031563c74b472174d355e22f7",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-two-ones-return/A11-QUALIFICATION-LEDGER.json",
+      "sha256": "0a080d36a14af7e9b8e0eb1282afe376987279100cad4a2986f44cce638308b4",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-speech-return/A06-QUALIFICATION-LEDGER.json",
+      "sha256": "bd380582c8e2160378931613df3376c5fff2cb8bd64b5b873903b4dfb494ff5f",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/A32p-QUALIFICATION-LEDGER.json",
+      "sha256": "cabdfb106bf36055a8e69c88e1d210324e4b829653a1d8fdd2ace96a81117e64",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-measure-return/QUALIFICATION-LEDGER.json",
+      "sha256": "e4034bf8e29cb68f02006f0dfcc55391dfb7e1f6b72e3b502a1dcc607214e6aa",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-arbitration-return/QUALIFICATION-LEDGER.json",
+      "sha256": "2f2b8581c774009894c14de4a4cd880d7696ca8df5bbea0edfb5366550f45c14",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/PRIME-QUALIFICATION-LEDGER.json",
+      "sha256": "e31ebb6bb1d9eab72658b5e618596401a9fe74e05812913c6fd19f6f67361d9e",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-reflective-return/A32-QUALIFICATION-LEDGER.json",
+      "sha256": "405d25b910df591a0709ba98580a325cbaa79a8221b455df037925f17594cc07",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-labour-return/QUALIFICATION-LEDGER.json",
+      "sha256": "a649aaf2d99d24eb52952380c510c7b95aaf0e7c6dce88dccea675b223e57110",
+      "roles": [
+        "individual_qualification"
+      ]
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-covenant-return/QUALIFICATION-LEDGER.json",
+      "sha256": "3d61b5dd427adc4d752ee93a3fd533feb0da2feb997b0102ce5e8fcf910ec06f",
+      "roles": [
+        "individual_qualification"
+      ]
+    }
+  ]
+}

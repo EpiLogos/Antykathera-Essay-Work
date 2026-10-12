@@ -1,0 +1,41 @@
+[
+  {
+    "key": "C53",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/preimages/C53-Power-Delegated-Labour.md.txt",
+    "preimage_sha256": "d8bef8d9172e87f8b6c1b3d12e872da18bec3bb34cef9fb521e4560a4514df89",
+    "effects_exit": 0,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/candidates/C53-Power-Delegated-Labour.md.txt",
+    "candidate_sha256": "78e7fb05971490d9b8fca7be5cf30ae8dc67600329dff80758599b3ffed4e0d1",
+    "status": "independent source/public operation accepted; frozen non-live",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-public-continuation/INDEPENDENT-CONCEPT-RECEIVING-THREE-REVIEW.json",
+    "live_application": true,
+    "global_verification": "Next remote native packet pending; not foundation closure"
+  },
+  {
+    "key": "C57",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/preimages/C57-Agentworld.md.txt",
+    "preimage_sha256": "bda498d9495145adb60a7f30d81155df64dfb40dea2f7f5c56333301e09fcfb7",
+    "effects_exit": 0,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/candidates/C57-Agentworld.md.txt",
+    "candidate_sha256": "03842214b9bc260089870b6b0102c3f433712a4459a6c8f7bda97e7396b698f7",
+    "status": "independent source/public operation accepted; frozen non-live",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-public-continuation/INDEPENDENT-CONCEPT-RECEIVING-THREE-REVIEW.json",
+    "live_application": true,
+    "global_verification": "Next remote native packet pending; not foundation closure"
+  },
+  {
+    "key": "simulation",
+    "native": "submission-package/essay/symbolon/episteme/concepts/simulation.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/preimages/simulation.md.txt",
+    "preimage_sha256": "85bc2a5f5e12a9237317a11cb931e620cc8f1f8b7af30a15ab8f8853e52e4382",
+    "effects_exit": 0,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-receiving-three/candidates/simulation.md.txt",
+    "candidate_sha256": "5744e6f9afb4d215f92677604abe79507ad09bacd49dab91bd89c95d13bb4b82",
+    "status": "independent source/public operation accepted; frozen non-live",
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-public-continuation/INDEPENDENT-CONCEPT-RECEIVING-THREE-REVIEW.json",
+    "live_application": true,
+    "global_verification": "Next remote native packet pending; not foundation closure"
+  }
+]

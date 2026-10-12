@@ -1,133 +1,81 @@
-# §5 REVISION-RESPONSE — answers to COLD-REVIEW
+# §5 — Revision Response to the Independent Cold Review
 
-**Draft rejected:** `DRAFT-2.md`  
-**Review:** `COLD-REVIEW.md`  
-**Repair surface:** `FINAL-CANDIDATE.md`  
-**Standing:** every recorded fault answered; FINAL-REVIEW compression reject answered by argument recovery; writer does not approve.
+Input: `COLD-REVIEW.md`, read in full. Every reviewer citation was re-verified against the canonical record before disposition. Base text: `DRAFT-2.md`; result: `FINAL-CANDIDATE.md` (12,393 words). No file outside `sections/s5/` was modified; no git state changed.
 
-Word-count method for this response matches the reviewer’s ratio check: body after HTML comments, excluding footnote calls/definitions. Enrichment SECTION ≈ 14 171; DRAFT-2 ≈ 14 504 (≈102.3%). Floor = 90% of enrichment ≈ 12 754.
+## Fault register dispositions
 
----
+**1. L103 · quotation accuracy · "I will pay" — ACCEPTED.**
+Verified: house `homer-1919-odyssey-murray` q008 (8.344–58, wording-verified-web) reads "I will myself pay thee this." Repair: verified wording quoted. → FINAL-CANDIDATE line 107 ("Only when Poseidon assumes the default himself — 'I will myself pay thee this' —").
 
-## Five load-bearing faults
+**2. L69 · F4/G5 · "*an-a-logos*" — ACCEPTED IN PART, DISPUTED IN DIRECTION (canonical evidence cited).**
+The reviewer's citation is accurate: `symbolon/episteme/aphorisms/site-b7-m5-5-cycle-logos-atelier.md` does carry *ana-logos* (no internal hyphen) as the Logos cycle's sixth station, glossed "proportion, the return that carries meaning back toward silence, enriched." A real collision with the draft's respelling existed, and the draft's "extension of the Logos cycle ... a further release is named" phrasing read as re-glossing that station. But two higher carriers establish the draft's sense under the other spelling, and full alignment to the M5-5 record would have contradicted them: (a) the sovereign manuscript itself — `THE-RETURN-OF-ZERO.md` line 1829: "*An-a-logos*, in the author's extended Logos cycle, names a further release from the apparent finality of an achieved articulation; it is not a sixth historical structure attributed to Gebser"; (b) the live product node `section-rooms/arguments/products/S1-Actuation.md` line 74: "the author's **An-a-logos / supramental extension**. The last is QL/Epi's authored development, not a sixth Gebser structure" (the M38 room file, line 33, likewise speaks only of "the QL/Epi supramental extension ... explicitly authored," naming no term). Repair performed: the sentence now cites the book's own established determination instead of respelling anything — "In the author's extended Logos cycle, *An-a-logos* — a term belonging to this project and never to Gebser, never a sixth historical structure — names a further release: the achieved articulation can be reopened by what it failed to contain." The reviewer's required protection survives verbatim; the sense is the sovereign manuscript's own; nothing contradicts the M5-5 station because the section no longer redefines the term. **Debt named below** for the M5-5-vs-manuscript gloss divergence. → line 73.
 
-### 1. Missing SOURCE houses (NHS/Palantir/OPTICA, Hashimoto, PydanticAI, DeepSeek, US/China plans, CDAO, Agent Skills, AlphaEvolve; also Anthropic ¶67)
+**3. L117 · attribution · "a humanity of the gaps" — ACCEPTED.**
+Verified: `bratton-2026-agentworld-brief` q034 (quotation-ready) — "a 'humanity of the gaps' trap, ... like the older 'god of the gaps' dilemma"; A26 line 48 carries the quoted canonical usage ("a 'humanity of the gaps' defence ... rejected as a moving criterion"). Repair: "the essay rejects, in Bratton's own coinage, a 'humanity of the gaps' defence"; A26's operation (moving criterion; attaching uniqueness to whichever capacity machines have not yet acquired) kept; the five-questions sentence after the dash untouched; venue name still held back to line 157. → line 121.
 
-| Fault | Accept / dispute | Reason | Repair | Exact new location |
-|---|---|---|---|---|
-| NHS FDP / OPTICA / Palantir Ontology–BYOM / FT consortium (¶39–40, `s5-nhs-case`/`s5-palantir`) | **Accept** | No `SOURCE.md` houses; hedged wording cannot cure provenance architecture | Names removed. Keep A29 recombination + analytic readiness disagreement as operations (datum ≠ category ≠ authorised action ≠ commission ≠ recombination power) without vendor/portal identity | M38 “Assembled powers” + M40/M41 returns that inherit the same disagreement; **Acquisition debt:** intake SOURCE houses for NHS England FDP portal, ICHP OPTICA account, Palantir Ontology overview, Palantir BYOM, and any FT corroboration before those names re-enter prose |
-| Hashimoto “My AI Adoption Journey” (¶49) | **Accept** | No house | Name removed. Keep operation: duplicate manual/agent work to learn boundary; failure-derived checks; attention protected from notification capture — warranted by AIKit/S2 potency + A33 parity, not by the essay | M39 “Failed fitness” |
-| Agent Skills specification (¶50) | **Accept** | No house | Name removed. Keep operation: packaged method can travel while permission, tool presence and fitness remain open | M39 |
-| PydanticAI seven retry layers (¶81) | **Accept** | No house | Product name removed. Keep analytic nesting: transport / provider / model-request / fallback / tool / output / hook retries as distinct budgets — as Workcell interrupted-effect analysis, not a vendor fact-claim | M41 “Interrupted effect”; **Acquisition debt:** PydanticAI retries SOURCE house |
-| DeepSeek-R1 MIT licence (¶36) | **Accept** | No house | Exhibit cut. Keep ownership ≠ serving ≠ licence ≠ hardware ≠ data ≠ inference as separate powers without a named card | M38 “Separate powers” |
-| US / China July 2025 plans (¶37) | **Accept** | No houses | Named programmes cut. Keep concrete political grain as programme-vs-outcome caution only where no proper-name claim is required; geopolitics carried as distribution of combination powers (A29), not national documents | M38 “Separate powers” / A29 thread; **Acquisition debt:** US AI Action Plan + PRC Global AI Governance Action Plan houses |
-| CDAO awards (¶38) | **Accept** | No house | Cut. Commissioned task ≠ deployed effect remains as general distinction under control powers | M38 |
-| AlphaEvolve (¶120) | **Accept** | No house | Cut. Recursive improvement under a fixed evaluator vs revisable measure kept as Offered research question without the report name | M42 research questions (short) |
-| Anthropic multi-agent (¶67) | **Accept** (review ¶67) | No house | Cut. Ensemble needs shared commission + return of incompatibilities — operational only | M40 Gate/Recognition neighbourhood |
-| Actuation GitHub blob footnote | **Accept** | No bank house for cited blob | External blob citation removed; control-layer separation retained from S1 product constitution | M38 footnotes → S1/A26 only |
+**4. L119 · quotation readiness · q032/q033 renderings — ACCEPTED.**
+Verified: both cards are quotation-ready (fidelity-audit 2026-07-29; verbatim against the embedded text layer; OCR uncertainty: none). Repair: exact spans now quoted — "the condition of finding oneself already in a world not of one's choosing"; "meaning within constraints one did not create"; "self-descriptive phenomenological vocabulary" ... "does not prove that this terminology directly corresponds to an underlying mental reality"; "the same literary gloss is likely true of human phenomenology as well." The q033 caution still travels with the entry (q032's use boundary) and the Heidegger naming remains the essay's. → line 123.
 
-**Dispute (narrow):** The recon dossier *requires* the institutional *operations* (shared coordination view, separate controllers, ontology linked to action, analytic patient disagreement). That operational content is retained without proper names. What is rejected is naming houseless exhibits as if citation-ready.
+**5. L9 · G5 · "states the point exactly:" — ACCEPTED.**
+Verified: house text reads "Subject, object and means of knowledge necessarily attend each act of perception and make cognitive awareness (*pramā*) possible"; the Dyczkowski ledger is source-matched, not print-collated, so quotation is not yet lawful. Repair: declared paraphrase — "its source teaches the point as the doctrine's own opening: subject, object and means of knowledge attend each act of perception together, and cognitive awareness — *pramā* — becomes possible through all three" — lead-in no longer promises quotation, order aligned to the house. → line 9.
 
-### 2. Uniform MEF lens appointment dumps (¶12–13, 25–26, 51–52, 63–64, 83–84, 98–99)
+**6. L143 · G1/content gate · Subject theorem unnamed — ACCEPTED.**
+Verified: the baseline names it (`THE-RETURN-OF-ZERO.md`: "The opening's Subject theorem had been replaced by a concept definition and fluent commentary about its limit ... Returning to the original defining text and its recorded Subject reappointment restored a definite proposition, its self-application, failed enclosure, productive disclosure, contextual turn and first-person recognition"); the recon's self-application section and non-negotiable checklist demand it; the core theorems ground the description ("the I can never be its own object"); the handoff ties the theorem to "What is it that knows?". Repair: the paragraph now names and describes the inspected object — "the Subject theorem — the essay's first theorem, which asks what it is that knows and finds that the I can never become its own object — had been replaced by a concept definition and fluent commentary about its limit. The author identified the substitution and demanded the original defining text with its recorded reappointment of the Subject." Traceability claim is now followable. → line 147.
 
-| Accept | Repair | Location |
-|---|---|---|
-| **Accept** | Delete six+six appointment paragraphs. Teach each complementary pair by what the undertaking beat forces: Central — why correction fails if next session doesn’t select it (L0×L5′ as intelligibility + living return); Actuation — material/efficient/formal/final in one act + one trace that changes the question (L1×L4′); AIKit — failed attempt’s standings replace tetralemma/season lists (L2×L3′); Factory — desire→occasion→integration→inheritance + Salt as completion (L3×L2′); Workcell — thrown here / differentiated disclosure without Being…Releasement parade (L4×L1′); QL — articulation genesis + structured whole only as needed for containing-relation revision (L5×L0′) | Throughout FINAL-CANDIDATE; no parallel “The X lens… Its complementary…” blocks |
+**7. L151 · F5 · "watch" — ACCEPTED.**
+Repaired exactly as the reviewer proposed: "Return once more to the constructed disagreement: the containing relation itself becomes the object of revision." → line 155.
 
-### 3. Primitive / product-name censuses (¶14–15, 34–35, 54–56, 66, 79, 108)
+**8. L13, L155 · G4 · overloaded paragraphs — ACCEPTED.**
+L13 split at the prescribed seam: mediation-disclosure paragraph (line 13) and six-office roadmap with the dependency chain and product status (line 15). L155 split at the prescribed seams: encounter and desire / political vocabulary (line 159), three offices with finite answer and sixfold seed (line 161), recursive improvement through the `0/1` return (line 163). The six conditional clauses still map Central→Actuation→AIKit→Factory→Workcell→QL in the room's order, as the reviewer verified.
 
-| Accept | Repair | Location |
-|---|---|---|
-| **Accept** | Remove identity parades. Keep a named system only when harness/skill/knowledge/serving/evaluation/permission/action constraint and consequence sit in the same paragraph. One mis-binding (profile vs project history); one continuity failure (session name without surviving authority); one stored≠selected≠governing path; one commission trail for Gate/Recognition; one interrupted binding | M37 mis-binding; M38 continuity-of-agency; M39 correction path; M40 Gate/Recognition; M41 interrupted write |
+**9. L33 · F5 (mild) · narrated naming — ACCEPTED.**
+Announcement deleted; the fact now opens the paragraph directly, and "returned availability" is named implicitly by use ("This returned availability — inheritance across discontinuous acts — is real"). → line 35.
 
-### 4. M38 overstuffed dossier (¶27–46)
+**10. L55 · F5 (mild) · announced figure — ACCEPTED.**
+"And there is a figure ..." deleted; the paragraph moves from the evaluator defect straight to the Indra/Hephaestian contrast. → line 57.
 
-| Accept | Repair | Location |
-|---|---|---|
-| **Accept** | Separate developing passages: (a) model middle + preference algebra (DPO house); (b) separate control powers without houseless geopolitics exhibits; (c) assembled institutional powers as nameless analytic case + A29; (d) Relational Logos / co-presence as short bridge into AIKit | M38 subsections in FINAL-CANDIDATE; geopolitics only as A29 concrete mechanism |
+**11. L75 · G9 vs room · five of six determinations — ACCEPTED.**
+Verified: room M39's L2 is sixfold ("Tetralemmaic ground, IS, IS-NOT, BOTH, NEITHER and SILENCE"). Repair carries the ground term: "Its ground is tetralemmaic, and its terms are *IS*, *IS-NOT*, *BOTH*, *NEITHER* and *SILENCE*," before the term-by-term teaching. → line 79.
 
-### 5. M42 mythic surplus buries self-application (¶101–107 before ¶115; closers ¶121, ¶125)
+**12. L43 · G5 · kañcuka drift — ACCEPTED.**
+Verified: A09 reads "The kañcukas contract efficacy, knowledge, desire, time and order into the finite parameters of a context." "Efficacy" restored. → line 45.
 
-| Accept | Repair | Location |
-|---|---|---|
-| **Accept** | Self-application (deficient Subject gloss → theorem recovery) moved to open M42’s culmination *before* any controlled psychoid reprise. Egg/Aion/Echeneis reduced to the participation/seeing operations the readiness case needs (houses exist; surplus cut). Closing: finite release to life, no six-office inventory | M42 opening third of movement; brief participation paragraph; exit paragraph |
+**13. L103 · attendance (low) — ACCEPTED.**
+One attributive word added: "Homer's song does not narrate the payment ...." → line 107.
 
----
+## Other recorded flags (no silent drops)
 
-## Content-gate scorecard answers
+- **L3 / Part 3 entry · §4 deposit crossed silently** (reviewer: acceptable) — accepted as a note, and strengthened: the opening event now names §4's condition ("The fourth station left the essay a condition: recognition must change the means a next act inherits") before the event that made it technical. → line 5.
+- **L7 · F3-candidate nouned compression** — no repair; reviewer judged it earned compression with an established referent.
+- **L25, L125 · WEAK KEEP** — both kept; placement-vs-authorship caution and the M41→M42 hinge are untouched.
+- **L67 · optional split** — taken at the offered seam ("... presents its necessity as the unity of the field." / "Ownership of a record ..."), which the reviewer said loses nothing. → lines 69/71.
+- **L79 · "The packaging industry" (minor)** — softened to "The ecosystem around such tools has since answered with formats"; format-level boundary unchanged. → line 83.
+- **L115 · fused movements (mild)** — kept: the fusion is the finding, per the reviewer.
+- **L121 · Gebser unnamed at the psychic-fact office (optional)** — taken: "This is Gebser's psychic-fact office, and it keeps the field open in both directions," per room M41's own wording ("Gebser's positive psychic-fact office ... keeps the field open"). → line 125.
+- **L131 · optional five-word gloss** — taken: "each a native determination of the slash." → line 135.
+- **L135/141 · "seven pictures, never six stages" leaning on §4** — accepted as-is; the honest deferral ("told whole in the fourth station") is the paragraph's first clause.
+- **L147 · the one "not X but Y"** — retained and logged as the section's single claim-boundary negation, per the reviewer.
+- **L153 · venue staging** — preserved: Bratton is named at the coinage (line 121), "Agentworld" still lands in the venue paragraph (line 157).
+- **Part 2 delete test** — no paragraph deleted; every KEEP and both WEAK KEEPs honoured.
+- **Part 3 room boundaries** — reviewer's matches spot-verified against the M38, M41 and M42 movement files (Logos extension wording, psychic-fact office, 5→0 return); all hands and returns intact.
+- **Part 4 thinker presence** — no F6 faults found; the one flagged circulation (Bratton's coinage) repaired (fault 3); Gebser name added where the room names him.
+- **Part 5 verified-clean items** — untouched: DPO/softmax mathematics, NHS/Palantir/OPTICA evidence grain, declared-programme geopolitics, DeepSeek licence boundary, seven retry layers with fallback ≠ repetition, Hashimoto's one-practitioner boundary, Agent Skills format boundary, Anthropic report's two non-establishments, S0–S5 primitives and whole MEF pairs, the five-questions sentence (verbatim), vikalpa/saṃkalpa, Māyā as operative measure, Scientific six, salt-ending, research vectors as experiments.
+- **Part 6 rhythm** — (1) sixfold definitional liturgy kept with its varied event-led openings; (2) the anaphoric chain kept, now in its own paragraph; (3) "rather than" ×14 not thinned, per reviewer; (4) claim-boundary family retained and logged; (5) M37's aphoristic closers untouched (the L33 repair removed an opening announcement, not a closer); (6) long paragraphs: L13, L67, L155 split as above; (7) no new abstract-subject openings.
+- **Part 7 · loss item 2 (AlphaEvolve)** — decision made, not drift: restored as a named bounded developer report per the recon's adopted-carrier list ("Anthropic's multi-agent research report and AlphaEvolve as bounded developer reports, not universal proofs") and the continuation lane's dated check (Google DeepMind, 14 May 2025): "Google DeepMind's May 2025 AlphaEvolve report describes an evolutionary search that grows better at satisfying a fixed measure ... — a bounded developer report, not a demonstration." → line 163.
+- **Part 7 · loss items 3–4 (Gebser diaphaneity; penultimate question-recap)** — accepted losses, per the reviewer's own verdicts; co-presence and the release logic carry the load.
 
-| Gate | Review | Response |
-|---|---|---|
-| One O:I / six facets | Partial | **Accept.** Rewrite so one correction travels: saved≠selected (Central) → authorised event (Actuation) → unfit/refitted power (AIKit) → Gate vs Recognition (Factory) → interrupted materialisation (Workcell) → containing-relation revision + self-application (QL/MEF) |
-| Primitives + MEF pairs | F9 | **Accept.** Pairs used as forced distinctions, not censuses |
-| Life/World from AI encounter | Hold | Keep opening |
-| Mirror without phenomenality | Hold | Keep |
-| pramātṛ/pramāṇa/prameya | Hold | Keep |
-| Harness/skill/wiki/serving/eval/permission/action | Hold | Keep as events |
-| Separate ownership/serving/control/hardware/data/licence | Hold | Keep without DeepSeek exhibit |
-| A29 recombination | Hold, thin | **Accept thinness.** Dramatise one continuous case through facets via nameless coordination disagreement |
-| NHS/Palantir evidence | FAIL | **Accept.** Names out; operations in; debt recorded above |
-| Political/geopolitical concrete | Partial | **Accept.** Concrete = A29 assembled powers; named programmes deferred to intake |
-| Self-application | Hold | Keep and **move earlier** in M42 |
+## Length record
 
----
+- DRAFT-2: 12,297 words. FINAL-CANDIDATE: **12,393 words** (`wc -w`). Baseline 12,191; floor 10,971; target ≈12,191–14,000 — inside band.
 
-## Movement-boundary faults
+## Hand to §5→0 confirmed
 
-| Movement | Faults accepted | Repair location |
-|---|---|---|
-| M37 | Lens dumps ¶12–13; identity census ¶14–15; NOW/DAY parade ¶15; soft outgoing | Event of saved-but-not-selected extended; one mis-binding; delay image kept; handoff as inert continuity |
-| M38 | Overload; Agent/Agency census; houseless exhibits; slogan closer ¶47 | Split passages; cut exhibits; outgoing = missing power for AIKit |
-| M39 | Hashimoto/Skills houses; Logical/Chronological dumps; Profile census | Failed-fitness path; stored≠governing spine |
-| M40 | Processual/alchemical dumps; Project census; Anthropic; A29 restatement | Desire/Gate/Recognition/Homer/completion; A29 advances to exit route |
-| M41 | Demand/Offer census; PydanticAI name; Phenomenological dump; tour-guide ¶91 | Interrupted write + nested retries analytic; handoff = unresolved containing question |
-| M42 | Mythic surplus; primitive census; AlphaEvolve; sixfold reprise closers | Self-application first; brief participation; dia/syn + readiness spine; finite release |
+The final paragraph keeps the release logic ("The instrument has done its work when the life it serves has gained a real possibility — including the possibility of setting the instrument down") and the explicit hand ("What happens when such an instrument is released into lives that were never parties to its commission — that return belongs to the next station."). → line 163.
 
----
+## Remaining named debts
 
-## Paragraph-level accepts (summary)
-
-- **Keep:** ¶1–6, 9–11, 17–24, 27–31 (math), 41–46 (ops without houses), 48, 53, 57–58, 60–62, 65, 68–75 (Homer), 77–78, 80, 82, 85, 87–88, 92–97, 100, 111–115, 117–119, 122–123 (short).  
-- **Delete / rewrite dumps:** ¶8 name-string, 12–16, 25–26 parade form, 34–40 houseless, 47 closer, 49–52, 54–56, 63–64, 66–67, 79, 81 name, 83–84, 91 closer, 98–99, 101–109 surplus/census, 120, 121, 125 inventory.  
-- **¶7 yogic:** **Accept borderline.** Shorten to one sentence on older inner-instrument inquiry without unloaded tradition display.  
-- **¶86 Śaiva vague:** **Accept.** Name operation (exteriorised distinction encountered as form) or cut vague “sources” appeal.  
-- **¶8 “rather than as a catalogue”:** **Accept feint.** State positive dependence; defer product names until each office earns itself in its movement header only after the beat begins.
-
-## Comparative / negation
-
-- Retain claim-boundary negations (consciousness; Gate≠Recognition; X/x≠Pauli; payment not narrated).  
-- Cut catalogue-denying-while-cataloguing feint.  
-- Replace “thus returns” closers with positive consequences into the next missing office.
-
-## Rhythm
-
-**Accept** restructuring direction. FINAL-CANDIDATE follows one undertaking beat per facet; uneven paragraph length; no brochure closers.
-
-## Length
-
-**FINAL-REVIEW compression reject (cold method):** strip HTML comments; count `\b[\w’']+\b` over the whole file including footnote calls and definitions. Enrichment **15 671**; prior FINAL-CANDIDATE **14 086** (89.89%); floor **14 104**. Writer’s earlier 91.7% (body excluding notes) was disallowed for this gate.
-
-**Compression repair (this overwrite):** recovered developed argument, not filler. Current FINAL-CANDIDATE cold count **14 953** / 15 671 = **95.42%** (margin ≈ 850 above floor). Plain body (exclude headings + notes apparatus): **13 296**.
-
-### Passages recovered after FINAL-REVIEW (compression-only reject)
-
-| Recovered passage | Why necessary | Location |
-|---|---|---|
-| **Scientific sequence as because-chain** (prompt→trace→challenge→pattern→discovery→insight), with the constraint that an evaluator which never puts its measure at risk cannot recognise discovery | Room / enrichment require the *adopted* Scientific sequence; FINAL had compressed it to a noun-string glance. Restores the because-step by which living articulation revises the challenge itself | M38 “The model middle” |
-| **Three-evening Central continuity failure** (saved instruction → unselected summary → evaluator still rewarding the gloss) | Movement M37 required *saved≠selected* shown across sessions; prior text named the failure more than dramatised its reasons | M37 after “cost of failed continuity”; Why-string residual replaced by because-prose forced by that scene |
-| **Factory continuous commission transformation** of the readiness disagreement through Gate-pass → category revision → commission reopen, with A29 vertical recombination and preference hidden-zero as institutional baseline | COLD/FINAL gap: Factory inherited the institutional case as labels rather than transforming a commission through evidence in one scene | M40 “Gate and Recognition” |
-| **Materialisation binding → realised execution world** with agent consequence (missing acknowledgement vs blind retry; energy/labour/geography as reasons the same plan becomes a different world) | M41 room requires materialisation thickness; prior text asserted primitives without locating one binding’s failure mode | M41 “Interrupted effect” |
-
-Houseless names, MEF appointment dumps, and product-name censuses were **not** restored. Holds from FINAL-REVIEW (one O:I arc, self-application, pramātṛ/pramāṇa/prameya, A29, Life/World without machine phenomenality) remain.
-
-## Disputed faults
-
-1. **None disputed as false.** All five load-bearing faults and the houseless Anthropic exhibit are accepted.  
-2. **Clarification (not dispute):** Institutional *operations* required by recon remain; only houseless *names* and URL-as-house substitutions are removed.  
-3. **Homer / DPO / Gebser / Bratton / Jung–Pauli houses:** review already cleared; retained within stated limits (Homer full enough; Jung–Pauli cut to consumed operation).
-
-## Not done
-
-- No edits to DRAFT-2, COLD-REVIEW, FINAL-REVIEW, sovereign manuscript, canon, source houses, NOTES.md, ROOM.md.  
-- No self-approval.  
-- SOURCE intake for debt items not performed in this revision (debt recorded only).
+1. **No source-bank house files** yet for Hashimoto's account, PydanticAI's retry documentation, Anthropic's multi-agent report, the DeepSeek-R1 model card, the Agent Skills specification, the July 2025 US and Chinese policy documents, the CDAO awards, or the AlphaEvolve report (newly re-named). Their dates, URLs and use boundaries are attested in the enrichment lane records only; the section holds each at developer-report / format / documented-programme resolution, and the final pass must not treat them as bank-verified.
+2. **An-a-logos reconciliation at bank level**: the M5-5 atelier record (bank-unreviewed, retrieved 2026-09-25) glosses the returning station *ana-logos* as "proportion, the return ... back toward silence, enriched," while the sovereign manuscript (line 1829) and S1-Actuation carry *An-a-logos* as the authored "further release / supramental extension." This section follows the sovereign manuscript; the record-level harmonisation needs Frank's adjudication and was not attempted here.
+3. Dyczkowski (transcript pp. 60–85, source-matched) and Singh/Abhinavagupta (notebook-direct) remain uncollated; the section uses declared paraphrase only.
+4. NHS contractual IP/exit clauses remain unadjudicated (live FAQ re-fetch hit human verification); the prose keeps custody and portability as open questions.
+5. The P3 first-person publication decision remains Frank's; the section keeps the Option A shape (origin present as origin, no testimony).

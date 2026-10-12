@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "key": "X-X-ROOT",
+      "native_path": "submission-package/essay/symbolon/X-x.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/preimages/X-X-ROOT.md.txt",
+      "preimage_sha256": "59ff165724db1e5d3e00bdd9a9946c953972f2cc46f8287308b88b72918d8107",
+      "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/candidates/X-X-ROOT.md.txt",
+      "candidate_sha256": "318b2bf80bd2d92859330329ea3500c2123770f63719389fec1d48528f4530cc",
+      "whole_changed_paragraphs": 7,
+      "status": "own complete source-first draft; independent cold pending",
+      "whole_final_author_read": "Complete final separately read after full old/source comparison; original whole replayed before drafts.",
+      "per_file_unchanged_detector_hard": 0,
+      "individual_qualifications": 5
+    },
+    {
+      "key": "SUBJECT-LOGICS",
+      "native_path": "submission-package/essay/symbolon/subject-logics.md",
+      "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/preimages/SUBJECT-LOGICS.md.txt",
+      "preimage_sha256": "d2b1d2ea617ae5b94b9a811adb4ef9cab2b80a807889e97db94a6e84e4945769",
+      "candidate_path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/candidates/SUBJECT-LOGICS.md.txt",
+      "candidate_sha256": "724c6cee9da213b5405a95db0b683eae50fd7a51022baaa610b9a8ed4f00151b",
+      "whole_changed_paragraphs": 11,
+      "status": "own complete source-first draft; independent cold pending",
+      "whole_final_author_read": "Complete final separately read after full old/source comparison; original whole replayed before drafts.",
+      "per_file_unchanged_detector_hard": 0,
+      "individual_qualifications": 10
+    }
+  ],
+  "canonical_changes": 0,
+  "source_comparison": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-comparison/COMPLETE-ROOT-OPERATION-COMPARISON.json",
+  "qualification_ledger": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/INDIVIDUAL-QUALIFICATIONS.json",
+  "checks": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-symbolon-root-return/LIGHTWEIGHT-CHECKS.json"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "MONIER-SOURCE",
+  "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+  "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-before.md.txt",
+  "preimage_sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee",
+  "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-candidate.md.txt",
+  "candidate_sha256": "e9454a4f2567c29966c418e3283ddd62e69df66e5d39fb0307d395d2120c2490",
+  "effects_depth": 4,
+  "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-effects-before.json",
+  "pre_edit": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-PRE-EDIT.json",
+  "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-CHECKS.json",
+  "qualification_ledger": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONIER-SOURCE-QUALIFICATION-REVIEW.json",
+  "status": "Independent bounded whole-source admission/binding accepted; frozen non-live, parent inclusion pending",
+  "receiving_dependency": {
+    "manifest": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/CANDIDATES.json",
+    "key": "vikalpa-samkalpa",
+    "candidate_sha256": "88eda899b1e02431636c4507b2bcc95edde98fdb681e8759201bb73b615a44cf",
+    "personally_read_earlier_version_sha256": "9e79a5a3734e49fb62dec691ef6eb4bf1e5c136feb8ebc2fbca60067969c9aa8",
+    "final_independent_receiving_review": {
+      "receipt": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-immutable-gap-return/INDEPENDENT-LEGACY-SIX-REVIEW.json",
+      "receipt_sha256": "940b2c31e3fb2b42159c2455a43d3308e0c27d514fc6593eeca02615850ad47a",
+      "reader": "argument_recovery",
+      "source_boundaries": "Exact full old/new and source/public units, all returned omissions, lexical admission dependency and external/readiness exclusions in peer receipt"
+    },
+    "scope": "Our actual full earlier9e79 receiving read remains earlier; final88eda source/public correction independently reviewed by argument worker. Selected lexical paragraphs and admission dependency unchanged; no new own wholefinalread claimed."
+  },
+  "no_upgrade": "Original p001/p002/metadata/date/quote readiness byteexact; new p003–p007 paraphrase-only, no printscan or citedworks fullreading. No NOTES created, protected/native source unchanged.",
+  "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-MONIER-SOURCE-REVIEW.json",
+  "independent_review_sha256": "1a34f611d0edf98b8021ba065a9d4b4f8590c8cc53a64994e1ccb23951d047e9",
+  "additional_receiving_dependency": {
+    "manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ENCOUNTER-CANDIDATES.json",
+    "key": "ENCOUNTER-HISTORICAL",
+    "candidate_sha256": "21e613de3422d435d72e9944247753cc5b0bbade6896d98e1826936c5960115b",
+    "reason": "Current native E3 historicalbranch still reports lexical debt; already accepted nonlive branch supplies precise admitted Monier lexical return. Candidate-source consumption statement is a connected receivingpacket, not currentnativebranch acceptance."
+  }
+}

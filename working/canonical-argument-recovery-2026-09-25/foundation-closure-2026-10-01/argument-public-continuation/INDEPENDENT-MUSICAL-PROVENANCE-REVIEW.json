@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-02",
+  "reviewer": "argument_recovery",
+  "scope": "Independent whole source/preimage reading and complete direct derivational unit comparison; no test execution or quotation-readiness upgrade.",
+  "canonical_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+  "candidate_sha256": "4ac68fdd6f4c36f9ca78234b728ba0439fa0881a7f1d6972b8bf0fd5c123120b",
+  "preimage_sha256": "bf6bf453f11701ffad56abaf19358d9154f7ad0acd7666554d453af2a7b99730",
+  "raw_sha256": "61508658f871f232f554127052d683ecded15c28694cc79a110bcf7841492699",
+  "reads": [
+    "Entire source before and candidate, all three inserted per-passage provenance fields and exact diff.",
+    "Complete authorial v3 II5.1–5.11 including opening lines1569–1773 freshly reread untruncated."
+  ],
+  "findings": [
+    "Each inserted field names the real retained authorial Markdown and the exact subsection unit actually read.",
+    "Paraphrase status and the locator route are accurate; fields do not promote extracted quotations.",
+    "Removing only the three provenance fields reproduces the preimage exactly; frontmatter/anchors/locators/paraphrases remain exact.",
+    "q001 sum/ratio and9/8 relation, q002 five-layer twelve-lens×seven-mode field, q003 operational renewal/telic recognition retain previously accepted complete operations."
+  ],
+  "disposition": "Accept the three bounded truthful provenance fields at exact candidate hash.",
+  "limits": [
+    "No fresh full2008-line manuscript acceptance.",
+    "External acoustics/tuning history and exact source quotations remain separately bounded; quote_status locator-needed/chicago_ready false preserved.",
+    "Parser/fullsuite verification belongs to parent remote replay, not this semantic cold review."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "Whole source/public operation independently accepted at exact final; parent integration/native gates separate",
+  "native": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+  "preimage": "preimages/A24-Arbitration-and-the-Usurpation-of-Measure.md.txt",
+  "preimage_sha256": "6d979e0f3b4c7d45d348c84c8f31f657c744bd11e9bab438e6520d8885986a22",
+  "candidate": "candidates/A24-Arbitration-and-the-Usurpation-of-Measure.md.txt",
+  "candidate_sha256": "039eec5475b8103fde2d69dbfea6d7a3938e9c2b4e521c0d5669d46b52189aac",
+  "paired_prime_sha256": "36f8a00cafdde95cf53c734cb1b5e523ae144681cb82a353e98dd24a506c08f8",
+  "paired_prime_disposition": "Whole current corrected operation preserved; no prime mutation",
+  "effects_depth": 4,
+  "returned_byte_paths": 174,
+  "semantic_current_version_rows": 13,
+  "public_changed_paragraphs": 20,
+  "hard_findings": 0,
+  "detector_reviews_individually_disposed": 3,
+  "manual_source_boundaries": 7,
+  "reader_links": 26,
+  "missing_reader_targets": 0,
+  "independent_review": {
+    "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-mediation-culture-focal-return/INDEPENDENT-ARBITRATION-REVIEW.json",
+    "sha256": "54bfd5a43e021ea6aa2b423b949b307a9efe6947e882a1cbea4059ddcf123244",
+    "candidate_sha256": "039eec5475b8103fde2d69dbfea6d7a3938e9c2b4e521c0d5669d46b52189aac"
+  },
+  "heavy_execution": "None; parent integration/Git/remote unchanged gates separate"
+}

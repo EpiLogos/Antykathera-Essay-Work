@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "chalmers-1995-facing-up-consciousness",
+    "title": "Chalmers — Facing Up to the Problem of Consciousness (1995)",
+    "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/chalmers/chalmers-1995-facing-up-consciousness/chalmers-1995-facing-up-consciousness.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Chalmers — Facing Up to the Problem of Consciousness (1995)",
+      "Bibliographic identity and Chicago 18 forms",
+      "q001 — Functions and experience",
+      "q002 — Further inquiry",
+      "Rights and acquisition"
+    ],
+    "sha256": "049261ebcfcc4399af48eb071cb77f40c56ce4878c11442c6f6fe1c6f50645b3",
+    "record_type": "journal-article",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

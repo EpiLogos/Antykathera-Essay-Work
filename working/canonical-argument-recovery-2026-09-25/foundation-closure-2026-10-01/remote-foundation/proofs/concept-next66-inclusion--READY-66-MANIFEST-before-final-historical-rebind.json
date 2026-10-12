@@ -1,0 +1,39 @@
+{
+  "status": "Bounded accepted66 normalized source-proof inputs ready for parent actualbase rebind/inclusion/nativegates/publication; no native edits or publication by this owner.",
+  "records": 66,
+  "artifacts": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/INPUTS.json",
+      "sha256": "04dc37c5a4eb47b2d5969856db76a7f0ae5bea545570ac0b54c0a715a0dc20e1"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/PROOF-OWNER-INDEX.json",
+      "sha256": "f3ad157deb576243f66340fa1ce4692cfd6cf64d109c90796936aac3d0f77d64"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/INDIVIDUAL-QUALIFICATION-ASSOCIATION.json",
+      "sha256": "a2c8bed93c1c4ee660e8f36a8a6f6eaaf5facd0a192f7fed55cc270ed631bc46"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/UNCHANGED-NATIVE-PER-FILE-AUDIT.json",
+      "sha256": "b43342e59afab0273ed2c922e5c8d2bd0770384bb38b16e08d685795d1e94d86"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/RECEIPT-QUALIFICATION-COMPLETION-57.json",
+      "sha256": "bc3577128c4a080b2064c63293842005dc3fa30b60f105d69a921c84735ccb92"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/ASSOCIATION-SUMMARY.json",
+      "sha256": "21b6d6fa2236fe79f3ec51c09330d343a75426d7db6ab11ddbe0a67d8ac31d7b"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/INTEGRITY-READBACK.json",
+      "sha256": "98072389fe46a774dd5776b6511d163af0d7758c3359cdee3e16551b82ab7856"
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-next66-inclusion/CONJUGATE-KEY-RETURN.json",
+      "sha256": "3647b4bbbd8003623ef4f828627b424c102a30f2e54088d9fe0304f8513c967d"
+    }
+  ],
+  "retained_intermediate_standing": "Initial schema and conjugate-key matching failures retained in before-schema-replay/before-conjugate-key-return snapshots. Exact native paths/bytes and peer identities never changed, no failed association was used for publication."
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "oi.shell-ci-artifact-retention-repair/v1",
+  "observed_at_utc": "2026-10-04T15:44:39.267793+00:00",
+  "exact_native_job": {
+    "run_id": "37213215724",
+    "job_id": "111468408185",
+    "head_sha": "fc69a6f32fdcbfed5e4203f380b26d7a32ca0541",
+    "failing_step": "Retain preview and evidence",
+    "browser_cases_passed": 23,
+    "browser_cases_failed": 0,
+    "browsers": [
+      "Chromium",
+      "Firefox",
+      "WebKit"
+    ],
+    "full_native_log": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/SHELL-CI-fc69a6f32-ALL.log"
+  },
+  "failure": "GitHub artifact service rejects native Quartz filenames containing colons and treats case-distinct aliases as collisions",
+  "repair": "Archive complete dist with native tar and upload it inside the existing evidence packet; no field path is renamed or dropped",
+  "workflow_path": ".github/workflows/site-shell-v2.yml",
+  "workflow_sha256": "d570ba8777a965260d1fcc693cad2e841bc99a81f0c6a498e26e9f05dc055ccd",
+  "validation": {
+    "workflow_yaml_parses": true,
+    "archive_step_shell_syntax_valid": true,
+    "only_archive_step_and_direct_dist_upload_replacement_changed": true,
+    "all_real_browser_tests_unchanged": true,
+    "local_actual_built_dist_files": 2213,
+    "every_local_dist_file_preserved_exactly_by_sha256": true,
+    "real_colon_filename_count": 21,
+    "real_colon_path_examples": [
+      "essay/Jung-\u2014-Psychology-and-Religion:-West-and-East,-CW-11-(1969).html",
+      "essay/Chang-\u2014-Tao:-A-New-Way-of-Thinking.html",
+      "essay/Mono-Poly:-Whole-and-Many.html",
+      "essay/Courtney-\u2014-The-Salt-Point:-Kairos-Emergent-from-Chaos-(2019).html",
+      "essay/4:2-Techn\u00e8-\u2014-Sovereign-Commons-Architecture.html"
+    ],
+    "archive_path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/oi-publication-review-2026-10-04/BUILT-SITE-RETENTION.tar",
+    "archive_sha256": "f1093b868b7e60988be46f9036d06f74be10c07d3874a617cd13037f54fb3f45",
+    "archive_bytes": 171555328,
+    "local_platform_note": "COPYFILE_DISABLE=1 suppresses automatic macOS AppleDouble metadata in local replay; GitHub uses Linux tar"
+  },
+  "native_ci_replay": "Awaiting parent-owned workflow publication; prior exact job confirms 23 real checks succeeded",
+  "product_rebuild_required": false,
+  "not_run": [
+    "No local dependency installation",
+    "No full gate or motion-suite rerun",
+    "No product source change or deployment by this lane"
+  ]
+}

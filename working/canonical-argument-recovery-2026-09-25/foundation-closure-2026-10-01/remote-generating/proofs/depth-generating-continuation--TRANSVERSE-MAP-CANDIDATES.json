@@ -1,0 +1,61 @@
+{
+  "records": [
+    {
+      "key": "ZERO-ADVENT-MAP",
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-ADVENT-MAP-before.md.txt",
+      "preimage_sha256": "7470316b5f334d7a99948ab65eeed6ca7d78955b74ef33ba47ce9cac20ab38c7",
+      "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-ADVENT-MAP-candidate.md.txt",
+      "candidate_sha256": "170738f806e922ad659132426636ee4ef4394b04a0373c35007b13326ed5f593",
+      "effects_depth": 4,
+      "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-ADVENT-MAP-effects-before.json",
+      "pre_edit": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-ADVENT-MAP-PRE-EDIT.json",
+      "status": "Independently accepted exact whole source/public operation; frozen non-live",
+      "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-ADVENT-MAP-CHECKS.json",
+      "qualification_review": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/ZERO-ADVENT-MAP-QUALIFICATION-REVIEW.json",
+      "independent_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-TRANSVERSE-THREE-REVIEW.json",
+        "sha256": "cdd7a09a3654c712cfc0fa32bd71e85f06e4fb7a4704f5b090a502d0979da3ef"
+      }
+    },
+    {
+      "key": "MONO-POLY-MAP",
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONO-POLY-MAP-before.md.txt",
+      "preimage_sha256": "4e43e586708bff2dbf006a2f2064ee7cd2cf3eb2da2fd36c519f51a98193668f",
+      "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONO-POLY-MAP-candidate.md.txt",
+      "candidate_sha256": "e978d7be4f429b91020f68d86f2fc5ca8db517ff3b220399d38245c290da8b44",
+      "effects_depth": 4,
+      "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONO-POLY-MAP-effects-before.json",
+      "pre_edit": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONO-POLY-MAP-PRE-EDIT.json",
+      "status": "Independently accepted exact whole source/public operation; frozen non-live",
+      "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONO-POLY-MAP-CHECKS.json",
+      "qualification_review": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/MONO-POLY-MAP-QUALIFICATION-REVIEW.json",
+      "independent_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-TRANSVERSE-THREE-REVIEW.json",
+        "sha256": "cdd7a09a3654c712cfc0fa32bd71e85f06e4fb7a4704f5b090a502d0979da3ef"
+      }
+    },
+    {
+      "key": "TRUST-MAP",
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-MAP-before.md.txt",
+      "preimage_sha256": "ed11d2f660a7e494a1a08d79a84c09b62d897fcfe5c0a01a6c9855f6a50a4065",
+      "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-MAP-candidate.md.txt",
+      "candidate_sha256": "1a820e2184b74317ff61763811e791bc6f83d1ce9c55049bad336c769bf0ed82",
+      "effects_depth": 4,
+      "effects_before": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-MAP-effects-before.json",
+      "pre_edit": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-MAP-PRE-EDIT.json",
+      "status": "Independently accepted exact whole source/public operation; frozen non-live",
+      "checks": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-MAP-CHECKS.json",
+      "qualification_review": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/depth-generating-continuation/TRUST-MAP-QUALIFICATION-REVIEW.json",
+      "independent_review": {
+        "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-legacy-operation-return/INDEPENDENT-TRANSVERSE-THREE-REVIEW.json",
+        "sha256": "cdd7a09a3654c712cfc0fa32bd71e85f06e4fb7a4704f5b090a502d0979da3ef"
+      }
+    }
+  ],
+  "all_movement_bodies": "Protected unchanged, all existing movementtargets retained",
+  "complete_current_map_reads": "All3whole currentmaps separatelyread untruncated beforecandidateedits",
+  "no_runtime": "No trial executed/source quote-readiness or historical acquisition upgraded"
+}

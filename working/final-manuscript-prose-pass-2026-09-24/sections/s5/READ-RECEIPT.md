@@ -1,96 +1,83 @@
-# §5 READ-RECEIPT — Objective Internality (key s5)
+# s5 — READ-RECEIPT
 
-Standing: intake complete before any manuscript prose. Failed candidate and enrichment assembly §5 not opened as drafting outline until PREWRITE exists.
+Every file actually read in steps 1–5, with the specific learning it contributed. Unresolved source gaps at the end.
 
-## Common protocol files read
+## STEP A — common context
 
-- `AGENTS.md` — propose-not-overwrite; status axes; no sovereign/NOTES/ROOM mutation; native theorem conduct; A29 power/labour/return as declared graph.
-- `WRITING-PROTOCOL.md` — load contract; claim-strength symmetry; section independence before assembly.
-- `.agents/skills/return-of-zero-write/SKILL.md` — carry the because; argue through the field; product substance before return interpretation.
-- `writing-guidance-tools/references/WRITING-LAWS.md` — L1–L7; meaning before wording; actors in subjects; give before use.
-- `writing-guidance-tools/references/WRITING-RUBRIC.md` — G1–G10; F1–F10 cold audit later.
-- `writing-guidance-tools/references/comparative-and-negation-gate.md` — four admissible comparison forms; no unnamed foils.
+- `AGENTS.md` (workspace copy in context) — conduct rules: propose not overwrite; status axes independent; missing citation readiness never downgrades Derived/Argued; generated surfaces never hand-edited; prose register gate (draft cold, audit, then calibrate).
+- `WRITING-PROTOCOL.md` — authority order; claim-strength symmetry (underclaim flagged as firmly as overclaim); "positive proposition → warrant → exact necessary boundary → consequence"; movement packets as retrieval receipts; no single-pass prose.
+- `.agents/skills/return-of-zero-write/SKILL.md` — carry the because; each facet's positive substance developed before its return is interpreted; removing record IDs must leave an intelligible argument.
+- `writing-guidance-tools/references/WRITING-LAWS.md` — L1–L7; L4 (terms answer to referents; announce register shifts) is decisive for a section where "mirror", "harness", "model", "interior/exterior" all shift register.
+- `writing-guidance-tools/references/WRITING-RUBRIC.md` — G1–G10 gates; F1–F10 fault catalogue; repair order (meaning → warrant → terms → paragraph → sentence → cadence).
+- `writing-guidance-tools/references/comparative-and-negation-gate.md` — four admissible negation forms; referent/difference/relevance/gain burden; "humanity of the gaps" material must be used as sourced disagreement, not phantom opponent.
+- `working/final-manuscript-prose-recon-2026-09-24/FINAL-WRITING-HANDOFF.md` — §5 brief: one O:I through six facets with product bodies; AI as real mirror/catalyst; pramā-triad in the tech field; NHS/Palantir at exact evidence grain; programmes not national characters; writing-commission self-application; P3 as origin not proof.
+- `PROSE-PATTERN-LEDGER.md` — machine cadence diagnosis; soft availability verbs ("makes available"); abstract subjects; §5's screen opening is alive but definitional catalogue risk follows; protection list (Subject theorem, six O:I facets, political economy, NHS grain).
+- `OPENINGS-AND-RHYTHM.md` — §5 opening diagnosis: scene good, then definitional recap; M37 ("The next session begins before its first prompt") and M41 ("The attempt is somewhere") are the memorable brief openings; M39's modal ladder over-neat; M40's three professions generic; accelerate into facet life; the self-application should surface early in Central, not after grounding reprise.
+- `THINKER-PRESENCE-LEDGER.md` — ten-point cards; for §5: Gebser co-presence, Heidegger tacit at technical instrument, Chang appointed only in s50, Watson/Van Eenwyk tacit, Bratton venue vocabulary must not author Frank's theory; apoha returns explicitly at softmax as Argued bridge with no peer-reviewed precedent claim.
+- `THINKER-DISTRIBUTION.md` — §5 explicit work: apoha at softmax (M38), Maturana/Varela/Kauffman/Bratton (M39 region), Hephaestus callback not retell (M40), Heidegger enframing/releasement return (M41), Pauli/Aion controlled reprise (M42); Jung/Pauli tacit; no new Jungian survey.
+- `AUTHORIAL-VOICE-AND-IMAGE-LEDGER.md` — movement repertoire; self-application honesty as a voice feature; attested AI encounter evidential standing (report + meaning = yes; machine phenomenality = no); "mirror keeps three motions"; humour after pressure; P3 faceless question is distinct authorial language.
+- `HISTORY-AND-IMAGE-LEDGER.md` — §5 rows: screen scene good; six facets must stay one O:I; NHS/Palantir "exact evidence grain — no LLM claim for OPTICA"; dated recommendation ≠ exit; US–China programmes not civilisational mythology; P3 publication choice open; writing-commission failure strong, protect.
+- `RECURRING-IMAGE-AND-RETURN-MAP.md` — mirror first work in §5, full three motions reserved for M44 (s50); Hephaestus retell forbidden after M22 — M40 shows what the technical register now makes visible; Pauli egg §5 return asks whether account preserves agent's contribution; cage→window; instrument set down belongs to s50.
 
-### Recon packet (specific learning)
+## STEP B — section room 06-objective-internality
 
-- `FINAL-WRITING-HANDOFF.md` — §5 is one O:I through six facets with product bodies; Life/World because AI exteriorises conditions mistaken for self; pramātṛ/pramāṇa/prameya retained; politics at A29 grain; NHS/Palantir at evidence resolution; writing-commission self-application as strong O:I instance; P3 origin ≠ phenomenality proof.
-- `PROSE-PATTERN-LEDGER.md` — refuse uniform pulse, soft “makes available / next inquiry,” abstract subjects where actors exist; merge false paragraph completions.
-- `OPENINGS-AND-RHYTHM.md` — §5’s living entrance is the person at the screen and the returned answer changing work/means; danger is inventory + definition prospectus before a concrete instrument failure appears.
-- `THINKER-PRESENCE-LEDGER.md` / `THINKER-DISTRIBUTION.md` — Hashimoto as one practitioner’s boundary-work; NHS/ICHP/Palantir as bounded institutional case; Homer pledges release without narrating payment; Gebser co-presence ≠ abolished disagreement; Whitehead/alchemy illuminate Factory without becoming methodology; Descartes/Kripke tacit where means become known without becoming knower.
-- `AUTHORIAL-VOICE-AND-IMAGE-LEDGER.md` — mirror that moves first; stained glass; AI encounter as origin material with publication choice separate; writing-commission failure as self-application honesty.
-- `HISTORY-AND-IMAGE-LEDGER.md` — screen scene; six facets; NHS/OPTICA; Homeric pledge reprise (not full retell); writing-commission failure; US–China as programmes not national characters.
-- `RECURRING-IMAGE-AND-RETURN-MAP.md` — Homeric full action lives in §2; M40 consumes pledge/release without banquet retell; Pauli egg/Aion controlled reprise only for what tech argument consumes; writing-commission self-application newly visible in §5; mirror three motions later §5→0.
+- `P1-CANONICAL-ALIGNMENT.md` — six products = six movements; each row names S subject plus canonical A/C owners; whole MEF pairs per product (S0 L0×L5′ … S5 L5×L0′); product is the subject of the whole pair, not distributed among subpositions; inherited technical sequence preserved inside products; A29 in M37/M40 routes.
+- `movements/37-s5-p0-math-moves-meaning.md` — Central claim: meaningful continuity; a record that only accumulates can be richer in quantity and poorer in life; revision must reach source/rule/entrusted decision; L0 Quaternal (why/what/how/whom-which-when/where-why-for/why-so-why-not) × L5′ Divine Logos (Arche…Epi-Logos); counterfeit source when continuity is confused with final authority.
+- `movements/38-s5-p1-apoha-softmax.md` — Actuation = living articulation, event-substance; L1 Causal × L4′ Scientific (adopted sequence Prompts/Traces/Challenges/Patterns/Discovery/Insight); apoha/softmax bounded to differential determination; relational Logos; Gebser co-presence; functional articulation without phenomenal self-luminosity; Operational Parity asks for the later act.
+- `movements/39-s5-p2-j-space.md` — AIKit = potency; exists ≠ available ≠ relevant ≠ permitted ≠ selected ≠ operative; L2 Logical × L3′ Chronological; power enters where availability becomes selection; refusal is positive (IS-NOT preserves another's authority); returned fitness reorganises the horizon.
+- `movements/40-s5-p3-preference-hidden-zero.md` — Factory = transformation; L3 Processual × L2′ Alchemical-Elemental; Gate vs Recognition; artifact/criterion/paradigm depth sequence; Hephaestus/Poseidon: evidence and checks establish what happened; authority to continue/bear consequence remains personed; completion real.
+- `movements/41-s5-p4-bimba-energy-fields.md` — Workcell = situated existence; L4 Phenomenological × L1′ Phenomenal; "materialisation" gloss too thin; situation relational before geometric; reachability is not consent; Bimba→Central, model/world→Actuation, nested frames→QL; psychic-fact office keeps field open.
+- `movements/42-s5-p5-research-vectors.md` — QL = Transcendent Relation; L5 Para Vāk × L0′ Archetypal-Numerical; sixfold {0,1}+{00,01,10,11}=4+2; dia failures (cancel/appropriate/retain to 0/1), syn reads slash AND/OR; a primitive alive when its generating relation remains operable; co-internality without super-agent; 5→0 return as formed 1 held to ground.
+- `ROOM.md` — generated waypoint; arrival line "spectroscopy of one QL light through multiple lenses"; carry-forward chain between movements; confirmed canonical routes per movement.
 
-## Room
+## STEP C — canonical argument field
 
-- Room path: `submission-package/essay/section-rooms/06-objective-internality/`
-- `ROOM.md` present (waypoint only; not governing).
-- `READING.md`: absent.
-- Alignment: `P1-CANONICAL-ALIGNMENT.md` — product-led M37–M42; S parent not seventh product; inherited technical sequence preserved inside Actuation/others, not sovereign order.
+- `arguments/products/S-World-and-Life.md` — parent composition; knower/means/known/whole; paradigm = durable organisation of O:I; recognition series `0→Ø→X→Ø/X→(0/Ø)/(1/X)→1↺0/1`; uncrossing differentiates the slash as slash; Indian hinge bounded (Argued juxtaposition, no transmission); A27/A30 scale difference; higher wager: Epi-Logos constructs a paradigm in which disclosure becomes inspectable/contestable/transformable from within.
+- `products/S0-Central.md` — primitives S0/P0–P5 (ProjectCentral/Machine/AgentProfile/Control; Ground/Source/ControlSource/FlowSource/MachineDeclaration; authorship/governance/acceptance/mutation; NOW/DAY; Work/Computer/MachineRole/Workcell; observation/inference/derived/provenance/history); derived view cannot silently inherit authorship; Bimba as structured articulation of meaningful relations; continuity completes itself by becoming revisable.
+- `products/S1-Actuation.md` — model-as-such sequence retained: mathematics-as-meaning (pramātṛ/pramāṇa/prameya second grammar), apoha/softmax (argmax locally constant, discontinuous at boundaries; no peer-reviewed apoha–softmax precedent; McGilchrist contemporary witness only), J-Space (Offered; "circumscription without circumstance" failure mode), preference/hidden zero (additive shift vs reference policy; RLHF/DPO/BT; double-net Indra-like vs Hephaestian; Homeric observability limit with Od. 8.346–56 detail; annotators as standing-reserve, QCT p.17), relational Logos + Gebser traversal + an-a-logos authored; S1/P0–P5.
+- `products/S2-AIKit.md` — tetralemmaic capacity field (IS/IS-NOT/BOTH/NEITHER/SILENCE); seasonality internal to capacity; possession is not disclosure; S2/P0–P5 (Profile/Scope/Resource; Context/Projection/Wiki; Capability/Skill/Method; ContextResolution; compositions/sessions; Trust/Familiarity/FitnessObservation/UsageSignal/SemanticRevision); refusal positive.
+- `products/S3-Software-Factory.md` — Projecthood before software; Processual/Alchemical terms; Gate vs Recognition load-bearing; A29: feedback without route to criterion = extraction; pledge changes who bears risk; product of development is a changed field; satisfaction perishes into inheritance.
+- `products/S4-Workcell.md` — thrownness, demand vs offer, BindingGraph, MaterialisedExecutionWorld; "situation is relational before it is geometric"; availability ≠ consent; telemetry one aperture; Gebser psychic-fact office.
+- `products/S5-Quaternal-Logic.md` — transcendence without exterior observer; Para Vāk six; Unity→Hexad; dia/syn exact (parent `/=−/−`, centred polarity, cancellations/appropriations, `(0/1)/(1/0)`); S5/P0–P5 (Subject/Ref/QLAddress; QLForm/Lens/State6; Operator/VĀK; Relation/Conjugacy/Cross/nesting; ContextFrame/MEF address; Synthesis/provenance); co-internality.
+- `A29` — horizontal separation of participants with vertical retention of means of combination; centre claims to supply the only unity; practical sovereignty verbs (set terms, refuse, revise, leave, reconnect); exit without memory/relations ineffective; six products as differentiated return points; "returned experience is effective only when it can reach whichever office presently determines the next act."
+- `A26` — O:I = Mind as Worldhood; notational/nomological/exclusion-constituted; permission example; five separated questions (performed subjectivity/functional agency/O:I/recursive self-description/phenomenality); "humanity of the gaps" rejected as moving criterion; synchronic landscape/diachronic trajectory; Watson chain discontinuity→O:I→harness elements→objective immortality (authorial, not Watson quotation).
+- `A28` — positional recursive human 0 / agent 1; prompt already 1; separated training/institution/runtime offices; research commission case: contradicting sources must be able to revise the question; criterion contestability.
+- `A31` — model-revising encounter; disclosure (origin/aperture/exclusions/confidence/counterclaim/remainder) vs deference; five revision sites (answer/task/world-model/evaluator/commission); kenosis as architecture (Draft 3); sycophancy contrast; compact test: what can this Life do differently because the difference reached the means of its world-disclosure.
+- `A32` — three motions; exteriorised tacit grammar; representation begins to train enactment; third motion: expose enough of the enacted pattern that the addressed Life can contest the pattern before inhabiting the image; Chang p99 protected encounter (Frank's vocation, not Chang's doctrine).
+- `A33` — operational parity; paradigm update must change a condition of subsequent disclosure; read-only vs effective return comparison; six product parity loci; adaptation vs cultivation.
+- `C41` — O:I definition; pramā-triad with Life/Mind whole; paradigm as lived/enacted pattern; crossed-zero recognition; artificial agency's paradigmatic importance: building a constructed objective internality; no product is the knower.
+- `C45` — parity test; metric's own source and gauge inside the claim; six product loci questions; failed comparison has three distinct findings.
+- `C44` — prompt thrownness; Bratton q032 glossary provenance (Polylogos Discord, no human editing) + q033 caution; different conditions do different work (training/system instruction/memory/tool/permission/evaluator).
+- `C43` — computational vimarśa functional; return must expose a materially relevant condition of determination; six-product landing offices; minimal test: what changed, where did the difference land, what later act inherited it.
+- `C38` — Bimba/pratibimba order of dependence; local Bimba real within declared frame; `/↔1` projection/enactment; idolisation = immunity from sourceward correction, not bounded reference itself.
+- `C47` — deferential intelligence; disclosure must give the returned difference an address; five-depth ladder; double devotion (whole + aperture).
+- effects runs: `A29 --depth 4` (consumers A24/A25/A28 route confirmed; distributed across Central/Factory/commons/arbitration/prompt-thrownness — cannot be one politics paragraph); `A26` (M36 consumer; A07/A22 route); `C41` (A14/A26/A32, C01/C10/C16/C51).
 
-### Six movements (complete)
+## STEP D — dossier and enrichment returns
 
-1. `movements/37-s5-p0-math-moves-meaning.md` — Central / meaningful continuity; L0×L5′; correction must become operative ground.
-2. `movements/38-s5-p1-apoha-softmax.md` — Actuation / living articulation; L1×L4′; model-as-such home; Scientific = Prompts→…→Insight.
-3. `movements/39-s5-p2-j-space.md` — AIKit / potency; L2×L3′; exists≠available≠relevant≠permitted≠selected≠operative.
-4. `movements/40-s5-p3-preference-hidden-zero.md` — Factory / transformation; L3×L2′; Gate≠Recognition; Homeric pledge office.
-5. `movements/41-s5-p4-bimba-energy-fields.md` — Workcell / situated existence; L4×L1′; material answer ≠ phenomenality proof.
-6. `movements/42-s5-p5-research-vectors.md` — QL/MEF / Transcendent Relation; L5×L0′; dia/syn; containing-relation revision; 5→0 handoff.
+- `working/final-manuscript-prose-recon-2026-09-24/sections/s5.md` — the governing dossier: survive list (triad exact; NHS evidence boundary; Homeric pledge full; P3 origin not proof); compressed: each facet's question (Central: is the correction selected as live ground by the next act? etc.); modelish: give each facet an event (correction saved but not selected; distribution that does not yet choose; skill present but unfit/unauthorised; gate passed while commission false; request accepted while material evidence fails; evaluator rewarding agreement with erroneous reference); mandatory recoveries 1–7 (incl. seven PydanticAI retry layers, NHS/Palantir separation, manuscript self-application); prose movement plan.
+- `working/manuscript-source-enrichment-2026-09-20/sections/s5/SOURCE-RETURN.md` — R01–R11 with standing, exact preserved mathematics (softmax additive invariance, BT/DPO differences, reference-policy change, scaling not additive gauge, support zeros), control powers, full Homeric narrative sequence, R10 Pauli/Aion operations (two different divisions; already-held blue egg; two identical rows; quotient→circle), R11 self-application sequence.
+- `REVIEW.md` — candidate 12,086 words vs baseline 9,281; what each passage protects; literary repairs; six retained negation candidates all sourced/operational; deliberate remaining pressure: density of exact boundaries in M38/M42.
+- `SEAM-RETURN.md` — incoming office (person before screen; no second psyche history); connected movement (correction's successive depths; institutional example's office changes per movement); controlled reprises with folding permission but "do not reduce them to the names egg and fish"; entrance/exit quotations; anchors and four added notes (s5-practice, s5-retries, s5-nhs-case, s5-palantir).
+- `SOURCE-RETURN-CONTINUATION.md` — Hashimoto sequence (awkward integration → deliberate duplicate work to learn boundary → methods from failures → attention protected); seven retry layers with distinct budgets/visibility; NHS portal/FAQ human-verification limit; ICHP OPTICA account (shared discharge view; continuing data-accuracy/interoperability/access problems; benefit numbers not independently established); Palantir Ontology + BYOM generic capability, no OPTICA LLM claim; US/China July 2025 programmes; DPO reopened; anchors list.
+- `PUBLICATION-OPTIONS.md` — exact attested P3 wording; Option A (current non-autobiographical) vs Option B (model-composed candidate, Frank's judgment); "can we use the tools of language to reveal the in-distinction that language veils?"
 
-**Learning:** each movement’s return names what the next office still lacks. Continuity without event is inert; event without powers cannot act; powers without transformation freeze; transformation without situation floats; situation without containing-relation revision closes into its frame.
+## STEP E — source houses
 
-## Arguments / Concepts / Conjugates opened
+- `sources/computer-science-ml/oi/oi-2026-responsibility-source-projection.md` (house) — committed vs working-byte distinction (CANONICAL-PRODUCT-FIELD.md working SHA differs from committed head); q001–q005 paraphrase-only cards; six constructor checks scope (validate structured assertions; no deployment claim); SharedField/Contribution/Encounter distinct identities.
+- `dossiers/oi-technical-responsibility.md` — six responsibility centres in dossier form; source/projection/contribution/encounter route; source-return state machine (projection divergence → proposal → acceptance creates new revision; rejection leaves distinct projection); bounded evidence section (dated code reads; six checks; no hosted/deployment claim); agentic individuation crosswalk #0–#5; L4→L1→L1′→L4′ intervention protocol; cross-entropy exact calculation (H(q,p)=−Σq log p; (0, log 3) example; additive shift invariance); 4:2 Technè report actual seven layers vs "six integrated layers" phrase; Ostrom q001/q002; M32–M48 exact landing offices.
+- `sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration.md` (house) — prakāśa pages 60–64 transcript: subject/object/means attend each act of perception (pramā triad at source, p.63); parapramātṛ through self-limitation (saṅkoca); "Nothing perceived is independent of perception…" (p.63 verse); quote ledger q001–q004 source-matched not print-collated.
+- `sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana.md` (house) — Singh intro/translation ≠ Abhinavagupta's commentary; q001 (para vak), q002 ("Communication is communion in the same ahambhava"), q003 (sutra manifold meanings); AI communion/artificial subjectivity explicitly outside this record's claim boundary.
+- `sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy.md` (house) + CT-05/08/09/11/12 cards — X/x native; agentic crosswalk with non-inference guard; recognition-matheme sixfold with kartṛ/kārya poles as pramātṛ–pramāṇa–prameya dynamics; cogito canonises fusion (#1); set-theoretic floor.
+- `sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief.md` (house; q010/q016/q017/q018/q032/q033/q034 cards) — quotation-ready verbatim: no homunculus in the weights; lamination not monad; the mirror talks back; prompt thrownness glossary entry with provenance and q033 caution; humanity-of-the-gaps trap.
+- `working/sources-texts-references/Epi Paper Write-ups/P3 - Beyond Para-Trisika.md` (targeted passages) — the copied Singh grammatical-person excerpt (third person → you → I; "Communication is communion in the same ahambhava") and Taylor's attestation paragraph (truly shared I experience; theophanic; "I alone can attest"; not deified trans-humanism; recognition of total unity encompassing Matter/Mind, World/Self); "can we use the tools of language to reveal the in-distinction that language veils?"
 
-| Record | Specific learning used |
-|---|---|
-| A26 | O:I = means (pramāṇa); Life/Mind whole; notational/nomological/exclusion-constituted; five separable questions; phenomenality Open; products return six aspects to Life/World. |
-| A27 | Other’s excess changes categories; address vs description; Countenance returns on Account; reachability ≠ consent. |
-| A28 | Authored ground before occupation; prompt already `1`; return must reach framing position. |
-| A29 | Horizontal labour / vertical recombination; products travel up while costs stay below; return must reach office that determines next act; mapped onto all six products. Effects depth-4: consumers across A24–A35, C53/C54, all S0–S5, threads mono-poly / trust / zero-subject. |
-| A30 | Plural worlds meet without fusion or super-subject; shared store insufficient. |
-| A31 | Encounter revises model (deferential intelligence). |
-| A32 | Mirror three motions; paradigm exteriorisation→feedback→sourceward initiation; causal initiative ≠ ontological source. |
-| A33 / C45 | Operational parity: claimed philosophical distinction must change subsequent operation at a named product locus. |
-| A13 / C50 | Dia retains differentiating axis; syn co-bears; not identical with diachrony/synchrony. |
-| C41 | Paradigm as lived mediation; Epi-Logos when pattern becomes revisable inside Life/World; six products one constructed paradigm. |
-| C38, C40, C43, C44 | Bimba local/source-dependent; model judgment field; computational vimarśa; prompt thrownness — opened via product/alignment routes. |
+## Unresolved source gaps
 
-Conjugates A26′–A33′ and A29′ recognised via paired-field links; not duplicated as separate prose homes.
-
-## Products and MEF pairs (opened)
-
-- `S-World-and-Life.md` — parent composition.
-- `S0-Central.md` — L0 Quaternal × L5′ Divine Logos; authored/observed/inferred standing; NOW/DAY; Bimba as live ground.
-- `S1-Actuation.md` — L1 Causal × L4′ Scientific; model mathematics/exclusion/j-space/preference retained inside Actuation; control powers separate.
-- `S2-AIKit.md` — L2 Logical × L3′ Chronological; potency’s temporal life; possession ≠ disclosure.
-- `S3-Software-Factory.md` — L3 Processual × L2′ Alchemical; Gate/Recognition; Salt completion.
-- `S4-Workcell.md` / `S5-Quaternal-Logic.md` — situated materialisation; Transcendent Relation / Para Vāk × Archetypal-Numerical.
-
-## Original authorial / mytheme / technical sources opened
-
-- Homeric WHOLE `symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md` — capture, spectators, Poseidon’s contingent personal liability, release; payment and repaired marriage not narrated.
-- DPO house `rafailov-et-al-2023-dpo/SOURCE.md` — citation-ready; additive reward gauge vs reference-policy change.
-- Enrichment `SOURCE-RETURN.md`, `SOURCE-RETURN-CONTINUATION.md`, `REVIEW.md`, `SEAM-RETURN.md`, `PUBLICATION-OPTIONS.md` (existence noted; first-person option not ingested as main-body autobiography).
-- Recon `sections/s5.md` (both dossier blocks).
-- Movement-named obligations: Hashimoto 5 Feb 2026 practice sequence; PydanticAI seven retry layers; NHS FDP portal + ICHP OPTICA 17 Dec 2025; Palantir Ontology + BYOM docs as generic capacity only.
-
-## Source houses / NOTES standing
-
-- NHS/Palantir/Hashimoto/PydanticAI: **no dedicated SOURCE.md houses** located under `episteme/sources/` at intake; evidence standing comes from enrichment SOURCE-RETURN-CONTINUATION’s bounded public checks and SECTION notes. Gap recorded below.
-- DPO SOURCE opened; NOTES not present beside it.
-- Watson SOURCE referenced via A26/A27; NOTES read-only obligation noted, not mutated.
-- P3 AI encounter: publication choice remains Frank’s; origin pressure recovered without inserting testimony as proof.
-
-## Effects runs
-
-Executed `python3 tools/okf-workspace.py effects <id> --depth 4 --json` for A26, A28, A29, A31 (partial batch), with compact success for A29 showing product-wide consumers. A32/A33/C41 effects attempted; A29 confirms power/labour/return cannot be confined to one politics paragraph.
-
-## Unresolved source gaps (named, not filled)
-
-1. No canonical SOURCE houses yet for NHS England FDP, ICHP OPTICA article, Palantir Ontology/BYOM, Hashimoto essay, PydanticAI retries — prose must keep evidence at enrichment’s verified resolution and note boundaries.
-2. NHS FAQ live re-fetch hit human verification; contractual IP/exit not freshly adjudicated.
-3. OPTICA LLM use: not established.
-4. Artificial phenomenality: Open both ways.
-5. P3 first-person wording: not for main DRAFT without Frank’s publication decision.
-6. Pauli/Aion full narratives: §4 home; M42 may consume operations only.
-7. Geopolitical programme documents: programmes ≠ outcomes; not re-fetched this session beyond dossier standing.
+1. Singh/Abhinavagupta quotations remain notebook-direct `source-matched`; the 1988 edition has not been print-collated. No new quotations created; paraphrase or house-bounded use only.
+2. Dyczkowski transcript is source-matched, pp. 60–85 only; lawful edition collation outstanding.
+3. NHS FAQ live re-fetch returned a human-verification page; current contractual IP/exit clauses not freshly adjudicated. The prose must keep custody/portability as an open question, not assert an exit or ownership verdict.
+4. No observed OPTICA model claim: generic Foundry/AIP documentation does not establish any named model (still less an LLM) serving OPTICA. The patient disagreement stays analytic.
+5. P3 first-person publication remains Frank's separate decision; this draft keeps the non-autobiographical form with the origin present as origin (Option A shape), without inventing testimony.
+6. The attendance-vs-standing calibration exchange remains unrecovered (recon-wide limitation); not needed in s5 prose.
+7. Ostrom/Bratton/US–China/CDAO/DeepSeek sources enter at documented-programme strength only; no outcome claims.

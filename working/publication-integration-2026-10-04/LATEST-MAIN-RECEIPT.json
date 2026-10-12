@@ -1,0 +1,19 @@
+{
+  "previous_local_main": "9918899f0bd0eb8fa9ff736d0f8ae92447161d6c",
+  "current_main": "3d199eb2bf83171873ee85cffa8d2769be390a63",
+  "received": [
+    {
+      "published_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/SOURCE.md",
+      "local_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-6174-ql-complete-mapping/taylor-2026-6174-ql-complete-mapping.md",
+      "preimage_sha256": null,
+      "postimage_sha256": "9505d32118524df0ae64e240b14b4959e935e2de7001af641bd51432411ecbe6"
+    },
+    {
+      "published_path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "local_path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "preimage_sha256": "0c19789111dbe77ce13cbf447d38a66dea84ed92a849a9a49fdc6bfa9865fd54",
+      "postimage_sha256": "ceec978a946dbd068414270e1904a173bcc2c099381975e7b3eaaa24c0fab8b6"
+    }
+  ],
+  "standing": "Received the newly published complete 6174 source and Matheme connection. Preserved source text and existing local authoring/migration."
+}

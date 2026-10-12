@@ -1,0 +1,110 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "before": "This is the exact local obstruction, not a judgment that every other possible use of a zero-denominator expression must be meaningless.",
+    "after": "Any further use of a zero-denominator expression must declare the operation it requests.",
+    "finding": "The field calculation already establishes the exact scope. Replace a repeated denial of universal meaninglessness with the positive condition on continuation."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "before": "Over complex coordinates the corresponding projective line can be represented as a sphere. [NIST's extended complex plane](../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md#nist-dlmf-2026-complex-variable-q001) supplies this one-point completion. A second coordinate $w=1/z$ makes the former infinity an ordinary local zero. The transformation changes how the point is described, not the fact that a chart has a domain. NIST's [cross-ratio result](../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md#nist-dlmf-2026-complex-variable-q002) names an invariant of bilinear transformations; it is not a licence to transfer every arithmetic law to every ideal point.",
+    "after": "Over complex coordinates the projective line can be represented as a sphere. For $z=u+iv$, send the finite point to\n\n$$\n\\frac{(2u,\\,2v,\\,u^2+v^2-1)}{1+u^2+v^2}.\n$$\n\nThe squared coordinates sum to one. The missing north pole $(0,0,1)$ receives the point at infinity; away from it, $(X+iY)/(1-Z)$ recovers $z$. [NIST's extended complex plane](../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md#nist-dlmf-2026-complex-variable-q001) locates this completion. A second chart uses $w=1/z$ on nonzero finite points and $w(\\infty)=0$. Infinity has become an ordinary local coordinate origin. Both the plane and sphere have two real local dimensions; the completion changes the global space rather than adding a local coordinate dimension.",
+    "finding": "Teach the sphere identification and its second chart instead of naming a completion and guarding it. The explicit domain avoids disguising an arithmetic evaluation as a coordinate definition."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "before": "A quotient performs a different identification. On the torus,",
+    "after": "A coordinate change can also preserve a relation among several points. For four distinct complex points away from the pole of $T(z)=(az+b)/(cz+d)$, with $ad-bc\\ne0$, define\n\n$$\nR(z_1,z_2,z_3,z_4)=\\frac{(z_1-z_3)(z_2-z_4)}{(z_1-z_4)(z_2-z_3)}.\n$$\n\nSince $T(z_i)-T(z_j)=(ad-bc)(z_i-z_j)/((cz_i+d)(cz_j+d))$, substitution cancels every introduced factor, giving the same $R$. [NIST's cross-ratio result](../sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md#nist-dlmf-2026-complex-variable-q002) thus supplies a precise invariant for bilinear changes. The transformed coordinates and the invariant have different offices.\n\nA quotient performs a different identification. On the torus,",
+    "finding": "Recover the cross-ratio operation that the inherited C52 invoked only by name. State the finite-point/pole/distinctness hypotheses and actual cancellation, avoiding unearned all-transformations invariance."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "before": "The witness gains its philosophical force through that specified operation.",
+    "after": "The result can therefore demand a further condition without losing the precision it already achieved.",
+    "finding": "Replace meta-commentary on a witness's force with its consequence."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "Paradox is the crisis and return of this relation, not another product beside its terms.",
+    "after": "Paradox acts through this relation as its crisis and return.",
+    "finding": "The positive appointment preserves the product count without introducing an otherwise uninvited seventh-product denial."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "Break precedes recognition in this traversal; recognition does not make the break never have occurred.",
+    "after": "Break precedes recognition in this traversal; the recognised relation retains the encounter which forced its reopening.",
+    "finding": "Replace awkward double-negation with the substantive retained event."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "A precise cut need not pretend to be the whole field.",
+    "after": "The precise cut retains its place within the whole field.",
+    "finding": "Positive restatement after the two actual cut/appropriation operations have been differentiated."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "Their participation in the whole is not their possession by me.",
+    "after": "Their participation in the whole includes this irreducible power of reply.",
+    "finding": "The preceding sentence already excludes my speaking another's answer in advance; end with the Other's positive office rather than repeating the denial."
+  },
+  {
+    "record": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "  - taylor-2026-advent-zero-subject\n",
+    "after": "  - taylor-2026-advent-zero-subject\n  - taylor-2026-symbolon-dynamics\n",
+    "reason": "Bind the complete direct symbolic-dynamical manuscript actually read, rather than making the external book house appear to generate the native x/X/x interpretation."
+  },
+  {
+    "record": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "If one pole takes both magnitudes as its own, the span is appropriated as $+2$ or $-2$ under that pole's rule. That is a changed accounting, not another valid sum of the original signed terms.",
+    "after": "The directed differences are $(-1)-(+1)=-2$ and $(+1)-(-1)=+2$. When one pole takes this doubled magnitude as its possession of the whole span, its accounting suppresses the common relation. Directed difference remains exact; it is not another sum of the original signed terms.",
+    "reason": "Restore the actual directed subtractions which earn the signed appropriation reading; retain the difference between exact arithmetic and the suppression of relation in its application."
+  },
+  {
+    "record": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "Taylor's [encounter with Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) develops the passage from the known through the unknown and back.",
+    "after": "[Symbolon Dynamics](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), developed through the [encounter with Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md), follows the passage from the known through the unknown and back.",
+    "reason": "Give the native generative development its direct source route while preserving the separate external encounter."
+  },
+  {
+    "record": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "before": "In Taylor's P5 development, perspective becomes context:",
+    "after": "In the authorial reading of Gebser, perspective becomes context:",
+    "reason": "Remove the internal P5 address from public argument; the exact P5 original remains identified in the source-scope ledger."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+    "before": "The agentic extension similarly asks whether a local formation becomes more legible in its histories, tools, exclusions, collaborators and purposes. [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares constituted agency and interaction surfaces, whose multiplication does not settle the number or presence of phenomenal subjects. Greater persona consistency can preserve a contraction; encountered difference must be able to alter its organisation for the proposed functional analogy to carry weight.\n\n",
+    "after": "",
+    "finding": "Remove the duplicate technological return and its machine-phenomenality diversion. The immediately preceding paragraph already carries the complete positive criterion of constituted dependence becoming legible and transformable."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+    "before": "The agentic extension asks the same operational question at a different grain:",
+    "after": "[Agentworld’s provisional individuation](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q017) gives the agentic extension its technical setting. The same operational question returns at that grain:",
+    "finding": "Keep the source route with the retained positive operation. The actual brief §§2.4–2.6, the direct Symbolon Dynamics manuscript and A21′ were read; the formulation remains an authorial extension, not a new deployment report."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+    "before": "[[symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE|Hatcher's source house]] sources the topology reference with exact passage locators still Open.",
+    "after": "[Hatcher's quotient and lifting constructions](../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md#hatcher-2002-algebraic-topology-p002) give the relation between a loop and its lifted path.",
+    "finding": "Remove a stale source-locality statement after the exact selected Hatcher passages were published; no broader textbook or quotation certification is implied."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+    "before": "[Hatcher](../../../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md) supplies the source route for quotient and covering theory; exact textbook passage collation remains open.",
+    "after": "[Hatcher's quotient and lifting constructions](../../../sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md#hatcher-2002-algebraic-topology-p002) supply the relation between a loop and its lifted path.",
+    "finding": "The history must receive the now-present selected source passages rather than carrying a superseded blanket collation debt; other historical tasks remain intact."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+    "before": "- **Relation:** supports the distinction among operations.\n",
+    "after": "- **Status:** paraphrase-only.\n- **Verification:** assistant, 2026-09-29; complete named section read directly as web text at the article URL; no OCR or quotation transcription.\n- **Source relation:** paraphrased.\n- **Evidential action:** supports.\n",
+    "finding": "The initial suite found missing per-passage provenance. Add the actual verifier, date, method, status and source relation to each card; global consultation prose was not sufficient for the source schema. No test or auditor changed."
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+    "before": "- **Relation:** qualifies an unrestricted preservation claim.\n",
+    "after": "- **Status:** paraphrase-only.\n- **Verification:** assistant, 2026-09-29; complete named section read directly as web text at the article URL; no OCR or quotation transcription.\n- **Source relation:** paraphrased.\n- **Evidential action:** qualifies.\n",
+    "finding": "The initial suite found missing per-passage provenance. Add the actual verifier, date, method, status and source relation to each card; global consultation prose was not sufficient for the source schema. No test or auditor changed."
+  }
+]

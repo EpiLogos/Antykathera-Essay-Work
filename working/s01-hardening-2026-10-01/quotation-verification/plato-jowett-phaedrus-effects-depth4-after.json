@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "plato-jowett-phaedrus",
+    "title": "Plato — Phaedrus (Jowett translation)",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/plato/plato-jowett-phaedrus/plato-jowett-phaedrus.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Plato — Phaedrus (Jowett translation)",
+      "Bibliographic identity and Chicago 18 forms",
+      "q001 — Two kinds and four divine forms",
+      "q002 — A distinction, not blanket praise",
+      "Rights and acquisition"
+    ],
+    "sha256": "b5f89835ad7a19333bc7f5cccec8329b7b668473e4d8f019ef1165d3e7c8213b",
+    "record_type": "translated-dialogue",
+    "citation_status": "citation-ready",
+    "quote_status": "paraphrase-only"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

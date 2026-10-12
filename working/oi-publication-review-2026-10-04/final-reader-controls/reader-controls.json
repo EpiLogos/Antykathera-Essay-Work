@@ -1,0 +1,104 @@
+[
+  {
+    "case": "vercel-1440",
+    "passed": true,
+    "dimensions": {
+      "viewport": 1440,
+      "document": 1440
+    },
+    "local_graph": {
+      "box": {
+        "x": 1206,
+        "y": 183,
+        "width": 213,
+        "height": 250
+      },
+      "colours": 38
+    },
+    "global_graph": {
+      "box": {
+        "x": 145,
+        "y": 188,
+        "width": 1152,
+        "height": 612
+      },
+      "colours": 48
+    },
+    "page_errors": []
+  },
+  {
+    "case": "vercel-1100",
+    "passed": false,
+    "error": "focus escaped modal",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 222, in main\n    evidence = controls(page, base, prefix, width, label)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 87, in controls\n    assert page.evaluate('document.querySelector(\"#essay-pages\").contains(document.activeElement)'), 'focus escaped modal'\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: focus escaped modal\n"
+  },
+  {
+    "case": "vercel-900",
+    "passed": false,
+    "error": "focus escaped modal",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 222, in main\n    evidence = controls(page, base, prefix, width, label)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 87, in controls\n    assert page.evaluate('document.querySelector(\"#essay-pages\").contains(document.activeElement)'), 'focus escaped modal'\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: focus escaped modal\n"
+  },
+  {
+    "case": "vercel-390",
+    "passed": false,
+    "error": "Locator expected to be visible\nActual value: hidden \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 5000ms\n  -   - waiting for locator(\"#essay-connections\").locator(\".toc\")\n  -     9 \u00d7 locator resolved to <div class=\"toc\">\u2026</div>\n  -       - unexpected value \"hidden\"\n",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 222, in main\n    evidence = controls(page, base, prefix, width, label)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 134, in controls\n    expect(connections.locator('.toc')).to_be_visible()\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/sync_api/_generated.py\", line 20256, in to_be_visible\n    self._sync(self._impl_obj.to_be_visible(visible=visible, timeout=timeout))\n    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_sync_base.py\", line 115, in _sync\n    return task.result()\n           ~~~~~~~~~~~^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 677, in to_be_visible\n    await self._expect_impl(\n    ...<4 lines>...\n    )\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 74, in _expect_impl\n    raise AssertionError(\n        f\"{out_message}\\nActual value: {actual} {format_call_log(result.get('log'))}\"\n    )\nAssertionError: Locator expected to be visible\nActual value: hidden \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 5000ms\n  -   - waiting for locator(\"#essay-connections\").locator(\".toc\")\n  -     9 \u00d7 locator resolved to <div class=\"toc\">\u2026</div>\n  -       - unexpected value \"hidden\"\n\n"
+  },
+  {
+    "case": "vercel-deep-routes-and-search",
+    "passed": false,
+    "error": "Locator expected to be visible\nActual value: <element(s) not found> \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 20000ms\n  -   - waiting for locator(\".pl\")\n",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 236, in main\n    evidence = deep_routes(page, base, prefix, mode)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 175, in deep_routes\n    expect(page.locator('.pl')).to_be_visible(timeout=20000)\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/sync_api/_generated.py\", line 20256, in to_be_visible\n    self._sync(self._impl_obj.to_be_visible(visible=visible, timeout=timeout))\n    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_sync_base.py\", line 115, in _sync\n    return task.result()\n           ~~~~~~~~~~~^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 677, in to_be_visible\n    await self._expect_impl(\n    ...<4 lines>...\n    )\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 74, in _expect_impl\n    raise AssertionError(\n        f\"{out_message}\\nActual value: {actual} {format_call_log(result.get('log'))}\"\n    )\nAssertionError: Locator expected to be visible\nActual value: <element(s) not found> \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 20000ms\n  -   - waiting for locator(\".pl\")\n\n"
+  },
+  {
+    "case": "pages-1440",
+    "passed": true,
+    "dimensions": {
+      "viewport": 1440,
+      "document": 1440
+    },
+    "local_graph": {
+      "box": {
+        "x": 1206,
+        "y": 183,
+        "width": 213,
+        "height": 250
+      },
+      "colours": 38
+    },
+    "global_graph": {
+      "box": {
+        "x": 145,
+        "y": 188,
+        "width": 1152,
+        "height": 612
+      },
+      "colours": 47
+    },
+    "page_errors": []
+  },
+  {
+    "case": "pages-1100",
+    "passed": false,
+    "error": "focus escaped modal",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 222, in main\n    evidence = controls(page, base, prefix, width, label)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 87, in controls\n    assert page.evaluate('document.querySelector(\"#essay-pages\").contains(document.activeElement)'), 'focus escaped modal'\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: focus escaped modal\n"
+  },
+  {
+    "case": "pages-900",
+    "passed": false,
+    "error": "focus escaped modal",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 222, in main\n    evidence = controls(page, base, prefix, width, label)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 87, in controls\n    assert page.evaluate('document.querySelector(\"#essay-pages\").contains(document.activeElement)'), 'focus escaped modal'\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: focus escaped modal\n"
+  },
+  {
+    "case": "pages-390",
+    "passed": false,
+    "error": "Locator expected to be visible\nActual value: hidden \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 5000ms\n  -   - waiting for locator(\"#essay-connections\").locator(\".toc\")\n  -     8 \u00d7 locator resolved to <div class=\"toc\">\u2026</div>\n  -       - unexpected value \"hidden\"\n",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 222, in main\n    evidence = controls(page, base, prefix, width, label)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 134, in controls\n    expect(connections.locator('.toc')).to_be_visible()\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/sync_api/_generated.py\", line 20256, in to_be_visible\n    self._sync(self._impl_obj.to_be_visible(visible=visible, timeout=timeout))\n    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_sync_base.py\", line 115, in _sync\n    return task.result()\n           ~~~~~~~~~~~^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 677, in to_be_visible\n    await self._expect_impl(\n    ...<4 lines>...\n    )\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 74, in _expect_impl\n    raise AssertionError(\n        f\"{out_message}\\nActual value: {actual} {format_call_log(result.get('log'))}\"\n    )\nAssertionError: Locator expected to be visible\nActual value: hidden \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 5000ms\n  -   - waiting for locator(\"#essay-connections\").locator(\".toc\")\n  -     8 \u00d7 locator resolved to <div class=\"toc\">\u2026</div>\n  -       - unexpected value \"hidden\"\n\n"
+  },
+  {
+    "case": "pages-deep-routes-and-search",
+    "passed": false,
+    "error": "Locator expected to be visible\nActual value: <element(s) not found> \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 20000ms\n  -   - waiting for locator(\".pl\")\n",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 236, in main\n    evidence = deep_routes(page, base, prefix, mode)\n  File \"/Users/admin/Central/Work/O-I/site/.publication-verification/site/tests/essay-reader-controls.py\", line 175, in deep_routes\n    expect(page.locator('.pl')).to_be_visible(timeout=20000)\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/sync_api/_generated.py\", line 20256, in to_be_visible\n    self._sync(self._impl_obj.to_be_visible(visible=visible, timeout=timeout))\n    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_sync_base.py\", line 115, in _sync\n    return task.result()\n           ~~~~~~~~~~~^^\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 677, in to_be_visible\n    await self._expect_impl(\n    ...<4 lines>...\n    )\n  File \"/Users/admin/Library/Python/3.14/lib/python/site-packages/playwright/_impl/_assertions.py\", line 74, in _expect_impl\n    raise AssertionError(\n        f\"{out_message}\\nActual value: {actual} {format_call_log(result.get('log'))}\"\n    )\nAssertionError: Locator expected to be visible\nActual value: <element(s) not found> \nCall log:\n  - LocatorAssertions.to_be_visible with timeout 20000ms\n  -   - waiting for locator(\".pl\")\n\n"
+  }
+]

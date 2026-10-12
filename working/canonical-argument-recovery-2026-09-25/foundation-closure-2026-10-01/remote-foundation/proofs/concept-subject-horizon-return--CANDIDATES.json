@@ -1,0 +1,32 @@
+[
+  {
+    "key": "C01",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/preimages/C01-Subject-Defined-Indefinability.md.txt",
+    "sha256": "7205c36f464a9dc6848c53ad19421341bf946a4a0e5629f436e0f1cb3213b678",
+    "status": "Independently accepted complete source/public operation; frozen NON-LIVE for parent inclusion",
+    "effects_depth": 4,
+    "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/effects/C01.json",
+    "returned_paths": 181,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/candidates/C01-Subject-Defined-Indefinability.md.txt",
+    "candidate_sha256": "7f5ef2bc2793f81f5ef89b4276e280d25e911157456ff22599b31553097885c9",
+    "native_matches_preimage": true,
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-SUBJECT-HORIZON-TWO-REVIEW.json",
+    "independent_review_sha256": "198aed80c8e387baea1883c9f6a8f50cf3d8cb114f1a8a21c31fdedbf149d654"
+  },
+  {
+    "key": "C15",
+    "native": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+    "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/preimages/C15-Pasu-Bounded-Subject-Position.md.txt",
+    "sha256": "30ee526178086804f2b15aeb001516d8ff3678c229d1fbaa67f2311de064d243",
+    "status": "Independently accepted complete source/public operation; frozen NON-LIVE for parent inclusion",
+    "effects_depth": 4,
+    "effects_before": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/effects/C15.json",
+    "returned_paths": 174,
+    "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/concept-subject-horizon-return/candidates/C15-Pasu-Bounded-Subject-Position.md.txt",
+    "candidate_sha256": "5c300d0883dc749410ebeb3de8f873af3010732672f61664175403d80cd11213",
+    "native_matches_preimage": true,
+    "independent_review": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-first-person-return/INDEPENDENT-CONCEPT-SUBJECT-HORIZON-TWO-REVIEW.json",
+    "independent_review_sha256": "198aed80c8e387baea1883c9f6a8f50cf3d8cb114f1a8a21c31fdedbf149d654"
+  }
+]

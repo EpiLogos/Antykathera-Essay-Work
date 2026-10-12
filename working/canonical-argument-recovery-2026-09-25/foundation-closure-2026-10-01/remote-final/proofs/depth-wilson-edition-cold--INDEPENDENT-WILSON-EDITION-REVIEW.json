@@ -1,0 +1,63 @@
+{
+  "reviewer": "depth_recovery; independent of parent author",
+  "native": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/SOURCE.md",
+  "preimage": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/SOURCE-before.md.txt",
+  "preimage_sha256": "a57a0a6d65772a5a83710653da6087babc878041e71a7472866b9cfc27eadf5c",
+  "candidate": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/SOURCE-candidate.md.txt",
+  "candidate_sha256": "62abec340459e2e24ae10b4a409f718763316da3041e77c4b461929f76e4475d",
+  "disposition": "Accepted: bounded complete edition-attribution/source-house operation.",
+  "whole_carrier_read": {
+    "original_lines": 103,
+    "final_lines": 105,
+    "scope": "Entire original and final SOURCE and full diff actually read; not a new whole SEP article reading."
+  },
+  "primary_actual_reads": [
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/official-fixed-archive.html",
+      "sha256": "ed262f09db8817ee82cac205330ecc7c9376abac0689747224f17aa690a24e6f",
+      "scope": "Fixed HTML head lines1–30, title/publication lines121–180, copyright and full author footer3490–3518. Initial attempted footer688–727 was article body; exact3490–3518 reopened before acceptance. Not all176778bytes semantically read."
+    },
+    {
+      "path": "/Users/admin/.codex/.chatgpt-projects/g-p-6a7c8bd48de08191b677b4d404f579a8/Antykathera-Essay-Work/working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/parent-wilson-edition-return/official-current-archive-citation.html",
+      "sha256": "9c4dc5a0496607e47cadeac4bc250cbd8341681d2ad33c3c5f0fc0d40eaca68a",
+      "scope": "Entire rendered dynamic archive citation page, metadata and complete edition/history entries actually read."
+    }
+  ],
+  "source_findings": [
+    {
+      "finding": "Fixed 2020 header and footer credit Wilson and Foglia; dates2011/2015.",
+      "disposition": "Two-author YAML, Chicago forms and edition-consulted attribution follow the article actually consulted."
+    },
+    {
+      "finding": "Presently generated Spring2020 citation lists all four names, while its change history associates Shapiro/Spaulding with rewritten2021 entry.",
+      "disposition": "Conflict is explicitly retained, not falsely described as unavailable or invalid retrieved data. The change binds article authorship separately from dynamic metadata."
+    }
+  ],
+  "retained_qualifications": [
+    {
+      "proposition": "The dynamic generator is an authentic official retrieved carrier but not sufficient to merge distinct edition authorship.",
+      "necessary_boundary": "Without fixed-edition attribution,2021 rewrite authors are falsely assigned to the2011/2015 text in2020 archive."
+    },
+    {
+      "proposition": "Existing passage quotations, locators, verification/readiness, id and consumers persist.",
+      "necessary_boundary": "This edition correction is not a new quotation collation or whole-body enaction/phenomenality acceptance."
+    },
+    {
+      "proposition": "Existing Essay-use transfer boundary remains unchanged and outside this narrow attribution repair.",
+      "necessary_boundary": "No blanket phenomenality guard acceptance, all-consumer acceptance or runtime conclusion inferred from bibliographic correctness."
+    }
+  ],
+  "exact_checks": {
+    "preimage": true,
+    "candidate": true,
+    "effects": true,
+    "official-fixed-archive.html": true,
+    "official-current-archive-citation.html": true,
+    "entire_passage_and_metadata_register_exact": true
+  },
+  "effects_depth": 4,
+  "effects_sha256": "9ab6849ff2a1c48ac444e0079a57864b0f2deac2ffc2bfdb258c4fb717418679",
+  "canonical_writes": 0,
+  "external_acquisition_upgrade": false,
+  "whole_article_or_receiver_acceptance": false
+}

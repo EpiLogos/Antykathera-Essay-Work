@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "jung-1976-symbolic-life-cw18",
+    "title": "Jung — The Symbolic Life: Miscellaneous Writings, CW 18 (consulted carrier)",
+    "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1976-symbolic-life-cw18/jung-1976-symbolic-life-cw18.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Jung — The Symbolic Life: Miscellaneous Writings, CW 18 (consulted carrier)",
+      "Bibliographic identity and actual carrier",
+      "Provenance and standing",
+      "Passages and excerpts",
+      "jung-1976-symbolic-life-cw18-p001 — Image and inaccessible original"
+    ],
+    "sha256": "3755cea2e96576350f987c8c5ad370e98b35ae4d22191be4f13704606aad2cc6",
+    "record_type": "book",
+    "citation_status": "citation-ready-for-identified-carrier",
+    "quote_status": "locator-verified; rights-provenance-unregistered; no-quotation-admitted"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": [],
+    "argument-maps": [],
+    "products": [],
+    "product-fields": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

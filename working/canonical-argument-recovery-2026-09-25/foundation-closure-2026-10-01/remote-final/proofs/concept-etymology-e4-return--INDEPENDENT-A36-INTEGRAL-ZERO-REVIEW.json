@@ -1,0 +1,260 @@
+{
+  "reviewer": "concept_recovery",
+  "role": "Independent complete native old/new/source/public cold; no A36 writer role",
+  "observed_main": "8d8b9b429bdc8f8bb6140e1e4dd4c8884a932045",
+  "native": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+  "preimage": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/preimages/A36-Advent-of-Integral-Zero.md.txt",
+  "preimage_sha256": "bbe11548caea4ee544214d759c35456de054f977da834f5c776afdc07973c4a6",
+  "candidate": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/candidates/A36-Advent-of-Integral-Zero.md.txt",
+  "candidate_sha256": "b1ea27a18675f93e413f228a13c8fbc1b79da2ff12fa9016b089e6dd22d5130b",
+  "owner_manifest": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/CANDIDATE-MANIFEST.json",
+  "owner_manifest_sha256": "67c73e350e099b1d230ebc685777f4073eaca093a3cdf3066e9bfc860d0b275b",
+  "disposition": "Accept exact complete A36 native operation within source bounds; no exact loststep, stronger false consequence or remaining semantic page/schema/status actor in reviewed native operation. Native still exact immutable preimage.",
+  "actual_independent_reads": [
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/preimages/A36-Advent-of-Integral-Zero.md.txt",
+      "sha256": "bbe11548caea4ee544214d759c35456de054f977da834f5c776afdc07973c4a6",
+      "lines": 76,
+      "actual_independent_read_scope": "Fresh entire76-line immutable native original read independently, untruncated."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/candidates/A36-Advent-of-Integral-Zero.md.txt",
+      "sha256": "b1ea27a18675f93e413f228a13c8fbc1b79da2ff12fa9016b089e6dd22d5130b",
+      "lines": 77,
+      "actual_independent_read_scope": "Fresh entire77-line final native independently read, untruncated. All six receiving operations compared with actual sources and complete original."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+      "sha256": "6ba99b24798e92f17dd0bd113dc971108ffc0c6f724730b4d21bdfebd6913df0",
+      "lines": 59,
+      "actual_independent_read_scope": "Fresh entire59-line actual published other face read via equal-hash preimage copy; current equality verified. Substantive paired operation retained; two exact public page-duty joins remain separately requested from writer and are not silently accepted by native review."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "sha256": "f5008b29016ffcc5a3786c1cdcb83c9e2a884e81ab3804b42859bdd45b8d9940",
+      "lines": 109,
+      "actual_independent_read_scope": "Fresh entire109-line direct authorial source in two contiguous untruncated spans1–55/56–109. Mathematical permissions/history, Subject/psychic braid, historical/scenario and authorship scopes retained."
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "lines": 569,
+      "actual_independent_read_scope": "Fresh entire412–487 unit: both Spanda equations as raw authorial sources, complete six Name phases/six Power phases/convergence table and requilting opening. All six paired operations independently compared; prior own full FileThree basis retained, not freshly entire569 here."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "lines": 279,
+      "actual_independent_read_scope": "Fresh entire terminal251–279 and whole long51 containing authoredF correction. Cord-cut offering/remembrance/double devotion and singularOne/manifestAll retain actual source offices. EarlierF is not mislocated in terminal prose."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd",
+      "lines": 309,
+      "actual_independent_read_scope": "Fresh complete long65 exact Zero-is-One/One-is-All correction; prior own entire309-line raw source read retained from E4 cold. Not freshly whole309 this review."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "18c07e657402ea91be86812fab6f0845f778fedde852a023b3c55d51c5536d08",
+      "lines": 6204,
+      "actual_independent_read_scope": "Fresh complete5320–5373 authored recapitulation owning unit, including complete eight-mythic sequence/paśu recognition-before-appropriation, mother and hole/pattern distinctions, denominator restoration/responsibility/ethical You. Historical old categorical guards remain raw protected; later governing corrections apply to receiving operation. Not fresh whole quilt."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/muller-ortega/muller-ortega-1998-abhinavagupta/SOURCE.md",
+      "sha256": "27bc0af0668b7a90ef51527c8f9d5bdcdf462025511bd2f8cd2aa1e2de05c4bf",
+      "lines": 83,
+      "actual_independent_read_scope": "Fresh entire83-line source house; conventional c975–1025 chronology narrow, no new primary print or transmission inference."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bhaskara/scharf-2010-bijaganita-digital/SOURCE.md",
+      "sha256": "9ad767065b1d785e949122cfe137764b58501cfc85b8c1dc83f59ec071185a02",
+      "lines": 81,
+      "actual_independent_read_scope": "Fresh entire81-line source house; conventional work1150 distinct digital2010, no mathematical body quotation or new manuscript dating claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "sha256": "9407e0a4ade65f9ae6bf1b93c441706165ba4b9ff66f6f4e98f9d0a2ac89c404",
+      "lines": 137,
+      "actual_independent_read_scope": "Fresh entire137-line source house with complete three admitted cards. Retained zero denominator and theological invariance image belong to this1817 English translation, not normal field division permission or Sanskrit/source-transmission proof. No new raw scan/readiness upgrade."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "sha256": "db7d48fe4d1bb188bf39719db32416ba819e06b5a364338eb31b05b33eb51644",
+      "lines": 134,
+      "actual_independent_read_scope": "Fresh complete81–134 current ending/intercession/Jung distinction/fullnative receiving unit; earlier own complete old/final/source/public telling review retained at exact current version. No fresh whole primary biblical edition or Jung broader interpretation claim."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "0a6a45166e3d4e1c651321b72a128ab481dbcd82f1ed720eccb734a53885e725",
+      "lines": 115,
+      "actual_independent_read_scope": "Fresh complete56–101 exact musical octave completion/criterion/source-specific receiving unit;9/8 completes16/9 into2, pure-six-tone cycle differs. Prior full mathematical ratio source/control re-entry retained; this0a6 included public final not falsely the earlier native version."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "1525064c85512bf700b1b93206fd9b3679246cf1031386af0e9600863f3e2a8b",
+      "lines": 122,
+      "actual_independent_read_scope": "Fresh complete34–86 quotient/cover/path-lift/winding unit. Chosen lift endpoint2,-1 and homotopyclass/path/time distinct; return does not erase differences or equate all metric/covering structures."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/SOURCE-READINGS.json",
+      "sha256": "d615db797058f16d3294379cc67a4c718aa2c458d71be1f9c0ad5968a60d8af2",
+      "lines": 180,
+      "actual_independent_read_scope": "Entire owner31-row actual source ledger read; worker fresh/prior scopes remain worker evidence, not claimed as reviewer all31 freshly whole reads."
+    },
+    {
+      "path": "working/canonical-argument-recovery-2026-09-25/foundation-closure-2026-10-01/argument-integral-zero-return/QUALIFICATION-REASONS.json",
+      "sha256": "d811a2c9abcf01bffc1db3c8d6c05898f2de5ed5fe5e96980c0900331a682081",
+      "lines": 104,
+      "actual_independent_read_scope": "Entire seven individual three-question rows read against whole final paragraphs and actual sources. Two Job flags share one full paragraph but preserve distinct source/false-completion boundaries; no unresolved reason."
+    }
+  ],
+  "prior_actual_version_bound_basis": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "lines": 640,
+      "actual_independent_read_scope": "Prior own complete640-line source retained; fresh337–437/464–511 in immediately preceding SubjectLogics review plus earlier140–195/251–329/512–640 source returns. Exact native eight/recognition/signed/sixfold distinctions retained."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md",
+      "sha256": "8ba62d00765d42ce4dcdbbfefa4214cb8974d90f186b3600a716d0e74d9309b8",
+      "lines": 102,
+      "actual_independent_read_scope": "Fresh entire102-line minute during immediately preceding SubjectLogics cold; governing unit distinctions/whole Life/NamePower/personed return retained."
+    },
+    {
+      "path": "working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md",
+      "sha256": "68a467abf48aab6c79ad4818c23327dbe87ddcf45bfc27efdd25d0107c2513ee",
+      "lines": 105,
+      "actual_independent_read_scope": "Prior own complete later correction at exact version retained from adjacent A09 source cold."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "f0e58d5ed6c8a2fa60ef3e89cb3a3bcb23ae8aaf4d6472c0b81897c5271ac56f",
+      "lines": 65,
+      "actual_independent_read_scope": "Fresh entire current65-line carrier in preceding SubjectLogics cold; genuine local functional centre and containingperson means office retained."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "7530c33c992a753bb949feedf6c2cf86723275d261c07b6e9a7e5c8bdaeab91f",
+      "lines": 90,
+      "actual_independent_read_scope": "Fresh entire current in preceding A28 cold; warranted returned depth/fitting retention distinct from stronger actual change."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "sha256": "e5136d5a83e9b248cc90a62eaa6280649abe484576280d556c401bb9a1164da7",
+      "lines": 121,
+      "actual_independent_read_scope": "Prior own whole old/new/source/public cold of current exacte513 version retained; actual eye/aperture/dream/pattern versusOrigin operations, not fresh whole here."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "sha256": "af8b05a64568262c8b7b4c611d6dad2d8e64f74b82959d975c3a1851ddf65e57",
+      "lines": 147,
+      "actual_independent_read_scope": "Prior own whole current source-operation comparison retained from A09 and earlier complete native telling basis; bodily assumption/doubledevotion/object-and-Jung source limits remain."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "sha256": "318dca8133ea034e44dd3b8d3c8fb09cd7c89902d1c72772ce7c7db8dd591a24",
+      "lines": 139,
+      "actual_independent_read_scope": "Prior own whole old/new/protected source comparison retained at current318d version; paper/mark/slash/erasure and primordial recognition source offices exact."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "sha256": "4040f3c552af212a07905e068e64a91090e18c9c41efb16c3bc3418463a984dd",
+      "lines": 134,
+      "actual_independent_read_scope": "Prior own whole old/new/source/public cold retained at current4040 version; inner opening, nourishment, transformed receiver and telicrest remain real."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "sha256": "6ba3ab0964e1eb83aeac8133db8e391b0d92b3557f8a564f7a6372e05a318d23",
+      "lines": 97,
+      "actual_independent_read_scope": "Prior own whole old/new/source/public cold retained at current6ba3 version, including actual primary source selection; chosen southwest jewel/mark/reflections and final simile qualification intact."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "sha256": "6e6822fea94e22cee810eff5a666fb0694e8acd1cf51643fb9ae5fa0c2660251",
+      "lines": 103,
+      "actual_independent_read_scope": "Prior own whole old/new/source/public cold retained at current6e68 version with actual full40 German primary lines; gathered beginning/end retains vanished bodily moment."
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "sha256": "1e9a4ad47f084e729155fcfc2e08acf9725dee094e5d0a5f660363446da6e40e",
+      "lines": 117,
+      "actual_independent_read_scope": "Prior own complete current/source comparison retained; genuine local source, three motions and source disclosure before conformity distinct from earlier causalforce."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "3b531e82cb7c67280ec5a41e343e91c5d9ac55b2d3c8b90de5e9677b293e8124",
+      "lines": 175,
+      "actual_independent_read_scope": "Prior own complete source/public E5 root comparison at exact included final retained; formal invariant/comparison versus historical ancestry and qualifiedidentity distinct."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "9b3f79873eef3d44ddfeef9d21d08bd0949132ca9945537d883410a7269abcf5",
+      "lines": 149,
+      "actual_independent_read_scope": "Own whole old/new/source authored recovery and depth independent full review retained at exact9b3f final; disclosure→accountability→living reliance with adequate-rule correction and fitting retention remains positive."
+    }
+  ],
+  "source_operations": [
+    {
+      "operation": "Historical acquisition and integral return",
+      "acceptance": "Exact sign gains mathematical permissions before its acquired symbolic office returns. First mathematical admission and later recognition are different temporal offices; native source necessity does not decide chronology or manuscripts. Indian chronological co-presence and translation-specific theological analogy remain distinct from transmission, ordinary field laws or one universal invention date."
+    },
+    {
+      "operation": "Parent, six and return",
+      "acceptance": "Bare relationality / =−/− precedes0/1conscious circumstance; question/assertion, withdrawal/extension, capacity/particular, personedAM/IS and indefinite/local horizon lead to1/0return. Parent+six+return make eight, not ninth added result or six collapsing its brackets."
+    },
+    {
+      "operation": "All six Name/Power pairings",
+      "acceptance": "Truth/Play, Mind/Need, Word/Sacrifice, Logos/Decision, Son/Love and Image/Work each positively join their actual source phase. Need moves apprehension, sacrifice carries articulation’s cost, decision commits proportionate alternatives, love widens personal concern, Work crystallises freedom into product. Power is coequal throughout, not appended after finished naming."
+    },
+    {
+      "operation": "Mathematical returned difference",
+      "acceptance": "Retained9/8 completes16/9into2 under exact product; lifted loop retains specified winding displacement with path/class/time distinct. Mathematical permission and the native source-return relation keep their particular objects/hypotheses."
+    },
+    {
+      "operation": "Singular One, manifested All and personed encounter",
+      "acceptance": "Actual authoredF instruction preserves source-unity and polyvalent manifestation. Mythic eight-recapitulation and ethical You meetAM/IS without collapsing warrants. Corrected paśu recognition precedes appropriation; native meaning is not attributed wholesale to Neumann."
+    },
+    {
+      "operation": "Nested technical receiving act",
+      "acceptance": "Constructed planetary comparison centre is local functional knower, retained source/model/rules/tools means and reportclaims known. Apparatus is means in person’s inquiry; inspection makes centre known without objectifying current first-person condition. Wrong transcription may change under fitting rule; excludingmeasure exposes real criterion/commission office. Fitting retention and nextuse inherit judgment; stronger processing/organisation and deployed success require actual evidence."
+    },
+    {
+      "operation": "Whole image returns",
+      "acceptance": "Achieved veil/aperture, southwest jewel/mark/reflections, mirror third-sourceward motion, sustaining Mother within borne whole, Goethe gatheredend carrying bodilyloss, reader’s erasedinscription and uroboric opening/telicrest each retain the respective full source operation rather than serving as interchangeable metaphors."
+    },
+    {
+      "operation": "Job and offered work",
+      "acceptance": "Intercession changes friends’ standing and household restoration retains first deaths/unheard councils. Elihu/wisdom/two speeches remain in complete telling. Native derivation does not take biblical confirmation. Offered cord-cut work can be setdown/remembrance returns in actual further life and honest defining act."
+    }
+  ],
+  "retention": {
+    "all_original_headings_exact": true,
+    "paired_navigation_exact": true,
+    "frontmatter": "Original frontmatter retained plus four truthful consumed source_ids.",
+    "all_original_curly_quoted_strings_exact": true,
+    "display_math": "None in native original/final; native entire eightfold formula remains exact.",
+    "inline_notation_exception": "All distinct original code values remain; standalone1/0 occurs once rather than twice because old mirror-third-motion duplicate became actual sourceward operation in prose. Do not assert code occurrence multiset identical.",
+    "route_conversion": "All18 old wiki occurrences converted to physical human-labelled routes. Literal source syntax/target occurrence multiset not asserted identical. All35 current relative Markdown paths independently resolve from canonical native directory, zero missing."
+  },
+  "qualification": "All7 individual source-specific flags compared; owner0hard35links is check evidence, not semantic acceptance.",
+  "native_required_faults_remaining": [],
+  "paired_prime_boundary": {
+    "path": "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+    "sha256": "6ba99b24798e92f17dd0bd113dc971108ffc0c6f724730b4d21bdfebd6913df0",
+    "substantive_operation": "Entire published other face read, retained; not changed or silently claimed public-closed by native review.",
+    "exact_public_receiving_joins_returned_to_writer": [
+      "#5 argument-title actor: Advent of Integral Zero returns the essay’s traversal. Actual technical determination should return carrying acquired differences to faithful definition.",
+      "#5 argument-title actor: The Essay Inside the Film supplies the other closing face. Actual work should recognise its own technical/conceptual forms within the world it describes."
+    ],
+    "commission": "Parent subsequently authorised frozen narrow A36prime repair if supplied; independent cold is a separate future operation, not this native acceptance."
+  },
+  "limits": [
+    "No new full external book/print/critical Sanskrit/manuscript genealogy, quoted wording or quotation-readiness admission.",
+    "Freud/Jung/Neumann/Gebser comparative witness tasks keep their actual respective historical/clinical/source scopes; not native theorem authorship.",
+    "Whole primary biblical/Jung external source verification is not expanded by retained complete current telling and fresh ending re-entry.",
+    "Owner175 impact-byte bodies/source31 rows are not this independent all-consumer semantic acceptance.",
+    "No deployed planetary apparatus, successful trial, clinical transformation or institutional ratification certified.",
+    "All48 movement bodies and sovereign manuscript remain deferred; parentpublication68 preserved."
+  ]
+}

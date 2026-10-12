@@ -1,0 +1,3 @@
+# Independent identity review
+
+Parent independently recomputed all three retained preimage/postimage SHA-256 values and removed precisely the one inserted record_id line from each postimage. Each full byte sequence equals its retained preimage. Actual unchanged AIKit parity tests now pass every path, exact single binding, set-aside, authored tag and filtered retrieval assertion. Stable IDs are descriptive, distinct and each occurs once in the canonical register. This is acceptance of identity-only additions, not a fresh semantic acceptance of every sentence in these carriers. Owner effects were captured at depth four before mutation. The final generated projections and their freshness remain separate checks in integration-checks.
