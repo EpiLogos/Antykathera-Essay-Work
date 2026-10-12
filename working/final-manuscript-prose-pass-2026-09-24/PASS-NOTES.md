@@ -1,5 +1,32 @@
 # Pass notes — composer prose 2026-09-24
 
+## Working principles (Frank-corrected, 24 Sep — load before further prose)
+
+Frank’s opening, as given:
+
+> What knows?
+>
+> Not a finished description. Every description falls short insofar as it “knows”. We can study the brain, recount a life, reconstruct how an answer was arrived at, or follow the steps by which an instrument reached its judgment, and what we know grows. Follow any thread far enough and you'll have to reach to the moon and back: as the account grows fuller, the demand to account for the world returns to the one who knows it. Completeness cannot sidestep the region in which the account settles; it depends on it more exactly. Our questions return with their answers; what's found doesn't settle the questioner.
+
+**The return lands on the knower, in the world.**
+
+A growing account sends the demand to account for the world back to the one who knows. The questioner stays unsettled by what is found. Description falls short in the respect in which it is treated as knowing.
+
+What the prior draft did instead, and what to stop doing:
+
+1. **Explained the mechanism.** “That description is itself something known / someone is understanding it / the activity has entered again” narrates an epistemic loop about accounts. The lived claim is already the shortfall and the return. Do not add a sentence that tells the reader how the insight works.
+2. **Made the account the hero.** Grammatical subjects were *the account*, *the activity*, *the question*, *completeness*. The terminus is a person in a place: the one who knows, the questioner, the region where the account settles.
+3. **Reified the knower in the question.** “What is it that knows?” posits an it. “What knows?” does not.
+4. **Listed inquiries as a concession before the twist.** The investigations belong in the same breath as their yield: what we know grows. The return is further, not a reversal that undercuts the growth.
+5. **Named the return instead of travelling it.** “The same return meets you” labels the movement. A reach with distance and cost (“moon and back”) carries it. Second person when the reader is the one who must go.
+6. **Closed on the question.** “The question returns with every answer” keeps the proposition in the subject seat. Close on the person: what’s found doesn’t settle the questioner. Questions travel with their answers; they do not dismiss the asker.
+
+**Intimacy, same family.** Fallibility takes a person as subject: “I may misremember,” “one might misremember a past event.” Content-as-subject modals (“a remembered event may have happened differently”) cool the knower into a side-effect. Keep event-subjects for history and structure; keep person-subjects for error, trust, refusal, recognition.
+
+**Rhythm, same family.** Short denial, then a sentence long enough to hold the inquiries and their yield, then the image that turns, then the placed dependence, then a two-beat close. Do not dash-compress a list into the negation. Do not briefing-open. Do not let “This gives…” certify a relation the scene should enact.
+
+Theorem, history, Mytheme, and O:I exactness stay. This principle changes address and landing, not the claim’s force.
+
 ## Round 1 — §0/1 (full)
 
 Rewrote the Integral Threshold as inhabited inquiry rather than venue briefing. Kept Subject theorem exactness (God definition by name-switch), Kripke/Descartes/Bohm material, and all note anchors. Cut machine cadence in the opening gather; delayed Agentworld until the question had already turned on the asker. M04 procession thinned so history serves the gift/danger of definition rather than a surname parade.
